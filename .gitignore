@@ -1,0 +1,38 @@
+# Build output
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+artifacts/
+*.user
+*.suo
+
+# IDE
+.vs/
+.idea/
+.vscode/
+
+# MAUI / mobile
+*.apk
+*.aab
+*.ipa
+*.keystore
+*.jks
+*.mobileprovision
+*.p12
+
+# Generated catalogue output (built by CI, never committed)
+catalogue/build/
+*.db
+*.db-shm
+*.db-wal
+*.zst
+
+# Secrets - never commit
+*.key
+secrets/
+.env
+
+# OS
+Thumbs.db
+.DS_Store
