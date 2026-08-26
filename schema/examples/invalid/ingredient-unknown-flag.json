@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "example-ingredient",
+  "name": "Example ingredient",
+  "category": "additive",
+  "flags": [
+    "definitely_unhealthy"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "community",
+      "retrieved_at": "2026-08-22"
+    }
+  ],
+  "provenance": {
+    "flags": {
+      "source": "s1",
+      "confidence": "low"
+    }
+  }
+}

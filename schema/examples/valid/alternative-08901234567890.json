@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "gtin": "08901234567890",
+  "alternatives": [
+    {
+      "gtin": "08901111111116",
+      "reasons": [
+        "lower_sugar",
+        "no_palm_derived"
+      ],
+      "note": "Curated because the computed ranking keeps preferring a product with a much smaller serving size."
+    }
+  ],
+  "blocked": [
+    "08902222222227"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "community",
+      "retrieved_at": "2026-08-24",
+      "note": "Manual review of computed suggestions."
+    }
+  ]
+}

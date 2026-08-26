@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Shared domain model. Referenced by the pipeline tools in tools/ and by the app in app/,
+    so the record shape can never drift between what the validator accepts, what the
+    catalogue builder writes and what the app reads.
+
+    This project deliberately has no dependencies beyond the base class library.
+  -->
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>Prana.Core</RootNamespace>
+    <AssemblyName>Prana.Core</AssemblyName>
+  </PropertyGroup>
+
+</Project>

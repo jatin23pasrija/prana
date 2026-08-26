@@ -1,0 +1,194 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prana.app/schema/common.schema.json",
+  "title": "Prana common definitions",
+  "description": "Shared building blocks referenced by every other Prana schema. Registered under this $id by the validator, which resolves it from schema/common.schema.json on disk.",
+
+  "$defs": {
+    "Gtin14": {
+      "type": "string",
+      "pattern": "^[0-9]{14}$",
+      "description": "Canonical product key. Every barcode format is zero-padded to 14 digits so the same product can never be stored twice under EAN-13 and UPC-A. The final digit is a check digit and is verified by the validator, not by this schema."
+    },
+
+    "PrintedBarcode": {
+      "type": "string",
+      "pattern": "^[0-9]{8,14}$",
+      "description": "The digits exactly as printed under the barcode on the packet, without padding, so the app can show the user what they are looking at."
+    },
+
+    "BarcodeFormat": {
+      "type": "string",
+      "enum": ["EAN-13", "EAN-8", "UPC-A", "UPC-E", "GTIN-14", "ITF-14"]
+    },
+
+    "Slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "maxLength": 80,
+      "description": "A stable machine identifier that references another record, for example a brand or a canonical ingredient. Lower case, hyphen separated."
+    },
+
+    "IsoDate": {
+      "type": "string",
+      "format": "date",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$",
+      "description": "Calendar date, YYYY-MM-DD. Times are deliberately not stored. Nothing in this project needs sub-day precision, and a date keeps diffs readable."
+    },
+
+    "CountryCode": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$",
+      "description": "ISO 3166-1 alpha-2."
+    },
+
+    "LanguageCode": {
+      "type": "string",
+      "pattern": "^[a-z]{2,3}$",
+      "description": "ISO 639-1 where one exists, otherwise ISO 639-3."
+    },
+
+    "LocalizedText": {
+      "type": "object",
+      "description": "Optional translations, keyed by language code. Empty until Phase 2. Canonical data stays language neutral, so nothing here is ever required for lookup or analysis.",
+      "propertyNames": { "$ref": "#/$defs/LanguageCode" },
+      "additionalProperties": { "type": "string", "minLength": 1, "maxLength": 300 }
+    },
+
+    "Unit": {
+      "type": "string",
+      "enum": ["g", "kg", "ml", "l", "piece"]
+    },
+
+    "Quantity": {
+      "type": "object",
+      "description": "A measured amount with an explicit unit. There is no default unit anywhere in this schema, because an implied unit is how a per-serving value silently becomes a per-100g value.",
+      "properties": {
+        "value": { "type": "number", "exclusiveMinimum": 0 },
+        "unit": { "$ref": "#/$defs/Unit" }
+      },
+      "required": ["value", "unit"],
+      "additionalProperties": false
+    },
+
+    "Confidence": {
+      "type": "string",
+      "enum": ["high", "medium", "low"],
+      "description": "How much the evidence supports the value. There is no unknown level here, because an unknown value is not recorded at all. See the unknown model in docs/PRODUCT_SCHEMA.md."
+    },
+
+    "SourceType": {
+      "type": "string",
+      "enum": [
+        "packaging",
+        "manufacturer",
+        "regulator",
+        "open_database",
+        "retailer",
+        "community"
+      ],
+      "description": "Ranked from most to least authoritative. packaging means a photograph of the actual packet. community means a contributor typed it in without an attachable artefact."
+    },
+
+    "Source": {
+      "type": "object",
+      "description": "One piece of evidence. Sources are declared once per record and referenced by id from the provenance map, so a single photograph of a nutrition panel is not repeated eleven times.",
+      "properties": {
+        "id": {
+          "type": "string",
+          "pattern": "^s[0-9]{1,3}$",
+          "description": "Record-local identifier, s1, s2 and so on. Not globally meaningful."
+        },
+        "type": { "$ref": "#/$defs/SourceType" },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^https://",
+          "description": "Where the evidence lives, when the source licence permits recording it. HTTPS only."
+        },
+        "retrieved_at": { "$ref": "#/$defs/IsoDate" },
+        "licence": {
+          "type": "string",
+          "maxLength": 80,
+          "description": "The licence the source data is under, as recorded in DATA_SOURCES.md. Required for anything imported, because it decides whether we may redistribute it."
+        },
+        "note": { "type": "string", "maxLength": 300 }
+      },
+      "required": ["id", "type", "retrieved_at"],
+      "additionalProperties": false
+    },
+
+    "ProvenancePath": {
+      "type": "string",
+      "pattern": "^[a-z_]+(\\[[0-9]+\\])?(\\.[a-z_0-9]+(\\[[0-9]+\\])?)*$",
+      "maxLength": 80,
+      "description": "A dotted path into this record, for example name, ingredients, nutrition[0], or nutrition[0].values.sugars_g. A path covers itself and everything beneath it."
+    },
+
+    "ProvenanceEntry": {
+      "type": "object",
+      "properties": {
+        "source": {
+          "type": "string",
+          "pattern": "^s[0-9]{1,3}$",
+          "description": "Id of an entry in this record sources array."
+        },
+        "confidence": { "$ref": "#/$defs/Confidence" },
+        "note": { "type": "string", "maxLength": 300 }
+      },
+      "required": ["source", "confidence"],
+      "additionalProperties": false
+    },
+
+    "Provenance": {
+      "type": "object",
+      "description": "Maps paths in this record to the evidence behind them. A path covers everything beneath it, so one entry for nutrition[0] backs the whole panel. The validator rejects any published value that no path covers, which is what keeps this map honest while contributions stay small.",
+      "propertyNames": { "$ref": "#/$defs/ProvenancePath" },
+      "additionalProperties": { "$ref": "#/$defs/ProvenanceEntry" },
+      "minProperties": 1
+    },
+
+    "Conflict": {
+      "type": "object",
+      "description": "A recorded disagreement between sources. Conflicts are never averaged away. They are stored, they lower confidence, and the app shows them.",
+      "properties": {
+        "path": { "$ref": "#/$defs/ProvenancePath" },
+        "values": {
+          "type": "array",
+          "minItems": 2,
+          "items": {
+            "type": "object",
+            "properties": {
+              "source": { "type": "string", "pattern": "^s[0-9]{1,3}$" },
+              "value": {},
+              "note": { "type": "string", "maxLength": 300 }
+            },
+            "required": ["source", "value"],
+            "additionalProperties": false
+          }
+        },
+        "resolution": {
+          "type": "string",
+          "enum": ["unresolved", "preferred_source", "human_decision"],
+          "description": "unresolved means the record must not be published as verified."
+        }
+      },
+      "required": ["path", "values", "resolution"],
+      "additionalProperties": false
+    },
+
+    "Verification": {
+      "type": "object",
+      "properties": {
+        "status": {
+          "type": "string",
+          "enum": ["verified", "unverified", "disputed"],
+          "description": "verified means evidence and validation both passed. unverified means it is in the repository but must not be presented as trusted. disputed means an unresolved conflict exists."
+        },
+        "last_verified": { "$ref": "#/$defs/IsoDate" }
+      },
+      "required": ["status", "last_verified"],
+      "additionalProperties": false
+    }
+  }
+}

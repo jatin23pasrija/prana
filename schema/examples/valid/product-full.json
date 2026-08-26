@@ -1,0 +1,163 @@
+{
+  "schema_version": 1,
+  "gtin": "08901234567890",
+  "barcode_printed": "8901234567890",
+  "barcode_format": "EAN-13",
+  "name": "Example Cream Biscuits, Chocolate",
+  "names": {},
+  "brand": "example-brand",
+  "category": "cream-biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 480,
+        "protein_g": 6,
+        "carbohydrate_g": 68,
+        "sugars_g": 18,
+        "fat_g": 20,
+        "saturated_fat_g": 10,
+        "fibre_g": 3,
+        "sodium_mg": 350
+      },
+      "not_declared": [
+        "added_sugars_g",
+        "trans_fat_g"
+      ]
+    },
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 biscuits",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 120,
+        "protein_g": 1.5,
+        "carbohydrate_g": 17,
+        "sugars_g": 4.5,
+        "fat_g": 5,
+        "saturated_fat_g": 2.5,
+        "sodium_mg": 88
+      }
+    }
+  ],
+  "ingredients_raw": "Refined wheat flour (45%), Sugar, Chocolate (Sugar, Cocoa butter, Cocoa solids), Palmolein oil, Invert syrup, Raising agents (503(ii), 500(ii)), Salt.",
+  "ingredients": [
+    {
+      "raw": "Refined wheat flour",
+      "canonical": "refined-wheat-flour",
+      "percentage": 45
+    },
+    {
+      "raw": "Sugar",
+      "canonical": "sugar"
+    },
+    {
+      "raw": "Chocolate",
+      "canonical": "chocolate",
+      "children": [
+        {
+          "raw": "Sugar",
+          "canonical": "sugar"
+        },
+        {
+          "raw": "Cocoa butter",
+          "canonical": "cocoa-butter"
+        },
+        {
+          "raw": "Cocoa solids",
+          "canonical": "cocoa-solids"
+        }
+      ]
+    },
+    {
+      "raw": "Palmolein oil",
+      "canonical": "palm-derived-oil"
+    },
+    {
+      "raw": "Invert syrup",
+      "canonical": "invert-syrup"
+    },
+    {
+      "raw": "Raising agents (503(ii), 500(ii))",
+      "children": [
+        {
+          "raw": "503(ii)",
+          "canonical": "ammonium-bicarbonate"
+        },
+        {
+          "raw": "500(ii)",
+          "canonical": "sodium-bicarbonate"
+        }
+      ]
+    },
+    {
+      "raw": "Salt",
+      "canonical": "salt"
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "packaging",
+      "retrieved_at": "2026-08-20",
+      "note": "Photograph of the nutrition panel and ingredient statement, taken by the contributor."
+    },
+    {
+      "id": "s2",
+      "type": "manufacturer",
+      "url": "https://example.invalid/products/cream-biscuits-chocolate",
+      "retrieved_at": "2026-08-21",
+      "licence": "unknown"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "ingredients": {
+      "source": "s1",
+      "confidence": "high",
+      "note": "Parsed from ingredients_raw. The raw statement remains the evidence."
+    },
+    "brand": {
+      "source": "s2",
+      "confidence": "high"
+    },
+    "category": {
+      "source": "s2",
+      "confidence": "medium",
+      "note": "Assigned from the manufacturer product listing, not stated on the packet."
+    }
+  },
+  "verification": {
+    "status": "verified",
+    "last_verified": "2026-08-21"
+  }
+}

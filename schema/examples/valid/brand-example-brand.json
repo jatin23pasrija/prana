@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "id": "example-brand",
+  "name": "Example Brand",
+  "names": {},
+  "aliases": [
+    "Example Brands",
+    "Example"
+  ],
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "packaging",
+      "retrieved_at": "2026-08-20"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "high"
+    }
+  }
+}

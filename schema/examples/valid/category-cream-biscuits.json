@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "cream-biscuits",
+  "name": "Cream biscuits",
+  "names": {},
+  "parent": "biscuits",
+  "substitutable_with": [
+    "biscuits",
+    "marie-biscuits",
+    "digestive-biscuits"
+  ],
+  "relevant_nutrients": [
+    "sugars_g",
+    "saturated_fat_g",
+    "fibre_g",
+    "protein_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100g"
+}

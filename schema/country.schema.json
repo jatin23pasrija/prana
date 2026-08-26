@@ -1,0 +1,37 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prana.app/schema/country.schema.json",
+  "title": "Prana country profile",
+  "description": "Country-specific labelling conventions, stored at data/countries/<code>.json. This is the file a fork replaces to target a different country, so it must contain everything that is country dependent and nothing that is not.",
+
+  "type": "object",
+  "properties": {
+    "schema_version": { "type": "integer", "const": 1 },
+    "code": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/CountryCode" },
+    "name": { "type": "string", "minLength": 2, "maxLength": 100 },
+    "barcode_prefixes": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "type": "string", "pattern": "^[0-9]{3}$" },
+      "description": "GS1 prefixes normally issued in this country, for example 890 for India. A hint for identification only. A prefix does not prove where a product was made, and it is never presented to the user as if it did."
+    },
+    "default_nutrition_basis": {
+      "type": "string",
+      "enum": ["per_100g", "per_100ml", "per_serving"],
+      "description": "What labels in this country normally declare. Used to warn about an unusual record, never to assume a missing basis."
+    },
+    "sodium_declared_as": {
+      "type": "string",
+      "enum": ["sodium", "salt", "both"],
+      "description": "Indian labels usually declare sodium, European labels usually declare salt. Converting between them is arithmetic we may only do when we know which one the packet stated."
+    },
+    "languages": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/LanguageCode" }
+    },
+    "notes": { "type": "string", "maxLength": 2000 }
+  },
+  "required": ["schema_version", "code", "name", "default_nutrition_basis", "sodium_declared_as"],
+  "additionalProperties": false
+}

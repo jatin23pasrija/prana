@@ -26,4 +26,12 @@
     <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
   </PropertyGroup>
 
+  <!--
+    xunit v3 runs on Microsoft.Testing.Platform. The .NET 10 SDK no longer bridges that to the
+    old VSTest runner, so dotnet test needs this opt-in to work at all.
+  -->
+  <PropertyGroup>
+    <TestingPlatformDotnetTestSupport>true</TestingPlatformDotnetTestSupport>
+  </PropertyGroup>
+
 </Project>

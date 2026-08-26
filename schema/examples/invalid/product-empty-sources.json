@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "gtin": "08901234567890",
+  "barcode_printed": "8901234567890",
+  "barcode_format": "EAN-13",
+  "name": "No sources at all",
+  "countries": [
+    "IN"
+  ],
+  "sources": [],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "high"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-20"
+  }
+}
