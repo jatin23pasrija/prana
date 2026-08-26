@@ -1,0 +1,124 @@
+name: Validate data
+
+# The gate that keeps bad data out of main.
+#
+# On a pull request only the changed records are checked, so feedback arrives in seconds even
+# when the catalogue is large. The whole tree is checked on merge and nightly, which is where
+# cross-record problems like a duplicate barcode actually become visible.
+
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "schema/**"
+      - "src/Prana.Core/**"
+      - "tools/Prana.Tools.Validator/**"
+      - ".github/workflows/validate-data.yml"
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "schema/**"
+      - "src/Prana.Core/**"
+      - "tools/Prana.Tools.Validator/**"
+  schedule:
+    # Catches records that have gone stale since they were merged.
+    - cron: "17 3 * * 1"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: validate-data-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    name: Validate records
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          # The full history is needed to diff a pull request against its base.
+          fetch-depth: 0
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          global-json-file: global.json
+
+      - name: Build the validator
+        run: dotnet build tools/Prana.Tools.Validator --configuration Release
+
+      - name: Work out what to check
+        id: scope
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            base="origin/${{ github.base_ref }}"
+            git fetch --no-tags --depth=1 origin "${{ github.base_ref }}" || true
+
+            # Renames and deletions are excluded: a deleted record has nothing left to validate.
+            changed=$(git diff --name-only --diff-filter=d "$base...HEAD" -- 'data/**/*.json' || true)
+
+            if [ -z "$changed" ]; then
+              echo "No data records changed. Checking the examples instead."
+              echo "paths=schema/examples" >> "$GITHUB_OUTPUT"
+            else
+              echo "Changed records:"
+              echo "$changed"
+              echo "paths=$(echo "$changed" | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+            fi
+          else
+            echo "paths=data schema/examples" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Validate
+        run: |
+          dotnet tools/Prana.Tools.Validator/bin/Release/net10.0/prana-validate.dll \
+            validate ${{ steps.scope.outputs.paths }} --format github
+
+  self-check:
+    name: The validator catches what it is meant to
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          global-json-file: global.json
+
+      - name: Build the validator
+        run: dotnet build tools/Prana.Tools.Validator --configuration Release
+
+      # A gate nobody tests is a gate that quietly stops working. Every record under
+      # schema/examples/invalid exists to prove one specific mistake is caught, so each is run
+      # individually and each must fail.
+      - name: Every invalid example is rejected
+        run: |
+          validator="dotnet tools/Prana.Tools.Validator/bin/Release/net10.0/prana-validate.dll"
+          failures=0
+
+          for file in schema/examples/invalid/*.json; do
+            if $validator validate "$file" > /dev/null 2>&1; then
+              echo "::error file=$file::This example is supposed to be rejected, but the validator accepted it."
+              failures=1
+            else
+              echo "rejected as expected: $(basename "$file")"
+            fi
+          done
+
+          exit $failures
+
+      - name: Every valid example is accepted
+        run: |
+          dotnet tools/Prana.Tools.Validator/bin/Release/net10.0/prana-validate.dll \
+            validate schema/examples/valid --format github
+
+      - name: Everything committed is in the canonical format
+        run: |
+          dotnet tools/Prana.Tools.Validator/bin/Release/net10.0/prana-validate.dll \
+            format data schema/examples --check
