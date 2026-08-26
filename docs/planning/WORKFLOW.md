@@ -84,7 +84,7 @@ workflow parses it. Changing that template means updating the parser in the same
 - Type: `feature`, `bug`, `data`, `docs`, `automation`, `security`.
 - Area: `app`, `catalogue`, `pipeline`, `ci`, `schema`.
 - State: `needs-discussion`, `ready`, `in-progress`, `blocked`, `needs-review`,
-  `needs-human-review`, `good-first-issue`.
+  `needs-human-review`, `good first issue`.
 - Phase: `phase-1` through `phase-4`.
 - Confidence, used by automation: `confidence-high`, `confidence-medium`, `confidence-low`.
 
@@ -99,6 +99,26 @@ Every feature issue belongs to exactly one.
 Single board, columns: `Backlog`, `Questions`, `Ready`, `In progress`, `In review`,
 `Testing`, `Done`. Exactly one feature is allowed in `In progress` at a time. That rule is
 what makes this a single-feature-at-a-time project rather than a wish list.
+
+## Repository setup
+
+Labels, milestones, feature issues, repository metadata, merge settings and branch protection
+are all created by [`scripts/setup-github.ps1`](../../scripts/setup-github.ps1). It is
+idempotent and it is what a fork should run first.
+
+`main` is protected by a repository ruleset with five rules:
+
+| Rule | Effect |
+|---|---|
+| Restrict deletions | `main` cannot be deleted |
+| Block force pushes | history cannot be rewritten |
+| Require linear history | merge commits are rejected, so every merge is a squash |
+| Require a pull request | no direct pushes, 0 required approvals, conversations must be resolved |
+| Require status checks | `Build and test` and `Repository hygiene` must pass |
+
+Zero required approvals is deliberate. With a single maintainer any other number would make
+`main` unmergeable. The gate that actually protects the branch is CI plus the pull request
+itself, not an approval count. This changes the moment there is a second maintainer.
 
 ## Continuous integration
 
