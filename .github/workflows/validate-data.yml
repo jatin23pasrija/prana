@@ -63,15 +63,27 @@ jobs:
             changed=$(git diff --name-only --diff-filter=d "$base...HEAD" -- 'data/**/*.json' || true)
 
             if [ -z "$changed" ]; then
-              echo "No data records changed. Checking the examples instead."
-              echo "paths=schema/examples" >> "$GITHUB_OUTPUT"
+              # Only the valid examples. schema/examples/invalid exists to be rejected, so
+              # feeding it to this job would fail the build on purpose-built bad records. Those
+              # are proved by the self-check job below.
+              echo "No data records changed. Checking the valid examples instead."
+              echo "paths=schema/examples/valid" >> "$GITHUB_OUTPUT"
             else
               echo "Changed records:"
               echo "$changed"
-              echo "paths=$(echo "$changed" | tr '\n' ' ')" >> "$GITHUB_OUTPUT"
+
+              # The reference records come along even when unchanged. Without them a product
+              # validated on its own can never resolve its brand, category or country, and every
+              # pull request would carry warnings that say nothing about the change.
+              refs=""
+              for dir in data/brands data/categories data/countries data/ingredients; do
+                [ -d "$dir" ] && refs="$refs $dir"
+              done
+
+              echo "paths=$(echo "$changed" | tr '\n' ' ')$refs" >> "$GITHUB_OUTPUT"
             fi
           else
-            echo "paths=data schema/examples" >> "$GITHUB_OUTPUT"
+            echo "paths=data schema/examples/valid" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Validate

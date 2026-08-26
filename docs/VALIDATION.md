@@ -195,6 +195,15 @@ only the small facts needed for cross-record rules are retained.
 **Validate records** checks the changed records on a pull request, and the whole tree on merge
 and on a weekly schedule. Findings appear as annotations on the exact line of the diff.
 
+The reference records in `data/brands`, `data/categories`, `data/countries` and
+`data/ingredients` are always included, even when unchanged. A product validated on its own
+cannot resolve its own brand or category, so without them every pull request would carry
+warnings that say nothing about the change. They are small, so this costs almost nothing.
+
+Note that `schema/examples/invalid` is never given to this job. Those records exist to be
+rejected, so validating them would fail the build on purpose-built bad data. Proving they are
+still caught is the second job's work.
+
 **The validator catches what it is meant to** runs every record in `schema/examples/invalid`
 individually and fails if any of them is accepted, then checks that everything in
 `schema/examples/valid` passes and that all committed records are in the canonical format. A gate
