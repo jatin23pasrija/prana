@@ -1,0 +1,43 @@
+Prana
+Copyright 2026 Jatin Pasrija and the Prana contributors.
+
+This product includes software developed as part of the Prana project
+(https://github.com/jatin23pasrija/prana).
+
+--------------------------------------------------------------------------------
+LICENCE SPLIT
+--------------------------------------------------------------------------------
+
+Source code, tooling, workflows and documentation prose in this repository are
+licensed under the Apache License, Version 2.0. See LICENSE.
+
+The product database, meaning the contents of data/ and every catalogue package
+built from it, is licensed under the Open Database License (ODbL) v1.0.
+See LICENSE-DATA.
+
+Individual content within the database, such as prose explanations, is licensed
+under Creative Commons Attribution-ShareAlike 4.0 International.
+
+--------------------------------------------------------------------------------
+THIRD-PARTY DATA ATTRIBUTION
+--------------------------------------------------------------------------------
+
+No third-party data has been imported yet. Every source added to the database
+must be recorded here and in DATA_SOURCES.md, with its licence, its attribution
+text and the date its usage decision was approved, before any record from it is
+merged.
+
+Format for each entry:
+
+  Source name
+    Licence:      <licence and version>
+    Attribution:  <exact attribution text required by the licence>
+    Approved:     <date and link to the approving pull request>
+    Scope:        <what was imported>
+
+--------------------------------------------------------------------------------
+THIRD-PARTY SOFTWARE ATTRIBUTION
+--------------------------------------------------------------------------------
+
+Third-party packages used by the application and tooling are declared in the
+project files. Their licences are recorded here as dependencies are added.

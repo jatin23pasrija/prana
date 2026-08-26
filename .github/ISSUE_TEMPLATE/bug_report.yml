@@ -1,0 +1,89 @@
+name: Bug report
+description: Something in the app, the tooling or the automation is broken.
+title: "[bug] <short description>"
+labels: ["bug", "needs-triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        If a nutrition value is wrong, that is a **product correction**, not a bug.
+
+        If this is a security problem, do not open an issue. Follow
+        [SECURITY.md](https://github.com/jatin23pasrija/prana/blob/main/SECURITY.md).
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: Where does it happen
+      options:
+        - Android app
+        - iOS app
+        - validator or catalogue builder
+        - GitHub Actions automation
+        - documentation
+        - not sure
+    validations:
+      required: true
+
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: What happened
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What you expected instead
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      placeholder: |
+        1. Open the app
+        2. Tap Scan Product
+        3. Scan barcode 8901234567890
+        4. The app closes
+      render: text
+    validations:
+      required: true
+
+  - type: input
+    id: versions
+    attributes:
+      label: App version and catalogue version
+      description: Shown in the app under Settings.
+      placeholder: "app 1.0.0, catalogue 105"
+    validations:
+      required: false
+
+  - type: input
+    id: device
+    attributes:
+      label: Device and OS version
+      placeholder: "Redmi Note 12, Android 14"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: connectivity
+    attributes:
+      label: Were you online
+      options:
+        - online, Wi-Fi
+        - online, mobile data
+        - offline
+        - not sure
+    validations:
+      required: false
+
+  - type: textarea
+    id: extra
+    attributes:
+      label: Screenshots, logs or anything else
+    validations:
+      required: false

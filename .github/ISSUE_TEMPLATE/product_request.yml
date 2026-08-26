@@ -1,0 +1,137 @@
+name: Product request
+description: A packaged product is missing from the catalogue. Ask for it to be added.
+title: "[product] <barcode> - <product name>"
+labels: ["data", "product-request", "needs-research"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for helping the catalogue grow.
+
+        You only need the barcode. Everything else is optional, and automation will try to
+        research the rest. Do not guess any number. If you do not know it, leave it blank.
+
+        This issue is public. Please do not include anything private.
+
+  - type: input
+    id: barcode
+    attributes:
+      label: Barcode
+      description: The number under the barcode on the packet. Digits only, no spaces.
+      placeholder: "8901234567890"
+    validations:
+      required: true
+
+  - type: input
+    id: product_name
+    attributes:
+      label: Product name
+      description: Exactly as printed on the front of the packet.
+      placeholder: "Example Cream Biscuits, Chocolate"
+    validations:
+      required: false
+
+  - type: input
+    id: brand
+    attributes:
+      label: Brand
+      placeholder: "Example Brand"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: country
+    attributes:
+      label: Country
+      description: Where the product is sold.
+      options:
+        - IN
+        - other
+      default: 0
+    validations:
+      required: true
+
+  - type: input
+    id: package_quantity
+    attributes:
+      label: Package quantity
+      description: Net weight or volume as printed, with the unit. For example 100 g or 250 ml.
+      placeholder: "100 g"
+    validations:
+      required: false
+
+  - type: dropdown
+    id: nutrition_basis
+    attributes:
+      label: Nutrition basis
+      description: >
+        What the nutrition panel on the packet is measured against. This matters. Never
+        convert per-serving values to per 100 g yourself.
+      options:
+        - not provided
+        - per 100 g
+        - per 100 ml
+        - per serving
+      default: 0
+    validations:
+      required: true
+
+  - type: textarea
+    id: nutrition
+    attributes:
+      label: Nutrition values
+      description: >
+        Copy the panel exactly as printed, one value per line. Leave out anything the packet
+        does not state. Do not calculate anything.
+      placeholder: |
+        energy 480 kcal
+        protein 6 g
+        carbohydrate 68 g
+        sugars 18 g
+        fat 20 g
+        saturated fat 10 g
+        fibre 3 g
+        sodium 350 mg
+      render: text
+    validations:
+      required: false
+
+  - type: textarea
+    id: ingredients
+    attributes:
+      label: Ingredient list
+      description: The exact wording from the packet, including brackets and percentages.
+      placeholder: "Refined wheat flour (45%), sugar, palmolein oil, cocoa solids, salt, raising agents"
+      render: text
+    validations:
+      required: false
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: >
+        A photo of the packet that you took yourself is the best evidence. You can drag it into
+        this box. A link to the manufacturer page also works. Please do not upload photos you
+        found on the internet.
+    validations:
+      required: false
+
+  - type: input
+    id: app_version
+    attributes:
+      label: App and catalogue version
+      description: Shown in the app under Settings. Leave blank if you are not using the app.
+      placeholder: "app 1.0.0, catalogue 105"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Please confirm
+      options:
+        - label: Everything I entered is copied from the packet or a cited source. I have not guessed any value.
+          required: true
+        - label: I agree that this contribution is licensed under ODbL 1.0, and any photo I attached is my own.
+          required: true
