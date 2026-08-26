@@ -1,0 +1,153 @@
+{
+  "schema_version": 1,
+  "gtin": "08902222222227",
+  "barcode_printed": "8902222222227",
+  "barcode_format": "EAN-13",
+  "name": "Example Fruit Drink, Mango",
+  "brand": "example-brand",
+  "category": "fruit-drinks",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100ml",
+      "values": {
+        "energy_kcal": 54,
+        "protein_g": 0,
+        "carbohydrate_g": 13.4,
+        "sugars_g": 13.1,
+        "fat_g": 0,
+        "sodium_mg": 12
+      },
+      "not_declared": [
+        "added_sugars_g",
+        "saturated_fat_g",
+        "trans_fat_g",
+        "fibre_g",
+        "energy_kj"
+      ]
+    }
+  ],
+  "ingredients_raw": "Water, Mango pulp (16%), Sugar, Acidity regulator (330), Antioxidant (300), Stabiliser (415).",
+  "ingredients": [
+    {
+      "raw": "Water",
+      "canonical": "water"
+    },
+    {
+      "raw": "Mango pulp",
+      "canonical": "mango-pulp",
+      "percentage": 16
+    },
+    {
+      "raw": "Sugar",
+      "canonical": "sugar"
+    },
+    {
+      "raw": "Acidity regulator (330)",
+      "children": [
+        {
+          "raw": "330",
+          "canonical": "citric-acid"
+        }
+      ]
+    },
+    {
+      "raw": "Antioxidant (300)",
+      "children": [
+        {
+          "raw": "300",
+          "canonical": "ascorbic-acid"
+        }
+      ]
+    },
+    {
+      "raw": "Stabiliser (415)",
+      "children": [
+        {
+          "raw": "415",
+          "canonical": "xanthan-gum"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "packaging",
+      "retrieved_at": "2026-08-18",
+      "note": "Photograph of a 200 ml carton."
+    },
+    {
+      "id": "s2",
+      "type": "open_database",
+      "url": "https://example.invalid/db/8902222222227",
+      "retrieved_at": "2026-08-19",
+      "licence": "ODbL-1.0"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "category": {
+      "source": "s2",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "nutrition[0].values.sugars_g": {
+      "source": "s1",
+      "confidence": "low",
+      "note": "The packaging photograph and the open database disagree. See conflicts."
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "ingredients": {
+      "source": "s1",
+      "confidence": "high"
+    }
+  },
+  "conflicts": [
+    {
+      "path": "nutrition[0].values.sugars_g",
+      "values": [
+        {
+          "source": "s1",
+          "value": 13.1,
+          "note": "Read from the packet photograph."
+        },
+        {
+          "source": "s2",
+          "value": 11.8,
+          "note": "Open database record, retrieval date unknown, possibly an older formulation."
+        }
+      ],
+      "resolution": "unresolved"
+    }
+  ],
+  "verification": {
+    "status": "disputed",
+    "last_verified": "2026-08-19"
+  }
+}

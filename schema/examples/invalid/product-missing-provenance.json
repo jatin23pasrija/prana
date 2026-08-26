@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "gtin": "08901234567890",
+  "barcode_printed": "8901234567890",
+  "barcode_format": "EAN-13",
+  "name": "Values with no evidence map at all",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "packaging",
+      "retrieved_at": "2026-08-20"
+    }
+  ],
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-20"
+  }
+}

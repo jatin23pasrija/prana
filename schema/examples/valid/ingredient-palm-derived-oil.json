@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "id": "palm-derived-oil",
+  "name": "Palm-derived oil",
+  "names": {},
+  "aliases": [
+    "palm oil",
+    "palmolein",
+    "palmolein oil",
+    "palm olein",
+    "refined palm oil",
+    "refined palmolein",
+    "vegetable oil (palm)",
+    "interesterified palm oil"
+  ],
+  "category": "oil",
+  "flags": [
+    "palm_derived"
+  ],
+  "explanation": "An edible oil pressed from the fruit of the oil palm. Indian labels write it many different ways, and the same packet may call it palmolein in one place and vegetable oil in another. Prana records that a palm-derived oil is listed. It does not record how much, because ingredient statements state order, not quantity.",
+  "country_notes": {
+    "IN": "Indian labelling commonly uses palmolein or palm olein rather than palm oil. A generic vegetable oil declaration may or may not be palm-derived, and is not flagged unless the packet says so."
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "type": "community",
+      "retrieved_at": "2026-08-22",
+      "note": "Alias list compiled from wordings seen on real Indian packaging."
+    }
+  ],
+  "provenance": {
+    "aliases": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "flags": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "explanation": {
+      "source": "s1",
+      "confidence": "high"
+    }
+  }
+}

@@ -219,3 +219,80 @@ mean guessing the format and reworking the data layer.
 
 **Consequence.** No visible app until M2. Progress in M0 and M1 is proven by CI and by a real
 downloadable catalogue release, not by screenshots.
+
+---
+
+### ADR-0017 - Canonical key is a zero-padded GTIN-14
+
+**Decision.** Every product is keyed by its barcode padded to 14 digits. The digits as printed
+are kept separately in `barcode_printed`. The check digit is verified before a barcode becomes
+a key. Products with no barcode are out of scope for Phase 1.
+
+**Rationale.** EAN-13, UPC-A, EAN-8 and GTIN-14 are one numbering scheme at different widths.
+A UPC-A code is the EAN-13 of the same product with the leading zero dropped. Keying on the
+printed digits would store one product under two keys, and no later deduplication would
+reliably merge them.
+
+**Consequence.** One implementation of this lives in `Prana.Core.Barcodes.Gtin` and is shared
+by the scanner, validator, importer and builder. The directory shard is the first three
+significant digits, taken after the padding, so records do not all pile into a `000` directory.
+
+---
+
+### ADR-0018 - Provenance by path coverage
+
+**Decision.** Sources are declared once per record. A provenance map points paths in the record
+at those sources, and a path covers everything beneath it. The validator rejects any published
+value that no path covers.
+
+**Rationale.** Per-field evidence objects cannot desync but roughly triple record size and make
+contributions painful. Flat values with no link to evidence allow a value with no evidence at
+all. Coverage gives the honest middle: one entry for `nutrition` genuinely reflects that the
+whole panel came from one photograph, while a disputed field can still be pinned to its own
+source by naming a more specific path.
+
+**Consequence.** The coverage rule is only as good as its enforcement, so the F03 validator must
+implement prefix matching before any bulk import runs. Without it this decision degrades into
+the flat option it was chosen over.
+
+---
+
+### ADR-0019 - Unknown has three states, none of them null
+
+**Decision.** A value is either declared, listed in `not_declared`, or absent. `null` is never
+written and `0` is never used to mean unknown.
+
+**Rationale.** "The packet does not state this" and "nobody has checked yet" are different
+facts. Collapsing them makes the app show a blank where it should show Unknown, and makes the
+research automation re-research the same gap forever.
+
+**Consequence.** JSON serialisation omits null properties, which the round-trip tests enforce.
+Every UI surface must render an absent value as Unknown rather than as empty or zero.
+
+---
+
+### ADR-0020 - Nutrition is an array of bases
+
+**Decision.** `nutrition` is a list of blocks, each carrying its own `basis`. Blocks are never
+merged and values are never converted between bases. A `per_serving` block requires a serving.
+
+**Rationale.** Indian packets commonly print per 100 g and per serving side by side, and those
+measure different things. A single value set would force a conversion that the label often does
+not support.
+
+**Consequence.** Every comparison feature, including the alternatives engine, must select a
+comparable basis rather than assuming one, and must handle a product that only declares
+per-serving values.
+
+---
+
+### ADR-0021 - Shared libraries live in src/
+
+**Decision.** `Prana.Core` and any future shared library live in `src/`, alongside `app/` and
+`tools/`.
+
+**Rationale.** The model is shared by the app and the pipeline tools, so it belongs in neither.
+The layout in the original project plan has no home for it.
+
+**Consequence.** A small documented deviation from the plan layout. `README.md` records it.
+

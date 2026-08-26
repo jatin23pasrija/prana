@@ -1,0 +1,213 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prana.app/schema/product.schema.json",
+  "title": "Prana product record",
+  "description": "One packaged product, stored at data/products/<first 3 digits of printed barcode>/<gtin>.json. This schema checks shape. Semantic rules such as check digits, saturated fat not exceeding total fat, and provenance coverage are enforced by the validator in F03.",
+
+  "type": "object",
+  "properties": {
+    "schema_version": {
+      "type": "integer",
+      "const": 1,
+      "description": "Bumped only by a migration. Records are migrated in bulk, never mixed."
+    },
+
+    "gtin": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Gtin14" },
+    "barcode_printed": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/PrintedBarcode" },
+    "barcode_format": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/BarcodeFormat" },
+
+    "name": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 200,
+      "description": "The product name exactly as printed on the front of the packet, including the variant. Not a cleaned-up or shortened version."
+    },
+    "names": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/LocalizedText" },
+
+    "brand": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Slug" },
+    "category": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Slug" },
+
+    "countries": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/CountryCode" },
+      "description": "Where the product is sold. India first, but the model is country aware from the start."
+    },
+
+    "package": {
+      "type": "object",
+      "description": "Net quantity as declared on the packet.",
+      "properties": {
+        "quantity": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Quantity" },
+        "multipack_count": {
+          "type": "integer",
+          "minimum": 2,
+          "description": "Present only when the packet contains several individually wrapped units and says so."
+        }
+      },
+      "required": ["quantity"],
+      "additionalProperties": false
+    },
+
+    "nutrition": {
+      "type": "array",
+      "description": "One block per basis printed on the packet. Blocks are never merged and values are never converted between them. A packet that prints both per 100 g and per serving produces two blocks.",
+      "minItems": 1,
+      "maxItems": 4,
+      "items": { "$ref": "#/$defs/NutritionBlock" }
+    },
+
+    "ingredients_raw": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 4000,
+      "description": "The complete ingredient statement copied verbatim from the packet, brackets and percentages included. This is the evidence. The parsed tree below is derived from it and may be rebuilt at any time."
+    },
+
+    "ingredients": {
+      "type": "array",
+      "description": "The parsed ingredient tree, in declared order. Order carries meaning on a label, so it is preserved exactly.",
+      "items": { "$ref": "#/$defs/Ingredient" }
+    },
+
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Source" }
+    },
+
+    "provenance": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Provenance" },
+
+    "conflicts": {
+      "type": "array",
+      "items": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Conflict" }
+    },
+
+    "verification": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Verification" }
+  },
+
+  "required": [
+    "schema_version",
+    "gtin",
+    "barcode_printed",
+    "barcode_format",
+    "name",
+    "countries",
+    "sources",
+    "provenance",
+    "verification"
+  ],
+  "additionalProperties": false,
+
+  "$defs": {
+    "NutrientField": {
+      "type": "string",
+      "enum": [
+        "energy_kcal",
+        "energy_kj",
+        "protein_g",
+        "carbohydrate_g",
+        "sugars_g",
+        "added_sugars_g",
+        "fat_g",
+        "saturated_fat_g",
+        "trans_fat_g",
+        "fibre_g",
+        "sodium_mg"
+      ],
+      "description": "The closed set of nutrients Phase 1 understands. The unit is part of the field name so a value can never be stored without one. Extending this list is a schema migration, not a data change."
+    },
+
+    "NutritionValues": {
+      "type": "object",
+      "description": "Values declared on the packet for this basis. A nutrient that is absent here is either not declared or not yet researched, and the two cases are distinguished by the not_declared list. Never write a zero to mean unknown.",
+      "properties": {
+        "energy_kcal": { "type": "number", "minimum": 0, "maximum": 1000 },
+        "energy_kj": { "type": "number", "minimum": 0, "maximum": 4200 },
+        "protein_g": { "type": "number", "minimum": 0, "maximum": 100 },
+        "carbohydrate_g": { "type": "number", "minimum": 0, "maximum": 100 },
+        "sugars_g": { "type": "number", "minimum": 0, "maximum": 100 },
+        "added_sugars_g": { "type": "number", "minimum": 0, "maximum": 100 },
+        "fat_g": { "type": "number", "minimum": 0, "maximum": 100 },
+        "saturated_fat_g": { "type": "number", "minimum": 0, "maximum": 100 },
+        "trans_fat_g": { "type": "number", "minimum": 0, "maximum": 100 },
+        "fibre_g": { "type": "number", "minimum": 0, "maximum": 100 },
+        "sodium_mg": { "type": "number", "minimum": 0, "maximum": 40000 }
+      },
+      "additionalProperties": false,
+      "minProperties": 1
+    },
+
+    "NutritionBlock": {
+      "type": "object",
+      "properties": {
+        "basis": {
+          "type": "string",
+          "enum": ["per_100g", "per_100ml", "per_serving", "per_package"],
+          "description": "What the values are measured against. This is required, always, and is shown to the user with the numbers."
+        },
+        "serving": {
+          "type": "object",
+          "description": "Required when basis is per_serving. Without a serving mass a per-serving value can never be compared with anything, so we record what the packet says rather than guessing.",
+          "properties": {
+            "description": {
+              "type": "string",
+              "minLength": 1,
+              "maxLength": 100,
+              "description": "As printed, for example 2 biscuits or 1 cup."
+            },
+            "quantity": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Quantity" }
+          },
+          "required": ["description"],
+          "additionalProperties": false
+        },
+        "values": { "$ref": "#/$defs/NutritionValues" },
+        "not_declared": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": { "$ref": "#/$defs/NutrientField" },
+          "description": "Nutrients we have looked for on this panel and confirmed the packet does not state. This is the difference between checked and absent, and it stops the research automation from re-researching the same gap forever."
+        }
+      },
+      "required": ["basis", "values"],
+      "additionalProperties": false,
+      "allOf": [
+        {
+          "if": { "properties": { "basis": { "const": "per_serving" } }, "required": ["basis"] },
+          "then": { "required": ["serving"] }
+        }
+      ]
+    },
+
+    "Ingredient": {
+      "type": "object",
+      "description": "One ingredient as declared. Nesting is preserved because a label that says chocolate contains sugar is not the same statement as a flat list containing both.",
+      "properties": {
+        "raw": {
+          "type": "string",
+          "minLength": 1,
+          "maxLength": 300,
+          "description": "The exact wording from the packet for this ingredient. Never normalised, never corrected."
+        },
+        "canonical": {
+          "$ref": "https://prana.app/schema/common.schema.json#/$defs/Slug",
+          "description": "Reference to a record in data/ingredients. Absent when the raw text has not been matched to a canonical ingredient yet, which is a normal state, not an error."
+        },
+        "percentage": {
+          "type": "number",
+          "exclusiveMinimum": 0,
+          "maximum": 100,
+          "description": "Only when the packet declares a percentage for this ingredient. Never derived, never estimated."
+        },
+        "children": {
+          "type": "array",
+          "items": { "$ref": "#/$defs/Ingredient" },
+          "description": "Sub-ingredients declared inside brackets."
+        }
+      },
+      "required": ["raw"],
+      "additionalProperties": false
+    }
+  }
+}

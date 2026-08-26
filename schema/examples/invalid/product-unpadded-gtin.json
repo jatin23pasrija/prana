@@ -1,0 +1,27 @@
+{
+  "schema_version": 1,
+  "gtin": "8901234567890",
+  "barcode_printed": "8901234567890",
+  "barcode_format": "EAN-13",
+  "name": "EAN-13 stored without zero padding to GTIN-14",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "packaging",
+      "retrieved_at": "2026-08-20"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "high"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-20"
+  }
+}

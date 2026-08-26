@@ -31,30 +31,18 @@ jobs:
         with:
           global-json-file: global.json
 
-      - name: Check for projects
-        id: projects
-        run: |
-          if find . -name '*.csproj' -not -path './app/*' | grep -q .; then
-            echo "found=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "found=false" >> "$GITHUB_OUTPUT"
-            echo "No projects outside app/ yet. Nothing to build."
-          fi
-
       - name: Restore
-        if: steps.projects.outputs.found == 'true'
         run: dotnet restore Prana.sln
 
       - name: Build
-        if: steps.projects.outputs.found == 'true'
         run: dotnet build Prana.sln --no-restore --configuration Release -p:ContinuousIntegrationBuild=true
 
+      # xunit v3 runs on Microsoft.Testing.Platform, selected by the "test" section in
+      # global.json. That runner takes the solution by flag rather than as an argument.
       - name: Test
-        if: steps.projects.outputs.found == 'true'
-        run: dotnet test Prana.sln --no-build --configuration Release --verbosity normal
+        run: dotnet test --solution Prana.sln --configuration Release --no-build
 
       - name: Check formatting
-        if: steps.projects.outputs.found == 'true'
         run: dotnet format Prana.sln --verify-no-changes --no-restore
 
   hygiene:

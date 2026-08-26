@@ -1,0 +1,43 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prana.app/schema/category.schema.json",
+  "title": "Prana category",
+  "description": "A product category, stored at data/categories/<id>.json. Categories exist mainly so the alternatives engine can tell what a reasonable substitute is. A biscuit is not a substitute for a cooking oil, however favourable its numbers look.",
+
+  "type": "object",
+  "properties": {
+    "schema_version": { "type": "integer", "const": 1 },
+    "id": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Slug" },
+    "name": { "type": "string", "minLength": 2, "maxLength": 100 },
+    "names": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/LocalizedText" },
+    "parent": {
+      "$ref": "https://prana.app/schema/common.schema.json#/$defs/Slug",
+      "description": "Parent category id. Absent for a top-level category. Cycles are rejected by the validator."
+    },
+    "substitutable_with": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Slug" },
+      "description": "Other categories whose products can reasonably replace this one in the same use. This is the constraint that keeps alternatives sensible, and it is deliberately conservative."
+    },
+    "relevant_nutrients": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "energy_kcal", "energy_kj", "protein_g", "carbohydrate_g", "sugars_g",
+          "added_sugars_g", "fat_g", "saturated_fat_g", "trans_fat_g", "fibre_g", "sodium_mg"
+        ]
+      },
+      "description": "The nutrients worth comparing within this category. Sodium matters for a namkeen, sugar matters for a biscuit, and comparing everything on everything produces noise."
+    },
+    "typical_basis": {
+      "type": "string",
+      "enum": ["per_100g", "per_100ml"],
+      "description": "Whether products in this category are normally compared by weight or by volume."
+    }
+  },
+  "required": ["schema_version", "id", "name", "typical_basis"],
+  "additionalProperties": false
+}

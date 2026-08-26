@@ -1,0 +1,28 @@
+{
+  "schema_version": 1,
+  "gtin": "08901111111116",
+  "barcode_printed": "8901111111116",
+  "barcode_format": "EAN-13",
+  "name": "Example Plain Rusk",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "community",
+      "retrieved_at": "2026-08-25",
+      "note": "Barcode and front-of-pack name submitted from the app. Nothing else has been researched yet."
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-25"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prana.app/schema/ingredient.schema.json",
+  "title": "Prana canonical ingredient",
+  "description": "One canonical ingredient with its aliases, stored at data/ingredients/<id>.json. This is what turns palmolein oil, palm olein and refined palm oil on three different packets into one flag the app can reason about.",
+
+  "type": "object",
+  "properties": {
+    "schema_version": { "type": "integer", "const": 1 },
+
+    "id": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Slug" },
+
+    "name": {
+      "type": "string",
+      "minLength": 2,
+      "maxLength": 100,
+      "description": "Display name in English."
+    },
+    "names": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/LocalizedText" },
+
+    "aliases": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "type": "string", "minLength": 2, "maxLength": 200 },
+      "description": "Label wordings that mean this ingredient. Matching is case and whitespace insensitive, so aliases are stored in their natural form. Add an alias when you see it on a real packet, not speculatively."
+    },
+
+    "category": {
+      "type": "string",
+      "enum": [
+        "oil",
+        "sweetener",
+        "flour",
+        "dairy",
+        "protein",
+        "additive",
+        "colour",
+        "flavour",
+        "preservative",
+        "emulsifier",
+        "raising_agent",
+        "salt",
+        "spice",
+        "fruit_vegetable",
+        "grain",
+        "nut_seed",
+        "water",
+        "other"
+      ]
+    },
+
+    "flags": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "enum": [
+          "palm_derived",
+          "added_sugar",
+          "artificial_sweetener",
+          "artificial_colour",
+          "preservative",
+          "trans_fat_risk",
+          "common_allergen",
+          "animal_derived",
+          "may_be_animal_derived"
+        ]
+      },
+      "description": "Attributes the app can surface. may_be_animal_derived exists because some additives are made from either plant or animal sources and the label does not say which. Recording the uncertainty is the honest answer."
+    },
+
+    "explanation": {
+      "type": "string",
+      "maxLength": 600,
+      "description": "Plain English, factual, no health verdict. Explain what it is and why it is on the label, not whether it is good for you."
+    },
+
+    "country_notes": {
+      "type": "object",
+      "description": "Where labelling convention or regulation differs by country.",
+      "propertyNames": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/CountryCode" },
+      "additionalProperties": { "type": "string", "maxLength": 600 }
+    },
+
+    "sources": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Source" }
+    },
+
+    "provenance": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Provenance" }
+  },
+
+  "required": ["schema_version", "id", "name", "category", "sources", "provenance"],
+  "additionalProperties": false
+}

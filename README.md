@@ -140,9 +140,10 @@ The app never carries a GitHub token. It cannot write to this repository, by des
 | [DATA_SOURCES.md](DATA_SOURCES.md) | Every data source, its licence and our usage decision |
 | [GOVERNANCE.md](GOVERNANCE.md) | Who decides what, and how you become a maintainer |
 | [SECURITY.md](SECURITY.md) | Reporting a vulnerability, and how releases are signed |
+| [PRODUCT_SCHEMA.md](docs/PRODUCT_SCHEMA.md) | The canonical product data specification |
 
-Specifications arriving with their features: `PRODUCT_SCHEMA.md` (F02),
-`CATALOGUE_FORMAT.md` (F05), `RESEARCH_PIPELINE.md` (F14).
+Specifications arriving with their features: `CATALOGUE_FORMAT.md` (F05),
+`RESEARCH_PIPELINE.md` (F14).
 
 ## Install the app
 

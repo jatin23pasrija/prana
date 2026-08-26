@@ -1,0 +1,22 @@
+<Project>
+
+  <!--
+    Central package management. Versions are declared here once and referenced without a
+    version everywhere else, so the app, the tools and the tests can never drift onto
+    different versions of the same library.
+  -->
+
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- JSON Schema validation. Used by the F02 schema tests and by the F03 validator. -->
+    <PackageVersion Include="JsonSchema.Net" Version="9.4.0" />
+  </ItemGroup>
+
+  <ItemGroup Label="Testing">
+    <PackageVersion Include="xunit.v3" Version="4.0.0" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,56 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prana.app/schema/alternative.schema.json",
+  "title": "Prana curated alternative",
+  "description": "A hand-curated substitution, stored at data/alternatives/<gtin>.json. The alternatives engine in F15 computes suggestions from the catalogue on the device. These records exist only for the cases where computation gets it wrong, or where a person knows something the numbers do not show.",
+
+  "type": "object",
+  "properties": {
+    "schema_version": { "type": "integer", "const": 1 },
+    "gtin": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Gtin14" },
+    "alternatives": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "properties": {
+          "gtin": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Gtin14" },
+          "reasons": {
+            "type": "array",
+            "minItems": 1,
+            "uniqueItems": true,
+            "items": {
+              "type": "string",
+              "enum": [
+                "lower_sugar",
+                "lower_saturated_fat",
+                "lower_sodium",
+                "lower_trans_fat",
+                "higher_protein",
+                "higher_fibre",
+                "no_palm_derived",
+                "fewer_additives"
+              ]
+            },
+            "description": "Why this is being suggested. Always comparative and always specific. There is deliberately no generic healthier reason, because that is a claim this project does not make."
+          },
+          "note": { "type": "string", "maxLength": 300 }
+        },
+        "required": ["gtin", "reasons"],
+        "additionalProperties": false
+      }
+    },
+    "blocked": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Gtin14" },
+      "description": "Products the engine keeps suggesting that are not actually reasonable substitutes. An explicit deny list beats weakening the ranking rules for everyone."
+    },
+    "sources": {
+      "type": "array",
+      "items": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Source" }
+    }
+  },
+  "required": ["schema_version", "gtin"],
+  "additionalProperties": false
+}
