@@ -1,0 +1,89 @@
+name: CI
+
+# Builds and tests everything that is not the mobile app.
+# The app has its own workflow (build-app.yml) from F07 onwards, because it needs
+# the Android SDK and a macOS runner for the iOS compile check.
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build and test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          global-json-file: global.json
+
+      - name: Check for projects
+        id: projects
+        run: |
+          if find . -name '*.csproj' -not -path './app/*' | grep -q .; then
+            echo "found=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=false" >> "$GITHUB_OUTPUT"
+            echo "No projects outside app/ yet. Nothing to build."
+          fi
+
+      - name: Restore
+        if: steps.projects.outputs.found == 'true'
+        run: dotnet restore Prana.sln
+
+      - name: Build
+        if: steps.projects.outputs.found == 'true'
+        run: dotnet build Prana.sln --no-restore --configuration Release -p:ContinuousIntegrationBuild=true
+
+      - name: Test
+        if: steps.projects.outputs.found == 'true'
+        run: dotnet test Prana.sln --no-build --configuration Release --verbosity normal
+
+      - name: Check formatting
+        if: steps.projects.outputs.found == 'true'
+        run: dotnet format Prana.sln --verify-no-changes --no-restore
+
+  hygiene:
+    name: Repository hygiene
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Required documents are present
+        run: |
+          missing=0
+          for f in README.md LICENSE LICENSE-DATA NOTICE CONTRIBUTING.md \
+                   CODE_OF_CONDUCT.md GOVERNANCE.md SECURITY.md \
+                   DATA_POLICY.md DATA_SOURCES.md; do
+            if [ ! -f "$f" ]; then
+              echo "::error file=$f::required document is missing"
+              missing=1
+            fi
+          done
+          exit $missing
+
+      - name: No credentials committed
+        run: |
+          # A blunt guard. The real protection is that the app never needs a token,
+          # but a mistake here is expensive enough to be worth catching early.
+          if grep -rInE '(ghp_[A-Za-z0-9]{36}|github_pat_[A-Za-z0-9_]{22,}|-----BEGIN [A-Z ]*PRIVATE KEY-----)' \
+               --exclude-dir=.git --exclude-dir=docs . ; then
+            echo "::error::possible credential found in the repository"
+            exit 1
+          fi
+          echo "No credential patterns found."

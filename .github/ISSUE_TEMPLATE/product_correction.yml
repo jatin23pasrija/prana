@@ -1,0 +1,84 @@
+name: Product correction
+description: A value in the catalogue is wrong, out of date, or missing.
+title: "[correction] <barcode> - <what is wrong>"
+labels: ["data", "correction", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        A wrong value is a data problem, not a bug. Thank you for catching it.
+
+        Evidence is what makes a correction mergeable. A photo of the packet is ideal.
+
+  - type: input
+    id: barcode
+    attributes:
+      label: Barcode
+      placeholder: "8901234567890"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: field_area
+    attributes:
+      label: What is wrong
+      options:
+        - nutrition value
+        - ingredient list
+        - product name or brand
+        - package quantity
+        - category
+        - ingredient flag, for example palm-derived oil
+        - the product does not exist or the barcode belongs to something else
+        - other
+    validations:
+      required: true
+
+  - type: textarea
+    id: current_value
+    attributes:
+      label: What the catalogue says now
+      placeholder: "sugars 18 g per 100 g"
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: correct_value
+    attributes:
+      label: What it should say
+      description: Exactly as printed on the packet. Do not convert or calculate.
+      placeholder: "sugars 22 g per 100 g"
+      render: text
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence
+      description: >
+        Drag in a photo of the packet, or link the manufacturer page. Without evidence a
+        correction cannot be merged.
+    validations:
+      required: true
+
+  - type: input
+    id: packet_date
+    attributes:
+      label: Manufacturing or packing date on your packet
+      description: >
+        Helps us tell a formulation change from an error. Roughly is fine.
+      placeholder: "March 2026"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Please confirm
+      options:
+        - label: The corrected value is copied from the packet or a cited source, not calculated or estimated.
+          required: true
+        - label: I agree that this contribution is licensed under ODbL 1.0, and any photo I attached is my own.
+          required: true

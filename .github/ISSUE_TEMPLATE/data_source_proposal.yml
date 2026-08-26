@@ -1,0 +1,95 @@
+name: Data source proposal
+description: Suggest an open dataset or source the catalogue should import from.
+title: "[source] <source name>"
+labels: ["data", "source-proposal", "needs-review"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        No data is imported from any source until its licence has been read and recorded in
+        [DATA_SOURCES.md](https://github.com/jatin23pasrija/prana/blob/main/DATA_SOURCES.md).
+
+        Publicly visible does not mean reusable. This form starts that review.
+
+  - type: input
+    id: source_name
+    attributes:
+      label: Source name
+    validations:
+      required: true
+
+  - type: input
+    id: homepage
+    attributes:
+      label: Homepage
+      placeholder: "https://"
+    validations:
+      required: true
+
+  - type: input
+    id: data_location
+    attributes:
+      label: Where the data actually is
+      description: The bulk download, API endpoint or documentation page we would use.
+      placeholder: "https://"
+    validations:
+      required: true
+
+  - type: input
+    id: licence
+    attributes:
+      label: Licence
+      description: Name, version, and a link to the licence text. Write unknown if you cannot find it.
+      placeholder: "ODbL 1.0 - https://..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: redistribution
+    attributes:
+      label: Does the licence allow us to redistribute the data inside our catalogue
+      options:
+        - "yes"
+        - "no"
+        - conditional, explained below
+        - unknown
+    validations:
+      required: true
+
+  - type: dropdown
+    id: retrieval
+    attributes:
+      label: How would we retrieve it
+      options:
+        - bulk download or dump
+        - documented API
+        - per-record fetch from a web page
+        - unknown
+    validations:
+      required: true
+
+  - type: textarea
+    id: coverage
+    attributes:
+      label: What it covers
+      description: >
+        Roughly how many records, which countries, and whether it is keyed by barcode. Indian
+        packaged food coverage is what matters most right now.
+    validations:
+      required: true
+
+  - type: textarea
+    id: restrictions
+    attributes:
+      label: Restrictions, rate limits or attribution requirements
+      description: Anything forbidden, and the exact attribution wording the licence requires.
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: confirmations
+    attributes:
+      label: Please confirm
+      options:
+        - label: I have actually looked at the licence or terms, and have not assumed them.
+          required: true

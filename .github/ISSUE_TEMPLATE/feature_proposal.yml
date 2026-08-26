@@ -1,0 +1,64 @@
+name: Feature proposal
+description: Suggest something the app or the project should do.
+title: "[feature] <short description>"
+labels: ["feature", "needs-discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before you write this, please check
+        [the roadmap](https://github.com/jatin23pasrija/prana/blob/main/docs/planning/ROADMAP.md).
+        Many good ideas are already planned for a later phase, and a few are permanently out of
+        scope, such as accounts, subscriptions and anything requiring a server.
+
+        Phase 1 is closed to new features. It ships first, then we look at everything else.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem does this solve
+      description: Describe the situation, not the solution. Who is stuck, and with what.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: What you propose
+    validations:
+      required: true
+
+  - type: dropdown
+    id: phase
+    attributes:
+      label: Which phase do you think this belongs to
+      options:
+        - Phase 2, community utility
+        - Phase 3, broader food intelligence
+        - Phase 4, ecosystem
+        - not sure
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: constraints
+    attributes:
+      label: Does your proposal hold to the project principles
+      description: >
+        A proposal that breaks one of these will be closed, so it is worth checking first.
+      options:
+        - label: It works without a server and without a hosted database.
+          required: true
+        - label: It does not require an account, a subscription or tracking.
+          required: true
+        - label: It does not make a medical claim or say that a food is good or bad for you.
+          required: true
+        - label: It does not need the app to hold a repository credential.
+          required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Anything you already considered and rejected
+    validations:
+      required: false

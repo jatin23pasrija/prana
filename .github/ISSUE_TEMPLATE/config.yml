@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Security vulnerability
+    url: https://github.com/jatin23pasrija/prana/security/advisories/new
+    about: Do not open a public issue for a security problem. Report it privately here.
+  - name: Question or discussion
+    url: https://github.com/jatin23pasrija/prana/discussions
+    about: Ask how something works, or discuss an idea before proposing it.
+  - name: How the project is built
+    url: https://github.com/jatin23pasrija/prana/blob/main/docs/planning/ROADMAP.md
+    about: Phases, milestones, and what is deliberately out of scope.
