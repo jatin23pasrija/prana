@@ -13,6 +13,9 @@
   <ItemGroup>
     <!-- JSON Schema validation. Used by the F02 schema tests and by the F03 validator. -->
     <PackageVersion Include="JsonSchema.Net" Version="9.4.0" />
+
+    <!-- Catalogue storage on both the builder and the phone. See ADR-0008. -->
+    <PackageVersion Include="Microsoft.Data.Sqlite" Version="10.0.11" />
   </ItemGroup>
 
   <ItemGroup Label="Testing">

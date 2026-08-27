@@ -134,7 +134,17 @@ itself, not an approval count. This changes the moment there is a second maintai
 | `request-priority.yml` | schedule | Rank most-requested missing products |
 | `release-app.yml` | tag `v*` | Signed APK release |
 
-Required for merge into `main`: `ci.yml`, and `validate-data.yml` when data changed.
+Required for merge into `main`: `Build and test`, `Repository hygiene` and `Validate records`.
+
+**A required check must never be path-filtered.** If a workflow only triggers on some paths and
+its job is a required check, every pull request that does not touch those paths deadlocks:
+the check is required so GitHub waits for it, the workflow never runs so it never reports, and
+the pull request sits on "Expected - Waiting for status to be reported" indefinitely. There is
+no error and nothing to retry, which is what makes it confusing.
+
+So `validate-data.yml` runs on every pull request. When no data records changed it only checks
+the valid examples, which takes seconds. Any workflow added to the required list later must lose
+its `pull_request` path filter at the same time.
 
 ## Automation permissions
 

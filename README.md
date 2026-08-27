@@ -142,9 +142,9 @@ The app never carries a GitHub token. It cannot write to this repository, by des
 | [SECURITY.md](SECURITY.md) | Reporting a vulnerability, and how releases are signed |
 | [PRODUCT_SCHEMA.md](docs/PRODUCT_SCHEMA.md) | The canonical product data specification |
 | [VALIDATION.md](docs/VALIDATION.md) | Every data rule, what blocks a merge and why |
+| [CATALOGUE_FORMAT.md](docs/CATALOGUE_FORMAT.md) | The published catalogue format, for building your own client |
 
-Specifications arriving with their features: `CATALOGUE_FORMAT.md` (F05),
-`RESEARCH_PIPELINE.md` (F14).
+Specifications arriving with their features: `RESEARCH_PIPELINE.md` (F14).
 
 ## Install the app
 

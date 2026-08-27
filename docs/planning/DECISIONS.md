@@ -432,3 +432,47 @@ the numeric field, and no record has a name only in `generic_name`.
 sources that have been through licence review. The gap queue is the bridge between this import
 and that automation.
 
+---
+
+### ADR-0028 - Brotli, not zstd
+
+**Decision.** Catalogue packages are Brotli compressed.
+
+**Rationale.** The project plan named zstd. Brotli is built into .NET and into every browser, at
+a comparable ratio, so no client needs a native dependency to read a catalogue. On a mobile app
+that has to run on low-end Android devices, and for third-party clients we will never meet, that
+is worth more than the last few percent of compression.
+
+**Consequence.** Measured on 26,453 products: 15.9 MB of SQLite compresses to 2.5 MB, 85%
+smaller. `docs/CATALOGUE_FORMAT.md` states the codec so a third party is never left guessing.
+
+---
+
+### ADR-0029 - Completeness is stored, not inferred
+
+**Decision.** `product.is_complete` is a column in the catalogue, set when a record has neither
+nutrition nor ingredients.
+
+**Rationale.** ADR-0026 requires the app to treat incomplete records differently and still offer
+discovery for them. A rule every caller has to remember to repeat is a rule that will eventually
+be forgotten in one screen, and the symptom would be silent: discovery quietly stops being
+offered for the products that most need it.
+
+**Consequence.** One indexed question instead of a null check in every query, and third-party
+clients get the same signal. `CATALOGUE_FORMAT.md` calls it out explicitly for that reason.
+
+---
+
+### ADR-0030 - Three app build flavours
+
+**Decision.** The app ships in three flavours: full catalogue bundled, starter catalogue
+bundled, and no catalogue at all. The catalogue builder produces the two artefacts they consume.
+
+**Rationale.** Requested during the F05 round. It lets someone on expensive mobile data install
+an app that already works, and someone on wifi install a small one.
+
+**Consequence.** Three artefacts to build, sign, test and publish per release, so F17 grows.
+The install-time behaviour differs per flavour, so F08 must handle a bundled catalogue that is
+absent, small, or already complete, and F11 must not re-download a catalogue the flavour already
+carries. Recorded here because the cost lands on features that have not started yet.
+

@@ -1,0 +1,90 @@
+name: Build catalogue
+
+# Builds the SQLite catalogue the app installs, and proves the build is reproducible.
+#
+# This does not publish anything. Releasing, signing and versioning arrive in F06. Until then
+# the output is a workflow artefact, so the format can be inspected and third-party clients can
+# be written against it before anything is promised to users.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "schema/**"
+      - "src/Prana.Core/**"
+      - "tools/Prana.Tools.CatalogueBuilder/**"
+      - ".github/workflows/build-catalogue.yml"
+  pull_request:
+    paths:
+      - "tools/Prana.Tools.CatalogueBuilder/**"
+      - "src/Prana.Core/**"
+  workflow_dispatch:
+    inputs:
+      catalogue_version:
+        description: "Catalogue version number to stamp into the build."
+        required: false
+        default: "1"
+      starter_size:
+        description: "Products in the bundled starter catalogue. 0 skips it."
+        required: false
+        default: "2000"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-catalogue-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build:
+    name: Build and verify
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          global-json-file: global.json
+
+      - name: Build the tool
+        run: dotnet build tools/Prana.Tools.CatalogueBuilder --configuration Release
+
+      - name: Build the catalogue
+        run: |
+          # --built-on is passed explicitly rather than left to the clock. The date is stamped
+          # into the catalogue, so a build that straddled midnight would otherwise differ from
+          # itself and the reproducibility check would fail for no real reason.
+          dotnet tools/Prana.Tools.CatalogueBuilder/bin/Release/net10.0/prana-catalogue.dll build \
+            --version "${{ inputs.catalogue_version || '1' }}" \
+            --starter-size "${{ inputs.starter_size || '2000' }}" \
+            --built-on "$(date -u +%Y-%m-%d)" \
+            --verify-reproducible
+
+      - name: Show what was built
+        run: |
+          ls -lh catalogue/build
+          echo
+          cat catalogue/build/manifest.json
+
+      - name: Upload the catalogue
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalogue
+          path: |
+            catalogue/build/*.br
+            catalogue/build/manifest.json
+          retention-days: 30
+
+      # The starter catalogue is bundled inside the app, so it is published separately. F07 and
+      # F17 consume this to produce the build flavours.
+      - name: Upload the starter catalogue on its own
+        if: ${{ (inputs.starter_size || '2000') != '0' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: catalogue-starter
+          path: catalogue/build/catalogue-starter.db.br
+          retention-days: 30
