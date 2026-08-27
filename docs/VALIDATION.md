@@ -109,7 +109,9 @@ The mass budget in PRN0405 allows 1 g, since three rounded values drift further 
 PRN0411 fires above **10,000 mg of sodium per 100 g**, which is roughly 25 g of salt in every
 100 g of food. The threshold sits far above anything a normal product reaches, because the rule
 exists to catch a decimal point in the wrong place rather than to comment on salty food. It is a
-warning, since salt and bouillon can legitimately approach it. The first real import turned up a
+warning, since bouillon and spice blends can legitimately approach it. Products in the `salt`
+category are skipped entirely: table salt really is about 39 g of sodium per 100 g, and warning
+about a bag of salt for containing salt is how people learn to ignore warnings. The first real import turned up a
 cumin powder declaring 40,000 mg, which is more salt than cumin, and it passed only because it
 sat exactly on the schema ceiling.
 

@@ -119,14 +119,20 @@ public static class NutritionConsistency
 
         for (var i = 0; i < product.Nutrition.Count; i++)
         {
-            findings.AddRange(Check(product.Nutrition[i], i));
+            findings.AddRange(Check(product.Nutrition[i], i, product.Category));
         }
 
         return findings;
     }
 
-    /// <summary>Checks one panel. <paramref name="index"/> is only used to build the path.</summary>
-    public static IReadOnlyList<ConsistencyFinding> Check(NutritionBlock block, int index = 0)
+    /// <summary>
+    /// Checks one panel. <paramref name="index"/> is only used to build the path, and
+    /// <paramref name="category"/> lets a rule know what kind of thing it is looking at.
+    /// </summary>
+    public static IReadOnlyList<ConsistencyFinding> Check(
+        NutritionBlock block,
+        int index = 0,
+        string? category = null)
     {
         ArgumentNullException.ThrowIfNull(block);
 
@@ -153,7 +159,7 @@ public static class NutritionConsistency
         CheckMassBudget(findings, block, at);
         CheckEnergyAgainstMacros(findings, block, at);
         CheckEnergyUnits(findings, values, at);
-        CheckSodium(findings, block, at);
+        CheckSodium(findings, block, at, category);
         CheckNotDeclared(findings, block, at);
 
         return findings;
@@ -286,9 +292,21 @@ public static class NutritionConsistency
     /// Only applied to a mass or volume basis. A per-serving panel is measured against a serving
     /// of unknown size, so a large absolute figure there says nothing.
     /// </remarks>
-    private static void CheckSodium(List<ConsistencyFinding> findings, NutritionBlock block, string at)
+    private static void CheckSodium(
+        List<ConsistencyFinding> findings,
+        NutritionBlock block,
+        string at,
+        string? category)
     {
         if (block.Basis is not (NutritionBasis.Per100g or NutritionBasis.Per100ml))
+        {
+            return;
+        }
+
+        // Salt is about 39 g of sodium per 100 g, so a salt product sitting above the threshold
+        // is correct rather than suspicious. Flagging a bag of salt for containing salt is the
+        // kind of noise that teaches people to ignore warnings.
+        if (string.Equals(category, "salt", StringComparison.Ordinal))
         {
             return;
         }

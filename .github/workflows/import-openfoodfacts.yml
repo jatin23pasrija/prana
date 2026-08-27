@@ -115,7 +115,10 @@ jobs:
             exit 0
           fi
 
-          branch="bot/import-openfoodfacts-$(date -u +%Y%m%d)"
+          # The run number keeps two imports on the same day apart. A purely date-based name
+          # meant a second run pushed into the branch of a pull request that was still open,
+          # silently stacking two imports into one review.
+          branch="bot/import-openfoodfacts-$(date -u +%Y%m%d)-${{ github.run_number }}"
 
           git config user.name "prana-import"
           git config user.email "noreply@github.com"
