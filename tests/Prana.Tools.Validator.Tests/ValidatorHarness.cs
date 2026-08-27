@@ -169,6 +169,7 @@ internal static class ValidProduct
         double? fibre = 3,
         double? energyKcal = 476,
         double? energyKj = null,
+        double? sodiumMg = null,
         NutritionBasis basis = NutritionBasis.Per100g,
         ServingInfo? serving = null,
         IReadOnlyList<string>? notDeclared = null) => new()
@@ -187,6 +188,7 @@ internal static class ValidProduct
                 SaturatedFatG = saturatedFat,
                 TransFatG = transFat,
                 FibreG = fibre,
+                SodiumMg = sodiumMg,
             },
             NotDeclared = notDeclared,
         };

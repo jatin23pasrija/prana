@@ -82,6 +82,7 @@ public static class Rules
     public const string DuplicateBasis = "PRN0408";
     public const string ServingWithoutMass = "PRN0409";
     public const string NotDeclaredButPresent = "PRN0410";
+    public const string SodiumImplausible = "PRN0411";
 
     // Provenance
     public const string UncoveredValue = "PRN0501";

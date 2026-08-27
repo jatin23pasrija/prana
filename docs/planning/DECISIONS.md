@@ -383,3 +383,52 @@ cannot even be expressed in code.
 **Consequence.** Adding a source is deliberately two steps: the review, then the adapter. That
 is friction, and it is the point.
 
+---
+
+### ADR-0026 - Incomplete records are kept, and must never suppress discovery
+
+**Decision.** A product with a name but no nutrition and no ingredients is imported. The import
+writes every such barcode to a gap queue. In return, F10 must present such a record as
+incomplete, and F12 must still offer online discovery for it exactly as if the lookup had
+missed.
+
+**Rationale.** Coverage is worth having: telling someone the packet in their hand is Parle-G and
+that we know nothing else beats telling them it does not exist. The first import dropped 15,415
+Indian products on this rule alone.
+
+The danger is subtle and would have been easy to miss. A bare record makes the local lookup
+**succeed**, so without this decision the app would stop offering discovery and contribution for
+exactly the products that need them most. Coverage bought that way would quietly strangle the
+mechanism the catalogue grows by.
+
+**Consequence.** F10 and F12 carry a hard requirement, not a preference. The condition is
+computable with no schema change: no `nutrition` and no `ingredients_raw` means incomplete. The
+gap queue gives F14 a work list of tens of thousands of real targets on day one instead of
+waiting for a user to scan one.
+
+---
+
+### ADR-0027 - Enrichment during import is not possible, and is not faked
+
+**Decision.** The importer does not attempt online lookup for records it cannot complete. It
+records the gap and moves on.
+
+**Rationale.** This was requested and investigated rather than dismissed. It cannot work today,
+for reasons that are worth writing down so it is not proposed again without them changing:
+
+- The only approved product source is Open Food Facts, and the export *is* Open Food Facts.
+  Re-querying their API for a product just read from their own export returns the same
+  emptiness.
+- Doing so would mean tens of thousands of requests against an API that already returns 503 on
+  the fifth page of a search. That is the source asking to be left alone.
+- Any other source needs an approved row in `DATA_SOURCES.md` and an adapter, which ADR-0025
+  enforces in code. There is none.
+
+Recovering more from the export itself was measured and also does not help: language variant
+fields hold a name or ingredients in 1 record out of 864, `quantity` text never appears without
+the numeric field, and no record has a name only in `generic_name`.
+
+**Consequence.** Enrichment happens where it can actually work, which is F12 and F14, against
+sources that have been through licence review. The gap queue is the bridge between this import
+and that automation.
+

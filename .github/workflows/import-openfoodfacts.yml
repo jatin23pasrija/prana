@@ -86,6 +86,7 @@ jobs:
               --retrieved-at "$(date -u +%Y-%m-%d)" \
               --url "$DUMP_URL" \
               --report import-report.json \
+              --gaps import-gaps.json \
               $args | tee import-log.txt
 
       - name: Validate everything that was written
@@ -100,6 +101,7 @@ jobs:
           name: import-report
           path: |
             import-report.json
+            import-gaps.json
             import-log.txt
           retention-days: 30
 
@@ -128,9 +130,9 @@ jobs:
 
           git push --set-upstream origin "$branch"
 
-          # Note for reviewers: a pull request opened with GITHUB_TOKEN does not start other
-          # workflows, so validate-data will not run on it by itself. The validation step above
-          # has already run over exactly this content, and its output is in this run.
+          # The import validates its own output above, before this point, so a broken import
+          # never reaches a pull request. CI and validate-data also run on the pull request
+          # itself, which was confirmed on the first real import.
           gh pr create \
             --base main \
             --head "$branch" \
@@ -153,12 +155,14 @@ jobs:
 
           ## Before merging
 
-          - Validation already ran over this exact content in the workflow above. It will not run
-            again on this pull request, because a pull request opened with \`GITHUB_TOKEN\` does
-            not start other workflows.
+          - Validation already ran over this exact content in the workflow above, and CI and
+            validate-data run on this pull request as well. Check both before merging.
           - Every record here is \`unverified\` with \`medium\` confidence. That is deliberate:
             Open Food Facts is community-entered, and calling it verified would make our own
             verification vocabulary meaningless.
+          - Some records have a name and nothing else. Those are kept on purpose, and the run
+            artifact \`import-gaps.json\` lists them. They are the seed work queue for the
+            research automation, not failures.
           - Spot-check a handful of records against real packaging before merging.
           EOF
           )"

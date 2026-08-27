@@ -15,6 +15,7 @@ public sealed class ImportReport
 {
     private readonly Dictionary<string, int> _dropReasons = new(StringComparer.Ordinal);
     private readonly List<string> _rejected = [];
+    private readonly List<Gap> _gaps = [];
 
     [JsonPropertyName("source")]
     public required string Source { get; init; }
@@ -41,6 +42,14 @@ public sealed class ImportReport
     [JsonPropertyName("written")]
     public int Written { get; set; }
 
+    /// <summary>
+    /// Records kept despite having neither nutrition nor ingredients. These are the catalogue's
+    /// known gaps, and the reason they are counted separately is that they are the work queue
+    /// for the research automation rather than a failure.
+    /// </summary>
+    [JsonPropertyName("incomplete")]
+    public int Incomplete { get; set; }
+
     [JsonPropertyName("unchanged")]
     public int Unchanged { get; set; }
 
@@ -56,6 +65,38 @@ public sealed class ImportReport
         Dropped++;
         _dropReasons[reason] = _dropReasons.GetValueOrDefault(reason) + 1;
     }
+
+    public void RecordGap(string gtin, string name)
+    {
+        Incomplete++;
+        _gaps.Add(new Gap(gtin, name));
+    }
+
+    /// <summary>
+    /// Written to its own file rather than into the report. There can be tens of thousands of
+    /// these, and burying the summary under them would make the report unreadable for the
+    /// person who has to decide whether to merge.
+    /// </summary>
+    [JsonIgnore]
+    public IReadOnlyList<Gap> Gaps => _gaps;
+
+    /// <summary>The gap queue, as a document the research automation can consume directly.</summary>
+    public string GapsToJson() => JsonSerializer.Serialize(
+        new
+        {
+            source = Source,
+            retrieved_at = RetrievedAt,
+            count = _gaps.Count,
+            note = "Products known to exist with neither nutrition nor ingredients. "
+                + "This is the seed work queue for the research automation in F14.",
+            products = _gaps.OrderBy(g => g.Gtin, StringComparer.Ordinal),
+        },
+        new JsonSerializerOptions { WriteIndented = true }) + "\n";
+
+    /// <summary>One product we know exists and know nothing else about.</summary>
+    public sealed record Gap(
+        [property: JsonPropertyName("gtin")] string Gtin,
+        [property: JsonPropertyName("name")] string Name);
 
     public void RecordRejection(string detail)
     {
@@ -84,6 +125,7 @@ public sealed class ImportReport
             $"Duplicate barcodes: {Duplicates:N0}",
             $"Rejected by rules : {RejectedByValidator:N0}",
             $"Written           : {Written:N0}",
+            $"  of those, no nutrition and no ingredients: {Incomplete:N0}",
             $"Unchanged         : {Unchanged:N0}",
         };
 

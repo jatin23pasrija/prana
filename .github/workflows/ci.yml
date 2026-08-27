@@ -65,6 +65,21 @@ jobs:
           done
           exit $missing
 
+      # A project missing from the solution still builds when someone runs it directly, so the
+      # only visible symptom is that its tests quietly stop running in CI. That happened once,
+      # to the importer, and nothing failed to say so.
+      - name: Every project is in the solution
+        run: |
+          missing=0
+          for project in $(find src tools tests -name '*.csproj'); do
+            name=$(basename "$project")
+            if ! grep -q "$name" Prana.sln; then
+              echo "::error file=Prana.sln::$project is not in Prana.sln, so CI never builds or tests it."
+              missing=1
+            fi
+          done
+          exit $missing
+
       - name: No credentials committed
         run: |
           # A blunt guard. The real protection is that the app never needs a token,

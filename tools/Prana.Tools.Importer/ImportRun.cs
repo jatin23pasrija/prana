@@ -78,6 +78,11 @@ public sealed class ImportRun(ImportOptions options)
             report.Mapped++;
             brands.Observe(product.Brand, candidate.SourceId);
 
+            if (product.Nutrition is null && string.IsNullOrEmpty(product.IngredientsRaw))
+            {
+                report.RecordGap(product.Gtin, product.Name);
+            }
+
             if (!options.DryRun)
             {
                 written.Add(WriteRecord(productsRoot, product));

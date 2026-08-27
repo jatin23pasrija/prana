@@ -248,6 +248,35 @@ public sealed class RuleTests
         AssertReports(diagnostics, Rules.NotDeclaredButPresent, Severity.Error);
     }
 
+    [Fact]
+    public void Sodium_no_food_could_contain_is_a_warning()
+    {
+        using var harness = new ValidatorHarness();
+
+        // 40,000 mg per 100 g is about 100 g of salt in 100 g of food. A cumin powder in the
+        // first real import declared exactly this, and it passed only because it sat on the
+        // schema ceiling.
+        var diagnostics = harness.Validate(ValidProduct.Build(
+            nutrition: [ValidProduct.Panel(sodiumMg: 40000)],
+            provenance: ValidProduct.ProvenanceWithNutrition()));
+
+        AssertReports(diagnostics, Rules.SodiumImplausible, Severity.Warning);
+    }
+
+    [Fact]
+    public void A_genuinely_salty_product_is_not_flagged()
+    {
+        using var harness = new ValidatorHarness();
+
+        // Namkeen at 1,600 mg per 100 g is high and entirely real. The rule exists to catch a
+        // misplaced decimal point, not to comment on salty food.
+        var diagnostics = harness.Validate(ValidProduct.Build(
+            nutrition: [ValidProduct.Panel(sodiumMg: 1600)],
+            provenance: ValidProduct.ProvenanceWithNutrition()));
+
+        AssertSilent(diagnostics, Rules.SodiumImplausible);
+    }
+
     // ---------------------------------------------------------------- provenance
 
     [Fact]

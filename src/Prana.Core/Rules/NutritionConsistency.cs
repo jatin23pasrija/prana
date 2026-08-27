@@ -28,6 +28,9 @@ public enum ConsistencyCode
 
     /// <summary>A nutrient is both declared and listed as not declared.</summary>
     NotDeclaredButPresent,
+
+    /// <summary>More sodium than the food could physically contain.</summary>
+    SodiumImplausible,
 }
 
 /// <summary>One inconsistency, with enough detail to explain it to a person.</summary>
@@ -77,6 +80,20 @@ public static class NutritionConsistency
 
     /// <summary>Slack allowed when converting between kcal and kJ.</summary>
     public const double EnergyUnitTolerance = 0.05;
+
+    /// <summary>
+    /// Sodium above this, per 100 g or 100 ml, is worth questioning.
+    /// </summary>
+    /// <remarks>
+    /// Table salt is roughly 39 g of sodium per 100 g, so nothing can exceed that and only salt
+    /// itself comes close. 10 g is about 25 g of salt in every 100 g of food, which real products
+    /// essentially never reach outside salt, bouillon and some spice blends.
+    ///
+    /// The threshold is deliberately far above anything a normal food reaches, because this
+    /// exists to catch a decimal point in the wrong place rather than to comment on salty food.
+    /// A cumin powder in the first import declared 40,000 mg, which is more salt than cumin.
+    /// </remarks>
+    public const double ImplausibleSodiumMgPer100 = 10_000;
 
     /// <summary>Kilojoules in one kilocalorie.</summary>
     public const double KilojoulesPerKilocalorie = 4.184;
@@ -136,6 +153,7 @@ public static class NutritionConsistency
         CheckMassBudget(findings, block, at);
         CheckEnergyAgainstMacros(findings, block, at);
         CheckEnergyUnits(findings, values, at);
+        CheckSodium(findings, block, at);
         CheckNotDeclared(findings, block, at);
 
         return findings;
@@ -259,6 +277,36 @@ public static class NutritionConsistency
             $"{kcal:0.#} kcal is about {expected:0} kJ, but the record says {kj:0.#} kJ.",
             kj,
             expected));
+    }
+
+    /// <summary>
+    /// Catches a sodium figure larger than the food could physically contain.
+    /// </summary>
+    /// <remarks>
+    /// Only applied to a mass or volume basis. A per-serving panel is measured against a serving
+    /// of unknown size, so a large absolute figure there says nothing.
+    /// </remarks>
+    private static void CheckSodium(List<ConsistencyFinding> findings, NutritionBlock block, string at)
+    {
+        if (block.Basis is not (NutritionBasis.Per100g or NutritionBasis.Per100ml))
+        {
+            return;
+        }
+
+        if (block.Values.SodiumMg is not { } sodium || sodium <= ImplausibleSodiumMgPer100)
+        {
+            return;
+        }
+
+        var asSalt = sodium * 2.54 / 1000;
+
+        findings.Add(new ConsistencyFinding(
+            ConsistencyCode.SodiumImplausible,
+            $"{at}/values/sodium_mg",
+            $"{sodium:0} mg of sodium per 100 is about {asSalt:0.#} g of salt in every 100, which no "
+                + "food except salt itself contains. This is usually a decimal point in the wrong place.",
+            sodium,
+            ImplausibleSodiumMgPer100));
     }
 
     /// <summary>

@@ -263,6 +263,8 @@ confirm graceful behaviour.
 **Definition of done**
 - [ ] Every indicator explains itself when tapped, naming the rule and its version.
 - [ ] A record with mostly unknown fields renders honestly and without empty gaps.
+- [ ] A record with no nutrition and no ingredients is shown as incomplete and offers to search
+      online, rather than looking like a complete answer. Required by ADR-0026.
 - [ ] No medical or absolute health claim appears anywhere in the UI copy.
 - [ ] Renders correctly in light and dark theme and at large font sizes.
 
@@ -350,6 +352,8 @@ unmistakable to someone who has not read the docs.
 
 **In scope**
 - `.github/workflows/research-product.yml` triggered by a product request issue.
+- Seed the queue from `import-gaps.json`, so the automation starts with tens of thousands of
+  known targets rather than waiting for a user to scan one.
 - `tools/Prana.Tools.Researcher`: identity discovery, source search, ranking, extraction,
   normalisation, cross-source validation, schema validation, confidence calculation.
   Deterministic only (ADR-0012).
