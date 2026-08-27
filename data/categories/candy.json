@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "candy",
+  "name": "Candy",
+  "substitutable_with": [
+    "chocolate"
+  ],
+  "relevant_nutrients": [
+    "sugars_g",
+    "energy_kcal"
+  ],
+  "typical_basis": "per_100g"
+}

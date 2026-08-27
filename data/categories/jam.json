@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "jam",
+  "name": "Jam",
+  "substitutable_with": [
+    "honey"
+  ],
+  "relevant_nutrients": [
+    "sugars_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100g"
+}

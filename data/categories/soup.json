@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "soup",
+  "name": "Soup",
+  "substitutable_with": [
+    "ready-to-eat"
+  ],
+  "relevant_nutrients": [
+    "sodium_mg",
+    "saturated_fat_g",
+    "fat_g",
+    "fibre_g",
+    "protein_g"
+  ],
+  "typical_basis": "per_100g"
+}

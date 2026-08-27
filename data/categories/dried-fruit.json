@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "dried-fruit",
+  "name": "Dried fruit",
+  "substitutable_with": [
+    "nuts"
+  ],
+  "relevant_nutrients": [
+    "sugars_g",
+    "fibre_g"
+  ],
+  "typical_basis": "per_100g"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "bread",
+  "name": "Bread",
+  "substitutable_with": [
+    "rusk"
+  ],
+  "relevant_nutrients": [
+    "fibre_g",
+    "protein_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100g"
+}

@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "flour",
+  "name": "Flour and atta",
+  "relevant_nutrients": [
+    "fibre_g",
+    "protein_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100g"
+}

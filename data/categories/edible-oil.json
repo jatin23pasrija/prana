@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "edible-oil",
+  "name": "Edible oil",
+  "substitutable_with": [
+    "ghee"
+  ],
+  "relevant_nutrients": [
+    "saturated_fat_g",
+    "trans_fat_g"
+  ],
+  "typical_basis": "per_100g"
+}

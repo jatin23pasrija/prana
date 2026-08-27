@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "energy-drink",
+  "name": "Energy drink",
+  "substitutable_with": [
+    "fruit-drink",
+    "fruit-juice",
+    "soft-drink"
+  ],
+  "relevant_nutrients": [
+    "sugars_g",
+    "energy_kcal"
+  ],
+  "typical_basis": "per_100ml"
+}

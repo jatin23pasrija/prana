@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "chocolate",
+  "name": "Chocolate",
+  "substitutable_with": [
+    "candy"
+  ],
+  "relevant_nutrients": [
+    "sugars_g",
+    "saturated_fat_g",
+    "fibre_g",
+    "protein_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100g"
+}

@@ -43,6 +43,12 @@ ODbL for `data/` and `catalogue/`. The app must display attribution. Anyone redi
 modified catalogue must publish their changes. Documented in `LICENSE`, `LICENSE-DATA`
 and `DATA_SOURCES.md`.
 
+**Amended in F04, 2026-08-27.** The original decision named only ODbL. Reading the Open Food
+Facts terms during the F04 licence review showed they publish under ODbL 1.0 for the database
+**and DbCL 1.0 for the contents**, which are different things: ODbL governs the database as a
+structure, DbCL governs the individual facts inside it. A share-alike source obliges us to pass
+the same pair on, so the database is now ODbL 1.0 plus DbCL 1.0. `LICENSE-DATA-CONTENTS` added.
+
 ---
 
 ### ADR-0004 - Android first, both platforms built
@@ -199,6 +205,23 @@ trivial at any scale.
 **Consequence.** Tens of thousands of small files. The validator and builder must stream and
 never load all records into memory. Git operation timings must be measured during F04.
 
+**Measured in F04, 2026-08-27.** A tree of 10,001 product records, 43 MB of JSON on disk:
+
+| Operation | Time |
+|---|---|
+| `git add -A` (cold, first time) | 43.0 s |
+| `git commit` | 8.2 s |
+| `git status` | 0.15 s |
+| `git checkout -b` | 0.18 s |
+| resulting `.git` | **2 MB** |
+
+The headline is the last row. 43 MB of working tree compresses to 2 MB, because records share
+almost all of their structure and git packs them well. Extrapolating to the roughly 22,700
+Indian products in the source, the repository grows by single-digit megabytes and everyday
+operations stay in the hundreds of milliseconds. The one-file-per-product decision is safe at
+this scale, and the size fear behind it does not materialise. Bulk `add` and `commit` are slow,
+but they happen once per import, in CI.
+
 ---
 
 ### ADR-0015 - Process
@@ -295,4 +318,68 @@ per-serving values.
 The layout in the original project plan has no home for it.
 
 **Consequence.** A small documented deviation from the plan layout. `README.md` records it.
+
+---
+
+### ADR-0022 - Imported records are never marked verified
+
+**Decision.** Every record from a bulk source is written as `unverified` with `medium`
+confidence, regardless of how complete it looks. Only evidence from packaging, a manufacturer,
+or a regulator can support a higher status.
+
+**Rationale.** Open Food Facts is community-entered. One community database agreeing with itself
+is not corroboration. Marking imported data verified would make the word meaningless everywhere
+else in the system, including in the automated merge policy that depends on it.
+
+**Consequence.** Essentially the entire catalogue is unverified at launch, so the app has to
+present unverified data as normal and useful rather than as a warning. Getting that tone right
+is now a requirement on F10, not a nicety. Verified records will only ever come from people
+checking real packets.
+
+---
+
+### ADR-0023 - The importer refuses to convert between nutrition bases
+
+**Decision.** The importer reads what the label declared. Open Food Facts publishes normalised
+per-100g columns for every product, including ones whose label only stated a per-serving panel;
+those columns are not used unless the label basis was per 100 g. A per-serving panel with no
+serving described produces no nutrition at all.
+
+**Rationale.** Importing the convenient normalised column would launder exactly the silent
+conversion `DATA_POLICY.md` forbids, and would do it across the whole catalogue at once, where
+nobody would ever see it.
+
+**Consequence.** Fewer products carry nutrition than the source appears to offer. That is the
+correct trade: a per-serving figure presented as per 100 g is worse than no figure.
+
+---
+
+### ADR-0024 - Imports run in GitHub Actions, not on a maintainer machine
+
+**Decision.** `import-openfoodfacts.yml` downloads the export, runs the importer, validates the
+result and opens a pull request. Nothing merges automatically.
+
+**Rationale.** The export is over a gigabyte. An import that depends on one person having
+downloaded it is not reproducible by a fork, which contradicts the forkability principle. A
+runner has fast access to the source and no state of its own.
+
+**Consequence.** A pull request opened with `GITHUB_TOKEN` does not trigger other workflows, so
+`validate-data.yml` will not run on it. The import workflow therefore validates the content
+itself before opening the pull request, and says so in the body.
+
+---
+
+### ADR-0025 - The licence review is enforced in code
+
+**Decision.** A source with no approved row in `DATA_SOURCES.md` has no adapter, and
+`prana-import` rejects any `--source` it does not recognise. `ISourceAdapter` requires every
+adapter to state its licence and attribution, which are then stamped onto every record it
+produces.
+
+**Rationale.** A policy that lives only in a document is a policy someone will route around
+under deadline. Making the licence a required property of the adapter means an unreviewed source
+cannot even be expressed in code.
+
+**Consequence.** Adding a source is deliberately two steps: the review, then the adapter. That
+is friction, and it is the point.
 

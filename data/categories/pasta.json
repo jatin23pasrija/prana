@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "pasta",
+  "name": "Pasta",
+  "substitutable_with": [
+    "noodles"
+  ],
+  "relevant_nutrients": [
+    "fibre_g",
+    "protein_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100g"
+}
