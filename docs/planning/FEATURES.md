@@ -214,6 +214,8 @@ one byte and confirm verification fails.
 - `Prana.Data`: `catalogue.db` opened read-only, `user.db` created with migrations (ADR-0007).
 - Repository interfaces: `IProductRepository`, `IIngredientRepository`, `ISearchRepository`.
 - A starter catalogue bundled in the app so first launch is useful with no network.
+- Handle all three build flavours from ADR-0030: bundled full catalogue, bundled starter, and
+  none at all. An absent bundle must not be an error.
 - FTS5 availability verified on Android and iOS.
 - Lookup performance measured on the real low-end device.
 
@@ -281,6 +283,7 @@ The highest-risk feature in Phase 1. Failure here can destroy a working catalogu
 
 **In scope**
 - Background manifest check, version and compatibility comparison against `minimumAppVersion`.
+- Do not re-download a catalogue the installed flavour already carries (ADR-0030).
 - Resumable background download, metered-connection and Wi-Fi-only preference.
 - Verify size, SHA-256 and signature before anything is opened.
 - Open in a temporary location, run `PRAGMA integrity_check` and schema checks.
@@ -429,6 +432,7 @@ catalogue, release, sync, find the product offline. This is the Phase 1 success 
   research automation.
 - Low-end device performance, low storage, battery and background behaviour.
 - Release signing for the APK, `.github/workflows/release-app.yml`.
+- Three flavours built, signed, tested and published per release (ADR-0030).
 - In-app APK update check (ADR-0005).
 - Accessibility pass: screen reader labels, contrast, large text.
 - Final documentation sweep and a first-run onboarding that states the data is community
