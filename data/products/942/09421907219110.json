@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "09421907219110",
+  "barcode_printed": "9421907219110",
+  "barcode_format": "EAN-13",
+  "name": "& Muscle Heath &Muscle Heath & Muscle Heaith Joint, Bone, Crtloge Joint, Bone, Curtiloge & Muscle Health +GLUCOS MINE +GLUCOs MINE MAGNESIUM ACTIVE BIOGLAN",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9421907219110",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "00000051012120",
+  "barcode_printed": "51012120",
+  "barcode_format": "EAN-8",
+  "name": "Fc saboodana 200g(20)",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/51012120",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

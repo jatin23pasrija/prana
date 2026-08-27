@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08906128101082",
+  "barcode_printed": "8906128101082",
+  "barcode_format": "EAN-13",
+  "name": "For Sensitive Skin) | Non Irritating Non X001YQ13KV FACE SERUM Sticky | Brighte Minimalist 1044 Vitamin C Face Serum X001YQI3KV Sticky Brighte VitaminC Vitamin C",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906128101082",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

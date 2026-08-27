@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "06161106960194",
+  "barcode_printed": "6161106960194",
+  "barcode_format": "EAN-13",
+  "name": "Nescafe Coffee classic instant 1.6gm sachet",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6161106960194",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

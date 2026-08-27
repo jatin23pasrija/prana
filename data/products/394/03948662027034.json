@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "03948662027034",
+  "barcode_printed": "3948662027034",
+  "barcode_format": "EAN-13",
+  "name": "Use By: Satara, Maharashtra 415526, India. Pune 411 013, Maharashtra, India. F- At Gat No. 173, Bholi, Khandala, 389% H-At 44, Hadapsar Industrial Estate, H-At 44, Hadapsar lndustrial Estate, PRODUCT",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948662027034",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "makelt-s8ar-8adi",
+  "name": "Makelt S8ar 8adi",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/brand/makelt-s8ar-8adi",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  }
+}

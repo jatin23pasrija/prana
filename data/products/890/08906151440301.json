@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151440301",
+  "barcode_printed": "8906151440301",
+  "barcode_format": "EAN-13",
+  "name": "turated Fat (g) esterol (mg) Fat (g) rans Fat (g) VALUE Bihar 346007 in (e) Bihar 846007 orocessed & Packed By: Am (mg) procetsed & Packed By: Fat (8) ans Fat (e) in (g) orocetised & Packed By: ONEY",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151440301",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

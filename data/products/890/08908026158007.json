@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08908026158007",
+  "barcode_printed": "8908026158007",
+  "barcode_format": "EAN-13",
+  "name": "Peri Peri Super Bhujia",
+  "brand": "total-snacc",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908026158007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

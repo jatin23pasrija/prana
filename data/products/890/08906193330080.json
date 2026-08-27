@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08906193330080",
+  "barcode_printed": "8906193330080",
+  "barcode_format": "EAN-13",
+  "name": "OTHER PRODUCT OF INDIA ered with. rom direct sunlight. 8 906 193330080&quot; 8 l906193330080",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906193330080",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

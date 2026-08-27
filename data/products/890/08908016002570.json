@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016002570",
+  "barcode_printed": "8908016002570",
+  "barcode_format": "EAN-13",
+  "name": "Date Palm Jaggery",
+  "brand": "two-brothers",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 453.59237,
+      "unit": "g"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016002570",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

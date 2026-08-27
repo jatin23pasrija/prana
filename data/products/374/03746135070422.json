@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "03746135070422",
+  "barcode_printed": "3746135070422",
+  "barcode_format": "EAN-13",
+  "name": "ZINC MAGNESIUM ASPARTATE",
+  "brand": "optimum-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3746135070422",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764092152",
+  "barcode_printed": "8901764092152",
+  "barcode_format": "EAN-13",
+  "name": "Maaza Original 1.75ltr",
+  "brand": "hindustan-coco-cola-beverages-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764092152",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

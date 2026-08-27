@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901483011960",
+  "barcode_printed": "8901483011960",
+  "barcode_format": "EAN-13",
+  "name": "Gherkins, Premium Canadian Style Baby Dill",
+  "brand": "tify",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901483011960",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

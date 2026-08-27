@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08902901222364",
+  "barcode_printed": "8902901222364",
+  "barcode_format": "EAN-13",
+  "name": "your you, 50 g Lic. No. 12822999000910 USP 2.50 perg MRP 125.00 You, NET QUANTY: USE BY: 02/08/26 Ssat USE BY: BATCA NO.: İU110730 PKD.*: 07I11/25 02/08/26 Ssai COUNTRY OF PKD.*: 07/41/25 ssai",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902901222364",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}
