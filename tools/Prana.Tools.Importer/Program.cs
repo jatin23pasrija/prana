@@ -38,6 +38,7 @@ async Task<int> RunAsync(string[] arguments)
     string? dump = null;
     string? root = null;
     string? reportPath = null;
+    string? gapsPath = null;
     string? url = null;
     var source = "openfoodfacts";
     var limit = 0;
@@ -64,6 +65,10 @@ async Task<int> RunAsync(string[] arguments)
 
             case "--report" when i + 1 < rest.Length:
                 reportPath = rest[++i];
+                break;
+
+            case "--gaps" when i + 1 < rest.Length:
+                gapsPath = rest[++i];
                 break;
 
             case "--url" when i + 1 < rest.Length:
@@ -171,6 +176,13 @@ async Task<int> RunAsync(string[] arguments)
         Console.WriteLine($"{Environment.NewLine}Report written to {reportPath}");
     }
 
+    if (gapsPath is not null)
+    {
+        Directory.CreateDirectory(Path.GetDirectoryName(Path.GetFullPath(gapsPath))!);
+        await File.WriteAllTextAsync(gapsPath, report.GapsToJson());
+        Console.WriteLine($"Gap queue written to {gapsPath} ({report.Incomplete:N0} products)");
+    }
+
     if (!dryRun && url is not null)
     {
         var snapshotPath = Path.Combine(repositoryRoot, "sources", adapter.Id, "snapshot.json");
@@ -227,6 +239,8 @@ void PrintUsage() => Console.WriteLine(
                            and is required when reading from standard input.
       --url <url>          Where the dump came from. Writes sources/<id>/snapshot.json.
       --report <file>      Write a JSON report of what was imported and dropped.
+      --gaps <file>        Write the list of products kept with no nutrition and no
+                           ingredients. This is the seed work queue for research automation.
       --limit <n>          Stop after n mapped records. For smoke runs.
       --dry-run            Map and report, write nothing.
       -h, --help           Show this message.

@@ -86,6 +86,7 @@ jobs:
               --retrieved-at "$(date -u +%Y-%m-%d)" \
               --url "$DUMP_URL" \
               --report import-report.json \
+              --gaps import-gaps.json \
               $args | tee import-log.txt
 
       - name: Validate everything that was written
@@ -100,6 +101,7 @@ jobs:
           name: import-report
           path: |
             import-report.json
+            import-gaps.json
             import-log.txt
           retention-days: 30
 
@@ -158,6 +160,9 @@ jobs:
           - Every record here is \`unverified\` with \`medium\` confidence. That is deliberate:
             Open Food Facts is community-entered, and calling it verified would make our own
             verification vocabulary meaningless.
+          - Some records have a name and nothing else. Those are kept on purpose, and the run
+            artifact \`import-gaps.json\` lists them. They are the seed work queue for the
+            research automation, not failures.
           - Spot-check a handful of records against real packaging before merging.
           EOF
           )"

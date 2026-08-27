@@ -173,6 +173,11 @@ public static class ProductChecks
     {
         ConsistencyCode.EnergyDisagreesWithMacros => Severity.Warning,
         ConsistencyCode.EnergyUnitsDisagree => Severity.Warning,
+
+        // A warning rather than an error, because a salt or bouillon product can legitimately
+        // sit near the threshold, and blocking those would be wrong. It is loud enough to be
+        // noticed and cheap enough to ignore when it is a genuine salt.
+        ConsistencyCode.SodiumImplausible => Severity.Warning,
         _ => Severity.Error,
     };
 
@@ -186,6 +191,7 @@ public static class ProductChecks
         ConsistencyCode.EnergyDisagreesWithMacros => Rules.EnergyDisagreesWithMacros,
         ConsistencyCode.EnergyUnitsDisagree => Rules.EnergyUnitsDisagree,
         ConsistencyCode.NotDeclaredButPresent => Rules.NotDeclaredButPresent,
+        ConsistencyCode.SodiumImplausible => Rules.SodiumImplausible,
         _ => Rules.SchemaViolation,
     };
 

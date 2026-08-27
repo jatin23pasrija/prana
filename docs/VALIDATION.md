@@ -100,10 +100,18 @@ invisible to a scan of the same packet.
 | PRN0408 | error | Two panels declare the same basis. |
 | PRN0409 | warning | A per-serving panel has no serving mass, so nothing can be compared with it. |
 | PRN0410 | error | A nutrient is both declared and listed as not declared. |
+| PRN0411 | warning | More sodium than any food except salt itself could contain. |
 
 **Tolerances.** Mass comparisons allow **0.1 g** of slack, because labels round to one decimal
 place and a packet can legitimately print saturated fat as 10.5 g against total fat of 10.4 g.
 The mass budget in PRN0405 allows 1 g, since three rounded values drift further than one.
+
+PRN0411 fires above **10,000 mg of sodium per 100 g**, which is roughly 25 g of salt in every
+100 g of food. The threshold sits far above anything a normal product reaches, because the rule
+exists to catch a decimal point in the wrong place rather than to comment on salty food. It is a
+warning, since salt and bouillon can legitimately approach it. The first real import turned up a
+cumin powder declaring 40,000 mg, which is more salt than cumin, and it passed only because it
+sat exactly on the schema ceiling.
 
 PRN0406 allows **20%**, and is only ever a warning. Indian labels differ in whether fibre is
 counted inside carbohydrate, and sugar alcohols and organic acids are not declared at all. It is

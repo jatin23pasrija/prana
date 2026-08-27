@@ -170,17 +170,22 @@ public sealed class OffMapperTests
     }
 
     [Fact]
-    public void A_row_with_nothing_but_a_name_is_dropped()
+    public void A_row_with_nothing_but_a_name_is_still_kept()
     {
         var row = Row(
             ("code", "8901719134845"),
             ("product_name", "Mystery Packet"),
             ("countries_tags", "en:india"));
 
-        // A barcode and a name tell the user nothing they did not already know from the packet
-        // in their hand, and shipping it would dilute a catalogue meant to be worth trusting.
-        Assert.False(Mapper().TryMap(row, out _, out var reason));
-        Assert.Contains("no nutrition and no ingredients", reason);
+        // Telling someone the packet in their hand is Mystery Packet and that we know nothing
+        // else beats telling them it does not exist. The record is honest about which of those
+        // two things is true, and the app treats it as incomplete and still offers discovery.
+        Assert.True(Mapper().TryMap(row, out var product, out _));
+
+        Assert.NotNull(product);
+        Assert.Null(product!.Nutrition);
+        Assert.Null(product.IngredientsRaw);
+        Assert.Equal(["name"], product.Provenance.Keys);
     }
 
     [Fact]

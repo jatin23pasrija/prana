@@ -58,17 +58,15 @@ public sealed class OffMapper(DateOnly retrievedAt, string licence)
 
         var nutrition = ReadNutrition(row);
         var ingredientsRaw = Clean(row["ingredients_text"]);
-
-        // The quality bar: a record has to tell the user something beyond the fact that the
-        // barcode exists. A name with no nutrition and no ingredients is not worth shipping to
-        // a phone, and it would dilute a catalogue people are meant to trust.
-        if (nutrition is null && ingredientsRaw is null)
-        {
-            dropReason = "no nutrition and no ingredients";
-            return false;
-        }
-
         var brand = SlugOf(FirstOf(row["brands"]));
+
+        // A record with a name but no nutrition and no ingredients is kept. Telling someone the
+        // packet in their hand is Parle-G and that we know nothing else beats telling them the
+        // product does not exist, and it is honest about which of those two things is true.
+        //
+        // This only works because the app treats such a record as incomplete and still offers to
+        // search online and contribute. Without that, a bare record would make the local lookup
+        // succeed and silently suppress the discovery flow the catalogue grows by. See ADR-0026.
 
         product = new ProductRecord
         {

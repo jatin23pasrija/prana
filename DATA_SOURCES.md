@@ -67,8 +67,14 @@ reaches for it later on a slow afternoon.
 
 **What we take.** Products either tagged as sold in India or carrying a GS1 India barcode
 prefix. The country tag is contributor-entered and missing on many records, so taking both
-signals finds products the tag alone would lose. A record needs a name plus either nutrition or
-an ingredient statement: a barcode with a name tells a user nothing they cannot already see.
+signals finds products the tag alone would lose. A record needs a name, and nothing more.
+
+Records with a name but no nutrition and no ingredients are kept deliberately. Telling someone
+the packet in their hand is Parle-G and that we know nothing else beats telling them the product
+does not exist, and it is honest about which of those is true. The import writes those barcodes
+to a gap queue, which is the seed work list for the research automation. This is only safe
+because the app treats such a record as incomplete and still offers to search online and
+contribute, which ADR-0026 makes a requirement on F10 and F12 rather than a hope.
 
 **What we change.** Three things, all documented in the mapper:
 
