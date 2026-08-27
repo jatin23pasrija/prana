@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "ketchup",
+  "name": "Ketchup",
+  "substitutable_with": [
+    "sauce"
+  ],
+  "relevant_nutrients": [
+    "sugars_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100g"
+}

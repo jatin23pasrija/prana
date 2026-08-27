@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "rice",
+  "name": "Rice",
+  "relevant_nutrients": [
+    "fibre_g",
+    "protein_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100g"
+}

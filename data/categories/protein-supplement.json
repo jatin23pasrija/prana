@@ -1,0 +1,10 @@
+{
+  "schema_version": 1,
+  "id": "protein-supplement",
+  "name": "Protein supplement",
+  "relevant_nutrients": [
+    "protein_g",
+    "sugars_g"
+  ],
+  "typical_basis": "per_100g"
+}

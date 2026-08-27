@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "code": "IN",
+  "name": "India",
+  "barcode_prefixes": [
+    "890"
+  ],
+  "default_nutrition_basis": "per_100g",
+  "sodium_declared_as": "sodium",
+  "languages": [
+    "en",
+    "hi",
+    "pa",
+    "bn",
+    "ta",
+    "te",
+    "mr",
+    "gu",
+    "kn",
+    "ml",
+    "or",
+    "as",
+    "ur"
+  ],
+  "notes": "Indian packaged food labels normally declare nutrition per 100 g or per 100 ml, and often print a per-serving column alongside it. Sodium is usually declared rather than salt. A 890 barcode prefix indicates a GS1 India member, which is evidence about the company that registered the barcode, not proof of where the product was manufactured."
+}

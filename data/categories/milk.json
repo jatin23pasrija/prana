@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "milk",
+  "name": "Milk",
+  "substitutable_with": [
+    "yogurt"
+  ],
+  "relevant_nutrients": [
+    "saturated_fat_g",
+    "protein_g",
+    "sugars_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100ml"
+}

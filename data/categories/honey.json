@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "honey",
+  "name": "Honey",
+  "substitutable_with": [
+    "jam",
+    "sugar"
+  ],
+  "relevant_nutrients": [
+    "sugars_g",
+    "energy_kcal"
+  ],
+  "typical_basis": "per_100g"
+}

@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Brings approved external sources into the repository. Runs in GitHub Actions rather than on
+    a maintainer machine: the source dump is over a gigabyte, and an import that depends on one
+    person having downloaded it is not reproducible by a fork.
+  -->
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Prana.Tools.Importer</RootNamespace>
+    <AssemblyName>prana-import</AssemblyName>
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Prana.Core\Prana.Core.csproj" />
+    <!--
+      The importer runs the real validator rather than its own approximation of them, so a record
+      cannot pass the import and then fail CI.
+    -->
+    <ProjectReference Include="..\Prana.Tools.Validator\Prana.Tools.Validator.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <InternalsVisibleTo Include="Prana.Tools.Importer.Tests" />
+  </ItemGroup>
+
+</Project>

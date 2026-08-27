@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "baby-food",
+  "name": "Baby food",
+  "relevant_nutrients": [
+    "protein_g",
+    "sugars_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100g"
+}

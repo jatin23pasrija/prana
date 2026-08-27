@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "namkeen",
+  "name": "Namkeen",
+  "substitutable_with": [
+    "chips",
+    "extruded-snacks"
+  ],
+  "relevant_nutrients": [
+    "sodium_mg",
+    "saturated_fat_g",
+    "fat_g",
+    "fibre_g",
+    "protein_g"
+  ],
+  "typical_basis": "per_100g"
+}

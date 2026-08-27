@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "chips",
+  "name": "Chips and crisps",
+  "substitutable_with": [
+    "extruded-snacks",
+    "namkeen"
+  ],
+  "relevant_nutrients": [
+    "sodium_mg",
+    "saturated_fat_g",
+    "fat_g",
+    "fibre_g",
+    "protein_g"
+  ],
+  "typical_basis": "per_100g"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "nut-butter",
+  "name": "Nut butter",
+  "substitutable_with": [
+    "jam"
+  ],
+  "relevant_nutrients": [
+    "protein_g",
+    "saturated_fat_g",
+    "sugars_g"
+  ],
+  "typical_basis": "per_100g"
+}

@@ -12,8 +12,14 @@ Source code, tooling, workflows and documentation prose in this repository are
 licensed under the Apache License, Version 2.0. See LICENSE.
 
 The product database, meaning the contents of data/ and every catalogue package
-built from it, is licensed under the Open Database License (ODbL) v1.0.
-See LICENSE-DATA.
+built from it, is licensed under the Open Database License (ODbL) v1.0, and its
+individual contents under the Database Contents License (DbCL) v1.0.
+See LICENSE-DATA and LICENSE-DATA-CONTENTS.
+
+Both licences are carried because they cover different things. ODbL governs the
+database as a structure and is share-alike. DbCL governs the individual facts
+inside it. Open Food Facts, our primary source, publishes under exactly this
+pair, and a share-alike source obliges us to pass the same terms on.
 
 Individual content within the database, such as prose explanations, is licensed
 under Creative Commons Attribution-ShareAlike 4.0 International.
@@ -22,18 +28,29 @@ under Creative Commons Attribution-ShareAlike 4.0 International.
 THIRD-PARTY DATA ATTRIBUTION
 --------------------------------------------------------------------------------
 
-No third-party data has been imported yet. Every source added to the database
-must be recorded here and in DATA_SOURCES.md, with its licence, its attribution
-text and the date its usage decision was approved, before any record from it is
-merged.
+Every source added to the database is recorded here and in DATA_SOURCES.md,
+with its licence, its attribution text and the date its usage decision was
+approved, before any record from it is merged.
 
-Format for each entry:
+  Open Food Facts
+    Licence:      ODbL 1.0 (database), DbCL 1.0 (contents)
+    Attribution:  Data from Open Food Facts (https://world.openfoodfacts.org),
+                  made available under the Open Database License (ODbL) v1.0.
+    Approved:     2026-08-27 (F04)
+    Scope:        Indian packaged products. Identity, nutrition, ingredients,
+                  package quantity and brand names. Images are not imported.
 
-  Source name
-    Licence:      <licence and version>
-    Attribution:  <exact attribution text required by the licence>
-    Approved:     <date and link to the approving pull request>
-    Scope:        <what was imported>
+  Wikidata
+    Licence:      CC0 1.0
+    Attribution:  Not required by the licence. Credited here regardless.
+    Approved:     2026-08-27 (F04)
+    Scope:        Brand and parent-company metadata. Not yet imported.
+
+  USDA FoodData Central
+    Licence:      Public domain, published under CC0 1.0
+    Attribution:  Data from USDA FoodData Central. Requested, not required.
+    Approved:     2026-08-27 (F04)
+    Scope:        Generic food composition. Deferred to Phase 3.
 
 --------------------------------------------------------------------------------
 THIRD-PARTY SOFTWARE ATTRIBUTION

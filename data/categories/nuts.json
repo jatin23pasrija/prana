@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "nuts",
+  "name": "Nuts and seeds",
+  "substitutable_with": [
+    "dried-fruit"
+  ],
+  "relevant_nutrients": [
+    "protein_g",
+    "fibre_g",
+    "saturated_fat_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100g"
+}

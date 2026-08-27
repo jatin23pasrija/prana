@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "rusk",
+  "name": "Rusk",
+  "parent": "biscuits",
+  "substitutable_with": [
+    "biscuits",
+    "cookies",
+    "crackers",
+    "cream-biscuits",
+    "digestive-biscuits",
+    "marie-biscuits"
+  ],
+  "relevant_nutrients": [
+    "sugars_g",
+    "saturated_fat_g",
+    "fibre_g",
+    "protein_g",
+    "sodium_mg"
+  ],
+  "typical_basis": "per_100g"
+}
