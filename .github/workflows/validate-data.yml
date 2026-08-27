@@ -7,13 +7,15 @@ name: Validate data
 # cross-record problems like a duplicate barcode actually become visible.
 
 on:
+  # Deliberately no paths filter on pull_request. "Validate records" is a required status check,
+  # and a required check whose workflow is path-filtered deadlocks every pull request that does
+  # not touch those paths: the check is required so GitHub waits for it, the workflow never runs
+  # so it never reports, and the pull request sits on "Expected - Waiting for status to be
+  # reported" forever. It happened to the catalogue builder pull request.
+  #
+  # Running always costs seconds, because with no data records changed the job only checks the
+  # valid examples.
   pull_request:
-    paths:
-      - "data/**"
-      - "schema/**"
-      - "src/Prana.Core/**"
-      - "tools/Prana.Tools.Validator/**"
-      - ".github/workflows/validate-data.yml"
   push:
     branches: [main]
     paths:
