@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08906124670520",
+  "barcode_printed": "8906124670520",
+  "barcode_format": "EAN-13",
+  "name": "Geks Era Kiwi Pulp & Juice",
+  "brand": "geks-era",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 81.97,
+        "protein_g": 1.77,
+        "carbohydrate_g": 10.87,
+        "sugars_g": 2.37,
+        "fat_g": 2.81
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Reconstituted Kiwi Juice (7%), Reconstituted Apple Juice (7%), Aloe Vera Juice & Pulp (6%), Acidity Regulator (E 330, E 331), Class II Preservatives (E 202, E 211), Stabilizer (E 440, E 418) Contains Permitted Synthetic Food Colour (E 110, E 142) and Added Natural and Nature Identical Flavouring Substances (Kiwi)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906124670520",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

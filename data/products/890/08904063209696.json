@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063209696",
+  "barcode_printed": "8904063209696",
+  "barcode_format": "EAN-13",
+  "name": "Aloo mutter",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Tomaten, Kartoffeln (17%), Wasser, grüne Erbsen (10%), raffiniertes Sonnenblumenöl, Zwiebeln konzentrierte, frischer Ingwer, Salz, grüne Chili, frischer Knoblauch, Cashewnüsse, Gewürze (Kardamom, Zimt, Muskatnuss, Muskatblüte, Kreuzkümmel, Koriander, Gewürznelken, Curryblätter), Korianderblätter Rotes Chilipulver, Kurkuma Pulver, getrocknete Bockshornkleeblätter. Siehe Allergen Fett Gedruckt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063209696",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

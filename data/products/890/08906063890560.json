@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906063890560",
+  "barcode_printed": "8906063890560",
+  "barcode_format": "EAN-13",
+  "name": "Pork Bockwurst Sausages",
+  "brand": "la-carne",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pork Meat (67%), Water, Chicken Meat, Starch, lodised Salt, Seasoning Frankfurter [Texturiser INS451(i), Acidity Regulator INS330, Thickner INS412, Artificial Color INS150a, Antioxidant INS316], Seasoning Paprika [Nature Identical Flavouring Substances], Texturiser IND451 (i), Dehydrated Vegetable, Antioxidant INS316, Preservative INS250. ALLERGEN WARNING: May contain _Nuts_, _Milk_ and _Wheat_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906063890560",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

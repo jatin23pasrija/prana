@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021128735",
+  "barcode_printed": "8906021128735",
+  "barcode_format": "EAN-13",
+  "name": "Mango Ginger Pickle",
+  "brand": "aachi",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Mango Ginger, Red Chilli Powder, Edible Vegetable Oil - Refined Rice bran oil, Mustard, Fenugreek Powder, Compounded Asafoetida, Salt, Acidity Regulator (E260) - Acetic Acid and Contains Permitted Class II Preservative (E211)-Sodium Benzoate. ALLERGEN ADVICE: CONTAIN MUSTARD AND GLUTEN. &quot;THIS PRODUCT IS PROCESSED IN A FACILITY THAT ALSO PROCESSES PRODUCTS THAT CONTAIN SESAME, CELERY, PEANUTS, TREENUTS, SOYA, MILK AND SULPHITE&quot;.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021128735",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

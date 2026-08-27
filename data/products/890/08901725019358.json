@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725019358",
+  "barcode_printed": "8901725019358",
+  "barcode_format": "EAN-13",
+  "name": "MOMS MAGIC Cashew& almond",
+  "brand": "sunfest",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "terol (mg) D ofves per pack 9.85 EDIE 0.0 9.6 1.2 323.2 64.6 E per g). 5) (OF MAIDA (REFINED WHEAT FLOUR), SUGAR, REFINED PALM OIL, MILK SOLIDS TICAL FL 1.0 % GHEE), CASHEW BITS (1.9%), INVERT SYRUP, IODIZED SALT, NATURE ABEAN), DIRING SUBSTANCES, RAISING AGENTS [INS 500(ii), INS 503(ii), INS 450 AND DIGLYCERIDES OF FATTY ACIDS (FROM PALM OIL), LECITHIN FROM ALETT RIC AND FATTY ACID ESTERS OF GLYCEROL (FROM SUNFLOWER FLAVOURING SUBSTANCES (BUTTER, VANILLA), PALM OIL), ARTIF ALMOND BITS (0.1%), CO CONTAINS WHEAT, MILKS (INS 150a), FLOUR TREATMENT AGENT (INS 223). NUT, SULPHITE. 回收您 this code FOR FEEDBACK/COMPUT CONTACT: ITC CARES AT P.O. BOX NO. 592, scan the QR co BENGALURU-56000 tccares@itc.in 1800 425444444 (AM (1.A), Ikurren BENGAL-711303 Lic. No. 100, 6031001C LTD., FOODS DIV TC LTD., FOODS DIVISION, ICT ER VADUGAPATTI VILLAGE, VIRAL VIP, NEAR MODERN JAH KAPURTHALA PUNJAB-144601 Lic. No. 100 225/10 KIADB INDUSTRIAL AREA, HAROHALLI, KANAKAPURA TAK NDKI, CHAUDAGRA DIST FATEHPURTAR PRADESH - 212665 16HARACTERS BEFORE THE AC ITH THE CORRESPONDING TWO DIGIT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725019358",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

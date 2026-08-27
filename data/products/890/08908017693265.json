@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017693265",
+  "barcode_printed": "8908017693265",
+  "barcode_format": "EAN-13",
+  "name": "Miliet noodles",
+  "brand": "miliet-bank",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 384.5,
+        "energy_kj": 384.5,
+        "protein_g": 10.5,
+        "carbohydrate_g": 83.4,
+        "fat_g": 0.46,
+        "fibre_g": 0.72,
+        "sodium_mg": 3.4
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flour, Little Millet Flour, Cluster Bean Powder (Natural Gum) and Salt. Spice Mix: Coriander Seeds, Red Chillies, Onion powder, Garlic powder, Ginger powder, Turmeric, Curry leaves, Fennel seeds, Black pepper, Cassia, Fenugreek, Star anise, Clove, Nutmeg, Salt, Unrefined cane sugar and Citric acid (INS330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017693265",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

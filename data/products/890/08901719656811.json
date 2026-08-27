@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719656811",
+  "barcode_printed": "8901719656811",
+  "barcode_format": "EAN-13",
+  "name": "Fab Vanilla",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 112,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR, SUGAR, VEGETABLE OIL (PALM OIL), CHOCO CHIPS (12%) [SUGAR, FULLY HYDROGENATED VEGETABLE FAT (PALM KERNEL OIL), COCOA R(SOYA LECITHIN) AND ARTIFICIAL FLAVOURING], GLUCOSE-FRUCTOSE SYRUP, COCOA SOLIDS (1.5%), COLOUR (CARAMEL), SOLIDS, EMULSIFIE RAISING AGENTS AMMONIUM BICARBONATE, SODIUM BICARBONATE ], SALT, ARTIFICIAL FLAVOURINGS AND EMULSIFIERS (SOYA LECITHIN, STERS OF MONO AND DI-GLYCERIDES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719656811",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

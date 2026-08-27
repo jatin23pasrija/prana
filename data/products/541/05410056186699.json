@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "05410056186699",
+  "barcode_printed": "5410056186699",
+  "barcode_format": "EAN-13",
+  "name": "Royco Minutesoep X3 Groenten Supreme",
+  "brand": "royco",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "du potage après préparation avec 200 ml d'eau: eau, légumes 13% (tomate, poireau, chou de Milan, carotte, épinards, poivron, oignon, haricots verts, céleri à couper), pomme de terre, amidon de pomme de terre, croûtons % (farine de blé, graisse de palme, sel, levure, antioxydant: extrait de romarin), graisse de palme, sel, persil, sirop de glucose, exhausteurs de goût: E508, E621, E627 et E631, arômes (contient de l'orge et du céleri), lactose, protéines de lait, émulsifiant: E471, stabilisants: E450 et E452, curcuma, colorant: riboflavine, Peut contenir des traces de soja,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5410056186699",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

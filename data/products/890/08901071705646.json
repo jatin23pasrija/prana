@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071705646",
+  "barcode_printed": "8901071705646",
+  "barcode_format": "EAN-13",
+  "name": "Milk Chocolate",
+  "brand": "hershey-s",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 38,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Milk solids (#28%), Cocoa solids (#17.7%), Cocoa butter, Edible vegetable oil (Sunflower and Palm), Emulsifiers (322 (i), 476) and Flavour (Artificial Flavouring Substance-Vanillin)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071705646",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013326440",
+  "barcode_printed": "8908013326440",
+  "barcode_format": "EAN-13",
+  "name": "Black Salted Almonds",
+  "brand": "topnut",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 575,
+        "protein_g": 21.06,
+        "carbohydrate_g": 21.8,
+        "sugars_g": 4.93,
+        "fat_g": 52.05,
+        "saturated_fat_g": 3.9,
+        "fibre_g": 10.9,
+        "sodium_mg": 620
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013326440",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

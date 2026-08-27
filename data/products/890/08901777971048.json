@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777971048",
+  "barcode_printed": "8901777971048",
+  "barcode_format": "EAN-13",
+  "name": "Cassatta Ice Cream",
+  "brand": "vadilal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cane sugar, milk fat, non-fat milk solids, water, salted cashew (10%), palm oil, salt, glazed papaya pieces (fruit, acids, stabilizer, preservative), stabilizers, xanthan gum, guar gum, sodium carboxymethyl cellulose, carrageenan, citric acid, food color FD , C yellow no. 6 (E110), food color FD , C yellow no. 5 (E102), food color FD , C red no. 40 (E129), food color FD , C blue no. 1 (E133), natural flavor, vanilla flavor, cake layer (wheat flour, cane sugar, water, milk solids, palm oil, raising agents, sodium acid pyrophosphate, sodium bicarbonate, sodium aluminum phosphate, salt, emulsifier mono and diglycerides of fatty acids, stabilizers, sodium stearoyl lactylate, food color E102), chocolate layer (cane sugar, cocoa solids, cocoa butter, milk solids, emulsifier lecithin, natural vanilla flavor), coconut fruit (10%), peanut, almond, pistachio",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777971048",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

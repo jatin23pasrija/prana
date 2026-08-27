@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "00726872104423",
+  "barcode_printed": "0726872104423",
+  "barcode_format": "EAN-13",
+  "name": "Chicken Chips",
+  "brand": "doki",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 packet (30 g)",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 141.16,
+        "protein_g": 9.98,
+        "carbohydrate_g": 11.8,
+        "sugars_g": 0.44,
+        "fat_g": 6.01,
+        "sodium_mg": 0.57
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0726872104423",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

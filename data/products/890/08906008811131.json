@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906008811131",
+  "barcode_printed": "8906008811131",
+  "barcode_format": "EAN-13",
+  "name": "suji semolina rawa 500g",
+  "brand": "fortune",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 367,
+        "protein_g": 9.95,
+        "carbohydrate_g": 76.7,
+        "sugars_g": 1.3,
+        "fat_g": 0.9,
+        "saturated_fat_g": 0.2,
+        "fibre_g": 0.9,
+        "sodium_mg": 80
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Semolina",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906008811131",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

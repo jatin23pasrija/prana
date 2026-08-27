@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906013032859",
+  "barcode_printed": "8906013032859",
+  "barcode_format": "EAN-13",
+  "name": "Instant Nudle - Ukus govedine",
+  "brand": "rintin",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 468,
+        "energy_kj": 1956,
+        "protein_g": 8.5,
+        "carbohydrate_g": 63,
+        "sugars_g": 4.7,
+        "fat_g": 20,
+        "saturated_fat_g": 10.5,
+        "fibre_g": 0,
+        "sodium_mg": 2200
+      }
+    }
+  ],
+  "ingredients_raw": "Rezanci 94.3%: pšenično brašno 70%, biljno ulje palmino, so, pšenični gluten, zgušnjivač E412, regulatori kiselosti: E500|| i E170, ovlaživač E4511; Aromatični praškasti začinski dodatak nudlama: 5.7%: so, maltodekstrin, pojačivači okusa: E621, E627 i E631, mješavina dehidriranih začina u whi SRP Namenjen pakovanje Najbolje upotrebit 5x609 C promjenjivim proporcijama 0.572%: bijeli luk, crni luk, čili, celer i paprika, kukuruzni skrob, šećer, hidrolizovani sojin protein, paradajz 0.19%, aroma govedine, regulato kiselosti E330, crni biber, boja E150d. Može da sadrži tragove gorušice.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906013032859",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

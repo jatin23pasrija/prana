@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009079707",
+  "barcode_printed": "8906009079707",
+  "barcode_format": "EAN-13",
+  "name": "Fruit And Nut Energy Bar",
+  "brand": "unions",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 392,
+        "protein_g": 7.3,
+        "carbohydrate_g": 56.7,
+        "sugars_g": 25.3,
+        "fat_g": 14,
+        "saturated_fat_g": 2.7,
+        "fibre_g": 5.3,
+        "sodium_mg": 120
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009079707",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

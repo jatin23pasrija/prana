@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083302100",
+  "barcode_printed": "8904083302100",
+  "barcode_format": "EAN-13",
+  "name": "Fruit Yogurt Blueberry",
+  "brand": "milky-mist",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk & Milk Solids, Sugar, Active Lactic Culture (Lbacillus delbrueckii subsp. bulgaricus, S.thermophilus), Stabilizing agent (INS 440), Fruit Content (6%) from Blueberry preparation (Blueberry Fruit, Sugar, Water, Stabilizer (INS 440), Acidifying agent (INS 330), Preservative (INS 202)), Colours (INS 122, INS 133), Flavor (Nature - Identical Flavoring Substances - Blueberry). Allergen Information: Contains Milk. Manufactured & Marketed by: MILKY MIST DAIRY FOOD PRIVATE LIMITED SF No.: 43/1,2,3, Pattakaranpalayam Village, Perundurai Taluk - 638 057, Erode District, fssai Tamil Nadu, India. Lic. No. 10017042003191 FOR FEEDBACK/ QUERIES CONTACT OUR CUSTOMER CARE EXECUTIVE TOLL FREE NUMBER 1800-419-9000 OR CONTACT AT MFD. & MARKETED BY ADDRESS Write to us: / visit us at: www.milkymist.com Net Quantity: 100 g For Batch No., Date of Packaging, Expiry Date MRP (incl. of all taxes) - SEE TOP OF THE PACK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083302100",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

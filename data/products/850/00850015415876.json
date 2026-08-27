@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00850015415876",
+  "barcode_printed": "0850015415876",
+  "barcode_format": "EAN-13",
+  "name": "Veggie Chicken",
+  "brand": "good-dot",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 183.46,
+        "protein_g": 25.92,
+        "carbohydrate_g": 11.8,
+        "fat_g": 3.62
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0850015415876",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

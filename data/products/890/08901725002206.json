@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725002206",
+  "barcode_printed": "8901725002206",
+  "barcode_format": "EAN-13",
+  "name": "5-Grain Digestive High Fibre",
+  "brand": "sunfeast-farmlite",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 800,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 467,
+        "protein_g": 8.3,
+        "carbohydrate_g": 67.4,
+        "sugars_g": 21,
+        "fat_g": 20,
+        "saturated_fat_g": 8.3,
+        "trans_fat_g": 0.03,
+        "fibre_g": 8,
+        "sodium_mg": 674.5
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR (ATTA) (51.2%), REFINED PALM OIL, SUGAR, WHEAT BRAN (4.3%), INVERT SYRUP, LIQUID GLUCOSE, RAISING AGENTS (INS 503(ii), INS 500((ii)), MALTODEXTRIN, CORN FLAKES (0.9%), MILK SOLIDS, JOWAR FLOUR (0.5%), RAGI FLOUR (0.5%), CORN FLOUR (0.5%), IODIZED SALT, EMULSIFIERS [LECITHIN (FROM SOYABEAN), MONO-AND DI-GLYCERIDES OF FATTY ACIDS (FROM PALM OIL), DIACETYL TARTARIC ACID ESTER OF MONO-DIGLYCERIDES (FROM SUNFLOWER & PALM OIL), OAT FLAKES (0.4%), NATURAL FLAVOUR & NATURAL FLAVOURING SUBSTANCES, MALT EXTRACT, ARTIFICIAL FLAVOURING SUBSTANCES (MILK, MALT, VANILLA), FLOUR TREATMENT AGENT (INS 223) AND NATURE IDENTICAL FLAVOURING SUBSTANCES CONTAINS WHEAT, OATS, MILK, SOY, SULPHITES. MAY CONTAINS NUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725002206",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

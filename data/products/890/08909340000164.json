@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08909340000164",
+  "barcode_printed": "8909340000164",
+  "barcode_format": "EAN-13",
+  "name": "Indonesian Cacao",
+  "brand": "cosmix",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (38 g)",
+        "quantity": {
+          "value": 38,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 140.63,
+        "protein_g": 23.43,
+        "carbohydrate_g": 10.4,
+        "sugars_g": 3.72,
+        "fat_g": 0.59,
+        "saturated_fat_g": 0.29,
+        "trans_fat_g": 0,
+        "fibre_g": 3.65
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909340000164",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

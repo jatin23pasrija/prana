@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901192215864",
+  "barcode_printed": "8901192215864",
+  "barcode_format": "EAN-13",
+  "name": "Catch peri peri",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Chillies and Capsicum Whole, lodized Salt, Dehydrated Garlic Whole, Plantation White Sugar, Dried Onion, Pepper Black Whole, Tamarind Powder, Herbs, Instant Dry Yeast, Citric Acid (INS 330), Silicon Di Oxide (INS 551), Disodium 5 - Ribonucleotides (INS 635), Spice Oleoresins, Mono Sodium Glutamate (INS No. 621), Refined Sunflower Oil, Nature Identical Flavouring Substances (Lemon). Spice content-62%, Salt content - 20% (Approx) This package of CATCH PERI PERI MASALA contains added MONO SODIUM GLUTAMATE (INS NO 621). NOT RECOMMENDED FOR INFANTS BELOW 12 MONTHS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901192215864",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

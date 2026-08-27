@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906116958919",
+  "barcode_printed": "8906116958919",
+  "barcode_format": "EAN-13",
+  "name": "Biozyme Iso-Zero Whey",
+  "brand": "muscleblaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "32.5 g",
+        "quantity": {
+          "value": 32.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 118,
+        "energy_kj": 494,
+        "protein_g": 27,
+        "carbohydrate_g": 1.43,
+        "fat_g": 0.48,
+        "sodium_mg": 139.29
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906116958919",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00000080824107",
+  "barcode_printed": "80824107",
+  "barcode_format": "EAN-8",
+  "name": "Kinder Creamy Milky & Crunchy",
+  "brand": "ferrero",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 19,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Category: 2.4.1. SUGAR, SKIMMED COW MILK POWDER, (22%) PALMOĻEIN, PALM OIL, EXTRUDED RICE (7.7 %), LOW FAT COCOA, PÖWDER (2.6%), EMULSIFIER (LECITHIN - INS 322), POWDERED BAFIEY, MALT EXTRACT, NATURE-DENTICAL FLAVOURING ŠUBSTANCES. ALLERGEN, INFORMATİON: Contains MiLK, BARLEY, SOY. May contain traces of WHEAT., MFD. BY: FERRERO INDİA PVT. LTD. Regd. Of. & Factory: Plct No., F-13, MIDC, Baramati, District Pune-43133, Maharashtra, India., Contact Consumer Exeçutive at Regd. Off, address, Tel No, 1800-209-1200, e-mail: , NUTRITONAL INFORMATION Per 100 a: Enerqv 539 kcai, Protein 8.4 g, Carbohydrates 55.4 q Total, Sugars 48.8 g, Added sugars 363 4 Total Fat 31.34, Saturated Fat 142 6, Trans Fát 0g Cholestero| 0.7, mğ, Sodium i34 1ng, Vitamin B121.07 ug. Per serve %RDA: Eneroy 56, Protein 39%, Carbohydrctes -;, Total Sugars, Adoed Sugats 14%, Total Fat 9%, Saturated Fať 12%, Trans Fat 0%, Cholesterol, Sodum 1%, Vtamin B12 9%. Serving size: 19g (( piece), Number of servings per pack: 1, CPCB Reg. No. BO-07-000-07-ÄAACF8110B-22, STORE IN A COOL, HYGIENICAND DRYPLACE., DO NOT KEEP IN THE FRIDGE, MED:, XPRY DATE:, LOT:, 19g, 8082&quot;4107, MRP: RG., (nd. of all, tayac), 13 FEB 2026, ssat, Lic. No. 10013022002189, 11 OCT 2026, LO44Z05--- 1A, Rs.25(Rs.1.32 per g), PAPER, BRASED, 80S687SL, 8082&quot;4107, Cateçory: 2.4.1. SUGAR, SKIMMED COW MILK POVIDER, 2226) PALMOLEIN, PALM OIL, EXTRUDED RICE (7.7 %), LOW FAT COCOA, POWDER (2.69%), EMULSIFIER, (LECTHIN - INS 322), POWDERED BARLEY, MALT EXTRACT, NATUREDENTICAL FLAVOURING SUBSTANCES. ALLERGEN, INFORMATION: Contains MILK, BARLEY, SOY. May contain traces of WHEAT., MFD. BY: FERRERO INDIA PVT. LTD. Regd. Off. & Factory: Plot No., F-13, MIDC, Baramati, District Pune-413133, Maharashtra, India., Contact Consumer Exeçutive at Regd. Off. addres, Tel No. 180-209-1200, e-mail: customercăre , NUTRTONAL INFORMATION Per 100 g: Energy 539 kal, Protein 84 g, Carbohydrates 554 g Total, Sugars 48.8 g, Added Sugars 363 4 Total Fat3134, Saturated Fat 14.2 6, Trans Fat0g, Cholesterol 07, mg, Sodium 134 mg, Vitamin B12 1.07 yg, Per serve %RDA: Energy 5%, Protein 3%, Carbohydrates, Tota Sugars, Added Sugars 14%, Total Fat 9%, Saturated Fat 12%, Trans Fat 0%, Cholesterol, Sodum 19%, Vitarmin B12 9%, Serving size:19g (1 piece) Number ofservings per pack: 1, OCB Rea. No",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/80824107",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719113451",
+  "barcode_printed": "8901719113451",
+  "barcode_format": "EAN-13",
+  "name": "20-20 Cashew Cookies",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, CASHEW (1%), RAISING AGENTS [500(ii),503(ii)], MILK SOLIDS, IODISED SALT, BUTTER (0.3%), EMULSIFIER OF VEGETABLE ORIGIN (472e) CONTAINS ADDED FLAVOURS, (ARTIFICIAL FLAVOURING SUBSTANCES - BUTTER, MILK) CONTAINS: WHEAT, CASHEW, MILK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719113451",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

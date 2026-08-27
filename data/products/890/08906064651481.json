@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064651481",
+  "barcode_printed": "8906064651481",
+  "barcode_format": "EAN-13",
+  "name": "Cheesy Jalapeno Sauce",
+  "brand": "wingreens-farms",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 473.8,
+        "protein_g": 1.1,
+        "carbohydrate_g": 8.1,
+        "sugars_g": 6.4,
+        "fat_g": 48.5,
+        "saturated_fat_g": 8.2,
+        "trans_fat_g": 1,
+        "sodium_mg": 909
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Sunflower Oil (48%), Water, Sugar, Cheese Powder (3%), Liquid Glucose, Jalapeno (2%), Milk Solids, iodized Salt, Chilli Paste (1%), Thickeners (INS 1442 & INS 415), Acidity Regulators (INS 260 & INS 330), Yeast Powder, Mixed Spices, Preservatives (INS 200 & INS 211), Antioxidant (INS 386), Nature-Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064651481",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

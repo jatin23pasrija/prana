@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010673097",
+  "barcode_printed": "8908010673097",
+  "barcode_format": "EAN-13",
+  "name": "Makaber porotta",
+  "brand": "eurofine-import-export-gmbh",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Malabar Porotta LAYERED WHEAT BREAD GALETTE INDIEN மலபார் பறோட்டா ngredients: Refined Wheat Flour, Refined Vegetable Oil, Sugar Sait and Water tutaten: Rafiniertes Weizen-Mehi, Refiniertes Pflanzendi, Zucker, Salz und Wasser ingredienten: Verfijnde tarwemeel, geraffineerde plantaardige olle, suiker, 2out en Ingrédients: Farine de blé raffinée, huile végétale raffinée, sucre, sel et eau சேர்ந்திருப்பவை கோதுமையாவு டல்ட எண்ணெய், ஜீனி, உப்பு Allergy Information - Our Products are processed on equipments which also Sesame, Mustard, Treenuts, Seeds, Grains, Eggs, Soya, Crustacea and Diary Items. Information für Allergiker-Dieses Produkt wurde in Maschinen verarbeitet, in denem wurden. Trotz sorgfaltiger Überprüfung konnen Spuren von Schalenfruchten, Nüssem Soja, Krustentieren, und Milchprodukten enthalten sein. Informations sur l'allergie - Nos produits sont traités sur des équipements qui traiter des arachides, du sésame, de la moutarde, des fruits à coque, des graines, des céréale et des articies de journal. Allergie-informatie-Onze producten worden verwerkt op apparatuur die ook produc Mosterd, Treenuts, Seeds, Grains, Eggs, Soya, Crustacea en Diary items bevatten. Microwwave Oven - Remove product from the packet. Heat on high for 2 Minutes. (For room temperature before heating). Turn the product over. Heat for additional 1 minutes. Over heating will results in loosing softness and freshness. Do not refreeze. Mikrowellen Gerät - Entfernen Sie Produkt vom Paket. Hitze auf hoch seit minuten. (Weil zum Zimmer tempe-schmeizen rature vor der Heizung). Setzen Sie das Produkt um. Hitze porotta ist bereit zu dienen. Uber die Heizung läuft auf schiebende Weichheit und Frische hina Magnetron Haal het product uit de verpakking.Verwarm gedurende 2 minuten op ho resultaten ontdooit het product tot kamertemperatuur voordat het wordt verwarmd).Draa gedurende nog een minuut.Malabar Porotta is klaar om te serveren.Overhitting resulteert in ve. Nooit opnieuw invriezen. Store Below &quot;18°c/ Conserver à des ter ne pas ré congeler a NATURAL INFORMATION Nährwertdeklaration Serving Serving Size Broduat Per Package",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010673097",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719101045",
+  "barcode_printed": "8901719101045",
+  "barcode_format": "EAN-13",
+  "name": "Parle-G Original Gluco Biscuits",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "PARLE G BISCOTTI Peso netto: 79,9g Ingredienti: farina di FRUMENTO, zucchero, olio di palma, sciroppo di glucosio-fruttosio, sale, agente lievitante (carbonati di ammonio (E503(i)), bicarbonato di sodio idrogeno (E500(ii)), emulsionante: esteri mono-e diacetiltartarici di mono-é digliceridi degli acidi grassi (E472e) Valori nutrizionali per 100g Calorie",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719101045",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

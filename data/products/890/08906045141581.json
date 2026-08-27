@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906045141581",
+  "barcode_printed": "8906045141581",
+  "barcode_format": "EAN-13",
+  "name": "Gold Whey Concentrate",
+  "brand": "nutrabay",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "35 g",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 140.27,
+        "protein_g": 25.08,
+        "carbohydrate_g": 5.42,
+        "sugars_g": 1.6,
+        "fat_g": 2.03,
+        "saturated_fat_g": 1.38,
+        "trans_fat_g": 0,
+        "sodium_mg": 179.68
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906045141581",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

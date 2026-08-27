@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005610591",
+  "barcode_printed": "8906005610591",
+  "barcode_format": "EAN-13",
+  "name": "Fruit Cake with Raisin & Tutti Frutti",
+  "brand": "winkies",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 130,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 423.22,
+        "protein_g": 7.58,
+        "carbohydrate_g": 53.09,
+        "sugars_g": 32.87,
+        "fat_g": 20.06,
+        "saturated_fat_g": 10.84,
+        "trans_fat_g": 0.11,
+        "sodium_mg": 269.56
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EGGS, BAKERY SHORTENING, PALM OIL, FRUIT CUTS (6%), WATER, HUMECTANTS (INS 422, INS 420), RAISINS (4%), LIQUID GLUCOSE, MIXED FRUIT JAM, PALMOLEIN OIL, CAKE GEL (INS 471, INS 477, INS 1520, INS 420, INS 412), RAISING AGENT [BAKING POWDER AND INS 500(ii)], ARTIFICIAL FLAVOUR (VANILLA), EDIBLE COMMON SALT, PRESERVATIVES (INS 282, INS 200), ACIDITY REGULATOR (INS 260), EMULSIFIER (INS 471), STABILIZER ( INS 412 AND INS 415), NATURE-IDENTICAL AND NATURAL FLAVOUR (ORANGE AND LEMON). (Numbers in brackets as per International Numbering System) Hydrogenated Vegetable Fat used contains Trans Fat CONTAINS WHEAT, SOY AND EGG INGREDIENTS. POLYOLS MAY HAVE LAXATIVE EFFECT PROPRIETARY FOOD CAKE 7.2.1",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005610591",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906046143706",
+  "barcode_printed": "8906046143706",
+  "barcode_format": "EAN-13",
+  "name": "Whole Brown Flax Seeds",
+  "brand": "india-pride",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "10 z (28.35 g)",
+        "quantity": {
+          "value": 28.35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 151,
+        "protein_g": 5.75,
+        "carbohydrate_g": 9.5,
+        "sugars_g": 1.5,
+        "fat_g": 9.5,
+        "saturated_fat_g": 9,
+        "trans_fat_g": 0,
+        "fibre_g": 8,
+        "sodium_mg": 9.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906046143706",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

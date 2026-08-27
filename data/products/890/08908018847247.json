@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908018847247",
+  "barcode_printed": "8908018847247",
+  "barcode_format": "EAN-13",
+  "name": "Death by Chocolate Chocobar",
+  "brand": "the-brooklyn-creamery",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Medium Fat Ice Cream (75%): Water, Milk Solids (Cow), Sweeteners Blend [Maltitol, Stevia (Steviol Glycoside]]. Dietary Fiber (Oligofructose), Cocoa Solids 4.3% {501(i)), Stabilizers (410, 412), Emulsifiers (471, 477), Natural Flavoring Substance (Vanilla). Outer Chocodip Coating (25%): Sweeteners (Maltitol), Edible Vegetable Oil (Palm Oil, Palm Kernel Oil), Cocoa Butter, Cocoa Mass, Emulsifiers [322(i), 476]. Nature Identical Flavoring Substance (Vanillin), Edible Vegetable Oil (Coconut). Allergen: Contains Milk & Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908018847247",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

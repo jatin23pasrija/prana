@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009072029",
+  "barcode_printed": "8906009072029",
+  "barcode_format": "EAN-13",
+  "name": "Pista Badam Cookies",
+  "brand": "unibic",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 135,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Nuts (8%) (Almond, Pista, Cashew), Butter, Milk Solids, Liquid Glucose, Leavening agents (INS 503 ii, INS 500 ii), Emulsifier (INS 322 from Soy), iodised Salt, Artificial Flavouring Substances (Vanillin, Almond and Saffron)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009072029",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

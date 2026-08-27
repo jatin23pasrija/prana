@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003115900",
+  "barcode_printed": "8908003115900",
+  "barcode_format": "EAN-13",
+  "name": "Karachi Bakery Fruit Biscuits",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (55%), Truity Fruity (Papaya Preserve) (15%), Cashew Bits (7%), Sugar, Edible Oil, Milk Solids, Salt. Contains Added Natural Flavors, Vanilla And Mixed Fruit.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003115900",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

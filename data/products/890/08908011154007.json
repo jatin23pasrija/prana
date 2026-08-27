@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08908011154007",
+  "barcode_printed": "8908011154007",
+  "barcode_format": "EAN-13",
+  "name": "Eggs",
+  "brand": "natural-farms",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 152.5,
+        "protein_g": 13.35,
+        "carbohydrate_g": 0.7,
+        "sugars_g": 0,
+        "fat_g": 10.7
+      }
+    }
+  ],
+  "ingredients_raw": "Eggs",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908011154007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

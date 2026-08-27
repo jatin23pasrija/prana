@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "09899247649995",
+  "barcode_printed": "9899247649995",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Wafer Belgium",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Biscuit rolls (Water. Wheat flour, Sugar, Un salted butter, Salt), Chocolate : ( Non-Hydrogenated vegetable oil (Palm), Skimmed Milk powder (Cow), Whole Milk Powder (Cow), Whey Powder (Cow), Cocoa Powder Cocoa Butter Substitute, Cocoa Spread, Emulsifier: Soy Lecithin (E322), Artificial Vanillin Flavor), Pistachio, Pistachio Flavor, Color *E-133, E-102.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9899247649995",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

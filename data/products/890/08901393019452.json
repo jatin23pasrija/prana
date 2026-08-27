@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393019452",
+  "barcode_printed": "8901393019452",
+  "barcode_format": "EAN-13",
+  "name": "Happydent Gum",
+  "brand": "happydent",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 178,
+        "protein_g": 0,
+        "carbohydrate_g": 73.2,
+        "sugars_g": 0,
+        "fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Polyols (Maltitol, Xylitol (7%), Sorbitol), Gum Base, Humectant (INS 422), Thickeners (INS 1405, INS 1412, INS 415 & INS 466), Flavours [Natural, Nature-Identical and Artificial (Mint) Flavouring Substances}, Sweetener (INS 951), Emulsifiers (INS 322, INS 473), Glazing Agents (INS 903, INS 901, INS 904), Antioxidant (INS 321), Colours (INS 102, INS 133)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393019452",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

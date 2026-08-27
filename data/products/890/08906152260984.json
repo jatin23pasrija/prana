@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906152260984",
+  "barcode_printed": "8906152260984",
+  "barcode_format": "EAN-13",
+  "name": "Jaggy Marie",
+  "brand": "sunder",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Wheat Flour Atta (40%), Refined Wheat Flour Maida (26%), Jaggery (20%), Refined Palm Oil, Mik Solids, Raising Agent INS 503 (i) & 500 (1), lodised Salt, Emulsifier (soy lecithin (322 INS), mono and diglyceride of fattyacid (plant base) 471 INS), Dough Conditioner (INS 223) & Colour (150d, 102e). Contains Added Flavour [Nature Identical and Artificial Flavouring Substances - Vanilla & Milk].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906152260984",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

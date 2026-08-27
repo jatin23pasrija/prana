@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063345225",
+  "barcode_printed": "8901063345225",
+  "barcode_format": "EAN-13",
+  "name": "100% Atta Bread",
+  "brand": "britannia",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WHOLE WHEAT FLOUR (ATTA) (62.5%), WATER YEAST, WHEAT BRAN, SUGAR, IODIZED SALT VITAL GLUTEN, REFINED SOYABEAN OIL, MALT EXTRACT POWDER, PRESERVATIVES [282 & 200), EMULSIFIERS [472e, 471 & 481 (1) ACIDITY REGULATOR [260] AND FLOUR TREATMENT AGENT [510].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063345225",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

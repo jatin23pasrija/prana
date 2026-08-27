@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063224170",
+  "barcode_printed": "8904063224170",
+  "barcode_format": "EAN-13",
+  "name": "Chilli Paneer (Tofu)",
+  "brand": "haldiram-d",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 156,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WRAP Whole Wheat Flour (56%), Refined Oil (Cotton Seed Oil), Salt, Sugar and Baking Powder (Maize Starch & Raising Agent-E 500)) FILLING: Tolu (38) (Soybean, Water, Magnesium Chloride), Capsicum (264 Onions, Refined Vegetable Oil (Cotton Seed), Song Onion Green Chill, Garlic, Ginger, Celery, Red Chilli Powder, Green Chill Sauce (Water, Green Chilli (28%), Salt, Corn Starch, Sugar, Acidity Regulator E 260, Garlic Powder, Stabilizing & Emulsifying Agent E 415 Spices (Cumin Powder, Coriander Powder Preservative E 211 Vinegar (Water, Acidity Regulator E260), Conander Leaves, Soup Powder (Salt, Dehydrated Vegetable Powder Onion powder, Sugar, Spices & Condiments, Herbs (Celery, Chwes Yeast Extract Powder, Corn flour and Refined Sunflower Oil, mushroom favoring Soy Sauce, Salt, Arrowroot Powder and Sugar. Attention For Allergen See Ingredient in Bold, this product is made in a facility that processed foods containing Wheat, Peanut, Nuts, Soy and Mustard.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063224170",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

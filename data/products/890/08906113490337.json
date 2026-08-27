@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906113490337",
+  "barcode_printed": "8906113490337",
+  "barcode_format": "EAN-13",
+  "name": "Millet Muesli Chocolate & Cranberry",
+  "brand": "tata-soulfull",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 445,
+        "carbohydrate_g": 69,
+        "sugars_g": 9.2,
+        "fat_g": 14,
+        "saturated_fat_g": 5.6,
+        "trans_fat_g": 0,
+        "fibre_g": 9,
+        "sodium_mg": 8
+      }
+    }
+  ],
+  "ingredients_raw": "Rolled Oats (22%), Brown Rice Flakes (18.9%), Millets (16%) [Ragi (9.7%), Jowar (6.3%)], Dark Chocolate (0%) [Refined Sugar, Palm Oil, Cocoa Solids, Emulsifiers (INS 322, INS 476)], Flax seed (10%), Cranberry (6%), Jaggery, Almonds (3%), Rice Bran Oil, Date Syrup, Chia Seed (1%), Cocoa Solids, Natural Flavour, Edible Vegetable Pil (Palmolein), Iodised Salt, Anticaking Agent (INS 170(i)), Antioxidant (INS 320)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906113490337",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908022676260",
+  "barcode_printed": "8908022676260",
+  "barcode_format": "EAN-13",
+  "name": "Hunger Bar Multigrain Baked Bar - Fruit & Nut .",
+  "brand": "taakat",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Multigrain Flour (41%) (Whole Wheat Flour, Oats, Bengal Gram (Chana) Flour, Finger Millet (Ragi) Flour, Sorghum (Jowar) Flour), Sunflower Oil, Nuts & Seeds (7%) (Peanuts, Almonds, Sesame Seeds, Flax Seeds), Jaggery, Unrefined Sugar [Khandsari), Milk Solids, Raisins (2%), Raising Agent. (Baking Powder (INS 500(ii))). Rosemary Extract, lodized Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908022676260",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

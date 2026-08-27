@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151437",
+  "barcode_printed": "8901063151437",
+  "barcode_format": "EAN-13",
+  "name": "Tiger Glucose Biscuits",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Biscuits Nutrition Fac Valeur Nutrit About 19 servings per container / Portions Par boite Serving size/Portion: 8 Biscuits/Biscuits ( Amount per serving/Valeur Nutritive par portion (31g) Calories/Calories 140 % Daily Value* / %Valeur Quotidienne OUR (66 PAL SAME O NINGS CARBONA 0.5%). EA ODIUM SE 01 ILK. VA UM META N). MILK Total Fat / Lipides 4g 5% Saturated Fat/Lipides saturés 2g 10% BLÉ (66 Trans Fat/Lipides trans Og [HUILE Cholesterol / Cholestérol Omg HUILE 0% POUDR Sodium / Sodium 115mg 5% D'AMMO Total Carbohydrate / Glucides 24g ODIUM 9% 5%). Dietary Fibre / Fibres Alimentaires 0g 0% ET D Total Sugars/Sucres 8g E) E Includes 8g Added Sugars 16% UCOSE RTIFIC Comprend 8g De Sucres Ajoutés E C Protein / Protéines 2g PRODU Not a significant source of Vitamin D, Calcium & Iron/ Pas une source significative de Vitamine D, Calcium et Fer. Potassium / Potassium DE 35mg 1% RIA [O * The % Daily Value (DV) tells you how much a nutrset in a serving of food contributes to a daily diet. 2,000 cakies a day is used for general nutrition advice. CADA ROPE * Les valeurs quotidiennes de% (DV) vous indique à uei point un élément nutritif dans une portion de l'alime contribue à une alimentation quotidienne. 2.000 calies. par jour est utilisé pour des conseils généraux de la nution",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151437",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

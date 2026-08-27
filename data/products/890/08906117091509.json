@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117091509",
+  "barcode_printed": "8906117091509",
+  "barcode_format": "EAN-13",
+  "name": "NoNo's Tasties",
+  "brand": "brb",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WHEAT FLOUR (ATTA) (53%), RICE BRAN OIL, CORN STARCH, RICE FLOUR, MALTODEXTRIN, SUGAR, IODIZED SALT, ONION POWDER, GARLIC POWDER, HYDRO - LYZED VEGETABLE PROTEIN (SOY), SPICES & CONDIMENTS, ACIDITY REGULATOR (330), NATURAL COLOUR (160c) YEAST, NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES, STABILIZER (170), REFINED COCONUT OIL, EMULSIFIERS (472e, 471, 322) FLAVOUR ENHANCER (635).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117091509",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

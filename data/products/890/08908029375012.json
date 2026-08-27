@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908029375012",
+  "barcode_printed": "8908029375012",
+  "barcode_format": "EAN-13",
+  "name": "Super Gram Protein Nacho Chips Italian Cheese",
+  "brand": "super-gram",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn Corn (51.7%), Pea Protein Isolate, Ragi Flour, Jowar Flour, Gram Flour, Rice Flour, Corn Oil, Sesame Seeds, lodised Salt, Sugar, Milk Solids, Corn Maltodextrine, Mixed Spices & Condiments (Chilli, Onion Powder, Garlic Powder, Mustard Seeds Powder, Ajwain) Acidity Regulator (INS 330), Anti-caking Agent (INS 551). Flavour Enhancer (INS 627), Emulsifier (INS 414).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908029375012",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

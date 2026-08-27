@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001026471",
+  "barcode_printed": "8906001026471",
+  "barcode_format": "EAN-13",
+  "name": "100% Performance Whey Cold Coffee",
+  "brand": "avvatar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whey Protein concentrate, Alkalized Cocoa Powder, Coffee Powder, iodized salt, Stabilizer (INS 413, INS 416), Acesulfame potassium (INS 950), Sucralose (INS 955), Sunflower Lecithin (INS 322).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001026471",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "00046406414348",
+  "barcode_printed": "0046406414348",
+  "barcode_format": "EAN-13",
+  "name": "Vanilla",
+  "brand": "cream-bell",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 74.9,
+        "protein_g": 2.4,
+        "carbohydrate_g": 14.5,
+        "sugars_g": 3.5,
+        "fat_g": 3.1,
+        "saturated_fat_g": 2,
+        "sodium_mg": 36.7
+      }
+    }
+  ],
+  "ingredients_raw": "Potable Water, Milk Solids, Sweeteners (INS 965), Fructo - Oligosaccharides Emulsifying Agents (INS 433,471) & Stabilizing Agents (INS 401, 407,412) and Flavour (Nature-Identical and Artificial Flavouring Substances (Vanilla)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0046406414348",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

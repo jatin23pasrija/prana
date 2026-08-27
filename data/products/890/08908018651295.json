@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08908018651295",
+  "barcode_printed": "8908018651295",
+  "barcode_format": "EAN-13",
+  "name": "milkmix",
+  "brand": "troovy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 92,
+        "protein_g": 5,
+        "carbohydrate_g": 16,
+        "sugars_g": 11,
+        "fat_g": 0.7,
+        "saturated_fat_g": 0.4,
+        "trans_fat_g": 0,
+        "fibre_g": 1,
+        "sodium_mg": 58
+      }
+    }
+  ],
+  "ingredients_raw": "Protein blend (Corn, Pea protein, Barley malt extract, Milk solids, Ragi, Jowar, Amaranth, Flax seeds, Barley, Oats, Quinoa, Moong dal, Brown rice), Jaggery (34%), Cocoa Powder, Almonds and Walnuts, Natural Caramel (1) Colour, Natural flavors Contains added 23 Vitamins & Minerals Contains natural colour and flavour Allergens: Contains milk, nuts, barley, and oats For nutrition tips and healthy recipes! 981 022 8072 O@troovyfoods Vitamin B3 (mg) Chromium (mcg) Molybdenum (mcg) Inositol (mg) IMMUNITY Vitamin D2 (mcg) Zinc (mg) Vitamin A (mcg) Vitamin E (mg) Selenium (mcg) Copper (mg) Folic Acid (mcg) BRAIN DEVELO Choline (mg) lodine (mcg) Vitamin B12 (mcg) Biotin (mg) Omega 3 (mg) Linoleic acid (mg)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908018651295",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

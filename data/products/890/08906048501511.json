@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906048501511",
+  "barcode_printed": "8906048501511",
+  "barcode_format": "EAN-13",
+  "name": "Dexolac 1",
+  "brand": "nutricia",
+  "category": "milk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 490,
+        "energy_kj": 2052,
+        "protein_g": 10.5,
+        "carbohydrate_g": 60.5,
+        "sugars_g": 52,
+        "fat_g": 23.5,
+        "saturated_fat_g": 14.6,
+        "trans_fat_g": 0.7,
+        "sodium_mg": 170
+      }
+    }
+  ],
+  "ingredients_raw": "Partially Skimmed Milk, Lactose, Edible Vegetable Oils (Corn Oil & Canola Oil), Demineralised Whey and Whey Solids, Fructo-Oligosaccharides, Minerals#, Emulsifier (Soya Lecithin), Vitamins*, Acidity Regulator (Sodium Hydroxide), Choline, Taurine, L-Camitine, Antioxidant (Mixed Tocopherols).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906048501511",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

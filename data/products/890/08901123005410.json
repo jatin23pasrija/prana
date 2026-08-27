@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901123005410",
+  "barcode_printed": "8901123005410",
+  "barcode_format": "EAN-13",
+  "name": "Lotte Choco Pie",
+  "brand": "lotte",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 504,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 433,
+        "energy_kj": 1813,
+        "protein_g": 4,
+        "carbohydrate_g": 66,
+        "sugars_g": 37,
+        "fat_g": 17,
+        "saturated_fat_g": 13,
+        "sodium_mg": 185
+      }
+    }
+  ],
+  "ingredients_raw": "CHOCO COVERING (25%) [SUGAR, HYDROGENATED VEGETABLE FAT (PALM), COCOA SOLIDS, MILK SOLIDS, EMULSIFIERS (322,476), ARTIFICIAL FLAVOUR (VANILLA)], REFINED WHEAT FLOUR (MAIDA), SUGAR, LIQUID GLUCOSE, INTERESTERIFIED & HYDROGENATED VEGETABLE FAT (PALM), HUMECTANTS (420, 422), RAISING AGENTS (500(ii), 503(ii)], MILK SOLIDS, DEXTROSE, PRESERVATIVES (202, 281), IODISED SALT, STABILIZERS (407, 406, 440, 401, 461, 415), ACIDITY REGULATOR [341(i)] AND ARTIFICIAL FLAVOUR (MILK). (Numbers indicated in bracket as per International Numbering System) Allergen Information: Contains Wheat(Gluten), Milk & Soya",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901123005410",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

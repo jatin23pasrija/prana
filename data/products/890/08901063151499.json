@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151499",
+  "barcode_printed": "8901063151499",
+  "barcode_format": "EAN-13",
+  "name": "Good Day",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR, VEGETABLE OIL (PALM), SUGAR, INVERT SUGAR SYRUP, ALMOND (1.8%), CASHEW (1.3%), PISTACHIO (0.9%), WHOLE MİLK PÔWDER (0.6%), ÈN PÓUDRE (0.6%), AGENTS DE LEVAGE LEAVENING (AMMONIUM BICARBONATE, SODIUM BICARBONATE), BUTTER (0.5%) (MILK), SALT, EMULSIFIERS (SOY LECITHIN, DIACETYL TARTARIC ACID ESTERS D'ACIDE DIACETYL TARTRIQUE ESTER OF MONO & DI GLYCERIDES, DES MONO ET DIGLYCERIDES ET MONO MONO & DI GLYCERIDES OF FATTY ACIDS (PALM)), ARTIFICIAL FLAVORS (PALME)), SAVEURS ARTIFICIELLES (BUTTER, MILK & VANILLA), ARTIFICIAL COLOUR (FD & C YELLOW No.5) (TARTRAZINE). CONTAINS: WHEAT (GLUTEN), MILK PRODUCTS, SOY AND TREE NUTS (ALMOND, CASHEW & PISTACHIO)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151499",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

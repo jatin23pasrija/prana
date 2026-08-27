@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "05059883417448",
+  "barcode_printed": "5059883417448",
+  "barcode_format": "EAN-13",
+  "name": "Clear Whey Protein Chupa Chups Strawberry Flavour",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 Scoop (25 g)",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 86.75,
+        "protein_g": 20,
+        "carbohydrate_g": 0.31,
+        "sugars_g": 0.1,
+        "fat_g": 0.06,
+        "saturated_fat_g": 0.03,
+        "trans_fat_g": 0,
+        "sodium_mg": 10
+      }
+    }
+  ],
+  "ingredients_raw": "Hydrolysed Whey Protein Isolate (97.7%) (Anti-foaming Agent (Silicon Dioxide)), Artificial Flavour (Strawberry), Acidity Regulator (Citric acid), Concentrated Beetroot Juice Powder, Sweetener (Sucralose).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5059883417448",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

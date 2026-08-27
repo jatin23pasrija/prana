@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08902042302123",
+  "barcode_printed": "8902042302123",
+  "barcode_format": "EAN-13",
+  "name": "Tea Premix",
+  "brand": "avt",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 216,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 405,
+        "protein_g": 7.03,
+        "carbohydrate_g": 87,
+        "sugars_g": 61.2,
+        "fat_g": 2.96,
+        "saturated_fat_g": 2.89,
+        "sodium_mg": 147
+      }
+    }
+  ],
+  "ingredients_raw": "Dairy whitener [Milk Solids, Sugar, Stabilisers INS 339 (1) 339 (ii)]. Sugar & Instant Tea.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902042302123",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

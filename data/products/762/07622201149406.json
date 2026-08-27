@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201149406",
+  "barcode_printed": "7622201149406",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury Dairy Milk Chocolate",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 24,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 534,
+        "protein_g": 8.1,
+        "carbohydrate_g": 60.4,
+        "sugars_g": 57.3,
+        "fat_g": 28.9,
+        "saturated_fat_g": 17.5,
+        "sodium_mg": 158.5
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar , Milk Solids(22%), Cocoa butter, Cocoa Solids ,Edible vegetable fat, Emulsifiers(442,476).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201149406",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

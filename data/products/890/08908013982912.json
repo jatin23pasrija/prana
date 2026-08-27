@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013982912",
+  "barcode_printed": "8908013982912",
+  "barcode_format": "EAN-13",
+  "name": "LAHORI Zeera",
+  "brand": "lahori-zeera",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Quantity: 2L CARBONATED BEVERAGE WITH FRUIT JUICE NGREDIENTS: CARBONATED WATER, SUGAR, LEMON JUICE CONCENTRATE (0.3%) EQUIVALENT TO 2.5% LEMON JUICE RECONSTITUTED], ACIDITY REGULATOR NS 230 NATURAL&NATURE-IDENTICAL FLAVOURING SUBSTANCES), BLACK SALT, ODISED SALT STABILISER (INS 414), CONTAINS PERMITTED NATURAL COLOUR (INS-150d) AND FLAVOURS COMIN SEED, BLACK PEPPER & DRY GINGER POWDER, CLASS II PRESERVATIVE - 211) INS-INTERNATIONAL NUMBERING SYSTEM",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013982912",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

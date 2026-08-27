@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08906112662803",
+  "barcode_printed": "8906112662803",
+  "barcode_format": "EAN-13",
+  "name": "Muesli",
+  "brand": "true-elements",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 425.4,
+        "energy_kj": 1781,
+        "protein_g": 13.5,
+        "carbohydrate_g": 68.1,
+        "sugars_g": 0,
+        "fat_g": 10.9,
+        "saturated_fat_g": 3.5,
+        "trans_fat_g": 0,
+        "fibre_g": 11.5,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Rolled Oats (35.4%), Wheat Flakes (25.6%), Millets (18.3% - Jowar), Seeds (13% - Flax, Pumpkin), Almonds (5.3%), Freeze Dried Fruits (2.3% - Chikoo, Fig, Pineapple), Rosemary Extract.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906112662803",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906011851025",
+  "barcode_printed": "8906011851025",
+  "barcode_format": "EAN-13",
+  "name": "Sesame Chutney",
+  "brand": "katdare",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 490.16,
+        "protein_g": 24.06,
+        "carbohydrate_g": 37.55,
+        "sugars_g": 0,
+        "fat_g": 27.08,
+        "saturated_fat_g": 3.76,
+        "fibre_g": 13.1,
+        "sodium_mg": 499.3
+      }
+    }
+  ],
+  "ingredients_raw": "Sesame, Dry coconut, Red chilli, Iodised salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906011851025",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

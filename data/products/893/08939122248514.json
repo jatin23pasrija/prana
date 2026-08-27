@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08939122248514",
+  "barcode_printed": "8939122248514",
+  "barcode_format": "EAN-13",
+  "name": "Magnesium Bisglycinate",
+  "brand": "naturaltein",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Magnesium Glycinate, Maize Starch (INS 1401), Di Calcium Phosphate (INS 341ill), Microcrystalline Cellulose (INS 460), Cross Carmellose Sodium (INS 468), PVPK (INS 1201), Silicon Dioxide (E551)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939122248514",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

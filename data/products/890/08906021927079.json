@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021927079",
+  "barcode_printed": "8906021927079",
+  "barcode_format": "EAN-13",
+  "name": "apis seeded dates",
+  "brand": "apis",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28g",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 102.2,
+        "protein_g": 0.5,
+        "carbohydrate_g": 24.85,
+        "sugars_g": 19.15,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 1.98,
+        "sodium_mg": 0.56
+      }
+    }
+  ],
+  "ingredients_raw": "seeded dates",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021927079",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

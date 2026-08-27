@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200181",
+  "barcode_printed": "8904063200181",
+  "barcode_format": "EAN-13",
+  "name": "Khatta Meetha",
+  "brand": "haldiram-s",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Chickpeas Flour (30%), Vegetable Oil (Cotton Seed, Corn and Palm), _Peanuts_ (8%), Rice Flakes (8%), Starch (Sago), Sugar Powder (5%), Green Peas (4%), Mix Spices (3.20%) (Mango Powder (0.70%), Turmeric Powder (0.70%), Cumin Powder (0.65%), Ginger Powder (0.65%), Black Pepper Powder (0.50%)), Split Chickpeas (3%), Puy Lentils (2%), Salt, Acid (E 330 and E 500(ii)) and Anticaking Agent (E551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200181",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

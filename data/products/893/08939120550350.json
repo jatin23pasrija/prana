@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08939120550350",
+  "barcode_printed": "8939120550350",
+  "barcode_format": "EAN-13",
+  "name": "Mix Grain Bite Chikki",
+  "brand": "ideal-chikki",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 496,
+        "protein_g": 9.85,
+        "carbohydrate_g": 53.17,
+        "sugars_g": 48.72,
+        "fat_g": 27.1,
+        "saturated_fat_g": 4,
+        "sodium_mg": 25
+      }
+    }
+  ],
+  "ingredients_raw": "Til, Black Til, Rajgira, Peanut & Jaggery MRP: 80/- (Inclusive of all taxes) Mfg Date: 24-10-2025",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939120550350",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

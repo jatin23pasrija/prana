@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08902710508727",
+  "barcode_printed": "8902710508727",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy Fruit & Nut Muesli",
+  "brand": "bagrry-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 380,
+        "protein_g": 9,
+        "carbohydrate_g": 80.7,
+        "sugars_g": 16.3,
+        "fat_g": 4,
+        "saturated_fat_g": 0.7,
+        "trans_fat_g": 0,
+        "fibre_g": 7.3,
+        "sodium_mg": 156
+      }
+    }
+  ],
+  "ingredients_raw": "Rolled Oats (34.2%), Nuts & Raisins 22.9% (Raisins, Dates, Almonds), Whole Wheat Flakes 15.2% (Wheat, Sugar, lodised Salt, Cereal Extract and Antioxidants-INS 322& INS 307b), Invert Syrup, Dehydrated Fruits 6.6% (Mango Powder, Banana, Cranberry (1%), Papaya, Strawberry Powder & Lemon Juice Powder), Broken Rolled Wheat, Wheat Bran, Apple Juice Concentrate (2%), Oat Bran Honey, Beetroot Powder and Antioxidant (INS 307b).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902710508727",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

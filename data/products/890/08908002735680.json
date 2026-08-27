@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002735680",
+  "barcode_printed": "8908002735680",
+  "barcode_format": "EAN-13",
+  "name": "Suji Rusk",
+  "brand": "vita-s",
+  "category": "rusk",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined wheat flour, Suji, Water, Sugar, Yeast Edible common salt, Edible vegetable oil (palm) Soya flour, Class II preservative(282), Emulsifier [472e, 481 (1)], Acidity Regulator (260), Antioxidant (300), Improver (1100).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002735680",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

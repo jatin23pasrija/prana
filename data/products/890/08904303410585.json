@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904303410585",
+  "barcode_printed": "8904303410585",
+  "barcode_format": "EAN-13",
+  "name": "True classics chocolate bar- Bitter",
+  "brand": "smoor",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 605.49,
+        "protein_g": 8.9,
+        "carbohydrate_g": 48.23,
+        "sugars_g": 26.6,
+        "fat_g": 39.53,
+        "saturated_fat_g": 23.72,
+        "fibre_g": 10.6,
+        "sodium_mg": 100
+      }
+    }
+  ],
+  "ingredients_raw": "Dark chocolate (Cocoa solids, Cocoa butter, Sugar and Emulsifier (INS 322(i) and INS 476), Natural flavouring substance (Vanilla)) )",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904303410585",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

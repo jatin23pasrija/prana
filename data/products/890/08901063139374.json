@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063139374",
+  "barcode_printed": "8901063139374",
+  "barcode_format": "EAN-13",
+  "name": "BOURBON",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "EDIBLE MAIZI CH, 122, 110, 13 & 102), COCOA SOLIDS (2.7%), MILK SOUDS, RAISING AGENTS (500) & 503(1) NATURE IDENTICAL & ARTIFICIAL (VANILU CHOCOLATE MILK & MILKY COCOA) FLAVOUING SUBSTANCES, EMULSIFIERS [471 & 322(1), M.K CHOCOLATE (0.1%) [EMULSIFIER (322(1) AD IODSED SALT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063139374",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

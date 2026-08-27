@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063342934",
+  "barcode_printed": "8901063342934",
+  "barcode_format": "EAN-13",
+  "name": "100% Whole Wheat Sandwich Bread",
+  "brand": "britannia",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 245,
+        "protein_g": 8.3,
+        "carbohydrate_g": 50.7,
+        "fat_g": 2
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR (ATTA) (62%), YEAST, WHEAT BRAN, VITAL GLUTEN, SUGAR, IODISED SALT, REFINED PALMOLEIN OIL, COLOUR (150a), PRESERVATIVE (282), IMPROVERS (1100(i), 1104, 1102, XYLANASE), EMULSIFIERS (471, 481(i), 472e), ACIDITY REGULATOR (260) AND FLOUR TREATMENT AGENT (510).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063342934",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

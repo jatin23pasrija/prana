@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "00986614900106",
+  "barcode_printed": "0986614900106",
+  "barcode_format": "EAN-13",
+  "name": "OK Hyderabadi Veg Biriyani",
+  "brand": "spot-on",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 521,
+        "protein_g": 6.7,
+        "carbohydrate_g": 61.7,
+        "sugars_g": 5.6,
+        "fat_g": 27.6,
+        "saturated_fat_g": 15.2,
+        "trans_fat_g": 0.2
+      }
+    }
+  ],
+  "ingredients_raw": "Corn Meal, Edible Vegetable Oil,Gram Meal, Sugar,Iodised Salt,Black Salt, Spices and Condiments (Onion Powder,Chilli Powder,Garlic Powder,Amchur, Coriander Powder,) Milk Solids, Citric Acid, Flavour Enhancer (INS-621) Edible Starches.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0986614900106",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

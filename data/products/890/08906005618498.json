@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005618498",
+  "barcode_printed": "8906005618498",
+  "barcode_format": "EAN-13",
+  "name": "English Tea Cake",
+  "brand": "winkies",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 435,
+        "protein_g": 7.5,
+        "carbohydrate_g": 46.4,
+        "sugars_g": 29.7,
+        "fat_g": 24.4,
+        "sodium_mg": 298.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005618498",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

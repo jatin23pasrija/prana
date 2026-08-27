@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009531335",
+  "barcode_printed": "8906009531335",
+  "barcode_format": "EAN-13",
+  "name": "Max protein active choco fudge bar",
+  "brand": "max-protein-active",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Protein Blend (31%) (Soy Nuggets, Whey Protein Concentrate, Calcium Caseinate, Soy Concentrate), Brown Rice Syrup (Liquid Glucose), Milk Compound (15%) (Sugar, Edible Vegetable Oil (Hydrogenated Fat), Milk Solids, Cocoa Solids, Emulisifier (Soy Lecithin), Vanilla Flavours), Edible Vegetable Oil (Hydrogenated Vegetable Oil), Dietary Fiber (7%) (Fructooligosacharide, Wheat Fiber), Almonds (5%), Whole Grain Rolled Oats (4.4%), Raisins (2.5%), Cashew Nuts (2%), Humectant (Glycerine), Fructose, Cocoa Powder, Milk Solids, Flaxseeds, Emulsifier (Soy Lecithin), Binding Agent (Guar Gum), Soy Protein Isolate, Tribasic Calcium Phosphate, Salt and Citric Acid, Antioxidants (Vitamin C), Vitamins, Minerals, Glutamine and Amino Acids Allergen Declaration: Contains Soy Milk & Nut",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009531335",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

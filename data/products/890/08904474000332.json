@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904474000332",
+  "barcode_printed": "8904474000332",
+  "barcode_format": "EAN-13",
+  "name": "Multigrain high fibre bread",
+  "brand": "bonn",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 306,
+        "protein_g": 10.2,
+        "carbohydrate_g": 51.18,
+        "sugars_g": 4.2,
+        "fat_g": 5.31,
+        "saturated_fat_g": 0.74,
+        "fibre_g": 6.4,
+        "sodium_mg": 524
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour - Atta (43.5%), Water, Grain Mix (8.7%) [Rolled Per RDA Per Seeds, Gluten, Wheat Bran, Malt Flour, Niger Seed, Starch, Soy Flour, Improver Seeds], Multigrain Mix (4.8%) [Broken, Wheat, Linseed, Iodized Salt, Sunflower Oats, Soyabean, Linseeds, Sesame Seeds, Sunflower Seeds, Wheat Bran & Melon 300 7.65% Gluten, lodize Salt, Preservatives [280, 281 & 2001, Vinegar, Emulsifiers [481(1). {170(i)} & Enzyme (Xylanase)], Sugar, Yeast, Edible Sunflower Oil, Malt Extract, 631 3.96% 471 & 472e], Soy Flour, Flour Improver [1100(i) & 1104] and Antioxidants [300& 100 174 Serve # 68% 1102].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904474000332",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

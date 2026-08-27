@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906000220603",
+  "barcode_printed": "8906000220603",
+  "barcode_format": "EAN-13",
+  "name": "Betty Crocker chocolate chip cookie mix imp",
+  "brand": "betty-crocker",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "sugar, wheat flour, chocolate chips (15%) (sugar, cocoa mass, cocoa butter, emulsifier (soy lecithin), flavouring), fat powder (palm fat, dried glucose syrup, milk protein), palm fat, egg yolk powder, salt, raising agent (sodium carbonates), egg white powder, dry molasses flavouring,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906000220603",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059636615",
+  "barcode_printed": "8906059636615",
+  "barcode_format": "EAN-13",
+  "name": "Protein Milkshake",
+  "brand": "epigamia-turbo",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Skimmed Milk (79%), Milk Solids, Water, Cocoa Powder (0.5%), Natural & Nature Identical Flavouring Substances (Chocolate&Vanilla), Acidity Regulators [INS 340, INS 452, INS 339 (i), Stabilizers (INS 407), Sweetener (INS 955), Edible Common Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059636615",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

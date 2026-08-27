@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042968988",
+  "barcode_printed": "8901042968988",
+  "barcode_format": "EAN-13",
+  "name": "3 minute breakfast vegetable upma",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 418,
+        "protein_g": 8,
+        "carbohydrate_g": 71,
+        "sugars_g": 4,
+        "fat_g": 11.3,
+        "saturated_fat_g": 6.7,
+        "sodium_mg": 1160
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042968988",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

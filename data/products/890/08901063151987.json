@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151987",
+  "barcode_printed": "8901063151987",
+  "barcode_format": "EAN-13",
+  "name": "Nutri choice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Flour (wheat), sugar (cane sugar, liquid glucose, maltodextrin, invert sugar), vegetable fat (palm), oat flakes (14.5%), almond (3.5%), wheat bran, sodium bicarbonate, ammonium bicarbonate, sodium acid pyrophosphate, oat fiber, skim milk powder, orange peel (0.5%), soy lecithin, mono , diglycerides of fatty acids (palm), diacetyle tartaric acid esters of mono , diglycerides (palm), salt, orange juice powder (1.2%), orange (artificial flavour), caramel colour (contains sulphite)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151987",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

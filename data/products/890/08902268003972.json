@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08902268003972",
+  "barcode_printed": "8902268003972",
+  "barcode_format": "EAN-13",
+  "name": "Yummy Elaichi Flavoured Sandwich",
+  "brand": "anmol",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 484.5,
+        "protein_g": 6.56,
+        "carbohydrate_g": 73.41,
+        "sugars_g": 23.44,
+        "fat_g": 17.98,
+        "saturated_fat_g": 9.34,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OILS (PALM), HYDROGENTED EDIBLE VEGETABLE FAT, INVERT SYRUP, RAISING AGENTS [INS 503(ii), INS 500(ii)], EDIBLE STARCH, LIQUID GLUCOSE, EDIBLE COMMON SALT PERMITTED EMULSIFIERS (INS 322, INS 471) CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 102, INS 133) AND ADDED FLAVOURS (NATURE IDENTICAL FLAVOURING SUBSTANCE-CARDAMOM & ARTIFICIAL FLAVOURING SUBSTANCE-MILK)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902268003972",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906116954805",
+  "barcode_printed": "8906116954805",
+  "barcode_format": "EAN-13",
+  "name": "Biozyme Performance Whey",
+  "brand": "muscleblaze",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 36,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Protein Blend (91%) (Whey Protein Concentrate & Whey Powder), Cocoa Powder, Nature Identical Flavouring Substances, Lecithin, MB Enzyme Pro®, Salt, Bromelain (Stabilizer) & Sucralose (Sweetener) MB EnzymePro® [Proteolytic Enzyme Composition] - A unique patented & clinically studied Enhanced Absorption Formula (EAF) CONTAIN NON-CALORIC SWEETENER This contains Sucralose",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906116954805",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

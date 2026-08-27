@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906019779505",
+  "barcode_printed": "8906019779505",
+  "barcode_format": "EAN-13",
+  "name": "Australian Almond Kernels",
+  "brand": "nutraj",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 606.51,
+        "protein_g": 19.42,
+        "carbohydrate_g": 21.26,
+        "sugars_g": 5.3,
+        "fat_g": 49.31,
+        "saturated_fat_g": 9.59,
+        "sodium_mg": 3.33
+      }
+    }
+  ],
+  "ingredients_raw": "Almond Kernels",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906019779505",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

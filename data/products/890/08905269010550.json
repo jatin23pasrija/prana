@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08905269010550",
+  "barcode_printed": "8905269010550",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi Biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 400,
+        "protein_g": 13.33,
+        "carbohydrate_g": 66.67,
+        "sugars_g": 20,
+        "fat_g": 13.33,
+        "saturated_fat_g": 13.33,
+        "fibre_g": 20,
+        "sodium_mg": 233.33
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905269010550",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117360346",
+  "barcode_printed": "8906117360346",
+  "barcode_format": "EAN-13",
+  "name": "Country Delight Paneer",
+  "brand": "country-delight",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 261,
+        "protein_g": 15.7,
+        "carbohydrate_g": 2.3,
+        "sugars_g": 2.3,
+        "fat_g": 21.1,
+        "saturated_fat_g": 14.8,
+        "fibre_g": 0,
+        "sodium_mg": 26
+      }
+    }
+  ],
+  "ingredients_raw": "Buffalo Milk, Citric Acid (INS 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117360346",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

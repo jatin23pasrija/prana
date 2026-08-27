@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906125981717",
+  "barcode_printed": "8906125981717",
+  "barcode_format": "EAN-13",
+  "name": "Corn Chips, Salt And truffle",
+  "brand": "4700-bc",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28 g",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 124,
+        "protein_g": 2.1,
+        "carbohydrate_g": 20.3,
+        "sugars_g": 0.7,
+        "fat_g": 3.8,
+        "saturated_fat_g": 1,
+        "fibre_g": 2,
+        "sodium_mg": 161
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906125981717",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

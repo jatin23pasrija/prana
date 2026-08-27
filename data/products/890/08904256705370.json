@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904256705370",
+  "barcode_printed": "8904256705370",
+  "barcode_format": "EAN-13",
+  "name": "All in one mixture",
+  "brand": "tasties",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Chickpeas flour, Edible vegetable oil, Refined cottonseed oil and Refined palmolein oil), Black lentil (12%) Peanut (9%), Rice flakes (5%), Chickpeas split (5%), Green gram split (3%), Iodised salt, Spices & Condiments and Acidity regulator (INS 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904256705370",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

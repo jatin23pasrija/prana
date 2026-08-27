@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "09556247514318",
+  "barcode_printed": "9556247514318",
+  "barcode_format": "EAN-13",
+  "name": "Raisin Coated With Milk Chocolate",
+  "brand": "beryl-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kj": 2149,
+        "protein_g": 5.9,
+        "carbohydrate_g": 58.9,
+        "fat_g": 28.3,
+        "trans_fat_g": 0,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Full Cream Milk Powder, Raisin, Cocoa Mass, Cocoa Butter, Vegetable Fat, Tapioca Starch, Glazing Agent (E904), Emulsifier (Soya Lecithin E322), Vanilla. May Contain Traces Of Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9556247514318",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

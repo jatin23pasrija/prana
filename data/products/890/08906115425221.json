@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08906115425221",
+  "barcode_printed": "8906115425221",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy Khara Ompudi",
+  "brand": "wellbe",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 178.8,
+        "protein_g": 3.5,
+        "carbohydrate_g": 12.6,
+        "sugars_g": 0.2,
+        "fat_g": 12.7,
+        "saturated_fat_g": 3.72,
+        "fibre_g": 1.3,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Transfat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906115425221",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

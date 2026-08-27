@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901786120505",
+  "barcode_printed": "8901786120505",
+  "barcode_format": "EAN-13",
+  "name": "Kitchen King Masala",
+  "brand": "everest",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "توابل كيتشن گینغ INGREDIENTS Coriander, Cumin, Chilli, Turmeric, Black Pepper, Garlic, Dry Ginger, Mace, Green Cardamom, Bengal gram, Black gram, Nutmeg, Fenugreek, Cassia, Clove, Caraway, Star anise, Dry Fenugreek Leaf, Common Salt,Asafoetida, Mustard and Black Cardamom. المکونات گزبرة، کمون، فلفل، كركم، فلفل آسود، نوم، زنجبيل جاف، صولجان، هيل أخضر، غرام بنغال، حمص أسود، جوزة الطيب، حلبة، قناء هندي، قرنفل، كراوية، ينسون نجمي، أوراق الحلبة جاف، ملح عادي، حلنيت، خردل و هيل أسود MIXED SPICES 8 901786I120505 Produce of India",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901786120505",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

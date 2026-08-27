@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005618726",
+  "barcode_printed": "8906005618726",
+  "barcode_format": "EAN-13",
+  "name": "Pineapple Cake",
+  "brand": "winkles",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), EGGS, SUGAR, BAKERY SHORTENING, WATER, FRUIT PRODUCTS [FRUIT CUTS (5%) (PAPAYA, SUGAR, ACIDITY REGULATOR (INS 330), PRESERVATIVE (ONS 2113, SINTHETIC FOOD COLOUR (INS 110, INS 102, INS 143, INS 124)) AND PINEAPPLE CUTS (2%)), PALM OIL, HUMECTANTS (IMS 422, INS 420), LIQUID GLUCOSE, MIXED FRUIT JAM, MILK SOLIDS, INVERT SYRUP, CAKE GEL (INS 471, INS 477, INS 1520, INS 420, IMS 412), RAISING AGENT [INS 500(H)] & BAKING POWDER, EDIBLE COMMON SALT, PRESERVATIVES (INS 282, INS 200), ARTIFICIAL FLAVOUR (PINEAPPLE AND VANILLA), ACIDITY REGULATOR (INS 260), STABILIZER (INS 412, INS 415), EMULSIFIERS (INS 471, INS 477, INS 322) AND ARTIFICIAL FOOD COLOUR (INS 102). (Numbers in brackets as per International Numbering System). CONTAINS WHEAT, MILK, EGG AND SOY INGREDIENTS. POLYOLS MAY HAVE LAXATIVE EFFECTS. KEEP YOUR CITY CLEAN 110 NET WEIGHT: MRP: (INCL., OF ALL TAXES)/(#Pe LOT NO.: MANUFACTURING DATE: USE BY: CARING FOR YOUR CAKES: DRY AND HYGIENIC CONDITION (E) SOUTHERN BAKERIES PVT. LTD: REGU. OFFICE & WORKS: PLOT N INDUSTRIAL AREA, 2ND PHASE, BANGALORE URBAN (KARNATAKA)-5",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005618726",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

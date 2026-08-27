@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901401000489",
+  "barcode_printed": "8901401000489",
+  "barcode_format": "EAN-13",
+  "name": "Threptin Lite",
+  "brand": "threptin",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 275,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "20.0 portion (100.0 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 419,
+        "protein_g": 30,
+        "carbohydrate_g": 48,
+        "fat_g": 14,
+        "saturated_fat_g": 7,
+        "fibre_g": 3
+      }
+    }
+  ],
+  "ingredients_raw": "Casein, Precooked Wheat Flour, Maltodextrin, Edible Vegetable Fa Bengal Gram, Polyol (421), Whey Protein Concentrate, Wheat Fiber, Soluble Fiber F Agent (501 (ii)), Emulsifier (322), Vitamins, Sweetener (960), Antioxidant (304) & Minerals CONTAINS ADDED ARTIFICIAL FLAVOURING SUBSTANCES (Vanilla-Butterscotch) APPROXIMATE COMPOSITION per 100g Protein 30.00 g Antioxidants 45.00 mg L-Arginine 1.14 g Vitamin C Total Fat 14.00 g Polyunsaturated Fat 1.12 g Monounsaturated Fat 5.88 g Saturated Fat 7.00 g Cholesterol Carbohydrate Trans Fatty Acids 0.00 g Vitamin B 0.00 g Total Sugars 48.00 g Folic Acid Dietary Fibre Added Sugars 0.00 g 0.00 g 3.00 g Potassium 350.00 mg Fructo-oligosaccharide (FOS) 1.20 g No sugar added in the product Polyols may have laxative effect MADE WITH ASSURANCE IN INDIA NET WEIGHT 2754 Vitamin B₁z Energy Value Chromium Homocysteine Lowering B-Vitamins 1.50 mg 200.00m 1.00m Vitamin E (as Tocopherol Equivalent) 11.00 mg Vitamin A (as Retinol Equivalent) 400.00m 35.00mcg 419.00 k",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901401000489",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

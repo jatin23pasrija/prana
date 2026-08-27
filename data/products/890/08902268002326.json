@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08902268002326",
+  "barcode_printed": "8902268002326",
+  "barcode_format": "EAN-13",
+  "name": "Dream LITE",
+  "brand": "anmol",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 502,
+        "protein_g": 7.7,
+        "carbohydrate_g": 64,
+        "sugars_g": 8,
+        "fat_g": 24,
+        "saturated_fat_g": 11.5
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR, EDIBLE VEGETABLE OILS (PALMI, SUGAR, RAISING AGENTS [INS 503(), INS 500ti). LIQUID GLUCOSE, EDIBLE COMMON SALT, BESAN, INVERT SYRUP, MALT EXTRACT, MILK SOLIDS, DEHYDRATED & POWDERED VEGETABLES CABBAGE, CARROT & CORIANDER LEAVES) 0.9%, PERMITTED EMULSIFIERS INS 322 INS 471 . SPICES & CONDIMENTS AJOWAN, GREEN CHILLI 0.12%, lMPROVE R (INS 1101 1 CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 102, INS 124] AND ADDED FLAVOURS (NATURE IDENTICAL FLAVOURING SUBSTANCE MIXED SPICE & ARTIFICIAL FLAVOURING SUBSTANCE, BUTTER!",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902268002326",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

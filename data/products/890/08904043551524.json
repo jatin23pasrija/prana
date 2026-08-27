@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043551524",
+  "barcode_printed": "8904043551524",
+  "barcode_format": "EAN-13",
+  "name": "modern family special bread",
+  "brand": "modern",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (67.5%), Sugar, Yeast, lodized Salt, Edible Vegetable Fat Interesterified), Gluten, Soya Flour, Preservatives (282, 200), Emulsifier (471), Acidity Regulators 260,297), Flour Treatment Agent (540) and Antioxidant (300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043551524",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

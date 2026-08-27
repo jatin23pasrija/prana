@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262070546",
+  "barcode_printed": "8901262070546",
+  "barcode_format": "EAN-13",
+  "name": "Chocominis",
+  "brand": "amul",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 526,
+        "protein_g": 5.3,
+        "carbohydrate_g": 61.1,
+        "sugars_g": 56.6,
+        "fat_g": 29.3,
+        "saturated_fat_g": 28.3,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 60
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, hydrogenated edible vegetable oil (palm kernel oil), milk solids, cocoa solids, emulsifiers (492, 322), artificial flavouring substances (cocoa, vanilla). Allergen Information: Contains milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262070546",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

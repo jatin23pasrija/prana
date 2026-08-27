@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906140520663",
+  "barcode_printed": "8906140520663",
+  "barcode_format": "EAN-13",
+  "name": "Fruit bar alphonso mango",
+  "brand": "mercelys",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Sugar, Alphonso mango pulp, Liquid glucose, Emulsifiers and Stabilizers (E471 - VEGETABLE SOURCE, E466, E415, E412, E407, E405), Citric acid (E330), Paprika extract, Turmeric extract, Natural flavouring substance (Mango)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906140520663",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

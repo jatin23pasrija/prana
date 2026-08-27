@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906101090105",
+  "barcode_printed": "8906101090105",
+  "barcode_format": "EAN-13",
+  "name": "Strawberry, Chocolate, Jaggery",
+  "brand": "again",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 78,
+        "energy_kj": 326,
+        "protein_g": 3,
+        "carbohydrate_g": 12,
+        "sugars_g": 11,
+        "fat_g": 2,
+        "saturated_fat_g": 1.2,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Double Toned _Milk_, Strawberry Puree, Jaggery, Cocoa Mass and less than 1% of Acidity Regulator (INS 340 (ii)) and Thickener (Gellan Gum, Carrageenan) CONTAINS PERMITTED NATURAL COLOURS (BEETROOT) AND ADDED FLAVOURS-NATURAL (STRAWBERRY) FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906101090105",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

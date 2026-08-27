@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030712012",
+  "barcode_printed": "8901030712012",
+  "barcode_format": "EAN-13",
+  "name": "Boost",
+  "brand": "boost",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "230 c na. (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 369,
+        "protein_g": 7.5,
+        "carbohydrate_g": 80,
+        "sugars_g": 35,
+        "fat_g": 2.5,
+        "saturated_fat_g": 2.2,
+        "fibre_g": 2,
+        "sodium_mg": 450
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030712012",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

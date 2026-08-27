@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08906130900628",
+  "barcode_printed": "8906130900628",
+  "barcode_format": "EAN-13",
+  "name": "Choco Pie Orange",
+  "brand": "orion",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "25 g",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 106.8,
+        "energy_kj": 447,
+        "protein_g": 1.1,
+        "carbohydrate_g": 16.2,
+        "sugars_g": 9.6,
+        "fat_g": 4.2,
+        "saturated_fat_g": 2.9,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Refined _Wheat_ Flour (Maida), Choco Covering (21%) [Sugar, Hydrogenated Vegetable Fat, Cocoa Solids, _Milk_ Solids, Emulsifier (INS 322) And Nature Identical Flavour (Vanillin)], Sugar, Liquid Glucose, Orange Filling (9.3%) [Water, Liquid Glucose, Sugar, Orange Juice (15.5%), Fructose, Maltodextrin, Acidity Regulator (INS 330), Stabilizer (INS 440, INS 415), Nature-identical Flavour (Orange), Preservative (INS 211), Colour (INS 102 & INS 110)]. Hydrogenated Vegetable Fat, Humectant (INS 422), Dextrose, Raising Agents [INS 500(1), INS 503 (ii)], Stabilizers (INS 407, INS 440, INS 415, INS 410), Edible Common Salt, Hydrolyzed Pea Protein, Preservatives (INS 202, INS 281), Acidity Regulator [INS 341(i)], Nature Identical Flavour (Vanillin).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906130900628",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

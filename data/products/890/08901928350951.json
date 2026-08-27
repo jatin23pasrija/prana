@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901928350951",
+  "barcode_printed": "8901928350951",
+  "barcode_format": "EAN-13",
+  "name": "Googly",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 460.11,
+        "protein_g": 6.23,
+        "carbohydrate_g": 68.33,
+        "sugars_g": 21.49,
+        "fat_g": 23.94,
+        "saturated_fat_g": 13.65,
+        "sodium_mg": 134
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901928350951",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063214386",
+  "barcode_printed": "8904063214386",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi Tadka",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 220,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NUTRITIONAL INFORMATION 579 0 kcal 11.08 Total Carbohydr 46.0 g Tetal Sugale 3.0 g Added Sugars 2.5 g 10 39.0 g Total Fat 11.6 Saturated Fat 17.0 g Tris Fat &lt;0.1&quot; g 15.5 &lt;5.0* 1450.0 mg 14.5 % RDA Daily Values are based on 2000 Kcal diet. t Per Serve size is 20g; #Limit of Quantification INGREDIENTS: Edible Vegetable Oil (Cotton Seed, Corn, Palmolein and Rice Bran Gram Flour, Potato Flakes, Moth Dal Flour Tapioca Starch, Potato Starch * Spices and Condiments (Coriander Powder, Cumin Powder, Red Chilli Powder, Black Pepper Powder, Turmeric Powder, Ginger Powder, Big Cardamom Powder, Clove Powder, Onion Powder, Garlic Powder, Spice Extract), lodised Salt, Starch Powder, Sugar Powder, Maltodextrin, Dextrose, Milk Solids, Acidity Regulators (INS 330 & INS 296) and Flavor Enhancers (INS 627 & INS 631) and Natural & Nature Identical Flavouring Substances. *Used as natural flavouring agent. Allergen Information: Contains milk solids. NET WEIGHT: 220 g (200 g +20 g Extra) SERVINGS PER PACK: 11",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063214386",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

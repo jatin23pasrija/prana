@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902611010169",
+  "barcode_printed": "8902611010169",
+  "barcode_format": "EAN-13",
+  "name": "Rosół z kury",
+  "brand": "winiary",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pasta 52,1% (Durum _Wheat_ Semolina), Salt, Dried Vegetables (Carrot, _Celery_, Onion, Parsnip, Parsley), Sugar, Potato Starch, Yeast Extracts, Chicken Fat 1,5%, Flavourings (with _Gluten_, _Celery_), Parsley, Spices, Caramelised Sugar, Acid (Citric Acid), Dried Chicken Meat 0.01%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902611010169",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

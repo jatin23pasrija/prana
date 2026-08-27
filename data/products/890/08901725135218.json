@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725135218",
+  "barcode_printed": "8901725135218",
+  "barcode_format": "EAN-13",
+  "name": "sunfeast yippe",
+  "brand": "itc",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 357,
+        "energy_kj": 1495,
+        "protein_g": 12,
+        "carbohydrate_g": 70,
+        "sugars_g": 7.7,
+        "fat_g": 4,
+        "saturated_fat_g": 2,
+        "trans_fat_g": 0.03,
+        "fibre_g": 0,
+        "sodium_mg": 1624
+      }
+    }
+  ],
+  "ingredients_raw": "PASTA: WHEAT SEMOLINA (SUJI) (100%). MASALA PASTA SAUCEMAKER: DAIRY WHITENER (MILK SOLIDS, SUGAR), IODIZED SALT, INSTANT NOODLE POWDER INT? [REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, IODIZED SALT AND WHEAT GLUTEN], #SPICES AND CONDIMENTS, HYDROLYZED VEGETABLE PROTEIN, SUGAR, ONION POWDER, HYDROGENATED VEGETABLE OIL, DEHYDRATED GARLIC BITS (2.5%), NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, FLAVOUR ENHANCERS (INS 627, INS 631), ACIDITY REGULATOR (INS 330) AND DEHYDRATED FENUGREEK LEAVES (0.04%). USED AS FAVOURING AGENTS. CONTAINS WHEAT, SOY, MILK, NUT. the OR Nutritiona (Appro Energy (kcal Carbohydrate Total Suga Added Total fat (g) Trans fat naturally occ Saturated Cholestero Sodium (mg",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725135218",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

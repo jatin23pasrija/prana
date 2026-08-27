@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063257529",
+  "barcode_printed": "8904063257529",
+  "barcode_format": "EAN-13",
+  "name": "Pani Puri",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 360,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pani Puri Ingredients: Semolina (47%), Palmolein, Whole Wheat Flour (12%), Refined Wheat Flour and Salt. Sweet Spiced Mango Sauce Ingredients: Sugar (48%), Mango Powder, Salt, Black Salt, Black Pepper, Red Chilli Powder, Dry Ginger Powder, Cardamom Powder, Turmeg and Mace. Pani Puri Paste Ingredients: Mint Paste (25%), Dried Mango Slices, Coriander Paste, Salt, Cumin Powder, Green Chilli, Asafotida and Preservative (Sodium Benzoate (E211)). Boondi Ingredients: Chickpeas Flour (65%), Refined Peanut Oil, Salt and Turmeric Powder. CONTAINS WHEAT AND PEANUT COMPONENTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063257529",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

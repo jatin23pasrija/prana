@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08908020889112",
+  "barcode_printed": "8908020889112",
+  "barcode_format": "EAN-13",
+  "name": "IHP Iyengar Puliogare Masala",
+  "brand": "iyengar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 210,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 393.88,
+        "protein_g": 22.44,
+        "carbohydrate_g": 41.12,
+        "sugars_g": 17.3,
+        "fat_g": 19.96
+      }
+    }
+  ],
+  "ingredients_raw": "Tamarind, Jaggery, Black Till, Dry Coconut, Pepper, Jeera, Ground nut, Dry Chilli, Mustard, Methi, Coriander seed, Gram Dhal, Urid Dhal, Om seed, Asafoetida, Curry leaf, Turmeric, Vegetable oil & Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908020889112",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

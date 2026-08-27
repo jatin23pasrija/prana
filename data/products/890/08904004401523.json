@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004401523",
+  "barcode_printed": "8904004401523",
+  "barcode_format": "EAN-13",
+  "name": "Bhel Puri",
+  "brand": "haldiram-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Puffed Rice (16%), Refined Palmolein Oil, Chick Peas lentils (10%), Peanuts (8%), Enriched White Flour (8%), Chick Peas Flour (8%), Tepary Beans Rice Flakes (4%), Black Bengal Gram Flakes (3%), lodised Salt, Turmeric, Cumin. Powder, Black Pepper, Ajowan, Cardamom, Clove, Cinnamon, Nutmeg, Bay leaf & Asafetida Coriander Powder, Curry Leaves, Red Chilli, Black Salt, Citric Acid (E330), Dry Ginger Flour. Sauces Ingredients : Refined Sugar, Green Chilli, Red Chilli, Dates, lodised Salt Tamarind Powder, Cumin, Citric Acetic Acid (E 260), Black Pepper, Dried Ginger der, Clove, Garlic Powder, Cardamom, Nutmeg, Bay Leaves, Black Salt & Cinnamon",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004401523",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

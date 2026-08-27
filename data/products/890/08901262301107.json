@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262301107",
+  "barcode_printed": "8901262301107",
+  "barcode_format": "EAN-13",
+  "name": "Sky Scooper Multi-layered ice cream",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 77,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Ice Cream Layer (74%): Milk solids, sugar, almond pieces (4%), stabilizers (), emulsifier (471), artificial flavouring substances (creamy almond), colours (102 12 33). Chocolate Slurry Layer (16%): Cocoa solids, cocoa butter, edible vegetable oil soyabean oil), milk solids, emulsifier (476), artificial flavouring substances (vanila Almond Cokies Layer (6%): Refined wheat flour (maida), edible vegetable oil (palmolein oil, sugar, almond pieces (4%), milk solids, liquid glucose, custard powder, lodized salt, raising agent (500 503)], artificial flavouring substances creamy almond); Topping: Almond pieces (4%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262301107",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

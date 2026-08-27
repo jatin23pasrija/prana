@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063136670",
+  "barcode_printed": "8901063136670",
+  "barcode_format": "EAN-13",
+  "name": "Marie Gold Biscuits",
+  "brand": "gold",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Wheat flour, sugars, palm oil, invert sugar syrup, sweetened condensed milk, sesame oil, skim milk powder, leavening agents, salt, dough conditioner, sodium metabisulphite, artificial flavour, caramel colour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063136670",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

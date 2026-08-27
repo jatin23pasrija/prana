@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906165782688",
+  "barcode_printed": "8906165782688",
+  "barcode_format": "EAN-13",
+  "name": "Biozyme ISO Zero low Carb, Unflavoured",
+  "brand": "muscle-blaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "31 g",
+        "quantity": {
+          "value": 31,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 117.7,
+        "protein_g": 27,
+        "carbohydrate_g": 0.85,
+        "sugars_g": 0.17,
+        "fat_g": 0.71,
+        "saturated_fat_g": 0.25,
+        "sodium_mg": 53.18
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906165782688",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

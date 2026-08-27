@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013194391",
+  "barcode_printed": "8908013194391",
+  "barcode_format": "EAN-13",
+  "name": "Ginger Ale Sparkling Ice Tea",
+  "brand": "borecha",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 29,
+        "protein_g": 0.35,
+        "carbohydrate_g": 6.8,
+        "sugars_g": 6.8,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "sodium_mg": 19.67
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013194391",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

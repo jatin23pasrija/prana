@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901233034188",
+  "barcode_printed": "8901233034188",
+  "barcode_format": "EAN-13",
+  "name": "Silk chocolate",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 543,
+        "energy_kj": 2273.43,
+        "protein_g": 7.6,
+        "carbohydrate_g": 58.5,
+        "sugars_g": 55.3,
+        "fat_g": 31.4,
+        "saturated_fat_g": 21.5,
+        "trans_fat_g": 0.1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901233034188",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

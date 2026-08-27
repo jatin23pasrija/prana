@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491002899",
+  "barcode_printed": "8901491002899",
+  "barcode_format": "EAN-13",
+  "name": "Kurkure Schezwan Chutney Flavour",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 17,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cereal Products (66.2%) (Rice Meal (43.4%), Corn Meal (22.8%)), Edible Vegetable Oil (Palmolein), *Seasoning (Sugar, Spices and Condiments, iodised Salt, Edible Vegetable Oil (Canola, Palm and Sunflower), Acidity Regulator (296, 330), Edible Starch, Salt Substitute (Potassium Chloride), Maltodextrin, Natural and Nature Identical Flavouring Substances, Flavour Enhancers (527, 631), Colour (150d)), Gram Meal (0.5%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491002899",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

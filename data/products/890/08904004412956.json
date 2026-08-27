@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004412956",
+  "barcode_printed": "8904004412956",
+  "barcode_format": "EAN-13",
+  "name": "Navratan mix",
+  "brand": "haldiram-snacks-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein, Cotton Seed, Corn, Sunflower, Rice Bran), Rice Flakes, Groundnut (Peanuts), Refined Sugar, Cashews, Raisin, Bengal Gram Flour (Besan), Tapioca Starch, Spinach, Fennel, Sesame Seeds, lodised Salt, Red Chilli Powder, Curry Leaves, Turmeric Powder, Black Pepper Powder, Acidity Regulator (INS 330), Pipal, Black Salt, Dried Ginger Powder, Cumin, Bay Leaves, Clove, Asafoetida, Nutmeg, Cinnamon & Colour (INS 141). Allergen: Contains Peanuts, Cashews & Sesame Seeds May Contains Other Tree Nuts, Milk, Soy, Mustard Seed & Sulphite.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004412956",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

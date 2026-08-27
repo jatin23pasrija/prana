@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "00639277143303",
+  "barcode_printed": "0639277143303",
+  "barcode_format": "EAN-13",
+  "name": "Hard Candy",
+  "brand": "coastal-bay-confections",
+  "category": "sugar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 85,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 205.88,
+        "protein_g": 0,
+        "carbohydrate_g": 94.12,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "ISOMALT, CITRIC ACID, MALIC ACID NATURAL AND ARTIFICIAL FLAVORS ARTIFICIA COLORS(FD&C RED 40, YELLOW YELLOW 6), SUCRALOS E Distributed By Greenbrier International 500 Volve Parkway Chesapeake, VA 23320 Made in USA AC. ALLERGEN STATT FMaTHATHANDLES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0639277143303",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

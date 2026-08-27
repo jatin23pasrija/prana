@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005610386",
+  "barcode_printed": "8906005610386",
+  "barcode_format": "EAN-13",
+  "name": "winkies love bite choco heart cake filled with french vanilla cream",
+  "brand": "winkies",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 419.57,
+        "protein_g": 4.83,
+        "carbohydrate_g": 55.85,
+        "sugars_g": 28.4,
+        "fat_g": 19.65,
+        "saturated_fat_g": 8.14,
+        "trans_fat_g": 0.1,
+        "fibre_g": 17.17,
+        "sodium_mg": 249.51
+      }
+    }
+  ],
+  "ingredients_raw": "CAKE (82%): REFINED WHEAT FLOUR (MAIDA), SUGAR, PALMOLINE OIL, WATER, VANILLA CONCENTRATE (MILK SOLID, REFINED WHEAT FLOUR(MAIDA), STARCH, DEXTROSE, LEAVENING AGENTS INS 90ii, INS 450ii, INS 341 (i)),STABILIZER (INS 415), HUMECTANTS (INS 420, INS 422), LIQUID GLUCOSE. COCO SOLIDS, CAKE GEL (INS 470a, INS 471, INS 475, INS 422, INS 420, INS 525), NATURAL & NATURE DENTICAL FLAVOUR(CHOCOLATE & VANILLA), PRESERVATIVES (INS 282, INS 200), STABILIZER (INS 412), MILK CHOCOLATE COMPOUND, ACIDITY REGULATOR (INS 260, INS 262), EDIBLE COMMON SALT, RAISING AGENT(INS 500(ii)), ANTIOXIDENT-MIX( INS 1520,INS 319). FILLING (18%): (LIQUID GLUCOSE, SUGAR, WATER, EDIBLE VEGETABLE OIL (PALM OIL), BAKERY SHORTENING, MILK SOLID, THICKENER (INS 440, INS 1402), PERMITTED FOOD COLOUR (INS 171), PRESERVATIVE (INS 202), EDIBLE COMMON SALT, ACIDITY REGULATOR (INS 330), FLAVOUR (NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA)), FILLING-( SUGAR, WATER, GLUCOSE SYRUP, HUMACTANT (INS 422), EMULSIFIER (INS 460), THICKENER (INS 1442), EDIBLE COMMON SALT, PERMITTED ARTIFICIAL FLAVOUR (VANILLA) & FOOD COLOUR(INS 171, INS 102), PRESERVATIVE (INS 202), ACIDITY REGULETOR (INS 330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005610386",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904084100750",
+  "barcode_printed": "8904084100750",
+  "barcode_format": "EAN-13",
+  "name": "KARELA JUICE",
+  "brand": "vani-foods",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Kar à Fruit and Leaves Juice 90%. Jamun Seed extract 10%, Acidity.regulatbr. (E-330) Contains Permitted Class Il Preservatives (E-211, E-202) Net Contents : 750 ml. Batch No. Date of Expiry . Dietary Supplemcnt Not ForMedicinal Use. *Juice Cohtains NutritiòusFiberssettled at bottom. Shake Well Before Use.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904084100750",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

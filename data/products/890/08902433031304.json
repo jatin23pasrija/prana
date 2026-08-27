@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08902433031304",
+  "barcode_printed": "8902433031304",
+  "barcode_format": "EAN-13",
+  "name": "8902433031304",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SUGAR, GUM BASE (CONTAINS SOYBEAN LECIT EMULSIFIER (1422), HUMECTANT (422) ARTFICIAL FLAVOURIN ANTIOXIDANT (320), COLOURS (124, 102 SOX MAY MFD. BY WRIGLEY INDIA PVT. LTD., AT VILLAGE (H.P.)-173 205, INDIA. LIC. NO. 10012062000040",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902433031304",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

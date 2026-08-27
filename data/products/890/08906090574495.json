@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906090574495",
+  "barcode_printed": "8906090574495",
+  "barcode_format": "EAN-13",
+  "name": "Karare Twisties Masala Blast",
+  "brand": "too-yumm",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 65,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 471,
+        "protein_g": 5.9,
+        "carbohydrate_g": 68,
+        "sugars_g": 4.7,
+        "fat_g": 19.5,
+        "saturated_fat_g": 4.5,
+        "trans_fat_g": 0,
+        "fibre_g": 3.4,
+        "sodium_mg": 970
+      }
+    }
+  ],
+  "ingredients_raw": "Corn Flour, Edible Vegetable Oil (Rice Bran), Seasoning [Sugar, Spices and Condiments (Contains Chili), lodised Salt, Maltodextrin, Natural and Nature Identical Flavouring Substances, Hydrolysed Vegetable Protein, Stabilizer (INS 414), Anticaking Agent (INS 551), Flavour Enhancers (INS 627, INS 631)], Whole Wheat Flour (Atta), Oats, Semolina, Anticaking Agent (INS 170), lodised Salt *Used as natural flavouring agent",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906090574495",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

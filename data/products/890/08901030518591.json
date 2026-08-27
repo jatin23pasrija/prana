@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030518591",
+  "barcode_printed": "8901030518591",
+  "barcode_format": "EAN-13",
+  "name": "BROWN POLSON CORN STARCH",
+  "brand": "brown-polson",
+  "category": "flour",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 0.3,
+        "carbohydrate_g": 91.3,
+        "sugars_g": 0,
+        "fat_g": 0.1,
+        "trans_fat_g": 0,
+        "fibre_g": 0.9,
+        "sodium_mg": 9.14
+      }
+    }
+  ],
+  "ingredients_raw": "cornflour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030518591",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

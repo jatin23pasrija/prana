@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014814014",
+  "barcode_printed": "8908014814014",
+  "barcode_format": "EAN-13",
+  "name": "Premium Fruit Bread",
+  "brand": "mr-bakewell",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 285,
+        "protein_g": 6.8,
+        "carbohydrate_g": 57,
+        "sugars_g": 10.2,
+        "fat_g": 3.6,
+        "saturated_fat_g": 2.3
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Glazed Fruit Sugar, Edible Vegetable Fat, Yeast, Gluten, lodized Salt, Soya Flour,Milk Solids, Class II Preservative (INS 282), Improver (INS 1100 (1), 170(i)), Emulsifier (INS 481 (0)) and Antioxidant (INS 300), Spices & Condiments",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014814014",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

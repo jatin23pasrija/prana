@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004400755",
+  "barcode_printed": "8904004400755",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Bhujia sev",
+  "brand": "haldiram",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Palmolein, Cotton Seed, Corn, Sunflower, Rice Bran), Bengal Gram Flour (Besan), Potato Flakes, Potato Starch, Tapioca Starch, Tepary Beans (Moth Dal) % Flour, lodised Salt, Red Chilli Powder, Black Salt, Acidity Regulator (INS 330), Black Pepper, Clove, Dried Ginger Powder, Dried Garlic Powder, Cumin Powder, Bay Leaf, Nutmeg, Cinnamon, Turmeric, Mint Leaves, Natural Flavouring Substances & Nature Identical Flavouring Substances. Allergen: May Contains Peanut, Tree Nuts, Sesame Seed, Milk, Soy, Mustard Seed & Wheat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004400755",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

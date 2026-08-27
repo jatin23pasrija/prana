@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08000500225615",
+  "barcode_printed": "8000500225615",
+  "barcode_format": "EAN-13",
+  "name": "Nutella Ferrero",
+  "brand": "nutella",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 290,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 533,
+        "energy_kj": 2232,
+        "protein_g": 6.3,
+        "carbohydrate_g": 57.5,
+        "sugars_g": 56.3,
+        "fat_g": 30.9,
+        "saturated_fat_g": 10.6,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, EDIBLE VEGETABLE OIL, HAZELNUTS 13%, LOW FAT COCOA POWDER 7.4%, SKIMMED COW MILK POWDER 6.6%, WHEY POWDER, EMULSIFIER (LECITHIN (INS 322)), FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCE (VANILLIN)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8000500225615",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

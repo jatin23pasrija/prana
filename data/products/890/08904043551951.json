@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043551951",
+  "barcode_printed": "8904043551951",
+  "barcode_format": "EAN-13",
+  "name": "Milk Rusk",
+  "brand": "modern",
+  "category": "rusk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 435,
+        "protein_g": 9.92,
+        "carbohydrate_g": 71.82,
+        "fat_g": 12.3,
+        "saturated_fat_g": 6.9,
+        "fibre_g": 2.05,
+        "sodium_mg": 235
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Refined Palmolein Oil, Edible Vegetable Fat (Interesterified), Milk Solids (2.5%), Invert Syrup, lodized Salt, Gluten, Flour Treatment Agent (1100(i)), Emulsifier (481(i)) and Antioxidant (300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043551951",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

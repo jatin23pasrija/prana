@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262173605",
+  "barcode_printed": "8901262173605",
+  "barcode_format": "EAN-13",
+  "name": "Icecream American Nuts",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 237,
+        "protein_g": 4.3,
+        "carbohydrate_g": 22.9,
+        "sugars_g": 21.6,
+        "fat_g": 14.3,
+        "saturated_fat_g": 7.6,
+        "sodium_mg": 49
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262173605",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

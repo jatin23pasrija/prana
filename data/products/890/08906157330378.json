@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906157330378",
+  "barcode_printed": "8906157330378",
+  "barcode_format": "EAN-13",
+  "name": "Chilli Cheese Bhujiya",
+  "brand": "bombay-sweet-shop",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (50 g)",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 331.68,
+        "protein_g": 5.33,
+        "carbohydrate_g": 13.76,
+        "sugars_g": 1.24,
+        "fat_g": 28.36,
+        "saturated_fat_g": 4.6,
+        "fibre_g": 1.94,
+        "sodium_mg": 432.49
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906157330378",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

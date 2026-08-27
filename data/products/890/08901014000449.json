@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014000449",
+  "barcode_printed": "8901014000449",
+  "barcode_format": "EAN-13",
+  "name": "Schezwan Spicy Chilli Sauce Flavour",
+  "brand": "top-ramen",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NOODLES (88%): Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), lodised Salt, Red Chilli Powder, Acidity Regulators [INS 451(i) & INS 500(i)], Colour [INS 160c(i)]. Antioxidant (INS 319) & Thickener (INS 412). SEASINING MIX (12%): Garlic Powder, lodised Salt, Sugar, Tomato Powder, Corn Starch, Hydrolysed Vegetable Protein Powder (Soya), Onion Powder, Red Chilli Flakes, Garlic Flakes, Acidity Regulators (INS 330 & INS 260), Flavour Enhancers (INS 631 & INS 627), Onion Flakes, Thickeners (INS 412 & INS 415), Colour [INS 160c(i)], Mixed Spices 1.64% (Black Pepper & Red Chilli), Flavours (Natural & Nature Identical), Celery Seed Powder, Spring Onion, Coriander Leaves, Oleoresin Capsicum & Anticaking Agent (INS 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014000449",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

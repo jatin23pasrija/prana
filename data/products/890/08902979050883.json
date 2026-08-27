@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902979050883",
+  "barcode_printed": "8902979050883",
+  "barcode_format": "EAN-13",
+  "name": "Cavin's Vanilla Milkshake 180ml",
+  "brand": "cavinkare",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Toned Milk (89%), Sugar, Stabilizers (INS 415, INS 412, INS 407), Flavor (Nature Identical Flavoring Substances), Sequestrant (INS 451 (i)), lodized Salt, Emulsifier (INS 436), Mineral and Vitamin premix (Zinc, Vitamin A and D).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902979050883",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

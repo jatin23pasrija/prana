@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201718091",
+  "barcode_printed": "7622201718091",
+  "barcode_format": "EAN-13",
+  "name": "Disinfecting wipes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 501,
+        "protein_g": 5.1,
+        "carbohydrate_g": 66.2,
+        "sugars_g": 39.7,
+        "fat_g": 24.5,
+        "saturated_fat_g": 11.6,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 195
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201718091",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

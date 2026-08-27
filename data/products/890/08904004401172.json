@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004401172",
+  "barcode_printed": "8904004401172",
+  "barcode_format": "EAN-13",
+  "name": "Khatta Meetha",
+  "brand": "haldiram",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 530,
+        "protein_g": 9.26,
+        "carbohydrate_g": 57.38,
+        "sugars_g": 4.26,
+        "fat_g": 29.25,
+        "saturated_fat_g": 12.48,
+        "fibre_g": 4.01,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Palmolein Oil, Rice Flakes (22%) , Bengal Gram Flour (Besan) (21%), Refined Sugar, Split Pulse Bengal Gram (Chana Dal) (7%) Groundnuts (Peanuts) (5%), Sago (4%), Red Lentils (Masur Whole) (2.5%), Edible Common Salt, Black Salt, Turmeric Acidity Regulator (INS 330), Red Chilli, Ajwain, Raising Agent S500i) & Asafoetida tard Seed",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004401172",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

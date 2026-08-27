@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151420389",
+  "barcode_printed": "8906151420389",
+  "barcode_format": "EAN-13",
+  "name": "best misal farsan",
+  "brand": "laxmi-narayan",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 325,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Flour, Refined Palmolin Oil, Rice Flakes, Sugar, Chickpeas Lentils, Corn flakes, Red Chilli Powder, Caron Seeds, Black Salt, iodized Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151420389",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

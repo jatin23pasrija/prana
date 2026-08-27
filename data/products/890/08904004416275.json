@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004416275",
+  "barcode_printed": "8904004416275",
+  "barcode_format": "EAN-13",
+  "name": "Kaja mankhatai cookies",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Enriched White Flour, Refined Sugar, Clarified Butter, Cashew Nuts, Hydrogenated Vegetable Oil, Milk Solids, Cardamom Powder, Baking Powder, Ammonium Hydrogen Carbonate (E 5031), lodised Salt & Invert Sugar Contains Wheat, Milk & Cashew May Contain Almond, Coconut, Sesame Seed & Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004416275",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

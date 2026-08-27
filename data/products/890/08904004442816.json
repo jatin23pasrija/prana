@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004442816",
+  "barcode_printed": "8904004442816",
+  "barcode_format": "EAN-13",
+  "name": "Minute Khana Rajma Raseela",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "150 g",
+        "quantity": {
+          "value": 150,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 250,
+        "protein_g": 6,
+        "carbohydrate_g": 17,
+        "sugars_g": 0,
+        "fat_g": 18,
+        "saturated_fat_g": 8,
+        "trans_fat_g": 0,
+        "fibre_g": 3,
+        "sodium_mg": 300
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Red Kidney Beans, Tomato, Onion, Refined Sunflower Oil, Butter, Red Chilli, lodised Salt, Mixed Spices (Coriander Powder, lodised Salt, Dried Mango Powder, Pomegranate Seed, Red Chilli Powder, Cumin, Black Pepper, Black Salt, Cinnamon, Clove, Dried Ginger Powder, Nutmeg, Mint Leaves Powder, Bay leaf, Green Cardamom, Fenugreek Leaves & Mace), Ginger, Garlic, Coriander Leaves, Cumin, Clove, Cinnamon, Bay Leaves, Nutmeg, Large Cardamom & Green Cardamom. Contains Milk May Contains Almond, Cashew, Peanut, Pistachio, Coconut, Hazelnut, Soy, Wheat, Mustard Seed, Sesame Seed & Sulphite.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004442816",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

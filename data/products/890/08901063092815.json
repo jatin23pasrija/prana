@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063092815",
+  "barcode_printed": "8901063092815",
+  "barcode_format": "EAN-13",
+  "name": "Britannia goodday",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100"
+      },
+      "values": {
+        "energy_kcal": 500,
+        "protein_g": 6.8,
+        "carbohydrate_g": 69.1,
+        "sugars_g": 20.4,
+        "fat_g": 21.8,
+        "saturated_fat_g": 10.9,
+        "trans_fat_g": 0,
+        "sodium_mg": 223
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, SUGAR, INVERT SUGAR SYRUP, MILK PRODUCTS (MILK SOLIDS & BUTTER (0.5%) RAISING AGENTS (503) & 500(m)) IODISED SALT, ARTIFICIAL (BUTTER, MILK & VANILLA) & NATURAL FLAVOURING SUBSTANCES AND EMULSIFIERS (472e &3220 (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOY. For feedback - Contact Executive, Consumer Care Cell, Ph: (Tol ee) Shanti-Retan 1-800-4254449/1-800-30004530 @Britannia Industries Ltd, Prest @b Tower C. Whitefield, Bangalore-560048 Kamataka Email food",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063092815",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

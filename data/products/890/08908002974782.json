@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002974782",
+  "barcode_printed": "8908002974782",
+  "barcode_format": "EAN-13",
+  "name": "arcot mani mark puffed barley balls",
+  "brand": "arcot-mani-mark",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Puffed Barley, Jaggery & Liquid Glucose.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002974782",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

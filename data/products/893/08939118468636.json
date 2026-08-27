@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08939118468636",
+  "barcode_printed": "8939118468636",
+  "barcode_format": "EAN-13",
+  "name": "Naturaltein Plant Berry",
+  "brand": "naturaltein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 416,
+        "protein_g": 71.6,
+        "carbohydrate_g": 14.8,
+        "sugars_g": 7,
+        "fat_g": 7.8,
+        "saturated_fat_g": 2,
+        "trans_fat_g": 0,
+        "fibre_g": 4.2,
+        "sodium_mg": 540
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939118468636",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

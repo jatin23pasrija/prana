@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904320015404",
+  "barcode_printed": "8904320015404",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Butter - Crunchy",
+  "brand": "disano",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 924,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 612.5,
+        "protein_g": 26,
+        "carbohydrate_g": 19,
+        "sugars_g": 9,
+        "fat_g": 49,
+        "saturated_fat_g": 9,
+        "trans_fat_g": 0,
+        "fibre_g": 4.2,
+        "sodium_mg": 132.5
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Peanuts (91%), Sugar, Stabilizer (INS471), lodised Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904320015404",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

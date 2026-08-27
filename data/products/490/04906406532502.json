@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "04906406532502",
+  "barcode_printed": "4906406532502",
+  "barcode_format": "EAN-13",
+  "name": "Active Peanut Butter Protein Bar",
+  "brand": "max-protein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1.0 portion"
+      },
+      "values": {
+        "energy_kcal": 296,
+        "protein_g": 20,
+        "carbohydrate_g": 32.5,
+        "fat_g": 13.2,
+        "saturated_fat_g": 2.1,
+        "fibre_g": 5,
+        "sodium_mg": 244
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4906406532502",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

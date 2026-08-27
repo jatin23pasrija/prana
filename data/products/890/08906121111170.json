@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906121111170",
+  "barcode_printed": "8906121111170",
+  "barcode_format": "EAN-13",
+  "name": "Pitaara Masteez Chatake Masala",
+  "brand": "pitaara-masteez",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 578.03,
+        "protein_g": 3.98,
+        "carbohydrate_g": 56.94,
+        "sugars_g": 2.98,
+        "fat_g": 37.15,
+        "saturated_fat_g": 17.26,
+        "sodium_mg": 1200
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Grits (34%), Edible Vegetable (Palmolein Oil, Cottonseed Oil, Rice Bran Oil), Gris 25%), lodized Salt (lodized Salt, Black pea Flour (Besan), Dehydrated Powder (Onion, Green Mango, Garlic, Maize Starch, Maltodextrin, Spices and Extracts (Chilli, Coriander, Turmeric, Ginger, Pepper, Cumin), Sugar, Acidity Regulator (INS 330), Anti-Caking Agent (INS 341(iii), Enhancer (INS 627, INS 631).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906121111170",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063281470",
+  "barcode_printed": "8904063281470",
+  "barcode_format": "EAN-13",
+  "name": "Milk Came",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 340,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 418.6,
+        "protein_g": 13.95,
+        "carbohydrate_g": 39.53,
+        "sugars_g": 34.88,
+        "fat_g": 23.26,
+        "saturated_fat_g": 16.28,
+        "fibre_g": 0,
+        "sodium_mg": 58.14
+      }
+    }
+  ],
+  "ingredients_raw": "ngredients: concentrated milk solids (70%), sugar, clarified butter, liquid glucose and cardamom powder, contains milk , corn components, this product is made in a facility that processes foods containing peanuts, tree nuts , wheat, thawing options s 1 room temperature remove tray from freezer and leave at room temperature for approximately 50-60 minutes or more for the required softness, 2 refrigerator/overnight remove tray from freezer and place in refrigerator overnight, 3 microwave do not remove tray from freezer pierce lidding refreeze after thawing 45-60 sec n 8 se ser amo ca tota tr chol sodi tota di prot vitam calci *the servir day is nu typic value energ fat, to of w carbo of w fibre protei",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063281470",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

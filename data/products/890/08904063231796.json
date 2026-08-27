@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063231796",
+  "barcode_printed": "8904063231796",
+  "barcode_format": "EAN-13",
+  "name": "NAVRATTAN",
+  "brand": "haldiram-snacks-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 420,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 518.7,
+        "energy_kj": 0,
+        "protein_g": 20.3,
+        "carbohydrate_g": 43,
+        "sugars_g": 2.7,
+        "fat_g": 29.5,
+        "saturated_fat_g": 7.2,
+        "fibre_g": 3.5,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Gram Pulse Flour, Edible Vegetable Oil (Cotton Seed, Corn, Palmolein, Ground Nut and Rice Bran), Gram Pulse (26%), Lentil (16%), Peanuts (13%), Rice Flakes (7%), Potatoes, Tepary Beans Flour, lodised Salt, Black Salt Powder, Spinach Powder, Rice Powder, Edible Starch, *Spices & Condiments (Red Chilli Powder, Turmeric Powder, Mango Powder, Black Pepper Powder, Ginger Powder, Clove Powder, Mace Powder, Nutmeg Powder, Cumin Powder, Fenugreek Seeds Powder, Coriander Powder, Bay Leav Powder, Mint Leaves Powder, Cardamom Powder, Asafoeda Powder), Acidity Regulator (INS 330), Anticaking Agent (INS 551) and Synthetic Food Colour (INS 133). *Used as natural flavouring substances. Allergen Information: Contains Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063231796",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

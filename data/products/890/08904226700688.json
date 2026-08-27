@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08904226700688",
+  "barcode_printed": "8904226700688",
+  "barcode_format": "EAN-13",
+  "name": "Pitted Prunes",
+  "brand": "n2h",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 269.8,
+        "protein_g": 3.06,
+        "carbohydrate_g": 63.76,
+        "sugars_g": 36.42,
+        "fat_g": 0.28,
+        "fibre_g": 7.69
+      }
+    }
+  ],
+  "ingredients_raw": "Pitted Prunes, Potassium Sorbate (E202) as preservatives",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904226700688",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014000432",
+  "barcode_printed": "8901014000432",
+  "barcode_format": "EAN-13",
+  "name": "Manchurian",
+  "brand": "top-ramen",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NOODLES (87.3%): Refined Wheat Flour (Maiela), Edible Vegetable Oil (Palm Oil), lodised Salt, Acidity Regulators [INS 451 & INS 5000)], Mixed Spices 0.17% (Turmeric, Coriander, Cumin, Red Chilli), Antioxidant (INS 319) & Thickener (INS 412). SEASONING MIX (12.7%): lodised Salt, Mixed Spices 12.5% (Ginger, Red Chilli, Black Pepper), Garlic Powder, Sugar, Com Starch, Dehydrated Garlic Flakes, Hydrolysed Vegetable Protein Powder (Soya), Dehydrated Onion Flakes, Soya Sauce Powder, Dehydrated Red Chilli Flakes, Tomato Powder, Flavour Enhancers (INS 631 & INS 627), Yeast Extract Powder, Dehydrated Spring Onion, Onion Powder, Dehydrated Coriander Leaves, Flavours (Natural Flavour & Artificial Wok Flavour), Thickeners (INS 412 & INS 415), Edible Vegetable Oil (Palm Oil), Acidity Regulator (INS 330), Colours (INS 150d & INS 160c(i)), Anticaking Agent (INS 551), Oleoresin Capsicum. ALLERGEN INFORMATION: CONTAINS WHEAT & SOY. MAY CONTAIN MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014000432",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002007455",
+  "barcode_printed": "8906002007455",
+  "barcode_format": "EAN-13",
+  "name": "Peanut butter",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Nutritional Information Per Per %RDA 100g Serve Per Serve Energy (kcal) 641.5 96.2 4.8% Protein (g) 26.3 3.9 7.3% Carbohydrate (g) 19.3 2.9 - - Total Sugars (g) 7.5 1.1 - Added Sugars (g) 6.0 0.9 1.8% Total Fat (g) 51.0 7.7 11.4% - Saturated Fat (g) 10.4 1.6 7.1% - Trans Fat (g) 0.0 0.0 0.0% Cholesterol (mg) 0.0 0.0 Sodium (mg) 323.9 48.6 2.4% Vitamin B3 (ug) 13710.0 2056.5 14.7% Vitamin E (mg) Vitamin B6 (µg) 549.0 82.4 4.3% 9.2 1.4 13.8% ances",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002007455",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

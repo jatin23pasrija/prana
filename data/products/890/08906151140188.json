@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151140188",
+  "barcode_printed": "8906151140188",
+  "barcode_format": "EAN-13",
+  "name": "Tata 1mg Cod Liver capsules",
+  "brand": "tata-1mg",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.57g",
+        "quantity": {
+          "value": 0.57,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 3.46,
+        "protein_g": 0.04,
+        "carbohydrate_g": 0.07,
+        "sugars_g": 0,
+        "fat_g": 0.32,
+        "saturated_fat_g": 0.06,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Methacrylic Acid, Cod Liver (Fish Oil), Capsule Shell dent (Gelatin), Humectants [INS 422 & INS 420(ii)], Purified Water, Vehicle (Refined Soya Oil), Foam Stabilizer (INS 1505), Preservative (INS 218), Antioxidant (INS 320) & Artificial Flavouring Substance (Ethyl Vanillin).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151140188",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

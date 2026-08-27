@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021920933",
+  "barcode_printed": "8906021920933",
+  "barcode_format": "EAN-13",
+  "name": "apis Honey",
+  "brand": "apis",
+  "category": "honey",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 332.4,
+        "protein_g": 0.28,
+        "carbohydrate_g": 82.82,
+        "sugars_g": 82.82,
+        "fat_g": 0,
+        "sodium_mg": 2.64
+      }
+    }
+  ],
+  "ingredients_raw": "Organic Honey",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021920933",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

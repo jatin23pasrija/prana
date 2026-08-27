@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725015909",
+  "barcode_printed": "8901725015909",
+  "barcode_format": "EAN-13",
+  "name": "Dark Fantasy",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CHOCO CRÈME (38.0%) (SUGAR, FLAVOURING SUBSTANCES (CHOCOLATE), ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)}, MAIDA (REFINED WHEAT FLOUR), HYDROGENATED VEGETABLE OILS, SUGAR, INVERT SYRUP, LIQUID GLUCOSE, RAISING AGENTS (INS 503(ii), INS 500(ii), INS 450(i)), COCOA SOLIDS (0.7%), BUTTER, MILK SOLIDS, IODIZED SALT, &quot;NATURE IDENTICAL FLAVOURING SUBSTANCES (MILK CHOCOLATE), COLOURS (INS 150c, INS 150d), EMULSIFIERS (LECITHIN (FROM SOYABEAN), MONO AND DIGLYCERIDES OF FATTY ACIDS (FROM PALM OIL)], ARTIFICIAL FLAVOURING SUBSTANCES (MILK, VANILLA). CONTAINS WHEAT, MILK, SOY. MAY CONTAIN NUT, SULPHITE. REFINED PALMOLEIN, REFINED PALM OIL, COCOA SOLIDS, EMULSIFIER (LECITHIN (FROM SOYABEAN)], NATURE IDENTICAL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725015909",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

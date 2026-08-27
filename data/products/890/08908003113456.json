@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003113456",
+  "barcode_printed": "8908003113456",
+  "barcode_format": "EAN-13",
+  "name": "Sugar-free Peanut Butter",
+  "brand": "super-nutri-foods-india",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 680.388555,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 Tbsp (32g)",
+        "quantity": {
+          "value": 32,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 205,
+        "protein_g": 8,
+        "carbohydrate_g": 6,
+        "fat_g": 17,
+        "saturated_fat_g": 6,
+        "fibre_g": 2,
+        "sodium_mg": 56
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003113456",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

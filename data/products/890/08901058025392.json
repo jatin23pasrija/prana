@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058025392",
+  "barcode_printed": "8901058025392",
+  "barcode_format": "EAN-13",
+  "name": "Masala - a - magic",
+  "brand": "maggi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Mixed spices (35.6%) (&quot;Roasted spice powder (17.8%) (Cumin, Coriander, Turmeric, Aniseed, Black pepper, Fenugreek, Ginger, Clove, Green 6% cardamom powder, Nutmeg), Red chilli powder, Dehydrated onion, Dried garlic, Capsicum extract, Coriander extract, Cumin extract), lodized salt Sugar, Starch, Flavour enhancer (635), Thickener (508), Acidity regulator ES (330), Palm oil, Natural flavouring substance, Mineral and Vitamin. Allergen Note: May contain Wheat, Milk, Mustard and Soy. Spice content above 25%; Salt content above 5%. Markeled D Mectló India Ltd 100/101 World Trade Centre.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058025392",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

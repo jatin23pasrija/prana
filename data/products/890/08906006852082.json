@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006852082",
+  "barcode_printed": "8906006852082",
+  "barcode_format": "EAN-13",
+  "name": "Red Velvet Ice Cream Cake Slice",
+  "brand": "baskin-robins",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 slice (70 g)",
+        "quantity": {
+          "value": 70,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 176.1,
+        "protein_g": 2.8,
+        "carbohydrate_g": 23.3,
+        "sugars_g": 19.1,
+        "fat_g": 8,
+        "saturated_fat_g": 5.8,
+        "sodium_mg": 23
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006852082",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

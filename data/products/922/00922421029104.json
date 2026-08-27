@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "00922421029104",
+  "barcode_printed": "0922421029104",
+  "barcode_format": "EAN-13",
+  "name": "Sandwich bread",
+  "brand": "english-oven",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "carbohydrate_g": 54.86,
+        "fat_g": 1,
+        "saturated_fat_g": 0.2
+      }
+    }
+  ],
+  "ingredients_raw": "Refined wheat flour (Maida),Water,Yeast,Sugar,Edible Common Salt,Edible Vegetable Oils(palm) Wheat Gluten, Soya Flour,CLASS II Preservative (282),Acidity Regulator (260),Emulsifier [471, 472e, 481(l)],Improvers [170(l),510,923,1100] and Antioxidant (300)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0922421029104",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

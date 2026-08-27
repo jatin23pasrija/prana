@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906133312329",
+  "barcode_printed": "8906133312329",
+  "barcode_format": "EAN-13",
+  "name": "Karachi Bakery Multi Nutrition Cookies",
+  "brand": "karachi-bakery",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Granualted Sugar, Table Butter, Edible Vegetable Fat, Gram Flour, Cashew, Almond, Pistachio, Amarnath Flour, Ragi Flour, Sorghum Flour, Cardmom, Milk Solid, lodized Salt, Emulsifier - Ins 322, Raising Agent 500(ii). CONTAINS ADDED FLAVOUR ARIFICIAL AND NATURAL IDENTICAL FLAVOURING AGENT - VANILLA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906133312329",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

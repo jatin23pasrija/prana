@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906032991236",
+  "barcode_printed": "8906032991236",
+  "barcode_format": "EAN-13",
+  "name": "Garam masala",
+  "brand": "teju",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Coriander, Chilli, Cumin, Black Pepper, Fenugreek, Mustard, Cassia, Curry Leaves, Cereal Grain, Purely Natural Spices in Powder Form. PROPRIETARY FOOD Directions for use: Prepare the Vegetables of your choice with usual spices in Ghee/Oil as you normally do. Add 1½ tsp Teju Garam Masala. Stir Vegetables on low flame for 3 mins. Keep covered for at least 5 minutes, so that the Vegetables retain the flavour and aroma of Teju Garam Masala (500gms Vegetables or 1 Ltr. ready dal needs 1½ tsp Garam Masala). Dal, Samosa, Potato Vada, Kachori, Usal, Patties, Patra and all types of farsans taste best with Teju Garam Masala.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906032991236",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

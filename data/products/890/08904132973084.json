@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132973084",
+  "barcode_printed": "8904132973084",
+  "barcode_format": "EAN-13",
+  "name": "RAS KIK MANGO",
+  "brand": "campa-cola",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, MANGO CONCENTRATE (5.2%), ACIDITY REGULATORS (330, 331, STABILIZER (415), PRESERVATIVE (211) (1, 150d), NATURE IDENTICAL FLAVOURING SUBSTANCES MANGO JUICE CONTENT IS 10.4% IN FINAL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132973084",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

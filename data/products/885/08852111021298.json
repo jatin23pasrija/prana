@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08852111021298",
+  "barcode_printed": "8852111021298",
+  "barcode_format": "EAN-13",
+  "name": "Tuna Chunks in Brine",
+  "brand": "golden-prize",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (43 g)",
+        "quantity": {
+          "value": 43,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 46,
+        "energy_kj": 192,
+        "protein_g": 9.76,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 0.56,
+        "saturated_fat_g": 0.13,
+        "trans_fat_g": 0,
+        "sodium_mg": 160
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8852111021298",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

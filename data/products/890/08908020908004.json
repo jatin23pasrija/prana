@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908020908004",
+  "barcode_printed": "8908020908004",
+  "barcode_format": "EAN-13",
+  "name": "Family Nutrition Mix",
+  "brand": "good-monk",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Dietary Fibre (Fructo-oligo saccharides), Amino Acid (Lysine), Herbs (KSM-66 Ashwagandha, Brahmi), Probiotics (Culture collection No. DSM 17654.), Minerals, Vitamins, Anticaking agent (INS 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908020908004",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

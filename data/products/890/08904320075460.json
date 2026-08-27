@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904320075460",
+  "barcode_printed": "8904320075460",
+  "barcode_format": "EAN-13",
+  "name": "DiSano Peanut Butter",
+  "brand": "disano",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 635,
+        "protein_g": 23,
+        "carbohydrate_g": 23,
+        "sugars_g": 7,
+        "fat_g": 50,
+        "saturated_fat_g": 11,
+        "fibre_g": 6.4,
+        "sodium_mg": 170
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Peanut (83%), Dark Chocolate (10%) Sugar, Stabilizer (INS 471), Iodised Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904320075460",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

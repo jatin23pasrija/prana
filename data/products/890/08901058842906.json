@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058842906",
+  "barcode_printed": "8901058842906",
+  "barcode_format": "EAN-13",
+  "name": "Tarmarind Sauce",
+  "brand": "nestle",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 177,
+        "protein_g": 0.6,
+        "carbohydrate_g": 43.6,
+        "sugars_g": 42.1,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 1.3,
+        "sodium_mg": 1311.8
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Tomato Paste (23.7%), Iodised Salt, Acidifying Agent (260), Thickening Agents (1422 and 415), Onion, Mixed Spices, Garlic and Preservative (211), Contains Permitted Class II Preservative",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058842906",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

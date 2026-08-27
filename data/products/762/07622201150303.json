@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201150303",
+  "barcode_printed": "7622201150303",
+  "barcode_format": "EAN-13",
+  "name": "Shots",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 18,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 473,
+        "protein_g": 2.1,
+        "carbohydrate_g": 76.2,
+        "sugars_g": 71.9,
+        "fat_g": 18.2,
+        "saturated_fat_g": 18,
+        "trans_fat_g": 0.2,
+        "sodium_mg": 100
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Hydrogenated Oils, Lactose-Rich Deproteinized Whey Permeate Powder, Cocoa solids, Emulsifiers (442, 476), Stabilizer (414), Maltodextrin, Glazing Agent (903), Flavours (Natural, Nature identical and Artificial (Caramel and Vanilla) Flavouring Substances), Colours (102, 133, 122, 110).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201150303",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

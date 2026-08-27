@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151991506",
+  "barcode_printed": "8906151991506",
+  "barcode_format": "EAN-13",
+  "name": "Cammery Ice Cream",
+  "brand": "cammery",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk and Milk Fat, SMP, Sugar, Emulsifiers and Stabilizers [E466, E415, E412, E407, E405], Caramelised Nuts, Caramel",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151991506",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

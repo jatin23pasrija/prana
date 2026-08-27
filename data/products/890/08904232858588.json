@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904232858588",
+  "barcode_printed": "8904232858588",
+  "barcode_format": "EAN-13",
+  "name": "Oven roasted turkey",
+  "brand": "meal-simple",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 470,
+        "protein_g": 34,
+        "carbohydrate_g": 31,
+        "fat_g": 24
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904232858588",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

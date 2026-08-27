@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063014312",
+  "barcode_printed": "8901063014312",
+  "barcode_format": "EAN-13",
+  "name": "Vita Marie GOLD",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 449,
+        "protein_g": 7.3,
+        "carbohydrate_g": 79.3,
+        "sugars_g": 25.2,
+        "fat_g": 11.4,
+        "saturated_fat_g": 5.5,
+        "sodium_mg": 800
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063014312",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

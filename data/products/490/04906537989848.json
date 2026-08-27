@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "04906537989848",
+  "barcode_printed": "4906537989848",
+  "barcode_format": "EAN-13",
+  "name": "High Protein Oats (Dark Chocolate)",
+  "brand": "muscleblaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 385.05,
+        "energy_kj": 1612,
+        "protein_g": 21.91,
+        "carbohydrate_g": 56.06,
+        "sugars_g": 10.22,
+        "fat_g": 8.13,
+        "saturated_fat_g": 3.43,
+        "fibre_g": 11.52,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Rolled Oats 47.4%), Texturized Soy Protein (20%), Fruit & Seeds (13.5%) (Raisins, Chia Seeds, Pumpkin Seeds), Raw Sugar (11%), Cocoa Solids (7%). Artificial (Chocolate) Flavouring Substance, Pink Salt, Probiotic (Bacillus coagulans MTCC 5856) & Antioxidant (INS 320)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4906537989848",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

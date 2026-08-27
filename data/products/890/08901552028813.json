@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552028813",
+  "barcode_printed": "8901552028813",
+  "barcode_format": "EAN-13",
+  "name": "Singara",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Coriander Leaves (39%), Water, Sugar, Lime Juice, Roasted Gram, Green Chilli, Black Salt. Ingredients: Potatoes (44%), Refined Wheat Flour (23%), Sunflower Oil, Green Peas, Water, Green Chilli, Coriander Leaves, Ginger, Onion, Salt, Garlic, Cumin, Chilli Powder, Turmeric Powder, Spices (Coriander Powder, Cumin, Aniseeds, Cinnamon, Nutmeg, Sesame Seeds, Cardamom, Clove, Bay Leaf, Star Anise, Chilli Powder, Caraway Seeds, Carom Seeds, Mace, Stone Flower), Cinnamon Powder, Clove Powder. Contains: Wheat&Sesame Ingrédients: Pommes de terre (44%), farine de blé raffinée (23%), huile de tournesol, pois verts, eau, piment vert, feuilles de coriandre, Chutney Vert Ingrédients: Feuilles de Coriandre (39%), Eau, Sucre, Jus de Lime, Rôti Bengale iconpolle noix de muscade Khatti meethi Chutney Ingredients: Water, Sugar, Dry mango, Salt, Ginger Powder, Citric Aci Powder, Black Salt, Cumin, Coriander Powder, Black Pepper Powder. Diment Vert Sel Noir",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552028813",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

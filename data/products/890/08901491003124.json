@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491003124",
+  "barcode_printed": "8901491003124",
+  "barcode_format": "EAN-13",
+  "name": "West Indies' Hot 'n' Sweet Chilli",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 534,
+        "energy_kj": 2234,
+        "protein_g": 6.4,
+        "carbohydrate_g": 55.1,
+        "sugars_g": 6,
+        "fat_g": 32,
+        "saturated_fat_g": 14.3,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 671
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, Edible Vegetable Oil Palmolein, Sunflower Oil), *Seasoning (Sugar, Maltodextrin, lodised Salt, Flavour (Natural and Nature Identical Flavouring Substances), ~Spices & Condiments, Flavour Enhancers (627 & 631), Edible Vegetable Oil (Palm, Sunflower, Peanut), Hydrolysed Vegetable Protein, Anticaking Agent 551), Cocoa Solids, Lactose). &quot;As flavouring agent. ALLERGEN ADVICE: Contains Nut, Milk, Wheat Contains Onion and Garlic May Contain Sulphite",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491003124",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

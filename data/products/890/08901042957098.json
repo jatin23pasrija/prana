@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042957098",
+  "barcode_printed": "8901042957098",
+  "barcode_format": "EAN-13",
+  "name": "Kadina Pakora",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NO Hydrogenated Vegetable Fat NO Added Chemical Preservatives NO Artificial Colours INGREDIENTS: Curd (Yoghurt 39%), Water, Bengal gram flour (10%), Onion, Potato, Refined sunflower oil, Salt, Coriander latives, Ginger, Red chilli, Green chilli, Cumin, Turmeric, Coriander, Mustard, Dry mango, Curry leaves, Fennel, Black pepper, Asafoetida. ALLERGEN ADVICE: Contains Milk products, Mustard and may contain traces of groundnut or tree nuts NJ 11 (109/) Mai scle (39%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042957098",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

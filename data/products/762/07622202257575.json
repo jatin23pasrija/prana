@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202257575",
+  "barcode_printed": "7622202257575",
+  "barcode_format": "EAN-13",
+  "name": "Oreo original",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 483,
+        "energy_kj": 2022,
+        "protein_g": 5.2,
+        "carbohydrate_g": 71.9,
+        "sugars_g": 38.9,
+        "fat_g": 19.6,
+        "saturated_fat_g": 9.7,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 420
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, FRACTIONATED FAT, PALMOLEIN, INVERT SUGAR, COCOA SOLIDS (2%*), LEAVENING AGENTS (500(ii), 503(ii)), STARCH, IODISED SALT, EMULSIFIER (322), NATURE IDENTICAL FLAVOURING SUBSTANCES. ALLERGEN INFORMATION: CONTAINS WHEAT, SULPHITE, SOY. MAY CONTAIN MILK AND BARLEY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202257575",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

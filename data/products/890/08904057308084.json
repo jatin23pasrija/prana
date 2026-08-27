@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904057308084",
+  "barcode_printed": "8904057308084",
+  "barcode_format": "EAN-13",
+  "name": "mango creme milk",
+  "brand": "hanobar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Covering (80%): Sugar, Fractionated Fat (Sal, Palm, Emulsifier (Soy Lecithin)), Milk Solids (18.1%), Cocoa Solids, Cocoa Butter, Emulsifier (322 & 476) & Vanilla Powder. Center Filling (20%): Milk Solids, Sugar, Color (160a (iii)), Emulsifier (322) & Artificial (Vanilla & Mango) Flavoring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904057308084",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

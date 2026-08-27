@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004407518",
+  "barcode_printed": "8904004407518",
+  "barcode_format": "EAN-13",
+  "name": "Nimbu masala",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Chick Peas Flour, Refined Palm Oil, Potato, Potato Flakes, Tapioca &rch, lodised Salt, Red Chilli, Refined Sugar, Tomato Powder, Coriander Powder, Black Pepper, Clove, Dried Ginger Powder, red Onion Powder, Cardamom, Nutmeg, Bay Leaves, Lemon Powder, Dried Garlic Powder, Black Salt, Cumin and Citric Acid (E 330). May Contains Peanut, Almond, Cashew, Wheat, Sesame Seed, Milk, Soy & Mustard Seed. INGRÉDIENTS Farine De Pois chiches, Oléine D'huile De Palme Raffinée, De Pommes De Terre, Flocons De Pomme De Terre, Amidon De Tapioca, Sel lodé, Piment Rouge, Sucre Raffiné, Poudre De Tomate, Poudre De Coriandre, Poivre Noir, Clou De Girofle, Gingembre En Poudre, Séché Poudre D'oignon, Cardamome, Noix De Muscade, Feuilles De Laurier, Citron En Poudre, Poudre D'ail Séché, Sel Noir, Cumin et Acide Citrique (E 330). Peut Contenir Des Arachides, Amandes, Noix De Cajou, Du Blé, Graines De Sésame Du Lait, Soja Et Graines De Moutarde. Keep Away From Direct Sunlight I Garder à l'ombre",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004407518",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

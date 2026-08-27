@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009535139",
+  "barcode_printed": "8908009535139",
+  "barcode_format": "EAN-13",
+  "name": "Jain Pav Bhaji",
+  "brand": "freshway",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "*Approx. Values Raw Banana, Red Chilly Powder, Tomato, Capsicum, Green Peas, Cardamom, Cotton Seed Oil, lodized Salt and Mixed Indian Spices.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009535139",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

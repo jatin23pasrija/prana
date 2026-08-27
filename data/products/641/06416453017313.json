@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "06416453017313",
+  "barcode_printed": "6416453017313",
+  "barcode_format": "EAN-13",
+  "name": "Milk Chocolate With Toffee Pieces",
+  "brand": "karlfazer",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "4 sections (32 g)",
+        "quantity": {
+          "value": 32,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 170,
+        "protein_g": 3,
+        "carbohydrate_g": 19,
+        "sugars_g": 16,
+        "fat_g": 10,
+        "saturated_fat_g": 6,
+        "fibre_g": 2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6416453017313",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069403467",
+  "barcode_printed": "8906069403467",
+  "barcode_format": "EAN-13",
+  "name": "Wok Tok by Veeba Spicy Schezwan Chilli Chunkey 250 g",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Vegetables nutritional [43, 0% (onions, Garlic, Chillies 16 servings, Ginger)], Water, Refined soyabean oil, Sugar, Lodised salt, Liquid glucose, Serving size: nutrients energy protein g ecutive stabilizers (ins1422, Ins415), Carbohydrate email: acidity regulator (ins260), Total sugars connect flavour enhancer (ins635), Added supp flavours (nature-identical & total fat (g) natural flavouring substances), Tas saturated ag white pepper powder, Sodium g schezwan pepper and preservatives (ins202, Ins211). per serve store in a cool & dry place. refrigerate after opening. do not freeze.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069403467",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

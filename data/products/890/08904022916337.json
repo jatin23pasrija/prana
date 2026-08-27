@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904022916337",
+  "barcode_printed": "8904022916337",
+  "barcode_format": "EAN-13",
+  "name": "Coconut Cookies",
+  "brand": "americana",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Refined Palm Oil, Invert Syrup, Coconut Powder (1.96%), Leavening Agents [503 (ii) & 500 (ii)], Edible Starch, Iodised Salt, Emulsifiers [322 & 471) Acidity Regulator [450(i)] and Artificial Flavouring Substance (Coconut).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904022916337",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

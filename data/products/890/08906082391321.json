@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082391321",
+  "barcode_printed": "8906082391321",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Masala",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 564.4,
+        "protein_g": 19.56,
+        "carbohydrate_g": 21.28,
+        "sugars_g": 2.48,
+        "fat_g": 43.08,
+        "saturated_fat_g": 8.2,
+        "fibre_g": 6.76,
+        "sodium_mg": 564.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082391321",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

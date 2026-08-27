@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016958440",
+  "barcode_printed": "8908016958440",
+  "barcode_format": "EAN-13",
+  "name": "Raisins",
+  "brand": "madhuban",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 334,
+        "protein_g": 3.1,
+        "carbohydrate_g": 79.2,
+        "sugars_g": 59.2,
+        "fat_g": 0.5,
+        "saturated_fat_g": 0,
+        "fibre_g": 3.7
+      }
+    }
+  ],
+  "ingredients_raw": "Raisins",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016958440",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719101014",
+  "barcode_printed": "8901719101014",
+  "barcode_format": "EAN-13",
+  "name": "Biscuits Parle-G",
+  "brand": "gluco-biscuits",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "FARINE DE BLÉ, SUCRE, HUILES VÉGÉTALES COMESTIBLES SIROP INVERTI, SEL, BICARBONATE d'AMMONIUM [E 503], LAIT ÉCRÉME EN POUDRE, BICARBONATE DE SOUDE (E 500) 1. LECITHINE du SOJA [E 322) OU ESTERS DE MONO Et DIGLYCERIDES ET SODIUM STEAROYL-2-LACTYLATE [E 471 et E 481 (1)], SAVEUR ARTIFICIELLE DE VANILLE ET MÉTABISULFITE D SODIUM (E 223]. Parie G INGREDIENTS: SUGAR, EDIBLE INVERT SYRUP, BICARBONATE (B MILK POWDER, S [E 500 (i)), SOYA ESTERS OF MON AND SODIUM STE (E 471 & E 481(0)]. FLAVOUR AND SO BISULPHITE [E 22",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719101014",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

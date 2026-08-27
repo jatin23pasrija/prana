@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071732802",
+  "barcode_printed": "8901071732802",
+  "barcode_format": "EAN-13",
+  "name": "Sofit Soya Chocolate Flavor Drink",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, SOYABEANS ($13.6%), SUGAR, COCOA SOLIDS (0.8%), MINERAL (TRICALCIUM PHOSPHATE), OLIGOFRUCTOSE DIETARY FIBRE) (0.37%), EMULSIFIER (460), 466), ACIDITY REGULATOR (500 (i)), FLAVOURS (NATURE IDENTICAL & ARTIFICIAL VANILLA) FLAVORING SUBSTANCES), EDIBLE COMMON SALT, MINERAL (ZINC SULPHATE), VITAMIN E (ACETATE), VITAMIN A (ACETATE), VITAMIN B1 (THIAMINE MONONITRATE), VITAMIN B2 RIBOFLAVIN) AND VITAMIN B12 (CYANOCOBALAMIN)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071732802",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

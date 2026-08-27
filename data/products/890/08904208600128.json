@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904208600128",
+  "barcode_printed": "8904208600128",
+  "barcode_format": "EAN-13",
+  "name": "Paneer Butter Masala",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 400,
+        "protein_g": 10,
+        "carbohydrate_g": 50,
+        "sugars_g": 30,
+        "fat_g": 15,
+        "saturated_fat_g": 0,
+        "fibre_g": 10,
+        "sodium_mg": 3900
+      }
+    }
+  ],
+  "ingredients_raw": "Onion, cashew nut, milk, refined vegetable oil (palmolein oil), salt, red chilli, coriander, sugar, tomato powder, garlic, fenugreek leaves, corn starch, ginger, other spices. (all spices in ground form).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904208600128",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

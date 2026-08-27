@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901928043006",
+  "barcode_printed": "8901928043006",
+  "barcode_format": "EAN-13",
+  "name": "Champ Milkuit tasty Milk Biscuit",
+  "brand": "bisk-farm",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 465.49,
+        "energy_kj": 0,
+        "protein_g": 7.62,
+        "carbohydrate_g": 71.89,
+        "sugars_g": 21.23,
+        "fat_g": 18.69,
+        "saturated_fat_g": 9.46,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (57.97%), SUGAR, EDIBLE VEGETABLE OIL (PALM, PALMOLEIN), HYDROGENATED VEGETABLE FAT (PALM, PALMOLEIN), LIQUID GLUCOSE, EDIBLE STARCH (CORN), MILK SOLIDS (1.45%), SALT, EMULSIFIERS (322,471,481), RAISING AGENTS[500(ii), 503(ii)], ACIDITY REGULATORS [330, 450(i)] AND ANTIOXIDANT (319) CONTAINS ADDED FLAVOURS (VANILLA, MILK) 18(NUMBERS IN BRACKETS ARE AS PER 39 CONTAINS WHEAT, MILK AND SOY INTERNATIONAL NUMBERING SYSTEM) HYPERSENSITIVE INGREDIENTS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901928043006",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

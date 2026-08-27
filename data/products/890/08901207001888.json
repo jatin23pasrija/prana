@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207001888",
+  "barcode_printed": "8901207001888",
+  "barcode_format": "EAN-13",
+  "name": "Dabur Honitus",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Each teaspoonful (5ml) of Honitus contains: Extract derived from: Tulsi(Ocimum sanctum, Lf.), Yashti(Glycyrrhiza glabra, Rt.), Kantakari(Solanum xanthocarpum, Pl.), Banaphsa(Viola odorata, Fl.), Talispatra(Taxus wallichiana, Lf.) each 50mg, Sunthi(Zingiber officinale, Rz.), Pippali(Piper longum, Fr.), Vasa(Adhatoda vasica, Lf.), Shati(Hedychium spicatum, Rz.) each 25mg and Pudina (Mentha species, Satva) 3mg, Madhu 1750mg, Flavoured syrup base q.s Preservatives: Sodium Methyl Paraben I.P. and Sodium Propyl Paraben I.P.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207001888",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

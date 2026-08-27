@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906107170214",
+  "barcode_printed": "8906107170214",
+  "barcode_format": "EAN-13",
+  "name": "Spicy Chicken Momos",
+  "brand": "prasuma",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "4 pieces (85 g)",
+        "quantity": {
+          "value": 85,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 202,
+        "protein_g": 8.87,
+        "carbohydrate_g": 19.79,
+        "sugars_g": 5.3,
+        "fat_g": 9.7,
+        "saturated_fat_g": 4.26,
+        "trans_fat_g": 0.01,
+        "sodium_mg": 326.02
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906107170214",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

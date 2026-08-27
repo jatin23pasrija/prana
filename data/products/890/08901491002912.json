@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491002912",
+  "barcode_printed": "8901491002912",
+  "barcode_format": "EAN-13",
+  "name": "20 RICE, CORN & DAL WITH Kurkure Schezwan Ching's",
+  "brand": "pepsico",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cereal Products (67%) (Rice meal (44%), Corn Meal (23%)), Edible vegetable oil (Rice Bran Oil), *Seasoning (Sugar, Spices and Condiments, lodised Salt, Edible Vegetable Oil (Canola, Palm and Sunflower), Acidity Regulators (296, 330), Edible Starch, Salt Substitute (Potassium Chloride), Maltodextrin, Natural and Nature Identical Flavouring Substances, Flavour Enhancers (627, 631), Colour (150d)), Gram Meal (0.5%). As Flavouring Agent. &quot;Contains Onion and Garlic Allergen Advice: May Contain Peanut",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491002912",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

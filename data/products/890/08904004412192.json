@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004412192",
+  "barcode_printed": "8904004412192",
+  "barcode_format": "EAN-13",
+  "name": "Khatta Meetha",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 540,
+        "protein_g": 10,
+        "carbohydrate_g": 58,
+        "sugars_g": 6,
+        "fat_g": 30,
+        "saturated_fat_g": 12,
+        "fibre_g": 4,
+        "sodium_mg": 360
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004412192",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

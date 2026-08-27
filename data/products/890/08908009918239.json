@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009918239",
+  "barcode_printed": "8908009918239",
+  "barcode_format": "EAN-13",
+  "name": "Plant Protien Unflavored",
+  "brand": "oziva",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 scoop (36 g)",
+        "quantity": {
+          "value": 36,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 139,
+        "protein_g": 30,
+        "carbohydrate_g": 3.82,
+        "sugars_g": 0,
+        "fat_g": 0.64,
+        "fibre_g": 3.05,
+        "sodium_mg": 247
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009918239",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

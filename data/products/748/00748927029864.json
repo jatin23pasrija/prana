@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00748927029864",
+  "barcode_printed": "0748927029864",
+  "barcode_format": "EAN-13",
+  "name": "100% Whey Protein Powder Drink Mix Strawberry Banana",
+  "brand": "optimum-nutrition",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2267.96185,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whey Protein Isolate, Whey Protein Concentrate, Hydrolyzed Whey Protein, Natural and Artificial Flavor, Sunflower and/or Soy Lecithin, Acesulfame Potassium, Sucralose, Red 40",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0748927029864",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

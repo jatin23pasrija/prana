@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08904198805107",
+  "barcode_printed": "8904198805107",
+  "barcode_format": "EAN-13",
+  "name": "Chana Jor Masala",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 518.52,
+        "protein_g": 13.05,
+        "carbohydrate_g": 52.56,
+        "sugars_g": 1.41,
+        "fat_g": 28.57,
+        "saturated_fat_g": 13.76,
+        "sodium_mg": 758.38
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904198805107",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

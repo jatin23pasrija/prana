@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063033368",
+  "barcode_printed": "8901063033368",
+  "barcode_format": "EAN-13",
+  "name": "Treat Choco",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 498,
+        "protein_g": 5.3,
+        "carbohydrate_g": 71.5,
+        "sugars_g": 37.2,
+        "fat_g": 21.2,
+        "saturated_fat_g": 10.3,
+        "sodium_mg": 4020
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063033368",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

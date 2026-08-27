@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08902268002753",
+  "barcode_printed": "8902268002753",
+  "barcode_format": "EAN-13",
+  "name": "Yummy Orange Flavoured Sandwich",
+  "brand": "anmol",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 480,
+        "protein_g": 7.28,
+        "carbohydrate_g": 72.39,
+        "sugars_g": 24.08,
+        "fat_g": 17.63,
+        "saturated_fat_g": 10.17,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR, SUGAR, VEGETABLE OILS (PALM), HYDROGENATED EDIBLE VEGETABLE FAT, RAISING AGENTS [INS 503(ii), INS 500(ii)], INVERT SYRUP, EDIBLE COMMON SALT, LIQUID GLUCOSE STARCH, PERMITTED EMULSIFIERS (INS 322, INS 471), DEXTROSE. CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 102, INS 110) AND ADDED FLAVOURS (NATURE IDENTICAL FLAVOURING SUBSTANCE-ORANGE & ARTIFICIAL FLAVOURING SUBSTANCE-ORANG)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902268002753",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

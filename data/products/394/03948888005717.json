@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "03948888005717",
+  "barcode_printed": "3948888005717",
+  "barcode_format": "EAN-13",
+  "name": "lemoneez",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 31,
+        "protein_g": 0,
+        "carbohydrate_g": 2.5,
+        "sugars_g": 2.5,
+        "fat_g": 0,
+        "sodium_mg": 27
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Lemon Juice Concentrate (23%) & Preservative (INS 224).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948888005717",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906097549588",
+  "barcode_printed": "8906097549588",
+  "barcode_format": "EAN-13",
+  "name": "Sapphire Poko Loko Lychee Flavoured Juice Drink",
+  "brand": "poko-loko",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Lychee Juice from Lychee Juice Concentri 5%), Nata De Coco (20%), Sugar, Acidity Regulator UNG Lychee Flavour, Acidity Regulator (INS 331 Preservative (INS 211), Colours (INS 122, INS 129). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 122, INS 129) AND ADDED FLAVOUR (NATURAL FLAVOURING SUBSTANCE-LYCHEE).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906097549588",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

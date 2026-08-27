@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906078264028",
+  "barcode_printed": "8906078264028",
+  "barcode_format": "EAN-13",
+  "name": "Crackers with Italian Herbs",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 440,
+        "protein_g": 6,
+        "carbohydrate_g": 56,
+        "sugars_g": 8.8,
+        "fat_g": 21.2,
+        "saturated_fat_g": 10,
+        "fibre_g": 1.6,
+        "sodium_mg": 840
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906078264028",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

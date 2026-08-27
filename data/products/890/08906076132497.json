@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076132497",
+  "barcode_printed": "8906076132497",
+  "barcode_format": "EAN-13",
+  "name": "Fruit & Nut Cake",
+  "brand": "the-bakers-dozen",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 474,
+        "energy_kj": 1983,
+        "protein_g": 9,
+        "carbohydrate_g": 73,
+        "sugars_g": 19,
+        "fat_g": 16,
+        "saturated_fat_g": 7,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 233
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076132497",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

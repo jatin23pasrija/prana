@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906125980673",
+  "barcode_printed": "8906125980673",
+  "barcode_format": "EAN-13",
+  "name": "Corn Chips",
+  "brand": "4700bc",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "NON-GMO A LITTLE NT SEASONED MARKETED BY Te M. IM N. 75, 45 Kn Stone, GT Road, Kanapur, Dial Seripat, Haryana, India 131021 FOR CUSTOMER CARE & FEEDBACK: Zeo Moise Pvt. Lid Kila No. 75, 45 Km Stone, GT Road, Issat Kamaspur, Dig Sonipat, Haryana, India 131021 customercare47008C.com +91 9911470022 MRP UNIT SALE PRICE NET QUANTITY BATCH NO. DATE OF MANUFACTURE : USE BY :55g www.4700BC.com 4700BCPopcorn ORDER ONLINE AND GET BEST DEALS &quot;Bese ingredient of the chip is ONLY CORN 8190612519817311 INFORMATION",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906125980673",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "06858824033612",
+  "barcode_printed": "6858824033612",
+  "barcode_format": "EAN-13",
+  "name": "Ranch",
+  "brand": "hidden-valley",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "hidden valley the original anc since depuls 1954 homestyle maiso trans fatd gras trans gf crestmy dressing , dip soate a solade et trempette cremeuse 1,18 l b rr 0 x",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6858824033612",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

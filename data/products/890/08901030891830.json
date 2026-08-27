@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030891830",
+  "barcode_printed": "8901030891830",
+  "barcode_format": "EAN-13",
+  "name": "double chocolate cornetto",
+  "brand": "kwality-walls",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 61,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Dark and Milk Chocolate delights in a wafer cone (16%) with chocolate compound coating (14%) Water, Wafer Biscuit Cone (16%) (Refined Wheat Flour (Maida), Sugar, Palm Oil, Emulsifier - E322, Iodised Salt, CONTAINS NATURAL COLOUR - E150d), Compound Coating (14%) (Sugar, Palm Oil, Coconut Oil, Cocoa Solids, Emulsifier - E322, CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Sugar, Palm Oil, Milk Solids, Chocolate Coated Confectionery (2.8%), Liquid Glucose, Maltodextrin, Cocoa Solids, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E412, E410, E407.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030891830",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

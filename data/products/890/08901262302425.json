@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262302425",
+  "barcode_printed": "8901262302425",
+  "barcode_format": "EAN-13",
+  "name": "tru CHIKOO CHARM",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk solids, sugar, chikoo fruit preparation (14%) [chikoo pieces, sugar, water, antioxidant (300), thickener (440), preservative (202, 211), colour (150a)], emulsifier (471), stabilizers (407, 466, 415, 412), nature identical flavouring substances (chikoo), colour (150d).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262302425",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

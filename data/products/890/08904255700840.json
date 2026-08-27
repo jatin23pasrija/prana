@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08904255700840",
+  "barcode_printed": "8904255700840",
+  "barcode_format": "EAN-13",
+  "name": "Urad Crisp",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 258.33,
+        "protein_g": 8.17,
+        "carbohydrate_g": 48.67,
+        "sugars_g": 0,
+        "fat_g": 0.17,
+        "saturated_fat_g": 0.08,
+        "fibre_g": 0.08,
+        "sodium_mg": 1566.42
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904255700840",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

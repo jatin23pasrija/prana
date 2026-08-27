@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902167000102",
+  "barcode_printed": "8902167000102",
+  "barcode_format": "EAN-13",
+  "name": "MDH Kitchen King Blend of Spices",
+  "brand": "mdh",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "coriander, chilli red, cumin, turmeric, salt white, musk melon, mustard, fenugreek eaves, dried garlic, dried ginger, black pepper, dried onion, cardamom amomum, cinnamon, ennel, cloves, nutmeg, mace, cardamom green, asafoetida",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902167000102",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

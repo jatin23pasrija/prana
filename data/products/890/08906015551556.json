@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08906015551556",
+  "barcode_printed": "8906015551556",
+  "barcode_format": "EAN-13",
+  "name": "Gadbad Mixture",
+  "brand": "nenimemi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 559,
+        "protein_g": 14,
+        "carbohydrate_g": 43,
+        "sugars_g": 0.2,
+        "fat_g": 31,
+        "saturated_fat_g": 7
+      }
+    }
+  ],
+  "ingredients_raw": "Bengal Gram Flour (Besan) (35.65%), Edible Vegetable Oil (Palmolein /Cottonseed), Whole Red Lentils (11.35%), Peanuts (8.20%), Potato Flex (8%), Refined Wheat Flour (Maida), Edible Common Salt, Spice Mix, Red Chilli Powder, Dry Mango Powder, Asafoetida, Acidifying Agent (INS 330). CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 110, INS 132, & INS 133)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906015551556",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

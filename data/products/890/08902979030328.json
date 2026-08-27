@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08902979030328",
+  "barcode_printed": "8902979030328",
+  "barcode_format": "EAN-13",
+  "name": "Bombay Puri",
+  "brand": "garden",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 160,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 540,
+        "carbohydrate_g": 55,
+        "fat_g": 32.3,
+        "saturated_fat_g": 15.9,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0.2,
+        "sodium_mg": 836.7
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (66%). Refined Paimolein Oil, Wheat Flour (Atta), Edibie Common Salt and Hydrogenated Vegetable Oils (Vanaspati)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902979030328",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

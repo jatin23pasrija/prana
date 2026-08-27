@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063368651",
+  "barcode_printed": "8901063368651",
+  "barcode_format": "EAN-13",
+  "name": "CAKE GOBBLES",
+  "brand": "britannia",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR,MAIDA, EGG, SUGAR, VANASPATI, INTERESTERIFIED VEGETABLE FAT, HUMECTANT (422), REFINED PALMOLEN OIL, LIQUID GLUCOSE, DEXTROSE, HIGH MALTOSE SYRUP, FRUCTOOLIGOSACHHARIDES, BUTTER (1.1%) CAKE GEL (EMULSIFIERS (471, 477, 470m)) AND HUMECTANTS (1520, 422)), EDIBLE MAIZE STARCH, WHEAT STARCH, RAISING AGENTS (341(i), 500(ii), 450(vii), 450(i)), ARTIFICIAL (VANILLA) AND NATURE IDENTICAL FLAVOURING SUBSTANCES, IODISED SALT, INVERT SUGAR SYRUP, PRESERVATIVES (202 & 282), ACIDITY REGULATOR (330), BAKING POWDER, EMULSIFIER (475) AND STABILIZER (415).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063368651",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

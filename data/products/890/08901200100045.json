@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901200100045",
+  "barcode_printed": "8901200100045",
+  "barcode_format": "EAN-13",
+  "name": "parachute coco oil",
+  "brand": "parachute",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "10/2019 03/202 زيت باراشوت جوز الهند صالح اللأكل— المحتويات: زيت Parachute Co ut Oil is edible. Ingredients : 100 Pure Coconut OI. ومات الغـذائية Facts ملعفة كبيرة أتقيبا جرام latpa )12g iner about 35 Pure Coconut Oil fe below 24°C. To de-freeze immer bottle in hot (not bo water for a few min فية ل لعبوة حوالی ۳۵ الكل حصة % Daily Value القيمة اليومية 20% الذهون الكليه ۱۳ جرام 58% الدهون غير المشبعة جرام وا وl الدهون المشبعة ۱ ۱جرام Net contents: 0 100% edible pure co from Kerola's fins co now in a new internahion Packed specioly fr دهون أحادية مشيعة ۰۵. جرام و9 و 0% الكربوهيدرات الكلية جرام h 0% البروتينات . جرام 4 Trademark owned by Manico LIIE CSTRoad, kKalina Membr Mfd e n marico",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901200100045",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

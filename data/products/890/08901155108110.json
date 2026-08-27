@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901155108110",
+  "barcode_printed": "8901155108110",
+  "barcode_format": "EAN-13",
+  "name": "Sambar breakfast nix",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Lentils, Salt, Sugar, Dehydrated Onions, Red Chilli, Hydrogenated Vegetable Oil (Palmolein Oil, Sesame Oil & Preservative: Butylated Hydroxy Anisole) (E320), Tamarind Powder, Coriander Seeds, Mustard Seeds, Dehydrated Potatoes, Dehydrated Curry Leaves, Cumin Seeds, Citric Acid (E330), Fenugreek Seeds, Cinnamon Powder, Turmeric Powder, Asafoetida and Clove Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901155108110",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013982646",
+  "barcode_printed": "8908013982646",
+  "barcode_format": "EAN-13",
+  "name": "Lahori Zeera",
+  "brand": "lahori-zeera",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 160,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 47.2,
+        "energy_kj": 198,
+        "protein_g": 0.2,
+        "carbohydrate_g": 11.8,
+        "sugars_g": 11.8,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 173.4
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, LEMON JUICE CONCENTRATE (0.3%) EQUIVALENT TO 2.5% LEMON JUICE RECONSTITUTED, ACIDITY REGULATOR ONS 300 STABILISER (INS 414), CONTAINS PERMITTED NATURAL COLOUR (INS-150d) AND FLAVOURS (NATURAL & NATURE-IDENTICAL FLAVOURING SUBSTANCES), BLACK SALT, IODISED SALT CUMIN SEED, BLACK PEPPER & DRY GINGER POWDER, CLASS II PRESERVATIVE (INS-211). FINS-INTERNATIONAL NUMBERING SYSTEM).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013982646",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

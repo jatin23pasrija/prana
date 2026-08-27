@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904474000882",
+  "barcode_printed": "8904474000882",
+  "barcode_format": "EAN-13",
+  "name": "Bonn Royal Bake White Bread",
+  "brand": "bonn",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR - MAIDA (55%), WATER, YEAST, SUGAR, EDIBLE COMMON SALT, REFINED PALM OIL, SOYABEAN OIL, SOY FLOUR, GLUTEN, PRESERVATIVES [280, 281 & 200], ANTIOXIDANT [300], ANTICAKING AGENT [170(i)], FLOUR IMPROVERS (1100(i) & 1104] AND EMULSIFIERS [481(i), 471, 472e & 479].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904474000882",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725013318",
+  "barcode_printed": "8901725013318",
+  "barcode_format": "EAN-13",
+  "name": "Aashirvaad svasti Paneer Slices",
+  "brand": "aashirvaad",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 290,
+        "protein_g": 18,
+        "carbohydrate_g": 2.7,
+        "sugars_g": 2.7,
+        "fat_g": 23,
+        "saturated_fat_g": 15.3,
+        "sodium_mg": 25
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725013318",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719124754",
+  "barcode_printed": "8901719124754",
+  "barcode_format": "EAN-13",
+  "name": "20-20 Nice - sugar sprinkled coconut biscuits",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 485.5,
+        "energy_kj": 2033,
+        "protein_g": 6.5,
+        "carbohydrate_g": 78,
+        "sugars_g": 28.9,
+        "fat_g": 13.5,
+        "saturated_fat_g": 7.1,
+        "sodium_mg": 248
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR , SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, DESICCATED COCONUT POWDER (2.9%), RAISING AGENTS [503(ii), 500(ii)], IODISED SALT AND EMULSIFIERS OF VEGETABLE ORIGIN (322(i), 472e) CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - COCONUT AND MILK). CONTAINS: WHEAT AND SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719124754",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

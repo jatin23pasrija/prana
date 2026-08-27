@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081926876",
+  "barcode_printed": "8906081926876",
+  "barcode_format": "EAN-13",
+  "name": "SALMON FISH OIL",
+  "brand": "carbamide-forte",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Salmon Fish Oil, Vitamin D3, Vitamin E, Gelatin (Capsule shells), Humectants[INS 420(i) & INS 422], Antioxidants [INS 320 & INS 321], Sodium Benzoate [INS 211] & Natural & Nature Identical Flavouring Substance (Citrus Lemon].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081926876",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

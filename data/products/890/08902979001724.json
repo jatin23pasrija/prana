@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902979001724",
+  "barcode_printed": "8902979001724",
+  "barcode_format": "EAN-13",
+  "name": "Cavins Masala Chaasa 180 ml",
+  "brand": "cavin-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Milk Solids, iodized salt, Spices and Condiments (0.6%) (Cumin, Ginger, Chilly and Asafoetida), Emulsifier (INS 460(i)), Stabilizer (INS 466) and Mineral & Vitamin premix (Zinc, Vitamin A & D)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902979001724",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

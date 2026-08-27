@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001387039",
+  "barcode_printed": "8906001387039",
+  "barcode_format": "EAN-13",
+  "name": "English Oven Milk Sliced White Bread",
+  "brand": "english-oven",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 282,
+        "protein_g": 10.77,
+        "carbohydrate_g": 54.86,
+        "sugars_g": 6.21,
+        "fat_g": 2.23,
+        "saturated_fat_g": 1.09,
+        "trans_fat_g": 0,
+        "fibre_g": 5.28
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Water, Milk Solids (6%), Yeast, Sugar, lodized Salt, Edible Vegetable Oil (Palm), Wheat Gluten, Soya Flour, Class II Preservative (282), Improvers [170 (i), 510, 923, +100], Emulsifiers [471, 472e, 481 (i)], Acidity Regulator (260) and Antioxidants (300)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001387039",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

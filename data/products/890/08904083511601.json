@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083511601",
+  "barcode_printed": "8904083511601",
+  "barcode_format": "EAN-13",
+  "name": "Organic Flax Seeds",
+  "brand": "24-mantra-organic",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 90,
+        "protein_g": 4,
+        "carbohydrate_g": 7,
+        "sugars_g": 0.2,
+        "fat_g": 7,
+        "saturated_fat_g": 1,
+        "trans_fat_g": 0,
+        "fibre_g": 5,
+        "sodium_mg": 7
+      }
+    }
+  ],
+  "ingredients_raw": "Organic Flax Seeds",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083511601",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

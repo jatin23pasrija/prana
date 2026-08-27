@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019040265",
+  "barcode_printed": "8908019040265",
+  "barcode_format": "EAN-13",
+  "name": "Clear Whey Protein , Nimbu Pani",
+  "brand": "protyze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 scoop (32 g)",
+        "quantity": {
+          "value": 32,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 100,
+        "protein_g": 24,
+        "carbohydrate_g": 1,
+        "sugars_g": 0.5,
+        "fat_g": 0,
+        "sodium_mg": 30
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019040265",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009559005",
+  "barcode_printed": "8908009559005",
+  "barcode_format": "EAN-13",
+  "name": "Tomato Sauce",
+  "brand": "mickeys",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Tomato Paste, Sugar, lodized Salt, Liquid Glucose, Corn Starch, Acidifying Agent (INS 260), Thickening Agents (INS 415,INS 1422), Mixed Spices, Preservatives (INS 211 & INS 202), Caramel Colour & Contains Permitted Synthetic Food Colour (INS 129). CONTAINS PERMITTED CLASS II PRESERVATIVES NUTRITIONA MATION",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009559005",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

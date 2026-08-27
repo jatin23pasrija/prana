@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906041816049",
+  "barcode_printed": "8906041816049",
+  "barcode_format": "EAN-13",
+  "name": "Eclairs, Caramel with chocolate center",
+  "brand": "oshen",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Liquid glucose, Whey powder (Milk), Hydrogenated palm oil, Maltodextrin, Cocoa powder (1.5%), Humectant (Sorbitol, Glycerol), Emulsifiers (Mono and di glycerides of fatty acids, Soya lecithin), iodized salt (Salt, Potassium iodate), Stabiliser (Gum acacia), Colour (Sulphite ammonia caramel), Flavouring.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906041816049",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

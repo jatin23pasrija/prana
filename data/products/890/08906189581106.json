@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906189581106",
+  "barcode_printed": "8906189581106",
+  "barcode_format": "EAN-13",
+  "name": "Ketchup",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Tomato Paste (28%), Jaggery, Fruit Vinegar, lodized salt, Maize Starch, Onion, Red Chili, Garlic, Spice Mix (with O&G). Allergens: Contains Soy. May contain traces of Milk and Milk Products, Nuts, Peanuts, Sesame, Gluten, Mustard & Celery.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906189581106",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

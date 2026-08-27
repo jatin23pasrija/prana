@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719106828",
+  "barcode_printed": "8901719106828",
+  "barcode_format": "EAN-13",
+  "name": "Parle Namkeen &quot;Moong Dal&quot; 400GM",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "• PARLE BISCUITS PV T LTD NORThLL CROSSING, VILE PARLE EAST MANUFACTURED (DJ). SNAx LTD, KANTIVITA PHANSJDEVA WB - 734434 LIC. No.• 10015031001613 (15)- INDUSTRIEs 7%3 A, SEC - E *AIVWER ROAD RREA, INDORE, MP — 452015 No.: 10012026000049 & FLAVOURS LTD, B - 52 SHYAMJ( AREA, SIKAR, m - 332404 Lic No.« 10012013000216 HOUSE PVT LTD, NH 06, JALA SANKRAIL, - 711302 • 10014031001136 unrVQ '&quot;rua DUT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719106828",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

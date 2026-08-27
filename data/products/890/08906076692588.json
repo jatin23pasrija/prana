@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076692588",
+  "barcode_printed": "8906076692588",
+  "barcode_format": "EAN-13",
+  "name": "Garlic sev",
+  "brand": "narula-g",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Gram Flour (Besan), Edible Vegetable Oil (Cottonseed Oil, Groundnut Oil), Garlic, Cornstarch, Potato Powder, Garlic Powder, Red Chilli Powder, Black Pepper, Asafoetida (Heeng), lodised Salt. Plot No. 330, Khasra No. Indi. Area Delhi-110039 Email: customercare@m Web: www.narulabaker Insta: @narulabakers Facebook: www.faceb Packing Lic. No. P201 Customer Care No.: Only available during In case of any comm You may write to or manager",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076692588",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

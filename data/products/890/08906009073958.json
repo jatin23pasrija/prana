@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009073958",
+  "barcode_printed": "8906009073958",
+  "barcode_format": "EAN-13",
+  "name": "Unibic Coconut Cookies",
+  "brand": "unibic",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Desiccated Coconut Powder (30%), Sugar, Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm), Golden Syrup, Milk Solids, lodised Salt, Emulsifier (INS 322 from Soy), Leavening Agents (INS 500 ii, INS 503 ii).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009073958",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

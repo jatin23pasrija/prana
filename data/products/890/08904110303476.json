@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08904110303476",
+  "barcode_printed": "8904110303476",
+  "barcode_format": "EAN-13",
+  "name": "Chana Jor Chick Peas",
+  "brand": "kwality-maker",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (75 g)",
+        "quantity": {
+          "value": 75,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 252,
+        "protein_g": 4.3,
+        "carbohydrate_g": 20.7,
+        "sugars_g": 0.9,
+        "fat_g": 16.9,
+        "saturated_fat_g": 2.3,
+        "fibre_g": 2.5,
+        "sodium_mg": 198
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904110303476",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

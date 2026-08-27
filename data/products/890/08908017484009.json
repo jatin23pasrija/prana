@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017484009",
+  "barcode_printed": "8908017484009",
+  "barcode_format": "EAN-13",
+  "name": "Tamarind",
+  "brand": "mahadev",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 309.33,
+        "protein_g": 2.46,
+        "carbohydrate_g": 72.96,
+        "sugars_g": 38.2,
+        "fat_g": 0.85,
+        "saturated_fat_g": 0.45,
+        "fibre_g": 6.16,
+        "sodium_mg": 67.55
+      }
+    }
+  ],
+  "ingredients_raw": "Tamarind",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017484009",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

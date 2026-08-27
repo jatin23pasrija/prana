@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906078269900",
+  "barcode_printed": "8906078269900",
+  "barcode_format": "EAN-13",
+  "name": "Pav Bread",
+  "brand": "mrs-bector-s",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 276.43,
+        "protein_g": 9.05,
+        "carbohydrate_g": 51.06,
+        "sugars_g": 6.07,
+        "fat_g": 2.09,
+        "saturated_fat_g": 0.94,
+        "fibre_g": 8.59,
+        "sodium_mg": 453
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta-83%), Sugar, Wheat Gluten, Yeast, Edible Rice Bran Oil, Iodized Salt, Fermented (Cane) Sugar, Milk Solids, Malt Powder, Emulsifiers [471, 472e, 481 (i)], Improvers [170 (i), 510, 923, 1100].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906078269900",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

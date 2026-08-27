@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151000406",
+  "barcode_printed": "8906151000406",
+  "barcode_format": "EAN-13",
+  "name": "Green Tea Tea Bags",
+  "brand": "nutrovally",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1.3g",
+        "quantity": {
+          "value": 1.3,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 1.04,
+        "protein_g": 0.18,
+        "carbohydrate_g": 0.08,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Green Tea (Camellia sinensis)-(94%), Lemon Flavor (4%) and Honey Flavor (2%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151000406",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

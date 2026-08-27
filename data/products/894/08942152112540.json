@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08942152112540",
+  "barcode_printed": "8942152112540",
+  "barcode_format": "EAN-13",
+  "name": "tomato sauce",
+  "brand": "my-fresh",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 109.37,
+        "protein_g": 0.85,
+        "carbohydrate_g": 25.93,
+        "sugars_g": 21.24,
+        "fat_g": 0.25
+      }
+    }
+  ],
+  "ingredients_raw": "Tomato Paste 18%, Vegetable Pulp, Sugar, Water, lodized Salt, Onion Powder, Garlic Powder, Red Chilli Powder, Spices & Condiments, Acidity Regulator (260), Thickeners (401, 415) & Preservative (211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8942152112540",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

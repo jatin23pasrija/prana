@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00000089080672",
+  "barcode_printed": "89080672",
+  "barcode_format": "EAN-8",
+  "name": "Masala ae magic",
+  "brand": "maggi",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 6,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Mixed spices (35.3%) (Roasted spice powder (17.5%) (Cumin, Coriander, Turmeric, Aniseed, Black pepper, Fenugreek, Ginger, Clove, Green cardamom powder, Nutmeg), Red chilli powder, Dehydrated onion, Dried garlic, Capsicum extract, Coriander extract, Cumin extract), lodized salt, Sugar, Starch, Flavour enhancer (635), Thickener (508), Palm oil, Acidity regulator (330), Natural flavouring substance, Mineral, Colour (150d) and Vitamin. May Contain Wheat, Milk, Mustard and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89080672",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

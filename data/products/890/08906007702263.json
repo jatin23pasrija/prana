@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906007702263",
+  "barcode_printed": "8906007702263",
+  "barcode_format": "EAN-13",
+  "name": "Wrap tortilla",
+  "brand": "salsalito",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 348,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 307,
+        "protein_g": 9.69,
+        "carbohydrate_g": 55,
+        "sugars_g": 4.16,
+        "fat_g": 5.33,
+        "saturated_fat_g": 2.53,
+        "trans_fat_g": 0,
+        "fibre_g": 2.73,
+        "sodium_mg": 112
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (59.18%), Water, Refined Palmolein Oil, Humectant (INS 422), Sugar, Emulsifiers (INS 450 (i), INS 471), Acidity Regulator (INS 330), Raising Agent (INS 500 (ii)), Iodized Salt, Preservatives (INS 202, INS 282), Cysteine - Hydrochloride, Flour Treatment Agent (INS 1100)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906007702263",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058003000",
+  "barcode_printed": "8901058003000",
+  "barcode_format": "EAN-13",
+  "name": "Pazzta Cheese Macaroni",
+  "brand": "maggi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 pack (75 g)",
+        "quantity": {
+          "value": 75,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 241,
+        "protein_g": 7.4,
+        "carbohydrate_g": 47.8,
+        "fat_g": 2.3
+      }
+    }
+  ],
+  "ingredients_raw": "*MACARONI IPASTA): Semolina (Wheat) (100%). CHEESE 'TASTEMAKER®: Milk solids, Potato, lodized salt, Starch, Sugar, Cheese (5.8%), Dehydrated Sweetcorn (5.5%), Maltodextrin, Palm oil, Black pepper powder, Flavour enhancer (635), Roasted garlic flakes, Thickener (508), Dehydrated spring onion (0.4%), Natural flavour, Oregano bits, Margarine and Turmeric. Allergen Note: Contains Wheat & Milk. May contain Mustard & Sov",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058003000",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

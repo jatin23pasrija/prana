@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "05056281160747",
+  "barcode_printed": "5056281160747",
+  "barcode_format": "EAN-13",
+  "name": "Salted Caramel Impact Whey",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 384,
+        "protein_g": 73.78,
+        "carbohydrate_g": 8.93,
+        "sugars_g": 5.21,
+        "fat_g": 5.87,
+        "saturated_fat_g": 3.6,
+        "sodium_mg": 290
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5056281160747",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

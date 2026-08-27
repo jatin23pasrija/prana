@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719127113",
+  "barcode_printed": "8901719127113",
+  "barcode_format": "EAN-13",
+  "name": "Hide & seek Milano chocolate chip",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), CHOCO CHIPS (19.5%) [SUGAR, EDIBLE VEGETABLE FAT (HYDROGENATED OILS), COCOA SOLIDS, DEXTROSE, EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA ) ], REFINED PALM OIL, SUGAR, CHOCOLATE (6.5%) [ SUGAR, COCOA SOLIDS, COCOA BUTTER, DEXTROSE, EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN), ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA], INVERT SUGAR SYRUP, LIQUID GLUCOSE, BUTTER, RAISING AGENTS [ 503 (ii), 500 (ii)],SKIMMED MILK POWDER, COCOA SOLIDS, IODISED SALT AND EMULSIFIER OF VEGETABLE ORIGIN [472e]. CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES - CHOCOLATE) CONTAINS: WHEAT, SOY, MILK fssai",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719127113",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

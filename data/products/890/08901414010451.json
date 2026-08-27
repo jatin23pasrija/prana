@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414010451",
+  "barcode_printed": "8901414010451",
+  "barcode_format": "EAN-13",
+  "name": "Bikano Aloobhujia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Kartoffet (51,3%), Pflanztiches Speisedi Palmol und Ricebranöt in unterschiedlichen Anteilen Reismehi, Kichererbsenmehi, Gewürze und Würzm (Zeieber PUver, Roter chili Puver Knoblauch Puver エE Minz Purver, Mango Pulver, Kreuzkümmel Pulver Kohander Pulver, Zimt Pulver, Keim Puver Re Kuha Pulver, Grünes chili Pulver, Lngwer Tau-Grarom Mehl, Jodiertes Salz, Zucker (S Schwarzes Salz, Säureregulatoren [E 330 Allergie-Hinweis: Für die Allergene, se Zutaten in Fettschot kann auch Weize DUT Hater, Erdrs Nisse, Soja, Milch und Sesam enthallen STORE INA COOU DRY AND HYGIENIO PEACE PROTECT THE CON CONEUNER UNA NET WEIGHT 2509(2009 NOTB1CAS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414010451",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

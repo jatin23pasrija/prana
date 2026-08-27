@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901883001745",
+  "barcode_printed": "8901883001745",
+  "barcode_format": "EAN-13",
+  "name": "Hi-Five Banana Chips",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 544.4,
+        "protein_g": 2.01,
+        "carbohydrate_g": 60.29,
+        "sugars_g": 0.11,
+        "fat_g": 32.8
+      }
+    }
+  ],
+  "ingredients_raw": "Nendram Banana, Coconut Oil, lodized Salt and Spices.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901883001745",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

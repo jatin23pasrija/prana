@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202819445",
+  "barcode_printed": "7622202819445",
+  "barcode_format": "EAN-13",
+  "name": "Crispello",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 14.1,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk Chocolate (64%): Sugar, Milk Solids (12%), Cocoa Butter, Coco Solids, Fractionated Fat, Emulsifiers (42,476), Favours (Natural Nature Mentical and Artificial (Caramel and Vanilla) Flavouring Substances Centre Filing (36%): Sugar, Wheat Crispies (11) Refined Wheat Flour (Maida), Sugar, Corn Starch, Cocoa Solids, lodised Salt, Palm Kernel Oil, Levening Agents (4500) 500(i), 341), Fractionated Fat, Com Starch, Cocoa Solids Com Burner, Milk Solids, Emmys (442-476), lodised Salt, Plavours (Natural, Nature Identical and ficial (Caramel and Vanilla) Favouring Substances). CONTAINS COCOA BUTTER EQUIVALENT IN ADDITION TO COCOA BUTTER Allergen Information Contains Meat, Sulphites, Soy May Contain Tree Nuts, Barley",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202819445",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

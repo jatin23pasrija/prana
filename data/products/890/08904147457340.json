@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904147457340",
+  "barcode_printed": "8904147457340",
+  "barcode_format": "EAN-13",
+  "name": "Tea Rusk",
+  "brand": "preema-s",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 305,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat Flour (65%), Sugar, Vegetable Fat, (Contains one or more of palm oil or sesame oil), Semolina (7%), Yeast, Skim. Milk powder (0.7%), Salt and Cardamom(0.1%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904147457340",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207006029",
+  "barcode_printed": "8901207006029",
+  "barcode_format": "EAN-13",
+  "name": "Real fruit mango drink",
+  "brand": "real",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 53,
+        "protein_g": 0.1,
+        "carbohydrate_g": 13.2,
+        "sugars_g": 13.2,
+        "fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Mango Pulp (10%), Acidity Regulator (INS 330), Stabilizers (INS 412 & INS 466), Antioxidant (INS 300). Flavours (Nature Identical and Artificial Mango Flavouring Substances) and Colour (INS 110). THIS IS EQUIVALENT TO 10% FRUIT JUICE CONTENT. Single Consumption Pack. Consume Immediately",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207006029",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

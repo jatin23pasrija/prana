@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "04088600023700",
+  "barcode_printed": "4088600023700",
+  "barcode_format": "EAN-13",
+  "name": "Handmade Chocolate Orange Honeycomb",
+  "brand": "aldi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, MILK CHOCOLATE (32%) (Sugar, Cocoa Butter, Skimmed Milk Powder, Cocoa Mass, Milk Powder, Anhydrous Milk Fat, Emulsifier: Lecithins (Soya); Natural Vanilla Flavouring), Glucose Syrup, Water, Raising Agent: Sodium Carbonates; Natural Orange Flavouring, Colour: Carotenes. MILK CHOCOLATE CONTAINS COCOA SOLIDS 29% MINIMUM, MILK SOLIDS 20% MINIMUM.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4088600023700",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

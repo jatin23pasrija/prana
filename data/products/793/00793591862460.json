@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "00793591862460",
+  "barcode_printed": "0793591862460",
+  "barcode_format": "EAN-13",
+  "name": "Kerala Banana Chips",
+  "brand": "beyond-snacks",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 518.65,
+        "protein_g": 6.84,
+        "carbohydrate_g": 60.97,
+        "sugars_g": 6.15,
+        "fat_g": 27.49,
+        "saturated_fat_g": 12.71,
+        "trans_fat_g": 0.14,
+        "fibre_g": 6.88,
+        "sodium_mg": 139.66
+      }
+    }
+  ],
+  "ingredients_raw": "Raw Banana (72%) Refined vegetable oil (Palmolein), iodised Salt, Spices and Condiments (Chilli, Garlic, Onion, Tamarind), Sugar, Rice powder, Hydrolysed Vegetable protein, dehydrated herbs, Acidity regulator (E330), Anticaking agent (E551), Flavour Enhancers (E627, E631),Antioxidant (E319),natural colors,natural and natural identical flavoring substances, _soy_,_milk solids_,_Mustard_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0793591862460",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

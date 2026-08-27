@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08901963200730",
+  "barcode_printed": "8901963200730",
+  "barcode_format": "EAN-13",
+  "name": "Chicken Cutlet",
+  "brand": "brillar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 157,
+        "protein_g": 8.76,
+        "carbohydrate_g": 22.1,
+        "sugars_g": 0.39,
+        "fat_g": 3.72,
+        "saturated_fat_g": 1.24,
+        "trans_fat_g": 0,
+        "sodium_mg": 162.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901963200730",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

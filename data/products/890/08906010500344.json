@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500344",
+  "barcode_printed": "8906010500344",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Sev",
+  "brand": "balaji",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 594,
+        "protein_g": 8.8,
+        "carbohydrate_g": 45.7,
+        "sugars_g": 0.9,
+        "fat_g": 39.9,
+        "saturated_fat_g": 20.8,
+        "trans_fat_g": 0.2,
+        "fibre_g": 8.5,
+        "sodium_mg": 361.8
+      }
+    }
+  ],
+  "ingredients_raw": "EDIBLE VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWINGS: PALMOLEIN, RICE BRAN, CORN, COTTONSEED), CHICKPEA FLOUR, POTATO FLAKES (21%), **SEASONING MALTODEXTRIN, EDIBLE COMMON SALT, SPICES & CONDIMENTS (DRY MANGO, CUMIN, FENNEL, CHILLI, CORIANDER, CLOVE, TURMERIC, PEPPER, CARDAMOM, GINGER), DEHYDRATED VEGETABLE POWDER (MINT 0.2%, GARLIC, TAMARIND), FLAVOUR (NATURAL& NATURE IDENTICAL FLAVOURING SUBSTANCES), ACIDITY REGULATOR (INS 330, INS 296), FLAVOUR ENHANCER (INS 635), ANTICAKING AGENT (INS 551, INS 341 (1), RICE FLOUR, AS FLAVOURING & SEASONING AGENT NAMKEEN READY-TO-EAT SAVOURIES | PROPRIETARY FOOD INDIAN SNACKS & SAVOURIES PRODUCT OF INDIA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500344",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

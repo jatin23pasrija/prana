@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363014351",
+  "barcode_printed": "8903363014351",
+  "barcode_format": "EAN-13",
+  "name": "DMart Healthy Choice Chia Seeds",
+  "brand": "dmart",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 491.91,
+        "protein_g": 19.43,
+        "carbohydrate_g": 41.65,
+        "sugars_g": 0.92,
+        "fat_g": 27.51,
+        "saturated_fat_g": 3.13,
+        "trans_fat_g": 0,
+        "sodium_mg": 0.98
+      }
+    }
+  ],
+  "ingredients_raw": "CHIA SEEDS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363014351",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

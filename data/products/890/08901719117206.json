@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719117206",
+  "barcode_printed": "8901719117206",
+  "barcode_format": "EAN-13",
+  "name": "Hide & Seek Caffé Mocha",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 478,
+        "energy_kj": 200,
+        "protein_g": 5.8,
+        "carbohydrate_g": 73.6,
+        "sugars_g": 32,
+        "fat_g": 17.8,
+        "saturated_fat_g": 9.2,
+        "sodium_mg": 142
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour, Chocolate 21% (Sugar, Cocoa Solids, Cocoa Butter, Dexstrose, Soy Lecithin, Vanilla), Sugar, Refined Palm Oil, Inverter Sugar Syrup, Instant Coffee Chicory Mixture 1%, Raising Agents (503 ii, 500 ii), Iodized Salt, Emulsifier of Vegetable Origin (472e)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719117206",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

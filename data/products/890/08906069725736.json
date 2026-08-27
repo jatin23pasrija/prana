@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069725736",
+  "barcode_printed": "8906069725736",
+  "barcode_format": "EAN-13",
+  "name": "Chak Now Masala Green Pea",
+  "brand": "anand",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Green Peas(72%), Refined Palmolein Oil, Chilli Powder, Salt, Black Salt, Black Pepper, Dry Mango Powder, Coriander, Cumin, Clove, Cinnamon, Dry Ginger, Nutmeg, Mace, Bayleaf and Natural Food Colors (INS 141(ii) & INS 100)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069725736",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

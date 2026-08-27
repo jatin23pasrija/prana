@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500702",
+  "barcode_printed": "8906010500702",
+  "barcode_format": "EAN-13",
+  "name": "Chana dal",
+  "brand": "balaji-wafers",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 24,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "41 AJI ERS IGREDIENTS: HICKPEA SPLITS (834), EDIBLE VEGETABLE OIL CONTAINS ONE OR MORE OF THE XLLOWINGS PALMOLEIN, RICE BRAN, CORN, COTTONSEED SEASONING SPICES & INDIMENTS CHILLI, CORIANDER, CUMIN, TURMERIC, DRY MANGO CLONE, CARON EED GINGER, CINNAMON, CARDAMOM, NUTMEG, MACE, BAY LEAVES), EDIBLE MMON SALT &quot;AS SEASONING AGENT JAMWEEN EADY-TO-EAT SABOURIES PROPRIETARY FOOD INDIAN SNACKS & SAVOURES RODUCT OF INDIA UTRITIONAL INFORMATION MERCY PER 2009 % DAILY VALUE OF RCA PER 20 516 Kal QUEN 1890 5210 TOTAL SIKARS 179 OTED SUGARS 0109 WO 200 SATURATED HAT 920 HOLESTER mg HUM 584 mg 6% ana al PRIVATE LIMITED REGD. OFFICE U KALAWAD ROAD, TA. LODHIKA, DIST INDIA. LICENSE NO. 10012021000039. V H. NO. 48, NEAR DUNGARY VILLAGE, TA-DIST LICENSE NO. 10012021000037, US PLOT NO. 2.3.4G RAU PITHAMPUR LINK ROAD H RAU DIST DIA LICENSE NO 1001602600 US: PLOT ANDILA, DIST HARDO-241204, UTTAR PRADESH INDA FOR MANUFACTURING UNIT ADDRESS & NO. ALITY OR QUANTITY ROWLIES GUIDELINE DAILY AMOUNT ACCORDING TO &quot;RECOMMENDED ANNE FOR AVERAGE ADULT PER DAY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500702",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

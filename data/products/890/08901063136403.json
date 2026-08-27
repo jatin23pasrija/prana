@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063136403",
+  "barcode_printed": "8901063136403",
+  "barcode_format": "EAN-13",
+  "name": "Britannia™ nutriCHOICE 5 Grain Digestive Biscuit",
+  "brand": "britannia",
+  "category": "digestive-biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR (45%), SUGAR, PALM OIL, FINGER MILLET FLOUR (8%), WHEAT BRAN (6%), OAT FLAKES (2.5%), CORN FLAKES (2.5%), SKIM MILK POWDER, RICE FLOUR (0.8%), AMMONIUM BICARBONATE, SODIUM BICARBONATE (LEAVENING), SALT, SOY LECITHIN, DIACETYL TARTARIC ACID ESTERS OF MONO & DI GLYCERIDES, MONO & DI GLYCERIDES OF FATTY ACIDS (EMULSIFIERS), HONEY (0.4%) AND ARTIFICIAL FLAVOURS (HONEY, VANILLA, CEREAL & NUT) CONTAINS: WHEAT, MILK PRODUCT AND SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063136403",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

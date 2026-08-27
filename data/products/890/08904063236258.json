@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063236258",
+  "barcode_printed": "8904063236258",
+  "barcode_format": "EAN-13",
+  "name": "Minute Khana Dilli Style Choley",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pois chicbos cn sauce Inotbdicnts: Eau, ctiict;o (IGS), tornato (1570), da raffinée, atèle piment Vorte méjanag (140079) (cardamomg (02%). (02%), macla (0.2%), cumin (02%), coriandre (02%). crc;u do (02*4), curry (02%)), se}. yac,urt (tait), coriandro, piment rouoo cn poudre. curcuma cn poudre, feu2e% de fer*GfJrec. de jaunet. Attontion: Co produit conttcnt dea produits Ce produit a ete etnba.&quot;-e dans une usine traitant des aracj1jdotJ$ dog truit5 a coques. des orainc% do st:samo. des de rrÌ$Attarde, des ct du Produit do l'Indo Contit'tvnr 10 form/f dana un ttndfOit trai-, et",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063236258",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

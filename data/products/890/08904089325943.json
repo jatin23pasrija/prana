@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08904089325943",
+  "barcode_printed": "8904089325943",
+  "barcode_format": "EAN-13",
+  "name": "Zulubar dark crunch",
+  "brand": "havmor-ice-cream",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "80 ml",
+        "quantity": {
+          "value": 80,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 345,
+        "protein_g": 3.6,
+        "carbohydrate_g": 30.9,
+        "sugars_g": 27.1,
+        "fat_g": 23,
+        "saturated_fat_g": 15.8,
+        "trans_fat_g": 0.12,
+        "sodium_mg": 31800
+      }
+    }
+  ],
+  "ingredients_raw": "Middle Layer - Ice Cream (50.9%): Added Water, Milk Solids, Sugar, Brownie (4.2%) [Milk Solids, Chocolate Substitute (1.1%) (Sugar, Refined Palm Kernel Oil, Refined Palm Oil, Cocoa Solids, Emulsifier (INS 322), Artificial (Vanilla) Flavouring Substances), Refined Wheat Flour (Maida), Refined Palm Oil, Sugar, Cocoa Solids (0.2%), Refined Cottonseed Oil, Baking Powder, lodised Salt, Raising Agents (INS 500 (ii))], Cocoa Solids (3.6%), Chocolate (1.5%) [Contains Additives - Emulsifiers (INS 322, INS 476), Nature Identical (Vanilla) Flavouring Substances], Emulsifiers (INS 471, INS 433) and Stabilizers (INS 466, INS 412, INS 407a, INS 410), Synthetic Food Colours (INS 110, INS 102, INS 122, INS 133). Outer Layer-Dark Compound Covering (24.7%): Chocolate Substitute (21.8%) [Refined Palm Kernel Oil, Sugar, Cocoa Solids, Emulsifier (INS 322 (i)-Lecithin of Soya Origin) & Nature Identical (Vanilla) Flavouring Substances], Almonds (2.9%) Inner Layer-Compound Covering (24.4 %): Chocolate Substitute (16.9%) (Sugar, Refined Palm Oil, Milk Solids, Cocoa Solids Emulsifier (INS 322, INS 476), Nature Identical and Artificial (Vanilla) Flavouring Substances), Refined Palm Kernel Oil, Chocolate (2.4%) [Contains Additives - Emulsifiers (INS 322, INS 476), Nature Identical (Vanilla) Flavouring Substances]. 63-m Cocoa Solids (0.7%), Cocoa Bu Food Allergen : Contains Milk, Wheat, Nut and Son/26, 06/01/27 P3 14:37 00. Lic No. PCC/DDD/G-6416/WA/AA/KD/16-17/981. Pkg Material Mfg By: Geep Industries India Pvt. Ltd.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904089325943",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

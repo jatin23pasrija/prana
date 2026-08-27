@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906075005037",
+  "barcode_printed": "8906075005037",
+  "barcode_format": "EAN-13",
+  "name": "JAGGERY OATS MILLET COOKIES",
+  "brand": "atul-bakery",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 502,
+        "energy_kj": 2100,
+        "protein_g": 12,
+        "carbohydrate_g": 62,
+        "sugars_g": 20,
+        "fat_g": 23,
+        "saturated_fat_g": 6,
+        "fibre_g": 3,
+        "sodium_mg": 400
+      }
+    }
+  ],
+  "ingredients_raw": "Jaggery Powder-25%, Edible Vegetable Fat (Palmolein)-18%, Sorghum Flour-16%, Oats - 12%, Coconut Powder-10%, Raisin-3%, Honey, Liquid Milk, Vanilla Powder, Edible lodized Salt, Raising Agent [INS 500(II) Baking Powder].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906075005037",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906106300933",
+  "barcode_printed": "8906106300933",
+  "barcode_format": "EAN-13",
+  "name": "Rajma",
+  "brand": "bowlful",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 153,
+        "protein_g": 3.96,
+        "carbohydrate_g": 14.19,
+        "sugars_g": 4.11,
+        "fat_g": 8.96,
+        "trans_fat_g": 0,
+        "fibre_g": 4.65,
+        "sodium_mg": 779
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906106300933",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

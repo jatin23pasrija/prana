@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906088701223",
+  "barcode_printed": "8906088701223",
+  "barcode_format": "EAN-13",
+  "name": "Wicked Dark Chocolate 85%",
+  "brand": "didier-frank",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cocoa Mass (85%), Sugar, Cocoa Butter, Emulsifers (E322, E476), Flavourings.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906088701223",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

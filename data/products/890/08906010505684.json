@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010505684",
+  "barcode_printed": "8906010505684",
+  "barcode_format": "EAN-13",
+  "name": "Tornado Chilli Khalbali",
+  "brand": "gippi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 502,
+        "protein_g": 6.9,
+        "carbohydrate_g": 62.1,
+        "sugars_g": 7.9,
+        "fat_g": 24.5,
+        "saturated_fat_g": 11.4,
+        "fibre_g": 3,
+        "sodium_mg": 999
+      }
+    }
+  ],
+  "ingredients_raw": "CORN MEAL (63%), EDIBLE VEGETABLE OIL (LUNTAINS ONE OR MORE FOLLOWINGS: PALMOLEIN, RICE BRAN, CORN, COTTONSEED), **SEASONING (EDIBLE COMMON SALT, SUGAR, MALTODEXTRIN, DEHYDRATED VEGETABLE POWDER (ONION GARLIC, TOMATO), CHILLI POWDER (0.6%), HYDROLYZED VEGETABLE PROTEIN (SOYA), FLAVOUR (NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES), STABILIZER (INS 170 (1)), ANTICAKING AGENT (INS 551), EMULSIFIER (INS 471, INS 470), MILK SOLIDS (0.1%), PAPRIKA EXTRACT (INS 160C), FLAVOUR ENHANCER (INS 627, INS 631, INS 621), ACIDITY REGULATOR (INS 330, INS 296, INS 334)].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010505684",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

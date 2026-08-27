@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006723351",
+  "barcode_printed": "8906006723351",
+  "barcode_format": "EAN-13",
+  "name": "Buman Dates",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "25"
+      },
+      "values": {
+        "energy_kcal": 78.6,
+        "protein_g": 0.5,
+        "carbohydrate_g": 19.2,
+        "sugars_g": 17.3,
+        "sodium_mg": 1.2
+      }
+    }
+  ],
+  "ingredients_raw": "Wet Dates",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006723351",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

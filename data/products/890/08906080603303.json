@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080603303",
+  "barcode_printed": "8906080603303",
+  "barcode_format": "EAN-13",
+  "name": "Swing",
+  "brand": "paper-boat",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, POMEGRANATE JUICE CONCENTRATE (1.9%)&quot;, FLAVOURS (NATURE-IDENTICAL AND NATURAL FLAVOURING SUBSTANCES),ACIDITY REGULATOR (330), IODISED SALT, PRESERVATIVES (202) AND NATURAL FOOD COLOURS (150d, 124, 122), AND VITAMIN D2. RECONSTITUTED 10% POMEGRANATE JUICE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080603303",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

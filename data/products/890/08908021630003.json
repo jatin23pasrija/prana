@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08908021630003",
+  "barcode_printed": "8908021630003",
+  "barcode_format": "EAN-13",
+  "name": "Jolochip",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CORN, EDIBLE ACTIVATED CHARCOAL SUNFLOWER OIL CAROUNA REAPER PEPPER TRINIDAD SCORPION (BUTCH T) GHOST PEPPER (BHUT JOLOKIA) JALAPENO SEASONING, IODIZED SALT, CALCIUM PROPIONATE (E282], SODIUM PROPIONATE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908021630003",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

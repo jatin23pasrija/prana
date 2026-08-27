@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "00617571006548",
+  "barcode_printed": "0617571006548",
+  "barcode_format": "EAN-13",
+  "name": "Professional ISO Hydro Protein Powder",
+  "brand": "americanz-muscles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "32 g",
+        "quantity": {
+          "value": 32,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 120,
+        "protein_g": 27,
+        "carbohydrate_g": 0,
+        "fat_g": 0.5,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0617571006548",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

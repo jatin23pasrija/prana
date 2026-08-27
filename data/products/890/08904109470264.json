@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08904109470264",
+  "barcode_printed": "8904109470264",
+  "barcode_format": "EAN-13",
+  "name": "Patanjali Mango Drink",
+  "brand": "patanjali",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 63,
+        "protein_g": 0.65,
+        "carbohydrate_g": 15.1,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 2.05
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Mango Pulp (16%), Acidity Regulator (INS 330), Antioxidant (INS 300), Preservative (INS211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904109470264",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

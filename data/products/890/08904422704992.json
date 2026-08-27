@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08904422704992",
+  "barcode_printed": "8904422704992",
+  "barcode_format": "EAN-13",
+  "name": "Ragi Digestive Cookies",
+  "brand": "patanjali",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 477.8,
+        "protein_g": 8.5,
+        "carbohydrate_g": 61.76,
+        "sugars_g": 21.1,
+        "fat_g": 20.4,
+        "saturated_fat_g": 9.62,
+        "trans_fat_g": 0,
+        "fibre_g": 6.58,
+        "sodium_mg": 152
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat flour (Atta - 42.8%), Edible vegetable oil ( Refined Palm oil), Ragi flour (15.65%), Sugar, Wheat bran, Invert sugar syrup, Raising agent (INS 500 (ii), INS 503) lodized salt, Malt extract, Artificial flavouring substances(vanilla & Mix Fruit), Acidity regulator (INS 296, INS 334, INS 450(i)), Natural colour (INS 150d), Flour Treatment agent (INS 223)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904422704992",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07610827760259",
+  "barcode_printed": "7610827760259",
+  "barcode_format": "EAN-13",
+  "name": "Cantucci Toscani - Fine food",
+  "brand": "fine-food",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Farine blanche (froment), amandes 26 %, sucre, œufs d'élevage au sol (Italie), beurre, sirop de sucre inverti, sirop de glucose, poudres à lever (E 450, E 503), gousses de vanille moulues, sel marin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7610827760259",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

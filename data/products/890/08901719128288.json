@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719128288",
+  "barcode_printed": "8901719128288",
+  "barcode_format": "EAN-13",
+  "name": "Parle",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 489,
+        "protein_g": 6.4,
+        "carbohydrate_g": 70.4,
+        "sugars_g": 7.7,
+        "fat_g": 20.1,
+        "saturated_fat_g": 9.4,
+        "fibre_g": 0,
+        "sodium_mg": 325.2
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED DILS (PALM AND PALMOLEIN), MILLED POTATO FLAKES (11.3%), SEASONING 3.2% ISPICES&quot; (CHILLI, ONION, GARLIC), TOMATO, TAMARIND, SOY SAUCE, ACIDITY REGULATORS (330.296), YEAST EXTRACT, FLAVOR ENHANCERS (627, 631), ANTICAKING AGENT (551). ANTIOXIDANT (319)), EMULSIFIERS 1471 433.339(0.414), SUGAR, INVERT SUGAR SYRUP, WHEY POWDER, RAISING AGENTS (5030), 500 (C) 3410. TAPIOCA STARCH, IODISED SALT, FLOUR TREATMENT AGENTS 1223, 1101 (0)1, EMULSIFIER OF VEGETABLE ORIGIN (472e). CONTAINS ADDED FLAVOURS (NATURAL AND ARTIFICIAL FLAVOURING SUBSTANCES-POTATO, BARBEQUE AND TOMATO) &quot;SPICES AS NATURAL FLAVOURING AGENT CONTAINS: WHEAT, MILK, SOY, SULPHITE · (In",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719128288",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009532998",
+  "barcode_printed": "8906009532998",
+  "barcode_format": "EAN-13",
+  "name": "Nutrition Bar",
+  "brand": "ritebite",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 204,
+        "protein_g": 4.1,
+        "carbohydrate_g": 23,
+        "sugars_g": 1.3,
+        "fat_g": 10.2,
+        "saturated_fat_g": 1.8,
+        "fibre_g": 2.3,
+        "sodium_mg": 47.5
+      }
+    }
+  ],
+  "ingredients_raw": "Peanuts (18%), Dark Compound No Added Sugar (16%) (Maltítol, Edible Vegetable Oil (Hydrogenated) Cocoa Solids, Emulsifier (Soy Lecithin), Cereals (Whole Grain Rolled Oats (8%) Brown Rice Crispy, Quinoa Crispy Maltitol, Peanut Butter (7%), Black Currants, Edible Vegetable Oil (High Oleic Sunflower Oil), Dietary Fiber (Fructooligosacharide, Chicory Fiber) Humectant (Glycerine),Oats Bran, Cranberries, Pumpkin Seeds Flaxseeds (Guar Gum), Tribasic Calcium Phosphate, Emulsifier (Soy Lecithin), Binding Agent Salt and Citric Acid, Antioxidant (Vitamin C), Vitamin A, C, E. Contains Oligofructose (dietary fiber) 5.75 gm/100 gm. ALLERGEN DECLARATION: CONTAINS NUTS & CEREALS CONTAINS ADDED FLAVOURS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009532998",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

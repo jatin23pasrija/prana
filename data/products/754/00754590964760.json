@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "00754590964760",
+  "barcode_printed": "0754590964760",
+  "barcode_format": "EAN-13",
+  "name": "Kerela Banana Chips (Desi Masala)",
+  "brand": "beyond-snack",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 507.07,
+        "protein_g": 5.62,
+        "carbohydrate_g": 64.92,
+        "sugars_g": 4.9,
+        "fat_g": 24.99,
+        "saturated_fat_g": 11.58,
+        "fibre_g": 6.51,
+        "sodium_mg": 368.77
+      }
+    }
+  ],
+  "ingredients_raw": "Raw Banana (72%) Refined vegetable oil (Palmolein), spices and Condiments (Chilli, Cumin, Coriander, Black Cardamom, Garlic, Onion, Black Pepper, Green Cardamom, Cinnamon, Ginger, Clove), lodised Salt, Sugar, Hydrolized Vegetable Protein, Mango Powder,Tomato Powder, Flavour Enhancers (E627,E631), Anticaking agent (E551) and Antioxidant (E319). Contains permitted natural colors & added natural and natural identical flavoring substances. Allergen Declaration: Contains Soy and May contain Traces of Milk solids and Mustard Pack filled with Nitrogen to keep the product fresh.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0754590964760",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

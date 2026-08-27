@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262071277",
+  "barcode_printed": "8901262071277",
+  "barcode_format": "EAN-13",
+  "name": "Amul",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "sugar, milk solids, cocoa butter, camel milk powder, cocoa solids, permitted emulsifiers (e 322, e 476), contains added flavours (artificial flavouring substances - cocoa,,vanilla ),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262071277",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

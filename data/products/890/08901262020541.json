@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262020541",
+  "barcode_printed": "8901262020541",
+  "barcode_format": "EAN-13",
+  "name": "Amul diced cheese blend (mozzarella and cheddar cheese blend)",
+  "brand": "amul",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 289,
+        "protein_g": 23,
+        "carbohydrate_g": 2,
+        "sugars_g": 2,
+        "fat_g": 21,
+        "saturated_fat_g": 13,
+        "fibre_g": 0,
+        "sodium_mg": 400
+      }
+    }
+  ],
+  "ingredients_raw": "Mozzarella cheese (milk solids, iodized salt, microbial rennet, active cultures), cheddar cheese (milk solids, iodized salt, microbial rennet, active cultures). Allergen Information: Contains milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262020541",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

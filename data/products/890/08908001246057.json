@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001246057",
+  "barcode_printed": "8908001246057",
+  "barcode_format": "EAN-13",
+  "name": "Corn Rings Tangy Tomato",
+  "brand": "crax",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 12,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn Grits (58%), Edible Vegetable Oil (Refined Palmolein Oil), *Seasoning [Sugar, lodised Salt, Corn Starch, Tomato Powder (0.98%), Chilli, Acidity Regulator (INS 330) Fennel, Anticaking Agent (INS 551), Spice Extract, Flavour Enhancers (INS 627, INS 631)], Flavour(s) (Natural & Nature Identical Flavouring Substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001246057",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

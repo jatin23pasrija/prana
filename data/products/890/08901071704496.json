@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071704496",
+  "barcode_printed": "8901071704496",
+  "barcode_format": "EAN-13",
+  "name": "HERSHEY KISSes",
+  "brand": "shares",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100.8,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Cocoa Solids (#29%), Cocoa Bunker Almond Bits (#11%), Milk Solids, Fractionated Vegetable Fat, Emulsifiers (442, 476) and Flavor (Artificial Flavoring Substance-Vanilla) CONTAINS COCOA BUTTER EQUIVALENT/VEGETABLE FAT IN ADDITION TO COCOA BUTTER ALLERGEN INFORMATION: CONTAINS MILK AND NUT MAY CONTAIN WHEAT AND SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071704496",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

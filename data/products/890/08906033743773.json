@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033743773",
+  "barcode_printed": "8906033743773",
+  "barcode_format": "EAN-13",
+  "name": "Mc vities hobnobs",
+  "brand": "mcvitie-s",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Oats (36%), Wheat Flour (Atta), Edible Vegetable Oil (Palm Oil), Choco Chips (15%) [Sugar, Edible Vegetable Fat (Hydrogenated), Cocoa Solids, Emulsifier (INS 492), Dextrose, Emulsifier {INS 322 (i)- Lecithin of Soya Origin}, Nature Identical Flavouring Substances], Sugar, Invert Sugar Syrup, Raising Agents [INS 500 (ii), INS 503 (ii)], Milk Solids, Wheat Bran, Honey, lodised Salt, Emulsifiers INS 471, INS 322], Nature Identical Flavouring Substances. At a hand Milk and Sov May contain Nuts and Sulphite.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033743773",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

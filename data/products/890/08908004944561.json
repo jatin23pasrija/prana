@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08908004944561",
+  "barcode_printed": "8908004944561",
+  "barcode_format": "EAN-13",
+  "name": "Chapatti",
+  "brand": "lulu",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 288,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (48 g)",
+        "quantity": {
+          "value": 48,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 139,
+        "protein_g": 6.7,
+        "carbohydrate_g": 23.4,
+        "sugars_g": 2.8,
+        "fat_g": 2,
+        "saturated_fat_g": 0.9,
+        "fibre_g": 3.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908004944561",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

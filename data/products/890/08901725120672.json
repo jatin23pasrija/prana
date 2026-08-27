@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725120672",
+  "barcode_printed": "8901725120672",
+  "barcode_format": "EAN-13",
+  "name": "Mixed fruit juice",
+  "brand": "b-natural",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Apple Juice (48%), Water, Pineapple Pulp (8%), Orange Pulp (7%), Mango Pulp (5.7%), Banana Puree (2.9%), Guava Pulp (1.4%), Natural Flavours and Natural Flavouring Substances, Acidity Regulator (INS 330), Vitamin C, Colour (INS 160a(iii)) and Stabilizer (INS 440). May Contains: Milk, Nut & Soy No Added Sugar.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725120672",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

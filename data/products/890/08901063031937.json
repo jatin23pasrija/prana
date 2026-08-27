@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063031937",
+  "barcode_printed": "8901063031937",
+  "barcode_format": "EAN-13",
+  "name": "britannia treat croissant vanilla creme roll",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "POPRIETARY FOOD KROISSANT, CATEOORY INGREDIENTS: CROISSANT BASE (78%): MULTIGRAIN FLOUR (REFINED Manufactur WHEAT FOUR MITAL GLUIEN, RICE FLOUR, FLOUR TREATMENT AGENT (1100OL Ranjangaon ANTICKING AGENTS7(i)}, MARGARINE, EDIBLE VEGETABLE OIL (PALM) SUAR, YEAST, GICOSE FRUCTOSE SYRUP, EMULSIFIER(471), IODISED SALT Distribut AN PRESERVATIV 282). COTAINS ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUTANCE VANILLA). CRISSANT FILLING (22%): EDIBLE INTER ESTERIFIEDVEGETABLE FAT SUR GLUCOSE FRUC TOSE SYRUP, MILK SOLIDS HUMECT�NTI[420(i), EMISHIER 475 ACIDITY REGULATOR[450(i))338],PRESERVATIVE(202), Enfaer STRUSER (WO8)AND LACTOSE. COMANS ADDED FLAVOURS(NATURE IDENTICAL FLAVOURING SUTANCES-VANILLA). (Noers in brackets as per International POLS MAY HAVE LAXATIVE EFFECS Lic. No.: voebuelug Britanni un pasn ponu",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063031937",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08902979029841",
+  "barcode_printed": "8902979029841",
+  "barcode_format": "EAN-13",
+  "name": "sabudana chivda",
+  "brand": "garden",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Palmolein Oil, Sago Flour (26.1%), Peanut, Potato, Refined Sugar, Iodised Salt, Cumin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902979029841",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

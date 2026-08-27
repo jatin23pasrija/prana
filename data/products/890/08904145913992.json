@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08904145913992",
+  "barcode_printed": "8904145913992",
+  "barcode_format": "EAN-13",
+  "name": "Strength Pro Plus Vanilla Delight Flavour",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "MALTODEXTRIN, MILK SOLIDS (SODIUM CASEINATE (11.3%), WHEY PROTEIN CONCENTRATE (5.5%)), SUCROSE, EDIBLE VEGETABLE OILS (HIGH OLEIC SUNFLOWER OIL, SOY OIL, COCONUT OIL), SOY PROTEIN ISOLATE (5.3%), FRUCTO-OLIGOSACCHARIDE (FOS) (4.2%), MINERALS, CALCIUM B-HYDROXY-B-METHYLBUTYRATE MONOHYDRATE (CaHMB), FLAVOURS (NATURAL, NATURE IDENTICAL AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES), CHOLINE CHLORIDE, VITAMINS, ANTIOXIDANTS (MIXED TOCOPHEROLS), BETA CAROTENE. CONTAINS MILK AND SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904145913992",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

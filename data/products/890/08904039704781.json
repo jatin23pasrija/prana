@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904039704781",
+  "barcode_printed": "8904039704781",
+  "barcode_format": "EAN-13",
+  "name": "Rajma Chips Indian Masala",
+  "brand": "conscious-food",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Rajma flour, Tapioca starch, Edible vegetable oil (Rice bran Oil), Gram flour, Seasoning mix (Corn starch, lodised salt, Sugar, Ground, spices and condiments: (Kashmiri red chilli, Jeera, Coriander seeds, Black pepper, Clove, Mace), Dry mango powder, Dehy garlic powder & Onion powder), Rice flour, White lentil flour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904039704781",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

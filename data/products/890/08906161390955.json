@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161390955",
+  "barcode_printed": "8906161390955",
+  "barcode_format": "EAN-13",
+  "name": "Kerala Garlic Mix",
+  "brand": "let-s-try",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Chickpea Flour (32%), Edible Vegeta - ble Oil (Refined Groundnut Oil), Rice Flour, Starch, lodised Salt, Red Chili Powder, Peanuts (6%), Bengal Gram (6%), Boondi (6%), Garlic (3%), *Spices & Condiments (Black Salt, Dry Mango Powder, Cumin Seeds, Carom Seeds, Cinnamon Powder, Dry Ginger Powder, Coriander Seeds powder, Nutmeg Powder, Fennel Seeds, Cardamom, Casia Cloves & Asafoetida), Acidity Regulator (INS-330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161390955",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

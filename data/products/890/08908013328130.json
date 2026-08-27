@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013328130",
+  "barcode_printed": "8908013328130",
+  "barcode_format": "EAN-13",
+  "name": "Choco Almond Cookies",
+  "brand": "open-secret",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Almonds (26%), Dark Compounds (25%) SECRET Sugar, Edible Vegetable Fat MADE IN INDIA WITH LOVE NO ADDED PRESERVATIVES NO TRANS FAT 40-50% (Hydrogenated), Cocoa Solids, Emulsifiers (INS 491, 322)], Peanuts (22%), Honey, Rice Crispies (5%) (Rice Flour, Sugar, Maize Starch, Malt Extract, Salt, Calcium Carbonate), Oligofructose, Sugar, Sunflower Oil, Liquid Glucose, Cocoa Powder, Antioxidants (INS 322), Edible Common Salt, Cocoa Butter CONTAINS PERMITTED NATURAL COLOUR (INS 150c) AND ADDED FLAVORS (NATURAL AND NATURE IDENTICAL FLAVORING SUBSTANCES) Contains Oligofructose (dietary fibre) 5g/100g NUTRITIONAL Serving Size (per Cookie Number of Servings in this Energy Scal Total Fat (g Saturated Fat ( Trans Fat ( Cholesterol (mg Sodium (mg) Total Carbohydrate ( Dietary Fibre (g) Total Sugar (g) Added Sugar (g) Protein (g) *Percent Daily Values are Your daily values may be h your calorie needs Try ou Un-ju NUTS For manufacturing unit address, see the first character of batch no. and see below. Manufactured by: B:Immaculatebites Private Limited 108, Cala No.1, 2 &3, Fertiplant Engineering Co. Pvt. Ltd, 187-188,Lake Road, Bhandup West, Greater Mumbai Ward-S, Greater Mumbai, Maharashtra-400 078 fssat ALLERGEN DECLARATION: This product contains Peanuts, Tree Nuts (Almonds), Soy. Manufactured in a facility that also processes tree nuts (cashews), milk and gluten. Marketed by: ImmaculateBites Pvt Ltd. Refer B for address Issat at w",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013328130",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

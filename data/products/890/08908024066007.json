@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08908024066007",
+  "barcode_printed": "8908024066007",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Tomato & Basil Soup",
+  "brand": "kook-by-pluckk",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 59,
+        "protein_g": 1.3,
+        "carbohydrate_g": 6.7,
+        "sugars_g": 3.7,
+        "fat_g": 2.6,
+        "saturated_fat_g": 0.4,
+        "sodium_mg": 1185.9
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908024066007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

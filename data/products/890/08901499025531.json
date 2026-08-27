@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499025531",
+  "barcode_printed": "8901499025531",
+  "barcode_format": "EAN-13",
+  "name": "Kellogg's Muesli",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "MULTIGRAIN MIX (79.5%) ((WHEAT (19.9%), CORN GRITS & CORN MEAL (16.7%), RICE (13.9%), ROLLED BARLEY (13%), ROLLED OATS (10%), RAGI MILLET FLOUR (3%), SORGHUM MILLET (JOWAR) FLOUR (3%)), DRY FRUITS, NUT & SEED (17.3%) (BROWN RAISINS (8.3%), BLACK CURRANTS (3%), ALMONDS (3%), PUMPKIN SEEDS (3%)), CEREAL EXTRACT, OLIGOFRUCTOSE, WHEAT BRAN, IODIZED SALT, VITAMINS, ANTIOXIDANT (INS 307b) AND MINERAL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499025531",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08909177022865",
+  "barcode_printed": "8909177022865",
+  "barcode_format": "EAN-13",
+  "name": "Daily Good Bread",
+  "brand": "daily-good",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Wheat Flour (Atta) (80%), Sour Dough, Yeast, Vinegar, Edible Vegetable Oil (Sunflower Oil), Sugar, Iodized Salt, Gluten, Preservative (INS 282, INS 200), Improver {Antioxidant (INS 300), Anticaking Agent (INS 170(i), Flour Treatment Agent (INS 1100(i))).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909177022865",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

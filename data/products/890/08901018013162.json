@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901018013162",
+  "barcode_printed": "8901018013162",
+  "barcode_format": "EAN-13",
+  "name": "Nilgiris Whole Wheat Brown Bread",
+  "brand": "nilgiris",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 215,
+        "protein_g": 7.6,
+        "carbohydrate_g": 34.6,
+        "sugars_g": 3.23,
+        "fat_g": 5.13,
+        "saturated_fat_g": 1.8,
+        "fibre_g": 2.7,
+        "sodium_mg": 13.27
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta) (27.5%), Refined wheat flour (Maida) (22.73%), Potable Water, Edible Vegetable Oil (Refined Palmolein oil), Sugar, Yeast, Wheat Gluten, Wheat Bran, Edible common salt (lodized Salt), Bread Improver INS-1100, Preservative INS-282, Edible Vegetable Oil (Refined Sunflower oil), Emulsifier INS-471, 481, Acidity regulator INS-260 Allergen Information: Contains Wheat (Gluten)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901018013162",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

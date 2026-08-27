@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906104402318",
+  "barcode_printed": "8906104402318",
+  "barcode_format": "EAN-13",
+  "name": "8906104402318",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "without affecting the net weight, there could be variation number of units. M.R.P.: (INCL. OF ALL TAXES) GROSS WEIGHT: NET WEIGHT: (INCL. IMMEDATE WRAPPER) 85/- 340 9 329 9 UNITSALE PRICE-026RS/9 F.J.A-02 02 MAR26 01 DEC26 BATCH NO.: MFD. ON: SE BY: WHEN STORED IN COOL & DRY COTICS! Manufactured By: MAYA NUTRIFOODS PVT. LTD. 2/A, Industrial Estate, Indore Road, Khandwa - 450001 (M.P.) INDIA Customer Care No. : +91 94259 28287 fssat Lic. No.: 10015026000669 ISO 22000:2005 Registered FSMS JAS-ANZ G 8906104 402318 PRODUCT OF INDIA CLEAN CITY AWAY FROM WATER RECYCLED PRODUCT AWAY FROM DIRECT SUNLIGHT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906104402318",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491503013",
+  "barcode_printed": "8901491503013",
+  "barcode_format": "EAN-13",
+  "name": "Yellow Salted Lays",
+  "brand": "lays",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 553,
+        "protein_g": 6.7,
+        "carbohydrate_g": 52.6,
+        "sugars_g": 0.6,
+        "fat_g": 35.1,
+        "saturated_fat_g": 15.8
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, edible vegetable oil (palmolein rice bran oil), lodised salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491503013",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080602085",
+  "barcode_printed": "8906080602085",
+  "barcode_format": "EAN-13",
+  "name": "mixed fruit",
+  "brand": "paperboat",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 59,
+        "energy_kj": 247,
+        "protein_g": 0,
+        "carbohydrate_g": 14.8,
+        "sugars_g": 11.2,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, SUGAR, APPLE JUICE CONCENTRATE (2%)*, ORANGE JUICE CONCENTRATE (1.9%)&quot;, MANGO PULP CONCENTRATE (1.5%), ACIDITY REGULATORS (331 (iii), 330), STABILIZERS (410, 407), FLAVOURS (NATURE-IDENTICAL AND NATURAL FLAVOURING SUBSTANCES), ANTIOXIDANT (300) AND VITAMIN D2 (ERGOCALCIFEROL). *RECONSTITUTED 29% MIXED FRUIT JUICE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080602085",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "05059883476704",
+  "barcode_printed": "5059883476704",
+  "barcode_format": "EAN-13",
+  "name": "Essential Omega 3",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 softgel (1.5 g)",
+        "quantity": {
+          "value": 1.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 9.7,
+        "protein_g": 0.05,
+        "carbohydrate_g": 0.05,
+        "sugars_g": 0,
+        "fat_g": 1.01,
+        "saturated_fat_g": 0.2,
+        "trans_fat_g": 0,
+        "sodium_mg": 0.11
+      }
+    }
+  ],
+  "ingredients_raw": "Fish Oil (Omega 3 Fatty Acids-EPA&DHA), Capsule shell (INS 428), Purified Water, Plasticizer (INS 422& INS 42001), Solvent (Soyabean oil), Preservative (INS 218, INS 216, INS 320&INS 310)& Anticaking Agent (INS 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5059883476704",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

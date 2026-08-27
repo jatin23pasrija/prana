@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080601767",
+  "barcode_printed": "8906080601767",
+  "barcode_format": "EAN-13",
+  "name": "Swing Lush Lychee",
+  "brand": "paper-boat",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, LYCHEE JUICE CONCENTRATE (1%)*, APPLE JUICE CONCENTRATE (0.7%), FLAVOURS (NATURE - IDENTICAL AND NATURAL FLAVOURING SUBSTANCES), ACIDITY REGULATOR (CITRIC ACID), STABILIZERS (CARBOXY METHYL CELLULOSE AND GUAR GUM), ANTIOXIDANT ASCORBIC ACID) AND VITAMIN D2.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080601767",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

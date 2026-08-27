@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083510000",
+  "barcode_printed": "8904083510000",
+  "barcode_format": "EAN-13",
+  "name": "Organic tulsi ginger, biologique tulsi gingembre",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 67,
+        "carbohydrate_g": 66.67,
+        "fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Each 1.5g infusion bag contains *ginger (zingiber officinale) 0.6g (40%), *rama tulsi (ocimum sanctum) 0.3g (20%), *krishna tulsi (ocimum sanctum) 0.3g (20%), *vana tulsi (ocimum gratissimum) 0.3g (20%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083510000",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

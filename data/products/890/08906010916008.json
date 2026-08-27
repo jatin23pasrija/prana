@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010916008",
+  "barcode_printed": "8906010916008",
+  "barcode_format": "EAN-13",
+  "name": "CHOCO BAR ,CHOCO VANILLA STICK",
+  "brand": "dairy-day",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28g",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 101.96,
+        "protein_g": 1.21,
+        "carbohydrate_g": 9.25,
+        "sugars_g": 9.25,
+        "fat_g": 6.68,
+        "saturated_fat_g": 5.99,
+        "trans_fat_g": 0.01,
+        "sodium_mg": 8750
+      }
+    }
+  ],
+  "ingredients_raw": "Inner Layer: Vanilla Frozen Dessert Ingredients (76%) (Water, Milk and Milk Solids, Sugar, Edible Vegetable Oil (Palm Kernel Oil), Emulsifer and Stabiliser (INS471,412,433,407,401) CONTAINS ADDED FLAVOUR-NATURE IDENTICAL AND ARTIFICIAL VANILLA FLVAOURING SUBSTANCES). Outer Layer: Choco compound coating (24%) (Sugar, Palm kernel oil, Cocoa solids, Milk solids, Emulsifier INS 322, CONTAINS NATURE IDENTICAL VANILLA FLAVOURING SUBSTANCES). Allergen Information: Contains Milk. FROZEN DESSERT CONTAINS 6 % EDIBLE VEGETABLE OIL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010916008",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

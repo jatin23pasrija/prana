@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001658041",
+  "barcode_printed": "8908001658041",
+  "barcode_format": "EAN-13",
+  "name": "Ocean Fruit drink Peach passion fruit flavour 500ml",
+  "brand": "o-cean",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "de mark and does ot represent its true nature. No. of servings 2. Serving S particles may appear due to presence of minerals. FLAVOURING SUBSTANCES). CONTAINS FRUIT READY TO SERVE FRUIT BEVERAGE NUTRITIONAL UOM APPROX. VALUES FACTS Energy Carbohydrate Total Sugar Added Sugar Protein - Total Fat - Cholesterol Sodium Potassium Magnessium* Kcal g g g ca ca ca ca ca ge ge PER (100 ML) 42 10 RDA(%) PER SERVING (250 ML) 5.25 19.23 10 10 50 0.5 2.31 0 0 ថខū · -%RDA not established. -%RDA calculated on the basis of",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001658041",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

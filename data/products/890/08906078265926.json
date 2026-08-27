@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906078265926",
+  "barcode_printed": "8906078265926",
+  "barcode_format": "EAN-13",
+  "name": "Daily White Bread",
+  "brand": "english-oven",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 slices (45 g)",
+        "quantity": {
+          "value": 45,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 128.9,
+        "protein_g": 3.88,
+        "carbohydrate_g": 26.49,
+        "fat_g": 0.44,
+        "saturated_fat_g": 0.09,
+        "sodium_mg": 215
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906078265926",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

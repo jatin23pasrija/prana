@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "05020411121182",
+  "barcode_printed": "5020411121182",
+  "barcode_format": "EAN-13",
+  "name": "Nutella & Go!",
+  "brand": "nutella",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "sugar, palm oil, hazelnuts (13%), fat-reduced cocoa (7,4%), skimmed milk powder (6,6%), whey powder (milk), emulsifier: lecithin (soya), vanillin, breadsticks: wheat flour, palm oil, sait, malt extract, baker's yeast.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5020411121182",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

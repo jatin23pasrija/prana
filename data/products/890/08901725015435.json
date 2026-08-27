@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725015435",
+  "barcode_printed": "8901725015435",
+  "barcode_format": "EAN-13",
+  "name": "Sunfeast Marie Light Vita Orange",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 95.6,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "ng.erients med Wheat Flour (Maida) (67%), Sugar, Refined Paim o, Raising Agents [INS 503(ii), INS 500(ii), INS 450(i)], Milk Solids, evert Syrup, lodized Salt, Nature Identical Flavouring Substances, Wheat Fibre (0.12%), Artificial Flavouring Substances (Butter, Vanilla, Butterscotch, Milk), Emulsifier [Mono - and di-glycerides of fatty acids (from Palm Oil)], Flour Treatment Agent (INS 223), Vitamins, Colours INS 150d, INS 110, INS 127) and Dehydrated Orange Powder (0.01%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725015435",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "03948063154025",
+  "barcode_printed": "3948063154025",
+  "barcode_format": "EAN-13",
+  "name": "Nutri choise essentials",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 478,
+        "protein_g": 7,
+        "carbohydrate_g": 72,
+        "sugars_g": 0,
+        "fat_g": 18,
+        "saturated_fat_g": 8.6,
+        "fibre_g": 10
+      }
+    }
+  ],
+  "ingredients_raw": "RAGI FLOUR (33%), REFINED WHEAT FLOUR (28% ) , EDIBLE VEGETABLE OIL (PALM), MALTITOL (965), INULIN, MILK SOLIDS, MALTODEXTRIN, NATURAL FRUIT FIBER (APPLE-1.6%), RAISING AGENTS [503(,500(),4500), EDIBLE COMMON SALT EMULSIFIERS (322,412,472e,471), CINNAMON (0.5% ), DOUGH CONDITIONER (223) AND SWEETENER (955) Aumbers in brackets as per intemational Numbering System) CONTAINS ADDED FLAVOURS [NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (BUTTER, MILK MASALA & VANILLA]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948063154025",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

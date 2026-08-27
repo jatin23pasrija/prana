@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08906106070263",
+  "barcode_printed": "8906106070263",
+  "barcode_format": "EAN-13",
+  "name": "Jowar & Sweet Potato Flour - Cocoa Heaven Mug Cake Mix",
+  "brand": "serapheena",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 382,
+        "protein_g": 4.6,
+        "carbohydrate_g": 88,
+        "sugars_g": 48.9,
+        "fat_g": 1.3,
+        "fibre_g": 3
+      }
+    }
+  ],
+  "ingredients_raw": "Raw Cane Sugar, Jawar (Sorghum), Starch (Sweet Potato, Tapioca), Cocoa Powder (15%), Baking Powder, Salt. CONTAINS NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906106070263",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

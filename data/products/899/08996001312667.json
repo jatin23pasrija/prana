@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08996001312667",
+  "barcode_printed": "8996001312667",
+  "barcode_format": "EAN-13",
+  "name": "Malkist Cappuccino",
+  "brand": "mayora",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 144,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour, Edible Vegetable Oil (Palmolein Oil) contains Antioxidant (BHA), Sugar (11.1%), Maltodextrin, Glucose Syrup, Lactose, Non-Dairy Creamer (Glucose, Hydrogenated Vegetable Fat (Coconut/Palm Kernel), Edible Sodium Caseinate, Stabilizer (INS 340(ii)), Stabilizer (INS 452(ii)), Emulsifier (INS 481), Tapioca Starch, Raising Agents (INS 503(ii)), INS 500(iii), Cocoa Powder (1.16%), Iodized salt, Baker's Yeast, Milk Solids (0.53% SMP) Malt Extract (0.45%), Butter (0.55%), Emulsifier(INS 322(i))Artificial flavouring substance (Coffee) (0.054%), Vitamin Premix (Thiamine Mononitrate, Riboflavin, Pyridoxine Hydrochloride, Cyanocobalamin). Allergen information: Contains Wheat, Milk, Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8996001312667",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

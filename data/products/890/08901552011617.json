@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552011617",
+  "barcode_printed": "8901552011617",
+  "barcode_format": "EAN-13",
+  "name": "Onion paratha",
+  "brand": "ashoka",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Zwiebeln 51%, VOLLKORNmehl, Wasser, Sonnenblumenöl, Korianderblätter, Salz, grüner Chili, Margarine, Zucker, Backtriebmittel: E500.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552011617",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

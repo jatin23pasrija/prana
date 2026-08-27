@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076133265",
+  "barcode_printed": "8906076133265",
+  "barcode_format": "EAN-13",
+  "name": "Protein Chips",
+  "brand": "the-baker-s-dozen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Multi Grain Blend (Urad Dal, Jowar, Chickpea, Rice Flour), Soya Protein Isolate, Tapioca Starch, Rice Bran Oil, Onion Powder, Milk Powder, Parsley Leaf, Refined Sugar Powder, Salt, Citric Acid. CONTAINS ADDED NATURAL FOOD COLOUR AND CONTAINS ADDED NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES ALLERGEN DECLARATION Contains Milk & Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076133265",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

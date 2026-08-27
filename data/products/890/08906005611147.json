@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005611147",
+  "barcode_printed": "8906005611147",
+  "barcode_format": "EAN-13",
+  "name": "winkies fruit cake",
+  "brand": "winkies",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EGGS, BAKERY SHORTENING, PALM OIL, GLAZED FRUITS (6%) (PAPAYA, SUGAR, ACIDITY REGULATOR (INS 330), SYNTHETIC FOOD COLOUR (INS 110, INS 102, INS 143, INS 124)}, WATER, HUMECTANTS (INS 422, INS 420), RAISINS (4%), LIQUID GLUCOSE, MIXED FRUIT JAM, PALMOLEIN OIL, CAKE GEL (INS 471 INS 477, INS 1520, INS 420, INS 412), RAISING AGENT [BAKING POWDER AND INS 500(ii)]. ARTIFICIAL FLAVOUR (VANILLA), EDIBLE COMMON SALT, PRESERVATIVES (INS 282, INS 200, INS 211), ACIDITY REGULATOR (INS 260), EMULSIFIER (INS 471), STABILIZER (INS 412 AND INS 415 NATURE IDENTICAL AND NATURAL FLAVOUR (ORANGE AND LEMON).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005611147",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

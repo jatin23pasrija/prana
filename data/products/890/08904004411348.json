@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004411348",
+  "barcode_printed": "8904004411348",
+  "barcode_format": "EAN-13",
+  "name": "Chikki Bar",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 532,
+        "protein_g": 16.83,
+        "carbohydrate_g": 46.81,
+        "sugars_g": 36.13,
+        "fat_g": 30.81,
+        "saturated_fat_g": 3.74,
+        "fibre_g": 5.87,
+        "sodium_mg": 32810
+      }
+    }
+  ],
+  "ingredients_raw": "Peanuts, Jaggery, Refined Sugar, Cardamom & Refined Palmolein Oil",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004411348",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

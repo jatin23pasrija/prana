@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901246004444",
+  "barcode_printed": "8901246004444",
+  "barcode_format": "EAN-13",
+  "name": "Eggless mayo",
+  "brand": "del-monte",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Edible Vegetable Oil (Soyabean Oil), Sugar, Thickeners (INS 1442, INS 415), lodized Salt, Milk Solids, Acidity Regulators (INS 260, INS 270, INS 330), Preservatives (INS 211, INS 202), Spice Extract and Sequestrant (INS 386).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901246004444",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

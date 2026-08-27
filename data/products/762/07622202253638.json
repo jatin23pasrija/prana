@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202253638",
+  "barcode_printed": "7622202253638",
+  "barcode_format": "EAN-13",
+  "name": "Oreo 5 Pack",
+  "brand": "cadbury",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 459.25,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, FRACTIONATED FAT, PALMOLEIN, INVERT SUGAR, COCOA SOLIDS (2%*), LEAVENING AGENTS (500(ii). 503(ii)), STARCH, IODISED SALT, EMULSIFIER (322), NATURE IDENTICAL FLAVOURING SUBSTANCES. ALLERGEN INFORMATION: CONTAINS WHEAT SULPHITE, SOY. MAY CONTAIN MILK AND BARLEY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202253638",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901972058643",
+  "barcode_printed": "8901972058643",
+  "barcode_format": "EAN-13",
+  "name": "Wafers",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "protein_g": 3.33,
+        "carbohydrate_g": 70,
+        "sugars_g": 46.67,
+        "fat_g": 23.33,
+        "saturated_fat_g": 10,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 83
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, wheat flour, edible vegetable oil, starch, artificial flavor - strawberry, emulsifier - soy lecithin (e 322), salt, leavening agent - sodium bicarbonate (e500 (ii)], acidity regulator - malic acid (e 296), dough conditioner - sodium metabisulphite (e 223) and artificial color - erythrosine (e 127).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901972058643",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08908012811930",
+  "barcode_printed": "8908012811930",
+  "barcode_format": "EAN-13",
+  "name": "Double Choco Mini",
+  "brand": "minus-thirty",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (40 ml)",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 91.45,
+        "protein_g": 1.2,
+        "carbohydrate_g": 9.4,
+        "sugars_g": 0,
+        "fat_g": 5.45,
+        "saturated_fat_g": 4.51,
+        "sodium_mg": 18.3
+      }
+    }
+  ],
+  "ingredients_raw": "Almond Milk, Almond Butter, Dark Chocolate (Vegan), Cocoa Powder, Stevia, Coconut Oil",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908012811930",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

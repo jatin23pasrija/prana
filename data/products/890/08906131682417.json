@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131682417",
+  "barcode_printed": "8906131682417",
+  "barcode_format": "EAN-13",
+  "name": "Slurp Farm Millet Noodles",
+  "brand": "slurp-farm",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 57,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 195.7,
+        "protein_g": 6.2,
+        "carbohydrate_g": 40.5,
+        "sugars_g": 1.5,
+        "fat_g": 1.8,
+        "saturated_fat_g": 0.3,
+        "fibre_g": 6,
+        "sodium_mg": 659.7
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles (88.5%): Supergrain blend (whole wheat (atta), jowar) (83%), guar gum, iodised salt, rosemary (antioxidant) [INS 392]. Seasoning (11.5%): Mixed spices (onion, coriander, chilli, turmeric, garlic, cumin, aniseed, fenugreek, black pepper, ginger, clove, cardamom, nutmeg), tapioca starch, desi khand, iodised salt, edible vegetable oil (soyabean), natural colors and nature identical flavors, guar gum, citric acid (acidity regulator) [INS 330), baking soda (raising agent) [INS 500(ii)].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131682417",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

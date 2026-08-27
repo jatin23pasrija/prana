@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906067023049",
+  "barcode_printed": "8906067023049",
+  "barcode_format": "EAN-13",
+  "name": "MuscleBlaze Gold Whey Rich Chocolate",
+  "brand": "mb",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 385.86,
+        "protein_g": 82,
+        "carbohydrate_g": 7.94,
+        "sugars_g": 0.6,
+        "fat_g": 2.9,
+        "saturated_fat_g": 1.6,
+        "fibre_g": 0,
+        "sodium_mg": 422.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906067023049",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "08906173701244",
+  "barcode_printed": "8906173701244",
+  "barcode_format": "EAN-13",
+  "name": "Nitric whey protein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 0,
+        "protein_g": 27,
+        "carbohydrate_g": 5,
+        "fat_g": 5,
+        "saturated_fat_g": 1,
+        "sodium_mg": 130.11
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906173701244",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904288603613",
+  "barcode_printed": "8904288603613",
+  "barcode_format": "EAN-13",
+  "name": "Tops Tomato Ketchup",
+  "brand": "tops",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 850,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Tomato Paste&quot; - 28%, Sugar, lodised Salt, Thickeners (INS 1422, INS 401, INS 415), Acidity Regulator (INS 260), Onion Powder, Garlic Powder, Preservative (INS 211), Red Chilli Powder, Spices & Condiments, Antioxidant (INS 300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904288603613",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

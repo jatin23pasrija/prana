@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064233168",
+  "barcode_printed": "8906064233168",
+  "barcode_format": "EAN-13",
+  "name": "Chicken Tikka Masala Spice Mix",
+  "brand": "suhana",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Onion, Cashew Nut, Tomato Powder, Salt, Sugar, Chilli, Garlic, Corn Starch, Coriander, Dry Ginger, Dry Fenugreek Leaves, Cumin, Green Cardamom, Cassia, Black Pepper, Bay Leat, Nutmeg, Clove, Caraway, Mace, Turmeric. Allergy Advice:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064233168",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

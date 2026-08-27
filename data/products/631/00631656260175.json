@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "00631656260175",
+  "barcode_printed": "0631656260175",
+  "barcode_format": "EAN-13",
+  "name": "MuscleTech 100% Whey Isolate",
+  "brand": "muscletech",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1810,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "32g",
+        "quantity": {
+          "value": 32,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 113,
+        "protein_g": 25,
+        "carbohydrate_g": 2.5,
+        "sugars_g": 0.6,
+        "fat_g": 0.4,
+        "saturated_fat_g": 0.2,
+        "sodium_mg": 136
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Isolate (91%), Natural and Artificial Flavours (Chocolate, Vanilla), Cocoa (Processed with Alkali), Gum Blend (Cellulose Gum [Stabilizer], Xanthan Gum (Emulsifier), (0.6%) (Saccharomyces boulardii, Amylase [from Aspergillus flavus var. oryzae, Whole], Papain Carrageenan [Emulsifier]), Soy or Sunflower Lecithin (Emulsifier), Probiotic and Enzyme Blend [from Carica papaya, Fruit]), Salt (Flavour Enhancer), Sucralose (Sweetener), Vitamin and Mineral Blend (0.2%) (L-Ascorbic Acid, Zinc Oxide, Nicotinamide, Ergocalciferol, Calcium D-Pantothenate, D-Biotin, Pyridoxine Hydrochloride, Cyanocobalamin, Riboflavin, Thiamine Hydrochloride, Folic Acid), Silicon Dioxide (Anti-Caking Agent). Allergen Warning: Contains milk and soy ingredients. Processed in a facility that also processes tree nuts and fish ingredients. This product contains sucralose (INS 955). CONTAINS NON-CALORIC SWEETENER. DIRECTIONS: Mix 1 serving (1 scoop) in 200 mL of cold water or skim milk in a shaker cup. Use between major meals or before and after exercise. Take up to 2 servings per day. Read the entire label before use and follow directions provided. Recommended Dose: 2 servings per day. Whey Protein Isolate with Probiotic Powder WARNING: NOT FOR MEDICINAL USE. For adult use only, not recommended for children. Product is not to be used as a substitute for a varied diet. Do not use if you are pregnant or nursing. Consult a medical doctor before use if you have a medical condition or before starting a diet or exercise program. Do not exceed the recommended daily usage. KEEP OUT OF REACH OF CHILDREN. 100% WHEY ISOLATE AMINO ACID PROFILE Per Serving Per 100g Glutamic acid Glycine Alanine Arginine 0.5g 1.2g 3.8g 1.6g Aspartic acid 2.8g 8.99 Cysteine 0.6g 1.99 Glutamine / 4.3g 13.69 0.5g 1.69 Histidine 0.4g 1.3g Isoleucine 1.7g 5.40 Leucine 2.7g 8.59 Lysine 2.6g 8.20 Methionine 0.6g 1.99 Phenylalanine 0.7g 2.20 4.79 Proline 1.5g 3.59 Serine 1.19 5.49 Threonine 1.7g 1.69 Tryptophan 0.5g 2.20 Tyrosine 0.79 4.19 1.3g Valine with.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0631656260175",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161672716",
+  "barcode_printed": "8906161672716",
+  "barcode_format": "EAN-13",
+  "name": "Almond Brittle Gold",
+  "brand": "loyka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 14.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Almonds (40%), Sugar, Hydrogenated vegetable fat, Butter, Cocoa Solids, Emulsifier (INS 322) and Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161672716",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005459910",
+  "barcode_printed": "8908005459910",
+  "barcode_format": "EAN-13",
+  "name": "Dark Chocolate Muesli",
+  "brand": "nourish-you",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 432.7,
+        "protein_g": 14.3,
+        "carbohydrate_g": 67.16,
+        "sugars_g": 24.97,
+        "fat_g": 13.23,
+        "saturated_fat_g": 6.3,
+        "fibre_g": 16.48,
+        "sodium_mg": 134.31
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005459910",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

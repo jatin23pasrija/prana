@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906186941422",
+  "barcode_printed": "8906186941422",
+  "barcode_format": "EAN-13",
+  "name": "Shiftlife Pea based protein powder belgian chocolate flavour",
+  "brand": "modicare",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Flaxseed Brown Rice Spirulina Moringa Papaya and pineapple extracts 20 billion CFUs from 11 probiotic strains",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906186941422",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

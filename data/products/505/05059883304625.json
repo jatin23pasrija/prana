@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "05059883304625",
+  "barcode_printed": "5059883304625",
+  "barcode_format": "EAN-13",
+  "name": "Impact Bar - Fudge Brownie Flavor",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 384,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 bar (64 g)",
+        "quantity": {
+          "value": 64,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 232.9,
+        "protein_g": 20,
+        "carbohydrate_g": 20,
+        "sugars_g": 1.92,
+        "fat_g": 8.5,
+        "saturated_fat_g": 3.8,
+        "trans_fat_g": 0,
+        "fibre_g": 8.6,
+        "sodium_mg": 102.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5059883304625",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

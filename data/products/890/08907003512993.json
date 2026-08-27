@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08907003512993",
+  "barcode_printed": "8907003512993",
+  "barcode_format": "EAN-13",
+  "name": "Andhra Parupu Podi / Dal Powder",
+  "brand": "adyar-ananda-bhavan",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Roasted bengal gram dal, Grated desiccated Coconut, Urid dal, White Till, Red Chilli, lodised Salt, Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907003512993",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

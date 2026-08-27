@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906116956885",
+  "barcode_printed": "8906116956885",
+  "barcode_format": "EAN-13",
+  "name": "hk vitals Collagen",
+  "brand": "hk-vitals",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Marine Collagen Peptides, Orange Fruit Powder, Acidity Regulator (INS 330), Nature Identical Flavouring Substance, INS 162,INS 150 d & INS 160 a, Sodium Hyaluronate, Sweetener (INS 955), DL-alpha Tocopheryl Acetate, Annatto Extract",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906116956885",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904166000459",
+  "barcode_printed": "8904166000459",
+  "barcode_format": "EAN-13",
+  "name": "Chat Masala",
+  "brand": "bitta",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 30,
+        "energy_kj": 126,
+        "protein_g": 6,
+        "carbohydrate_g": 22.2,
+        "sugars_g": 0,
+        "fat_g": 3.3,
+        "saturated_fat_g": 1,
+        "fibre_g": 2
+      }
+    }
+  ],
+  "ingredients_raw": "Rock Salt, Common Salt, Black Salt, Dry Mango, Cumin Seed, Coriander, Mint Leaf, Black Pepper, Dry Ginger, Asafoetida, Pomegranate Seed, Nutmeg, Cloves. (All ingredients in powder form)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904166000459",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

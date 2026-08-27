@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063017559",
+  "barcode_printed": "8901063017559",
+  "barcode_format": "EAN-13",
+  "name": "Britannia 5050 Potazos 71.5g",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 29,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED (PALMOLEIN & PALM) OIL, SUGAR, DEHYDRATED POTATO FLAKES (11.3%), IODISED SALT, SPICES & CONDIMENTS 1.7% (_ONION_, GARLIC, RIO CHILLI, CORIANDER AND CUMIN), RAISING AGENTS 503(a) 8 500(0), LIQUID GLUCOSE, MILK SOLIDS, INVERT SUGAR SYRUP, RICE FLOUR, VITAL GLUTEN, EMULSIFIERS 322(i) & 471), MAITODEXTRIN, DRY MANGO POWDER, ACIDITY REGULATORS (330 & 334), FLAVOUR ENHANCERS (627 & 631), WOKING AGENT (551), DOUGH CONDITIONER (223), IMPROVER 1101(1)) AND STABILIZER (1450). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (110) AND ADDED FLAVOURS NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT GLUTEN, MILK SOYA AND SULPHITE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063017559",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

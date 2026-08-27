@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "03017932033003",
+  "barcode_printed": "3017932033003",
+  "barcode_format": "EAN-13",
+  "name": "Amul butter scotch ice cream",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk solids, sugar, cashew chikki (12%) (sugar, cashew pieces, liquid glucose, ghee), emulsifier (471), stabilizers (407, 412, 466, 415), artificial flavouring substances (butterscotch), colour (102). Allergen Information: Contains milk, nuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3017932033003",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08907486301138",
+  "barcode_printed": "8907486301138",
+  "barcode_format": "EAN-13",
+  "name": "SIN EW Instantised Whey Protein Concentrate",
+  "brand": "sin-ew",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 398,
+        "protein_g": 79,
+        "carbohydrate_g": 1.5,
+        "sugars_g": 1.5,
+        "fat_g": 2.4,
+        "saturated_fat_g": 1.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907486301138",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

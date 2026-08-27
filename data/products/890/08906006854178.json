@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006854178",
+  "barcode_printed": "8906006854178",
+  "barcode_format": "EAN-13",
+  "name": "Bavarian Chocolate Mega Saver Pack",
+  "brand": "baskin-robbins",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Milk Solids, Sugar, White chocolate (7%) [Sugar, Milk Solids, Cocoa Butter, Emulsifier(322,476), CONTAINS ADDED NATURE IDENTICAL FLAVORING SUBSTANCES(VANILLA)], Cashew Chikki(7%) (Sugar, Cashew, Butter), Cocoa Solids (6%). Stabilizers(461, 412, 407), Emulsifier(471).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006854178",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106045071",
+  "barcode_printed": "8909106045071",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Feast",
+  "brand": "kwality-wall-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (62 g)",
+        "quantity": {
+          "value": 62,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 247,
+        "protein_g": 2,
+        "carbohydrate_g": 22.1,
+        "sugars_g": 18.6,
+        "fat_g": 16.9,
+        "saturated_fat_g": 13,
+        "trans_fat_g": 0.07,
+        "sodium_mg": 43
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106045071",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

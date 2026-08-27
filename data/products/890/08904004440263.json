@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004440263",
+  "barcode_printed": "8904004440263",
+  "barcode_format": "EAN-13",
+  "name": "Punnjabi Samosa",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 460,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato, Enriched White Flour, Refined Palmolein Oil, Green Peas, Edible Vegetable Fat, lodised Salt, Mixed Spices (Chilli Powder, Black Salt, Coriander Powder, Cumin, Mint leaves powder, Black Pepper powder, Pomegranate Seeds, lodised Salt, Dried Mango Powder, Clove, Dried Ginger powder, Large Cardamom, Green Cardamom, Bay Leaves, Cinnamon, Nutmeg,Mace), Ginger, Coriander leaves, Green Chilli, Cumin, Pennel Seeds, Dried Mango Powder, Coriander seeds, Turmeric, Mint Leaves powder, Onion Seeds, Black Salt, Ajowan & Asafoetida, Sweet Chutney: Refined Sugar, Dried Mango Powder, Dates, Tamarind, Black Salt, Cumin, Refined Palmolein Oil, Dried Ginger Powder, lodised Salt, Mixed Spices (Dried Ginger Powder, Large Cardamom, Black Pepper, Green Cardamom, Bay Leaf, Cinnamon, Clove, Nutmeg & Mace), Red Chilli Powder, Black Pepper Powder & Asafoetida. Green Chutney: Coriander Leaves, Lemon Juice, Mint Leaves, Green Chilli, Black Salt, lodised Salt, Mixed Spice ( lodised Salt, Dried Mango Powder, Black Salt, Cumin, Coriander Seed, Mint leaves, Black Pepper, Chilli Powder, Pomegranate Seeds, Tamarind, Dried Ginger Powder, Ajowan, Nutmeg, Clove & Asafoetida), Citric Acid (INS 330) & Cumin Powder • CONTAINS WHEAT • May Contain Peanut, Milk, Tree nuts, Soya, Sesame Seed, Sulphite & Mustard Seed Ingrédients: Pommes De Terre, Farine Blanche Enrichie, Huile Palmolein Raffinée, Pois Verts, Graisses Végétales Comestibies, Sel lodé, Epices Mélangées (Poudre De Piment, Sel Noir, Poudre De Coriandre, Cumin, Poudre De Feuilles De Menthe, Poudre De Poivre Noir, Graines De Grenade, Sel lodé, Poudre De Mangue Séchée, Girofle, Poudre De Gingembre Séché, Grande Cardamome, Cardamome Verte, Feuilles De Laurier, Cannelle, Noix De Muscade, Mace), Gingembre, Feuilles De Coriandre, Piment Vert, Cumin, Graines De Fenouil, Poudre De Mangue Séchée, Graines De Corlandre, Curcuma, Menthe Feuilles En Poudre, Graines D'oignon, Sel Noir, Ajowan & Asafoetida, Chutney Sucré: Sucre Raffiné, Séché Poudre De Mangue, Dates, Tamarin, Sel Noir, Cumin, Oléine D'huile De Palme Raffinée, Gingembre En Poudre, Sel lodé, Mélangé D'épices (Poudre De Gingembre Séchée, Grand Cardamome, Poivre Noir, Cardamome Verte, Feuille De Laurier, Cannelle, Clou De Girofle, Muscade Et Macis), Poudre De Piment Rouge, Poivre Noir Poudre Et Asafoetida. Chutney Vert: Feuilles De Coriandre, jus De Citron, Menthe, Piment Vert, Sel Noir, Sel lodé, Mélange D'épices (Sel lodé, Poudre De Mangue Sechée, Sel Noir, Cumin, Graines De Coriandre, Feuilles De Menthe, Poivre Noir, Piment En Poudre, Graines De Grenade, Tamarin, Gingembre Séché En Poudre, Ajowan, Muscade, Clou De Girofle Et Asafoetida), Acide Citrique (INS 330) Et Cumin En Poudre • CONTIENT DU BLE Peut Contenir Arachide, Du Lait, Des Noix, Soja, Graine De Sésame, Sulnte Et Graine De Moutarde Cooking Instructions /Cuisson Thaw in Microwave: Remove Haldirao Punjabi Samosa from uay, deiost in microwave for 1 minute on high setting Décongélation au Microondes: Retirer hi Pan Cook Preheat oil in a fying paa to a minutes until golden brown Serve hot wih chutney A ia Poele: Pvéchauffer sie 344minutes. juaque • Oven (For healthy . aldiram Punjaki Samosa du plateau et décongeler à puissance dievde I minute medium temperature (180C) Fry the required number of piecs for 3-4 wwe pole à fais atempérature mayan bien darks Se ne (180 Prine la quantité dide de chaud as du chutney un for 7-dminute Serve lt with chutney dana eating Peeheat ove) 180C aldiram hana haud avec",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004440263",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

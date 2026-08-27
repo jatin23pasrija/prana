@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906123581261",
+  "barcode_printed": "8906123581261",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Butter",
+  "brand": "scrunch",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 641.5,
+        "energy_kj": 2684,
+        "protein_g": 26.3,
+        "carbohydrate_g": 19.3,
+        "sugars_g": 7.5,
+        "fat_g": 51,
+        "saturated_fat_g": 10.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906123581261",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

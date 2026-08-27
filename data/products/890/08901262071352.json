@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262071352",
+  "barcode_printed": "8901262071352",
+  "barcode_format": "EAN-13",
+  "name": "Colombia Classique Black",
+  "brand": "amul",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 561,
+        "protein_g": 6.9,
+        "carbohydrate_g": 56.5,
+        "sugars_g": 43,
+        "fat_g": 34.1,
+        "saturated_fat_g": 13.8
+      }
+    }
+  ],
+  "ingredients_raw": "COCOA SOLIDS, SUGAR, COCOA BUTTER, EMULSIFIERS (E322, E476).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262071352",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

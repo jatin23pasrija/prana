@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009918635",
+  "barcode_printed": "8908009918635",
+  "barcode_format": "EAN-13",
+  "name": "Oziva Plant Protein",
+  "brand": "oziva",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Clean Protein Blend (Pea Protein Isolate, Brown Rice Protein Isolate, Mung Bean Protein Isolate), Melon Powder (9.20%), Vitamins & Minerals Blend, Herbs Blend [Ashwagandha (1.65%), Tulsi (1.35%), Amla (1.00%), Triphala (1.00%), Moringa (0.65%), Guduchi (0.65%), Rosehip (0.15%), Cinnamon (0.15%). Sea Buckthorn (0.15%), Ginseng (0.15%)], Chicory Root Fiber (0.35%), Papain (0.10%), Bromelain [INS 1101 (iii)], Xanthan Gum (INS 415), Natural Sweetener (Stevia INS 960)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009918635",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

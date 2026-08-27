@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335602385",
+  "barcode_printed": "8904335602385",
+  "barcode_format": "EAN-13",
+  "name": "Yoga Bar Protein Bar",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Dates 50%, Protein Blend 21% ( Soy + WPC), Cashew Butter 14%, Dried Fruit 9% (Raisins, Blueberry), Nuts & Seeds 6% (Almond, Sunflower Seeds)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335602385",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

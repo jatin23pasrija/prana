@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552018753",
+  "barcode_printed": "8901552018753",
+  "barcode_format": "EAN-13",
+  "name": "achari aloo Goni Kathi roll",
+  "brand": "achari",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato, Flour (Whole Wheat), Water, Refined Flour (Wheat), Cauliflower, Onion, Sunflower Oil, Coriander Leaves, Bre Crumbs (Wheat), Corn Flour, Ginger, Salt, Green Chilli, Garlic, Mint Leaves, Spices (Black Salt, Onion Powder, Chilli Powde Coriander Powder, Salt, Cumin Powder, Kalonji, Garlic Powder, Turmeric Powder, Black Pepper Powder, Fenugreek Powd Ginger Powder, Fennel Powder, Dried Fenugreek Leaves, Black Cardamom, Carom, Mustard, Corn Flour, Citric Acid (E 33 Nutmeg, Asafoetida (Wheat), Mango Powder, Pomegranate Powder, Clove), Lime Juice. Ingrédients Pomp tournesol Feuilles",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552018753",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

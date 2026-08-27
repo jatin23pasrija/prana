@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080364589",
+  "barcode_printed": "8902080364589",
+  "barcode_format": "EAN-13",
+  "name": "Mountain Dew",
+  "brand": "pepsico",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 49,
+        "protein_g": 0,
+        "carbohydrate_g": 12.3,
+        "sugars_g": 12.3,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "sodium_mg": 8
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331), FLAVOUR (NATURAL FLAVOURING SUBSTANCES), PRESERVATIVE (211), CAFFEINE (13 mg/100 g), STABILIZER (445), COLOUR (102)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080364589",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

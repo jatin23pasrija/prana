@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019757675",
+  "barcode_printed": "8908019757675",
+  "barcode_format": "EAN-13",
+  "name": "MADAGASCAR CHOCOBAR",
+  "brand": "go-zero",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Inner Ice Cream Layer (77%): Milk & Milk Solids (Skimmed Milk Powder, Butter), Maltitol, Oligofructose, Cocoa Solids, Cocoa Mass, Starch, Permitted Emulsifier (471, 433) and Stabilizer (412, 407, 461), Stevia. Outer Layer (23%): Chocolate Paste (Maltitol, Edible Vegetable Oil, Cocoa Solids, Soya Lecithin), Edible Vegetable Oil, Cocoa Butter, Wheat Crunch (2%). CONTAINS ADDED NATURE IDENTICAL VANILLA FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019757675",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

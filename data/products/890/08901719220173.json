@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719220173",
+  "barcode_printed": "8901719220173",
+  "barcode_format": "EAN-13",
+  "name": "Melody Chocolaty",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 428,
+        "protein_g": 2.9,
+        "carbohydrate_g": 75.3,
+        "sugars_g": 53.8,
+        "fat_g": 12.8,
+        "saturated_fat_g": 6.6,
+        "sodium_mg": 241
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, LIQUID GLUCOSE, REFINED PALM OIL, COCOA SOLIDS (6.5%), MILK SOLIDS, IODISED SALT AND EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN). CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES VANILLA & CHOCOLATE) CONTAINS: MILK & SOY MANUFACTURED FOR: Issai LIC. No.: 10013022002253 BPARLE BISCUITS PVT LTD NORTH LEVEL CROSSING, VILE PARLE EAST, MUMBAI, MH-40005 MFD. BY: (IP)-PARLE BISCUITS PVT LTD, 464, GONDE DUMALA, IGATPURI, NASHIK, MH-422403 LIC. No.: 10012022000125 (KP)-PARLE BISCUITS PVT LTD, 131/2, KIRKHINDI KHOPOLI-PEN ROAD, RAIGAD, MH-410202 LIC. No.: 10012022000118 (IN)-DHANANJAY CONFECTIONERIES PVT LTD, 42-53 LIC. No.: 10012026000035 SECTOR-F INDL AREA, SANWER ROAD, MP-452 (NE)-PARLE BISCUITS PVT LTD, E-7 (A) & E-8. R AREA, NEEMRANA, ALWAR, RJ-301705 LIC. No.: 10012013000086 PARLE BISCUITS PVT LTD, 17, UDL-II APC 517432 RAM, CHITTOOR 13-508218 2084",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719220173",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

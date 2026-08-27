@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08904296903071",
+  "barcode_printed": "8904296903071",
+  "barcode_format": "EAN-13",
+  "name": "Tomato pickle",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 202.26,
+        "protein_g": 2.96,
+        "carbohydrate_g": 11.92,
+        "sugars_g": 3.7,
+        "fat_g": 15.86,
+        "saturated_fat_g": 3.78,
+        "fibre_g": 1.2,
+        "sodium_mg": 4212.39
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904296903071",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

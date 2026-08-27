@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901786940509",
+  "barcode_printed": "8901786940509",
+  "barcode_format": "EAN-13",
+  "name": "Veg Biriyani Mix",
+  "brand": "everest",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 305.27,
+        "protein_g": 10.88,
+        "carbohydrate_g": 54.07,
+        "sugars_g": 14.14,
+        "fat_g": 5.83,
+        "saturated_fat_g": 1.35,
+        "sodium_mg": 6111.79
+      }
+    }
+  ],
+  "ingredients_raw": "Dehydrated Orion, Milk Solids, Iodized Salt, Chilli, Green Cardamom, Fennel, Cassia Leaf, Cassia Back (Taj), Rice Bran Edible Oil, Nutmeg, Anticaking Agent (INS 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901786940509",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

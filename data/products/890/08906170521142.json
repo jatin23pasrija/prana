@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906170521142",
+  "barcode_printed": "8906170521142",
+  "barcode_format": "EAN-13",
+  "name": "Whey Concentrate",
+  "brand": "nutrabay",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "36 g",
+        "quantity": {
+          "value": 36,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 134,
+        "protein_g": 26,
+        "carbohydrate_g": 2.92,
+        "sugars_g": 1.3,
+        "fat_g": 1.95,
+        "saturated_fat_g": 1.2,
+        "fibre_g": 0.95,
+        "sodium_mg": 73.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906170521142",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

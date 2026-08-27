@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906053840834",
+  "barcode_printed": "8906053840834",
+  "barcode_format": "EAN-13",
+  "name": "Dry Bhel",
+  "brand": "kalyan-bhel",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (55 g)",
+        "quantity": {
+          "value": 55,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 248,
+        "protein_g": 8.03,
+        "carbohydrate_g": 35.08,
+        "sugars_g": 0.3,
+        "fat_g": 8.48,
+        "saturated_fat_g": 3.92,
+        "trans_fat_g": 0,
+        "fibre_g": 1.43,
+        "sodium_mg": 320.46
+      }
+    }
+  ],
+  "ingredients_raw": "Rice flakes, Gram flour, Edible vegetable oil, (Groundnut Oil) Red chilli powder, Papad khar, Iodised salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906053840834",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

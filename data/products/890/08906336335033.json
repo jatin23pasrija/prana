@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906336335033",
+  "barcode_printed": "8906336335033",
+  "barcode_format": "EAN-13",
+  "name": "mature cheddar cheese ploughman’s",
+  "brand": "branston",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "MALTED BREAD (38%) Wheat Flour (with added Calcium Water Malted Wheat Flakes (9.4%), Wheat Bran (2.6% Wheat Protein Yeast Salt Malted Barley Flour 10.92 Emulsifiers E471, E472e Spirit Vinegar, Malled Wheat Flour, Vegetable Oils (Rapeseed Palm, Flour Treatment Agent E300 Palm Fat. MATURE CHEDDAR (17%) Pasteurised Cows Milk Non Animal Rennet Salt, Starter Culture, BRANSTON PICKLE (15%) Vegetables in Variable Proportions (54% Carrot Rutabaga Onion Cauliflower), Sugar, Barley Malt Vinegar Spirit Vinegar Date Paste, Salt, Apple Pulo (Apple Preservative Sodium Metabisulphitel, Modified Maize Starch Tomato Paste Colour (Sulphite Ammonia Caramell Spices. Concentrated Lemon Juice, Onion Powder Natural Flavouring TOMATO (12%), LETTUCE (8%), CUCUMBER IS VEGETABLE SPREAD (7%) Vegetable Oils (Rapeseed Oil, Palm Oil), Water, Salt Emulsifier (Mono & Diglycerides of Fatty Acids). Preservative (Potassium Sorbate) Colour (Annatto. Curcumin), Acidity Regulator (Citric Acid), Flavouring.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906336335033",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

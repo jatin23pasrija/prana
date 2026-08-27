@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08939123285808",
+  "barcode_printed": "8939123285808",
+  "barcode_format": "EAN-13",
+  "name": "Bold Cheddar Makhana",
+  "brand": "rooted-delights",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Roasted Makhana, Rice Bran Oil, Sugar, Salt, Maltodextrin, Hydrolysed Peanut Protein, Dehydrated Blend of Whey (From Milk), Stabilizer Emulsifier (INS 339), Acidity Regulator (INS 330)&UNS 296), Cheese Concentrate, Colour (INS 160C), Natural Identical Flavouring Substance Flavour Enhancer (INS 627) (INS 631),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939123285808",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

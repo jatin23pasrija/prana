@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262152945",
+  "barcode_printed": "8901262152945",
+  "barcode_format": "EAN-13",
+  "name": "Protein Lassi - Mango flavour",
+  "brand": "amul",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk solids, water, sweeteners (965, 960), mango fruit compound (2.3%), stabilizers (440, 418), acidity regulator (330), nature identical and artificial flavouring substances (mango), active culture, colours (160(b), 102, 110]. Allergen Information: Contains milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262152945",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

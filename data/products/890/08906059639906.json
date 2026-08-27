@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059639906",
+  "barcode_printed": "8906059639906",
+  "barcode_format": "EAN-13",
+  "name": "Vanilla Milk Shake",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 106.11,
+        "protein_g": 3,
+        "carbohydrate_g": 14.44,
+        "sugars_g": 14.44,
+        "fat_g": 4,
+        "saturated_fat_g": 2.78,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059639906",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

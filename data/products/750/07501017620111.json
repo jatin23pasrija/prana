@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "07501017620111",
+  "barcode_printed": "7501017620111",
+  "barcode_format": "EAN-13",
+  "name": "Chipotle Peppers In Adobo Sauce",
+  "brand": "la-costena",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30 g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 25.2,
+        "protein_g": 0.6,
+        "carbohydrate_g": 4.3,
+        "sugars_g": 2,
+        "fat_g": 0.5,
+        "saturated_fat_g": 0.2,
+        "trans_fat_g": 0,
+        "fibre_g": 0.7,
+        "sodium_mg": 244.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7501017620111",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

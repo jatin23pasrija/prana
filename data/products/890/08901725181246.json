@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725181246",
+  "barcode_printed": "8901725181246",
+  "barcode_format": "EAN-13",
+  "name": "A Sunfeast Yippee! MaGic masala PRODUCT OF INDIA n",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "من فيست يبي نودلز ماجيك ماسالا Instant Noodles: Refined Wheat Flour (78.4%), Refined Palm Oil, lodized Salt, Wheat Gluten (0.4%), Thickeners (E 508, E 412), Stabilizers (E 170(1), E 339(ii), E 450(iii), E 452(10) and Acidity Regulators (E 501(1), E 500(1), E330) Masala Mix: Dehydrated Vegetables [Beans (9.5%), Carrot (7.1%), Onion (4.6%) And Cabbage (3.8%)), Instant Noodle Powder (Refined Wheat Flour (15.8%), Refined Palm Oil, lodized Salt, Wheat Gluten (0.07% )), Spices And Condiments (17.6%) [Garlic, Coriander, Cumin, Ginger, Chilli, Aniseed, Fenugreek, Black Pepper, Cardamom, Nutmeg, Caraway, Cinnamon, Clove And Turmeric], Sugar, lodized Salt, Hydrolyzed Soya Protein, Natural Flavours And Natural Flavouring Substances (Spices), Yeast Extract, Acidity Regulator (E 330), Nature Identical Flavouring Substances (Spices), Maltodextrin (Corm), Flavour Enhancers (E 635). Contains Wheat (Gluten), Soya. May Contain Milk, Sesame, Peanuts, Tree Nuts. لوزن الصافي ١٠٠ . المنتج من الهند (PRODUCT OF INDIA) FOR EXPORT فورية: دقيق قمح نقي (%78.4) ، زيت نخيل مكرر ، ملح معالج باليود، غلوتين القمح (E 170(1), E 339(ii), E 450(ii), E 452) (E 508, E 412) .(E501(1), E 500(1), E خضروات مجففة [قول (%9.5) جزر (%7.1) ، بصل (%4.6) وملفوف (%3.8)]، نة الفورية دقيق القمح المكرر (%15.8)، زيت النخيل المكرر، ملح معالج باليود 0.07)، توابل وبهارات (%17.8) [ثوم، كزبرة ، كمون، زنجبیل، فلفل حار، یانسون هيل، جوزة الطيب، كراوية قرفة، قرنفل وكركم ، سكر، ملح معالج باليود، بروتين نكهات طبيعية ومواد منكهة طبيعية (بهارات)، خلاصة الخميرة، منظم الحموضة طابقة للطبيعة بهارات)، مالتوديكسترين (الذرة)، ومحسنات النكهة (635) E). نجلوتين) والصويا. ليب السمسم، الفول السوداني، والمكسرات.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725181246",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010911218",
+  "barcode_printed": "8906010911218",
+  "barcode_format": "EAN-13",
+  "name": "Bada Cup Vanilla Ice Cream",
+  "brand": "dairy-day",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "80ml",
+        "quantity": {
+          "value": 80,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 165.94,
+        "energy_kj": 695,
+        "protein_g": 3.67,
+        "carbohydrate_g": 20.94,
+        "sugars_g": 20.94,
+        "fat_g": 7.5,
+        "saturated_fat_g": 6.15,
+        "trans_fat_g": 0.08,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids, Water, Sugar, Emulsifiers (INS 471, 477), Stabilizers (INS 412, 410)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010911218",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

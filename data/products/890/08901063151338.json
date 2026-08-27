@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151338",
+  "barcode_printed": "8901063151338",
+  "barcode_format": "EAN-13",
+  "name": "Good Day",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "protein_g": 5.88,
+        "carbohydrate_g": 67.65,
+        "sugars_g": 23.53,
+        "fat_g": 23.53,
+        "saturated_fat_g": 11.76,
+        "fibre_g": 0,
+        "sodium_mg": 264.71
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151338",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

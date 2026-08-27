@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902967215539",
+  "barcode_printed": "8902967215539",
+  "barcode_format": "EAN-13",
+  "name": "Royal Challenge Whisky",
+  "brand": "royal-challenge",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Demineralised Water, Grain Neutral Spirit, Scotch, CONTAINS PERMITTED NATURAL COLOUR (150a) AND ADDED NATURE IDENTICAL (WHISKY) FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902967215539",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

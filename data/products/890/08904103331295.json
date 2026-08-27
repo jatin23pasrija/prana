@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08904103331295",
+  "barcode_printed": "8904103331295",
+  "barcode_format": "EAN-13",
+  "name": "Health Ok 30n",
+  "brand": "mankind",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1.145"
+      },
+      "values": {
+        "energy_kcal": 4.67,
+        "energy_kj": 20,
+        "protein_g": 0.56,
+        "carbohydrate_g": 0.42,
+        "sugars_g": 0.09,
+        "fat_g": 0.03,
+        "saturated_fat_g": 0,
+        "fibre_g": 0.22,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Taurine, Soya Protein Hydrolysate, Polyvinylpyrrolidone (INS 1201 & 1202), Microcrystalline Cellulose [INS (460 (1))], L-Ascorbic Acid, Ginseng Extract, Ferrous Fumarate, Croscarmellose Sodium (INS 468), Sodium Starch Glycolate, Stearic Acid, Hydroxy Propyl Methyl Cellulose (INS 464), Vitamin E Acetate, Zinc Sulphate, Nicotinic acid, Magnesium Oxide, Amorphous Silicon Dioxide (INS 551), Vitamin A Acetate, Manganese Sulphate, Vitamin D2 (ergocalciferol), Pyridoxine hydrochloride, Copric Sulphate, Riboflavin, Thiamine mononitrate, Calcium D-Pantothenate, Chromium Picolinate, Potassium Iodide, - pleroyl-l-glutamic acid, D-biotin, Sodium Selesate, Cyanocobalamin, Talc [INS 553 (i)), Sodium Carboxymethyl Cellulose (INS 466), Maltodextrin, Dextrose Monohydrate, Lecithin (INS 322].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904103331295",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

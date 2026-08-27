@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335606055",
+  "barcode_printed": "8904335606055",
+  "barcode_format": "EAN-13",
+  "name": "High Protein Oats",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Instant Oats (46%), Protein Blend (26.6%) (Texturised Soy Protein Flakes, Whey Powder), Dehydrated Fruits, Nuts & Seeds (12%) (Raisins, Chia Seeds, Sunflower Seeds, Almonds 0.5%, Pumpkin Seeds), Cocoa Powder (7%), Fructo-Oligosaccharides, Natural Flavours, Rice Bran Oil, Himalayan Pink Salt, Sweetener (Steviol Glycosides), Probiotics (Bacillus Coagulans SNZ 1969, 15 Billion CFU/g).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335606055",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

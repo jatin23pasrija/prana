@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088722964",
+  "barcode_printed": "8901088722964",
+  "barcode_format": "EAN-13",
+  "name": "Crunchies Millet Cones",
+  "brand": "saffola",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "21g",
+        "quantity": {
+          "value": 21,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 103,
+        "protein_g": 1.2,
+        "carbohydrate_g": 12.8,
+        "sugars_g": 1.6,
+        "fat_g": 5.4,
+        "saturated_fat_g": 1.3,
+        "fibre_g": 0.7,
+        "sodium_mg": 187
+      }
+    }
+  ],
+  "ingredients_raw": "CEREAL PRODUCT RAGI MILLET FLOUR (24.8%), CORN MEAL, RICE FLOUR], REFINED RICE BRAN OIL, STARCH, SUGAR, SPICES AND CONDIMENTS, ODISED SALT, MINERAL, DEHYDRATED MANGO POWDER MALTODEXTRIN, MILK SOLIDS, DEXTROSE, RAISING AGENT [500 (ii)], FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCE), HYDROLYSED VEGETABLE PROTEIN, ACIDITY REGULATORS [330, 262(ii)], FLAVOUR ENHANCER (627, 631), YEAST EXTRACT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088722964",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

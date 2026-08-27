@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200341",
+  "barcode_printed": "8904063200341",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram Bhel Puri",
+  "brand": "haldiram",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Mélange apéritif Bhelpuri&quot; à base de riz soufflé et de cacahuètes, beignets croquants, et vermicelles de farine de pois chiche avec une préparation pour chutney Ingrédients mélange apéritif Bhelpuri&quot; Pois mais et oléine de palme) riz soufflé (11.25%), farine de pois chiche (11% ) , cacahuète (8%), pomme de terre, épices (piment rouge en poudre, poudre de curcuma), sel. Ingrédients Préparation pour Chutney Sucre, tomate en poudre, poudre de mangue, poudre de datte, épices (piment rouge en poudre, poudre de gingembre, poudre de tamarin, poudre de curcuma), sel, acidifiant: E330. vert cassé, huile végétale huile végétale (graine de coton, 1 Ingrédients Vermicelles de farine de pois chiche : Farine de pois chiche (50%), huile végétale (arachide, mais, oléine de palme, graines de coton), eau. Ingrédients Beignets croquants: Farine de blé, huile végétale (arachide, mais), sel. Attention: Ce produit contient des arachides et du blé. Ce produit a été emballé dans une usine traitant des arachides, des fruits à coques, des graines de sésame, des graines de moutarde, des produits laitiers, et du blé. Produit de l'Inde",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200341",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

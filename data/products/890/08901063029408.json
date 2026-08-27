@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063029408",
+  "barcode_printed": "8901063029408",
+  "barcode_format": "EAN-13",
+  "name": "Jim Jam Biscuits",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 62,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar (24%), Edible Vegetable Oil (Palm) and Interesterified Vegetable Fat, Invert Sugar Syrup, Dextrose, Milk Solids (0.9%), Edible Starch (Maize), Maltodextrin, Fruit Products (2.7%), Iodised Salt, Emulsifiers (Soya Lecithin [322], 471, 481[i]), Raising Agents (500[ii], 503[ii]), Gelling Agent (440), Acidity Regulators (330, 331[i]). Contains Added Flavours (Artificial Flavoring Substances - Mixed Fruit, Butter and Vanilla).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063029408",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058029130",
+  "barcode_printed": "8901058029130",
+  "barcode_format": "EAN-13",
+  "name": "Pazzta cheese macaroni",
+  "brand": "maggi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "MACARONI (PASTA): Semolina (Wheat) (100%). CHEESE #TASTEMAKER: Milk solids, Potato, lodiza salt, Starch, Sugar, Cheese (5.8%), Dehydrated Sweetcom (5.5%), Maltodextrin, Palm oil, Black pepper powder, Flavour enhancer (635), Roasted garlic flakes, Thickener (508) Dehydrated spring onion (0.4%), Natural flavour, Oregano bits, Margarine and Turmeric. Allergen Note: Contains Wheat & Milk. May contain Mustard & Soy. LET'S TALK NESTLE CONSUMER CARE P.O. BAG NO. 2. NEW DELHI-110 001 WECARE@IN.NESTLE.COM 1800 103 1947 STORAGE ADVICE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058029130",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906086690413",
+  "barcode_printed": "8906086690413",
+  "barcode_format": "EAN-13",
+  "name": "Bhelbhatta",
+  "brand": "simla",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 520,
+        "protein_g": 13.3,
+        "carbohydrate_g": 55.7,
+        "fat_g": 27.1
+      }
+    }
+  ],
+  "ingredients_raw": "Puffed Rice (Murmura), Chana Besan, Edible Oil, lodised Salt, Turmeric Powder, Chilly Powder, Roasted Poha, Groundnuts Roasted Split Gram, Khobra, Sugar, Dried Mango Powder, Chivda Masala, Chana Dal, Masur Dal and Other Spices.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906086690413",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081120212",
+  "barcode_printed": "8906081120212",
+  "barcode_format": "EAN-13",
+  "name": "California Inshell Walnut",
+  "brand": "happilo",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 210,
+        "energy_kj": 878.64,
+        "protein_g": 5,
+        "carbohydrate_g": 3,
+        "sugars_g": 0,
+        "fat_g": 20,
+        "saturated_fat_g": 1.5,
+        "fibre_g": 3,
+        "sodium_mg": 3
+      }
+    }
+  ],
+  "ingredients_raw": "Walnut",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081120212",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

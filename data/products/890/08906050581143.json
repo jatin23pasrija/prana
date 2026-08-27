@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906050581143",
+  "barcode_printed": "8906050581143",
+  "barcode_format": "EAN-13",
+  "name": "Peanut butter",
+  "brand": "fric-bergen",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "26 g",
+        "quantity": {
+          "value": 26,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 166,
+        "protein_g": 6.5,
+        "carbohydrate_g": 5.8,
+        "sugars_g": 1.6,
+        "fat_g": 13.1,
+        "saturated_fat_g": 2.6,
+        "sodium_mg": 57
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906050581143",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

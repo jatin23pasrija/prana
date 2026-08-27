@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414000278",
+  "barcode_printed": "8901414000278",
+  "barcode_format": "EAN-13",
+  "name": "Khatta Meetha Кисло-сладкая смесь",
+  "brand": "bikano",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Высокоолеиновое масло (рафинированное), рисовые хлопья (20%), сахар (сахароза), нутовая мука (14,8%), арахис (7,3%), сухой зеленый горах, чечевица, саго, колотый бенгальский нут, смесь специй, рисовая мука, йодированная соль, куркума, индийский тмин, черная соль, лимонная кислота (Е330) в качестве регулятора кислотности, гидрокарбонат натрия [E500)[]] в качестве разрыхлителя. Содержит аллергены: арахис Продукт может содержать следы пшеницы, молока, орехов, кунжута, сои и овса.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414000278",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

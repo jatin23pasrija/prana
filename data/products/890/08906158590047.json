@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906158590047",
+  "barcode_printed": "8906158590047",
+  "barcode_format": "EAN-13",
+  "name": "Intense Plant Protein",
+  "brand": "ace-blend",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 sachet (45 g)",
+        "quantity": {
+          "value": 45,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 172.19,
+        "protein_g": 30,
+        "carbohydrate_g": 8.32,
+        "sugars_g": 1.77,
+        "fat_g": 2.22,
+        "saturated_fat_g": 0.71,
+        "trans_fat_g": 0.1,
+        "fibre_g": 2.24,
+        "sodium_mg": 480.15
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906158590047",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

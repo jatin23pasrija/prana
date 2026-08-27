@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08902420000160",
+  "barcode_printed": "8902420000160",
+  "barcode_format": "EAN-13",
+  "name": "ANS Next Gen Whey",
+  "brand": "ans",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "40g",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 154,
+        "energy_kj": 644,
+        "protein_g": 28,
+        "carbohydrate_g": 5.12,
+        "sugars_g": 0.5,
+        "fat_g": 2.36,
+        "fibre_g": 2,
+        "sodium_mg": 89
+      }
+    }
+  ],
+  "ingredients_raw": "Proprietary Protein Blend (Whey Protein Concentrate and Skimmed Milk Powder), Cocoa Powder, L-Lysine HCL, L-Glutamine, Sucrose, Emulsifier E415, Flavour Enhancer E1101(ii) Sweetener E955, Class II Preservative E211, Chromium Picolinate.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902420000160",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

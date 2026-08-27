@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08902050000028",
+  "barcode_printed": "8902050000028",
+  "barcode_format": "EAN-13",
+  "name": "LaxmiNarayan Patal Poha Chiwda (Indian snack)",
+  "brand": "laxminarayan",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 475.1,
+        "protein_g": 16.37,
+        "carbohydrate_g": 60.27,
+        "sugars_g": 4.35,
+        "fat_g": 19.14,
+        "saturated_fat_g": 4.59,
+        "fibre_g": 14.18,
+        "sodium_mg": 167.13
+      }
+    }
+  ],
+  "ingredients_raw": "Nylon Poha, Chana Dal, Groundnut (Peanuts), Groundnut Oil, Sugar, Sesame, Green Chilli, Black Salt, Salt, Turmeric Powder, Cumin Powder, Mango Powder, Asafoetida, Mustard Powder, Curry Leaves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902050000028",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

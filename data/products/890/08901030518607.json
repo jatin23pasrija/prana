@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030518607",
+  "barcode_printed": "8901030518607",
+  "barcode_format": "EAN-13",
+  "name": "BROWN & POLSON",
+  "brand": "brown-polson",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Maize Starch, Iodised Salt, Tartrazine, Sunset Yellow FCF, Nature Identical Flavouring Substance",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030518607",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

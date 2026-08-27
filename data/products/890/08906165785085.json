@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906165785085",
+  "barcode_printed": "8906165785085",
+  "barcode_format": "EAN-13",
+  "name": "Pre Workout Crea-Xtreme Berry Lime",
+  "brand": "muscleblaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "10 g",
+        "quantity": {
+          "value": 10,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 3.76,
+        "protein_g": 0,
+        "carbohydrate_g": 0.85,
+        "sugars_g": 0.2,
+        "fat_g": 0.04,
+        "sodium_mg": 4.47
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906165785085",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

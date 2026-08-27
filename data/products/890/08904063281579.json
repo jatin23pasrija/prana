@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063281579",
+  "barcode_printed": "8904063281579",
+  "barcode_format": "EAN-13",
+  "name": "Palak Paneer",
+  "brand": "haldiram-s-snacks-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 254,
+        "protein_g": 4.93,
+        "carbohydrate_g": 5.63,
+        "sugars_g": 0,
+        "fat_g": 23.24,
+        "saturated_fat_g": 9.15,
+        "trans_fat_g": 0,
+        "fibre_g": 1.4,
+        "sodium_mg": 401
+      }
+    }
+  ],
+  "ingredients_raw": "Spinach (47%), indian cottage cheese (18%), butter, refined sunflower oil, onions, milk cream, tomatoes, green chilli, salt, ginger, garlic, coriander powder, cumin, spices (cardamom, cinnamon, nutmeg, mace, cumin seeds, coriander, cloves, curry leaves), red chilli.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063281579",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

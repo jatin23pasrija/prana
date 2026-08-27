@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901155411326",
+  "barcode_printed": "8901155411326",
+  "barcode_format": "EAN-13",
+  "name": "Gits ready meals Chickpea Masala",
+  "brand": "gits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 285,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "water, chickpeas, onion, tomato sunflower oil, garlic, ginger, salt, chilies, cumin coriander seed, dry mango powder, turmeric, carom seeds, fenugreek leaves, red chili powder, clove, star anise, green cardamom, nutmeg, black cardamom, bay leaves, may contain: milk, wheat, tree nuts (almonds pistachios, cashews), mustard, sesame",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901155411326",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

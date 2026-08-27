@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906048500835",
+  "barcode_printed": "8906048500835",
+  "barcode_format": "EAN-13",
+  "name": "Protinex Original",
+  "brand": "protinex",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 354,
+        "protein_g": 34,
+        "carbohydrate_g": 53.3,
+        "sugars_g": 32,
+        "fat_g": 0.5,
+        "saturated_fat_g": 0.42,
+        "sodium_mg": 245
+      }
+    }
+  ],
+  "ingredients_raw": "Peanut protein hydrolysate (56%), sugar, malt extract, maltodextrin, minerals (tribasic calcium phosphate, ferrous gluconate), choline bitartrate vitamins (ascorbic acid, niacinamide, d-alpha tocopheryl acetate, phytomenadione, retinyl palmitate, thiamine mononitrate, ergocalciferol, riboflavin, pantothenol, pyridoxine hydrochloride, folic acid, cyanocobalamin, d-biotin).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906048500835",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

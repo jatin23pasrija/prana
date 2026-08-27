@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906013371279",
+  "barcode_printed": "8906013371279",
+  "barcode_format": "EAN-13",
+  "name": "Gur Rewari",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 800,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 446.51,
+        "protein_g": 6.98,
+        "carbohydrate_g": 53.49,
+        "sugars_g": 34.88,
+        "fat_g": 25.58,
+        "saturated_fat_g": 9.3,
+        "fibre_g": 2.33,
+        "sodium_mg": 348.84
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906013371279",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

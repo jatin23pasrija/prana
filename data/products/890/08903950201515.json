@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08903950201515",
+  "barcode_printed": "8903950201515",
+  "barcode_format": "EAN-13",
+  "name": "Madagascar Vanilla Ice Cream",
+  "brand": "lazza",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 263,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Sugar, Milk Solids, Milk Fat, Milk (Derived from cow's milk), Liquid Glucose, Permitted Stabilizers (E412, E407, E466), Emulsifiers E471 (VEGETARIAN), natural vanilla flavouring substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903950201515",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

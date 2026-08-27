@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005618580",
+  "barcode_printed": "8906005618580",
+  "barcode_format": "EAN-13",
+  "name": "rich butter fruit cake",
+  "brand": "winkies",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 428.6,
+        "protein_g": 5.2,
+        "carbohydrate_g": 46.4,
+        "sugars_g": 30.7,
+        "fat_g": 24.7,
+        "saturated_fat_g": 7.2,
+        "trans_fat_g": 0.02
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005618580",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512915603",
+  "barcode_printed": "8901512915603",
+  "barcode_format": "EAN-13",
+  "name": "Nutrify Honey Roasted Oats",
+  "brand": "sundrop",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "40 g",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 186.8,
+        "protein_g": 3.2,
+        "carbohydrate_g": 27.2,
+        "sugars_g": 10.2,
+        "fat_g": 7.7,
+        "saturated_fat_g": 2.6,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 2.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512915603",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

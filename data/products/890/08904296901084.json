@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904296901084",
+  "barcode_printed": "8904296901084",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Vermicelli",
+  "brand": "fabsta",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 403.5,
+        "protein_g": 10.38,
+        "carbohydrate_g": 85.08,
+        "sugars_g": 3.64,
+        "fat_g": 1.43,
+        "saturated_fat_g": 0.29,
+        "fibre_g": 4.42,
+        "sodium_mg": 1.83
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904296901084",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

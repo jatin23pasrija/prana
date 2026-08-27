@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906071270293",
+  "barcode_printed": "8906071270293",
+  "barcode_format": "EAN-13",
+  "name": "Jowar Kichadi Mix",
+  "brand": "vasundhara",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 331,
+        "protein_g": 12.3,
+        "carbohydrate_g": 60.9,
+        "fat_g": 1.9
+      }
+    }
+  ],
+  "ingredients_raw": "Jowar, Ghee, Jeera, Cloves, Cinnamon Biryani Leef, Green Chilli, Curry Leaves, Ginger, Green Peas, Moongdal, Pink Salt, Jowar Rawa, Cashew Termaric, Garam Masala",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906071270293",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

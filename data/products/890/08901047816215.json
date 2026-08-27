@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901047816215",
+  "barcode_printed": "8901047816215",
+  "barcode_format": "EAN-13",
+  "name": "Kohinoor Bombay Potatoes 300G",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "expernence, epore budellelous ran are made with the finest ingredients and are easily prep For a full list of products and other recipe ideas, please 150 recipes INGREDIENTS Water,Potato (14.56%), Tomato (9.78%), Onion, Sunflower Oil, Salt, Tamarind, Coriander Leaves, Coriander Powder, Cumin (0.37%), Mustard Seed (MUSTARD) (0.30%), Green Chilli, Ginger, Garlic, Curry Leaves, Garam Masala, Turmeric Powder and Red Chilli Powder. Allergy Advice! For allergens, see ingredients in BOLD font. May also contain Peanuts, Nuts, Wheat, Gluten",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901047816215",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

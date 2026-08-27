@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010502232",
+  "barcode_printed": "8906010502232",
+  "barcode_format": "EAN-13",
+  "name": "Balaji wafers panjabi tadka",
+  "brand": "balaji",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 608,
+        "energy_kj": 2546,
+        "protein_g": 7.7,
+        "carbohydrate_g": 42.3,
+        "sugars_g": 2,
+        "fat_g": 43.9,
+        "saturated_fat_g": 20.7,
+        "trans_fat_g": 0.1,
+        "fibre_g": 6.5,
+        "sodium_mg": 1033
+      }
+    }
+  ],
+  "ingredients_raw": "EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), POTATO FLAKES (23%), CHICKPEA FLOUR (19%), MOTH BEAN FLOUR, STARCH, BLACK SALT, EDIBLE COMMON SALT, SUGAR, DEHYDRATED VEGETABLE POWDER ONION GARLIC, SPICES & CONDIMENTS (CHILLI, DRY MANGO, CUMIN, CORIANDER TURMERIC, NUTMEG, MACE), MILK SOLIDS (WHEY) (0.06%), HYDROLYZED VEGETABLE PROTEIN (SOYA), ACIDITY REGULATOR (INS 296, INS 330 ANTICAKING AGENT (INS 551), FLAVOUR ENHANCER (INS 627, INS 631 TURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES (CHILLI, CUMIN",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010502232",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

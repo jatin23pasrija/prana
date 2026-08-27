@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063255280",
+  "barcode_printed": "8904063255280",
+  "barcode_format": "EAN-13",
+  "name": "Lite Mixture",
+  "brand": "haldiram",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 501.6,
+        "protein_g": 7.82,
+        "carbohydrate_g": 54,
+        "sugars_g": 2,
+        "fat_g": 28,
+        "saturated_fat_g": 11.2,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 680
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063255280",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906032090137",
+  "barcode_printed": "8906032090137",
+  "barcode_format": "EAN-13",
+  "name": "Softy Pav",
+  "brand": "softy",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 240,
+        "protein_g": 7.5,
+        "carbohydrate_g": 48,
+        "fat_g": 2.1,
+        "saturated_fat_g": 0.8
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flour (60%), Water, Added Sugar (5%). Yeast, lodised Salt, Refined Vegetable Oil (1.5%), Soya Flour, Gluten, Permitted Emulsifiers [INS 481 (i)], Class II Preservative [INS 281], Flour Improvers [INS 1100] & Anti Oxidants",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906032090137",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

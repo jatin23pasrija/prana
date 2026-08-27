@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906078725307",
+  "barcode_printed": "8906078725307",
+  "barcode_format": "EAN-13",
+  "name": "Tikha mitha mix",
+  "brand": "gopal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "EDIBLE VEGETABLE OIL (REFINED PALMOLEIN OIL), BENGAL GRAM FLOUR (BESAN) (18%), CORN FLAKES (17%), GREEN PEAS (5%). CHANA DAL (5%), SUGAR (4.5%), REFINED WHEAT FLOUR (MAIDA). WHOLE GREEN MOONG (2.5%), EDIBLE COMMON SALT (BLACK SALT), SESAME SEEDS, SPICES & CONDIMENTS (TURMERIC, CLOVE, CINNAMON, STAR ANISE, CORIANDER SEEDS, FENNEL, RED CHILLI (0.6%), DRY MANGO POWDER, ASAFOETIDA) AND RAISING AGENT (INS 500(11))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906078725307",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

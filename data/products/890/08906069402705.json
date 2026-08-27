@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069402705",
+  "barcode_printed": "8906069402705",
+  "barcode_format": "EAN-13",
+  "name": "VEEBA CLASSIC WITH EGG",
+  "brand": "veeba",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 480.98,
+        "protein_g": 2.49,
+        "carbohydrate_g": 8.81,
+        "sugars_g": 5.18,
+        "fat_g": 48.42,
+        "saturated_fat_g": 8.41,
+        "sodium_mg": 840
+      }
+    }
+  ],
+  "ingredients_raw": "VEEBA CLASSIC MAYONNAISE WITH EGG EMULSIFIED SAUCE 32% less fat than Popular Mayonnais NO Classic is only a fancy came and hue nature does not represent",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069402705",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

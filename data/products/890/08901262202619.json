@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262202619",
+  "barcode_printed": "8901262202619",
+  "barcode_format": "EAN-13",
+  "name": "Amul Low Fat Yogurt",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 41,
+        "protein_g": 4.12,
+        "carbohydrate_g": 4.71,
+        "sugars_g": 4.71,
+        "fat_g": 0.29,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262202619",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

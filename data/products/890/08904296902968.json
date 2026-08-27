@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08904296902968",
+  "barcode_printed": "8904296902968",
+  "barcode_format": "EAN-13",
+  "name": "Fabsta Muesli Fruit N' Nut",
+  "brand": "fabsta",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 392.59,
+        "protein_g": 7.33,
+        "carbohydrate_g": 81.66,
+        "sugars_g": 22.07,
+        "fat_g": 4.07,
+        "saturated_fat_g": 0.5,
+        "sodium_mg": 261.14
+      }
+    }
+  ],
+  "ingredients_raw": "Multigrain Flakes (64.78%) [Wheat Flakes MANUFACTURED E 29.75%) (Wheat, Sugar, lodised Salt, Malt Extract, Emulsifier [INS 22 Antioxidant (INS 320)), Corn Flakes (12.6%) (Corn Grits, Sugar, lodised Salt, Malt Extract, Emulsifier [INS 322 (1)], Antioxidant (INS 320)), Rice Flakes (9.43%) (Rice, lodised Salt), Bed Oats (7%), Rolled Barley (6%)], Dehydrated Candied Fruits & Nuts (22%) [Dehydrated Papaya (9%) (Papaya, Sugar, Preservative (INS 220)), Dehydrated Pineapple (4%), Dehydrated Apple (3%), Almonds (3%), Raisin (3%)], Strawberry Crush (6%) [Sugar, Strawberry Pulp, Water, Acidity Regulator (INS 330), Thickener (INS 440), Colours (INS 122, INS 124, INS 127), Natural and Nature Identical Flavour (Strawberry), Preservative (INS 224)], Sugar, Invert Syrup, Pineapple Crush (1%) [Acidity Regulator (INS 330), Thickener (INS 440), Colour (INS 102), Preservative (INS 224)], Honey, Natural & Nature Identical Flavour (Strawberry), Antioxidant (INS 320)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904296902968",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

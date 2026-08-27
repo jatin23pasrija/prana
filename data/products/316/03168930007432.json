@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "03168930007432",
+  "barcode_printed": "3168930007432",
+  "barcode_format": "EAN-13",
+  "name": "Chips barbecue",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 130,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "potatoes 61%, sunflower oil, rapeseed oil, flavour (sugar, aroma ( soy ), bread crumbs ( wheat ), flavour enhancer (sodium glutamate), paprika, onion powder, tomato powder, garlic powder, corrector of acidity (citric acid, malic acid), colour(paprika extract), smoke flavourings), salt,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3168930007432",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

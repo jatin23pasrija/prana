@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904406126413",
+  "barcode_printed": "8904406126413",
+  "barcode_format": "EAN-13",
+  "name": "tomato sauce",
+  "brand": "anu-s-sauce",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Tomato Pulp, Vegetable Pulp, Sugar, Salt, Garlic Powder, Acetic Acid(260 Additives (412), Spices and Contiment Extr and Preservative(211) CONTAINS PERMITTED CLASS II PRESERVATIVES 3",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904406126413",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

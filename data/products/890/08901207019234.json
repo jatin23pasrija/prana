@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207019234",
+  "barcode_printed": "8901207019234",
+  "barcode_format": "EAN-13",
+  "name": "Hajmola",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Powders of Shveta Jiraka (Cuminum cyminum, Fr. 15.000 mg, Pippali (Piper longum, Fr.) 5.000 mg, Dhanayaka (Coriandrum sativum, Fr.) 5.000 mg Mancha (Piper nigrum, Fr.) 5.000 mg. Samudra Lavana 15.000 mg Sawarchala Lavana 25.000 mg; and Extractives derived from: Chincha (Tamarindus indica, Fr.) 62.500 mg & Dadima (Punica granatum, Sd. 25.000 mg; and Excipients qs. Preservative: Sodium benzoate IP",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207019234",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

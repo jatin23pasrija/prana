@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "09909133407674",
+  "barcode_printed": "9909133407674",
+  "barcode_format": "EAN-13",
+  "name": "Man Matters Shilajit Gummies",
+  "brand": "man-matters",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Shilajit (Asphaltum punjabianum) resin 400mg, KSM-66@ Ashwagandha (Withania somnifera) Extract 40 mg, Ginger (Zingiber officinale) Extract 10 mg, Black Musli (Curculigo orchioides) Extract 6 mg, Gokshura (Tribulus Terrestris) Extract 6mg, Kaunch (Mucuna Pruriens) Extract 6 mg, Akarkara (Anacyclus pyrethrum) Extract 4 mg, Black Pepper (Piper nigrum) Extract 2 mg. Excipients: Chicory Root Inulin (Prebiotic), Pectin, Citric Acid, Natural Flavor (Tamarind), Maize Starch, Guar Gum",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9909133407674",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

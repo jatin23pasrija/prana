@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08934588232114",
+  "barcode_printed": "8934588232114",
+  "barcode_format": "EAN-13",
+  "name": "Sting Energy",
+  "brand": "sting",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 320,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "320ml",
+        "quantity": {
+          "value": 320,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 250.2,
+        "energy_kj": 1046.84,
+        "protein_g": 0,
+        "carbohydrate_g": 62.5,
+        "sugars_g": 62.5,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 101.8
+      }
+    }
+  ],
+  "ingredients_raw": "Nước bão hòa CO₂, đường HFCS, đường, chất điều chỉnh độ axit (330, 331()), hương dâu giống tự nhiên, hỗn hợp premix (Taurine, Caffeine (145 - 255 mgll), Inositol, các Vitamin: B3, B6, B12), chất chống oxy hóa (452(j), 385), chất bảo quản (202, 211), màu tổng hợp (Allura red AC 129), bột chiết xuất hồng sâm (40 mg/L).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8934588232114",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

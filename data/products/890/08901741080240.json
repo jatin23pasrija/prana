@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901741080240",
+  "barcode_printed": "8901741080240",
+  "barcode_format": "EAN-13",
+  "name": "Mango beverage",
+  "brand": "rio",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Purified Water, Sugar, Mango Pulp, Acidity Regulators (INS 330, INS 331), Stabilisers (INS 440, INS 466), Anti-oxidant (INS 300). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 110) AND ADDED FLAVOURS (Natural & Nature Identical Flavouring Substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901741080240",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

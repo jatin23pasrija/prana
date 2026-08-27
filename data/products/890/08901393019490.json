@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393019490",
+  "barcode_printed": "8901393019490",
+  "barcode_format": "EAN-13",
+  "name": "Chupa Chups Tubes Mini",
+  "brand": "chupa-chups",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 371,
+        "protein_g": 1.9,
+        "carbohydrate_g": 84.3,
+        "sugars_g": 63.2,
+        "saturated_fat_g": 1.5,
+        "sodium_mg": 221
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Liquid Glucose, Refined Wheat Flour (Maida), Invert Sugar, Acidity Regulator INS 296, INS 330, INS 350 (ii), Thickeners (INS 1405, INS 415) Hydrogenated Vegetable Oil, Humectant (INS 422), Flavours (Nature-Identical & Artificial (Pineapple) Colours (INS 122, INS 102, INS 110, INS 133). Contains Wheat (Gluten) MAY CONTAIN ALL OR SOME OF THESE FLAVOUR",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393019490",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

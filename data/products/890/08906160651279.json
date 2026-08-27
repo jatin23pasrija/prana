@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906160651279",
+  "barcode_printed": "8906160651279",
+  "barcode_format": "EAN-13",
+  "name": "Makhana - Himalayan Salt And Pepper",
+  "brand": "mr-makhana",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Makhana (Popped Lotus Seeds) 70%, Olive Oil, Seasoning [Black Pepper, Pink Sall, Milk Solid, Maltodextrin, Roasted Peanuts Powder, Black Pepper Oleoresin].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906160651279",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

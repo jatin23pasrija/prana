@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725111670",
+  "barcode_printed": "8901725111670",
+  "barcode_format": "EAN-13",
+  "name": "Tricolor pasta",
+  "brand": "sunfeast",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "PASTA: WHEAT SEMOLINA (99.3%), PAIKA EXTRACT POWDER (0.4%) AND SPINACH EXTR 90VDER (0.3%). A PASTA SAUCEMAKER: &quot;MIXED SPICES & HERBS, MI SOLIDS, IODIZED SALT, SUGAR, DEHYDRATED VEGETABLES 10.7%) BEANS, CABBAGE AND CARROT (3.6%)], HYDROLYZED VEGETABLE PROTEIN (HYDROLYZED GROUNDNUT PROTEIN, MALTODEXTRIN), STARCH, WHER FLOUR (ATTA), FAT POWDER, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, REFINED PALM OIL, FLAVOUR ENHANCERS (INS 627, INS 631), ANTICAKING AGENT (INS 551), THICKENER (INS 415), ACIDITY REGULATOR (INS 330) AND YEAST EXTRACT. FUSED AS FLAVOURING AGENTS. CONTAINS ONION, GARLIC. ALLERGENS: CONTAINS MILK, NUT, SOY, WHEAT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725111670",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

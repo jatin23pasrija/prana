@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000106055",
+  "barcode_printed": "8908000106055",
+  "barcode_format": "EAN-13",
+  "name": "Indiras ragi huri hittu",
+  "brand": "indira-foods-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 432.5,
+        "protein_g": 10,
+        "carbohydrate_g": 77.5,
+        "sugars_g": 25,
+        "fat_g": 8.75,
+        "saturated_fat_g": 5,
+        "fibre_g": 5,
+        "sodium_mg": 55
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000106055",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

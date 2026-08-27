@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901138711863",
+  "barcode_printed": "8901138711863",
+  "barcode_format": "EAN-13",
+  "name": "8901138711863",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "sodium palmate, sodium palm kernelate, fragrance, glycerin, aqua, ci 77288, tetra sodium edta, melia azadirachta seed oil, tetradibutyl pentaerithrityl hydroxyhydrocinnamate, citrus medica limonum peel oil, curcuma longa root oil, for external use only hypoallergenic dermatologically tested soap base made from vegetable origin,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901138711863",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

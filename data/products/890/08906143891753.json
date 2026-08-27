@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08906143891753",
+  "barcode_printed": "8906143891753",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein Cold Coffee",
+  "brand": "the-whole-truth",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 210,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 scoop (35 g)",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 134,
+        "protein_g": 24.8,
+        "carbohydrate_g": 6.3,
+        "sugars_g": 4,
+        "fat_g": 1,
+        "saturated_fat_g": 0.4,
+        "fibre_g": 1.6,
+        "sodium_mg": 59.6
+      }
+    }
+  ],
+  "ingredients_raw": "whey isolate, whey concentrate, coffee, dates, milk, monk fruit juice concentrate, bromelain and sunflower lecithin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906143891753",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

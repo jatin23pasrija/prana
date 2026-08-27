@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906078720180",
+  "barcode_printed": "8906078720180",
+  "barcode_format": "EAN-13",
+  "name": "Nylon Sev 250 G",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50g",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 272.5,
+        "protein_g": 8.7,
+        "carbohydrate_g": 17.6,
+        "sugars_g": 2.5,
+        "fat_g": 18,
+        "saturated_fat_g": 8,
+        "fibre_g": 3.1,
+        "sodium_mg": 251
+      }
+    }
+  ],
+  "ingredients_raw": "Gram Flour, Vegetable Oil (Palmolein Oil), Salt, Asafoetida, Raising Agent (500), Flavour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906078720180",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

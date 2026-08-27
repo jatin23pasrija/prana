@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906105617933",
+  "barcode_printed": "8906105617933",
+  "barcode_format": "EAN-13",
+  "name": "Omega 3",
+  "brand": "wow-life-science",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1.35 g",
+        "quantity": {
+          "value": 1.35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 12.3,
+        "protein_g": 0.3,
+        "carbohydrate_g": 0.3,
+        "sugars_g": 0,
+        "fat_g": 1.1,
+        "saturated_fat_g": 0.1,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Fish Oil (Anchovies and Sardines), Gelatin, Glycerine (INS 422) and Sorbitol (INS 420i)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906105617933",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

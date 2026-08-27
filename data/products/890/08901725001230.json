@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725001230",
+  "barcode_printed": "8901725001230",
+  "barcode_format": "EAN-13",
+  "name": "Sunfeast mango smoothie btl",
+  "brand": "sunfeast",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Milk Solids (33.5%), Sugar, Diced Totapari Mango (4.06%), Mandarine Pulp (4.06%), Alphonso Mango Pulp (2.18%), Totapari Mango Pulp (2.18%), Nata De Coco, Stabilizers (INS 466, INS 418), Acidity Regulator (INS 330), Nature Identical Flavouring Substances, Artificial Flavouring Substances (Mango), Antioxidant (INS 300), Colours (INS 110, INS 102) and Vitamins. Contains Milk, Nut. May Contain Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725001230",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906173702371",
+  "barcode_printed": "8906173702371",
+  "barcode_format": "EAN-13",
+  "name": "Whey PROTEIN POWDER",
+  "brand": "big-muscles-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "37 g",
+        "quantity": {
+          "value": 37,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 136,
+        "protein_g": 25,
+        "carbohydrate_g": 5,
+        "fat_g": 1.8,
+        "saturated_fat_g": 1.2,
+        "trans_fat_g": 0,
+        "sodium_mg": 166
+      }
+    }
+  ],
+  "ingredients_raw": "Protein Blend [85%] [Whey Protein isolate, Whey Peptides. Taurine BCAA Blend (Leucine, Isoleucine and Valine), Natural & Nature Identical Flavour, Stabilizer (Cellulose Gum Kanthan Gum-INS 415 and Carrageenan-INS 407), Sweetener (Sucralose Concentrate]. L-Glutamine, L-Leucine, L-Arginine, L - and Acesulfame-Potassium-INS 950), Salt and ProHydrolase Vinay Protein - INS 995 Enzyme Technology (Protease).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906173702371",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

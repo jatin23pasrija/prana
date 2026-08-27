@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005469162",
+  "barcode_printed": "8908005469162",
+  "barcode_format": "EAN-13",
+  "name": "Honey Twigs Vanilla Infused Honey",
+  "brand": "honey-twigs",
+  "category": "honey",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 240,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "8 g",
+        "quantity": {
+          "value": 8,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 26.11,
+        "protein_g": 0,
+        "carbohydrate_g": 6.53,
+        "sugars_g": 6.21,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 1.51
+      }
+    }
+  ],
+  "ingredients_raw": "Multifloral Honey (97%), Natural Vanilla Extract (2%), Vanilla pod powder (1%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005469162",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

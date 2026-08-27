@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010770662",
+  "barcode_printed": "8906010770662",
+  "barcode_format": "EAN-13",
+  "name": "Jayanti Orange",
+  "brand": "jayanti",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 160,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 52.76,
+        "protein_g": 0,
+        "carbohydrate_g": 13.19,
+        "sugars_g": 11.08,
+        "fat_g": 0,
+        "sodium_mg": 13.12
+      }
+    }
+  ],
+  "ingredients_raw": "PURIFIED WATER, SUGAR, CARBON DIOXIDE (E290), ACIDITY REGULATOR (E330, E331), STABILIZERS (E414, E445), AND PERMITTED CLASS II PERSERVATIVE (E211) CONTAINS PERMITTED SYNTHETIC FOOD COLOR (E110), NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES. CONTAINS NATURAL ORANGE OIL (0.0014%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010770662",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

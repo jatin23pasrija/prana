@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904103331622",
+  "barcode_printed": "8904103331622",
+  "barcode_format": "EAN-13",
+  "name": "Gas-O-Fast Lemon",
+  "brand": "mankind",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Svarksara (Shudh), Nimbukamlam (Shushkam), Contains Permitted Sweetener, Saccharin Sodium, Permitted colours: Brilliant Blue FCF, Tartrazine & Permitted Flavour (Lemon dry)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904103331622",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

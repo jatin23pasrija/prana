@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904256731744",
+  "barcode_printed": "8904256731744",
+  "barcode_format": "EAN-13",
+  "name": "Precia 5 Mix Vegetables",
+  "brand": "precia",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 65.6,
+        "protein_g": 3.6,
+        "carbohydrate_g": 11.6,
+        "sugars_g": 0,
+        "fat_g": 0.5,
+        "saturated_fat_g": 0.3,
+        "trans_fat_g": 0,
+        "fibre_g": 4.2,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Green peas, Cauliflower. Carrot, Potato & French beans.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904256731744",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

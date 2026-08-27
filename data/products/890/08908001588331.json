@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001588331",
+  "barcode_printed": "8908001588331",
+  "barcode_format": "EAN-13",
+  "name": "Idly and Dosa Batter",
+  "brand": "asal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 150,
+        "protein_g": 4.76,
+        "carbohydrate_g": 29,
+        "sugars_g": 0,
+        "fat_g": 1.19,
+        "saturated_fat_g": 0.46,
+        "sodium_mg": 89
+      }
+    }
+  ],
+  "ingredients_raw": "RO-purified Water, Rice, Urad Dal, Fenugreek and lodized Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001588331",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

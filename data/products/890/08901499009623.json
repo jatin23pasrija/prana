@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499009623",
+  "barcode_printed": "8901499009623",
+  "barcode_format": "EAN-13",
+  "name": "Chocos Fills",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 432,
+        "protein_g": 7,
+        "carbohydrate_g": 72,
+        "sugars_g": 30.5,
+        "fat_g": 14,
+        "saturated_fat_g": 4.8,
+        "fibre_g": 5,
+        "sodium_mg": 300
+      }
+    }
+  ],
+  "ingredients_raw": "Multi Grain Flour Mix (Rice Flour, Whole Oats Flour, Whole Wheat Flour), Choco Cream (Sugar, Edible Vegetable Oil (Sunflower Oil, Palm Oil), Cocoa Solids (63%), Milk Solids, Emulsifier (INS 322(i))). Sugar, Cocoa Powder (5.6%), Iodized Salt, Vitamins",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499009623",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

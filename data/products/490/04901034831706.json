@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "04901034831706",
+  "barcode_printed": "4901034831706",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Fruit Jam",
+  "brand": "kissan",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 285,
+        "protein_g": 0.3,
+        "carbohydrate_g": 70.5,
+        "sugars_g": 68.1,
+        "fibre_g": 0.8
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, MIXED FRUIT PULP BLEND - 60% (PAPAYA PULP, PEAR PULP, APPLE JUICE, BANANA PULP PINEAPPLE JUICE, ORANGE JUICE, MANGO PULP, GRAPE JUICE), ACIDITY REGULATOR-E330, THICKENER-E440, 10DISED SALT, VITAMINS & MINERAL, PRESERVATIVE-E202, NATURAL FLAVOURING SUBSTANCES, FOOD COLOUR-E122 NUMBER OF SERVES PER PACK: APPROX. 25, PER SERVE: 20 g (1 Tbsp)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4901034831706",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

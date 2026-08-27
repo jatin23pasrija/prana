@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "00075856000665",
+  "barcode_printed": "0075856000665",
+  "barcode_format": "EAN-13",
+  "name": "Klondike bar original",
+  "brand": "klondike",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 282.35,
+        "protein_g": 3.53,
+        "carbohydrate_g": 32.94,
+        "sugars_g": 27.06,
+        "fat_g": 16.47,
+        "saturated_fat_g": 12.94,
+        "fibre_g": 1.18,
+        "sodium_mg": 82.35
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0075856000665",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335601005",
+  "barcode_printed": "8904335601005",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy Dark Chocolate Peanut Butter",
+  "brand": "yoga-bar",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 620,
+        "protein_g": 21.5,
+        "carbohydrate_g": 30.5,
+        "sugars_g": 14.3,
+        "fat_g": 47,
+        "saturated_fat_g": 13.7,
+        "trans_fat_g": 0,
+        "sodium_mg": 320
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Peanut 72% (Peanut Butter and Peanut Chunks), Dark Chocolate Compound 20% (Sugar, Vegetable Palm Oil, Cocoa Solids & Emulsifier (Lecithin, Polyglycerol Polyricinoleate), Natural Flavours), Sugar, Emulsifier and Stabiliser (Mono & diglycerides of fatty acids), Salt, Hydrogenated Soyabean Oil",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335601005",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08904359401841",
+  "barcode_printed": "8904359401841",
+  "barcode_format": "EAN-13",
+  "name": "Banana chips Peri-Peri",
+  "brand": "ol-tymes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 144,
+        "protein_g": 0.7,
+        "carbohydrate_g": 15.3,
+        "sugars_g": 5.9,
+        "fat_g": 8.9,
+        "saturated_fat_g": 6.4,
+        "fibre_g": 0.88
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904359401841",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

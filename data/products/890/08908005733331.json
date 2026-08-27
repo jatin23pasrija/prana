@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005733331",
+  "barcode_printed": "8908005733331",
+  "barcode_format": "EAN-13",
+  "name": "Kesar Kulfi",
+  "brand": "whitecub",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 181,
+        "energy_kj": 758,
+        "protein_g": 3.7,
+        "carbohydrate_g": 27.35,
+        "sugars_g": 20.62,
+        "fat_g": 14.61,
+        "saturated_fat_g": 5,
+        "trans_fat_g": 0,
+        "fibre_g": 1.42,
+        "sodium_mg": 1.4
+      }
+    }
+  ],
+  "ingredients_raw": "Coconut Cream, Soy Milk, Sugar, Cardamom Powder, Saffron, Permitted Emulsifier, Stabilizers, Nature-Identical Flavour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005733331",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

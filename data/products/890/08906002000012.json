@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002000012",
+  "barcode_printed": "8906002000012",
+  "barcode_format": "EAN-13",
+  "name": "Funfoods Classic Egg Mayonnaise",
+  "brand": "dr-oetker",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 618,
+        "protein_g": 2.4,
+        "carbohydrate_g": 9.4,
+        "sugars_g": 5.6,
+        "fat_g": 63.4,
+        "saturated_fat_g": 11.3,
+        "trans_fat_g": 0,
+        "sodium_mg": 611.3
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Tomato Paste (26%), Sugar, Refined Soyabean Oil, Milk Solids, Onions, lodised Salt, Vegetables (2.9%), Mixed Spices, Cheese (1%), Acidity Regulators (NS260, INS330), Herb, Antioxidant (INS319).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002000012",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

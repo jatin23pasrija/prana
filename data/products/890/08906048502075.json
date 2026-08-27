@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906048502075",
+  "barcode_printed": "8906048502075",
+  "barcode_format": "EAN-13",
+  "name": "Aptamil Gold 2",
+  "brand": "danone",
+  "category": "baby-food",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk Solids, Demineralized Whey and Whey Solids, Edible Vegetable Oils (Corn Oil and Canola Oil), Docosahexaenoic Acid Powder-0.8% (Schizochytrium sp.oil), Minerals, Arachidonic Acid Powder-0.68% (Mortierella Alpina Oil), Choline, Emulsifier (Soy Lecithin), Acidity Regulator (Sodium Hydroxide), Nucleotides Premix-0.027%, Vitamins, Antioxidant (Mixed Tocopherols). Taurine, L-Carnitine, Inositol, Beta Carotene.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906048502075",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

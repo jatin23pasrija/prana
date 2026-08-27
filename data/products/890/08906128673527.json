@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "08906128673527",
+  "barcode_printed": "8906128673527",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein",
+  "brand": "food-strong",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "34g",
+        "quantity": {
+          "value": 34,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 126,
+        "protein_g": 26,
+        "carbohydrate_g": 2.6,
+        "sugars_g": 2,
+        "fat_g": 1.3,
+        "saturated_fat_g": 0.8,
+        "sodium_mg": 73
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Concentrate, Whey Protein Isolate, Cocoa Powder (5%), Almonds (3%) ,Nature Identical Flavour (Chocolate) ,Himalayan Pink Salt , Curcumin (Turmeric Extract) ,Bromelain (From Pineapples Stems), Papain (From Papaya) ,Sucralose, Stevia (Less than 0.5%) Sunflower Lecithin",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906128673527",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030980053",
+  "barcode_printed": "8901030980053",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Butter Crunchy",
+  "brand": "kissan",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Per Serve (30g) kcal feat 184 9% MKTD. BY: HINDUSTAN UNILEVER LTD. (HUL), UNILEVER HOUSE, B. D. SAWANT MARG, CHAKALA, ANDHERI (E), MUMBAI 400 099, MAHARASHTRA. MFG. BY: BONVILLE FOODS PVT. LTD., S.R. No.-71 NEAR SADBHAV COTTON IND, LAJAI JADESHVER ROAD, AT. HADMATIYA (PALANPIRL TA. TANKARA, DIST. MORBI-363 650, (GUJ.). FSSAI LIC. No. 10018021003055. KISSAN IS REGISTERED TRADEMARK OF HINDUSTAN UNILEVER LIMITED. HUL 2020 PEANUT BUTTER INGREDIENTS: ROASTED PEANUTS (91%), SUGAR, HYDROGENATED RAPESEED OIL (TO PREVENT OIL SEPARATION, IODISED SALT. CONTAIN PEANUTS. STORE IN A COOL, DRY & HYGIENIC PLACE AWAY FROM DIRECT SUNLIGHT AFTER OPENING, KEEP REFRIGERATED. IT IS NATURAL TO HAVE SOME OIL SEPARATION ON TOP, STIR IT WELL BEFORE SCOOPING KISSAN PEANUT BUTTER, WITH 100% REAL PEANUTS HANDPICKED FROM THE FARMS OF GUJARAT, IS A RICH SOURCE OF PROTEIN. SCAN HERE KISSE kissan SE Of RDA NET WEIGHT: 350 g fra N D Pe qu of",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030980053",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

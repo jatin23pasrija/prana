@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725198237",
+  "barcode_printed": "8901725198237",
+  "barcode_format": "EAN-13",
+  "name": "Mad Angles Tomato Madness",
+  "brand": "bingo",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kj": 541,
+        "protein_g": 8,
+        "carbohydrate_g": 55.4,
+        "sugars_g": 5.3,
+        "fat_g": 31.9,
+        "saturated_fat_g": 14.5,
+        "trans_fat_g": 0.1
+      }
+    }
+  ],
+  "ingredients_raw": "RICE GRITS, SEASONING MIX [REFINED PALMOLEIN, REFINED SUGAR IODISED SALT, TOMATO POWDER (0.7%), SPICES & CONDIMENTS, MALTODEXTRİN,ONION POWDER, GARLIC POWDER, ACIDITY REGULATORS (INS 330, INS 296),MILK SOLIDS\\, ANTICAKING AGENT (INS 551),YEAST EXTRACT & FLAVOUR ENHANCER (INS 627) REFINED PALMOLEİN, CORN GRITS, GRAM GRITS AND ACIDITY REGULATOR (INS 500(ii). USED AS NATURAL FLAVOURING AGENT. CONTAINS ADDED FLAVOUR(S) (NATURAL FLAVOURS & NATURAL FLAVOURING SUBSTANCES AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725198237",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

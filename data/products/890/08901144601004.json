@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08901144601004",
+  "barcode_printed": "8901144601004",
+  "barcode_format": "EAN-13",
+  "name": "Brown basmati rice",
+  "brand": "tilda",
+  "category": "rice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (60 g)",
+        "quantity": {
+          "value": 60,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 211,
+        "energy_kj": 883,
+        "protein_g": 5.2,
+        "carbohydrate_g": 42.7,
+        "sugars_g": 0.7,
+        "fat_g": 1.7,
+        "saturated_fat_g": 0.4,
+        "fibre_g": 2,
+        "sodium_mg": 12
+      }
+    }
+  ],
+  "ingredients_raw": "Tilda BROWN BASMATI أرز بسمتي بني WHOLEGRAIN الحبوب الكاملة NATURALLY GLUTEN FREE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901144601004",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

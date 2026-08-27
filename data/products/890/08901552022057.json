@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552022057",
+  "barcode_printed": "8901552022057",
+  "barcode_format": "EAN-13",
+  "name": "Achari Aloo",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283.49523125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Zutaten: Kartoffeln (37%), Wasser, Zwiebeln, Sonnenblumenöl, Gewürze (Sternanis, Kümmelsamen, Nelken, Salz, Schwarzer Kardamom, Schwarzer Pfeffer, Koriandersamen, Kreuzkümmel, Ingwerpulver, Fenchelsamen, schwarzes Salz, rotes Chilipulver, Mango-Pulver, Schwarzkümmel, Senf, Bockshornkleesamen, Asant (Weizen), Zitronensäure, Königskümmel, Granatapfelkernen, Muskatnuß-Pulver), Knoblauch, Salz, Rote Chilis, Ingwer, grüne Chilis, Korianderblätter, Kurkumapulver.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552022057",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

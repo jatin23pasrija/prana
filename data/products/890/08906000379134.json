@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906000379134",
+  "barcode_printed": "8906000379134",
+  "barcode_format": "EAN-13",
+  "name": "Orange",
+  "brand": "fanta",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 56,
+        "protein_g": 0,
+        "carbohydrate_g": 14,
+        "sugars_g": 13.7,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 22.3
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (330) STABILIZERS (414, 445), PRESERVATIVE (211), COLOUR (110) FLAVOURS NATURAL & NATURE-IDENTICAL FLAVORING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906000379134",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08906142021182",
+  "barcode_printed": "8906142021182",
+  "barcode_format": "EAN-13",
+  "name": "Super garcinia",
+  "brand": "plix",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 11.35,
+        "protein_g": 2.3,
+        "carbohydrate_g": 17.2,
+        "fat_g": 0.5,
+        "fibre_g": 1.24
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906142021182",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

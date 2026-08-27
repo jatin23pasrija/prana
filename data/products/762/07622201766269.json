@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201766269",
+  "barcode_printed": "7622201766269",
+  "barcode_format": "EAN-13",
+  "name": "Bournvita",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 387,
+        "energy_kj": 1620,
+        "protein_g": 7,
+        "carbohydrate_g": 86.7,
+        "sugars_g": 49.8,
+        "fat_g": 1.8,
+        "saturated_fat_g": 0.9,
+        "fibre_g": 5,
+        "sodium_mg": 175
+      }
+    }
+  ],
+  "ingredients_raw": "Cereal Extract 56%* (Barley, Wheat), Sugar, Cocoa Solids, Colour (150c), Minerals, Wheat Gluten, Liquid Glucose, Maltodextrin, Emulsifiers (322, 471), Milk Solids, Vitamins, Raising Agent (500(ii)), Iodised Salt, Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201766269",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

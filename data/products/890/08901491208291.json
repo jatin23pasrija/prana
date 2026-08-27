@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491208291",
+  "barcode_printed": "8901491208291",
+  "barcode_format": "EAN-13",
+  "name": "Bikaneri Bhujia",
+  "brand": "kurkure",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 18,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 627,
+        "protein_g": 11.8,
+        "carbohydrate_g": 33.5,
+        "sugars_g": 1,
+        "fat_g": 49.5,
+        "saturated_fat_g": 11.7,
+        "sodium_mg": 1038.35
+      }
+    }
+  ],
+  "ingredients_raw": "Edible Vegetable Oil (Rice Brand Oil), Moth Dal Flour (44%), Besan, Salt, *Spices & Condiments(Chilli Powder, Garam Masala, Clove Powder, Black Pepper Seeds and Powder, Coriander Seeds and Powder, Ajwai Seeds and Powder, Fennel Seeds and Powder",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491208291",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

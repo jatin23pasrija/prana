@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08902246003710",
+  "barcode_printed": "8902246003710",
+  "barcode_format": "EAN-13",
+  "name": "Budueisen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "पू S LAGER BEER MANUFACTURED BY: ANHEUSER BUSCH INBEV INDIA LIMITED, UNIT: PALS, L-5, MIDC, WALUJ, CHHATRAPATI SAMBHAJI NAGAR, MAHARASHTRA-431136. *MARKETED BY: ANHEUSER BUSCH INBEV INDIA LIMITED, REGD. OFFICE: UNIT NO 301-302, THIRD FLOOR, DYNASTY BUSINESS PARK, B-WING, ANDHERI KURLA ROAD, ANDHERI (EAST), MUMBAI-400059, INDIA. REGISTERED TRADEMARK OF ANHEUSER-BUSCH, ST. LOUIS, MO, U.S.A. CUSTOMER CARE DETAILS: PH: 1800-258-2504 CUSTOMER CARE ADDRESS: SAME AS REGD. OFFICE E-MAIL: customercare@in.ab-inbev.com 27 er PRODUCT OF INDIA Contains Approximately 2.6 Standard Drinks TION OF ALCOHOL IS T RIOUS TO HEALTH",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902246003710",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

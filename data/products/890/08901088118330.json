@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088118330",
+  "barcode_printed": "8901088118330",
+  "barcode_format": "EAN-13",
+  "name": "saffola masala oats",
+  "brand": "saffola",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 39,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 399,
+        "protein_g": 10,
+        "carbohydrate_g": 68.2,
+        "sugars_g": 6,
+        "fat_g": 9.5,
+        "saturated_fat_g": 2.3,
+        "fibre_g": 9.5,
+        "sodium_mg": 2438.4
+      }
+    }
+  ],
+  "ingredients_raw": "INGREDIENTS Oats (76.5%), Spices And Condiments (7%) (0nion, Garlic, Coriander Chilli, Black Pepper, Cumin, Fennel, Carom, Bay Leaf, Ginger, Mint Kasuri Methi, Cinnamon, Cardamom, Nutmeg, Clove, Mace, Asafoetida, Parsley,Salt, Sugar, Roasted Chana Dal (2.5%), Dried Vegetables (2.3%) (Onion (1.3%), Tomato (0.5% ), Coriander (0.5%), Milk Solids Hydrolysed Vegetable Protein, Mango Powder, Acidity Regulator (NS 30),Anticaking Agent (NS 551). CONTAINS ADDED NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088118330",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

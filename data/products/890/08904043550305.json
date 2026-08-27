@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043550305",
+  "barcode_printed": "8904043550305",
+  "barcode_format": "EAN-13",
+  "name": "Royal plum cake",
+  "brand": "modern-products",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 650,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 365,
+        "protein_g": 4.6,
+        "carbohydrate_g": 50.4,
+        "sugars_g": 33.67,
+        "fat_g": 16.1,
+        "saturated_fat_g": 8.6,
+        "fibre_g": 16.1,
+        "sodium_mg": 111
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Refined Wheat Flour (Maida), Edible Vegetable Fat (Margarine), Egg, Dry Fruits (17.92%) Raisin (12.6%), Cashew Nuts (3.65%), Dates (2.1%), Glazed Fruit (8.16%), Papaya, Sugar, Acidity Regulator (330), Preservative (211), Food Colours (102,110 & 129), Humectants (422, 420(ii)}, Mixed Fruit Jam , Sugar, Mixed Fruit Pulp, Gelling Agent (440), Acidity Regulator (296), Preservative (211, 282), Food Colours (122), Nature Identical Flavouring Substances, Candied Orange Peel Preservatives (211, 224), Golden Syrup, Food Colour (150a), Candied Ginger, Preservatives (211, 224)), Cake Gel, Emulsifiers (471), (477), {470, Humectants (422, 420(ii)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043550305",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

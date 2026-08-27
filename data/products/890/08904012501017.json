@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08904012501017",
+  "barcode_printed": "8904012501017",
+  "barcode_format": "EAN-13",
+  "name": "Laxmi Compounded Asafoetida Yellow powder",
+  "brand": "laxmi",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 369,
+        "protein_g": 8.7,
+        "carbohydrate_g": 79.5,
+        "sugars_g": 0.6,
+        "fat_g": 1.8,
+        "saturated_fat_g": 0.2,
+        "sodium_mg": 40.2
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR, EDIBLE GUM, ASAFOETIDA, CONTAINS PERMITTED NATURAL COLOUR, WHEAT FLOUR : 60% APPX.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904012501017",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

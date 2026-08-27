@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262010511",
+  "barcode_printed": "8901262010511",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Spread Creamy",
+  "brand": "amul",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 624,
+        "protein_g": 26,
+        "carbohydrate_g": 20,
+        "sugars_g": 6.5,
+        "fat_g": 50,
+        "saturated_fat_g": 12,
+        "sodium_mg": 155
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted peanut (91%), sugar (5%), edible vegetable oil (groundnut oil), iodized salt, stabilizer (471).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262010511",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

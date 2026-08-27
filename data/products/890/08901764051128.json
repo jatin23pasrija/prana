@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764051128",
+  "barcode_printed": "8901764051128",
+  "barcode_format": "EAN-13",
+  "name": "Gluco Charge",
+  "brand": "limca",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, GLUCOSE (2.2%), LEMON JUICE (5.5%) (RECONSTITUTED FROM LEMON JUICE CONCENTRATE), ACIDITY REGULATOR (331(iii)), MINERALS (SODIUM, POTASSIUM, CHLORIDE), ANTIOXIDANT (300), SWEETENER (955), LEMON FLAVOURS (NATURE-IDENTICAL FLAVOURING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764051128",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

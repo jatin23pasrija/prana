@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08908015692147",
+  "barcode_printed": "8908015692147",
+  "barcode_format": "EAN-13",
+  "name": "Coconut Water",
+  "brand": "coco-charge",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 19.27,
+        "protein_g": 0.18,
+        "carbohydrate_g": 4.64,
+        "sugars_g": 4.07,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 24.17
+      }
+    }
+  ],
+  "ingredients_raw": "TENDER COCONUT WATER(100%), BIO-PRESERVATIVE (INS 234)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908015692147",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071701952",
+  "barcode_printed": "8901071701952",
+  "barcode_format": "EAN-13",
+  "name": "Hershy's Kisses cookies 'n' creme",
+  "brand": "hershey-s",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 534,
+        "energy_kj": 2236,
+        "protein_g": 6.6,
+        "carbohydrate_g": 60,
+        "sugars_g": 54.4,
+        "fat_g": 29.7,
+        "saturated_fat_g": 17.5,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "White Chocolate 89% (Milk Solids 33.3%, Sugar, Cocoa Butter, Cookies 11% (Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm Oil), Cocoa Solids 1.1%, Emulsifier (322(i)), Acidity Regulator (500(ii))), Emulsifiers (322(i), 476), Flavoring)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071701952",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

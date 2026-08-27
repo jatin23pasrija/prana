@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043500966",
+  "barcode_printed": "8904043500966",
+  "barcode_format": "EAN-13",
+  "name": "Brownie with Real Walnuts",
+  "brand": "modern",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Refined Wheat Flour (Maida), Brownie Concentrate (20%)[Refined Wheat Flour (Maida), Cocoa Solids (17%), Sugar, Milk Solids, Leavening Agent (500(ii)), Emulsitter (322(1)), Stabiliser (415 todised Salt, Nature Identical Flavouring Substances], Refined Faimolein Oil, Dark Compound (8%) [Sugar, Hydrogenated Vegetable Fat, Cocoa Solids, Emulsifiers (492, (322(i)), Nature Identical Flavouring Substances], Invert Sugar, Humectant (422), Walnut (2.3%), Milk Solids, Cocoa Solids (1%), Preservatives (282, 202), Emulsifier (471), Acidity Regulators (330, 260)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043500966",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

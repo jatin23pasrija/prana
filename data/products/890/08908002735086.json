@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002735086",
+  "barcode_printed": "8908002735086",
+  "barcode_format": "EAN-13",
+  "name": "Celebrations",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "whole wheat flour (atta), yeast, wheat bran, sugar, iodised salt, vegetable oil (palm oil), wheat grits (0.4%), preservative (INS 282), improvers (INS 1104), emulsifier (471, 481(i), 472e), acidity regulator (260), flour treatment agent, colour (150a)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002735086",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

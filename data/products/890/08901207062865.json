@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207062865",
+  "barcode_printed": "8901207062865",
+  "barcode_format": "EAN-13",
+  "name": "Hajmola",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 tablets (1.2 g)",
+        "quantity": {
+          "value": 1.2,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 0,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 210
+      }
+    }
+  ],
+  "ingredients_raw": "each tablet is prepared/derived from: powder mix 79,372 mg consisting of pippali (piper longum, fr,) 4,762 mg, sunthi zingiber officinale, r,) 7,937 mg, maricha (piper nigrum, fr,) 9,528 mg, nimbu saar (citrus limon, satva) 9,525 mg, sauvarchala lavana 11,905 mg, shveta jiraka (cuminum cyminum, fr,) 15,873 mg, imi saar (tamarindus indica, satva) 19,842 mg), and powders of samudra from: chincha (tamarindus indica, fr,) 108,370 mg, and excipients q,s, preservative: sodium benzoate ip haimo",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207062865",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

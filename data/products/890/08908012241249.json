@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908012241249",
+  "barcode_printed": "8908012241249",
+  "barcode_format": "EAN-13",
+  "name": "Jeera flavoured drink",
+  "brand": "davat",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, SUGAR, CARBON DIOXIDE (INS 290), SALT, ACIDITY REGULATORS [INS 296, INS 330, INS 331 (iii)], CLASS II PRESERVATIVE (INS 211). PERMITTED NATURAL FOOD COLOUR (INS 150d), NATURAL AND NATURE IDENTICAL FLAVOURING ENERGY SUBSTANCE-JEERA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908012241249",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

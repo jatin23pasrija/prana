@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901648923039",
+  "barcode_printed": "8901648923039",
+  "barcode_format": "EAN-13",
+  "name": "Super T Milk",
+  "brand": "mother-dairy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 73,
+        "energy_kj": 306,
+        "protein_g": 3.1,
+        "carbohydrate_g": 4.8,
+        "sugars_g": 4.8,
+        "fat_g": 4.6,
+        "saturated_fat_g": 3.2,
+        "sodium_mg": 55
+      }
+    }
+  ],
+  "ingredients_raw": "Standardised Milk, Vitamin A, Vitamin D2 (Ergocalciferol)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901648923039",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

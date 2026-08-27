@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030945786",
+  "barcode_printed": "8901030945786",
+  "barcode_format": "EAN-13",
+  "name": "Boost Sandwich",
+  "brand": "kwality-wall-s",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 52,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Choco malt Biscuit (46.15%) (Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil Paint Maltodextrin, Cocoa solids, Milk Solids, Malt Extract, Artificial (Malt & Vanilla) Flavouring Substances, Emulsifier - E322, lodised Salt, and Leavening Agents-E500(ii), E503(ii), Food Colour - Natural (E150d), E102), Water, Malt based food (Cereal Extract (Barley, Wheat Millet) Malted Barley), Sugar, Wheat Flour (Atta), Milk Solids, Minerals, Natural Colour (INS 150c), Wheat Gluten, Acidity Regulators [INS 501(ii), INS 500 (ii)], Edible lodised Salt, Cocoa Powder, Vitamins, Nature identical Flavouring Substances, Soy Protein Isolate), Sugar, Palm Oil, Milk Solids, Liquid Glucose, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers (E412, E417, E461, E407, E410), Vitamins, Nature Identical flavouring substances, Sweetener (E960), Contains Milk, Wheat, Barley and Soy. WEETENEDO 17333 920103094578",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030945786",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

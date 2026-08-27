@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901012350041",
+  "barcode_printed": "8901012350041",
+  "barcode_format": "EAN-13",
+  "name": "ORSL Plus Electrolyte Drink Orange",
+  "brand": "johnson-johnson",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 50,
+        "protein_g": 0,
+        "carbohydrate_g": 12,
+        "sugars_g": 12,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 117
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugars (Sucrose, Dextrose), Orange Juice (reconstituted), Sodium Citrate, Acidity Regulator (INS 330), Potassium Chloride, Sodium Chloride, Vitamin C, Antioxidant (INS 320),Taurine, Magnesium Sulphate and Calcium Lactate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901012350041",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

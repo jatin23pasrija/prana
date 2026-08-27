@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132912847",
+  "barcode_printed": "8904132912847",
+  "barcode_format": "EAN-13",
+  "name": "Masala noodles",
+  "brand": "snactac",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 445,
+        "energy_kj": 1863,
+        "protein_g": 10.6,
+        "carbohydrate_g": 64.8,
+        "sugars_g": 2.4,
+        "fat_g": 15.9,
+        "saturated_fat_g": 9.5,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 1247
+      }
+    }
+  ],
+  "ingredients_raw": "INSTANT NOODLES (91%): REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, iODISED SALT, ACIDITY REGULATORS(E500,E 501(i),E 451), THICKENER (E 412)& ANTIOXIDANT (E319),SEASONING (MASALA) (9%): iODISED SALT, SUGAR, MIXED SPICES (15.5%)[ (RED CHILLI, TURMERIC, CORIANDER, CUMIN, BLACK PEPPER, GINGER, FENUGREEK, NUTMEG, GREEN CARDAMOM, CLOVE)], ONION POWDER, INSTANT NOODLES POWDER (REFINED WHEAT FLOUR (MAIDA) REFINED PALM OIL, IODISED SALT, ACIDITY REGULATORS (E 500(i), E 501(i),E 451 (i), THICKENER (E 412) & ANTIOXIDANT (E 319), HYDROLYSED VEGETABLE PROTEIN (SOYA), TOMATO POWDER, ACIDITY REGULATORS (E 170, E 330), GARLIC POWDER, NATURE IDENTICAL FLAVOURING SUBSTANCES(MASALA), FLAVOUR ENHANCERS (E 631,E 627). ALLERGEN INFORMATION: CONTAINS _WHEAT_ , _SOY_,MAY CONTAIN _MILK_,_NUTS_.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132912847",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

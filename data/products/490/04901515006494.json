@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "04901515006494",
+  "barcode_printed": "4901515006494",
+  "barcode_format": "EAN-13",
+  "name": "Naturally Brewed Soy Sauce",
+  "brand": "kikkoman",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 99,
+        "protein_g": 10,
+        "carbohydrate_g": 13.1,
+        "sugars_g": 12.3,
+        "fat_g": 0,
+        "fibre_g": 0.8,
+        "sodium_mg": 6475
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4901515006494",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069612371",
+  "barcode_printed": "8906069612371",
+  "barcode_format": "EAN-13",
+  "name": "Jolliz Namkeen Cream Onion Chips",
+  "brand": "anand",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 135,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potatoes (88%), Edible Vegetable Oil (Palmolein), Sugar, Iodized Salt, Onion Powder, Cheese Powder, Milk Solids, Maltodextrin, Dextrose, Dehydrated Herbs, Acidity Regulator (INS 330, INS 296), Anticaking Agent (INS 551), Antioxidant (INS 319).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069612371",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

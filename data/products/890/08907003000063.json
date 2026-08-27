@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08907003000063",
+  "barcode_printed": "8907003000063",
+  "barcode_format": "EAN-13",
+  "name": "Adai Dosa Mix",
+  "brand": "a2b",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rice (30%), Bengal Gram dal (21%), Red Gram Dal, Moong Dal, Black Gram Dal, partially hydrogenated edible vegetable oils, Copra, lodised Salt, Red Chilli, Mustard and Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907003000063",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

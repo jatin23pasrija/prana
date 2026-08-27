@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088141222",
+  "barcode_printed": "8901088141222",
+  "barcode_format": "EAN-13",
+  "name": "Masala oats",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 481.94189312500004,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 394.12,
+        "protein_g": 8.53,
+        "carbohydrate_g": 70.88,
+        "sugars_g": 7.06,
+        "fat_g": 8.53,
+        "saturated_fat_g": 1.76,
+        "fibre_g": 7.06,
+        "sodium_mg": 2340
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088141222",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906049780052",
+  "barcode_printed": "8906049780052",
+  "barcode_format": "EAN-13",
+  "name": "Masala sticks",
+  "brand": "kentys",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 16,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rice Grits, maize Grits, Edible Vegetable oil(Palmolein Oil), Garlic powder, Onion Powder, Iodized Salt, Spices & Condiments. CONTAINS ADDED FLAVOUR-NATURAL & NATURE IDENTICAL FLAVORING SUBSTANCES 1 R KUTCH AGRO Kutch Agro Foods At Village Dhamne, Talegaon-Khed, Dist. Pune-410 505. For feedback or queries Contact: Customer Care No.: 8108800600 E-mail: contact@kutchagro.com If you find fault regarding quality quantity in this packet plean we will replace it",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906049780052",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

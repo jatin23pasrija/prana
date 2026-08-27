@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08901722060100",
+  "barcode_printed": "8901722060100",
+  "barcode_format": "EAN-13",
+  "name": "FORZEN GREEN PEAS",
+  "brand": "safal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 84,
+        "protein_g": 6.5,
+        "carbohydrate_g": 14.3,
+        "sugars_g": 5.38,
+        "fat_g": 0.1,
+        "sodium_mg": 3.66
+      }
+    }
+  ],
+  "ingredients_raw": "Green peas",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901722060100",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904296902104",
+  "barcode_printed": "8904296902104",
+  "barcode_format": "EAN-13",
+  "name": "Fabsta Peanut Butter Creamy",
+  "brand": "tata",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 420,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 624,
+        "protein_g": 25,
+        "carbohydrate_g": 23,
+        "sugars_g": 6,
+        "fat_g": 48,
+        "saturated_fat_g": 11,
+        "trans_fat_g": 0,
+        "sodium_mg": 280
+      }
+    }
+  ],
+  "ingredients_raw": "Peanut (90%), Sugar, Edible Vegetable Fat (Fully Hydrogenated Soyabean Oil), lodised Salt, Emulsifier (INS 471). ALLERGEN ADVICE: Contains Nut & Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904296902104",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

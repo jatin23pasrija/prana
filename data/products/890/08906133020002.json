@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906133020002",
+  "barcode_printed": "8906133020002",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein Isolate Unflavored",
+  "brand": "nakpro",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 Heaping Scoop (34 g)",
+        "quantity": {
+          "value": 34,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 127,
+        "protein_g": 30.6,
+        "carbohydrate_g": 0.85,
+        "fat_g": 0.1,
+        "saturated_fat_g": 0.02,
+        "trans_fat_g": 0.01,
+        "sodium_mg": 0.07
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906133020002",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

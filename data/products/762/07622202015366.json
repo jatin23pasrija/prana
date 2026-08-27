@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202015366",
+  "barcode_printed": "7622202015366",
+  "barcode_format": "EAN-13",
+  "name": "Choco Crème Flavoured Oreo 288.75g",
+  "brand": "cadbury",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 288.75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 483,
+        "protein_g": 5.3,
+        "carbohydrate_g": 71.4,
+        "sugars_g": 38,
+        "fat_g": 19.7,
+        "saturated_fat_g": 9.8,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 420
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202015366",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

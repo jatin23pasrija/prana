@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005753001",
+  "barcode_printed": "8908005753001",
+  "barcode_format": "EAN-13",
+  "name": "Hawaban Harde",
+  "brand": "hawaban-harde",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "&quot;True list of all ingredients&quot; Ingredients (in%) Each pill contains powders of the following: Amchur (Mangifera indica) Dr.Fr. 43.47 13.05 Safed Namak (Sodii muras) AFI. Kala Namak (Unaqua sodium chloride) AFI. 19.56 Dhaniya (Coriandrum sativum) Fr. 05.71 Bat Harde (Terminalia chebula) Fr. 04.35 Ka Mirch (Piper nigrum) Fr. 02.18 की Soanth (Zingiber officinalis) Rz. 02.18 Sanay (Cassia angustifolia) Lf. 04.18 Amla (Emblica officinalis) Dr.Fr. 03.00 Behada (Terminalia belerica) Dr.Fr. 00.78 Nausadar AFI. 00.87 Shankh Bhasm AFI. 00.67 ཚེ་",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005753001",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

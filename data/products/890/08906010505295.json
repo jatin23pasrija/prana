@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010505295",
+  "barcode_printed": "8906010505295",
+  "barcode_format": "EAN-13",
+  "name": "Farali Chevdo",
+  "brand": "balaji-namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato (75%), Roasted Peanut (12%), Edible Vegetable Oil (Palm olein). Sugar, Rock Salt, Spices & Condiments (Chilli Powder, Coriander Powder, Cumin Powder, Turmeric Powder, Dry Mango Powder, Clove Powder, Carom Seed, Ginger Powder, Cinnamon, Cardamom, Nutmeg, Mace, Bay Leaves).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010505295",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

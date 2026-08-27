@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042958361",
+  "barcode_printed": "8901042958361",
+  "barcode_format": "EAN-13",
+  "name": "Idli/Dosa/Chilly Chutney Powder",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 302,
+        "protein_g": 21.6,
+        "carbohydrate_g": 48.6,
+        "sugars_g": 1.2,
+        "fat_g": 2.4,
+        "saturated_fat_g": 0.4,
+        "sodium_mg": 862.4
+      }
+    }
+  ],
+  "ingredients_raw": "Black gram splits (84%), Red chilli (8.5%), Iodised salt, Mustard seeds (0.7%), Lemon premix [Maltodextrin (Corn), Acidity Regulators (INS 330, INS 334) and Nature identical flavouring substance], Acidity Regulators (INS 330), Curry leaves powder and Asafoetida",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042958361",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

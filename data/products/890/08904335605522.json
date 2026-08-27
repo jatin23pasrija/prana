@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335605522",
+  "barcode_printed": "8904335605522",
+  "barcode_format": "EAN-13",
+  "name": "High Protein Oats Filter Kappi",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "INSTANT OATS (44.7%), PROTEIN SOURCE BLEND (28.6% ) (TEXTURED SOY PROTEIN FLAKES, SOY PROTEIN ISOLATE, WHEY POWDER), DEHYDRATED FRUITS, SEEDS (12%) (RAISINS, CHIA SEEDS, SUNFLOWER SEEDS, PUMPKIN SEEDS), FRUCTO-OLIGOSACCHARIDE, COFFEE POWDER (3.4%), RICE BRAN OIL, HIMALAYAN PINK SALT, NATURAL FLAVOURS, PROBIOTICS (BACILLUS COAGULANS SNZ 1969, 15 BILLION CFU/g), SWEETENER (STEVIOL GLYCOSIDES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335605522",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

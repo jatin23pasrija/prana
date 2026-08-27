@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491100533",
+  "barcode_printed": "8901491100533",
+  "barcode_format": "EAN-13",
+  "name": "Chilli Chatka 20rs",
+  "brand": "kurkure",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rice meal (43.2%), edible vegetable oil (palmolein oil), corn meal (20.0%), gram meal (3.3%), spices and condiments (chilli powder, onion powder, fennel powder, ajwain powder, cumin powder, garlic powder, coriander powder, black pepper powder, spice extract, fenugreek powder), sugar, salt, citric acid (330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491100533",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

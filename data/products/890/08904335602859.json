@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335602859",
+  "barcode_printed": "8904335602859",
+  "barcode_format": "EAN-13",
+  "name": "YogaBar Nuts & Seeds Crunch Super Muesli",
+  "brand": "yogabar",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 388,
+        "protein_g": 12,
+        "carbohydrate_g": 64,
+        "sugars_g": 10,
+        "fat_g": 12,
+        "saturated_fat_g": 2,
+        "fibre_g": 7.5,
+        "sodium_mg": 15
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Grains 67.8% {Rolled Oats, Brown Rice, Millets 20.0% (Jowar, Ragi, Bajra, Samai)}, Nuts & Seeds 16.3% (Sunflower, Almond, Pumpkin, Flax, Chia), Dehydatred Fruits 9.0% (Raisins, Cranberry), Dates Syrup, FOS, Rice Bran Oil, Cinnamon Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335602859",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

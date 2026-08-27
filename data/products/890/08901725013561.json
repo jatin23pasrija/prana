@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725013561",
+  "barcode_printed": "8901725013561",
+  "barcode_format": "EAN-13",
+  "name": "Bingo! Original Style Chilli Charged Tomato Chips",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 21.4,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "POTATO (58.5%), REFINED PALMOLEIN, SEASONING {SUGAR, IODIZED SALT, TOMATO POWDER (1.1%), *SPICES AND CONDIMENTS, NATURE IDENTICAL FLAVOURING SUBSTANCES, ONION POWDER, ACIDITY REGULATOR (INS 330), YEAST EXTRACT, GARLIC POWDER, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, REFINED PALMOLEIN, FLAVOUR ENHANCERS (INS 627, INS 631) AND COLOUR [INS 160a(i)]} AND IODIZED SALT. *USED AS FLAVOURING AGENTS. CONTAINS SOY. MAY CONTAIN MILK, WHEAT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725013561",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

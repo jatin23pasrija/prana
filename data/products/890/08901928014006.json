@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08901928014006",
+  "barcode_printed": "8901928014006",
+  "barcode_format": "EAN-13",
+  "name": "Marie biscuits",
+  "brand": "bisk-farm",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 413,
+        "carbohydrate_g": 67.25,
+        "sugars_g": 18.73,
+        "fat_g": 13.01,
+        "saturated_fat_g": 6.2,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR (65%), SUGAR, EDIBLE VEGETABLE OIL, INVERT SYRUP, LIQUIDLUCOSE, CONDENSED MILK, SALT, MILK SOLIDS, LEAVENING AGENTS [500(), 503/00/EMULSIFERSA1,481),DOUGH CONDITIONER (223), ENZYMES AND ANTIOXIDANT (319) roATAINS ADDEDhaTIFICIAL FLAVOURING SUBSTANCES (MILK, BUTTER, VANILLA) CNUMBE RS IN BRACKETS ARE AS PER INTERNATIONAL NUMBERING SYSTEM) TSPASCUIT CONTAINS WHEAT&MILK HYPERSENSITIVE INGREDIENTS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901928014006",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

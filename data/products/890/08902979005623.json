@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08902979005623",
+  "barcode_printed": "8902979005623",
+  "barcode_format": "EAN-13",
+  "name": "Cavins Rabdi Milkshake 170ml",
+  "brand": "cavin-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 241.5
+      }
+    }
+  ],
+  "ingredients_raw": "Standardized milk, Sugar, Milk solids, Flavour (Nature Identical and Artificial (Rabdi & Condensed milk) Flavouring substance), Sequestrant (INS 339 (i)), Emulsifier (INS 471), Stabilizer (INS 407) Allergen Advice: Contains _milk_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902979005623",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

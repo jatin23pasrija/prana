@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088745109",
+  "barcode_printed": "8901088745109",
+  "barcode_format": "EAN-13",
+  "name": "Saffola Masala Oats Veggie Twist",
+  "brand": "saffola",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rolled Oats (53.4%), Millets (16%) [Jawar Flakes (14%), Bajra Flakes (2%)], Maltodextrin, Iodised Salt, Dried Vegetables (Carrot (1.6%), Green Peas (1.1%), French Beans), Onion Powder (2.3%), Desiccated Coconut Powder, Sugar, Spices & Condiments~, Milk Solids, Tomato Powder, Refined Rice Bran Oil, Hydrolyzed Vegetable Protein, Yeast Extract, Acidity Regulators (INS 330), Flavouring Enhancers (INS 661, INS 627), Colour (INS 100), Nature Identical Flavouring Substances. ~Contains Chilli, Turmeric, Ginger, Cardamom, Cinnamon, Curry Leaves, Garlic. ALLERGN Advice: Contains Oats, Milk, Soy & Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088745109",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

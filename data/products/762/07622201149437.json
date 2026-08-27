@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201149437",
+  "barcode_printed": "7622201149437",
+  "barcode_format": "EAN-13",
+  "name": "Dairy milk milk chocolate",
+  "brand": "mondelez",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 534,
+        "protein_g": 8.1,
+        "carbohydrate_g": 60.4,
+        "sugars_g": 57.3,
+        "fat_g": 28.9,
+        "saturated_fat_g": 17.5,
+        "sodium_mg": 62.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201149437",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

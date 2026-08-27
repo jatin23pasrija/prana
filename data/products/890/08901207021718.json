@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207021718",
+  "barcode_printed": "8901207021718",
+  "barcode_format": "EAN-13",
+  "name": "Hot Sip Ayurvedic Kaadha15120g",
+  "brand": "dabur",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Each 100g of Honitus Hot Sip granules is prepared/derived from: Herbal extract of the following: Dhanyaka (Coriandrum sativum, Fr.) 2.50g, Maricha (Piper nigrum, Fr.) 2.25g, Vasa (Adhatoda vasica, Lf.), Shvetajiraka (Cuminum cyminum, Fr.) each 2.00g, Shankhpushpi (Convolvulus pluricaulis, W.P.), Kantakari (Solanum surattense, W.P.) each 1.75g, Shunthi (Zingiber officinale, Rz.), Bharangi (Clerodendrum serratum, Rt.), Pippali (Piper longum, Fr.), Kulanjana (Alpinia galanga, Rz.), Daruharidra (Berberis aristata, St.), Tulasi (Ocimum sanctum, Lf.), Bhutrin (Cymbopogon citratus, Lf.) each 1.25g, Yavani (Trachyspermum ammi, Fr.) 1.125g, Yashti (Glycyrrhiza glabra, Rt. & Stolon) 0.75g, and Sharkara 94.4g, Madhu 2.0g, Shunthi (Zingiber officinale, Rz., oil) 1.0g, Maricha (Piper nigrum, Fr. Ext.) 0.1g. Preservative: Potassium Sorbate IP",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207021718",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

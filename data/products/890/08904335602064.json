@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335602064",
+  "barcode_printed": "8904335602064",
+  "barcode_format": "EAN-13",
+  "name": "Yoga bar Breakfast Protein Bar",
+  "brand": "yogabar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50 g",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 202,
+        "energy_kj": 846,
+        "protein_g": 4.5,
+        "carbohydrate_g": 34.5,
+        "sugars_g": 14,
+        "fat_g": 6.3,
+        "saturated_fat_g": 2.2,
+        "fibre_g": 5.5,
+        "sodium_mg": 60
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Grains 34.5% (Rolled Oats 15%, Millets 16% (Samai Flakes, Jowar Flakes), Rice Flakes), Dark Chocolate Paste 16% (Sugar, Edible Vegetable Fat, Cocoa Solids, Soy Lecithin & Natural Flavours), Fructo oligosaccharides, Honey, Seeds 8.5% (Sesame, Pumpkin, Chia 2%, Flax), Dry Fruits & Nuts 7.5% (Raisins 6%, Almond Dices), Rice Crispy, Cocoa Powder, Cocoa Mass, Glycerine, Acacia Gum, Choco Chips, Natural Flavours, Himalayan Pink Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335602064",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

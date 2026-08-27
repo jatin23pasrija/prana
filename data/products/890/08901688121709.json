@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901688121709",
+  "barcode_printed": "8901688121709",
+  "barcode_format": "EAN-13",
+  "name": "Indian Palak Paneer Gluten Free",
+  "brand": "amy-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 304,
+        "protein_g": 12,
+        "carbohydrate_g": 38,
+        "sugars_g": 5,
+        "fat_g": 11,
+        "saturated_fat_g": 3.5,
+        "fibre_g": 6,
+        "sodium_mg": 680
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901688121709",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

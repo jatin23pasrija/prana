@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08904258702421",
+  "barcode_printed": "8904258702421",
+  "barcode_format": "EAN-13",
+  "name": "Alphonso Mango juice",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 75.06,
+        "protein_g": 0.81,
+        "carbohydrate_g": 18.77,
+        "sugars_g": 15.64,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 1.64
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904258702421",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

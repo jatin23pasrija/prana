@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725013684",
+  "barcode_printed": "8901725013684",
+  "barcode_format": "EAN-13",
+  "name": "Madangle Achari Masti",
+  "brand": "itc",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 66,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 526,
+        "protein_g": 5.6,
+        "carbohydrate_g": 61.2,
+        "sugars_g": 6,
+        "fat_g": 29.5,
+        "saturated_fat_g": 13.8,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 758.8
+      }
+    }
+  ],
+  "ingredients_raw": "RICE GRITS, SEASONING {REFINED PALMOLEIN, SUGAR, SPICES AND CONDIMENTS, IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES, HYDROLYZED VEGETABLE PROTEIN AND NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES), REFINED PALMOLEIN, DEGERMED CORN GRITS AND BENGAL GRAM GRITS. &quot;USED AS FLAVOURING AGENTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725013684",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

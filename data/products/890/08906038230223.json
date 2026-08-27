@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906038230223",
+  "barcode_printed": "8906038230223",
+  "barcode_format": "EAN-13",
+  "name": "Chicken Salami",
+  "brand": "zorabian",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Chien Meat (63%), Water, Corn Starch, Isolated Soya Protein, lodised Salt, Yeast Extract Powder More of Spices, Coriander, Texturiser INS - 451(i), Anti Oxidant INS-316, Colour Fixative INS-250 Ra Agent INS - 500 (ii). AEN: CONTAINS SOY. 25.0",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906038230223",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081011979",
+  "barcode_printed": "8909081011979",
+  "barcode_format": "EAN-13",
+  "name": "Marie light",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 37,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined wheat flour (Maida) (66.6%), Sugar, Refined palm oil, Invert syrup, Milk solids, Raising agents (INS 503 (ii), INS 500 (ii)], lodized salt, Nature identical flavouring substances, Flour treatment agent (INS 223), Emulsifier (Diacetyltartaric and fatty acid esters of glycerol (from refined sunflower oil and palm oil)], Artificial flavouring substances (Milk, Vanilla), Mineral, Colour (INS 150d) and Vitamins.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081011979",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

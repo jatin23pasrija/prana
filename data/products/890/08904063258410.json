@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063258410",
+  "barcode_printed": "8904063258410",
+  "barcode_format": "EAN-13",
+  "name": "Yellow banana chips",
+  "brand": "haldiram-s",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 571.43,
+        "protein_g": 2.86,
+        "carbohydrate_g": 48.57,
+        "sugars_g": 28.57,
+        "fat_g": 40,
+        "saturated_fat_g": 17.14,
+        "fibre_g": 8.57,
+        "sodium_mg": 628.57
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063258410",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

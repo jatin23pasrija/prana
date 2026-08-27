@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906190870176",
+  "barcode_printed": "8906190870176",
+  "barcode_format": "EAN-13",
+  "name": "Cucumber and basil sparking mixer",
+  "brand": "jimmy-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Carbonated Water, Sweeteners (968, 955), Acidity Regulators [330, 331 (iii)], Stabilizer (419, 445) Flavours (Natural & Nature Identical Flavouring Substances) CONTAINS NON-CALORIC SWEETENER. This drink contains an admixture of Erythritol and Sucralose.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906190870176",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

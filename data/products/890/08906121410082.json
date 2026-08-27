@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906121410082",
+  "barcode_printed": "8906121410082",
+  "barcode_format": "EAN-13",
+  "name": "SIP Blue Berry Flavour",
+  "brand": "sip",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 309.5,
+        "protein_g": 0.58,
+        "carbohydrate_g": 76.68,
+        "fat_g": 0.05
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Water, Acidity Regulator (E-330) Permitted Synthetic Food Colours (E-133), Added permitted flavours (BLUE BERRY) (Natural, Nature Identical, Artificial Flavouring Substances), Thickner (E-440)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906121410082",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

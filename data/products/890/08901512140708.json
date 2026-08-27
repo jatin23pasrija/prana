@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512140708",
+  "barcode_printed": "8901512140708",
+  "barcode_format": "EAN-13",
+  "name": "Peanut butter",
+  "brand": "sun-drop",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 462,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Peanut Butter (Roasted Peanuts (66.9% Sugar, Refined Edible Groundnut Oil, Honey (5%), Hydrogenated Vegetable Oil, lodized Salt, Edible Molasses & Natural Colour (Caramel IV).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512140708",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

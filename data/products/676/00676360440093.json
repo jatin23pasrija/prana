@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "00676360440093",
+  "barcode_printed": "0676360440093",
+  "barcode_format": "EAN-13",
+  "name": "Electrolyte Apple drink",
+  "brand": "onel",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "200ml",
+        "quantity": {
+          "value": 200,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 54,
+        "protein_g": 0,
+        "carbohydrate_g": 13.4,
+        "sugars_g": 13.4,
+        "fat_g": 0,
+        "sodium_mg": 117
+      }
+    }
+  ],
+  "ingredients_raw": "Purified water, Sugars (Sucrose, Glucose), Apple Juice (reconstituted) 10%, Coconut water concentrate, Added Flavours (Natural, Nature - Identical & artificial flavouring substances [Apple]), Sodium citrate, Acidity regulator (INS 330), Potassium chloride, Sodium chloride, Magnesium sulphate, Calcium lactate, Vitamin C (Ascorbic acid), Zinc sulphate, Sodium selenate.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0676360440093",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

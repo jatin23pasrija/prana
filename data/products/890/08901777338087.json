@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777338087",
+  "barcode_printed": "8901777338087",
+  "barcode_format": "EAN-13",
+  "name": "Veg Jaipuri",
+  "brand": "vadilal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 284,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.6 cup (142 g)",
+        "quantity": {
+          "value": 142,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 250,
+        "energy_kj": 1046,
+        "protein_g": 4,
+        "carbohydrate_g": 12,
+        "sugars_g": 3,
+        "fat_g": 21,
+        "saturated_fat_g": 10,
+        "trans_fat_g": 0,
+        "fibre_g": 7,
+        "sodium_mg": 560
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777338087",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

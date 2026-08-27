@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106048577",
+  "barcode_printed": "8909106048577",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Vegetable Soup",
+  "brand": "knorr",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 9.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato Starch, Maltodextrin, Milk Solids, lodised Salt, Sugar, ^Dehydrated Vegetables (Peas (2.6%), Onion Powder (2.4%), Leeks (0.5%)), Hydrolyzed Vegetable Protein, Thickeners (412 & 415), Carrot flakes (2.6%), Hydrogenated Palm Oil, Flavours - Nature Identical, Natural (Garlic) & Artificial (Corn (0.04%)) Flavouring Substances, Spices and Condiments, Anti Caking Agent (551), Flavour Enhancers (627 & 631).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106048577",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

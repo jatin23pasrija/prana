@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "01701042930001",
+  "barcode_printed": "1701042930001",
+  "barcode_format": "EAN-13",
+  "name": "Ajwain Rice Papad",
+  "brand": "ratndeep",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 201,
+        "protein_g": 4,
+        "carbohydrate_g": 44,
+        "fat_g": 0.5,
+        "sodium_mg": 800
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/1701042930001",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

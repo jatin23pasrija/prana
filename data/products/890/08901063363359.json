@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063363359",
+  "barcode_printed": "8901063363359",
+  "barcode_format": "EAN-13",
+  "name": "Cake Fudge It - Choco Brownie",
+  "brand": "britannia",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SUGAR, REFINED WHEAT FLOUR (MAIDA), REFINED PALMOLEIN OIL, EGGS, CHOCO CALLETS (10%) [SUGAR, HYDROGENATED VEGETABLE FAT, COCOA SOLIDS, EMULSIFIER (491), DEXTROSE EMULSIFIER [322(i)] & NATURAL FLAVOURING SUBSTANCES], MILK CHOCOLATE CHIPS (8%) [SUGAR, COCOA BUTTER, MILK SOLIDS, COCOA SOLIDS, DEXTROSE, EMULSIFIER [322(i)] & NATURAL FLAVOURING SUBSTANCES], COCOA SOLIDS (2%), HIGH MALTOSE SYRUP, LIQUID GLUCOSE, IODISED SALT, ARTIFICIAL (BROWNIE MAGNUM & VANILLA) FLAVOURING SUBSTANCES, COLOUR (150d), EMULSIFIER (471), PRESERVATIVES (202 & 282), STABILIZER (415), BAKING POWDER AND ACIDITY REGULATOR (330). CONTAINS WHEAT, EGGS, MILK AND SOYA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063363359",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

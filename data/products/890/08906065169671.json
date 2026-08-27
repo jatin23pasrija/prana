@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906065169671",
+  "barcode_printed": "8906065169671",
+  "barcode_format": "EAN-13",
+  "name": "ITC Master Chef Desi Style Chicken Patty",
+  "brand": "itc-master-chef",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Chicken (41.2%), Water, Breadcrumbs (Refined Wheat Flour (Maida! Dextrose, lodized Salt and Yeast), Refined Palm Oil, Batter (Stabilizer INS 466 Soy Granule, Seasoning lodized Salt, Mixed Spices, Milk Solids Dehydrated Onion, Sugar, Stabilizer [INS 451( Hydrolyzed Vegetable Protein, Dehydrated Fenugreek Leaves, Refined Sunflower Oil and Natural Flavours and Natural Flavouring Substances and Nature Identical Flavouring Substances), Soy Protein Isolate, Degermed Com Flour, Wheat Fibre, Defatted Soya Powder and Sequestrants INS 451 INS 450 INS 4510), INS 4500 INS 4500)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906065169671",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

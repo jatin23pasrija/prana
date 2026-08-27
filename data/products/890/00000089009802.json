@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "00000089009802",
+  "barcode_printed": "89009802",
+  "barcode_format": "EAN-8",
+  "name": "Munch",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 8.9,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 415,
+        "protein_g": 6.1,
+        "carbohydrate_g": 49.8,
+        "sugars_g": 33,
+        "fat_g": 21.3,
+        "saturated_fat_g": 20.8,
+        "sodium_mg": 94.5
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Refined Wheat flour (Maida), Hydrogenated vegetable fats (contain sesame oil), Milk solids, Edible vegetable fats, Cocoa solids (3.8%), Emulsifier (Soya lecithin), Raising agent (500 (ii)), Yeast, Flour treatment agents (516 and 1101(i)) and lodized salt. CONTAINS ADDED FLAVOUR (ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES). MAY CONTAIN PEANUTS MAHA CRUNCH ilicious",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89009802",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

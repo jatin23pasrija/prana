@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020462106",
+  "barcode_printed": "8906020462106",
+  "barcode_format": "EAN-13",
+  "name": "Crem Treat",
+  "brand": "bimbo",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Bun (72%): Refined Wheat Flour (Maida), Sugar, Yeast, Edibla Vegetable Fat (Interesterified), lodized Salt, Soya Flour, Preservative (282), Emulsifier (481(i), 471, Humectant (422), Acidity Regulator (330), Antioxidant (300). Bun Icing (28%): Sugar, Edible Vegetable Fat (Hydrogenated), Water, Mango Crush (9.32%) (Sugar, Water, Mango Concentrate, Stablizer (440), Acidity Regulators (330, 331 (iii)), Nature Identical Flavouring Substances Preservative (202), Food Colours (102, 110), Firming Agent (509), Refined Palmolein Oil, Humectant (422), Nature-Identical Flavouring Substances, Antioxidant (300), Emulsifier (471), Stabilizer (412), Food Colour (160a(iii)), Preservative (200).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020462106",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906055442630",
+  "barcode_printed": "8906055442630",
+  "barcode_format": "EAN-13",
+  "name": "Organic Amaranath Flour",
+  "brand": "organic-tattva",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 406,
+        "energy_kj": 1700,
+        "protein_g": 14.95,
+        "carbohydrate_g": 70.1,
+        "sugars_g": 1.74,
+        "fat_g": 4.72,
+        "saturated_fat_g": 0.83,
+        "fibre_g": 11.68,
+        "sodium_mg": 2560
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906055442630",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

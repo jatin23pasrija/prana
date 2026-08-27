@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08939116154906",
+  "barcode_printed": "8939116154906",
+  "barcode_format": "EAN-13",
+  "name": "Naturaltein The Good Prot",
+  "brand": "naturaltein",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "*RDA as per **RDA not established Protein Blend 87% (Pea Protein Isolate, Whey Protein Concentrate), Cocoa Powder, Sunflower Lecithin (INS 322), Guar Gum (INS 412), Lactase (Enzyme), Stevia Extract (INS 960) Thaumatin (INS 957), Natural Flavour (Chocolate).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939116154906",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002081523",
+  "barcode_printed": "8906002081523",
+  "barcode_format": "EAN-13",
+  "name": "Chicken masala",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 421.7,
+        "protein_g": 14.2,
+        "carbohydrate_g": 55.9,
+        "sugars_g": 10.3,
+        "fat_g": 15.7,
+        "saturated_fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002081523",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

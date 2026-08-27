@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906015614978",
+  "barcode_printed": "8906015614978",
+  "barcode_format": "EAN-13",
+  "name": "Hangyo Pink Guava Icecream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 193,
+        "protein_g": 3.6,
+        "carbohydrate_g": 21.7,
+        "sugars_g": 18.45,
+        "fat_g": 10.2,
+        "saturated_fat_g": 6.4,
+        "sodium_mg": 130
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906015614978",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

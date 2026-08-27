@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151031",
+  "barcode_printed": "8901063151031",
+  "barcode_format": "EAN-13",
+  "name": "Hazeulnut flavetoud creme wafers",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 175,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 160,
+        "protein_g": 2,
+        "carbohydrate_g": 20,
+        "sugars_g": 11,
+        "fat_g": 8,
+        "saturated_fat_g": 7,
+        "fibre_g": 0,
+        "sodium_mg": 70
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, WHEAT FLOUR ,COCONUT OIL ,WHEY POWDER (10.5%), VEGETABLE FAT (PALM), SKIM MILK POWDER (3.8%), COCOA PÓWDER PROCESSED WITH ALAKALI (3.3%), HAZELNUT PASTE (3.3%),WHOLE MILK POWDER (1%), SOY LECITHIN (EMULSIFÌER), SODIUM BICARBONATE (LEAVENING), SALT, CARAMEL:COLOUR (CONTAINS SULPHITES), ARTIFICIAL FLAVOUR (VANILLA) , BACTERIAL PROTEASE (ENZYME). CONTAINS WHEAT,MILK PRODUCTS,SOY, HAZELNUT & SULPHITES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151031",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

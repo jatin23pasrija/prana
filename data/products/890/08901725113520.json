@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725113520",
+  "barcode_printed": "8901725113520",
+  "barcode_format": "EAN-13",
+  "name": "Glucose Biscuits",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 449,
+        "protein_g": 8.3,
+        "carbohydrate_g": 75,
+        "sugars_g": 29.2,
+        "fat_g": 12.9,
+        "saturated_fat_g": 6.1
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (60.5%), SUGAR, REFINED PALM OIL, INVERT SYRUP, RAISING AGENTS [INS 503(1), INS 500 (i)], IODIZED SALT, LIQUID GLUCOSE (0.5%), EMULSIFIERS [INS 322(0, INS 472e], MILK SOLIDS (0.1%), MINERAL AND VITAMIN PREMIX [MZINC (ZINC OXIDE), ^VITAMIN A (RETINYL PALMITATE)] AND FLOUR TREATMENT AGENT (INS 223)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725113520",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

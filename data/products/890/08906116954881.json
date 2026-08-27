@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906116954881",
+  "barcode_printed": "8906116954881",
+  "barcode_format": "EAN-13",
+  "name": "Gritzo Supermilk",
+  "brand": "gritzo",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk Protein Blend (Whey Protein Concentrate, Skimmed Milk Powder & Milk Protein Concentrate). Cane Sugar (Unrefined), Cocoa Powder, Colostrum Powder, Minerals**, Natural Flavouring Substance, Vitamins*, Lecithin, Natural Guar Gum & Ashwagandha (Withania somnifera) Root Extract",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906116954881",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

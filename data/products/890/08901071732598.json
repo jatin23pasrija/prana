@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071732598",
+  "barcode_printed": "8901071732598",
+  "barcode_format": "EAN-13",
+  "name": "HERSHEY'S",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Milk Solids (#11%), Sugar, Mineral (Calcium carbonate), Emulsifiers (460), 466,471), Flavours (Artificial Flavouring Substances - Kaju Kathli and Butterscotch Ice cream), Stabilizers (415, 407), Sequestrant (339(i)), Mineral (Zinc Sulphate), Vitamin E (Acetate, Vitamin A (Acetate), Vitamin D2 (Ergocalciferol), Vitamin B1 (Thiamine Chloride Hydrochloride), Vitamin B2 (Riboflavin), Edible Common Salt, Synthetic Food Colour (110) and Cashew Paste (#0.002%) ALLERGEN INFORMATION: CONTAINS MILK AND NUT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071732598",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

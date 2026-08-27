@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262300520",
+  "barcode_printed": "8901262300520",
+  "barcode_format": "EAN-13",
+  "name": "Amul Frostik Gold",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Inner Layer - Chocolate Stick (22%): Cocoa solids, sugar, coconut oil, milk solids, cocoa butter, emulsifier (322); Middle Layer - Chocolate Ice Cream (58%): Milk solids, sugar, cocoa solids emulsifier (471), stabilizers (407, 466, 415, 412); Outer Layer-Choco Layer Coating (20%): Cocoa solids sugar, coconut oil, milk solids, cocoa butter, emulsifier (322), cashew pieces (4.5%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262300520",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

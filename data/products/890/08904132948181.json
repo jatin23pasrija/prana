@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132948181",
+  "barcode_printed": "8904132948181",
+  "barcode_format": "EAN-13",
+  "name": "Campa Orange Flavour 500ml",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "sugars_g": 0.01,
+        "fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (330), STABILIZERS (414, 445) COLORS (110, 122), PRESERVATIVE (211), NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132948181",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

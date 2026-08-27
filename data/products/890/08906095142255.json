@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906095142255",
+  "barcode_printed": "8906095142255",
+  "barcode_format": "EAN-13",
+  "name": "Elite Gel 180",
+  "brand": "unived",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 438,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "73 g",
+        "quantity": {
+          "value": 73,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 180,
+        "protein_g": 0,
+        "carbohydrate_g": 45,
+        "sugars_g": 25,
+        "fat_g": 0,
+        "sodium_mg": 228
+      }
+    }
+  ],
+  "ingredients_raw": "Maltodextrin, Water, Fructose, Sodium Citrate, Beta-Alanine, Magnesium Citrate, Sodium Chlo - ride, Sea Salt, Potassium Chloride. OTHER INGREDIENTS: Citric Acid (Acid Regulator), Lime Flavour, Potassium Sorbate (Preservative), Sodium Ben - zoate (Preservative). CONTAINS ADDED NATURE IDENTICAL FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906095142255",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

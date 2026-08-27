@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016809377",
+  "barcode_printed": "8908016809377",
+  "barcode_format": "EAN-13",
+  "name": "Soya Chaap Tandoori",
+  "brand": "blue-tribe",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 182,
+        "protein_g": 12,
+        "carbohydrate_g": 9.1,
+        "fat_g": 10.8,
+        "saturated_fat_g": 1,
+        "fibre_g": 5.5
+      }
+    }
+  ],
+  "ingredients_raw": "Soya chaap (Potable Water, Soya flour, Wheat gluten, Tapioca starch, Iodized Salt, Fibers (Wheat, Psyllium Husk), Spices, Roasted Onions, Edible Vegetable Oil (Rice Bran Oil Mustard) Lemon Powder, Garlic Paste, Ginger Paste, Natural & Nature identical flavours , Roasted Chana Powder, Spices",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016809377",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

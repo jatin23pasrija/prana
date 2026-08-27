@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906113490894",
+  "barcode_printed": "8906113490894",
+  "barcode_format": "EAN-13",
+  "name": "Soulfull Millet muesli",
+  "brand": "tata",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 405,
+        "protein_g": 8.8,
+        "carbohydrate_g": 80,
+        "sugars_g": 16,
+        "fat_g": 5.7,
+        "saturated_fat_g": 1.6,
+        "trans_fat_g": 5.7,
+        "fibre_g": 8.7,
+        "sodium_mg": 185
+      }
+    }
+  ],
+  "ingredients_raw": "Rolled Oats (35%), Whole Wheat Flakes (20%), Millets (16%) [Ragi (9.7%), Jowar (6.3%)], Refined Sugar, Corn Flakes (5%), Invert Sugar Syrup, Almond (3%), Raisins (3%), Honey (1.3%), Malt Extract, Wheat Bran, Edible Vegetable Oil (Palmolein), Emulsifier (INS 322(i)), lodised Salt, Anticaking Agent (INS 170(i)), Natural Flavour, Antioxidant (INS 320). ALLERGENS: Contains Nut, Oats, Soy, Wheat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906113490894",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

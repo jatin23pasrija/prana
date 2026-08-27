@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906090572965",
+  "barcode_printed": "8906090572965",
+  "barcode_format": "EAN-13",
+  "name": "Chips Kashmiri Mirchi",
+  "brand": "too-yumm",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato (56%), Edible Vege Bran Oil), Seasoning [Maltodextrin, lodised Condiments {Onion Powder, Garlic Powder, (0.9%)}, Hydrolyzed Vegetable Protein, Natu identical Flavouring Substances, Refined Wh (Maida), Starch, Black Salt, Tomato Powder, Y Acidity Regulators (INS 296, INS 330), Flavour E (INS 627, INS 631), Colour (INS 160c), Anticaking (INS 551)] *Used as natural flavouring agent ALLERGEN STATEMENT: CONTAINS WHEAT AND MAY CONTAIN MILK, PEANUTS AND SULPHITE FOR MFG UNIT & LIC. NO. READ THE FIRST TWO L OF BATCH NO., SEE BELOW AND FOR NAME, ADD SCAN THE BARCODE ON SMART CONSUMER API Manufactured by: N2: LIC. NO. 10020031003467 N4: LIC. NO. 10019051003025 N5: LIC. NO. 11222999000432 N6: LIC. NO. 10018043002139 N7: LIC. NO. 10015021001635",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906090572965",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

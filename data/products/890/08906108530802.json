@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906108530802",
+  "barcode_printed": "8906108530802",
+  "barcode_format": "EAN-13",
+  "name": "sweet corn soup",
+  "brand": "inchi",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 15,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato Starch, Sugar, Dried Glucose Syrup, Edible Comman Salt, Dehydrated Vegetables 9.0% (Corn 5%, Carrot 2%,Cabbage 1.5%. Parsley 0.5%), Flavour Enhancer (INS 635), Soy Sauce Powder (soybean, wheat, salt), Dehydrated Vegetable Powders (onion, garlic), Acidity Regulator (INS 330), Chilli Powder, Turmeric Powder, Pepper Powder, Sunflower Oil, Anticaking Agent (INS 551), Thickener (INS 415), Flavours-Natural Identical Flavouring Substance (Sweetcorn).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906108530802",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

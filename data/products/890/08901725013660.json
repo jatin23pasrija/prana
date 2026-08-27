@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725013660",
+  "barcode_printed": "8901725013660",
+  "barcode_format": "EAN-13",
+  "name": "bingo mad angles",
+  "brand": "itc-limited",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 15,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 526,
+        "protein_g": 5.6,
+        "carbohydrate_g": 61.2,
+        "sugars_g": 6,
+        "fat_g": 29.5,
+        "saturated_fat_g": 13.8,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 758.8
+      }
+    }
+  ],
+  "ingredients_raw": "RICE GRITS, SEASONING {REFINED PALMOLEIN, SUGAR, 'SPICES AND CONDIMENTS, IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES, HYDROLYZED VEGETABLE PROTEIN AND NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES), REFINED PALMOLEIN, DEGERMED CORN GRITS AND BENGAL GRAM GRITS. *USED AS FLAVOURING AGENTS. CONTAINS SOY. MAY CONTAIN MILK, WHEAT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725013660",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

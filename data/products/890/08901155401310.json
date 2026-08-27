@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901155401310",
+  "barcode_printed": "8901155401310",
+  "barcode_format": "EAN-13",
+  "name": "Dal Tadka",
+  "brand": "gits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "eau pois chiche bruns lentilles rouges(7%) tomate oignon. Fantome (Ghee)/Beurre clarifié (lait) huile tournesol ail haricots rouges sel piments verts gingembre cumin curcuma coriandre asafoeetida. aucun preservatif 100% vegetarien pas de colorants artificiels pas de saveurs artificielles contient des solides du lait",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901155401310",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

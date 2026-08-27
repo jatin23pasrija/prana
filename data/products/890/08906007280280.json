@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906007280280",
+  "barcode_printed": "8906007280280",
+  "barcode_format": "EAN-13",
+  "name": "Fortune Refined Sunflower Oil",
+  "brand": "fortune",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 5000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Refined Sunflower Oil, Permitted Antioxidant-TBHQ (E-319), Vitamin A and Vitamin D. Saturated Fat #NM MAX. RETAIL PRICE : INCLUSIVE OF OOOO 0% 13.65 20.37% 2.32 10.55% 0.14 7.00% 0% Explore fortune 19 ad wil For a healthy g Markete Corporal Near Na Ahmeda For manu License No the bracke FOR ANY CUSTOME TOLL-FREE FREE FR USE BY D DRY PLAC 620.00 (USPF 124.0",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906007280280",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

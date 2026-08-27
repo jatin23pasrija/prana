@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076131971",
+  "barcode_printed": "8906076131971",
+  "barcode_format": "EAN-13",
+  "name": "Zero Maida Country Sourdough",
+  "brand": "the-baker-s-dozen",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50 g",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 126,
+        "protein_g": 4.23,
+        "carbohydrate_g": 27,
+        "sugars_g": 3,
+        "fat_g": 0.3,
+        "saturated_fat_g": 0.15,
+        "fibre_g": 0.75,
+        "sodium_mg": 103
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076131971",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

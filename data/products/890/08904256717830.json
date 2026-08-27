@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08904256717830",
+  "barcode_printed": "8904256717830",
+  "barcode_format": "EAN-13",
+  "name": "Brown rice chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 429.26,
+        "protein_g": 8.5,
+        "carbohydrate_g": 73.21,
+        "sugars_g": 1.71,
+        "fat_g": 11.38,
+        "saturated_fat_g": 3.01,
+        "sodium_mg": 312.7
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904256717830",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

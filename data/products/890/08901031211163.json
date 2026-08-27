@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901031211163",
+  "barcode_printed": "8901031211163",
+  "barcode_format": "EAN-13",
+  "name": "Cocoa powder 100% cocoa natural unsweetened",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 225,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 409,
+        "protein_g": 19.6,
+        "carbohydrate_g": 58,
+        "sugars_g": 1.8,
+        "fat_g": 11,
+        "saturated_fat_g": 6.5,
+        "fibre_g": 33,
+        "sodium_mg": 4000
+      }
+    }
+  ],
+  "ingredients_raw": "HERSHEY'S COCOA POWDER MEDIUM FAT COCOA POWDER HIGH IN NATURAL DIETARY CONTAINS NATURALLY OCCURRING SUGARS^",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901031211163",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

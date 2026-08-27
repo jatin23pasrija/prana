@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08904018621757",
+  "barcode_printed": "8904018621757",
+  "barcode_format": "EAN-13",
+  "name": "Jeera goli",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sweeted Rose Petal paste, cumin seed powder, Added Suger, Corinader Seeds Powder, Dry Mango Powder, Mixed Spices (Black pepper, Cassia, Clove) Edible salt & Acidity Regulator - 330 & cumin flavour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904018621757",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

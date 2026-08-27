@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005754022",
+  "barcode_printed": "8908005754022",
+  "barcode_format": "EAN-13",
+  "name": "Mango Pickle",
+  "brand": "deccan-achar",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 218.5,
+        "protein_g": 2.49,
+        "carbohydrate_g": 15.06,
+        "fat_g": 16.48,
+        "saturated_fat_g": 6.97,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Mango Pieces, lodised Salt, Edible Vegetable Oil, Red Chilli, Turmeric, Coriander Powder, cumin, nigella seeds, Mustards, Fenugreek Powder, Mixed Spices, Ginger, Garlic, PRESERVATIVE (E260)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005754022",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

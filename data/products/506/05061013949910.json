@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "05061013949910",
+  "barcode_printed": "5061013949910",
+  "barcode_format": "EAN-13",
+  "name": "Energy Ultra Rosà",
+  "brand": "monster",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, ACID (CITRIC ACID), FLAVOUR ENHANCER (ERYTHRITOL), TAURINE (0.4%), ACIDITY REGULATOR (SODIUM CITRATES), FLAVOURINGS, PANAX GINSENG ROOT EXTRACT (0.08%), PRESERVATIVES (SORBIC ACID, BENZOIC ACID), SWEETENERS (SUCRALOSE, ACESULFAME K), CAFFEINE (0.03%), L-CARNITINE L-TARTRATE (0.015%), VITAMINS (B3, B5, B6, B12), PURPLE SWEET POTATO CONCENTRATE, INOSITOL.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5061013949910",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

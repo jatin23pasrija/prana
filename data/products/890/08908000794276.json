@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000794276",
+  "barcode_printed": "8908000794276",
+  "barcode_format": "EAN-13",
+  "name": "Shrikhand",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 267,
+        "protein_g": 5.5,
+        "carbohydrate_g": 45.4,
+        "sugars_g": 45.1,
+        "fat_g": 7,
+        "saturated_fat_g": 6.1,
+        "sodium_mg": 23.9
+      }
+    }
+  ],
+  "ingredients_raw": "Chakka, Sugar, Elaichi, Nutmeg",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000794276",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

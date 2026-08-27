@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063214393",
+  "barcode_printed": "8904063214393",
+  "barcode_format": "EAN-13",
+  "name": "Aloo bhujia",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "440",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063214393",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262200677",
+  "barcode_printed": "8901262200677",
+  "barcode_format": "EAN-13",
+  "name": "amul masti dahi",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 65,
+        "protein_g": 4,
+        "carbohydrate_g": 4.6,
+        "sugars_g": 4.6,
+        "fat_g": 3.1,
+        "saturated_fat_g": 2,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "ingredients_raw": "dients: Pasteurised toned milk, milk solids, active gen Information: Contains milk. Nutritional Information 10 servings per container Perving size amount per 100 g* Energy (kcal) Total Fat (g) 100 g % RDA 3% 65 3.1 5% 2.0 9% 0.0 0% 9 4.6 4.6 Saturated Fat (g) Trans Fat (g) Cholesterol (mg) Carbohydrate (g) Total Sugars (g) Added Sugars (g) Protein (g) Sodium (mg) Calcium (mg) * RDA stands for Recommended Dietary 0.0 4.0 50 140 0% 3% Allowance per serving Average values Net Weight: 1 kg KEEP REFRIGERATED AT 4�C OR BELOW. AFTER OPENING, STORE IN A CONTAINER WITH LID REFRIGERATE AND CONSUME WITHIN 5 DAYS OR USE BY DATE, WHICHEVER IS EARLIER Milk Marketing Federation Ltd., ul.com",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262200677",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

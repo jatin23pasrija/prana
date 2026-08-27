@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904415900578",
+  "barcode_printed": "8904415900578",
+  "barcode_format": "EAN-13",
+  "name": "Regency Protein Trail Mix",
+  "brand": "regency",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Roasted Seeds - 75% (Pumpkin Seeds, Watermelon Seeds, Flax Seeds, Sunflower Seeds, Chia Seeds, Sesame Seeds Black & White), Roasted Almonds (15%), Dates (10%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904415900578",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

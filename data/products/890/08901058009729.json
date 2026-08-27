@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058009729",
+  "barcode_printed": "8901058009729",
+  "barcode_format": "EAN-13",
+  "name": "Masala Veg Atta Noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 72.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles: Wheat Flour (Atta) (84.2%), (not more than) Palm oil, Iodized salt, Wheat gluten, Thickeners (508&412), Humectants (451(i)&452(i)) and Acidity regulators (501(i) & 500 (i)). Masala TASTEMAKER: Dehydrated &quot;Guideline Daily Amounts of an Vegetables (22%) (Carrot bits (12%), Green peas",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058009729",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

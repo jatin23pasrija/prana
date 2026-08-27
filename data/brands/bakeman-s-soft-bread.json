@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "bakeman-s-soft-bread",
+  "name": "Bakeman S Soft Bread",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/brand/bakeman-s-soft-bread",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  }
+}

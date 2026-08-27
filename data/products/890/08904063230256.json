@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063230256",
+  "barcode_printed": "8904063230256",
+  "barcode_format": "EAN-13",
+  "name": "Paneer Makhani",
+  "brand": "haldirams",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 213,
+        "protein_g": 5.5,
+        "carbohydrate_g": 10.3,
+        "sugars_g": 0,
+        "fat_g": 16.7,
+        "saturated_fat_g": 7.6,
+        "sodium_mg": 440
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063230256",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

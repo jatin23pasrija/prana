@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08902901029857",
+  "barcode_printed": "8902901029857",
+  "barcode_format": "EAN-13",
+  "name": "Good Life MP Sharbati Atta",
+  "brand": "good-life",
+  "category": "flour",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 321,
+        "protein_g": 10.6,
+        "carbohydrate_g": 64.2,
+        "sugars_g": 1.8,
+        "fat_g": 1.5,
+        "saturated_fat_g": 0.2,
+        "fibre_g": 11.4,
+        "sodium_mg": 2
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flour (Atta)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902901029857",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

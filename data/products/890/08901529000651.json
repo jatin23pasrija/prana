@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901529000651",
+  "barcode_printed": "8901529000651",
+  "barcode_format": "EAN-13",
+  "name": "Hindostaanse Masala",
+  "brand": "h-nandan",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Koriander, kurkuma, komijn, MOSTERDZAAD, fenegriek, uienzaad, zwarte peper, gember. Kan sporen van selderij en sesam bevatten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901529000651",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

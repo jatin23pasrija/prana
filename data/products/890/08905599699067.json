@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08905599699067",
+  "barcode_printed": "8905599699067",
+  "barcode_format": "EAN-13",
+  "name": "Pain de campagne 100% épeautre",
+  "brand": "olz",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 262,
+        "protein_g": 9.7,
+        "carbohydrate_g": 46,
+        "sugars_g": 1.63,
+        "fat_g": 3.5,
+        "saturated_fat_g": 0.3,
+        "fibre_g": 3.9
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905599699067",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

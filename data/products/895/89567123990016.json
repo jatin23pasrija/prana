@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "89567123990016",
+  "barcode_printed": "89567123990016",
+  "barcode_format": "GTIN-14",
+  "name": "Trisha Gold Refined Soyabean Oil",
+  "brand": "trisha-gold",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 900,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "saturated_fat_g": 16
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Soyabean Oil",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89567123990016",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

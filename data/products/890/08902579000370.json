@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579000370",
+  "barcode_printed": "8902579000370",
+  "barcode_format": "EAN-13",
+  "name": "Frooti mango drink",
+  "brand": "parle-agro",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, MANGO PULP (19.5%), SUGAR, ACIDITY REGULATORS [(INS330, INS331(iii)],ANTIOXIDANT (INS300), MATURE-IDENTICAL FLAVOURING SUBSTANCES (MANGO) AND SYNTHETIC FOOD COLOUR (INS110).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579000370",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

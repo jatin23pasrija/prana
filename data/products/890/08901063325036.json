@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063325036",
+  "barcode_printed": "8901063325036",
+  "barcode_format": "EAN-13",
+  "name": "Britannia toastea 250gm",
+  "brand": "britannia",
+  "category": "rusk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 432,
+        "protein_g": 9.2,
+        "carbohydrate_g": 80.9,
+        "sugars_g": 20.8,
+        "fat_g": 8,
+        "saturated_fat_g": 3.7,
+        "sodium_mg": 213
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (71%), SUGAR, REFINED PALM AND PALMOLEIN OIL, SEMOLINA (SUJI) (1.8%), YEAST, VITAL GLUTEN, COLOUR (150a), INVERT SUGAR SYRUP, IODISED SALT, EMULSIFIERS (472e, 471), SPICE (0.3%) (GREEN CARDAMOM SEEDS), BREAD IMPROVER (STARCH, SOYA FLOUR, IMPROVERS [1100(i), 1104, 1102]), WHEAT FIBER, NATURE IDENTICAL & ARTIFICIAL (MILK) FLAVOURING SUBSTANCES AND ANTIOXIDANT (300). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT AND SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063325036",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

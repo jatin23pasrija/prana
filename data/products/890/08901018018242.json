@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901018018242",
+  "barcode_printed": "8901018018242",
+  "barcode_format": "EAN-13",
+  "name": "Sandwich Bread",
+  "brand": "nilgiris",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 264.17,
+        "protein_g": 6.59,
+        "carbohydrate_g": 49.17,
+        "sugars_g": 4.72,
+        "fat_g": 4.57,
+        "saturated_fat_g": 1.14,
+        "fibre_g": 2.35,
+        "sodium_mg": 15.13
+      }
+    }
+  ],
+  "ingredients_raw": "Refined wheat flour (Maida) (56.75%), Potable Water, Sugar (4.72%), Yeast, Edible Vegetable Oil (Refined Palmolein oil), Edible common salt (lodized Salt), Preservative INS-282, Edible Vegetable Oil (Refined Sunflower oil), Wheat Gluten, Bread Improver INS-1100, Soya Flour, Emulsifier INS-471, 481, Acidity regulator INS-260.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901018018242",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906087452331",
+  "barcode_printed": "8906087452331",
+  "barcode_format": "EAN-13",
+  "name": "Coconut Jaggery Millet Muesli",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 377.78,
+        "protein_g": 10,
+        "carbohydrate_g": 77.78,
+        "sugars_g": 4.44,
+        "fat_g": 2.22,
+        "saturated_fat_g": 0,
+        "fibre_g": 8.89,
+        "sodium_mg": 66.67
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906087452331",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

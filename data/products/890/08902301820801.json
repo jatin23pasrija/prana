@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08902301820801",
+  "barcode_printed": "8902301820801",
+  "barcode_format": "EAN-13",
+  "name": "Epices pour biryani",
+  "brand": "parampara",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Mélange à la coriandre, à la menthe et aux épices pour poulet Biryani. i ngredier;ts: oignons déshydratés, huile de tournesol (contient antioxydant: E320), herbes (12%) (feuilles de menthe (9%), feuilles de coriandre (2%), feuilles de laurier), ail, gingembre, épices (7%) (poudre de piment rouge, coriandre (1 0%), curcuma, cardamome, graines de fenouil/ cumin, cannelle, poivre noir, clous de girofle, anis étoilé, noix de muscade), pomme de terre déshydratée, sel, tomates en poudre, sucre, maltodextrine, correcteurs d'acidité : acide acétique, acide citrique.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902301820801",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

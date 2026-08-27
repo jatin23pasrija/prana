@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901220004804",
+  "barcode_printed": "8901220004804",
+  "barcode_format": "EAN-13",
+  "name": "Baidyanath Siddhayu Noni+ Juice",
+  "brand": "baidyanath-siddhayu",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Noni (Morinda citrifolia, Fr.) Juice - 97ml, Garcinia (Garcinia (cambogia, Fr.) Juice - 1ml, Ashwagandha (Withania somnifera, Pt) Juice - 1ml, Preservatives & Excipients (E-330 - Q.S., E-21 - Q.S., E-202 - Q.S., E-15od-Q.S.)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901220004804",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

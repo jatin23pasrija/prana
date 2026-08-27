@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010911065",
+  "barcode_printed": "8906010911065",
+  "barcode_format": "EAN-13",
+  "name": "Dairy Day Strawberry Medium Fat Frozen Dessert",
+  "brand": "dairy-day",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 29,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk Solids, Water, Sugar Edible Vegetable Oil (Palm Kernel Oil), Emulsifier and Stabiliser (INS 471,412,433,407,401), CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 122) AND ADDED FLAVOUR-NATURE IDENTICAL STRAWBERRY FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010911065",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

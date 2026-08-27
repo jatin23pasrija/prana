@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201757359",
+  "barcode_printed": "7622201757359",
+  "barcode_format": "EAN-13",
+  "name": "Bourn Vita biscuits",
+  "brand": "cadbury",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 455,
+        "protein_g": 6.7,
+        "carbohydrate_g": 73.5,
+        "sugars_g": 34.2,
+        "fat_g": 15.1,
+        "saturated_fat_g": 6.7,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 300
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (51%*), Sugar, Palmolein Oil, Cereal Based Beverage Mix 5%( Cereal Extract 57%* (Barley, Wheat), Sugar, Cocoa Solids, Colour (150c), Liquid Glucose, Wheat Gluten, Maltodextrin, Emulsifiers (322,471), Edible Rennet Casein, Milk Solids, Vitamins, Minerals, Raising Agent (500(ii)), lodised Salt, Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances)), Invert Sugar, Cocoa Solids (1.5%*), Milk Solids (1%), Leavening Agents (500 (ii), 503 (ii)). Minerals, lodised Salt, Flavours (Natural & Nature Identical Flavouring Substances), Emulsifier(322), Colour (150c), Vitamins. Allergen Information: Contains Milk, Wheat, Barley, Soy. May Contain Tree nuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201757359",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

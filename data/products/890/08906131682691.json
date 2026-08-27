@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131682691",
+  "barcode_printed": "8906131682691",
+  "barcode_format": "EAN-13",
+  "name": "Oats Multi Grain",
+  "brand": "mille",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 388.7,
+        "protein_g": 11.6,
+        "carbohydrate_g": 68.2,
+        "sugars_g": 1,
+        "fat_g": 7.8,
+        "saturated_fat_g": 0.1,
+        "trans_fat_g": 0,
+        "fibre_g": 13.9,
+        "sodium_mg": 0.9
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131682691",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058008050",
+  "barcode_printed": "8901058008050",
+  "barcode_format": "EAN-13",
+  "name": "Maggi",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 384,
+        "protein_g": 8.2,
+        "carbohydrate_g": 41.7,
+        "sugars_g": 1.8,
+        "fat_g": 12.5,
+        "saturated_fat_g": 8,
+        "trans_fat_g": 0.13,
+        "fibre_g": 0,
+        "sodium_mg": 1028.3
+      }
+    }
+  ],
+  "ingredients_raw": "Refined wheat flour (Maida), Palm oil, lodized salt, Wheat gluten, Thickeners (508&412), Acidity regulators (501 (i) & 500 (i)) and Humectant (451). Ware NUTRITIONAL INFORM Taserne's 10 g NUTRITION INFRNATION Enery(kcal) Masala *TASTEMAKER®: Mixed spices (25.6%) (Onion powder, Coriander powder, Carbohydrate (g) Turmeric powder, Red chilli powder, Garlic powder, Cumin powder, Aniseed powder, Ginger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder & Nutmeg powder), Refined witeat flour (Maida), Hydrolysed groundnut protein, Sugar, Palm oil, Starch, lodized salt, Thickener (508), Flavour enhancer (635), Toasted onion flakes, Acidity regulator (330), Colour (150d), Mineral and Wheat gluten. Allergen Note: Contains Wheat and Nut. May contain Milk, Mustard, Oats and Soj Protein (9) - Total Sugars 19 - Added Sugars Total Fat Saturated Fat (g) (not more th Trans Fat (9)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058008050",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902433003707",
+  "barcode_printed": "8902433003707",
+  "barcode_format": "EAN-13",
+  "name": "galaxy milk chocolate smooth milk",
+  "brand": "mars-international-india-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 56,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Milk solids, Cocoa butter, Cocoa solids, Edible vegetable fats &lt;5% (Sal fat, Palm oil), Humectant (422), Emulsifiers (322, 476). CONTAINS VEGETABLE FAT IN ADDITION TO COCOA BUTTER Contains Milk and Soy. May contain Barley, Wheat, Treenuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902433003707",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

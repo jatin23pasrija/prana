@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00846203004878",
+  "barcode_printed": "0846203004878",
+  "barcode_format": "EAN-13",
+  "name": "Bakarwadi",
+  "brand": "chitale",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Bengal Gram Flour, Refined Groundnut Oil, Sugar Syrup (Refined Sugar, Water), Refined Sugar, Green Chilli, lodised Salt, Coriander Leaves, Grated Desiccated Coconut, Spices (Red Chilli Powder, Cumin Seed Powder, Coriander Seed Powder, Asafoetida), Tamarind Concentrate, Coriander Leaf Extract, Sesame Seeds. A S E",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0846203004878",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

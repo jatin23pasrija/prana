@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08908004010464",
+  "barcode_printed": "8908004010464",
+  "barcode_format": "EAN-13",
+  "name": "Two Majestic Cashew and fruit biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 515.63,
+        "protein_g": 7.81,
+        "carbohydrate_g": 64.06,
+        "sugars_g": 20.31,
+        "fat_g": 26.56,
+        "saturated_fat_g": 11,
+        "fibre_g": 4.69,
+        "sodium_mg": 46.88
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908004010464",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

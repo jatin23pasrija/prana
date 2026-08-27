@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07627536958983",
+  "barcode_printed": "7627536958983",
+  "barcode_format": "EAN-13",
+  "name": "Lait noisettes",
+  "brand": "coop-prix-garantie",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Zucker, Haselnüsse 27%* (Türkei), Kakaobutter 15%, Vollmilchpulver, Kakaomasse 8%, Molkenpulver, Magermilchpulver, Emulgator (E 322 aus Soja), eingesottene Butter, Haselnusspaste* 0,1% (Türkei), fettarmes Ka - kaopulver 0,1%, Vanilleschoten, natürliches Aroma. Kann Spuren von Mandeln enthalten. Kakao: 31%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7627536958983",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

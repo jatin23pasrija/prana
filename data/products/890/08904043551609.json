@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043551609",
+  "barcode_printed": "8904043551609",
+  "barcode_format": "EAN-13",
+  "name": "modern milk plus bread",
+  "brand": "modern",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Milk Solids (3.4%), Yeast, lodized Salt, Edible Vegetable Fat (Interesterified), Gluten, Soya Flour, Preservatives (282, 200), Flour Treatment Agents (341(iii), 510}, Stabilizer (170(i)), Emulsifier (481(i)}, Acidity Regulators (260, 297) and Antioxidant",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043551609",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

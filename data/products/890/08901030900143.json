@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030900143",
+  "barcode_printed": "8901030900143",
+  "barcode_format": "EAN-13",
+  "name": "Sweet Corn Chicken Soup",
+  "brand": "knorr",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 gi (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 332,
+        "protein_g": 8.2,
+        "carbohydrate_g": 69,
+        "sugars_g": 21.8,
+        "fat_g": 3.5,
+        "fibre_g": 3.8,
+        "sodium_mg": 4865
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030900143",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

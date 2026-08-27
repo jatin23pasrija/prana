@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "05059883473253",
+  "barcode_printed": "5059883473253",
+  "barcode_format": "EAN-13",
+  "name": "Date Delight Impact Whey Protein",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 383,
+        "protein_g": 73.19,
+        "carbohydrate_g": 8.85,
+        "sugars_g": 5.09,
+        "fat_g": 5.83,
+        "saturated_fat_g": 3.58,
+        "fibre_g": 1.08,
+        "sodium_mg": 180
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5059883473253",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

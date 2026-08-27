@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016716422",
+  "barcode_printed": "8908016716422",
+  "barcode_format": "EAN-13",
+  "name": "Protien Powder - Mango Ice Cream",
+  "brand": "fulled",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1.0 portion (33.0 g)",
+        "quantity": {
+          "value": 33,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 124.25,
+        "protein_g": 24,
+        "carbohydrate_g": 2.78,
+        "sugars_g": 1.18,
+        "fat_g": 2.1,
+        "saturated_fat_g": 1.05,
+        "sodium_mg": 130.86
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016716422",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161394083",
+  "barcode_printed": "8906161394083",
+  "barcode_format": "EAN-13",
+  "name": "Masala rings",
+  "brand": "let-s-try",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 57,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rice Flour, Corn Flour, Edible Vegetable Oil (Refined Cottonseed Oil), *Spice & Condiments (Nutmeg, Clove, Black Salt, Dry Mango Powder, Coriander, Black Cumin, Cinnamon, White Cumin, Pudina Powder, Tomato Paste, lodised Salt, Deggi Mirch, Permitted Flavours, Acidity Regulator (INS 330), Paprika, Calcium Carbonate (INS 170 (i)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161394083",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

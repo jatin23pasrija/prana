@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719902413",
+  "barcode_printed": "8901719902413",
+  "barcode_format": "EAN-13",
+  "name": "Parle-G Original Gluco Biscuits",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Enriched wheat flour, Sugars (sugar, invert sugar syrup), Palm oil, Salt, Leavening (ammonium bicarbonate, sodium bicarbonate), Skim milk powder, Artificial vanilla flavour, Enzyme (papain) and Emulsifier (diacetyl tartaric acid esters of mono - and diglycerides) Contains: Wheat, Milk. May contain: Soy, Mustard, Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719902413",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08906000913062",
+  "barcode_printed": "8906000913062",
+  "barcode_format": "EAN-13",
+  "name": "Jain Schezwan sauce",
+  "brand": "aatash",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1kg",
+        "quantity": {
+          "value": 1000,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 128,
+        "energy_kj": 128,
+        "protein_g": 2.12,
+        "carbohydrate_g": 20.5,
+        "sugars_g": 10.24,
+        "fat_g": 5.2,
+        "saturated_fat_g": 4.12,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Tomatoes(15%), Sugar(10%), chillies(8%), oil, water, soy sauce, herbs & spices. flavour enhancers(INS-627, INS-631), Emulsifying agent(INS - 415), Acidfying agent (INS-260), preservatives(INS-211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906000913062",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020460683",
+  "barcode_printed": "8906020460683",
+  "barcode_format": "EAN-13",
+  "name": "Harvest Gold 100% Whole Wheat Bread",
+  "brand": "harvest-gold",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 251,
+        "protein_g": 9.3,
+        "carbohydrate_g": 51,
+        "sugars_g": 3.6,
+        "fat_g": 1.19,
+        "saturated_fat_g": 0.42,
+        "fibre_g": 6.4,
+        "sodium_mg": 480
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour Atta (54%), Sugar, Wheat Protein, Yeast, Wheat Bran (3%), Refined Soyabean Oil, Refined Palmolein Oil, Class 2 Preservative (E282), Permitted Emulsifier, Acidity Regulator, Antioxidant",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020460683",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

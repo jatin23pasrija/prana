@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491003025",
+  "barcode_printed": "8901491003025",
+  "barcode_format": "EAN-13",
+  "name": "Dinamita Sizzling Hot",
+  "brand": "doritos",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 56,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 512,
+        "protein_g": 6.8,
+        "carbohydrate_g": 63,
+        "sugars_g": 1.4,
+        "fat_g": 26,
+        "saturated_fat_g": 10.6,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 699
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491003025",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

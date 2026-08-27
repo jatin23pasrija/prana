@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725001308",
+  "barcode_printed": "8901725001308",
+  "barcode_format": "EAN-13",
+  "name": "Bingo Potato Chips Cream & Onion",
+  "brand": "itc",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 52,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 543,
+        "energy_kj": 2273,
+        "protein_g": 4.8,
+        "carbohydrate_g": 54.5,
+        "sugars_g": 4.8,
+        "fat_g": 32.3,
+        "saturated_fat_g": 14.1,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "POTATO (57.9%), REFINED PALMOLEIN, SEASONING MIX [MILK SOLIDS (1.8%), REFINED SUGAR, DEXTROSE, ONION POWDER (1.0%), IODISED SALT, DRIED PARSLEY LEAVES (0.4%), SOY SAUCE POWDER, CHEESE POWDER (0.2%), ACIDITY REGULATOR (INS 330), ANTICAKING AGENT (INS 551) & FLAVOUR ENHANCER (INS 627, INS 631)] AND IODISED SALT. CONTAINS ADDED FLAVOURS(S) (NATURAL FLAVOURS & NATURAL FLAVOURING SUBSTANCES - CREAM & NATURE IDENTICAL FLAOURING SUBSTANCES - CHEESE)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725001308",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

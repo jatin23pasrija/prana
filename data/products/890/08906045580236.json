@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906045580236",
+  "barcode_printed": "8906045580236",
+  "barcode_format": "EAN-13",
+  "name": "All in One",
+  "brand": "lalji",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 570.84,
+        "protein_g": 13.32,
+        "carbohydrate_g": 44.75,
+        "sugars_g": 6.15,
+        "fat_g": 37.62,
+        "saturated_fat_g": 9.07,
+        "sodium_mg": 541.13
+      }
+    }
+  ],
+  "ingredients_raw": "EDIBLE VEGETABLE OIL (Cotton Seed oil and/or Palmonien Oil, HUSKED GRAM (Pulse 14.0% Flour 5.5 %), Peanuts (12.5%), Lentil (9.0%),Husked Dew Gram, Rice Flakes (6.5%), Whole Gram, Potato Solids, Peas, Cornflakes, Edible Salt, Watermelon Seeds, Spices & Condiments and Citric Acid (E330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906045580236",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

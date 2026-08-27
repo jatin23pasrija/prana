@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901044059325",
+  "barcode_printed": "8901044059325",
+  "barcode_format": "EAN-13",
+  "name": "Mapro Mazaana Milk Chocolate",
+  "brand": "mapro",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 571,
+        "energy_kj": 2.85,
+        "protein_g": 7.5,
+        "carbohydrate_g": 53,
+        "sugars_g": 42,
+        "fat_g": 37,
+        "saturated_fat_g": 23,
+        "sodium_mg": 80
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Chocolate (Sugar, Cocoa liquor, Milk Solids, Emulsifiers (INS 322 (i), INS-476). Contains natural and nature identical flavouring substances (vanilla))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901044059325",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

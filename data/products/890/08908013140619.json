@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013140619",
+  "barcode_printed": "8908013140619",
+  "barcode_format": "EAN-13",
+  "name": "Hustle Energy Drink",
+  "brand": "hustle-energy",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 45,
+        "protein_g": 0,
+        "carbohydrate_g": 11,
+        "sugars_g": 11,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 58
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (INS 330, INS 331 (III), INS 500 (11), INS 504 (1) TAURINE (0.4%), FLAVOURS (NATURAL & ARTIFICIAL (MIXED FRUITS FLAVOUR COLOUR (150 a), CAFFEINE (30mg/100ml), PRESERVATIVES (INS 211), VITAMINS (NACIN, B6, B2, B12)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013140619",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017962507",
+  "barcode_printed": "8908017962507",
+  "barcode_format": "EAN-13",
+  "name": "Korean Cup Noodles",
+  "brand": "wicked-gud",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Instant Noodles: Whole Wheat Flour (Atta), Refined Rice Bran Oil, lodized Salt, Starch, Wheat Gluten, Potassium Chloride, Stabilizer (INS 508, INS 412), Humectant (INS 451 (i), Acidity Regulators (INS 500 8 (i), INS 501 (i)). Seasoning Mix: Salt, Hydrolyzed Vegetable Protein, Spices (Chilli, Pepper), Pre Gel Starch, Soya Sauce Powder, Potato Starch, Flavour Enhancers (E 621, E 635), Vegetable Powder & Flakes (Onion, Garlic, Tomato, Mushroom, Cabbage, Carrot, Green Onion), Sugar, Acidity Regulator (E330), Edible Vegetable Oil, Anticaking Agent (E 551). CONTAINS NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES. CONTAINS MONO SODIUM GLUTAMATE. ALLERGENS: THIS PRODUCT IS MANUFACTURED IN A FACILITY THAT ALSO PROCESSES INGREDIENTS CONTAINING MILK, SOY AND GROUNDNUTS. Not recommended for infants below 12 months and pregnant women. GUILT-FREE INDULGENCE. PINKY PROMISE. Never",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017962507",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

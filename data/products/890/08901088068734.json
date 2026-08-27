@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088068734",
+  "barcode_printed": "8901088068734",
+  "barcode_format": "EAN-13",
+  "name": "Saffola Masala Oats - Classic Masala",
+  "brand": "saffola",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 38,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (38 g)",
+        "quantity": {
+          "value": 38,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 139,
+        "protein_g": 3.3,
+        "carbohydrate_g": 26.8,
+        "sugars_g": 2.3,
+        "fat_g": 2.9,
+        "saturated_fat_g": 0.7,
+        "fibre_g": 3.7,
+        "sodium_mg": 793.8
+      }
+    }
+  ],
+  "ingredients_raw": "Rolled Oats (73.9 %), Maltodectrin, Salt, Spices and Condiments (34%) (Onions, Tumeric, Pepper, Cumin, Garlic, Fenugreek, Clove, Nutmeg, Red Chili), Dried Vegetables (Carrots (1.15%), Onions Flakes (1.15%), Green Peas(0.69%)), Sugar, Starch, Hydrolysed Vegetable Protein, Wheat Powder, Flavour Enhancers NS 627,631), Anlioxidant (320). CONTAINS ADDED FLAVOUR-NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088068734",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

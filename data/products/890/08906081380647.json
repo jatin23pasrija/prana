@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081380647",
+  "barcode_printed": "8906081380647",
+  "barcode_format": "EAN-13",
+  "name": "Idli Karam Podi",
+  "brand": "swetha-telugu-foods",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Roasted Bengal Gram Dal (25%), Black Lentils (Urad dal), Garlic, Red Chilli, Sesame, Salt, Cumin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081380647",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

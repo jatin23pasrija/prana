@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906088860203",
+  "barcode_printed": "8906088860203",
+  "barcode_format": "EAN-13",
+  "name": "Current stick",
+  "brand": "yashoda-foods",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rice Flour, Corn Flour, Gram Flour, Edible Vegetable Oil (Palmolein Oil), Sugar, lodized Salt, Garlic Powder, Red Chilli Powder, Pepper (White & Black) Powder, Onion Powder, Tomato Powder, Ginger Powder, Turmeric Powder, Amchur Powder, Coriander Seed Powder, Soy Sauce Powder,Maltodextrin (E1400), Flavour Enhancer (E621), Acidity Regulator (E330 & E296) and Paprika [E160 c(i)]. CONATINS PERMITTED FOOD COLOR PAPRIKA [E160c(i)] AND ADDED FLAVOUR ENHANCER (E621).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906088860203",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

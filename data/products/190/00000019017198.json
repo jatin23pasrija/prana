@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00000019017198",
+  "barcode_printed": "19017198",
+  "barcode_format": "EAN-8",
+  "name": "Parle tostea 1kg",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "FARINE DE BLE, HUILE VEGETALE ČOMESTĪBLE, LEVURE, EXTRAIT DE MALT, SEL, EMULSIFIANT D'ORIGINE VEGÉTALE (ESTERS D'ACIDE DIACETYLTARTRIQUE DE MONO ET DIGCEDIDES (E 47 META BISULFITE DE SODIUM (E 223] ET AMYLASE (E 11C 2. AP MP GH",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/19017198",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

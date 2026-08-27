@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005671707",
+  "barcode_printed": "8906005671707",
+  "barcode_format": "EAN-13",
+  "name": "Soya chips",
+  "brand": "charlie",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Han face Tapioca Flour (45%), Black Matpe Flour (18%), Soya Flour (10%), E Vegetable Oil (Refined Palmolein Oil) (9%), Rice Flour (7%), Jaijira (4 Seasonings (4%) (Ground Spices and Condiments: (Kashmiri Red Powder, Cumin, Black Pepper, Clove, Cinnamon, Black Cardamom). Cabbage Powder, Soya Powder, Acidifying Agents: Malic Acid (E296). Maltodextrin, Dextrose, lodised Salt, Sugar, Anticaking Agent: (ESS Paprika Oleoresin Colour (E160c)), lodised Salt (1%), Kashmiri Red Chill Powder (1%), Black Salt (1%). CONTAINS: SOY CONTAINS PERMITTED NATURAL COLOUR(S). CONTAINS ADDED FLAVOUR(S) (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES - MANCHURIAN). SEASONINGS USED AS A NATURAL FLAVOURING AGENT. ALLERGY ADVICE: This product was processed on machinery that also processes peanuts, tree nuts, wheat, soy, sesame, mustard and sulphites. CHIPS DE SOJA Ingrédients: co ca-Farine de matpe noire Farine de soja-Huile végétale e de palmoléine raffinée) Farine de riz Jaljira Assaisonnement (épices et condiments moulus: (kasmiri poudre de piment rouge, cumin, poivre noir, clou de girofle, cannelle, cardamome noire), poudre de chou, poudre de soja, agents acidifiants: acide malique (E296), maltodextrine, dextrose, sel loc Sucre, agent anti-agglomérant: (E551), couleur de l'oléorésine de paprika (E160c)) Sel lodé Kasmiri poudre de piment rouge Sel noir. Content: Soja. Contient des couleurs naturelles autorisées. Content des armes ajoutés (substances aromatisantes naturelles",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005671707",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764175091",
+  "barcode_printed": "8901764175091",
+  "barcode_format": "EAN-13",
+  "name": "Fruit drink",
+  "brand": "maaza",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 135,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 44,
+        "energy_kj": 184,
+        "protein_g": 0,
+        "carbohydrate_g": 11,
+        "sugars_g": 10.7,
+        "fat_g": 0,
+        "sodium_mg": 8.84
+      }
+    }
+  ],
+  "ingredients_raw": "NGREDIENTS: WATER, MANGO PULP(11.5%), SUGAR, ACIDITY REGULATORS 030 33 STABILIZER (466), ANTIOXIDANT 300 ,SWEETENER (960), COLOUR (110), MANGO FLAVOURS NATURE-DENTICAL & ARTIFICIAL FLAVORING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764175091",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

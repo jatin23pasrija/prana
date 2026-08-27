@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "00000019061658",
+  "barcode_printed": "19061658",
+  "barcode_format": "EAN-8",
+  "name": "Biozyme Whey PR",
+  "brand": "muscleblaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (45 g)",
+        "quantity": {
+          "value": 45,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 175,
+        "energy_kj": 732,
+        "protein_g": 30,
+        "carbohydrate_g": 7.93,
+        "fat_g": 2.53
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/19061658",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906014011242",
+  "barcode_printed": "8906014011242",
+  "barcode_format": "EAN-13",
+  "name": "Papad",
+  "brand": "420",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 305.38,
+        "protein_g": 21.2,
+        "carbohydrate_g": 53.75,
+        "sugars_g": 2.51,
+        "fat_g": 0.62,
+        "saturated_fat_g": 0.15,
+        "trans_fat_g": 0,
+        "fibre_g": 11.47,
+        "sodium_mg": 890.16
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906014011242",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

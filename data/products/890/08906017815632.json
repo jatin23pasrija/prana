@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906017815632",
+  "barcode_printed": "8906017815632",
+  "barcode_format": "EAN-13",
+  "name": "plain chaach",
+  "brand": "madhusudan",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 19,
+        "energy_kj": 79,
+        "protein_g": 1.5,
+        "carbohydrate_g": 2,
+        "sugars_g": 2,
+        "fat_g": 0.5,
+        "sodium_mg": 28
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906017815632",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

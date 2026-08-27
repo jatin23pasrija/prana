@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262176446",
+  "barcode_printed": "8901262176446",
+  "barcode_format": "EAN-13",
+  "name": "Pista malai kulfi",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 54.6,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 385,
+        "energy_kj": 1612,
+        "protein_g": 4.7,
+        "carbohydrate_g": 29.5,
+        "sugars_g": 22.5,
+        "fat_g": 27.7,
+        "saturated_fat_g": 13.5,
+        "trans_fat_g": 0.4,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Inner Layer - Ice Cream (68%): Milk Solids Sugar, Permitted Emulsifiers (E435, E471) and Stabilizers (E407, E412).Outer Layer - Coating (32%): Coconut Oil,Sugar, Milk Solids, Pistachio Pieces (2%), Permitted Emulsifier (E322). _CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES KULFI, PISTACHIO&CARDAMOM)_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262176446",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

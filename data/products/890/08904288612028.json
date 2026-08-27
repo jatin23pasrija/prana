@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904288612028",
+  "barcode_printed": "8904288612028",
+  "barcode_format": "EAN-13",
+  "name": "Mixed pickles",
+  "brand": "tops-gold",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 900,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Mixed Vegetables - 64% (Mango, Lime, Green Chilli, Carrot, Turnip, Dela, Cauliflower, Ginger, Lotus Stem), Iodised Salt, Mustard Oil, Fenugreek, Acidity Regulators (INS 330, INS 260), Aniseed, Red Chilli Powder, Lime Juice, Preservative (INS 211), Spices & Condiments, Turmeric Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904288612028",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

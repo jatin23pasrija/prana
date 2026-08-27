@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013950232",
+  "barcode_printed": "8908013950232",
+  "barcode_format": "EAN-13",
+  "name": "Super Strength Plant Protein Shake - Raw Chocolate Flavour",
+  "brand": "plix",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 363.24,
+        "energy_kj": 1521,
+        "protein_g": 73.5,
+        "carbohydrate_g": 17.46,
+        "sugars_g": 2,
+        "fat_g": 0.64,
+        "saturated_fat_g": 0.29,
+        "trans_fat_g": 0,
+        "fibre_g": 12.63,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Plant Protein Blend 84.5% (Pea protein isolate & Rice protein isolate), Cocoa powder (Alkalized) 8.35%, Natural & Nature identical flavoring substances, Grape seed extract (Vitis vinifera) 0.9%, Rock salt, Xanthan gum (INS 415), Vitamin Premix (Refer to nutrition facts), Sucralose (INS955), Papain (INS 1101(ii)) 0.15%, Bromelain (INS 1101(iii)) 0.15%, Lycopene 0.090%. CONTAINS ADDED NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES - CHOCOLATE & OTHERS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013950232",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "05430446642178",
+  "barcode_printed": "5430446642178",
+  "barcode_format": "EAN-13",
+  "name": "Dried Shirataki Long Grain Rice",
+  "brand": "urban-platter",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "40 g",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 25.6,
+        "protein_g": 0.6,
+        "carbohydrate_g": 5.6,
+        "fat_g": 0.1,
+        "saturated_fat_g": 0,
+        "fibre_g": 0.1,
+        "sodium_mg": 0.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5430446642178",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

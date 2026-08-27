@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08901246002075",
+  "barcode_printed": "8901246002075",
+  "barcode_format": "EAN-13",
+  "name": "Del Monte Tomato Ketchup",
+  "brand": "del-monte",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 156,
+        "protein_g": 2,
+        "carbohydrate_g": 37,
+        "sugars_g": 25,
+        "fat_g": 0,
+        "saturated_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Tomato Paste 29%, Sugar, Iodized Salt, Acidity Regulator (INS 260), Thickeners (INS 1422, INS 415), Spices and Condiments (Onion Powder, Garlic Powder, and Mixed Spices) and Preservative (INS 211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901246002075",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014378462",
+  "barcode_printed": "8908014378462",
+  "barcode_format": "EAN-13",
+  "name": "Epicos Lemon",
+  "brand": "epicos",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, SUGAR, LEMON JUICE CONCENTRATE (EQUIVALENT TO LEMON JUICE 2.5%), ACIDITY REGULATOR (330), ANTIOXIDANT (300), CONTAINS PERMITTED PRESERVATIVES CLASS-II (211) CONTAINS PERMITTED SYNTHETIC FOOD COLOUR ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES (LEMON).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014378462",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

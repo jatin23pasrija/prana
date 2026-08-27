@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262151306",
+  "barcode_printed": "8901262151306",
+  "barcode_format": "EAN-13",
+  "name": "Kool cafe",
+  "brand": "amul",
+  "category": "coffee",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 110,
+        "protein_g": 3.5,
+        "carbohydrate_g": 12.5,
+        "sugars_g": 12,
+        "fat_g": 5,
+        "saturated_fat_g": 3.05,
+        "fibre_g": 0.5,
+        "sodium_mg": 57.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262151306",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

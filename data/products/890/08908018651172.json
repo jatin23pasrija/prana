@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908018651172",
+  "barcode_printed": "8908018651172",
+  "barcode_format": "EAN-13",
+  "name": "troovy The Nutri stir fry sauce",
+  "brand": "troovy",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 95.87,
+        "protein_g": 1.41,
+        "carbohydrate_g": 15.65,
+        "sugars_g": 12.74,
+        "fat_g": 3.07,
+        "saturated_fat_g": 0.36,
+        "fibre_g": 0.42,
+        "sodium_mg": 2580.58
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Vegetables (Garlic, Ginger, Tomato, Carrot, Pumpkin, Onion, Sweet Potato, Peas), Soya Sauce, Jaggery, (Natural) Vinegar, Tamarind, lodised Salt, Sunflower Oil, Potato Starch, Spices, Vitamins & Minerals",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908018651172",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

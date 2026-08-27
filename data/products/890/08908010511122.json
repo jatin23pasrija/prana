@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010511122",
+  "barcode_printed": "8908010511122",
+  "barcode_format": "EAN-13",
+  "name": "Omay Navratan Mix",
+  "brand": "omay",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 418.45,
+        "protein_g": 17.98,
+        "carbohydrate_g": 69.87,
+        "sugars_g": 0.66,
+        "fat_g": 7.45,
+        "saturated_fat_g": 1.68,
+        "sodium_mg": 1210
+      }
+    }
+  ],
+  "ingredients_raw": "Moong, Chickpea, Millets, Red Lentil, Watermelon seeds, Green peas, Wheat, White rice flakes, Spices Mix (Asafoetida, Black Pepper, Cumin, Clove, Amla, Aniseed, Dry Ginger, Salt (rock, black, iodised), Cinnamon, Black Cardamom, Laungi Mirch, Amchur, Kathodi, Nutmeg, Mace) & a pinch of groundnut oil",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010511122",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

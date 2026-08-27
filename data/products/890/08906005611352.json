@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005611352",
+  "barcode_printed": "8906005611352",
+  "barcode_format": "EAN-13",
+  "name": "Mini Toast",
+  "brand": "lite-bite",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "MAIDA (REFINED WHEAT FLOUR), SUGAR, WATER, EDIBLE VEGETABLE OIL (PALM OIL), MILK SOLIDS, BUTTER OIL, EDIBLE COMMON SALT, YEAST, BLACK CUMIN AND SESAME SEED.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005611352",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

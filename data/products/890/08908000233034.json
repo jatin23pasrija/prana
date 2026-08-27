@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000233034",
+  "barcode_printed": "8908000233034",
+  "barcode_format": "EAN-13",
+  "name": "Chilly Papad",
+  "brand": "iyer-s",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 160,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 360,
+        "protein_g": 19.82,
+        "carbohydrate_g": 58.49,
+        "sugars_g": 0,
+        "fat_g": 0.66,
+        "saturated_fat_g": 0.45,
+        "trans_fat_g": 0,
+        "sodium_mg": 1360
+      }
+    }
+  ],
+  "ingredients_raw": "Urad dal, Iodised salt, Chilly powder, Edible oil, Papad khar, Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000233034",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

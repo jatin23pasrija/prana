@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901928014501",
+  "barcode_printed": "8901928014501",
+  "barcode_format": "EAN-13",
+  "name": "Rich Marie",
+  "brand": "biskfarm",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 413.17,
+        "protein_g": 7.4,
+        "carbohydrate_g": 67.25,
+        "sugars_g": 18.73,
+        "fat_g": 13.01,
+        "saturated_fat_g": 6.2,
+        "trans_fat_g": 0,
+        "sodium_mg": 138
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA (75.47%), SUGAR EDIBLE VEGETABLE OIL (PALM PALMOLEIN) LIQUID GLUCOSE, CONDENSED MILKMEK SOLIDS, RAISING AGENTS 1500(1), 503(0) SALT EMULSIFIERS (471481), ACIDITY REGULATOR (330), DOUGH CONDITIONER (223), FLOUR TREATMENT AGENTOT OISPERSING AGENT (1520) AND ANTIOXIDANT (319) CONTAINS ADDED FLAVOUR (VANILLA, MILK, BUTTER) CONTAINS WHEAT AND WILK HYPERSENSITIVE INGREDIENTS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901928014501",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906077360400",
+  "barcode_printed": "8906077360400",
+  "barcode_format": "EAN-13",
+  "name": "Bombay Puri",
+  "brand": "jaimin",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined wheat flour (59%), refined palm oil, sesame seeds, carom seeds, cumin seeds, red chilli, turmeric, sugar power, fennel powder, black pepper powder, garlic powder, asafoetida, citric acid (INS 330), salt & antioxidant TBHQ (INS 319)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906077360400",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

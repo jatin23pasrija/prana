@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901709023142",
+  "barcode_printed": "8901709023142",
+  "barcode_format": "EAN-13",
+  "name": "Blade Slices",
+  "brand": "shabu-shabu",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 126,
+        "protein_g": 18.3,
+        "carbohydrate_g": 0.1,
+        "fat_g": 5.8,
+        "saturated_fat_g": 2.7,
+        "sodium_mg": 58.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901709023142",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080105021",
+  "barcode_printed": "8902080105021",
+  "barcode_format": "EAN-13",
+  "name": "Pepsi Cola 250ml Can",
+  "brand": "pepsico",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "carbonated water, Sugar, Acidity regulator (338), Caffeine, permitted natural colour (150d), added flavour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080105021",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017270480",
+  "barcode_printed": "8908017270480",
+  "barcode_format": "EAN-13",
+  "name": "Pumpkin Seeds",
+  "brand": "nutpac",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 490,
+        "protein_g": 16.5,
+        "carbohydrate_g": 44,
+        "sugars_g": 0,
+        "fat_g": 31,
+        "saturated_fat_g": 4.2,
+        "trans_fat_g": 0,
+        "fibre_g": 33.4,
+        "sodium_mg": 18
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017270480",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

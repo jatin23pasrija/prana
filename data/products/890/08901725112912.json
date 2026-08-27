@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725112912",
+  "barcode_printed": "8901725112912",
+  "barcode_format": "EAN-13",
+  "name": "Sambar Masala",
+  "brand": "aashirvaad",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Mixed spices (76.9%) [ Coriander (31.9%), Red chilli (23%), Cumin (5.2%), Black pepper (5%), Fenugreek, Compounded asafoetida, Mustard, Spice extracts, Ginger (0.9%), Curry leaves (0.8%), Turmeric (0.3%)], lodized salt (8%), Chana dal (6.2%), Arhar dal, Urd dal and Refined sunflower oil.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725112912",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

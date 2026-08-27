@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906097590788",
+  "barcode_printed": "8906097590788",
+  "barcode_format": "EAN-13",
+  "name": "Energy Gel",
+  "brand": "fast-up",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Maltodextrin, Purified water, Potassium chloride, Acidity regulator [INS 330), Sodium chloride, Caffeine (76.92 mg/100 g). Binding agent (INS 415], Preservative [INS 202], Sweetener (INS 955]. Nature identical flavours (Strawberry & Banana).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906097590788",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

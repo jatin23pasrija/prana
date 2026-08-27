@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058018608",
+  "barcode_printed": "8901058018608",
+  "barcode_format": "EAN-13",
+  "name": "Cerelac",
+  "brand": "nestle",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 413,
+        "protein_g": 15,
+        "carbohydrate_g": 68,
+        "sugars_g": 22.5,
+        "fat_g": 9.5,
+        "saturated_fat_g": 4.8,
+        "trans_fat_g": 0,
+        "fibre_g": 2.4,
+        "sodium_mg": 120
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat flour (Atta) (35.7%), Milk solids (34.1%), Oat flour (8.8%), Rice flour (5.5%), Sugar, Apple juice concentrate (4.2%), Corn flour (3.1%), Soyabean Oil, Orange juice concentrate (3%), Barley flour (1%), Maltodextrin, Starch, Blackcurrant Juice concentrate (0.3%), Mango pulp (0.3%), Pomegranate Juice Concentrate (0.3%), Mango powder (0.2%), Minerals, Dextrose, Vitamins, Acidity Regulator (Potassium hydrogen carbonate) and Enzyme (alpha amylase).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058018608",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

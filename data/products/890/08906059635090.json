@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059635090",
+  "barcode_printed": "8906059635090",
+  "barcode_format": "EAN-13",
+  "name": "Greek yogurt",
+  "brand": "epigama",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 85,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Greek Yogurt (Pasteurized Double Toned Milk, Milk Solids, Stabilizer (Pectin), Permitted Lactic Acid Cultures), Processed Blueberry Pulp (Sugar, Water, Blueberry Fruit, Stabilizer (Pectin), Natural Flavouring Substances (Blueberry), Natural Color (INS 163 (ii)), Lemon Juice Concentrate) Total Fruit Content: 1.68% Active Live Cultures: S.Thermophilus, L.Bacillus delbrueckii subsp. Bulgaricus ALLERGENS: Contains milk. Manufactured in a facility processing nuts & cereals containing gluten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059635090",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

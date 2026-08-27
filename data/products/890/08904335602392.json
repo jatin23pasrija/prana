@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335602392",
+  "barcode_printed": "8904335602392",
+  "barcode_format": "EAN-13",
+  "name": "Daily 10g Protein Bar",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Date Paste (33%), Dark Chocolate Paste [(12%) (Sugar, Edible Vegetable Fat, Cocoa Solids, Soy Lecithin & Natural Flavours)], Soy Protein Crisps, Date Syrup, Cocoa Powder, Cashew Paste, Peanut Butter, Texturized Soy Protein Flakes, Milk Protein Concentrate, Almond Paste, Peanut Protein, Cranberry (1.5%), Whey Protein Concentrate, Skim Milk Powder, Choco Chips, Glycerine, Natural Flavours (Vanilla, Rosemary Extract)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335602392",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

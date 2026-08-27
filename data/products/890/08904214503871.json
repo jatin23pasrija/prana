@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904214503871",
+  "barcode_printed": "8904214503871",
+  "barcode_format": "EAN-13",
+  "name": "Khartoum mitha",
+  "brand": "rawji",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 529,
+        "protein_g": 10.4,
+        "carbohydrate_g": 55.3,
+        "sugars_g": 15.9,
+        "fat_g": 28.8,
+        "saturated_fat_g": 13.7,
+        "fibre_g": 1.9,
+        "sodium_mg": 2300
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904214503871",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

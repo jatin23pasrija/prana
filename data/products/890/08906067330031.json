@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906067330031",
+  "barcode_printed": "8906067330031",
+  "barcode_format": "EAN-13",
+  "name": "Super Chicken Masala",
+  "brand": "classic",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "chilli,cumin,garlic,black pepper,cassia,coriander,dry ginger,nutmeg,mace,clove,black cardamom,cardamom seeds,Fenugreek,poppy seeds,kasuri methi,turmeric,common salt,asafoetida",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906067330031",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

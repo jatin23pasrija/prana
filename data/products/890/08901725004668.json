@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725004668",
+  "barcode_printed": "8901725004668",
+  "barcode_format": "EAN-13",
+  "name": "Oats & Almonds Cookies",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 483,
+        "protein_g": 7.9,
+        "carbohydrate_g": 67.1,
+        "sugars_g": 22.6,
+        "fat_g": 21.8,
+        "saturated_fat_g": 9.6,
+        "fibre_g": 6.8,
+        "sodium_mg": 351.9
+      }
+    }
+  ],
+  "ingredients_raw": "TRANS FAT FREE Wheat flour (Atta) (35.3%), Oat flakes (21.2%), Refined palm oil, Sugar, Liquid glucose, Almonds (3.2%), Raising agents [INS 503 (ii), INS 500(ii), INS 450(i)], Maltodextrin, Invert syrup, Milk solids, lodized salt, Artificial flavouring substances (Milk, Vanilla), Emulsifier [Lecithin (from Soyabean)] and Nature identical flavouring substances CONTAINS WHEAT, OATS, MILK, SOY, NUT. MAY CONTAIN SULPHITE THE ME RESS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725004668",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

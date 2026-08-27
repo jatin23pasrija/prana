@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201687632",
+  "barcode_printed": "7622201687632",
+  "barcode_format": "EAN-13",
+  "name": "OREO",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar Palmolein, Fractionated Fat, Starch, Colour (162), Invert Sugar, Cocoa Solids (2%*), Leavening Agents (500 503(ii)), lodised Salt, Flavoured Cheese Powder (0.1%*) (Milk Solids, Cheese Powder, Emulsifier (339(ii)), Yeast Extract), Emulsifier (322), Flavours (Natural, Nature Identical, Artificial (Cheese) Flavouring Substances). Allergen Information: Contains Milk, Wheat, Sulphites, Soy. May Contain Barley.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201687632",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

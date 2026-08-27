@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901233021492",
+  "barcode_printed": "8901233021492",
+  "barcode_format": "EAN-13",
+  "name": "Nutties",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "' ‘ mmelm- Per 1009‘ V 'Hﬂﬂﬁﬁiﬁl‘ 3N, _ . ' l. $753135; sag” ‘ ; V. Eliergv kEaI 514 77 Protein 9 5.7 ¥ 7 ' Carbohydrate 51 ' 64] j (ofwhich Sugars) g 585 Path? &quot;7 ' 25.4”, [of which Samrated Fat)g 13.8 Rah? F515“ '7 7 0” ’ Sodium mg ﬁbre g‘ ' ' PackagingMuterialhﬂdj ~ Packaging India Pvt. LNL . ,, Foadlchcn)~21211PPCCIPVI’IJSN2MZ { azsrszmmouonms mu ms ormmmn 0°“ Nat Wt. 309",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901233021492",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

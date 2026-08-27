@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071732451",
+  "barcode_printed": "8901071732451",
+  "barcode_format": "EAN-13",
+  "name": "Hershey's milk shake almond flavor",
+  "brand": "hershey-s",
+  "category": "milk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Milk Solids (#11%), Sugar, Emulsifiers (4600), 466, 471), Mineral Calcium carbonate) Flavours (Nature Identical Flavouring Substances) Sequestraint (339) Thickeners (415, 407), Mineral (Zinc Sulphate), Vitamin E (Acetate), Vitamin A (Acetate) Vitamin D2 (Ergocalciferol), Vitamin B1 (Thiamine Chloride Hydrochlonde), Vitamin B2 (Riboflavin), Edible Common Salt and Almond Paste (#0.002%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071732451",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

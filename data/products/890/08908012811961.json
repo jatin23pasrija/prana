@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08908012811961",
+  "barcode_printed": "8908012811961",
+  "barcode_format": "EAN-13",
+  "name": "Rocky Road Low Fat Ice Cream",
+  "brand": "minus-thirty",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 214.46,
+        "protein_g": 3.77,
+        "carbohydrate_g": 33.05,
+        "sugars_g": 19.87,
+        "fat_g": 7.46,
+        "saturated_fat_g": 4.33,
+        "sodium_mg": 193.53
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908012811961",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

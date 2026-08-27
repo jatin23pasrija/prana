@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08903754393058",
+  "barcode_printed": "8903754393058",
+  "barcode_format": "EAN-13",
+  "name": "Lychee Zap",
+  "brand": "tata-gluco",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "180ml",
+        "quantity": {
+          "value": 180,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 75.6,
+        "protein_g": 0,
+        "carbohydrate_g": 18.9,
+        "sugars_g": 18.9,
+        "fat_g": 0,
+        "sodium_mg": 68.4
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Glucose (3.2%) Concentrated Apple Juice (1.7%), Mineral Salts, Acidity Regulator (INS 330), Preservative (INS 202), Sweetener (INS 960), Emulsifier (INS 445), Natural Flavouring Substance, Nature Identical Flavouring Substance.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903754393058",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

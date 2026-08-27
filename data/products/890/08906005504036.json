@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005504036",
+  "barcode_printed": "8906005504036",
+  "barcode_format": "EAN-13",
+  "name": "Bombay mix",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "refined vegetable oil (palmolein, cottonseed - in varying proportions), gram flour (18%), dew bean flour (moth flour), peanut (4%), bengal gram (chickpea), green peas (3%), salt, black salt, acidity regulator (citric acid), red chilli powder, coriander, tumeric, cumin, ginger, black pepper, mango powder, cardamom, clove, asafoetida, bishop's seed, allergen advice: for allergens, see ingredients in bold, this product is made on a site that handles foods containing peanuts, tree nuts, soy, milk, cereals containing gluten, sesame, mustard, and sulphites,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005504036",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906143891791",
+  "barcode_printed": "8906143891791",
+  "barcode_format": "EAN-13",
+  "name": "Mango Whey Protein",
+  "brand": "the-whole-truth",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whey protein blend 78.8% (instantised with sunflower lecithin), whey protein isolate 61.8%, whey protein concentrate 17.0%, mango fruit 100% 14.5%, whole milk powder 6.0%, bromelain 0.4% monk fruit 0.3%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906143891791",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

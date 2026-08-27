@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901968335659",
+  "barcode_printed": "8901968335659",
+  "barcode_format": "EAN-13",
+  "name": "Vegetable cutlet",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 105,
+        "protein_g": 3.3,
+        "carbohydrate_g": 18.4,
+        "sugars_g": 0.5,
+        "fat_g": 2,
+        "saturated_fat_g": 0.29,
+        "fibre_g": 1.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901968335659",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512935304",
+  "barcode_printed": "8901512935304",
+  "barcode_format": "EAN-13",
+  "name": "Peanut butter",
+  "brand": "sundrop",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 596,
+        "protein_g": 24,
+        "carbohydrate_g": 29,
+        "sugars_g": 26,
+        "fat_g": 44,
+        "saturated_fat_g": 9,
+        "sodium_mg": 368
+      }
+    }
+  ],
+  "ingredients_raw": "Peanut Butter (Roasted Peanuts (66.7%)), Sugar, Refined Edible Groundnut Oil, Honey (5%), Stabilizer (Mono and Diglycerides of Fatty Acids), Iodized Salt, Edible Molasses & Caramel IV.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512935304",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

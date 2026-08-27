@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906074827012",
+  "barcode_printed": "8906074827012",
+  "barcode_format": "EAN-13",
+  "name": "Fruit Biscuit (Vegan)",
+  "brand": "karachi-bakery",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 501,
+        "protein_g": 5.1,
+        "carbohydrate_g": 58.6,
+        "sugars_g": 11.5,
+        "fat_g": 27.3,
+        "saturated_fat_g": 14.9,
+        "trans_fat_g": 0,
+        "fibre_g": 0.96,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable fat (Bakery Shortening), Vegan Milk Soilds (Almond & Soya), Papaya Cubes (Tooty Fruity) (10%) Cashew Bits (6%) & Iodised Salt. CONTAINS PERMITTED SYNTHETIC FOOD COLOURS - E102, E110, E129 & ADDED FLAVORS (NATURAL IDENTICAL & ARTIFICIAL FLAVORING SUBSTANCES - VANILLA & MIXED FRUIT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906074827012",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080603419",
+  "barcode_printed": "8906080603419",
+  "barcode_format": "EAN-13",
+  "name": "paperboat fruit and nuts super mix",
+  "brand": "paperboat",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "DRY FRUITS 35% (ALMONDS AND CASHEWS), DEHYDRATED CRANBERRIES (25%), PUMPKIN SEEDS AND CANDIED AMLA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080603419",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

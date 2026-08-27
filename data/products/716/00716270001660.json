@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "00716270001660",
+  "barcode_printed": "0716270001660",
+  "barcode_format": "EAN-13",
+  "name": "Ginger Crystallized In Dark Chocolate",
+  "brand": "chocolove",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 3.2,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "protein_g": 6.67,
+        "carbohydrate_g": 53.33,
+        "sugars_g": 40,
+        "fat_g": 33.33,
+        "saturated_fat_g": 20,
+        "trans_fat_g": 0,
+        "fibre_g": 10,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "dark chocolate (cocoa liquor*, sugar, cocoa butter*, soy lecithin, vanilla), crystallized ginger (ginger, sugar)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0716270001660",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

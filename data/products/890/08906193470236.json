@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906193470236",
+  "barcode_printed": "8906193470236",
+  "barcode_format": "EAN-13",
+  "name": "Sea Salt And California Almonds",
+  "brand": "carra",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 550.92,
+        "protein_g": 9.86,
+        "carbohydrate_g": 54.7,
+        "sugars_g": 32.87,
+        "fat_g": 32.52,
+        "saturated_fat_g": 20.45,
+        "fibre_g": 8.76,
+        "sodium_mg": 173.55
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906193470236",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

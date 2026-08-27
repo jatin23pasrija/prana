@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491361026",
+  "barcode_printed": "8901491361026",
+  "barcode_format": "EAN-13",
+  "name": "Kurkure Masala Munch",
+  "brand": "kurkure",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 41.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cereal Products(61%)(Rice Meal(42%),Corn Meal(19%),Edible vegetable oil(palmolein,sesame oil),*Seasoning(~spices and condiments,iodised salt,maltodextrin,sugar,black salt,acidity regulators(330,296,334),tomato powder,hydrolysed soy protein,flavour(natiral and nature identitical flavouring substances),Dxtrose,emulsfier(414),milk solids,edibile starch,flavour enhancers(627&631)),Gram meal(3%) *as flavouring agent . ~contains onion and garlic",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491361026",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

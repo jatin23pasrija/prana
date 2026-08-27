@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "00630456848415",
+  "barcode_printed": "0630456848415",
+  "barcode_format": "EAN-13",
+  "name": "Honey Beef Pickle",
+  "brand": "feloc-for-the-empowerment-of-local",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 475,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 331.9,
+        "energy_kj": 1390,
+        "protein_g": 7.89,
+        "carbohydrate_g": 15.22,
+        "fat_g": 26.55
+      }
+    }
+  ],
+  "ingredients_raw": "Honey 2%, Buffalo Meat 55%, Garlic, Ginger, Sea Salt, Vinegar, Sesame Oil, Kashmiri Chilli, Mustard, Fenugreek, Asafoetida",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0630456848415",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

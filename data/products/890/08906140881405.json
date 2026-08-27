@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906140881405",
+  "barcode_printed": "8906140881405",
+  "barcode_format": "EAN-13",
+  "name": "Dryfruit Kachori",
+  "brand": "radhe-prem-ni-mithaas",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "35 g",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 140,
+        "protein_g": 2,
+        "carbohydrate_g": 18,
+        "sugars_g": 3,
+        "fat_g": 6,
+        "saturated_fat_g": 1.5,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 200
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour(Maida) (35%), Edible Vegetable Oil (Palmolein), Date (12%), Raisin (10%), Bengal Gram Flour/ chick Pea Flour, Refined Sugar, Almond (7%, Edible Vegetable Fat (Partially Hydrogenated Palm), Cashew(7%), Red Chilli Powder, Dry Mango Powder, lodized Salt, Asafoetida, Dry Ginger Powder, Black Salt, Sesame Seed, Coriander Seed, ennel Seed, Coriander Powder, Cumin Powder, Cinnamon Powder, Clove Powder, Black Pepper Powder, Bay Leaf, Cardamom, Nutmeg, Mace.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906140881405",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

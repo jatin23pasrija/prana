@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08996001357194",
+  "barcode_printed": "8996001357194",
+  "barcode_format": "EAN-13",
+  "name": "Choki choki rollz",
+  "brand": "choki-choki",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Edible Vegetable Oil (Palm Olein), Refined Wheat Flour, Cocoa Powder, Cashew Nut (5%), Milk Powder, Whey Powder, Maltodextrin, Malt Extract, Tapioca Flour, Emulsifier (INS 322), Rice Flour, lodized Salt, Caramel Colour (INS 150d), Artificial Chocolate Flavour. Allergen Information: Contains Wheat, Milk, Nuts, Soy. Serving Size: 1 stick (10 g)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8996001357194",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

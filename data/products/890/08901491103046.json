@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491103046",
+  "barcode_printed": "8901491103046",
+  "barcode_format": "EAN-13",
+  "name": "Kurkure Green chutney",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 33,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 561,
+        "protein_g": 5.9,
+        "carbohydrate_g": 56.3,
+        "sugars_g": 2.1,
+        "fat_g": 34.7,
+        "saturated_fat_g": 15.6,
+        "fibre_g": 2,
+        "sodium_mg": 959
+      }
+    }
+  ],
+  "ingredients_raw": "Cereal Products (57%) (Rice meal (38%),corn meal (19%)), Edible Vegetable oil (Palmolein) *Seasoning Spices & Condiments , Iodised salt, Sugar, Tamarind powder, Flavour (Nature identical and Artificial (Spearmint), Maltodextrin, Acidity Regulator (330), Emulsifier (414), Color (160c), Flavour Enhancers (627,631)), Gram meal (6%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491103046",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08904089306331",
+  "barcode_printed": "8904089306331",
+  "barcode_format": "EAN-13",
+  "name": "American Nuts Ice Cream",
+  "brand": "havmor",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 132.7,
+        "protein_g": 2.3,
+        "carbohydrate_g": 16.7,
+        "sugars_g": 16.1,
+        "fat_g": 6.3,
+        "saturated_fat_g": 3.6,
+        "sodium_mg": 34.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904089306331",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

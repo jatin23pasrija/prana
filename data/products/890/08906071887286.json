@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906071887286",
+  "barcode_printed": "8906071887286",
+  "barcode_format": "EAN-13",
+  "name": "Vanilla flavoured choco cupcake",
+  "brand": "lavian",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 14,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR MAIDA), SUGAR, EDIBLE VEGETABLE OIL (REFINED PALM OLEIN OIL, INS 319, INS 330, INS 900a), HUMECTANTS, LIQUID GLUCOSE MILK SOLIDS, BAKING POWDER, GEL (INS 471, INS 477 472b, INS 470(i) & INS 422), COCOA SOLIDS, CONCENTRATE (MILK SOLIDS, DEXTROSE, MODIFIED STARCHS 1420), MAIZE STARCH, EMULSIFIERS (INS 471, INS 477, INS 481(i)), INS 415) MODIFIED STARCH, PRESERVATIVES (INS 200, INS 282), STABILIZER (INS 415), EDIBLE COMMON SALT, BUTTER OIL, ACIDITY REGULATOR (INS 330, INS 331), EMULSIFIER (INS 322). CONTAINS PERMITTED NATURAL FOOD COLOUR (INS 150d), ADDED FLAVOURS-NATURAL SUBSTANCES (CHOCOLATE), NATURE IDENTICAL FLAVOURING SUBSTANCES (VANILLA). CENTRE CREAM-SUGAR, EDIBLE VEGETABLE HYDROGENATED VEGETABLE OILS-REFINED PALM OIL, REFINED PALM KERNEL, TILL OIL, INS 319), HUMECTANTS (INS 420m), INS 422), MILK SOLIDS, DEXTROSE MONOHYDRATE, EMULSIFIER (INS 322), PRESERVATIVE (INS 200), EDIBLE COMMON SALT, ACIDITY REGULATORS (INS 330, INS 321) CONTAINS ADDED FLAVOURS-NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906071887286",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

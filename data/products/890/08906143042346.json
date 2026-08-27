@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906143042346",
+  "barcode_printed": "8906143042346",
+  "barcode_format": "EAN-13",
+  "name": "Yu berry blast",
+  "brand": "yu",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 225,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "INGREDIENTS (ONLY FRUIT JUICE) Mix Berries (Stawberry, Blueberry, Raspberry) (30%) Banana, Pineapple, Apple, Lemon",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906143042346",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

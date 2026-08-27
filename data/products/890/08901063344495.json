@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063344495",
+  "barcode_printed": "8901063344495",
+  "barcode_format": "EAN-13",
+  "name": "High Fiber Bread",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 240,
+        "protein_g": 8.7,
+        "carbohydrate_g": 49.5,
+        "sugars_g": 0.1,
+        "fat_g": 2.8,
+        "saturated_fat_g": 0.6,
+        "fibre_g": 9,
+        "sodium_mg": 467.1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063344495",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

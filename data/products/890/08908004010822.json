@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908004010822",
+  "barcode_printed": "8908004010822",
+  "barcode_format": "EAN-13",
+  "name": "Karachi'S Fruit Biscuits, Karachi'S Fruit",
+  "brand": "karachi-bakery",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Interesterified Vegetable Fat (Refined Rice Bran Oil, Palmolein Oil, Sesame Oil/Til Oil), Sugar, Cashew Bites, Papaya Pieces (Acidity Regulators-Ins 330, Preservatives-Ins 211 And Contains Permitted Synthetic Food Color-Ins 129 (Fd& C Red No.40), Skimmed Milk Powder (Smp), Iodised Salt, & Custard Powder (Corn Flour, Edible Starch, & Contains Permitted Synthetic Food Color-Sunset Yellow Fcf (Fd&C Yellow No 06) & Tatrazine (Fd&C Yellow No .05))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908004010822",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

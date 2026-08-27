@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030865855",
+  "barcode_printed": "8901030865855",
+  "barcode_format": "EAN-13",
+  "name": "Knorr soupy noodles mast masala",
+  "brand": "knorr",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 79,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 437,
+        "energy_kj": 1830,
+        "protein_g": 10.2,
+        "carbohydrate_g": 63.3,
+        "sugars_g": 10.3,
+        "fat_g": 15.8,
+        "saturated_fat_g": 7.6,
+        "fibre_g": 1.1,
+        "sodium_mg": 1910
+      }
+    }
+  ],
+  "ingredients_raw": "Instant Noodles with Soup Powder letely dents Instant Nocoles: Refined Wheat Hour (Maida). Palm Polen, Jodised Salt Wheat Gluten, Acidit, egulator 00) Texturer-4510), Thickener-415, Antioxidon 319. Soup powder Refined Wheat Flour (Maida), lodised Salt, Sugar, Mand Spices (7.5%) (Coriander, Chilli, Cumin, Turmeric, Black Pepper, Fennel, Fenugreek, Clove, Nutmeg, Cardamom)), Hydrolyzed Vegetable Protein, &quot;Dehydrated Vegetables (Carrot, (47) (0.42%)), Onion Powder, Garlic Powder (3.75%), Heated Poly Oil, Flavour Enhancer - 627 & 631, Nature flavouring Substance, Anticaking Agent - 551. Mens List-Contains Wheat. Contain Traces of Milk, Soya, Mustard, Celery & Nuts, 12212 NET WEIGHT: 70g MRP (INCL. OF ALL TAXES): BATCH NO., PKD.: USE BY: 8901030 865855&quot;&gt; fssai SEE SIDE PANEL 68689871 OTHER Lic No. 10013022001897 Hindustan Unilever Limited LEVERCARE-QUERY/FEEDBACK TOLL FREE: 1800-10-22-221 PO BOX 14760, MUMBAI 400 099 LEVER.CARE@UNILEVER.COM No 2279 Por 000 oduct 137 Per Serve of cooked dish (420 g) 333 GDA/Serve of cooked di 10.2 8.6 63.3 49.3 10.3 9.4 1.1 2.6 15.0 11.2 7.6 5.4 VAL. 0.1 0.1 1910 1357 od of cooking. e Daily Amount (",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030865855",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

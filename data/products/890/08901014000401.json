@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014000401",
+  "barcode_printed": "8901014000401",
+  "barcode_format": "EAN-13",
+  "name": "Geki hot and spicy",
+  "brand": "nissin",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), Tapioca Starch, iodised Salt, Acidity Regulators [INS 451 & INS 500], Turmeric Powder, Thickener (INS 412) & Antioxidant (INS 319), Sugar, Hydrolysed Vegetable Protein Powder (Soya), Soya Sauce Powder, Roasted Sesame Seeds, Garlic Powder, iodised Salt, Flavour Enhancers (INS 631 & INS 627) Mixed Spices 1.43% (Ginger, Black Pepper, Cumin, Turmeric & Coriander), Onion Powder, Oleoresin Capsicum, Natural Flavour, Acidity Regulator (INS 330), Tomato Powder & Anticaking Agent (INS 551), Edible Vegetable Oil (Palmolein, Soya Bean Oil & Chilli Seed Oil), Colour [INS 160c] & Oleoresin Rosemary ALLERGEN INFORMATION: CONTAINS WHEAT & SOY. MAY CONTAIN MILK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014000401",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

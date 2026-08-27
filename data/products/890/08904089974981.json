@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08904089974981",
+  "barcode_printed": "8904089974981",
+  "barcode_format": "EAN-13",
+  "name": "Butterscotch Crunch",
+  "brand": "heritage",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 315.2,
+        "protein_g": 3.5,
+        "carbohydrate_g": 32.7,
+        "sugars_g": 22.8,
+        "fat_g": 18.9,
+        "saturated_fat_g": 7.8,
+        "sodium_mg": 80
+      }
+    }
+  ],
+  "ingredients_raw": "Frozen Dessert: Water, Sugar, Milk Solids, Edible Vegetable Oil (Palm Kern Oil) & Edible Vegetable Fat (Interesterified fat). Liquid Glucose, Wheat Crispy. Vegetable Protein (Soy), Emulsifier & Stabilizers (INS 471, INS 412, INS 410, INS 407 & INS 401) Choco dip: Edible Vegetable Oil (Palm Kernel Oil, Palm Oil), Sugar, Cocoa Solids, Emulsifier (INS322) CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS102) AND ADDED ARTIFICIAL (BUTTERSCOTCH) FLAVOURING SUBSTANCE. &quot;MEDIUM FAT FROZEN DESSERT&quot; CONTAINS 7.0 % EDIBLE VEGETABLE OIL AND VEGETABLE PROTEIN PRODUCT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904089974981",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

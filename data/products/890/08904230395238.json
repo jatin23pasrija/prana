@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904230395238",
+  "barcode_printed": "8904230395238",
+  "barcode_format": "EAN-13",
+  "name": "Butter Flavour Cookies",
+  "brand": "sabki-pasand",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Farine de _blé_, graisse végétale [huile de palme partiellement hydrogénée, huile de _sésame_ raffinée, vitamine A, vitamine D] Sucre, sel lodé, agent de levage: bicarbonate de sodium, arôme de beurre.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904230395238",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

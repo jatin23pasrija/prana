@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030926549",
+  "barcode_printed": "8901030926549",
+  "barcode_format": "EAN-13",
+  "name": "Hazelnut Choco Peanut Spread",
+  "brand": "kissan",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Roasted Peanuts* - 63%, Dark Chocolate Compound-30% [Sugar, Edible Vegetable Oil (Palmolein, Palm Oil), Cocoa Solids, Hydrogenated Palm Fat, Emulsifier - E322 (1). Nature Identical Flavouring Substances (Hazelnut)], Sugar, Hydrogenated Palm Oil, lodised Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030926549",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719127366",
+  "barcode_printed": "8901719127366",
+  "barcode_format": "EAN-13",
+  "name": "Hide & Seek Choco Rolls",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "HIDE & SEEK CHOCO ROLLS INGREDIENTS CHOCO CREME (40%) [ SUGAR, REFINED OILS (PALMOLEIN PALM OIL), COCOA SOLIDS, EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES VANILLA REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, COCOA SOLIDS, 1ODISED SALT RAISING AGENTS (500 (ii), 503 (11)] AND EMULSIFIER OF VEGETABLE ORIGIN [472e] CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES VANILLA CONTAINS WHEAT, SOY BEAN)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719127366",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

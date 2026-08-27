@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063230546",
+  "barcode_printed": "8904063230546",
+  "barcode_format": "EAN-13",
+  "name": "Fried ladies finger (okra) cooked in a spicy gravy",
+  "brand": "haldiram-snacks-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 240,
+        "protein_g": 2.67,
+        "carbohydrate_g": 12,
+        "sugars_g": 0,
+        "fat_g": 20,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 0,
+        "fibre_g": 2.7,
+        "sodium_mg": 453
+      }
+    }
+  ],
+  "ingredients_raw": "Okra (45%), onion, sunflower oil, tomato, butter, cashew nut, ginger, garlic, salt, green chilli, coriander powder, cumin powder, red chilli powder, milk, cream, sugar, turmeric powder, dried fenugreek leaves, mango powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063230546",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

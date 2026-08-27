@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021120425",
+  "barcode_printed": "8906021120425",
+  "barcode_format": "EAN-13",
+  "name": "Aachi Chicken Kabab / 65 Masala Powder",
+  "brand": "aachi",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 379.5,
+        "protein_g": 13.9,
+        "carbohydrate_g": 59.6,
+        "fat_g": 9.5,
+        "saturated_fat_g": 4.2,
+        "sodium_mg": 2683
+      }
+    }
+  ],
+  "ingredients_raw": "Spice content - 75% (Red Chilli Powder, Coriander, Cumin, Back Pepper, Fennel, Dry Ginger, Garlic Flakes, Cloves, Cardamom, Cassia Bark (Taj), Bay Leaves) Corn Flour, Salt - 6%.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021120425",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

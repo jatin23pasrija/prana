@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08906162361220",
+  "barcode_printed": "8906162361220",
+  "barcode_format": "EAN-13",
+  "name": "Chickpea & Pumpkin Hummus",
+  "brand": "simplifyfoods",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "20 g",
+        "quantity": {
+          "value": 20,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 22,
+        "energy_kj": 94,
+        "protein_g": 0.2,
+        "carbohydrate_g": 4,
+        "sugars_g": 2,
+        "fat_g": 0.6,
+        "saturated_fat_g": 0.2,
+        "trans_fat_g": 0,
+        "fibre_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Yellow Pumpkin (53.8%), Carrot (10.4%), Chickpea (10.4%), Potato (6.9%), Sweet Potato (6.9%), Sesame, Sugar (2.5%), Extra Virgin Olive Oil, Lemon Juice, Cumin Powder, Black Pepper Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906162361220",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

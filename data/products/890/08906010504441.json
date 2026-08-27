@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010504441",
+  "barcode_printed": "8906010504441",
+  "barcode_format": "EAN-13",
+  "name": "Banana Wafers",
+  "brand": "balaji",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28.3g",
+        "quantity": {
+          "value": 28.3,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 167,
+        "protein_g": 1.09,
+        "carbohydrate_g": 15,
+        "fat_g": 11,
+        "saturated_fat_g": 5,
+        "fibre_g": 2.53,
+        "sodium_mg": 98
+      }
+    }
+  ],
+  "ingredients_raw": "MATEN/ INGREDIENTES / INGREDIENTES (EN) INGREDIENTS - BANANA (91%), EDIBLE VEGETABLE OIL (PALMOLEIN), CHILLI POWDER (0,4%), EDIBLE COMMON SALT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010504441",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

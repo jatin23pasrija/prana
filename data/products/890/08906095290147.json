@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906095290147",
+  "barcode_printed": "8906095290147",
+  "barcode_format": "EAN-13",
+  "name": "Instant Rava Idly Mix",
+  "brand": "sankethi-adukale",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 374,
+        "protein_g": 10,
+        "carbohydrate_g": 64,
+        "sugars_g": 0.24,
+        "fat_g": 9,
+        "saturated_fat_g": 3,
+        "fibre_g": 1,
+        "sodium_mg": 1203
+      }
+    }
+  ],
+  "ingredients_raw": "Rava (81%), Refined Palm Oil, Benagal Gram Dal, Mustard, Green Chillis, Ginger, Lemon Powder, Salt, Acidity Regulator (E500), Cashew, Curry Leaves. Allergen Advice: Made in a facility that also processes Peanuts_Almonds_Cashew_Sesame Seed_Milk powder_Soya_Mustard Seed_Gluten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906095290147",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

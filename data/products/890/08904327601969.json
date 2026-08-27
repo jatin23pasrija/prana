@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904327601969",
+  "barcode_printed": "8904327601969",
+  "barcode_format": "EAN-13",
+  "name": "Dark Chocolate Peanut Butter with added Whey",
+  "brand": "myfitness",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 510,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Roasted Peanuts (82%), Dark Chocolate paste (10%). Whey protein concentrate (72). Stabilizer (INS 471) Allergen Info: Contains Peanuts, Whey and Soya Peanut based spreads with Dark Chocolate (Proprietary Food-Spreads 4.2.2.5 Spreads) (Serving size: 32 g) (Serving Per Pack: 16) TM care@myfitness.co.in Write to us at marketed by address or +91 7096699111",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904327601969",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

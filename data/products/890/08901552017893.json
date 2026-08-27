@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552017893",
+  "barcode_printed": "8901552017893",
+  "barcode_format": "EAN-13",
+  "name": "Vegetable kathi roll",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 235,
+        "protein_g": 4,
+        "carbohydrate_g": 28,
+        "sugars_g": 0.5,
+        "fat_g": 11.5,
+        "saturated_fat_g": 1.25,
+        "fibre_g": 1.5,
+        "sodium_mg": 380
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, Flour (Whole Wheat), Water, Refined Flour (Wheat), Cauliflower, Onion, Sunflower Oil, Coriander Leaves, Bread Crumbs (Wheat), Com Flour, Ginger, Salt, Green Chilli, Garlic, Mint Leaves, Spices (Black Salt, Onion Powder, Chilli Powder, Coriander Powder, Salt, Cumin Powder, Kalonji, Garlic Powder, Turmeric Powder, Black Pepper Powder, Fenugreek Powder, Ginger Powder, Fennel Powder, Dried Fenugreek Leaves, Black Cardamom, Carom, Mustard, Corn Flour, Citric Acid (E 330), Nutmeg, Asafoetida (Wheat), Mango Powder, Pomegranate Powder, Clove), Lime Juice. Ingrédients: Pomme de terre, Farine (Blé entier), Eau, Farine raffinée Blé), Chou-fleur, Oignon, Huile de tournesol, Feuilles de coriandre, Chapelure (Blé), Farine de maïs, Gingembre, Sel, Piment vert, Ail, Feuilles de menthe, Épices (Sel noir, Poudre d'oignon, Poudre de piment rouge, Poudre de coriandre, Sel, Poudre de cumin, Nigella sativa, Poudre d'ail, Poudre de safran des Indes, Poivre noir Powder, Poudre de fenugrec, Grains de gingembre, Poudre de fenouil, Feuilles sèches de fenugrec, Cadavre noir, Graines de carambole, Moutarde, Farine de maïs, acide citrique (E 330), noix de muscade, asafoetida (blé), poudre de mangue, poudre de grenade, clou de girofle), jus de citron vert. Zutaten: Kartoffel, Mehl (Gesamter Weizen), Wasser, Raffiniertes Mehl (Weizen), Blumenkohl, Zwiebel, Sonnenblumenöl, Koriander Blätter, Brot Krumen (Weizen), Mais Mehl, Ingwer, Salz, Grüne Chili, Knoblauch, Minzblätter, Gewürze (Schwarzes Salz, Zwiebel Puder, Chili Puder, Koriander Puder, Salz, Kreuzkümmel Puder, Kalonji, Knoblauch Puder, Gelbwurz Puder, Schwarzes Pfeffer Puder, Bockshornklee Puder, Ingwer Puder, Fenchel Puder, getrocknete Bockshornklee Blätter, Schwarzes Kardamom, Ajowan-Samen, Senfsamen, Mais Mehl, Citronensäure (E 330), Muskatnuss, Asafoetida (Weizen), Mango Puder, Granatapfel Puder, Nelke), Linde Saft. Ingredienti: Patata, Infarini (Grano Integrale), Acqua, Farina Raffinata Grano), Cavolfiore, Cipolla, Olio di Girasole, Foglie di Coriandolo le, Briciole di pane (Grano), Farina di Mais, Zenzero, Sale, Peperoncino verde, Aglio, Foglie di Zecca, Spezie (Sale Nero, Polvere di Cipolla, Polvere di Peperoncino, Polvere di Coriandolo Sale, Polvere di Cumino, Kalonji, Polvere di Aglio, Turmeric spolverizza, polvere di pepe nero, Fenugreek spolverizza, Ginger Powder, polvere di finocchio, Fenugreek essiccato lascia, Cardamom nero, semi di carambola, senape, farina di mais, Acido citrico (É 330), Noce moscato Asafoetida (Grano), Polvere di Mango, Polvere di melagrana,chiodo di garofano) il succo di lime. Ingredientes: Patata, Harina de Trigo Integral, Agua, Harina de Trigo Refinada, Coliflor, Cebolla, Aceite de Girasol, Hojas de Cilantro, Pan rallado (Trigo), Maizena, Jengibre, Sal, Pimientos Verdes, Ajo, Hojas de menta, Especias (Aceite de Girasol, Sal Negra, Polvo de Cebolla, Polvo de Chile, Polvo de Cilantro, Sal, Polvo de Comino, Kalonji (Semillas de Nigella Sativa), Polvo de Ajo, Polvo de Cúrcuma, Polvo de Pimienta Negra, Polvo de Fenogreco, Polvo de Jengibre, Polvo de Hinojo, Hojas de Fenogreco Desecadas, Cardamomo Negro, Semillas de carambola, Mosataza, Maizena, Ácido Cítrico (E 330), Asafoetida (Trigo), Polvo de Mango, Polvo de Granada, Clavo) Zumo de Lima. Processed in a facility that also processes tree nut, peanuts, milk, soya and sesame.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552017893",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

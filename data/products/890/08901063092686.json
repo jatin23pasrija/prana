@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063092686",
+  "barcode_printed": "8901063092686",
+  "barcode_format": "EAN-13",
+  "name": "Good Day Butter Cookies (25)",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "protein_g": 6.8,
+        "carbohydrate_g": 69.5,
+        "sugars_g": 20.8,
+        "fat_g": 21.7,
+        "saturated_fat_g": 11,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 246
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, SUGAR, INVERT SUGAR SYRUP, MILK PRODUCTS [MILK SOLIDS & BUTTER (0.5%)], RAISING AGENTS [503(ii) & 500(ii)], 1ODISED SALT, ARTIFICIAL (BUTTER, MILK & VANILLA) & NATURAL FLAVOURING SUBSTANCES AND EMULSIFIERS [472e & 322(i)]. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOY. 15",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063092686",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

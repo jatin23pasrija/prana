@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009078670",
+  "barcode_printed": "8906009078670",
+  "barcode_format": "EAN-13",
+  "name": "Unibic Frunit and Nut cookies",
+  "brand": "unibic",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 458,
+        "protein_g": 6.4,
+        "carbohydrate_g": 63,
+        "sugars_g": 25,
+        "fat_g": 20,
+        "saturated_fat_g": 9,
+        "sodium_mg": 209
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Dry Fruits (8%) [Black Currant, Papaya (Papaya Cubes, Sugar, Acidity Regulator (INS 330)), Cranberry], Nuts (4%) (Cashew Bits, Almond Bits), Butter, Liquid Glucose, Date Syrup, Milk Solids, Leavening Agents (INS 503 ii, INS 500 ii), Emulsifier (INS 322 from Soy), lodised Salt. Spices (Clove and Nutmeg). Allergen Advice: Contains Wheat, Milk, Soy and Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009078670",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

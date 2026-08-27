@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063224163",
+  "barcode_printed": "8904063224163",
+  "barcode_format": "EAN-13",
+  "name": "Paneer (Tofu) Onion Parath",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Vollkornmehl (31%), Tofu (21%) (Sojabohnen, Wasser, Magnesiumchlorid), Zwiebeln (12%), Raffiniertes Pflanzenöl (Baumwollsamen), Raffiniertes Weizenmehl, Grüner Chil, Ingwer, Salz, Gewürze (Getrocknetes Mangopulver, Ganzer Kreuzkümmel, Schwarzer Pieffer Und Roter Chili), Korianderblätter Und Backpulver (Maisstärke Und Backtriebmittel-E 500(ii)). Achtung: Für Allergene Siehe Fettgedruckte Zutat, Dieses Produkt Wird In Einer Anlage Hergestellt, Die Lebensmittel Verarbeitet, Die Weizen, Erdnüsse, Nüsse, Soja Und Senf",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063224163",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

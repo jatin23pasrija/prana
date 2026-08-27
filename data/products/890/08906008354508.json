@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08906008354508",
+  "barcode_printed": "8906008354508",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Cream Wafers",
+  "brand": "manna",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "18g",
+        "quantity": {
+          "value": 18,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 90,
+        "protein_g": 1,
+        "carbohydrate_g": 13,
+        "sugars_g": 5,
+        "fat_g": 4,
+        "saturated_fat_g": 3,
+        "fibre_g": 0.18,
+        "sodium_mg": 17
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Refined Wheat Flour (Maida), Edible Vegetable Fat and Oil, Multigrain Blend ((15%) Oats, Jowar, Foxtail), Starch, Milk Solids, Maltodextrin, Wheat Fibre, Real Chocolate (0.5%), Emulsifier (INS 322), Edible Common Salt, Raising Agent (INS 500 (ii)), Dough Conditioner (INS 223)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906008354508",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

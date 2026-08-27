@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08901242604709",
+  "barcode_printed": "8901242604709",
+  "barcode_format": "EAN-13",
+  "name": "Ginger Garlic paste",
+  "brand": "bambind",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 79.31,
+        "energy_kj": 332,
+        "protein_g": 3,
+        "carbohydrate_g": 15.48,
+        "sugars_g": 0,
+        "fat_g": 0.42,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 4104
+      }
+    }
+  ],
+  "ingredients_raw": "Ginger, Garlic, Salt, Citric acid (INS 330), Acetic acid (INS 260), Stabilizer (INS 415) and Preservative (INS 211) CONTAINS PERMITTED CLASS II PRESERVATIVE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901242604709",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

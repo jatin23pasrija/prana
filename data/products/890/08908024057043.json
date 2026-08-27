@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08908024057043",
+  "barcode_printed": "8908024057043",
+  "barcode_format": "EAN-13",
+  "name": "Orange Ginger Laddoos",
+  "brand": "eat-better-co",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (10 g)",
+        "quantity": {
+          "value": 10,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 46.3,
+        "protein_g": 1.6,
+        "carbohydrate_g": 4.6,
+        "sugars_g": 2.8,
+        "fat_g": 2.6,
+        "saturated_fat_g": 1.4,
+        "trans_fat_g": 0,
+        "fibre_g": 0.9,
+        "sodium_mg": 4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908024057043",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

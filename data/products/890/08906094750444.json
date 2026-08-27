@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08906094750444",
+  "barcode_printed": "8906094750444",
+  "barcode_format": "EAN-13",
+  "name": "Fruit Yogurt",
+  "brand": "muralya",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 102,
+        "protein_g": 3.1,
+        "carbohydrate_g": 15,
+        "sugars_g": 9,
+        "fat_g": 3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906094750444",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491990028",
+  "barcode_printed": "8901491990028",
+  "barcode_format": "EAN-13",
+  "name": "Doritos Sweet Chilli Flavour",
+  "brand": "doritos",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 39,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn (79%), Edible Vegetable Oil (Palmolein Oil), Sugar, Spices & Condiments (Onion Powder, Chilli, Ginger Powder, Garlic Powder, Spice Extract), Salt, Fructose, Malic Acid (INS 296), Citric Acid (INS 330), Tomato Powder, Wheat Maltodextrin. CONTAINS ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491990028",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

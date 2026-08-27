@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "09557062361217",
+  "barcode_printed": "9557062361217",
+  "barcode_format": "EAN-13",
+  "name": "Mister Potato The Macho Barbecue Flavour Potato Crisps",
+  "brand": "mister-potato",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Dehydrated Potato Flakes, Palm Olein [Contains Permitted Antioxidant (E320). Tapioca Starch, BBQ Flavour (Contains Soy), Contains Emulsifier As Permitted Food Conditioner (E322, E471) (Contains Soy), Salt, Sugar, Spices, Contains Monosodium Glutamate (E621) As Permitted Flavour Enhancer. May Contain Traces: Milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9557062361217",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

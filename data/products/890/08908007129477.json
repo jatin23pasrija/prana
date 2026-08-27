@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08908007129477",
+  "barcode_printed": "8908007129477",
+  "barcode_format": "EAN-13",
+  "name": "Nanda's Cream Bun Chocolate",
+  "brand": "nanda-s",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 415.7,
+        "protein_g": 5.9,
+        "carbohydrate_g": 55.2,
+        "sugars_g": 14.7,
+        "fat_g": 19
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat flour, Sugar, Edible Vegetable Oil, Refined Sunflower Oil), Water, lodised Salt, Yeast, Skimmed Milk Powder, Wheat Gluten, Preservative (INS232), Bun Improver (INS1100), Acidity Regulator (INS260). Antioxidant (INS300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908007129477",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

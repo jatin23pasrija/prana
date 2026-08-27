@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764022401",
+  "barcode_printed": "8901764022401",
+  "barcode_format": "EAN-13",
+  "name": "Fanta Orange Flv 2L",
+  "brand": "coca-cola-company",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (330), STABILIZERS (414,445) PRESERVATIVE (211), COLOUR (110), FLAVOURS (NATURAL & NATURE-IDENTICAL FLAVOURING SUBSTANCE)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764022401",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

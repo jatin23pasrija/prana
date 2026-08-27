@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "00810036563031",
+  "barcode_printed": "0810036563031",
+  "barcode_format": "EAN-13",
+  "name": "Condensed Milk",
+  "brand": "pampa",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 396.89332375,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 tbsp. (30 ml)",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 120,
+        "protein_g": 2,
+        "carbohydrate_g": 22,
+        "sugars_g": 2,
+        "fat_g": 2.5,
+        "saturated_fat_g": 1,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 30
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0810036563031",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

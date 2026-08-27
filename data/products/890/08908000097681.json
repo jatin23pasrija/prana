@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000097681",
+  "barcode_printed": "8908000097681",
+  "barcode_format": "EAN-13",
+  "name": "Healthy Breakfast Cereal",
+  "brand": "gaia",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 396.48,
+        "protein_g": 11.52,
+        "carbohydrate_g": 79.68,
+        "sugars_g": 25.32,
+        "fat_g": 3.52,
+        "saturated_fat_g": 0.65,
+        "trans_fat_g": 0,
+        "sodium_mg": 187.5
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flakes (46.69%), Rolled Oats (17.50%), Corn Flakes (11.68%), Invert Sugar Syrup (7.09%), Raisins (5.0%), Dried Fruits [Apple (2.0%) Pineapple (2.0%), Papaya (2.0%)], Strawberry Chunk (2.0%), Apricot Chunk (2.0%), Liquid Glucose, Honey, Antioxidant (INS 310). ALLERGEN: Contains Wheat and Oat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000097681",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

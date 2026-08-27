@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906133400477",
+  "barcode_printed": "8906133400477",
+  "barcode_format": "EAN-13",
+  "name": "Vegain",
+  "brand": "man-matters",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Pea Protein, Brown Rice Protein, Moong Bean Protein, Spirulina Extract (Whole Algoe Protein), Cocoo, Ashwogandha Extroct, NaCI, Sweetener, (INS 955), Xanthan Gum (INS 415), Silicon DiOxide & Digezyme. Vitamins: Beta Carotene, Thiamine HCI, Profile 9.9 Plante stren 0.2 132 5.2 82.5 3.6 198 30 247.5 37.5 9.9 75 Vhami 16.5 88.2 16.5 bone 4.4 Ascorbic Acid, Folic Acid, Cyanocobalamin, Cholecalciferol, D-Alpha Tocopherol, Phytonadione, Menaquinone, Biotin, Calcium D Pantothenate. 0.01 1.65 40 132 88.2 1.65 80 33 37.5 23.1 158 75 42 Chloride, Potassium lodide, Manganese NUTRACEUTICAL 660144 Che",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906133400477",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

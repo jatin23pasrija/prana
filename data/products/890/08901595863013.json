@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595863013",
+  "barcode_printed": "8901595863013",
+  "barcode_format": "EAN-13",
+  "name": "Schezwan Chutney",
+  "brand": "ching-s",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 176,
+        "protein_g": 2.2,
+        "carbohydrate_g": 16.7,
+        "sugars_g": 8,
+        "fat_g": 11.2,
+        "saturated_fat_g": 3.8,
+        "sodium_mg": 2260
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sunflower Oil, Sugar, lodised Salt, Chilli, Corn Starch, Garlic, Onion, Ginger, Thickener (INS 1422), Flavou Enhancer (INS 635), Acidity Regulator (INS 260), Spices (White Pepper, Schezwan Pepper), Preservatives (INS 202, INS 211), Celery, Soy Sauce Powder (Soybean, Wheat, Salt), Natural Flavouring Substances. ALLERGEN ADVICE: CONTAINS WHEAT, SOY AND CELERY. May contain Peanuts, Tree Nuts, Sesame Seed, Mustard and Milk (dairy products)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595863013",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

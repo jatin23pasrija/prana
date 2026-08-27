@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764092800",
+  "barcode_printed": "8901764092800",
+  "barcode_format": "EAN-13",
+  "name": "Maaza",
+  "brand": "coca-cola-company",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "200ml",
+        "quantity": {
+          "value": 200,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 64,
+        "protein_g": 0,
+        "carbohydrate_g": 15.5,
+        "sugars_g": 14,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 35.8
+      }
+    }
+  ],
+  "ingredients_raw": "water, sugar, acidity regulator (330), salt, antioxidant (300), preservative (211), added flavours (natural and nature identical flavouring substances), artificial flavouring substances",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764092800",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906097592911",
+  "barcode_printed": "8906097592911",
+  "barcode_format": "EAN-13",
+  "name": "goodeatz Lentil Soup",
+  "brand": "fast-up",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 354.2,
+        "protein_g": 51.1,
+        "carbohydrate_g": 26.7,
+        "sugars_g": 8,
+        "fat_g": 2.8,
+        "saturated_fat_g": 0.52,
+        "fibre_g": 8.9,
+        "sodium_mg": 3480.7
+      }
+    }
+  ],
+  "ingredients_raw": "Pea Protein (57.3%), Edible Starches (Tapioca, Potato), Pink Salt, Flavouring Substances (Natural and Nature Identical), Spices and Condiments, Dehydrated Vegetables (4.7%) (Canned tomato), Toor Dal (4.5%), Inulin (3.3%), Refined Sunflower oil, Thickener (INS 412), Flavour Enhancers (INS 627, INS 631), Anti caking Agent (INS 551), Extracts (Curcumin, Tulsi)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906097592911",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

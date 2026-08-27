@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764175022",
+  "barcode_printed": "8901764175022",
+  "barcode_format": "EAN-13",
+  "name": "Maaza Refresh Mango Drink",
+  "brand": "coca-cola",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, MANGO PULP (11.3%), SUGAR ACIDITY REGULATORS (330, 331(iii), STABILIZER (466), ANTIOXIDANT (300) SWEETENER (960), COLOUR(110), MANGO FLAVOUR (NATURE-IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764175022",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

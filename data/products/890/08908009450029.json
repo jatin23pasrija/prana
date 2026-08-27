@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009450029",
+  "barcode_printed": "8908009450029",
+  "barcode_format": "EAN-13",
+  "name": "Homa Brown Bread",
+  "brand": "homa",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 237,
+        "protein_g": 7,
+        "carbohydrate_g": 50,
+        "sugars_g": 4.8,
+        "fat_g": 1.08,
+        "saturated_fat_g": 0.28,
+        "fibre_g": 3,
+        "sodium_mg": 492
+      }
+    }
+  ],
+  "ingredients_raw": "WHOLE WHEAT FLOUR - ATTA (52%), REFINED WHEAT FLOUR (MAIDA), PURIFIED WATER,SUGAR, WHEAT BRAN, YEAST, IODISED SALT, EDIBLE VEGETABLE OIL (PALM & SOYABEAN OIL), SOYA FLOUR, VITAL GLUTEN, MILK SOLIDS, PRESERVATIVE (282), FLOUR TREATMENT AGENT (516 & 510), EMULSIFIER (472e), STABILIZERS [170(1), 412], ACIDITY REGULATOR (260), IMPROVERS [1101(1), 1102, 1104] AND ANTIOXIDANT (300), CONTAINS PERMITTED NATURAL FOOD COLOUR (150a)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009450029",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

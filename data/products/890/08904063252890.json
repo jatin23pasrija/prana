@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063252890",
+  "barcode_printed": "8904063252890",
+  "barcode_format": "EAN-13",
+  "name": "Paneer pakoda",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 300,
+        "protein_g": 12.5,
+        "carbohydrate_g": 17.5,
+        "sugars_g": 2.5,
+        "fat_g": 20,
+        "saturated_fat_g": 8.75,
+        "fibre_g": 2.5,
+        "sodium_mg": 500
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063252890",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

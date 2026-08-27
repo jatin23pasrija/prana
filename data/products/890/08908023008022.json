@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08908023008022",
+  "barcode_printed": "8908023008022",
+  "barcode_format": "EAN-13",
+  "name": "Celnutra 2.0",
+  "brand": "nucgnex",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 490,
+        "energy_kj": 2050.16,
+        "protein_g": 36,
+        "carbohydrate_g": 46.35,
+        "sugars_g": 0,
+        "fat_g": 17.84,
+        "saturated_fat_g": 12.53,
+        "trans_fat_g": 0,
+        "fibre_g": 9.23,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Concentrate (Instant), Whey Protein Hydrolysate, MCT powder, Resistant Maltodextrin (NUTRICE** 06), Com Powder, Inulin, Fructooligosaccharides (FOS), Choline bi-tartrate, L-Carnitine, L-Taurine, Lactobacillus ac CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCE) - VANILLA. Vitamins, Minerals and Sweetener (INS 955). Appropriate overages of vitamins & minerals added to compensate the loss of potency during storage. (1) Contains sucralose. (2) Not recommended for children. (3) No sugar added in the product. This product is by its nature gluten free. NOT FOR MEDICINAL USE FOOD FOR SPECIAL DIETARY USE. FOOD FOR HELPING SUPPORT RECOVERY. CONTAINS ARTIFICIAL SWEETENER AND FOR CALORIE CONSCIOUS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908023008022",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

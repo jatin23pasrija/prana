@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010090739",
+  "barcode_printed": "8906010090739",
+  "barcode_format": "EAN-13",
+  "name": "D'lecta Mozzarella Cheese",
+  "brand": "d-lecta",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Mozzarella Cheese (Pasteurised Milk, Pasteurised Skimmed Milk, lodised Salt, Stabilizer (INS 509), Microbial cultures and Microbial Rennet).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010090739",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906007280235",
+  "barcode_printed": "8906007280235",
+  "barcode_format": "EAN-13",
+  "name": "Fortune sun lite refined sunflower oil",
+  "brand": "fortune",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 435,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 900,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 100,
+        "saturated_fat_g": 17,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Sunflower Oil, Antioxidant (INS-319). Vitamin A and Vitamin D. Ⓡ - is the registered trademark of Adani Wilmar Limited. Visit us at: fortunefoods.com FREE FROM ARGEMONE OIL 8906007 280235 FOR ANY SUG PLEASE CONT AT CORPORAT TOLL-FREE N 242025: 68a4e 08:14 10/12/2025 08:14",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906007280235",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

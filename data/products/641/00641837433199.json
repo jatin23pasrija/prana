@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00641837433199",
+  "barcode_printed": "0641837433199",
+  "barcode_format": "EAN-13",
+  "name": "Protein Oats",
+  "brand": "doctor-s-choice",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rolled Oats (40.4%), Protein Blend (27.25%) (Texturized Soy Protein, Soya Protein Isolate. Whey Protein Concentrate), Dry Fruits. Nut & Seeds (14.5%) (Raisins, Almonds, Pumpkin Seeds. Chia Seeds), Jaggery, Cocoa Solids (7%), Jowar Flakes, Natural and Nature Identical Flavour, Himalayan Pink Salt. *Amino Acids Profile: L-Arginine 1.68g, L-Leucine 1.93g, L-Valine 1.06g, L-Cystine 0.16g, Glycine 1.07g, Histadine 0.76g, Serine 1.34g, Aspartic Acid 3.19g, Glutamic Acid 7.51g, Threonine 0.97g. Alanine 1.14g, Proline 0.99g, Lysine 1.64g, Tyrosine 0.66g. Methionine 0.85g, Iso Leucine 0.92g, Phenyl Alanine 1.23g. Tryptophan 0.25g. CATEGORY: Breakfast Cereals. ALLERGEN ADVICE: Contains Milk, Nuts & Soy. N",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0641837433199",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

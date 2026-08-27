@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "05900114490627",
+  "barcode_printed": "5900114490627",
+  "barcode_format": "EAN-13",
+  "name": "Ragi Bites",
+  "brand": "tata-soulfull",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 375,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 392,
+        "energy_kj": 1641,
+        "protein_g": 10.8,
+        "carbohydrate_g": 83.5,
+        "sugars_g": 26.5,
+        "fat_g": 1.6,
+        "saturated_fat_g": 0.8,
+        "fibre_g": 9.2,
+        "sodium_mg": 212
+      }
+    }
+  ],
+  "ingredients_raw": "Ragi (25%), Refined Sugar, Rice (19.5%), Wheat (11%), Maize (7.8%), Bengal Gram Dal (4.7%), Cocoa Solids (2.4%), Jowar (2.3%), Oats (1.5%), Palmolein Oil, Nature-Identical Flavouring Substance, lodised Salt, Stabilizer (170), Malt Extract, Natural Colour (150d), Natural Flavour, Antioxidant (320). ALLERGENS: Contains Wheat, Oats, Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5900114490627",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

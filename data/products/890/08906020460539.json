@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020460539",
+  "barcode_printed": "8906020460539",
+  "barcode_format": "EAN-13",
+  "name": "Bread",
+  "brand": "harvest-gold",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 220,
+        "protein_g": 7.67,
+        "carbohydrate_g": 46.02,
+        "sugars_g": 4.91,
+        "fat_g": 0.62,
+        "saturated_fat_g": 0.13,
+        "trans_fat_g": 0.05,
+        "fibre_g": 3.52,
+        "sodium_mg": 447.51
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020460539",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

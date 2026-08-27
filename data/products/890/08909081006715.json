@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081006715",
+  "barcode_printed": "8909081006715",
+  "barcode_format": "EAN-13",
+  "name": "Candyman fruitee fun",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "INGREDIENTS SUGAR, LIQUID GLUCOSE, ACIDITY REGULATORS (270, 296, 325, 330, 331(iii)), &quot;FRUIT LIME (0.2%), POWDERS (ORANGE (0.2%), STRAWBERRY (0.19%), WATERMELON (0.2%)], HYDROGENATED VEGETABLE OIL, NATURE IDENTICAL FLAVOURING SUBSTANCES (ORANGE, STRAWBERRY, MIX BERRY, LIME), STARCH, STABILIZERS (414, 1401), GLAZING AGENTS (903, 901,464), VITAMIN, HUMECTANT (422), ARTIFICIAL FLAVOURING SUBSTANCES (WATERMELON), EMULSIFIERS (LECITHIN (FROM SOYABEAN), MONO AND DI-GLYCERIDES OF FATTY ACIDS (FROM PALM)] AND COLOURS (102, 122, 110, 133) MAY CONTAIN SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081006715",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906036670212",
+  "barcode_printed": "8906036670212",
+  "barcode_format": "EAN-13",
+  "name": "Curd",
+  "brand": "nandini",
+  "category": "milk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 60,
+        "protein_g": 3.7,
+        "carbohydrate_g": 4.4,
+        "sugars_g": 4.4,
+        "fat_g": 3.1,
+        "saturated_fat_g": 2,
+        "trans_fat_g": 0,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids (Toned Milk) & Active Culture Allergen Advice: contains Milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906036670212",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

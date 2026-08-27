@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030886119",
+  "barcode_printed": "8901030886119",
+  "barcode_format": "EAN-13",
+  "name": "sope",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SON MUN ENELATE WATER, GLYCERIN, DIOXIDE, LAURIC ACID, PEG-8, NATE MILKUPIDS, TETRASODIUM EDTA, SULFONATE SCLEROTIUM GUM HENNETHYLPROPIONAL, CHNAMYL LIMONENE BENZYL ACETATE URL&BUSE BEFORE: SEE ON FLAP 17% MADE IN INDIA A QUALITY PRODUCT UNITED MITD BY HINDUSTAN UNILEVER REGISTERED TRADEMARK HUL 2017. VEGETABLE OILS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030886119",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

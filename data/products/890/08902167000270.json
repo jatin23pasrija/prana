@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902167000270",
+  "barcode_printed": "8902167000270",
+  "barcode_format": "EAN-13",
+  "name": "Sambhar masala",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "mdh sambar masala mixed masala powder 1919-celebrating-2019 years of affinity till infinity boil 750 ml of arhar dal in water, 200 grams of arhar dal in water. soak 20 grams of tamarind in 1/1/2 cup of hot water for 30 minutes and separate the pulp and filter it. heat 50 grams of ghee / oil in a separate vessel and fry one amt of black mustard and some curry leaves. fry two chopped onions until brown. add 250 chopped vegetables like eggplant, drum stick, ghee, peas, carrots etc. to it and cook it by adding 4 teaspoons of sambhar saala, salt according to taste. mix boiled lentils with water in vegetables. add the pulp of the gardener and cook on a low flame until the vegetables are soft. essure cook 200g arhar dal in 750ml water, soak 20g tamarind in 1/2 cup of warm ater for 30 min, and extract pulp, sieve, in a pan heat 50g ghee/cooking oil , fry 1 on, mustard seeds and curry leaves, 2 chopped onions till golden, add 250g sorted, vegetable pieces like, brinjals, drum sticks, marrow, peas, carots etc, 4 tspn, mbhar masala, salt to taste, fry, transfer cooked dal along with water to the getable, add tamarind extract, cover and simmer till the vegetable are tender, radiants : coriander seeds, turmeric, cumin, red chillies, iodised salt, nugreek seeds, rai, black pepper, mustard, cassia, dried ginger, fennel, - damom amomum, nutmeg, cloves, mace, asfoetida, star anise, green damom fice content: minimum 96% ) rgen: contain mustard, this product is manufactured in a machinery that also fesses soy , sesame seeds, , , mkt, by : mahashian di hatti pvt, ltd, contains preservatives ed, office : 9/44 kirti nagar indl, area, new delhi-110015 no artificial colours taste enhancers at net quantity : 100g 18011005811 other dress read the first two letters of lot no, , see addresses below: office : 9/44 kirti nagar indi, area, new delhi-110015 gn: 216, udyog vihar, i, gurgaon-122016 (hr,) lic, no, 10018064001614 fd: 31-32, crown indi, town, a, p,o, tigaon, faridabad - 121101 (hr,) lic, no, 10018064001558 sp khasra no, 3-74, piau maniyari, kundli, sonipat-131028 (hr,) lic, no, 10018064001564 rj 16-122, h2-123-134, riico industrial area, bikaner road, nagaur - 341001 (raj,) 10018013001696 consumer query / consumer query complaint, contact our consumer care cell executive at mdh pvt, ltd, area, new delhi-110015 ph, 011-41425108, email: mdhcare@mdhspices,in g",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902167000270",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906066207648",
+  "barcode_printed": "8906066207648",
+  "barcode_format": "EAN-13",
+  "name": "Schezwan chilli garlic Chutney",
+  "brand": "keya",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 157.47,
+        "protein_g": 1.42,
+        "carbohydrate_g": 21.41,
+        "sugars_g": 7.2,
+        "fat_g": 7.35,
+        "saturated_fat_g": 1.32,
+        "sodium_mg": 1883.7
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Red chilli, Tomato, Refined Sunflower Oil, Garc Ginger, Iodized Salt, Sugar, Celery, Spices & Condiments, Thickener (INS 415), Stabilizer (INS 1422), Acidity Regulator (INS 260) Preservatives (INS 211), Flavour Enhancer (INS 627, INS 631 Paprika Oleoresin (INS 160c-i)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906066207648",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

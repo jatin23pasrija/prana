@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "00788000652473",
+  "barcode_printed": "0788000652473",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Frozen Paratha",
+  "brand": "jesluck",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 327.17,
+        "protein_g": 11.02,
+        "carbohydrate_g": 34.68,
+        "sugars_g": 0,
+        "fat_g": 16,
+        "saturated_fat_g": 6.3,
+        "trans_fat_g": 0,
+        "sodium_mg": 188.89
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0788000652473",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

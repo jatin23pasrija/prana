@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901440001188",
+  "barcode_printed": "8901440001188",
+  "barcode_format": "EAN-13",
+  "name": "Lait de coco en Poudre coconut milk powder",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 700,
+        "protein_g": 6.67,
+        "carbohydrate_g": 26.67,
+        "sugars_g": 6.67,
+        "fat_g": 63.33,
+        "saturated_fat_g": 60,
+        "fibre_g": 0,
+        "sodium_mg": 83.33
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901440001188",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

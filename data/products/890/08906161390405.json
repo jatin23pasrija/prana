@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161390405",
+  "barcode_printed": "8906161390405",
+  "barcode_format": "EAN-13",
+  "name": "Peanut party mix",
+  "brand": "let-s-try",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 626,
+        "protein_g": 17.21,
+        "carbohydrate_g": 28.01,
+        "sugars_g": 0,
+        "fat_g": 49.52,
+        "saturated_fat_g": 32.42,
+        "sodium_mg": 1188.69
+      }
+    }
+  ],
+  "ingredients_raw": "Peanuts, Groundnut Oil, Gram Flour & Potato Flakes. Spices & condiments: (lodised Salt, Black Salt, Dried Mango, Cumin, Dried Ginger, Cinnamon Nutmeg, Clove, Red Chilli, Yellow Chilli), Acidity Regulator - (INS330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161390405",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

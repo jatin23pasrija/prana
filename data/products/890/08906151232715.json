@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151232715",
+  "barcode_printed": "8906151232715",
+  "barcode_format": "EAN-13",
+  "name": "Snackible Dipsters",
+  "brand": "snackible",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Biscuit Sticks: Whole wheat flour, refined wheat flour, jaggery, edible vegetable oil (sunflower oil), sodium bicarbonate, ammonium bicarbonate, lecithin, salt. Chocolatey Dip: Edible vegetable oil (sunflower oil), jaggery, milk solids, maltodextrin (INS1400), cocoa solids, edible vegetable fat-(hydrogenated). emulsifier (INS322(i)- lecithin of soya origin) CONTAINS ADDED NATURE IDENTICAL (VANILLA) FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151232715",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906143040335",
+  "barcode_printed": "8906143040335",
+  "barcode_format": "EAN-13",
+  "name": "Yu Chilli Chicken Noodles",
+  "brand": "yu",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour Noodles, Tomato, Soy Sauce. Onion Sunflower Seed Oil, Garlic, Ginger, Corn Flour, Chicken, Vegetable Oil, Salt, Sugar, Celery, Vinegar, Spring Onion, Dry Red Chilli, Sesame Oil, Orange Peel Sesame Seeds, Peanuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906143040335",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

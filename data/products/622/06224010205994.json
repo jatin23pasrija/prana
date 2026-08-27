@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "06224010205994",
+  "barcode_printed": "6224010205994",
+  "barcode_format": "EAN-13",
+  "name": "Dark Chocolate Hazelnut",
+  "brand": "egypt",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 bar (80 g)",
+        "quantity": {
+          "value": 80,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 360,
+        "protein_g": 4,
+        "carbohydrate_g": 30,
+        "sugars_g": 28,
+        "fat_g": 24,
+        "saturated_fat_g": 10,
+        "fibre_g": 1,
+        "sodium_mg": 8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6224010205994",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

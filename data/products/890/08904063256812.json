@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063256812",
+  "barcode_printed": "8904063256812",
+  "barcode_format": "EAN-13",
+  "name": "Medu avada",
+  "brand": "minute-khana",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 379.31,
+        "protein_g": 13.79,
+        "carbohydrate_g": 36.21,
+        "sugars_g": 0,
+        "fat_g": 20.69,
+        "saturated_fat_g": 1.72,
+        "fibre_g": 5.17,
+        "sodium_mg": 568.97
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063256812",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

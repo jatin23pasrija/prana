@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335604402",
+  "barcode_printed": "8904335604402",
+  "barcode_format": "EAN-13",
+  "name": "Power Up Bar Choco Peanut Butter",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Protein Blend (39%) (Peanut Protein, Soy Crisps 11.7%, Whole Milk Powder, Milk Protein Concentrate, Whey Protein Isolate 2.9%), No Added Sugar Dark Compound 20% (Maltitol, Edible Vegetable Fat (Hydrogenated), Cocoa Solids, Sorbitan Tristearate, Soy Lecithin & Nature Identical Flavour), Fructooligosacchride, Maltitol, Peanut Butter (5%), Glycerine, Peanut Chunks, Rice Bran Oil, Soy Lecithin, Gum Acacia, Natural & Nature Identical Flavours, Steviol Glycoside.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335604402",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

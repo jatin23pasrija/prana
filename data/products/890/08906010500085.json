@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500085",
+  "barcode_printed": "8906010500085",
+  "barcode_format": "EAN-13",
+  "name": "Chevdo",
+  "brand": "balaji",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "POTATO (75%), ROASTED PEANUT (12%), EDIBLE VEGETABLE OIL (PALMOLEIN), SUGAR, ROCK SALT, SPICES & CONDIMENTS (CHILLI, CORIANDER, CUMIN, TURMERIC, DRY MANGO, CLOVE, CAROM SEED, GINGER, CINNAMON, CARDAMOM, NUTMEG, MACE, BAY LEAVES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500085",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

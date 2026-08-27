@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08904145912087",
+  "barcode_printed": "8904145912087",
+  "barcode_format": "EAN-13",
+  "name": "Ensure",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 226,
+        "protein_g": 20.1,
+        "carbohydrate_g": 58,
+        "sugars_g": 12,
+        "fat_g": 14,
+        "saturated_fat_g": 3,
+        "trans_fat_g": 0.2,
+        "sodium_mg": 324
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904145912087",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

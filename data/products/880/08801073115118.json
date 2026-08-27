@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08801073115118",
+  "barcode_printed": "8801073115118",
+  "barcode_format": "EAN-13",
+  "name": "Samyang Ramen",
+  "brand": "samyang",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 425,
+        "protein_g": 9.16,
+        "carbohydrate_g": 66.64,
+        "sugars_g": 5,
+        "fat_g": 13.33,
+        "saturated_fat_g": 6.66,
+        "fibre_g": 3.33,
+        "sodium_mg": 1657.67
+      }
+    }
+  ],
+  "ingredients_raw": "GREEN TEA FLAVOUR. NOODLE (86.4%): REFINED WHEAT FLOUR(71%), REFINED PALM OIL(14%), STARCH ACETATE(E1420), POTATO STARCH, EDIBLE COMMON SALT, EMULSIFIER SOY LECITHIN(E322), ACIDITY REGULATORS[POTASSIUM CARBONATE(E501(i)), SODIUM CARBONATE(E500), SODIUM PHOSPHATE DIBASIC(E339(1)) & CITRIC ACID(E330)], THICKENER GUAR GUM(E412), FOOD COLOUR RIBOFLAVIN(E101) AND NATURAL IDENTICAL SOUP(12.2%): SOY SAUCE(SOYBEAN, REFINED WHEAT FLOUR, EDIBLE COMMON SALT, & WATER), YEAST EXTRACT POWDER, FLAVOUR ENHANCER MONOSODIUM GLUTAMATE(E621), EDIBLE COMMON SALT, SUGAR, ROASTED WHEAT FLOUR RICE FLOUR, BLACK PEPPER POWDER CHILLI PEPPER POWDER(2.9%), DISODIUM 5' RIBONUCLEOTIDE(E635), ONION POWDER & FOOD COLOUR CARAMEL (E150 C FLAKE(1.4%): DRIED CARROT FLAKE, DRIED BOK CHOY, DEHYDRATED CHIVES, DRIED CABBAGE FLAKE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8801073115118",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

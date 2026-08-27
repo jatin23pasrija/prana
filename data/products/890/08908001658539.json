@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001658539",
+  "barcode_printed": "8908001658539",
+  "barcode_format": "EAN-13",
+  "name": "ocean fruit drink",
+  "brand": "ocean",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 42,
+        "protein_g": 0.5,
+        "carbohydrate_g": 10,
+        "sugars_g": 10,
+        "fat_g": 0,
+        "sodium_mg": 5
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Apple Juice Concentrate 1.8% (Equivalent to 12% Apple Juice) Sugar, Glucose, Minerals (E 329, E 508), Acidity Regulator (E 330, E296, E 331), Nature Identical Flavouring Substances (Pink Guava Fruit Flavour). Permitted Class I Preservative (E 202), Vitamins (B3, B5, B7).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001658539",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

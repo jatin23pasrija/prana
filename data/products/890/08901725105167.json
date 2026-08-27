@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725105167",
+  "barcode_printed": "8901725105167",
+  "barcode_format": "EAN-13",
+  "name": "B Natural Guava juice",
+  "brand": "b-natural",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Guava Pulp (20%), Sugar, Acidity Regulators (INS 330, INS 296), Natural Flavours and Natural Flavouring Substances, Stabilizers (INS 440, INS 415, INS 466), Vitamin C, lodized Salt, Polydextrose (Dietary Fiber) (0.01%) and Colours (INS 150d, INS 124). Source of Dietary Fibre, Rich in Vitamin C. May Contain Milk, Nut & Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725105167",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

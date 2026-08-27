@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764985027",
+  "barcode_printed": "8901764985027",
+  "barcode_format": "EAN-13",
+  "name": "Lemon Coconut Water Lyte",
+  "brand": "bodyarmor-superblend",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, *COCONUT WATER (4.5%), GLUCOSE (1.6%), *LEMON JUICE CONCENTRATE (0.7%), ACIDITY REGULATOR (331(iii)), MINERAL SALTS (IODIZED SALT, POTASSIUM CHLORIDE), ANTIOXIDANT (300), SWEETENERS (955, 960), COLOUR (160a(i)), FLAVOUR (NATURE-IDENTICAL FLAVOURING SUBSTANCES). *10% TOTAL RECONSTITUTED FRUIT JUICE IN THE BEVERAGE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764985027",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

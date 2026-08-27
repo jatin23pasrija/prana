@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719116520",
+  "barcode_printed": "8901719116520",
+  "barcode_format": "EAN-13",
+  "name": "Parle Bode&seek 120g(26)",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 478,
+        "energy_kj": 2001,
+        "protein_g": 5.8,
+        "carbohydrate_g": 73.6,
+        "sugars_g": 32,
+        "fat_g": 17.8,
+        "saturated_fat_g": 9.2,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), CHOCOLATE (21%) I SUGAR, COCOA SOLIDS, COCOA BUTTER, DEXTROSE, EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA J, SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, INSTANT COFFEE-CHICORY MIXTURE (1%), RAISING AGENTS (503 (ii), 500 (ii) 1. 1ODISED SALT, EMULSIFIER OF VEGETABLE ORIGIN [472e]. CONTAINS PERMITTED NATURAL COLOUR [ 150d] AND ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES COFFEE). CONTAINS: WHEAT, SOY FOR SALE IN INDIA ONLY NET WEIGHT MRP 30.00 (0.30A INCL. OF ALL TAXES CONSUMER CARE CELL PARLE PRODUCTS PVT. LTD. NORTH LEVEL CROSSING VILE PARLE EAST MUMBAI, MH-400057 PHONE NO.:022-6691 6929; En visit us at www.parleproducts.com MADE WITH",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719116520",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

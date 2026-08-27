@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491000789",
+  "barcode_printed": "8901491000789",
+  "barcode_format": "EAN-13",
+  "name": "Lays India's magic masala",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), &quot;Spices & Condiments (Onion Powder, Chilli Powder, Dried Mango Powder, Coriander Seed Powder, Ginger Powder, Garlic Powder, Black Pepper Powder, Spices Extract. Turmeric Powder), lodised Salt, Black Sal Sugar, Tomato Powder, Citric Acid (330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491000789",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

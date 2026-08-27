@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08801073142978",
+  "barcode_printed": "8801073142978",
+  "barcode_format": "EAN-13",
+  "name": "3x spicy noddles",
+  "brand": "samyang",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 400,
+        "energy_kj": 1670,
+        "protein_g": 10,
+        "carbohydrate_g": 60.7,
+        "sugars_g": 7.9,
+        "fat_g": 12.9,
+        "saturated_fat_g": 5.7,
+        "fibre_g": 2.9,
+        "sodium_mg": 1079
+      }
+    }
+  ],
+  "ingredients_raw": "NOODLE (76.79%) {WHEAT FLOUR, MODIFIED TAPIOCA STARCH, REFINED PALM OIL, WHEAT GLUTEN, SALT, EMULSIFIER[SOY LECITHIN(E322)], ACIDITY REGULATOR POTASSIUM CARBONATE (E501(), SODIUM CARBONATE(E500(i)), SODIUM PHOSPHATE DIBASIC (E339(ii))], THICKENER[GUAR GUM(E412)], CITRIC ACID(E330), GREEN TEA FLAVOR OIL}. SOUP (22.7%) {WATER, SOY SAUCE, WHITE SUGAR, ARTIFICIAL CHICKEN FLAVOR POWDER, ARTIFICIAL CHICKEN FLAVOR, CHILLI PEPPER POWDER, SOYBEAN OIL, DECOLORIZED CHILLI EXTRACT, RED PEPPER POWDER, ONION, FLAVOUR ENHANCER (MONOSODIUM L-GLUTAMATE(E621), GARLIC, MODIFIED POTATO STARCH, PAPRIKA EXTRACT, BLACK PEPPER POWDER, CURRY POWDER}. FLAKE(0.6%) {ROASTED SESAME, ROASTED LAVER}. CONTAINS: WHEAT, GLUTEN, SOY, SESAME.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8801073142978",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

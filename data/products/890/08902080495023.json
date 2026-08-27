@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080495023",
+  "barcode_printed": "8902080495023",
+  "barcode_format": "EAN-13",
+  "name": "Sting Energy Drink",
+  "brand": "sting-energy",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 28,
+        "protein_g": 0,
+        "carbohydrate_g": 7,
+        "sugars_g": 6.8,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 41
+      }
+    }
+  ],
+  "ingredients_raw": "Carbonated Water, Sugar, Acidity regulators (330, 331), Flavour (Natural and Nature Identical Flavouring Substances), Sequesterants (452(i), 385), Taurine, Caffeine (29mg/100ml*), Preservatives (211 ,202), Sweeteners (955, 950), Colour(129), Inositol, Vitamins Premix.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080495023",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

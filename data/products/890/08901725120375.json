@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725120375",
+  "barcode_printed": "8901725120375",
+  "barcode_format": "EAN-13",
+  "name": "Mad Angles MMMMM Masala",
+  "brand": "bingo",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 538,
+        "protein_g": 6.6,
+        "carbohydrate_g": 57.7,
+        "sugars_g": 3.4,
+        "fat_g": 32.1,
+        "saturated_fat_g": 14.8,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 732.5
+      }
+    }
+  ],
+  "ingredients_raw": "RICE GRITS, SEASONING (REFINED PALMOLEIN, SUGAR, #SPICES AND CONDIMENTS, IODIZED SALT (1.3%), HYDROLYZED VEGETABLE PROTEIN, TAMARIND POWDER, GARLIC POWDER (0.4%), MILK SOLIDS, ONION POWDER, NATURE IDENTICAL FLAVOURING SUBSTANCES, CURD POWDER, YEAST EXTRACT, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, FLAVOUR ENHANCER (INS 508) AND MALTODEXTRIN), REFINED PALMOLEIN, DEGERMED CORN GRITS AND BENGAL GRAM GRITS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725120375",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

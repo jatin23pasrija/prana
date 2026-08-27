@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906024487747",
+  "barcode_printed": "8906024487747",
+  "barcode_format": "EAN-13",
+  "name": "Supreme Ice Cream Belgian Chocolate",
+  "brand": "supreme",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 265,
+        "protein_g": 4.5,
+        "carbohydrate_g": 28.9,
+        "sugars_g": 28.9,
+        "fat_g": 14.6,
+        "saturated_fat_g": 8.8,
+        "fibre_g": 0,
+        "sodium_mg": 44
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids, Sugar, Water, Liquid Glucose, Cocoa Solids, Emulsifier (INS 471 & INS 322) and Stabilizers (INS 407, INS 410, INS 412, INS 460 & INS 466) and Choco chips (3%) CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 1500) AND ADDED NATURE IDENTICAL FLAVOUR (CHOCOLATE)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906024487747",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

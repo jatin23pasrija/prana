@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08955442015179",
+  "barcode_printed": "8955442015179",
+  "barcode_format": "EAN-13",
+  "name": "Arasan Achu Murukku",
+  "brand": "arasan-murukku",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 540.94,
+        "protein_g": 8.23,
+        "carbohydrate_g": 56.31,
+        "sugars_g": 12.5,
+        "fat_g": 31.42
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Flour, Orid Dhal, Edible Oil, Sesame, Coconut Milk, Sugar & Butter",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8955442015179",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

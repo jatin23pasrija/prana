@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063252975",
+  "barcode_printed": "8904063252975",
+  "barcode_format": "EAN-13",
+  "name": "Saag Paneer",
+  "brand": "haldiram-snacks-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 211,
+        "protein_g": 6.34,
+        "carbohydrate_g": 7.75,
+        "sugars_g": 0,
+        "fat_g": 17.61,
+        "saturated_fat_g": 7.04,
+        "trans_fat_g": 0,
+        "fibre_g": 1.4,
+        "sodium_mg": 401
+      }
+    }
+  ],
+  "ingredients_raw": "Spinach (60%), indian cottage cheese (25%), onions, refined sunflower oil, milk cream, butter, fresh ginger, fresh garlic, green chili, salt, spices (cardamom, cinnamon, nutmeg, mace, cumin seeds, coriander, cloves, curry leaves), red chili, turmeric powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063252975",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

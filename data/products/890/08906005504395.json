@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005504395",
+  "barcode_printed": "8906005504395",
+  "barcode_format": "EAN-13",
+  "name": "Tana-bana",
+  "brand": "bikaji",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein Oil and/or Cottonseed Oil), Rice Flakes (15%), Sugar (15%), Gram Flour, Whole Lentils (5%), Split Chickpea (5%), Peanuts (5%), Tapioca (4%), Green Peas (3%), Acidity Regulator (INS 330) (1%), Dehydrated Potato Flakes, Dew Bean Flour (Moth Flour), Tapioca Starch, Ground Spices & Condiments, (Iodised Salt, Turmeric (Colouring and Spices), Bishop Seed, Black Salt, Cinnamon), Acidity Regulator (INS 330) (1%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005504395",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

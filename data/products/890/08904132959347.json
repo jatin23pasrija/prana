@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132959347",
+  "barcode_printed": "8904132959347",
+  "barcode_format": "EAN-13",
+  "name": "Campa Power Up",
+  "brand": "campa",
+  "category": "water",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 550,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, SUGAR, COLOUR (1500), ACIDITY REGULATORS (338, 331 (i)), PRESERVATIVE (211), CAFFEINE (9mg/100ml), NATURE IDENTICAL FLAVOURING SUBSTANCES PWM REGD NO.: B0-20-000-10-AABCR1718E-22 MINIMUM WEIGHT of PLASTIC PKG: 24.4g",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132959347",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

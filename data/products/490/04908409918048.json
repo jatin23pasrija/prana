@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "04908409918048",
+  "barcode_printed": "4908409918048",
+  "barcode_format": "EAN-13",
+  "name": "Protein & Herbs For Men",
+  "brand": "o-ziva",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 391,
+        "protein_g": 71.7,
+        "carbohydrate_g": 14.1,
+        "sugars_g": 0,
+        "fat_g": 5.26,
+        "saturated_fat_g": 2.65,
+        "fibre_g": 3.81
+      }
+    }
+  ],
+  "ingredients_raw": "Ultrafiltered Whey Protein Concentrate, Cross Flow Filtered Whey Isolate, Alkalized Cocoa (4.95%), Vitamins & Minerals Blend, Herbs Blend [Brahmi (0.47%), Moringa (0.41%), Wheatgrass (0.34%), Ashwagandha (0.31%), Ginseng (0.31%), Musli (0.22%), Chlorella (0.31%)], Papain (0.32%), Bromelain [INS 1101 (ii)], Xanthan Gum (INS 415), Natural Sweetener [Stevia (INS 960)] Contains Naturally Occurring Sugars CONTAINS ADDED FLAVOURS (NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES) NO ADDED PRESERVATIVES, NO ARTIFICIAL COLOURS, NO ADDED SUGAR ALLERGEN INFO: Contains milk & milk constituents. Made in a facility that also processes wheat & soy products.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4908409918048",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

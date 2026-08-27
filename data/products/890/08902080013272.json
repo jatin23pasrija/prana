@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080013272",
+  "barcode_printed": "8902080013272",
+  "barcode_format": "EAN-13",
+  "name": "Tropicana Litchi Delight Juice 1Ltr (Pckt)",
+  "brand": "tropicana",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 54,
+        "energy_kj": 226,
+        "protein_g": 0.1,
+        "carbohydrate_g": 13.4,
+        "sugars_g": 13.1,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 9
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, LITCHI PULP 13%, SUGAR, CONCENTRATED APPLE JUICE (2%), ACIDITY REGULATOR (296), FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES), STABILIZER (440), IODISED SALT, ANTIOXIDANT (300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080013272",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

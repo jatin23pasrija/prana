@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004400731",
+  "barcode_printed": "8904004400731",
+  "barcode_format": "EAN-13",
+  "name": "Aloo bhujia",
+  "brand": "haldiram-s",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 569,
+        "protein_g": 8.68,
+        "carbohydrate_g": 46.1,
+        "sugars_g": 0.25,
+        "fat_g": 38.12,
+        "saturated_fat_g": 16.5,
+        "fibre_g": 3.56,
+        "sodium_mg": 615
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, Refined Palmolein Oil, Bengal Gram Hour (Besan), Potato Flakes,Potato Starch Tapioca Starch, Tapary Beans (Moth Dal) Flour, iodised Salt, Red Chilli Powder, Black Salt, Acidity Regulator (INS 330), Black Pepper, Clove, Cardamom, Dried Ginger Powder, Dried Garlic Powder, Refined Sugar, Cumin Powder, Bay Leaves, Nutmeg, Cinnamon and Mint Leaves CONTAINS ADDED NATURAL, NATURE IDENTICAL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004400731",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

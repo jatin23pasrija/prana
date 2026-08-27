@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201801878",
+  "barcode_printed": "7622201801878",
+  "barcode_format": "EAN-13",
+  "name": "Oreo Original",
+  "brand": "cadbury",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 483,
+        "protein_g": 5.2,
+        "carbohydrate_g": 71.9,
+        "sugars_g": 38.8,
+        "fat_g": 19.6,
+        "saturated_fat_g": 9.7,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 436.88
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, FRACTIONATED FAT, PALMOLEIN, INVERT SUGAR, COCOA SOLIDS (2%*), LEAVENING AGENTS (500(ii), 503(ii)), STARCH, IODISED SALT, EMULSIFIER (322), NATURE IDENTICAL FLAVOURING SUBSTANCES. ALLERGEN INFORMATION: CONTAINS WHEAT, SULPHITES, SOY. MAY CONTAIN MILK AND BARLEY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201801878",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

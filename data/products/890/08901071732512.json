@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071732512",
+  "barcode_printed": "8901071732512",
+  "barcode_format": "EAN-13",
+  "name": "Almond Milk",
+  "brand": "sofit",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 45.5,
+        "protein_g": 3.2,
+        "carbohydrate_g": 0.8,
+        "sugars_g": 0,
+        "fat_g": 3.3,
+        "saturated_fat_g": 0.4,
+        "sodium_mg": 83
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071732512",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

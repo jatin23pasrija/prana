@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063240149",
+  "barcode_printed": "8904063240149",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's Salted Peanuts",
+  "brand": "haldiram-s",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 38,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 610,
+        "protein_g": 26,
+        "carbohydrate_g": 18.5,
+        "sugars_g": 0,
+        "fat_g": 48,
+        "saturated_fat_g": 24,
+        "trans_fat_g": 0.1,
+        "fibre_g": 6.8,
+        "sodium_mg": 730
+      }
+    }
+  ],
+  "ingredients_raw": "Peanuts (89%), Edible Vegetable (Palmolein, cotton Seed, Rice Bran) and lodised Salt (1.6%). Allergen Information: Contains Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063240149",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

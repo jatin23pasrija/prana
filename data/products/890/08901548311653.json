@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901548311653",
+  "barcode_printed": "8901548311653",
+  "barcode_format": "EAN-13",
+  "name": "D'lite granola almond and pumpkin seeds",
+  "brand": "sugar-free",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Oats (58.4%), Sweeteners (Maltitol, 5850 mg/portion*, Steviol Glycosides, 3 mg/portion*), Vegetable Oil (Palm), Soy Protein Isolate, Almond (3.5%), Pumpkin Seeds (3.5%), Millet, Rice Crisps, Fructo Oligosaccharides, Coconut Powder, Calcium, Iron, Emulsifier (Soya Lecithin), Leavening Agent (E500), Salt, Natural Vanilla Flavour. Allergen: Contains Gluten, Nuts and Soy. Excessive Consumption Could Have Laxative Effects",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901548311653",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

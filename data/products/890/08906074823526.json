@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906074823526",
+  "barcode_printed": "8906074823526",
+  "barcode_format": "EAN-13",
+  "name": "Almond Millet Biscuit",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 533.33,
+        "protein_g": 6.67,
+        "carbohydrate_g": 68.33,
+        "sugars_g": 18.33,
+        "fat_g": 25,
+        "saturated_fat_g": 23.83,
+        "fibre_g": 5,
+        "sodium_mg": 83.33
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906074823526",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

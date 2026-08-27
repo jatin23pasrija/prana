@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088129800",
+  "barcode_printed": "8901088129800",
+  "barcode_format": "EAN-13",
+  "name": "Masala Oats",
+  "brand": "saffola",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rolled Oats (69.3%), Maltodextrin, Salt, Dried Vegetables (Carrot (1.5%), Green Peas (1%), French Beans (0.7%), Onion Powder and Sugar, Refined Rice Bran oil, Desiccated Coconut Powder (2.1%), Spices & Condiments (1.6%) (Chilly, Turmeric, Ginger, Cardamom, Cinnamon, Curry Leaves, Garlic), Milk Solids, Tomate Hydrolysed Vegetable Protein, Yeast Extract, Anticaking Agent (INS 551), Acidity Regulator (INS 330), Flavour Enhancers (INS 627, INS 631). CONTAINS PERMITTED NATURAL COLOUR (INS 100) AND ADDED FLAVOURS - NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088129800",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

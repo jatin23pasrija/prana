@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906107170054",
+  "barcode_printed": "8906107170054",
+  "barcode_format": "EAN-13",
+  "name": "Chicken Sausage",
+  "brand": "prasuma",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 242.6,
+        "protein_g": 14.23,
+        "carbohydrate_g": 38.05,
+        "sugars_g": 0.5,
+        "fat_g": 3.72,
+        "saturated_fat_g": 1.24,
+        "sodium_mg": 847.36
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906107170054",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

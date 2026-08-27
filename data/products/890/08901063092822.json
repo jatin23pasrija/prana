@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063092822",
+  "barcode_printed": "8901063092822",
+  "barcode_format": "EAN-13",
+  "name": "BRITANNIA Good day BUTTER COOKIES",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 52.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "protein_g": 6.8,
+        "carbohydrate_g": 69.1,
+        "sugars_g": 20.4,
+        "fat_g": 21.8,
+        "saturated_fat_g": 10.9,
+        "trans_fat_g": 0,
+        "sodium_mg": 223
+      }
+    }
+  ],
+  "ingredients_raw": "INGREDIENT REFINED WHEAT FLOUR (MAIDA), REINED PALM OIL, SUGAR, INVERT SUGAR SYRUP, MILK PRODUCTS (MILK SOLIDS & BUTTER (0.5%)], RAISING AGENTS [503(ii) & [500(ii)], IODISED SALT, ARTIFICIAL (BUTTER, MILK & VANILLA) & NATURAL LAVOURING SUBSTANCES AND MULSIFIERS [472e & 322(i)]. Numbers in brackets as per International numbering System) CONTAINS WHEAT MILK AND SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063092822",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

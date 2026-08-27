@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131850151",
+  "barcode_printed": "8906131850151",
+  "barcode_format": "EAN-13",
+  "name": "eze eats",
+  "brand": "eze",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Base Product (93.2%) [Rice Flakes (46.5%), Vegetables (30.4%) (Onion, Green Chilli, Coriander Leaves, Curry & Mint Leaves), Edible Vegetable Oil (Palmolein Oil), Sugar, Salt, Lemon Juice, Lemon Powder, Mustard Seeds, Acidity Regulator (INS 330), Turmeric Powder and Antioxidant (INS 307b)], Dosing (6.8%) [Roasted Peanuts, Dehydrated Potato, Poha Masala (0.5%)&Roasted Curry Leaves] Allergens: Contains Nut and Mustard. e with the directions on the CONTAINS NO ADDED FLAVOURS AND COLOURS Ingredients of the product when prepared in acco Figures above as per international numbering Product Category: 18 (18.2.4) 8906131 850151 m Enjoy Gourmet T in Every Bite",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131850151",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

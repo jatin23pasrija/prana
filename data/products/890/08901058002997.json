@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058002997",
+  "barcode_printed": "8901058002997",
+  "barcode_format": "EAN-13",
+  "name": "Pazzta mashroom",
+  "brand": "maggi",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "MACARONI (PASTA): Semolina (Wheat) (100%). MASALA TASTEMAKER: Milk solids, Refined wheat flour (Maida), lodized salt, Cheese (8.1%), Onion (6.9%), Sugar, Starch Dehydrated Mushroom (3.5%), Palm oil, Maltodextrin, Nature identical flavouring substance, Thickener (508), Black pepper powder, Dehydrated spring onion (0.8%), Flavour enhancer ( Yeast extract powder, Colour (150d) and Com oil. Contains Wheat & Milk. May contains Mustard & Soy. *Inspired from popular Italian cuisine",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058002997",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

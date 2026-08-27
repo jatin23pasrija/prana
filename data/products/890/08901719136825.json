@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719136825",
+  "barcode_printed": "8901719136825",
+  "barcode_format": "EAN-13",
+  "name": "Hide&seek milano",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "HIDE & SEEK MILANO VANILLA CRÈME FLAVOURED FILLED BISCUITS EDIENTS: WHITE CREME (38%) SUGAR, REFINED OILS (PALMOLEIN, PALM OIL), STARCH BAULSIFIER POY LECITHIN NATURE IDENTICAL FLAVOURING SUBSTANCES), REFINED SUGAR, REFINED PALM OIL COCOA SOLIDS (4.7%), INVERY SUGAN SYRL LIQUID GLUCOSESIODISED SALTING, 341 AND EMULSIFIER OF VEGETABLE ORIGIN (472) CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - CHOCOLATE AND VANILLA) CONTAINS: WHEAT SOY USE OF TRADEMARK UNDER LICENCE FROM PARLE PRODUCTS PVT. LTD., MUMBAI. OM PARLE PRODUCT FIRST TWO CHARACTERS OF THE BATCH INDICATES THE ADDRESS OF THE MANUFACTURING UNIT & FSSAI LICENCE NUMBER",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719136825",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

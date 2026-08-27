@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016029287",
+  "barcode_printed": "8908016029287",
+  "barcode_format": "EAN-13",
+  "name": "Pasta Crunch",
+  "brand": "crax",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 53,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 491,
+        "protein_g": 7.1,
+        "carbohydrate_g": 61.6,
+        "sugars_g": 2.7,
+        "fat_g": 24,
+        "saturated_fat_g": 12.1,
+        "trans_fat_g": 0.17,
+        "sodium_mg": 2240
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Edible Vegetable Oil (Refined Palmolein Oil), Tapioca Starch, Potato Solid, *Seasoning [lodised Salt, Sugar, Corn Starch, Garlic, Chilli (0.51%), Ginger, Soya Sauce Powder, Vinegar Powder, Hydrolysed Soy Protein, Ácidity Regulator (INS 330)], Natural Colour (INS 150 (d)), Flavour(s) (Natural & Nature Identical Flavouring Substances) *Used as part of flavouring agent Contains Wheat and Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016029287",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

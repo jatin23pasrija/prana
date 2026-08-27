@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "04908094373023",
+  "barcode_printed": "4908094373023",
+  "barcode_format": "EAN-13",
+  "name": "Magnesium Glycinate with Zinc",
+  "brand": "pure-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Magnesium glycinate, Phaseolus radiatus extract, Zinc oxide, Maize Starch Sodium Starch Glycolate, Di Basic Calcium Phosphate (Bulking agent INS 341), Hydroxypropyl Methyl Cellulose (Emulsifier INS 464), Croscarmellose (Binder INS 466) Magnesium Stearate (Antisticking agent INS 470 (II)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4908094373023",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

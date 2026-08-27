@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725016869",
+  "barcode_printed": "8901725016869",
+  "barcode_format": "EAN-13",
+  "name": "Aashirvaad Whole Wheat Atta",
+  "brand": "aashirvaad-is-sold-by-itc-limited",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 10000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHOLE WHEAT CONTAINS WHEAT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725016869",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

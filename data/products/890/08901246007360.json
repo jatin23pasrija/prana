@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901246007360",
+  "barcode_printed": "8901246007360",
+  "barcode_format": "EAN-13",
+  "name": "Penne Rigate (100% Durum Wheat Semolina)",
+  "brand": "del-monte",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 379,
+        "energy_kj": 1586,
+        "protein_g": 8.8,
+        "carbohydrate_g": 82,
+        "sugars_g": 1.78,
+        "fat_g": 0.5,
+        "saturated_fat_g": 0.2,
+        "fibre_g": 5.7,
+        "sodium_mg": 40.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901246007360",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

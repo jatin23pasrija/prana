@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001576307",
+  "barcode_printed": "8908001576307",
+  "barcode_format": "EAN-13",
+  "name": "Badam patisa",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 506,
+        "protein_g": 4.25,
+        "carbohydrate_g": 69,
+        "sugars_g": 53.25,
+        "fat_g": 23.75,
+        "saturated_fat_g": 13.75
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001576307",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

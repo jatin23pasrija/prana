@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080603266",
+  "barcode_printed": "8906080603266",
+  "barcode_format": "EAN-13",
+  "name": "Coconut Water Drink",
+  "brand": "paper-boat",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, SUGAR, COCONUT WATER CONCENTRATE (3.9%)&quot;, MINERAL SALT (POTASSIUM CHLORIDE), FLAVOURS (NATURE - IDENTICAL AND NATURAL FLAVOURING SUBSTANCES), ACIDITY REGULATOR (CITRIC ACID), IODISED SALT AND PRESERVATIVES (202, 224). *RECONSTITUTED 50% COCONUT WATER DRINK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080603266",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

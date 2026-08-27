@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491003193",
+  "barcode_printed": "8901491003193",
+  "barcode_format": "EAN-13",
+  "name": "Instant oats mixed berries",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 30,
+        "protein_g": 7.2,
+        "carbohydrate_g": 76.5,
+        "sugars_g": 34.6,
+        "fat_g": 7.2,
+        "saturated_fat_g": 1.2,
+        "fibre_g": 8.1,
+        "sodium_mg": 51
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491003193",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

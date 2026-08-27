@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595963331",
+  "barcode_printed": "8901595963331",
+  "barcode_format": "EAN-13",
+  "name": "hot garlic",
+  "brand": "ching-s-secret",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "of up INI E uch a nu flet Bients: Mounter Briter der 6, CMorrore he pass lindin k potassium passant (E 508 hosphates (stabilisateur (451) Carbonate de potassium utateur d'acidité (E 501 ( 501), Carbonate achte de soidium (agent varit (E 5000), Botyhydroquinone tertiaire (antioxydant (E 319) enge d'assaisonnement: All déshydraté (38%), Sel, Melange twices (10.6%) (pinment, curcuma, gingenbre, poivrel. Farine to Tornate en poudre, Sucre, Dfsodium 5&quot; ribonucleotides Lastet de gofit (E 635)), L6gmnes Meshydrates (2.4%) (carotte all, Digron en poudre, Sauce sofa en poudre (soja, ble, sel) Byde de silicium (agent anti-agglomerant 5511), Huile de nesol, Acide citrique (régulateur d'acidité (E 330)), Extrait de re, Arômes naturels et artificiels Contient: Blé (gluten), Soja Peut contenir: Moutarde, Lait ct ve Va ier 1 2 لوقت وضة گونات شرائح مكرونة: دقيق قمح وزيت نخيل مكرر وملح قمح وكلوريد البوتاسيوم (مثخن (إي) 508)) وثلاث الفوسفات عامل مثبت (إي (451) وكربونات بوتاسيوم (منا) اي 501 (i))) وصوديوم كربونات الهيدروجينا رفع (إي 500 (ii))) وبوتيل العامل مضاد لصوديوم أكسدة (إي (319 البهارات ثوم مجفف بنسبة وکرک وملح وبهارات مختلطة (10.6%) فلفل حار وكدة وفلفل ال الجليل وفلفل) ودقيق ذرة ومسحوق طماطم وسكر وثناء 5 ريبونوكليوتيدات (محسن نكهة (إي (635) خضروات مجففة بنسبة (2.4%) [ جزر وبقدونس ومسحية ومسحوق صلصة فول الصويا (فول صويا وقمح وما أكسيد السيليكون (عامل مانع للتكتل (إي (551) ون الشمس وحامض ستريك منظم حموضة إي 330) ة الخميرة ونكهات طبيعية وصناعية. ري المنتج على : قمح (جدة) وصويا. حتوي المنتج على خردل 01595963 Ching's Secret is the Registered tradem www Chingssec",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595963331",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

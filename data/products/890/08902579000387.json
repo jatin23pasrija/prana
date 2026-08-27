@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579000387",
+  "barcode_printed": "8902579000387",
+  "barcode_format": "EAN-13",
+  "name": "Appy",
+  "brand": "parle-agro",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 63,
+        "energy_kj": 0,
+        "protein_g": 0,
+        "carbohydrate_g": 15.8,
+        "sugars_g": 15.8,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 17
+      }
+    }
+  ],
+  "ingredients_raw": "Water, sugar, Apple juice concentrate(2.1%), Acidity regulators, stabilizer, natural colour, Antioxidant, nature identical flavouring substances, Added flavour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579000387",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

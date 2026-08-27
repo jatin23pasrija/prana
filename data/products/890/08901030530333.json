@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030530333",
+  "barcode_printed": "8901030530333",
+  "barcode_format": "EAN-13",
+  "name": "Manchow veg",
+  "brand": "knorr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 12,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 39.2,
+        "protein_g": 0.7,
+        "carbohydrate_g": 8.5,
+        "sugars_g": 2.1,
+        "fat_g": 0.3,
+        "saturated_fat_g": 0.2,
+        "fibre_g": 0.6,
+        "sodium_mg": 241.6
+      }
+    }
+  ],
+  "ingredients_raw": "Potato Starch, Dried Glucose Syrup, Dehydrated Vegetables (Cabbage Flakes, Carrot Flakes (4%), Garlic Bits (3%), Onion Bits (3%) and Leeks (0.4%)), Sugar, Edible Common Salt, Hydrolysed vegetable protein (Hydrolyzed vegetable protein, Maltodextrin and Salt), Edible Vegetable Fat, Spices & Condiments (Chie (2%)), Thickener (415), Acidity Regulator (330), Anti caking agent (551), Flavour Enhancer (627 & 631)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030530333",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

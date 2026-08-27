@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393019049",
+  "barcode_printed": "8901393019049",
+  "barcode_format": "EAN-13",
+  "name": "Center Fresh GUM",
+  "brand": "center-fresh",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 7.2,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Gum base, Liquid Glucose, Thickeners (INS 1405, INS 415), Dextrose, Flavours (Natural and Artificial (Mint)), Humectant (INS 422), Sweetener: Aspartame (INS 951), Emulsifier (INS 322), Antioxidant (INS 321), Colour (INS 133) This contains Aspartame sal",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393019049",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

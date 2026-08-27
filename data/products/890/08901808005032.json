@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901808005032",
+  "barcode_printed": "8901808005032",
+  "barcode_format": "EAN-13",
+  "name": "Cocoa Powder (Unsweetened)",
+  "brand": "weikfield",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cocoa Solids (99.75%), Artificial flavour (chocolate). Serving Size - 10 g from the finest No. of servings per pack-13 rious chocolate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901808005032",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

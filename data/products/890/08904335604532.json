@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335604532",
+  "barcode_printed": "8904335604532",
+  "barcode_format": "EAN-13",
+  "name": "Choco Peanut Butter",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50 g",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 183,
+        "protein_g": 12,
+        "carbohydrate_g": 23.6,
+        "sugars_g": 5.8,
+        "fat_g": 7.2,
+        "saturated_fat_g": 5.2,
+        "fibre_g": 4.2,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "ingredients_raw": "Protein Blend (38.5%) (Soy Crisps, Peanut Protein, Whole Milk Powder, Skim Milk Powder), No Added Sugar Dark Compound 20% (Maltitol, Edible Vegetable Fat (Hydrogenated), Cocoa Solids, Emulsifiers (Sorbitean Tristearate, Soy Lecithin), Nature Identical Flavouring Substances), Fructooligosaccharide, Maltitol, Peanut Chunks, Peanut Butter (4%), Humectant (Glycerol), Rice Bran Oil, Natural & Nature identical Flavouring Substances, Emulsifier (Soy Lecithin), Thickener (Acacia Gum), Sweetener (Steviol Glycosides).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335604532",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

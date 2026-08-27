@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "04897036691427",
+  "barcode_printed": "4897036691427",
+  "barcode_format": "EAN-13",
+  "name": "Monster Energy Drink 350ml",
+  "brand": "monster",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUCROSE, GLUCOSE ACIDITY REGULATORS (CITRIC ACID, SODIUM CITRATE), TAURINE (400 mg/100 ml), PRESERVATIVES (SORBIC ACID, BENZOIC ACID CAFFEINE (0.03%), COLOURS [(GRAPESKIN EXTRACT IN RIBOFLAVIN 101(1)), SWEETENER (SUCRALOSE), VITAMINS (83 812), GLUCURONOLACTONE, INOSITOL (2 mg/100 ml)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4897036691427",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

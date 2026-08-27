@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901248756136",
+  "barcode_printed": "8901248756136",
+  "barcode_format": "EAN-13",
+  "name": "Zandu Lean & Slim Juice with Honey & Apple Cider Vinegar",
+  "brand": "zandu",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Apple Cider Vinegar with Mother 1.7 ml, Sunthi (Zingiber officinale Roxb.) Rz. Juice 1.7 ml, Nimbu (Citrus limon (Linn.) Burm. f.) Fr. Juice 1.7 ml, Madhu (Honey) 4.9 ml, Excipients Q.S., Preservatives Used: Sodium Benzoate 0.2% & Potassium Sorbate 0.15%.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901248756136",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

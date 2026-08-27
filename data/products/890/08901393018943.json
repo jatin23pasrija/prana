@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393018943",
+  "barcode_printed": "8901393018943",
+  "barcode_format": "EAN-13",
+  "name": "happydent",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "NEEM (AZADIRACHTA INDICA) SATVA 0.57 mg, PUDINA (MENTHA ARVENSIS SATVA 284 m PUDINATAIL MENTHA SPICATAP 16.09 mg, MEETHA (BAKING SODA 0.40 mg, SUGAR FREE BASE (XYLITOL, SORBITOL, MALTITOL GUM ARABIC) q.s., GUM BASE a.s., APPROVED FLAVOUR",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393018943",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

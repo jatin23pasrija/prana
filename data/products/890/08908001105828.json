@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001105828",
+  "barcode_printed": "8908001105828",
+  "barcode_format": "EAN-13",
+  "name": "Anardan Goli",
+  "brand": "the-only",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Pomegranate (Punica granatum Linn.) 3.7g, Cumin (Cuminum cyminum Linn.) 0.3g, Black Pepper (Piper nigrum Linn.) 1.6g, Chilli (Capsicum annum Linn.) 0.2g, Ginger (Zingiber officinale Rosc.) 0.6g, Dry mango (Mangifera indica Linn.) 14.0g, Rose petals (Rosa centifolia Linn.) 0.006g, Long pepper (Piper longum Linn.) 0.01g, Neembusat (Citrus medica Extract) 0.01g, Black salt 0.3g, lodized salt 5.1g and Sugar (Q.S)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001105828",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

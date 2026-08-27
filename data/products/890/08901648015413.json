@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901648015413",
+  "barcode_printed": "8901648015413",
+  "barcode_format": "EAN-13",
+  "name": "Kulfi",
+  "brand": "mother-dairy",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 227,
+        "protein_g": 3.8,
+        "carbohydrate_g": 23,
+        "sugars_g": 16.3,
+        "fat_g": 13.3,
+        "saturated_fat_g": 10,
+        "sodium_mg": 92
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Milk Solids, Sugar, Stabilizers & Emulsifiers (412, 410, 407, 471, 466 435), Nature-Identical Flavouring Substances and Colours (110, 102, 122, 132).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901648015413",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

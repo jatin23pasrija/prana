@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063136441",
+  "barcode_printed": "8901063136441",
+  "barcode_format": "EAN-13",
+  "name": "The Original Bourbon Creme Biscuit with Chocolate",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 390,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat flour, Sugar (34%), Bakery shortening [Palm oil, Interesterified fat (Palm), sesame oil], Corn starch, Colour (Caramel I & IV), Cocoa powder (2.8%), Whey powder, Raising agents (Sodium bicarbonate, Ammonium bicarbonate), Artificial flavouring substances (Vanillin, milky cocoa & chocolate), Emulsifiers (Mono - and di-glycerides of fatty acids, Soya lecithin), Milk chocolate (0.1%) (Contains milk) and lodized salt Contains: Wheat (gluten), Sesame, Milk products and Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063136441",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

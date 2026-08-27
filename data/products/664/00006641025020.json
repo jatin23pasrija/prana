@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "00006641025020",
+  "barcode_printed": "0006641025020",
+  "barcode_format": "EAN-13",
+  "name": "Wet Idly Batter",
+  "brand": "tiffin",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 800,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 138.16,
+        "protein_g": 3.59,
+        "carbohydrate_g": 30.43,
+        "fat_g": 0.23,
+        "saturated_fat_g": 0.06,
+        "sodium_mg": 0.05
+      }
+    }
+  ],
+  "ingredients_raw": "Black Gram (Urad), Idly Ravva, Potable Water",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0006641025020",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

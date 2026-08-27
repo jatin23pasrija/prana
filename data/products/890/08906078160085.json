@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906078160085",
+  "barcode_printed": "8906078160085",
+  "barcode_format": "EAN-13",
+  "name": "Ene bohut jolokia sauce 210 g",
+  "brand": "ene",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Water, Garlic Bits, Carrot Bits, Bhutjolokia Chilli Puree (4.5%), Salt, Acidity Regulator (Ins 260), Chilli Powder, Thickeners (Ins 1442, Ins 440& Ins 415). Contains Permitted Class II Preservative – (Ins 211). Contains Added Natural Flavouring Substances",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906078160085",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

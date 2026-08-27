@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906126482916",
+  "barcode_printed": "8906126482916",
+  "barcode_format": "EAN-13",
+  "name": "mixfruitcandy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "6120482916 TAMOUR FOR SINCE EMAGES AND SWEET 980 Ginni's THE HAPPY SNACKING C www.GINNIS.CO.UK Mix Fruit Candy COMPANY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906126482916",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

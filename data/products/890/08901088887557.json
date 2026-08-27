@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088887557",
+  "barcode_printed": "8901088887557",
+  "barcode_format": "EAN-13",
+  "name": "Soya Bhurji Magic Masala",
+  "brand": "saffola",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 347,
+        "protein_g": 36.1,
+        "carbohydrate_g": 37,
+        "sugars_g": 9.5,
+        "fat_g": 10.4,
+        "saturated_fat_g": 2.6,
+        "fibre_g": 19
+      }
+    }
+  ],
+  "ingredients_raw": "Soy Granules (65%), Seasoning [lodised Salt, Sugar, Spices and Condiments, Starch, Nature-identical Flavouring Substances, Hydrolysed Vegetable Protein, Maltodextrin, Natural Flavouring Substances, Flavour Enhancers (627, 631)], Refined Rice Bran Oil, Dried Vegetables [Onion (6.1%), Garlic, Carrot (0.5%), Green Peas (0.5%)], Natural Flavouring Substances. CONTAINS SOY, SULPHITE. MAY CONTAINS TRACES OF OATS, WHEAT, MILK, NUT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088887557",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

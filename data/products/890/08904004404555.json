@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004404555",
+  "barcode_printed": "8904004404555",
+  "barcode_format": "EAN-13",
+  "name": "pani puri",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 240,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Hp Haldiram's TASTE NAGPUR OF TRADITION GOÛTEZ LA TRADITION Pani Puri (WATER BALLS) INDIAN SNACKS/COLLATIONS INDIENNES Net Weight/Poids Net: 240.g This Pack contains: 30 Pani Puri (90 g), Pani Puri Dry Masala (50 g). Boondi (50 g), Tamarind (Imli) Sauce (50 g) to make delicious mouth watering pani puris Co pack contient: 30 Pani Puri (90 g), Pani Puri Masala sec (50 g), Boondi (50 g), Tamarind (Imli) Sauce (50 g) à faire de délicieux bouche pani arrosage puris Picture of Suggested Serving style/Image de suggérées style de service PRODUCT OF INDIA/PRODUIT DE L'INDE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004404555",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

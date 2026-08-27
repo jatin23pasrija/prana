@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08203143041400",
+  "barcode_printed": "8203143041400",
+  "barcode_format": "EAN-13",
+  "name": "Jalapeno Cheese Zero Oil Noodles",
+  "brand": "yu-instant-noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 pack (180 g)",
+        "quantity": {
+          "value": 180,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 252,
+        "protein_g": 9,
+        "carbohydrate_g": 30,
+        "sugars_g": 8,
+        "fat_g": 11,
+        "saturated_fat_g": 5,
+        "trans_fat_g": 0,
+        "fibre_g": 7,
+        "sodium_mg": 613
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8203143041400",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

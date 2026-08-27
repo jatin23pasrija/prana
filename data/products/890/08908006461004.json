@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908006461004",
+  "barcode_printed": "8908006461004",
+  "barcode_format": "EAN-13",
+  "name": "Amba Bhadang",
+  "brand": "ab",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 220,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Puffed Rice, Cotton Seed Oil, Peanuts, Sugar, Red Chilli Powder, Garlic, Salt, Turmeric Powder, Curry Leaves",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908006461004",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

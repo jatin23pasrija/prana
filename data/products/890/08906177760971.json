@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906177760971",
+  "barcode_printed": "8906177760971",
+  "barcode_format": "EAN-13",
+  "name": "High Protein Paneer",
+  "brand": "akshayakalpa-organic",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 213,
+        "protein_g": 28,
+        "carbohydrate_g": 0.5,
+        "sugars_g": 0.5,
+        "fat_g": 11,
+        "saturated_fat_g": 7.66,
+        "sodium_mg": 31.6
+      }
+    }
+  ],
+  "ingredients_raw": "Organic Milk Solids (Cow Milk, Curd).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906177760971",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

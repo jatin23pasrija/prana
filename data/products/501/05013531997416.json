@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "05013531997416",
+  "barcode_printed": "5013531997416",
+  "barcode_format": "EAN-13",
+  "name": "Tamarind & date sauce",
+  "brand": "natco",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 340,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Eau, sucre (12%), Jaggery (11.5%), Tamarind (9%), Dattes (9%), cumin en poudre (2%), sel, amidon de maïs (1.5%), Piment en poudre (0.6%), gingembre en poudre (0.4%), Couleur: Caramel, régulateur d'acidité: acide acétique (0.3%), acide citrique, pâte d'ail, la pâte de gingembre, stabilisant: gomme de xanthane (0.2%), conservateur: benzoate de sodium (0.07%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5013531997416",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

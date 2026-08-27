@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010900995",
+  "barcode_printed": "8908010900995",
+  "barcode_format": "EAN-13",
+  "name": "Pintola High Protien Peanut Butter",
+  "brand": "pintola",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "32 g",
+        "quantity": {
+          "value": 32,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 187,
+        "protein_g": 9.6,
+        "carbohydrate_g": 8.6,
+        "sugars_g": 5,
+        "fat_g": 12.2,
+        "saturated_fat_g": 2.2,
+        "fibre_g": 2,
+        "sodium_mg": 4.5
+      }
+    }
+  ],
+  "ingredients_raw": "Peanuts (60%), Dark Chocolate (30%) (Sugar, Cocoa Solids, Cocoa butter, Emulsifier (INS 322)), Whey Protein Concentrate (European Origin) (10%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010900995",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

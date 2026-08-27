@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363007643",
+  "barcode_printed": "8903363007643",
+  "barcode_format": "EAN-13",
+  "name": "Nutri Delite Crunchies",
+  "brand": "nutri-delite",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (41.8%), SUGAR, CORN FLOUR, WHEAT BRAN, LIQUID GLUCOSE, COCOA POWDER (1.9 PALMOLEN OIL, MALT EXTRACT, ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA & BUTTERSCOTCH CALCIUM CARBONATE, IODISED SALT, SOYA LECITHIN (INS 322 (i)), NATURAL COLOUR (INS 150d), TOCOPHEROL (INS 07b).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363007643",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

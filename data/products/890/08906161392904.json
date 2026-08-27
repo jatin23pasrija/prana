@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161392904",
+  "barcode_printed": "8906161392904",
+  "barcode_format": "EAN-13",
+  "name": "Dabbang Masala",
+  "brand": "krunchy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 57,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn Grit (37%), Rice Grit (37%), Edible Vegetable Oil Refined Groundnut Oil), *Spices and Condiments (Chili Powder, Iodised Salt, Vegetable Powder (Garlic, Onion, Tomato, Ginger), Mango Powder, Acidity Regulator (INS 330), Maltodextrin, Flavour Enhancer (INS 621 and INS 635), Chana Grit(3%.) *Contains natural flavouring agents.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161392904",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

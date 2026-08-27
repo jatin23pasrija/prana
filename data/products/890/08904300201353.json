@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904300201353",
+  "barcode_printed": "8904300201353",
+  "barcode_format": "EAN-13",
+  "name": "Milk Rusk",
+  "brand": "trdp-mario",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 395,
+        "protein_g": 7,
+        "carbohydrate_g": 67,
+        "sugars_g": 25,
+        "fat_g": 10.5,
+        "saturated_fat_g": 5,
+        "trans_fat_g": 0,
+        "fibre_g": 1.5,
+        "sodium_mg": 226
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EDIBLE VEGETABLE OIL (REFINED PALM OIL), SEMOLINA (WHEAT), YEAST, MILK SOLIDS (3%), INVERT SYRUP, MALT EXTRACT, IODIZED SALT, WHEAT FIBER, EMULS - IFIER (471, 472e & 481 (i)), ANTIOXIDANT (300) & FLOUR TREATMENT AGENTS 1100(i). CONTAINS ADDED FLAVOUR [NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES (MILK & VANILLA)].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904300201353",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

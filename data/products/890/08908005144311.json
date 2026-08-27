@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005144311",
+  "barcode_printed": "8908005144311",
+  "barcode_format": "EAN-13",
+  "name": "yoga bar 20g protein hazelnut",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (70 g)",
+        "quantity": {
+          "value": 70,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 325,
+        "energy_kj": 1360,
+        "protein_g": 20.8,
+        "carbohydrate_g": 24.2,
+        "sugars_g": 6,
+        "fat_g": 16.1,
+        "saturated_fat_g": 3.1,
+        "fibre_g": 10,
+        "sodium_mg": 305
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005144311",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

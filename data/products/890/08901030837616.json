@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030837616",
+  "barcode_printed": "8901030837616",
+  "barcode_format": "EAN-13",
+  "name": "Chokissimo Choco Brownie",
+  "brand": "cornetto",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 72,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "72 g",
+        "quantity": {
+          "value": 72,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 250,
+        "protein_g": 3.2,
+        "carbohydrate_g": 31.3,
+        "sugars_g": 20.7,
+        "fat_g": 12,
+        "saturated_fat_g": 5.5,
+        "trans_fat_g": 0.08,
+        "fibre_g": 1,
+        "sodium_mg": 44
+      }
+    }
+  ],
+  "ingredients_raw": "FROZEN DESSERT INGREDIENTS: WATER, COMPOUND COATING (20.6%) (SUGAR, SOYABEAN OIL, PALM OIL, COCOA SOLIDS, COCONUT OIL, COCOA BUTTER, EMULSIFIER - E322, ARTIFICIAL VANILLIN FLAVOURING SUBSTANCE), WAFER BISCUIT CONE(16.1%) (REFINED WHEAT FLOUR (MAIDA), SUGAR, COCOA POWDER, PALM OIL, EMULSIFIER - E322, IODISED SALT, FOOD COLOUR E150d), SUGAR, CHOCOLATE FLAVOURED CONFECTIONERY (5.4%) (WATER, SUGAR, CONDENSED MILK, COCOA SOLIDS, PALM OIL, LIQUID GLUCOSE, MILK SOLIDS, MALTODEXTRIN, EMULSIFIER-E471, STABILISERS (E412, E410), ARTIFICIAL (VANILLIN) FLAVOURING SUBSTANCE), DRIED BROWNIE PIECES (5.4%) (REFINED WHEAT FLOUR (MAIDA), SUGAR, PALM OIL, LIQUID GLUCOSE, COCOA SOLIDS, MILK SOLIDS, MODIFIED STARCH-E1442, LEAVENING AGENT E500(ii), EMULSIFIER-E322, ARTIFICIAL (VANILLA & CHOCOLATE) FLAVOURING SUBSTANCES), EDIBLE PALM OIL, MILK SOLIDS, LIQUID GLUCOSE, COCOA SOLIDS, SALTED ALMOND PRALINE (1.4%)(ALMOND, SUGAR, IODISED SALT, FOOD COLOUR-NATURAL (E150d)), EMULSIFIER-E471, VEGETABLE PROTEIN (SOY), STABILISERS (E412, E417, E407, E410), NATURE IDENTICAL FLAVOURING SUBSTANCE, FOOD COLOURS-NATURAL (E150d), E122, E133, E102",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030837616",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

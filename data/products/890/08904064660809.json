@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904064660809",
+  "barcode_printed": "8904064660809",
+  "barcode_format": "EAN-13",
+  "name": "Tangy minty",
+  "brand": "karibana",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Banana Slices (58%), Rice Bran Oil, Seasoning [Sugar, Salt, Black Salt, Ground Spices, Dry Mango Powder, Garlic Powder, Chilli Powder, Onion Powder, Lemon Powder, Tamarind Powder, Hydrolyzed Vegetable Protein (Soy) & Ascorbic Acid (E300), Natural Mint Flavor]. ZUTATEN: Bananenscheiben (58%), Reiskleieöl, Mischung zum Würzen [Zucker, Salz,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904064660809",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

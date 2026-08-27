@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063226488",
+  "barcode_printed": "8904063226488",
+  "barcode_format": "EAN-13",
+  "name": "Chips Sour Cream & Onion",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 158,
+        "protein_g": 2,
+        "carbohydrate_g": 17,
+        "sugars_g": 1,
+        "fat_g": 9,
+        "saturated_fat_g": 5,
+        "trans_fat_g": 0,
+        "fibre_g": 1,
+        "sodium_mg": 390
+      }
+    }
+  ],
+  "ingredients_raw": "Potatoes (89%), Refined Vegetable Oil (Palmolein, Cotton Seed, Rice Bran), Sugar Powder, Milk Solids (1.5%), Salt, Onion Powder (0.5%), Parsley Powder, Acidity Regulator Citric Acid (E 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063226488",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901086040213",
+  "barcode_printed": "8901086040213",
+  "barcode_format": "EAN-13",
+  "name": "Доктор МОМ лимонные растительные пастилки от кашля",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "активные вещества (сухой экстракт солодки голой корней 15 mg, сухой экстракт имбиря лекарственного корневищ 10 mg, сухой экстракт эмблики лекарственной плодов 10 mg, левоментол 7 mg) вспомогательные вещества (сахароза, декстроза жидкая, глицерол, лимонной кислоты моногидрат, метилпарагидроксибензоат, пропилпарагидроксибензоат, лимона масло, ароматизатор мятный (мятная эссенция), краситель (хинолин жёлтый))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901086040213",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

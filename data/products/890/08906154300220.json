@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08906154300220",
+  "barcode_printed": "8906154300220",
+  "barcode_format": "EAN-13",
+  "name": "Navratan Mixture",
+  "brand": "patanjali",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 590,
+        "protein_g": 14.6,
+        "carbohydrate_g": 42.1,
+        "fat_g": 40.4,
+        "saturated_fat_g": 10.1,
+        "sodium_mg": 600
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906154300220",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

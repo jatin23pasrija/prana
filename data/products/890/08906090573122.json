@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906090573122",
+  "barcode_printed": "8906090573122",
+  "barcode_format": "EAN-13",
+  "name": "Too yumm Chips blue",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 552,
+        "energy_kj": 2311,
+        "protein_g": 7.3,
+        "carbohydrate_g": 55,
+        "sugars_g": 1.1,
+        "fat_g": 33.5,
+        "saturated_fat_g": 7.6,
+        "fibre_g": 3.7,
+        "sodium_mg": 800
+      }
+    }
+  ],
+  "ingredients_raw": "Potato (56%), Edible Vegetable Oil (Rice Bran), Seasoning (lodised Salt, *Spices & Condiments (Contains Onion and Garlic), Sugar, Rice Flour, Hydrolysed Vegetable Protein, Mango Juice Powder, Tomato Powder, Anticaking Agent (INS 551), Acidity Regulators (INS 296, INS 334, INS 330) Flavour Enhancers (INS 627, INS 631), Colour (INS 160c), Natural And Nature Identical Flavouring Substances). *Used as natural flavouring agent ALLERGEN ADVICE: CONTAINS SOYA MAY CONTAIN WHEAT AND MILK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906090573122",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

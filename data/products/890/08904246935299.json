@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08904246935299",
+  "barcode_printed": "8904246935299",
+  "barcode_format": "EAN-13",
+  "name": "Priya Quick Millet Upma",
+  "brand": "priya",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 410,
+        "protein_g": 9.3,
+        "carbohydrate_g": 61.1,
+        "sugars_g": 3.2,
+        "fat_g": 12.8,
+        "saturated_fat_g": 4.3,
+        "fibre_g": 6.8,
+        "sodium_mg": 1347
+      }
+    }
+  ],
+  "ingredients_raw": "Precooked Semolina (40%), Flaked Millets (30.6%) [Jowar (20.4%), Ragi (10.2 %)], Edible Vegetable Oil (Palmnolein), Dry Onion, Bengal Gram Split, lodized Salt, Black Gram Split, Ginger Paste, Mustard, Cashew Nut (1%), Curry Leaves, Anticaking Agent Calcium Silicate, Sugar, Dry Coriander Leaves, Turmeric Powder, Acidity Regulator Citric Acid, Natural and Nature Identical Flavouring Substances and Compounded Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904246935299",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

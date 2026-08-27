@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906125981748",
+  "barcode_printed": "8906125981748",
+  "barcode_format": "EAN-13",
+  "name": "100% CORN CHIPS CHEESE & HERBS",
+  "brand": "pvr-4700bc",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 55,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn (78%), Edible Vegetable Oil (Rice Bran Sugar, lodized Salt, Dehydrated Vegetable Powder (Onion Garlic), Maltodextrin, Milk Solids (Cheese Powder, Whey Powder), Hydrolyzed Vegetable Protein (Soya), Edible Vegetable Fat (Sunflower), Acidity Regulator (INS 330), Yeast Extract, Spice and spice extract (Turmeric and paparika), Herb and herb extract, Emulsifier (INS 1422 & INS 322), Rosemary Extract, Natural and Nature Identical Flavouring Substances. ALLERGEN DECLARATION: PRODUCED IN PREMISE THAT ALSO PROCESSES NUTS AND MILK PRODUCTS, CONTAINS SOY & MILK PRODUCTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906125981748",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

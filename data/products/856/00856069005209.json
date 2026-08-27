@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "00856069005209",
+  "barcode_printed": "0856069005209",
+  "barcode_format": "EAN-13",
+  "name": "Fine ground sea salt almond flour crackers, sea salt",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 150,
+        "protein_g": 3,
+        "carbohydrate_g": 18,
+        "sugars_g": 0,
+        "fat_g": 8,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 180
+      }
+    }
+  ],
+  "ingredients_raw": "nut and seed flour blend (almonds, sunflower seeds, flax seeds), tapioca starch, cassava, organic sunflower oil, sea salt, organic onion, organic garlic, rosemary extract (for freshness)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0856069005209",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

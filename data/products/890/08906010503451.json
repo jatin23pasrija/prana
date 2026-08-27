@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010503451",
+  "barcode_printed": "8906010503451",
+  "barcode_format": "EAN-13",
+  "name": "Noodle Sticks Masala",
+  "brand": "balaji-wafers",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), EDIBLE COMMON SALT, SUGAR, TAPIOCA STARCH, SPICES & CONDIMENTS 2% (CHILLI, CORIANDER, CUMIN, DRY MANGO, BLACK PEPPER, CLOVE, FENUGREEK, CINNAMON, TURMERIC), CORN STAR DEHYDRATED VEGETABLE POWDER (ONION, GARLIC), MALTODEXTRIN HYDROLYZED VEGETABLE PROTEIN (SOYA), NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES (TURMERIC, GARLIC), ACIDITY REGULATOR (NS 330), YEAST EXTRACT, ANTICAKING AGENT (INS 551), FLAVOUR ENHANCER (INS 635) PROPRIETARY FOOD",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010503451",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

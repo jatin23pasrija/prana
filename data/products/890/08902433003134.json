@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902433003134",
+  "barcode_printed": "8902433003134",
+  "barcode_format": "EAN-13",
+  "name": "SNICKERS BUTTERSCOTCH FLAVOUR",
+  "brand": "snickers",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "milk chocolate coating (35%): sugar, milk solids, serve (%) cocoa butter, cocoa solids, edible vegetable fat ,lt,5% (sal fat, palm oil), dextrose, emulsifier (322), centre filling (65%): peanuts (23%), liquid glucose, sugar, hydrogenated vegetable oil (palm oil), milk solids, iodized salt, cocoa butter, cocoa solids, edible vegetable fats ,lt,5% (sal fat, palm oil), dextrose, nature identical flavour (butterscotch), emulsifier (322),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902433003134",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

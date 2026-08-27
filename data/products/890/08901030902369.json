@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030902369",
+  "barcode_printed": "8901030902369",
+  "barcode_format": "EAN-13",
+  "name": "Knorr hot & sour veg soup",
+  "brand": "knorr",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Starch, Maltodextrin, Sugar, lodited Salt, (Dehydrated Vegetables (Onion (5.9%), Carrot Flakes (1.4%). Garlic Bits (1.1%) and Leeks (0.4%)) Hydrolyzed Vegetable Protein, Flavours-Nature Identical Flavouring Substances (Soya Sauce) Thickener-415, Spices & Condiments (Chillies (1.5%)), Hydrogenated Palm Oil, Food Colour-Caramel IV, Acidity Regulator-296, Anti caking agent - 551, Flavour Enhancer-627 & 631 Oleoresin Chill",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030902369",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

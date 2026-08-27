@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043551494",
+  "barcode_printed": "8904043551494",
+  "barcode_format": "EAN-13",
+  "name": "Modern Fruity Bread",
+  "brand": "modern",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 285,
+        "protein_g": 6.8,
+        "carbohydrate_g": 57,
+        "sugars_g": 10.2,
+        "fat_g": 3.6,
+        "saturated_fat_g": 2.3,
+        "fibre_g": 0,
+        "sodium_mg": 307
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Glazed Fruit (17%) (Papaya), Sugar, Acidity Regulator (330), modern Preservative (211), CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (102), (110), (129)), Sugar, Edible Vegetable Fat Onteresterified), Yeast, Gluten, lodized Salt, Soya Flour, Preservative (282), Emulsifier (481 (0), Flour Treatment Agents (510, 1100 001, Acidity Regulator (260) Antioxidant (300), Spices and Condiments. CONTAINS ADDED FLAVOUR MATURE-IDENTICAL FLAVOURING CES (VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043551494",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

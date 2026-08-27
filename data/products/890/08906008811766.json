@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906008811766",
+  "barcode_printed": "8906008811766",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi Khichdi",
+  "brand": "fortune",
+  "category": "rice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 356,
+        "protein_g": 12,
+        "carbohydrate_g": 68,
+        "sugars_g": 1,
+        "fat_g": 4,
+        "saturated_fat_g": 1,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Rice (54%), Moong Dal (27%), Bajra (4%), Jowar (4%), lodized Salt, Spices and Condiments (3%), Edible Vegetable Oil (Rice Bran Oil), Sugar, Ragi (1%), Sesame Seeds (0.45%), Flax Seeds (0.45%), Milk Solids, and Edible Vegetable Fat (Palm)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906008811766",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

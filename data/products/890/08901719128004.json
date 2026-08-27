@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719128004",
+  "barcode_printed": "8901719128004",
+  "barcode_format": "EAN-13",
+  "name": "Parle-G Oats & berries",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 93.75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 445,
+        "protein_g": 7.2,
+        "carbohydrate_g": 78.8,
+        "sugars_g": 25.6,
+        "fat_g": 11.2,
+        "saturated_fat_g": 5,
+        "sodium_mg": 0.3
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (64.5%), SUGAR, REFINED PALM OIL, ROLLED OATS (5%), INVERT SUGAR SYRUP, DRIED SWEETENED CRANBERRY (1.1%), I0DISED SALT, RAISING AGENTS (583, 500), BARLEY FLOUR(0.5%), EMULSIFIERS OF VEGETABLE ORIGIN (472e) CONTAINS PERMITTED ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES CRANBERRY AND CEREAL)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719128004",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

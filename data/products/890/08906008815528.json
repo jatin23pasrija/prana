@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906008815528",
+  "barcode_printed": "8906008815528",
+  "barcode_format": "EAN-13",
+  "name": "Hyderabadi biryani",
+  "brand": "1",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Rice: Basmati Rice Hyderabad Biryani Paste: Onion, Refined Sunflower Oil, Cund, Vater Tomatoes, Green Chill, Ginger, lodized Salt Garlic, Coriander, Garam Masala Seasoning, Coriander Powder, Flavour Enhancer (INS 627, INS 631). Cumin Seed, Keora Water, Spices And Condiments Whole Spices: Cinnamon Stick, Green Cardamom, Bay Leaf Clove, Black Pepper Burani Raita Seasoning Maltodextrin, Spices & Condiments (Cumin Powder, Chilli Powder, Coriander Powder, Ginger Powder), Sugar, lodized Salt, Black Salt, Dehydrated Onion Powder, Dehydrated Garlic Powder Hydrolysed Vegetable Protein (Soya), Dried Mango Powder, Andicating (INS 561) Dehydrated Parsley, Cumin Extract Flavour Enhancer (INS 627, INS 631) Natural Colouring Agent (INS 160 C Allergen Advice: Contains Milk and Soy Manufactured in a facility that also processes Nut Peanut Gluten, Sesame, Mustard and Celery products",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906008815528",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

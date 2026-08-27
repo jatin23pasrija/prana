@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "08904084900633",
+  "barcode_printed": "8904084900633",
+  "barcode_format": "EAN-13",
+  "name": "Imitation Snow crab",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 104.7,
+        "protein_g": 9.88,
+        "carbohydrate_g": 11.39,
+        "sugars_g": 3.95,
+        "fat_g": 2.18,
+        "saturated_fat_g": 0.58
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904084900633",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

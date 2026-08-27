@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08920002022515",
+  "barcode_printed": "8920002022515",
+  "barcode_format": "EAN-13",
+  "name": "Red Chilli Sauce",
+  "brand": "chendur",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Aqua, Red Chillies, Dehydrated Maize, Salt, Acetic Acid, Stabilizer E1442/E1422 (0.5%) and Spices & Condiments. CONTAINS PERMITTED CLASS II PRESERVATIVE (E211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8920002022515",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

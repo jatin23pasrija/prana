@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906013030947",
+  "barcode_printed": "8906013030947",
+  "barcode_format": "EAN-13",
+  "name": "X-press Instant Noodles Vegetable Flavour 70g",
+  "brand": "wai-wai",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "wheat flour, palm oil, lodized salt, wheat gluten, thickener (e412), softening agent (e500ii), acidity regulator (e170i, e451i), lodized salt, flavour enhancers (e621, e627, e631), sugar, onion, maltodextrin (e1400), coriander, curry powder (turmeric, cumin, pepper, coriander, chilli, ginger, cinnamon, paprika) , garlic, chilli, turmeric, cumin, soybean, wheat, salt, maltodextrin and natural colour (e150d), acidity regulator (e330), black pepper, ginger, cinnamon, clove, bay leaf, nutmeg, cardamom, mace, natural colour (150d), edible vegetable oil (palm olein), onion",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906013030947",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

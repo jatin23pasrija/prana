@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063213181",
+  "barcode_printed": "8904063213181",
+  "barcode_format": "EAN-13",
+  "name": "Lemon bhel",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 428.57,
+        "protein_g": 11.43,
+        "carbohydrate_g": 65.71,
+        "sugars_g": 2.86,
+        "fat_g": 14.29,
+        "saturated_fat_g": 5.71,
+        "fibre_g": 5.71,
+        "sodium_mg": 800
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063213181",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

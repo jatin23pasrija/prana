@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063259363",
+  "barcode_printed": "8904063259363",
+  "barcode_format": "EAN-13",
+  "name": "Masala soya chop wrap",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 156,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (156 g)",
+        "quantity": {
+          "value": 156,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 410,
+        "protein_g": 12,
+        "carbohydrate_g": 49,
+        "fat_g": 19,
+        "saturated_fat_g": 2.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063259363",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

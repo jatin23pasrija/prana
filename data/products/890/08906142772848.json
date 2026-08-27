@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906142772848",
+  "barcode_printed": "8906142772848",
+  "barcode_format": "EAN-13",
+  "name": "Black Dates Arabian",
+  "brand": "molsi-s",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 329.42,
+        "protein_g": 2.72,
+        "carbohydrate_g": 79.64,
+        "sugars_g": 0,
+        "fat_g": 0.43,
+        "saturated_fat_g": 0.43,
+        "fibre_g": 72.4,
+        "sodium_mg": 34.39
+      }
+    }
+  ],
+  "ingredients_raw": "Dates (Wet Dates)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906142772848",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595972159",
+  "barcode_printed": "8901595972159",
+  "barcode_format": "EAN-13",
+  "name": "Hakka noodles masala",
+  "brand": "ching-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (46.6 g)",
+        "quantity": {
+          "value": 46.6,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 164,
+        "protein_g": 5,
+        "carbohydrate_g": 35.2,
+        "sugars_g": 1.7,
+        "fat_g": 0.4,
+        "saturated_fat_g": 0.1,
+        "sodium_mg": 4404
+      }
+    }
+  ],
+  "ingredients_raw": "Iodised Salt, Mixed Spices (17.5%) (Chilli, Cumin, Coriander), Sugar, Garlic Powder, Onion Powder, Flavour Enhancer (INS 635), Soy Sauce Powder (Soybean, Wheat, Salt), Anticaking Agent (INS 551), Acidity Regulators (INS 330, INS 260), Sunflower Oil, Natural Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595972159",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

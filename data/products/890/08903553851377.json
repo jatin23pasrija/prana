@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08903553851377",
+  "barcode_printed": "8903553851377",
+  "barcode_format": "EAN-13",
+  "name": "Temptin TOMATO KETCHUP",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 140,
+        "protein_g": 1.47,
+        "carbohydrate_g": 32.13,
+        "sugars_g": 27.29,
+        "fat_g": 0.62,
+        "saturated_fat_g": 0.48,
+        "fibre_g": 0.52,
+        "sodium_mg": 759.88
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903553851377",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

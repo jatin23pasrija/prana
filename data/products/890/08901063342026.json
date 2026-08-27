@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063342026",
+  "barcode_printed": "8901063342026",
+  "barcode_format": "EAN-13",
+  "name": "Vitarich Sandwich Premium White Bread",
+  "brand": "britannia",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 252,
+        "protein_g": 8.2,
+        "carbohydrate_g": 51.2,
+        "sugars_g": 3,
+        "fat_g": 1.5,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0,
+        "sodium_mg": 436
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), WATER, SUGAR, VITAL GLUTEN, YEAST, IODISED SALT, REFINED PALMOLEIN OIL, SOYA FLOUR, PRESERVATIVE (282), EMULSIFIERS [471, 481() & 472e], DOUGH CONDITIONERS [516, 1700)], ACIDITY REGULATOR (260), STABILIZER (412), VITAMINS, FLOUR TREATMENT AGENT (510), IMPROVERS [1100(1), 1104, 1102 & XYLANASE] AND ANTIOXIDANT (300)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063342026",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

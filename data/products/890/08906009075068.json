@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009075068",
+  "barcode_printed": "8906009075068",
+  "barcode_format": "EAN-13",
+  "name": "Atta Marie Thinz",
+  "brand": "unibic",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 495,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Wheat Flour(Atta) (60%), Sugar, Refined Palm Oil, Invert Sugar Syrup, Milk Solids, Raising Agents [INS 503(ii), INS 500 (ii)], Emulsifier of Vegetable Origin (INS 471e), lodised Salt, Natural and Artificial Flavouring Substances (Milk and Vanilla), Dough Conditioners [INS 223, INS 1101(1)].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009075068",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

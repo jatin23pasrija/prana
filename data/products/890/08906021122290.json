@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021122290",
+  "barcode_printed": "8906021122290",
+  "barcode_format": "EAN-13",
+  "name": "Aachi Mutton Masala",
+  "brand": "aachi",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 388.2,
+        "protein_g": 7.6,
+        "carbohydrate_g": 62,
+        "fat_g": 12.2,
+        "saturated_fat_g": 0.9,
+        "sodium_mg": 2750
+      }
+    }
+  ],
+  "ingredients_raw": "Spice Content - 84% (Coriander, Red Chilli Powder, Black Pepper, Turmeric Powder, Cumin, Fennel, Bay Leaves, Cloves, Star Anise, Mace, Curry Leaves), Salt-7%, Gram Dhal and Toor Dhal. 2.7 Saturated Fat (0) 0.9 0.6 Transfat (g) &lt;01 0.0 Cholesterol (mg) 510 Sodium (mg) 27900 206",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021122290",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

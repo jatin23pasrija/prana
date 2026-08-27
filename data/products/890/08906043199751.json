@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906043199751",
+  "barcode_printed": "8906043199751",
+  "barcode_format": "EAN-13",
+  "name": "Pramod Jhal Mix",
+  "brand": "pramod",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 556.3,
+        "protein_g": 8.5,
+        "carbohydrate_g": 48.2,
+        "sugars_g": 1.5,
+        "fat_g": 36.5,
+        "saturated_fat_g": 15.4,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 533
+      }
+    }
+  ],
+  "ingredients_raw": "Gram Flour (22%), Edible Vegetable Oil (Palmolein Oil, Corn Oil), Ground Nut (Peanuts (15%)), Red Lentils (5%), Rice Flour, Pressed Rice, Corn Flakes, Refined Wheat Flour, lodised Salt, Black Salt, *Spices and Condiments (Red Chilli Powder, Turmeric Powder, Carom Seeds Powder, Bay Leaf, Cloves, Asafoetida Powder, Dry Onion Powder, Mango Powder, Tomato Powder), Sugar Powder and Acidity Regulator (INS 330). *Used as Natural Flavouring Agent. Peanuts, Gluten",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906043199751",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

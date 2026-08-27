@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200105",
+  "barcode_printed": "8904063200105",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram Cornflakes Mixture",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cornflakes (Derived from Corn) (26%), Vegetable Oil (Cotton Seed, Corn & Palm), Potatoes (8%), Chickpeas Pulse Flour (8%), Cashew Nuts (7%), Raisins (7%), Spinach, Sesame Seeds, Sugar Powder, Salt, Mango Powder, Black Pepper Powder, Mace Powder, Nutmeg Powder, Cinnamon Powder, Cardamom Powder, Ginger Powder, Cumin Powder, Fennel, Asafoetida Powderand Citric Acid Powder(E 330). (PRODUCTOFINDIA Suess-wuerzige Mischung aus Cornflakes, Kartoffelstueckchen, Nuessen und Rosinen (UTATEN: Cornflakes (26%), Pflanzenoel (Baumwollsaatgut, Mais und Palmoel), (8%), Kichererbsenmehl (8%), Cashew Nuesse (7%), Rosinen (7%), Spinat, esamsamerte Puderzucker, Speisesalz, Mangopulver, schwarzer Pfeffer, Muskatbluete, Limi, Kardamom, Ingwer, Kreuzkuemmel, Fenchel, Asant, Saeuerungsmittel: &quot;trcnensaeure(E 330).. INDIEN HERGESTELLTFUER élange apéritif à base de flocons de maïs, de noix de cajous et raisins secs ngrédients: Ficcon de maïs (26%), huile végétale (graine de coton, mdis et oléine de palme), omme de terre, farine de pois chiche, noix de cajou (7%), raisins secs (7%), épinards, sésame, sucre, self poudre de mangue, poudre de poivre noir, poudre de macis, poudre de nuscade, poudre de cannelle, poudre de cardamome, poudre de gingembre, poudre de cumin, enouil, ase fétide, acidifiant: acide citrique. tiention: Ce produit contient de l'arachide, des noix de cajous, des graines de sésame. Ce produit a té emballé dans une usine traitant des fruits à coques, des arachides, des produits laitiers, des vaines de moutarde, et du blé. broduit de l'Inde conserver dans un endroit frais et sec. Garder à l'abri de la lumière. Une fois ouvert, cottser;ez ans un récipient hermétique. )oids Net 200g 10 de Lot:B consommer",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200105",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

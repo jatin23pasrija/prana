@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904065212489",
+  "barcode_printed": "8904065212489",
+  "barcode_format": "EAN-13",
+  "name": "Orange Cake – Milka Wonder Cake",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 412,
+        "protein_g": 7,
+        "carbohydrate_g": 53,
+        "sugars_g": 33,
+        "fat_g": 19,
+        "saturated_fat_g": 9,
+        "trans_fat_g": 0,
+        "sodium_mg": 153
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR, SUGAR, EGGS, EDIBLE VEGETABLE OIL/SHORTENING, HUMECTANTS [INS 420, INS 422], STARCH, SKIMMED MILK POWDER, SALT, RAISING AGENTS [INS 500(ii), INS 341(1), ACIDITY REGULATOR [INS 260], ANTIOXIDANT [INS 320), AND CONTAINS PERMITTED CLASS II PRESERVATIVES [INS 282, INS 202, INS 200]. CONTAINS PERMITTED SYNTHETIC FOOD COLOUR [INS 110] AND ADDED ARTIFICIAL FLAVOUR [ORANGE & LEMON].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904065212489",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

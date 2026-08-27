@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030739026",
+  "barcode_printed": "8901030739026",
+  "barcode_format": "EAN-13",
+  "name": "Magnum Almond",
+  "brand": "kwality-wall-s",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 62,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "ICE CREAM: WATER, MILK SOLIDS, SUGAR, LIQUID GLUCOSE, EMULSIFIER - E471, STABILISERS - E410, E412 AND E407, NATURAL COLOUR (BETA CAROTENE) AND NATURAL FLAVOURING SUBSTANCE, OUTER LAYER: MILK COMPOUND COATING (24.85%): SUGAR, COCOA BUTTER, MILK SOLIDS, COCOA SOLIDS, COCONUT OIL, EMULSIFIER - E322, VANILLIN; MILK COVERING CHOCOLATE* (8.28%): SUGAR, COCOA BUTTER, MILK SOLIDS, COCOA SOLIDS, EMULSIFIER - E322, VANILLIN; NUTS, ALMONDS (4.73%). *MILK COVERING CHOCOLATE IS BELGIAN CHOCOLATE. Contains Soy, Milk and Almonds. May contain Wheat, Barley, Peanuts and other tree nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030739026",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

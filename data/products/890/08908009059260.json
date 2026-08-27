@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009059260",
+  "barcode_printed": "8908009059260",
+  "barcode_format": "EAN-13",
+  "name": "Burger Bun",
+  "brand": "the-health-factory",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 257.56,
+        "protein_g": 12.98,
+        "carbohydrate_g": 48.26,
+        "sugars_g": 4.98,
+        "fat_g": 1.4,
+        "saturated_fat_g": 0.25,
+        "fibre_g": 7.2,
+        "sodium_mg": 339.26
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009059260",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

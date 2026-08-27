@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491100342",
+  "barcode_printed": "8901491100342",
+  "barcode_format": "EAN-13",
+  "name": "Potato Chips",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 52.9,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "lodised Salt, Maltodextrin, Flavour Seasoning (S: Potato (80%), Edible Vegetable Oil, (627,631) table Oil (Coconut oil), Flavour Enhancers Hydrolysed Condiments, Tomato Powder (0.6%), Edible Vege Vegetable Protein, Wheat Fibre, Dextrose, As flavong agent. Aein The specific type of oil used and its saturated fat or where ◊ denotes Palmolein and # denotes the symbolor",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491100342",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

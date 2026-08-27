@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021120685",
+  "barcode_printed": "8906021120685",
+  "barcode_format": "EAN-13",
+  "name": "Coriander Powder",
+  "brand": "aachi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 400,
+        "protein_g": 12,
+        "carbohydrate_g": 55.2,
+        "sugars_g": 0,
+        "fat_g": 17.6,
+        "saturated_fat_g": 0.8,
+        "fibre_g": 41.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021120685",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

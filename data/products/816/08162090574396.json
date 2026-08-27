@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08162090574396",
+  "barcode_printed": "8162090574396",
+  "barcode_format": "EAN-13",
+  "name": "Bhoot Chips",
+  "brand": "too-yumm",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato (57%), Edible Vegetable Oil (Rice Bran Oil), Seasoning [+Spices and Condiments (Contains Chilli), Iodised Salt, Sugar, Maltodextrin, Natural and Nature Identical Flavouring Substances,Anticaking Agent (INS 470(i), INS 551), Starch, Flavour Enhancers (INS 627, INS 631), Acidity Regulator (INS 330), Emulsifying and Stabilizing Agent (INS 471)] *",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8162090574396",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

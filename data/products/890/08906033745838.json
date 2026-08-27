@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033745838",
+  "barcode_printed": "8906033745838",
+  "barcode_format": "EAN-13",
+  "name": "FRUIT BISCUITS",
+  "brand": "mcvitie-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat Flour, Sugar, Palm Oil, Whole Wheat Flour, Blackcurrant (6.5%), Butter (Milk), Liquid Glucose, Oatmeal, Invert Sugar Syrup, Raising Agents (Ammonium Carbonates, Sodium Carbonates), Salt, Emulsifiers (Soy Lecithin, 471), Wheat Gluten, Flavouring, Spices (Turmeric)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033745838",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

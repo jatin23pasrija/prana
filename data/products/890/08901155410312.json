@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901155410312",
+  "barcode_printed": "8901155410312",
+  "barcode_format": "EAN-13",
+  "name": "Palak Paneer",
+  "brand": "gits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 285,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Spinach, Cottage cheese (milk), Onion, Tomato, Water, Cream (milk), Sunflower oil, Garlic, Green chillies, Salt, Bay leaves, Black salt, Corn flour, Cumin, Okra powder, Turmeric powder, Coriander seeds, Fennel seeds, Black cardamom, Black pepper, Star anise, Ginger, Cinnamon, Nutmeg, Green cardamom,Mace & Clove",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901155410312",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

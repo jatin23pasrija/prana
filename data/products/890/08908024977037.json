@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908024977037",
+  "barcode_printed": "8908024977037",
+  "barcode_format": "EAN-13",
+  "name": "Strawberry Creme",
+  "brand": "superyou",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "PROTEIN BLEND (FERMENTED NUTRITIONAL YEAST PROTEIN (22%) + MILK SOLIDS), EDIBLE VEGETABLE FATS (HYDROGENATED COCONUT OILS, INS 322), SWEETENER (INS 965(i)), REFINED WHEAT FLOUR (MAIDA), STARCH, EMULSIFIER (INS 322), EDIBLE COMMON SALT, IMPROVER ENZYME,STRAWBERRY FRUIT POWDER (0.01%), CONTAINS PERMITTED NATURAL FOOD COLOR (INS 162) AND ADDED FLAVORS - NATURE IDENTICAL FLAVORING SUBSTANCES (STRAWBERRY), ARTIFICIAL FLAVOURING SUBSTANCES (ETHYL VANILLIN).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908024977037",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

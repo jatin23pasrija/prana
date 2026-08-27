@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009074788",
+  "barcode_printed": "8906009074788",
+  "barcode_format": "EAN-13",
+  "name": "Oats Marie Thinz",
+  "brand": "unibic",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 58,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 447,
+        "protein_g": 9.4,
+        "carbohydrate_g": 74.3,
+        "sugars_g": 21,
+        "fat_g": 12.5,
+        "saturated_fat_g": 6.3,
+        "trans_fat_g": 0,
+        "fibre_g": 7.7,
+        "sodium_mg": 345
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour(Atta), Sugar, Rolled Oats (10%), Refined Palm Oil, Invert Sugar Syrup, Milk Solids, Raising Agents [INS 503(ii), INS 500 (ii)], Honey, Emulsifier of Vegetable Origin (INS 471e), lodised Salt, Natural, Nature Identical (Honey) and Artificial Flavouring Substances (Milk and Vanilla), Dough Conditioners [INS 223, INS 1101(1)]. Allergen Advice: Contains Wheat, Oats and Milk May contain traces of Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009074788",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063165861",
+  "barcode_printed": "8901063165861",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Toastea Milk Rusk",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1120,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR (72%), SUGAR, INTERESTERIFIED VEGETABLE FAT (PALM & SESAME), SWEET CONDENSED MILK & SKIM MILK POWDER (6.9), YEAST, BUTTER (1.4%), DRY GLUTEN (WHEAT), SALT, ENZYMES (FUNGAL ALPHA AMYLASE, LIPASE) AND EMULSIFIER (SODIUM STEAROYL 2-LACTYLATE). CONTAINS: WHEAT (GLUTEN), MILK PRODUCTS AND SESAME MAY CONTAINS NUTS AND SULPHITE INGRÉDIENTS: FARINE DE BLÉ (72%), SUCRE, GRAISSE VEGETALE INTERESTERIFIEE (PALME ET SÉSAME), LAIT CONCENTRE SUCRE ET LAIT ÉCRÉMÉ EN POUDRE (6.9%), LEVURE, BEURRE (1.4%), GLUTEN SEC (BLÉ), SEL, ENZYME (ALPHA-AMYLASE FONGIQUE, LIPASE), EMULSIFIANT (SODIUM STEAROYL 2 LACTYLATE). CONTIENT: BLÉ (GLUTEN), PRODUITS LAITIERS ET SESAME PEUT CONTENIR NOIX ET SULFITES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063165861",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

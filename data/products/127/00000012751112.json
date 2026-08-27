@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "00000012751112",
+  "barcode_printed": "12751112",
+  "barcode_format": "EAN-8",
+  "name": "Haldirams Aloo Bhujia",
+  "brand": "haldiram",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 220,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 557,
+        "protein_g": 9.7,
+        "carbohydrate_g": 44.4,
+        "sugars_g": 3.7,
+        "fat_g": 40.1,
+        "saturated_fat_g": 6.2,
+        "sodium_mg": 909
+      }
+    }
+  ],
+  "ingredients_raw": "Potato (44%), Edible Vegetable Oil (Cotton Seed, Corn, Palmolein, Ground Nut and Rice Bran), Gram Pulse Flour, Rice Flour, Edible Starch, lodised Salt, *Spices & Condiments (Coriander Powder, Cumin Powder, Mango Powder, Garlic Powder, Onion Powder, Lemon Powder, Ginger Powder, Red Chilli Powder, Mace Powder, Nutmeg Powder, Turmeric Powder, Mint Leaves Powder). Acidity Regulator (INS 330), Anticaking Agent (INS 551), Flavour Enhancers (INS 627&INS 631) and Natural & Nature Identical Flavouring Substances. *Used as natural flavouring substances. Allergen Information: Contains Peanut. (200g+209 Extra) OPE TAIN NET WEIGHT: 220g MFG. DATE:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/12751112",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

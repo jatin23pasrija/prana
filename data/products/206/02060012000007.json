@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "02060012000007",
+  "barcode_printed": "2060012000007",
+  "barcode_format": "EAN-13",
+  "name": "Yop!",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 79,
+        "protein_g": 2.8,
+        "carbohydrate_g": 12.4,
+        "sugars_g": 11,
+        "fat_g": 1.3,
+        "saturated_fat_g": 1,
+        "sodium_mg": 80
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/2060012000007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

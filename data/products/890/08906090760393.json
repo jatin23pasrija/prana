@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906090760393",
+  "barcode_printed": "8906090760393",
+  "barcode_format": "EAN-13",
+  "name": "Choco Vanilla Cake",
+  "brand": "diamond",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 441,
+        "protein_g": 5.87,
+        "carbohydrate_g": 65.05,
+        "sugars_g": 35.94,
+        "fat_g": 17.49,
+        "saturated_fat_g": 7.39,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 181.28
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906090760393",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

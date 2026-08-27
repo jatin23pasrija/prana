@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063139336",
+  "barcode_printed": "8901063139336",
+  "barcode_format": "EAN-13",
+  "name": "Britannia bourbon 100g",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 493.5,
+        "protein_g": 5,
+        "carbohydrate_g": 72.7,
+        "sugars_g": 38.3,
+        "fat_g": 20.3,
+        "saturated_fat_g": 10.1,
+        "sodium_mg": 47.6
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR (33%), REFINED PALM OIL, EDIBLE MAIZE STARCH, COLOURS (150a, 150d, 122, 110,133&102), COCOA SOLIDS (2.7%), MILK SOLIDS, RAISING AGENTS [500(ii)&503(ii)], NATURE IDENTICAL&ARTIFICIAL (VANILLA, CHOCOLATE MILK&MILKY COCOA) SUBSTANCES, FLAVOURING EMULSIFIERS [471 & 322(1)], MILK CHOCOLATE (0.1%) [EMULSIFIER (322(1))) AND IODISED SALT. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOYA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063139336",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

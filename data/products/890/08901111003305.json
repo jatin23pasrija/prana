@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08901111003305",
+  "barcode_printed": "8901111003305",
+  "barcode_format": "EAN-13",
+  "name": "Actinac",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "carbohydrate_g": 19.99,
+        "sugars_g": 19.99,
+        "fat_g": 19.99,
+        "saturated_fat_g": 19.99,
+        "fibre_g": 19
+      }
+    }
+  ],
+  "ingredients_raw": "2x 10 Tablets /Comprimes Acedofenac 100 mg &Paracetamol 500 mg Tablets Comorimes d' Acéciofenac 100 mg et de Paracetamol 500 mg ACTINAC Plu ajanta 口 D Noame:ACTINAC PLUS 100*500MK3 importer:HMKARY BNo: CTO481F REQ No:21/82 urdistan Medicot Control Agency",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901111003305",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

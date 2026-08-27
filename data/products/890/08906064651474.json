@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064651474",
+  "barcode_printed": "8906064651474",
+  "barcode_format": "EAN-13",
+  "name": "Cheesy Sauce",
+  "brand": "wingreens-farms",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 492,
+        "protein_g": 1.1,
+        "carbohydrate_g": 8.3,
+        "sugars_g": 6.5,
+        "fat_g": 50.5,
+        "saturated_fat_g": 8.5,
+        "trans_fat_g": 1,
+        "sodium_mg": 865.22
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Sunflower Oil, Water, Sugar, Cheese Powder (3%), Liquid Glucose, Milk Solids, lodized Salt, Thickeners (INS 415 & INS 1442), Acidity Regulators (INS 260 & INS 330), Yeast Powder, Preservatives (INS 200 & INS 211), Antioxidant (INS 386), Nature-Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064651474",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

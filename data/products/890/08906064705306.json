@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064705306",
+  "barcode_printed": "8906064705306",
+  "barcode_format": "EAN-13",
+  "name": "Banana Sweetened Jaggery",
+  "brand": "malabar-delights",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 510.04,
+        "protein_g": 2.9,
+        "carbohydrate_g": 63.2,
+        "sugars_g": 8.7,
+        "fat_g": 27.3,
+        "saturated_fat_g": 17.7,
+        "fibre_g": 7.7,
+        "sodium_mg": 470
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064705306",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

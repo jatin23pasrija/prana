@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081013720",
+  "barcode_printed": "8909081013720",
+  "barcode_format": "EAN-13",
+  "name": "Berry Smoothie",
+  "brand": "sunfeast",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Milk Solids (33.5%), Sugar, Fruit Puree(9.6%) [(Strawberry Puree (7.3%), Banana Puree, Cranberry Puree(0.06%)] Strawberry Fruit Bits(4.7%), Nata De Coco, Mixed Berry Fruit Preparation (1.25%) [Of which Blueberry Puree (0.03%),Black Mulberry Puree (0.03%) Raspberry Puree (0.03%), Raspberry Juice Concentrate (0.02%)], Stabilizers (466, 418),Acidity Regulator (330), Nature Identical Flavouring Substances,Chia Seeds (0.16%), Natural Flavours and Natural Flavouring Substances, Antioxidant (300), Sweetner (960), Colours (133,122).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081013720",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

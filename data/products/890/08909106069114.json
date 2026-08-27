@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106069114",
+  "barcode_printed": "8909106069114",
+  "barcode_format": "EAN-13",
+  "name": "Chilli Peanut Thecha Chutney",
+  "brand": "kissan",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "VEGETABLES* 40% [GREEN CHILLIES (24%), FRESHLY PEELED GARLIC (11%), CORIANDER PUREE], WATER, NUTS&PULSES (PEANUTS (15%), ROASTED BENGAL GRAM FLOUR], REFINED SOYABEAN OIL, SUGAR, IODISED SALT, SPICES &CONDIMENTS (RGASTED CUMIN POWDER (0.3%), SPICE EXTRACT, ONION POWDER, GINGER POWDER), ACETIC&CITRIC ACID, NATURE IDENTICAL FLAVOURING SUBSTANCES, PRESERVATIVES (SODIUM BENZOATE), NATURAL FOOD COLOR (CHLOROPHYLL)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106069114",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

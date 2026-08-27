@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004409222",
+  "barcode_printed": "8904004409222",
+  "barcode_format": "EAN-13",
+  "name": "Instant Bhel",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 44,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "44g",
+        "quantity": {
+          "value": 44,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 251,
+        "protein_g": 6.17,
+        "carbohydrate_g": 19.29,
+        "sugars_g": 3.79,
+        "fat_g": 16.06,
+        "saturated_fat_g": 6.78,
+        "fibre_g": 2.49,
+        "sodium_mg": 156.46
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Palmolein Oil, Puffed Rice (22%), Bengal Gram Lentils (14%), Bengal Gram Flour (Besan) (11%), Refined Sugar, Refined Wheat Flour (Maida), Groundnut (Peanuts) (3%), Edible Common Salt, Red Chilli Powder, Tomato Powder, Dried Mango Powder, Tamarind Powder, Dried Ginger Powder, Black Salt, Coriander Powder, Turmeric Powder, Date Powder, Onion Powder, Green Chilli Powder, Cumin Powder, Cardamom, Cinnamon, Clove Powder, Ajwain, Acidity Regulator (INS 330), Nutmeg, Bay Leaves, Black Cumin & Colour (Paprika INS 160 c)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004409222",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00099071001498",
+  "barcode_printed": "0099071001498",
+  "barcode_format": "EAN-13",
+  "name": "Prostar 100% Whey Protein",
+  "brand": "ultimate-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2267.96185,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Mezcla de proteínas (Proteína de suero aislada, proteína de suero concentrada) cacao en polvo, saborizante natural y artificial, cloruro de sodio, sucralosa, acesulfame de potasio, lecitina de soya.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0099071001498",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

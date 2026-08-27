@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08906055100455",
+  "barcode_printed": "8906055100455",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Chana",
+  "brand": "rajdhani",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 411,
+        "protein_g": 15,
+        "carbohydrate_g": 74.5,
+        "fat_g": 6.5,
+        "fibre_g": 17.5,
+        "sodium_mg": 640
+      }
+    }
+  ],
+  "ingredients_raw": "Bengal Gram",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906055100455",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

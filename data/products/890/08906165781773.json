@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906165781773",
+  "barcode_printed": "8906165781773",
+  "barcode_format": "EAN-13",
+  "name": "Super Gainer Black",
+  "brand": "muscleblaze",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 3000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Maltodextrin, Milk Solids (Skimmed Milk Powder, Whey Protein Concentrate & Calcium Caseinate, Barley Malt Extract, Cocoa Powder, Nature Identical Flavouring Substances, Fat Powder, Anticaking Agent INS 551), Tribulus terrestris Extract, L-Glutamine, Ashwagandha (Witho somnifera) Root Extract, Jeera (Cuminum cyminum L) Extract, Musali safed (Chlorophytum borivilliant Root Extract, Enzymes (Amylases, Lactase, Proteases), Fennel (Foeniculum vulgare) Extract, Stabilizer (INS 415), Sweetener (INS 955), Fenugreek (Trigonella-foenum-graecum) Seed Extract, Probiotics (Bifidobacterium lactis Bifidobacterium bifidum, Bifidobacterium longum, Bifidobacterium breve, Lacticaseibacillus case Lactobacillus acidophilus, Lacticaseibacillus paracasei, Ligilactobacillus salivarius, Lactiplantibacillus plantarum & Lactobacillus delbrueckii sub-sp. bulgaricus), Prebiotic (Fructo oligosaccharides), Emulsifier [INS 322 (i)) & Black Pepper (Piper nigrum) Extract.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906165781773",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

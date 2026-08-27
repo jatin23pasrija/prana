@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033420186",
+  "barcode_printed": "8906033420186",
+  "barcode_format": "EAN-13",
+  "name": "chewbert",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CHEWBERT Eid Mubarak Danish Style Butter Cookies Biscuits au beurre à la danoise Perfectly Baked Parfaitement cuit NET WEIGHT/POIDS NET 300g (0.66 lbs / 10.58 oz)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033420186",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

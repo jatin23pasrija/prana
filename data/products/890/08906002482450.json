@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002482450",
+  "barcode_printed": "8906002482450",
+  "barcode_format": "EAN-13",
+  "name": "Snickers Chocolate Bar",
+  "brand": "mars",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 491,
+        "protein_g": 8.83,
+        "carbohydrate_g": 57.43,
+        "sugars_g": 51.84,
+        "fat_g": 25.1,
+        "saturated_fat_g": 10.18,
+        "sodium_mg": 222
+      }
+    }
+  ],
+  "ingredients_raw": "Chocolate (Sugar, Cocoa Butter, Cocoa Mass, Lactose, Full Cream Milk Powder, Whey Powder, Milk Fat, Emulsifier (Soya Lecithin E322), Water, Artificial Flavour (Vanillin)), Peanuts, Glucose Syrup, Sugar, Vegetable Fat(Palm Fat), Skimmed Milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002482450",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

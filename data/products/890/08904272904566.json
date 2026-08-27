@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08904272904566",
+  "barcode_printed": "8904272904566",
+  "barcode_format": "EAN-13",
+  "name": "Dinoo's Makhana Sour Cream & Onion",
+  "brand": "dinoo-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28g",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 127,
+        "protein_g": 2,
+        "carbohydrate_g": 20,
+        "sugars_g": 1,
+        "fat_g": 4,
+        "saturated_fat_g": 1,
+        "fibre_g": 3,
+        "sodium_mg": 149
+      }
+    }
+  ],
+  "ingredients_raw": "Foxnuts. Refined Palmolein Oil, Salt, Onion Powder, Milk Solids. Parsley. (E330), Flavour Enhancer (E627, E631)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904272904566",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

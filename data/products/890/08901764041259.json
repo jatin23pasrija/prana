@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764041259",
+  "barcode_printed": "8901764041259",
+  "barcode_format": "EAN-13",
+  "name": "Thums Up 300ml can",
+  "brand": "coca-cola",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Carbonated Water, Sugar, Acidity Regulator (338), Caffeine. Contains permitted natural colour (150d) and added flavours (natural, nature-identical and artificial flavouring substances (cola flavour)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764041259",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

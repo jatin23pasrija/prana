@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906198982048",
+  "barcode_printed": "8906198982048",
+  "barcode_format": "EAN-13",
+  "name": "Rocky Road Fudge Protein",
+  "brand": "muscle-blaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 scoop (36 g)",
+        "quantity": {
+          "value": 36,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 143.04,
+        "protein_g": 25,
+        "carbohydrate_g": 6.06,
+        "sugars_g": 2.58,
+        "fat_g": 2,
+        "saturated_fat_g": 1.03,
+        "sodium_mg": 117.39
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906198982048",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

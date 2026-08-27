@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901689031014",
+  "barcode_printed": "8901689031014",
+  "barcode_format": "EAN-13",
+  "name": "Guava Crush",
+  "brand": "mala-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 280.44,
+        "protein_g": 0.19,
+        "carbohydrate_g": 62.42,
+        "sugars_g": 59.16,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 29.93
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Guava Pulp (35%), Water, Thickener (INS 440), Acidity Regulator (INS 330, INS 331), Firming Agent (INS 509) CONTAINS PERMITTED NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES (GUAVA). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 127). CONTAINS PERMITTED CLASS II PRESERVATIVE (INS 202, INS 211, INS 22 CE TO MAKE MOCKTAILS COCKTAILS MILKSHAKES & TOPPINGS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901689031014",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

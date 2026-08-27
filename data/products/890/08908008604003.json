@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908008604003",
+  "barcode_printed": "8908008604003",
+  "barcode_format": "EAN-13",
+  "name": "Raw peeled and deveined tail off iqf shrimp",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 97,
+        "protein_g": 21.24,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 0.88,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 221
+      }
+    }
+  ],
+  "ingredients_raw": "Shrimps, salt & sodium tri poly phosphate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908008604003",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

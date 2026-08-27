@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081004117",
+  "barcode_printed": "8909081004117",
+  "barcode_format": "EAN-13",
+  "name": "Wowzers Lemon",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "MAIDA (REFINED WHEAT FLOUR), ENROBING CRÈME (21.2) (SUGAR, INTERESTERIFIED VEGETABLE FAT, MILK SOLIDS, ESTERS OF INTERESTERIFIED RICINOLEIC ACID (FROM CASTOR OIL)], NATURE IDENTICAL FLAVOURING SUBSTANCES, REFINED PALM OIL, SUGAR (4.9%), MARGARINE, REFINED PALMOLEIN, STARCH, LIQUID GLUCOSE, WHEAT GLUTEN, ARTIFICIAL FLAVOURING SUBSTANCES (CHEESE), DRIED YEAST, EMULSIFIER [MONO AND DIGLYCERIDES OF FATTY ACIDS, FLOUR TREATMENT AGENT (INS 223), NATURE IDENTICAL FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081004117",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

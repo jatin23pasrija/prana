@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08906051680135",
+  "barcode_printed": "8906051680135",
+  "barcode_format": "EAN-13",
+  "name": "Dark Compound",
+  "brand": "morde",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 570,
+        "protein_g": 3.45,
+        "carbohydrate_g": 58,
+        "sugars_g": 50,
+        "fat_g": 36,
+        "saturated_fat_g": 34
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Edible Vegetable Fat (Hydrogenated), Cocoa Solids & Emulsifiers [INS4 & (INS322 (i) - Lecithin of Soya Origin)] CONTAINS ADDED NATURAL IDENTICAL (VANILLIN) FLAVOURING SUBSTANCE Allergen information - Contains Soy (Lecithin of Soya Origin). May Contain traces of Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906051680135",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

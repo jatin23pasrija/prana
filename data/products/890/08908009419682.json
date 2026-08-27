@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009419682",
+  "barcode_printed": "8908009419682",
+  "barcode_format": "EAN-13",
+  "name": "Bauli spyroll",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 348.9,
+        "protein_g": 5.9,
+        "carbohydrate_g": 61.8,
+        "sugars_g": 28,
+        "fat_g": 8.6,
+        "saturated_fat_g": 6.2
+      }
+    }
+  ],
+  "ingredients_raw": "Egg,milk,wheat,soya, sugar",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009419682",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

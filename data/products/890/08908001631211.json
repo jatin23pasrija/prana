@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001631211",
+  "barcode_printed": "8908001631211",
+  "barcode_format": "EAN-13",
+  "name": "Fresh paneer",
+  "brand": "aroma",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 252,
+        "energy_kj": 0,
+        "protein_g": 17.1,
+        "carbohydrate_g": 4.9,
+        "sugars_g": 4.6,
+        "fat_g": 18,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 0.9,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "MILK SOLIDS, INS-575, AND COMMON SALT ALLERGENS ADVICE: CONTAINS MILK,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001631211",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005720573",
+  "barcode_printed": "8906005720573",
+  "barcode_format": "EAN-13",
+  "name": "Dalwada Mix",
+  "brand": "shree-ganesh",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 340,
+        "protein_g": 22,
+        "carbohydrate_g": 62,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 8,
+        "sodium_mg": 1880
+      }
+    }
+  ],
+  "ingredients_raw": "Mung dal, sodium bicarbonate, iodised salt, citric acid, & hing (in powder form).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005720573",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

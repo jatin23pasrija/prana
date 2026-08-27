@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009059291",
+  "barcode_printed": "8908009059291",
+  "barcode_format": "EAN-13",
+  "name": "Zero Maida Pizza Base",
+  "brand": "the-health-factory",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Wheat Flour, Yeast, Wheat Gluten, Rice Bran Oil (Edible Vegetable Oil), Cane Sugar, lodised Salt, Cultured Wheat Flour, Cultured Glucose.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009059291",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

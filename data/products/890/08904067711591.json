@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08904067711591",
+  "barcode_printed": "8904067711591",
+  "barcode_format": "EAN-13",
+  "name": "Chana Обжаренный нут с куркумой и чёрным перцем",
+  "brand": "jabsons",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 490,
+        "energy_kj": 2050,
+        "protein_g": 18,
+        "carbohydrate_g": 60,
+        "sugars_g": 3,
+        "fat_g": 20,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 0,
+        "sodium_mg": 800
+      }
+    }
+  ],
+  "ingredients_raw": "Обжаренный нут (бенгальский,75%), масло хлопковое рафинированное, чёрный перец (4%), соль йодированная, куркума (2%). соль черная, перец чили, лимонная кислота (E330) в качестве регулятора кислотности. МОЖЕТ СОДЕРЖАТЬ АЛЛЕРГЕНЫ:СЛЕДЫ АРАХИСА, СОИ, ГЛЮТЕНА",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904067711591",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906180180506",
+  "barcode_printed": "8906180180506",
+  "barcode_format": "EAN-13",
+  "name": "Rice Bran Oil",
+  "brand": "galway",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Physically Refined Rice Bran Oil, Contains Permitted Antioxidant (E319), Vitamin A & D and Antifoaming Agent (E900a).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906180180506",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

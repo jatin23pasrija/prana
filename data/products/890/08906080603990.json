@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080603990",
+  "barcode_printed": "8906080603990",
+  "barcode_format": "EAN-13",
+  "name": "Sparkling Water Lemon Lime",
+  "brand": "paper-boat",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CARBONATED WATER, SWEETENERS (968, 955), ACIDITY REGULATORS [330, 331 (iii)], FLAVOURS (NATURAL AND NATURE-IDENTICAL FLAVOURING SUBSTANCES), IODISED SALT, ANTIOXIDANT (300), PRESERVATIVE (211). CONTAINS NON-CALORIC SWEETENER. This drink contains an admixture of Erythritol and Sucralose.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080603990",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

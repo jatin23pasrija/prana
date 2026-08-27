@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08908008442278",
+  "barcode_printed": "8908008442278",
+  "barcode_format": "EAN-13",
+  "name": "Mountain Breeze Spearmint Pocket Packs",
+  "brand": "mountain-breeze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.2"
+      },
+      "values": {
+        "energy_kcal": 0.1,
+        "protein_g": 0,
+        "carbohydrate_g": 0.03,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Pullulan (1204), HPMC (464), Spearmint, Menthol, Sucralose (955), Eucalyptol, Tween 80, Glycerol (422), Brilliant Blue (133), Tartrazine Yellow (102), Purified Water & Added Flavour (SPEARMINT)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908008442278",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

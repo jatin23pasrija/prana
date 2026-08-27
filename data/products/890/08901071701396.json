@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071701396",
+  "barcode_printed": "8901071701396",
+  "barcode_format": "EAN-13",
+  "name": "Hershey's Spreads Cocoa with Almond",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Edible Vegetable Oil (Palm Oil), Milk Solids, Cocoa Solids (4.7%), Almond Paste (3%), Hydrogenated Vegetable Fat (Palm Oil & Sesame Oil), Emulsifier (322(i)), Flavours (Artificial Flavouring Substances-Almond and Vanilla) & Edible Common Salt ALLERGEN INFORMATION: CONTAINS MILK, SOY AND NUT. MAY CONTAIN WHEAT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071701396",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

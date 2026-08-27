@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151231862",
+  "barcode_printed": "8906151231862",
+  "barcode_format": "EAN-13",
+  "name": "Ragi Chips",
+  "brand": "snackible",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 55,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Ragi flour, tapioca flour, rice flour, white lentil flour, gram flour, iodised salt and edible vegetable oil (sunflower oil) & spiced seasoning (red chilli powder, dry mango powder, pudina flavour, tomato flavour, black salt), anticaking agent (INS 170(i)), maltodextrin, acidity regulator (INS 330, INS 296), flavour enhancers (INS 627, INS 631), paprika oleoresin (INS 160c)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151231862",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

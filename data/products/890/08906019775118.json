@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906019775118",
+  "barcode_printed": "8906019775118",
+  "barcode_format": "EAN-13",
+  "name": "Dried Cranberries",
+  "brand": "nutraj",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 354.43,
+        "energy_kj": 1482.93,
+        "protein_g": 0.99,
+        "carbohydrate_g": 86.47,
+        "sugars_g": 49.69,
+        "fat_g": 0.51,
+        "saturated_fat_g": 0.05
+      }
+    }
+  ],
+  "ingredients_raw": "Cranberries, Sugar & Vegetable Edible Oil (Sunflower Oil)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906019775118",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

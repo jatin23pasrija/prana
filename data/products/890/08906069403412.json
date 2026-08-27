@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069403412",
+  "barcode_printed": "8906069403412",
+  "barcode_format": "EAN-13",
+  "name": "Chef's Special Tomato Ketchup",
+  "brand": "veeba",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 900,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Tomato Paste (28.0%), Sugar, lodised Salt, Stabilizers (INS1422, INS415), Acidity Regulator (INS260), Spices and Condiments and Preservative (INS211).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069403412",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906013423336",
+  "barcode_printed": "8906013423336",
+  "barcode_format": "EAN-13",
+  "name": "Packaged Drinking Water",
+  "brand": "clear",
+  "category": "water",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Treated Water Minerals: Salts Of Calcium: (1.0 mg) Magnesium: (0.5&quot; mg) Sodlum: (0.1 mg) Added qty per 100ml",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906013423336",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

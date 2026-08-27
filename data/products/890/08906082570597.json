@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082570597",
+  "barcode_printed": "8906082570597",
+  "barcode_format": "EAN-13",
+  "name": "Cornitos Party Mix",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Corn Nuts (35%), Coated Green Peas (30%), Coated Peanuts (25%), Peanuts (10%), Corn Starch, Rice Flour, Iodized Salt, Sugar, Edible Vegetable Oil (Corn/Sunflower), Amaranth Flour, Finger Millet Flour, Mixed Spices (Chilli, Cumin, Coriander, Clove, Ginger, Cardamom, Cinnamon, Parsley, Oregano), Glucose Syrup, Permitted Stabilizers (INS 1422), Maltodextrin (Corn), Acidity Regulator (INS 330, INS 262, INS 334), Flavour Enhancer (INS 627, INS 631), Yeast Extract Powder, Tamarind Powder, Dehydrated Mango Powder, Anticaking Agent (INS 551), Emulsifier (INS 414), Hydrolyzed Vegetable Protein (Soya), CONTAINS ADDED FLAVOURS-NATURAL & NATURE IDENTICAL (CHILLI & SMOKE) Natural Colour (INS 150d).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082570597",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

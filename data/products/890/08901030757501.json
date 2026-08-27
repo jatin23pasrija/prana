@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030757501",
+  "barcode_printed": "8901030757501",
+  "barcode_format": "EAN-13",
+  "name": "Knorr",
+  "brand": "knorr",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 14,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 52.3,
+        "protein_g": 0.6,
+        "carbohydrate_g": 10.3,
+        "sugars_g": 4.15,
+        "fat_g": 1.1,
+        "saturated_fat_g": 0.52,
+        "fibre_g": 0.5,
+        "sodium_mg": 521.22
+      }
+    }
+  ],
+  "ingredients_raw": "Soup Powder. Ingredients: Sugar, Potato Starch, &quot;Dehydrated Vegetables (Tomato Paste Solids (7.1%), Onion Powder Garlic Powder and Dehydrated Leeks (0.3%), Bread Croutons 10.3% (Refined Wheat Flour (Maida), Edible Vegetable Fat, Seasoning, iodised salt, Yeast, Rosemary Extract), Dried Glucose Syrup, iodised salt, Hydrolyzed Vegetable Protein Edible Vegetable Fat, Thickener-415, Acidity Regulator-330,Spices",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030757501",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

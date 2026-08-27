@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063019027",
+  "barcode_printed": "8901063019027",
+  "barcode_format": "EAN-13",
+  "name": "Little Hearts Classic",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 486,
+        "protein_g": 7.4,
+        "carbohydrate_g": 70,
+        "sugars_g": 24.4,
+        "fat_g": 19.5,
+        "saturated_fat_g": 9.4,
+        "trans_fat_g": 0,
+        "sodium_mg": 311
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR (23%), REFINED PALMOLEIN&PALM OIL, RAISING AGENTS [503 (ii) & 500(ii)], MILK SOLIDS, IODISED SALT, YEAST AND EMULSIFIER [322(i)]. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOYA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063019027",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08905507001302",
+  "barcode_printed": "8905507001302",
+  "barcode_format": "EAN-13",
+  "name": "Strawberry Flavoured Wafers",
+  "brand": "full-bloom",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Refined wheat flour (Maida), Edible vegetable hydrogenated fat palm oil, Refined palm kernel oil & its fractions, Sesame oil, Antioxidant 319), Vitamin A] Emulsifier (INS 322) Natural strawberry fruit powder, Iodized salt, Leavening agent [INS 500]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905507001302",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

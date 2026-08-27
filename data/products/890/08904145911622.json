@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08904145911622",
+  "barcode_printed": "8904145911622",
+  "barcode_format": "EAN-13",
+  "name": "Ensure Vanilla flavour 400g cbd",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "skimmed milk powder, maltodextrin, sacrose, edible vegetable oil (high oleic sunflower oil, soy oil), fructo-oligosaccharide (4,0%), flavorings (nature identical and artificial flavoring substances - vanilla), minerals**, calcium b-hydroxy-b-methylbutyrate monohydrate (cahmb) (0,69%), vitamins***, antioxidant (mixed tocopherol), contains milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904145911622",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "00048107251123",
+  "barcode_printed": "0048107251123",
+  "barcode_format": "EAN-13",
+  "name": "100% Whey Protein Pro Performance",
+  "brand": "gnc",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 907,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 359.34,
+        "protein_g": 68.57,
+        "carbohydrate_g": 11.43,
+        "sugars_g": 4.57,
+        "fat_g": 4.37,
+        "saturated_fat_g": 0.6,
+        "trans_fat_g": 0,
+        "sodium_mg": 275.37
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Concentrate, Cookie Crumbs (Refined Wheat Flour, Sugar & Cocoa Solids), Nature Identical Cookies & Cream Flavor, Sodium Chloride, Thickener (INS 415), Whey Protein Isolate, Di-potassium Hydrogen Phosphate, Thickeners (INS 466 & INS 407), Anti-Caking Agent (INS 551), Sweeteners (INS 955 & INS 950) & DigeZyme® &quot;DigeZyme&quot; is a multi-enzyme complex that includes Alpha Amylase, Protease, Lipase, Cellulase and Lactase. Allergens: Contains milk & wheat. May contain soy and nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0048107251123",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

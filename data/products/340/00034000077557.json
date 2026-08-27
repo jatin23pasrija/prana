@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "00034000077557",
+  "barcode_printed": "0034000077557",
+  "barcode_format": "EAN-13",
+  "name": "kitkat",
+  "brand": "kitkat",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 106,
+        "sugars_g": 21,
+        "saturated_fat_g": 7,
+        "sodium_mg": 30480
+      }
+    }
+  ],
+  "ingredients_raw": "sugar, wheat flour, nonfat milk, cocoa butter, chocolate,palm oil, lactose, yeast, vanilln, artificial flavor,salt,sodium bicarbonate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0034000077557",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201762193",
+  "barcode_printed": "7622201762193",
+  "barcode_format": "EAN-13",
+  "name": "Dairy Milk Silk Oreo",
+  "brand": "mondelez-international",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 58.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk Chocolate (50%)- Sugar, Milk Solids (13%), Cocoa Butter, Cocoa Solids, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances) Centre (50%)- Fractionated Fat, Sugar, Biscuit 13% (Refined Wheat Flour (Maida), Sugar, Palmolein, Invert Sugar, Cocos Solids, Leavening Agents (500), 5030)) lodised Salt, Emulsifier (322), Flavours (Artificial (Vanilla) Flavouring Substances), Milk Solids, Lactose-Rich Deproteinized Whey Permeate Powder, Emulsifier (442), Flavours (Artificial (Vanilla) Flavouring Substances).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201762193",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

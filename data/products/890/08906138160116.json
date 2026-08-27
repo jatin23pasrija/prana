@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906138160116",
+  "barcode_printed": "8906138160116",
+  "barcode_format": "EAN-13",
+  "name": "Jeera Khakra",
+  "brand": "agvit",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 455.8,
+        "protein_g": 13.7,
+        "carbohydrate_g": 64.7,
+        "sugars_g": 0.5,
+        "fat_g": 15.8,
+        "saturated_fat_g": 7.6,
+        "fibre_g": 4.8,
+        "sodium_mg": 231
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour, Edible Palm Oil, Iodized Salt, Cumin Seeds.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906138160116",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

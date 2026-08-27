@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013746217",
+  "barcode_printed": "8908013746217",
+  "barcode_format": "EAN-13",
+  "name": "Cravova Mocha Cold Coffee",
+  "brand": "cravova",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 75.92,
+        "protein_g": 3.14,
+        "carbohydrate_g": 12.06,
+        "sugars_g": 11.46,
+        "fat_g": 1.68,
+        "saturated_fat_g": 1,
+        "sodium_mg": 79.4
+      }
+    }
+  ],
+  "ingredients_raw": "Double Toned Milk (90%), Sugar, Milk Solids, Coffee (0.8%), Cocoa Solids (0.22%), Nature Identical Flavouring Substances (Chocolate, Coffee), Acidity Regulator (INS 339(ii)), Stabilizers (INS 418, INS 407)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013746217",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

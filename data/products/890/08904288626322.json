@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904288626322",
+  "barcode_printed": "8904288626322",
+  "barcode_format": "EAN-13",
+  "name": "Strawberry Jam",
+  "brand": "tops",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Strawberry Pulp 30%, Gelling Agent (440), Acidity Regulator (330) and Preservatives (211, 224) CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (122) AND ADDED FLAVOUR (NATURE-IDENTICAL FLAVOURING SUBSTANCES-STRAWBERRY FLAVOUR",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904288626322",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

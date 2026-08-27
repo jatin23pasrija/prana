@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552026413",
+  "barcode_printed": "8901552026413",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi Samosa",
+  "brand": "ashoka",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 375,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Samosa: Kartoffeln 47%, raffiniertes WEIZENmehl, Wasser, grüne Erbsen 8%, raffiniertes Sonnenblumenöl, Korianderblätter, Salz, Ingwer, Zwiebeln 1,3%, grüne Chilischoten, Knoblauch, Kreuzkümmel, rotes Chilipulver, Kurkumapulver, Gewürze (SESAM), Grünes Chutney: Wasser, Korianderblätter, grüner Chill, Zucker, geröstete Kichererbsen, Limettensaft, schwarzes Salz.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552026413",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004416091",
+  "barcode_printed": "8904004416091",
+  "barcode_format": "EAN-13",
+  "name": "Gorus cookies",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 519,
+        "protein_g": 7.35,
+        "carbohydrate_g": 58.82,
+        "sugars_g": 26.04,
+        "fat_g": 27.58,
+        "saturated_fat_g": 12.18,
+        "fibre_g": 3.11,
+        "sodium_mg": 46.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004416091",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

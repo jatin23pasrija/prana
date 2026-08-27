@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904256715478",
+  "barcode_printed": "8904256715478",
+  "barcode_format": "EAN-13",
+  "name": "GoodDiet Protein Bar Coconut",
+  "brand": "big-basket-good-diet",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 65,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 285,
+        "protein_g": 20,
+        "carbohydrate_g": 18.5,
+        "sugars_g": 7.8,
+        "fat_g": 14.5,
+        "saturated_fat_g": 5.9,
+        "fibre_g": 9.5,
+        "sodium_mg": 20
+      }
+    }
+  ],
+  "ingredients_raw": "Ingredients. Whey protein isolate (22%), Fructo-Oligosaccharides (Prebiotic fibre) (13%), Dark Chocolate (12%) (Sugar, Cocoa solids, Emusifier (INS 3220, Cashew butter, Milk protein concentrate, Butter, Honey, Hazelnuts (4%) and Jowar millet crisp.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904256715478",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

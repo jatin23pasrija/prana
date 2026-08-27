@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08939122247838",
+  "barcode_printed": "8939122247838",
+  "barcode_format": "EAN-13",
+  "name": "Yes Protein Thandai Flavour",
+  "brand": "naturaltein",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Fermented Yeast Protein Isolate, Spice Blend (Fennel Seed Powder, Black Pepper Powder, Cardamom Powder and Cinnamon Powder), Steviol Glycoside (INS 960), Monk Fruit Concentrate, Natural Flavours, Natural Digestive Enzymes (Bromelain & Papain)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939122247838",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

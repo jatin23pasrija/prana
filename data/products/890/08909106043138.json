@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106043138",
+  "barcode_printed": "8909106043138",
+  "barcode_format": "EAN-13",
+  "name": "Boost Drink",
+  "brand": "boost-drink",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 369,
+        "protein_g": 7.5,
+        "carbohydrate_g": 80,
+        "sugars_g": 35,
+        "fat_g": 2.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106043138",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

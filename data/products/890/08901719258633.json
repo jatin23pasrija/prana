@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719258633",
+  "barcode_printed": "8901719258633",
+  "barcode_format": "EAN-13",
+  "name": "Hide and seek -bourbon",
+  "brand": "hide-and-seek",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "PARLE PLATINA NET WT./POIDS NET: 150 g/5.3 oz Biscuits sandwich artificiellement aromatisés au chocolat HIDE & SEEK Bourbon artificially chocolate flavoured sandwich cookies EXPORT PACK EMBALLAGE POUR EXPORTATION BOURRON URBON",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719258633",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

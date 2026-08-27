@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901548310410",
+  "barcode_printed": "8901548310410",
+  "barcode_format": "EAN-13",
+  "name": "D'lite choco-chip oat cookies",
+  "brand": "sugar-free",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Oats Flour & Flakes (25%), Sweetener (INS 965 (i), INS 960), Wheat flour, Bakery Shortening (Vegetable fat - Palm /Palmolein oil and palm kernel oil based),Sugar Free Dark Chocolate Chips (12%) [Sweetener (INS 965), Edible Vegetable Fat (Hydrogenated)- Palm, Cocoa solids & Emulsifiers (INS492,INS322(i) - Lecithin of Soya Origin)], Butter, Milk Solids (Skimmed Milk Powder), Fructo oligosaccharides (3%), Cocoa powder, salt, Raising agents (INS 500(ii),INS 503(ii)), Emulsifiers (INS 322(i), INS 472e), CONTAINS ADDED NATURE IDENTICAL AND ARTIFICIAL VANILLA FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901548310410",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

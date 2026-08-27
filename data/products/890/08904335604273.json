@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335604273",
+  "barcode_printed": "8904335604273",
+  "barcode_format": "EAN-13",
+  "name": "Protein Mini Choco Peanut Bitten",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 397,
+        "protein_g": 20,
+        "carbohydrate_g": 58,
+        "sugars_g": 28.9,
+        "fat_g": 12.8,
+        "saturated_fat_g": 8.5,
+        "trans_fat_g": 0,
+        "fibre_g": 15,
+        "sodium_mg": 160
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids (Skimmed Milk Powder, Whey), Dark Compound 20% (Sugar, Edible Vegetable Fat (Hydrogenated), Cocoa Solids, Sorbitan Tr Soy Lecithin, Nature Identical Flavors), Fructo-Oligosaccharides, Rice Crispy, Honey, Peanut Chunks, Peanut Butter 5%, Peanut Protein, Glycerine, Ric Soy Lecithin, Gum Acacia, Natural and Nature Identical Flavors.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335604273",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "00000012803286",
+  "barcode_printed": "12803286",
+  "barcode_format": "EAN-8",
+  "name": "Khatta Meetha",
+  "brand": "bikano",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 8.6,
+        "carbohydrate_g": 49.2,
+        "sugars_g": 14,
+        "fat_g": 36.1,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 509
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Palmolein Oil, Rice Flakes (20%), Sugar (Sucrose), Chickpea Flour (14.8%), Peanuts (7.3%), Dried Green Peas, Lentils, Sago, Split Bengal Gram, Mixed Spices, Rice Flour, lodized Salt, Turmeric, Carom seeds, Black salt, Citric Acid (E 330) as Acidity Requlator, Sodium Bicarbonate [E 500 (ii)] as Leavening Agent.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/12803286",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

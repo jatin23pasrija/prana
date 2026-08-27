@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906183980301",
+  "barcode_printed": "8906183980301",
+  "barcode_format": "EAN-13",
+  "name": "Pro Concentrate Whey Protein - Mango",
+  "brand": "beastlife",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "31.4 g",
+        "quantity": {
+          "value": 31.4,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 121.48,
+        "protein_g": 24,
+        "carbohydrate_g": 2.32,
+        "sugars_g": 1.2,
+        "fat_g": 1.8,
+        "saturated_fat_g": 1.11,
+        "trans_fat_g": 0.08,
+        "sodium_mg": 49.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906183980301",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

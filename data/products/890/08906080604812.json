@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080604812",
+  "barcode_printed": "8906080604812",
+  "barcode_format": "EAN-13",
+  "name": "Classic Salted Cashews",
+  "brand": "paper-boat",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 583.6,
+        "protein_g": 17.5,
+        "carbohydrate_g": 29.4,
+        "sugars_g": 5.8,
+        "fat_g": 44,
+        "saturated_fat_g": 8,
+        "fibre_g": 3.2,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "CASHEWS (98%), EDIBLE COMMON SALT 1.5% (IODISED SALT AND BLACK SALT) AND EDIBLE VEGETABLE OIL (SUNFLOWER SEED OIL-HIGH OLEIC ACID). Contains Nuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080604812",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

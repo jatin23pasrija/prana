@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552020497",
+  "barcode_printed": "8901552020497",
+  "barcode_format": "EAN-13",
+  "name": "Tadka dal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Split Red Lentils (12.27%), Onion, Tomato, Sunflower Oil, Garlic, Split Bengal Lentils (1.75%), Ginger (0.86%), Salt, Green Chilli (0.34%), Red Chilli Whole (0.29%), Coriander Leaves (0,23%), Cumin Seeds (0.23%), Chilli Powder (0.12%), Turmeric Powder (0.12%), Dried Mango Powder (0.06%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552020497",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

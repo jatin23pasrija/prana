@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "09556032030733",
+  "barcode_printed": "9556032030733",
+  "barcode_format": "EAN-13",
+  "name": "Maxcrunch (Tango Chocolatey Rice Cereal)",
+  "brand": "tango",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 185,
+        "energy_kj": 776,
+        "protein_g": 2.4,
+        "carbohydrate_g": 20.1,
+        "sugars_g": 15.4,
+        "fat_g": 10.6,
+        "saturated_fat_g": 10,
+        "trans_fat_g": 0,
+        "sodium_mg": 20
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Hydrogenated Vegetable Fat (Palm), Milk Solids (12%), Cocoa Powder (11%), Rice Cereal (10%), Hazelnut Paste, Emulsifier (INS 322) and Flavourings (Vanillin, Vanilla). ALLERGEN INFORMATION: Contains Milk, Cereal containing Gluten (Barley), Tree Nuts and Soy. May contain traces of Seeds. All additives used are from plants and synthetic origin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9556032030733",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202026683",
+  "barcode_printed": "7622202026683",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury Bournvita Shakti 75g pp",
+  "brand": "bourn-vita",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cereal Extract 56%*(Barley, Millets, Wheat), Sugar, Cocoa Solids, Maltodextrin, Colour (150c), Minerals, Wheat Gluten, Liquid Glucose, Emulsifiers (322,471), Milk Solids, Vitamins, Raising Agent (500(ii)), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances), lodised Salt. Allergen Information: Contains Milk, Wheat, Barley, Sulphites, Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202026683",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

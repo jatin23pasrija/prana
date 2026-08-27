@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202218620",
+  "barcode_printed": "7622202218620",
+  "barcode_format": "EAN-13",
+  "name": "CHOC- LAYERED CAKES",
+  "brand": "cadbury-chocobakes",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cake (45%) - Refined Wheat Flour (Maida), Sugar, Humectants (420), 422, 1520), Palm Olein, Liquid Glucose, Milk Solids, Cocoa Solids, Starch, Emulsifiers (322, 475,471,491), Raising Agent (5000),4500), 341 (0), lodised Salt, Flavours (Natural Flavour, Nature Identical Flavouring Substances), Preservative (202),Stabilizer (415)); Chocolayer (29%)-Sugar, Hydrogenated Vegetable Oils, Milk Solids, Cocoa Solids, Emulsifiers (442,476)), Flavours (Nature Identical, Artificial (Vanilla and Caramel) Flavouring Energy Substances); Filling (26%) - (Sugar, Fractionated Fat, Liquid Glucose, Humectant (422, 1520), Water, Emulsifiers (322, 475, 471, 491), Cocoa Solids, Flavours (Natural flavour, Nature Identical Flavouring Substances), lodised Salt, Preservative (202)). Allergen Information: Contains Milk, Wheat, Sulphites and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202218620",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906159751119",
+  "barcode_printed": "8906159751119",
+  "barcode_format": "EAN-13",
+  "name": "Nabati CocoLava Coconut Flavoured Cream Wafer Biscuits",
+  "brand": "nabati",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cream (Sugar, Re... Tam vien (Antioxidant (INS 307b)) Maltodextrin, Filling Premix for Wafer Biscuits (Glucose Syrup, Refined Palm Oil, Sodium Caseinate, Modified Starch (INS 1440), Acidity Regulator (INS 340(ii)), Emulsifier (INS 331 (iii), INS 471), Anticaking Agent (INS 551)), Whey Powder, lodized Salt, Artificial Flavouring Substances (Coconut), Emulsifier (INS 322(i)), Natural Colours (INS 141(i), INS 100(i))). Wafer Sheet (Refined Wheat Flour (Maida), Refined Palm Olein, lodized Salt, Raising Agent (INS 500(ii)). Emulsifier (INS 322), Flour Treatment Agent (INS 1101 (i))). Numbers in the bracket as per international numbering system Allergen : contains wheat, milk and soya",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906159751119",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

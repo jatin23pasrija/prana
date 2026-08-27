@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063227928",
+  "barcode_printed": "8904063227928",
+  "barcode_format": "EAN-13",
+  "name": "Shahi Dal Biji",
+  "brand": "haldiram-s",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Gram Pulse Flour, Edible Vegetable Oil (Cotton Seed, Corn, Palmolein, Ground Nut and Rice Bran), Lentil (22%), Muskmelon Seeds (3%), Cashew (3%), lodised Salt, *Spices & Condiments (Red Chilli Powder, Aniseed Powder, Black Pepper Powder, Coriander Powder, Cardamom Powder, Mango Powder Cumin Powder, Cinnamon Powder, Mace Powder Nutmeg Powder, Clove Powder, Mint Leaves Powder, Asafoetida Powder, Fenugreek Seed Powder and Ginger Powder).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063227928",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

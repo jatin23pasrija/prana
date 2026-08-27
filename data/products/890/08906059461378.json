@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059461378",
+  "barcode_printed": "8906059461378",
+  "barcode_format": "EAN-13",
+  "name": "Hot Chocolate Powder",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Chocolate Powder Mix: Sugar, Cocoa Solids (Cocoa Powder (28%) & Cocoa Mass), Corn Flour, Anhydrous Milk Fat, Cocoa Butter, Emulsifiers (INS 322 & INS 476), Iodized Salt, & Flavour - Nature Identical (Vanillin) flavouring substances. Dark Chocolate Button: Cocoa Solids, Sugar, Anhydrous Milk Fat, Cocoa Butter, Emulsifiers (INS 322 & INS 476), Iodized Salt & Flavour - Nature identical (Vanillin) flavouring substance.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059461378",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

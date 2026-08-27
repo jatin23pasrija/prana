@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006854024",
+  "barcode_printed": "8906006854024",
+  "barcode_format": "EAN-13",
+  "name": "Kulfi",
+  "brand": "the-brooklyn-creamery",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Milk Solids (Cow), Sweeteners Blend [Maltitol, Stevia (Steviol Glycoside)), Caramel Flavored C {Water, Sweetener (Maltitol), Milk Solids (Cow), Dietary Fiber (Oligofructose), Humectant (422), Acidity Regulators [331], pH Control Agent, Dietary Fiber (Oligofructose), Pistachio Nuts (1.1%), Stabilizers (410, 412), Emulsifiers (471,477), Natural Food Color (Caramel-III, Beta Carotene), Artificial Flavoring Substances, Nature Identical Flavoring Substances (Condensed Milk, Rose), Natural Flavoring Substance (Vanilla).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006854024",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

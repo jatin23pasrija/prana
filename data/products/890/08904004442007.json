@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004442007",
+  "barcode_printed": "8904004442007",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi Choley",
+  "brand": "haldiram-s",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Chick pea, Water, Onion, Tomato, Refined Sunflower Oil, Ginger, Milk Solids, Iodised Salt, Green Chilli, Butter, Coriander, Dried Mango Powder, Red Chilli Powder, Black Salt, Cinnamon, Dried Ginger Powder, Green Cardamom, Nutmeg, Cumin, Large Cardamom, Black Pepper, Clove, Pipal, Bay Leaf, Garlic, Fenugreek Leaves, Ajwain, Turmeric Powder, Mace & Sodium Hydrogen Carbonate (E 500 (ii)) CONTAINS MILK May Contains Almond, Cashew, Peanut, Hazelnut, Coconut, Pistachio, Mustard Seed, Soy, Sesame Seed, Wheat & Sulphite",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004442007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

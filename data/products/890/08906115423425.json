@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906115423425",
+  "barcode_printed": "8906115423425",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy Kodbale",
+  "brand": "wellbe",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Rice Flour, Physically Refined Rice Bran Oil, Sooji Rawa, Red Rice Flour, Desiccated Coconut, Roasted Gram Flour, Rock Salt, Red Chilli Powder, Roasted Urad Flour, Hing, Flax Seeds",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906115423425",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

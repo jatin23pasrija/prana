@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030834820",
+  "barcode_printed": "8901030834820",
+  "barcode_format": "EAN-13",
+  "name": "Kwality x Wall's Desi Twist Creamy Kulfi",
+  "brand": "kwality-x-wall-s",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "58g",
+        "quantity": {
+          "value": 58,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 133,
+        "protein_g": 2.5,
+        "carbohydrate_g": 15.4,
+        "sugars_g": 13.9,
+        "fibre_g": 0.5,
+        "sodium_mg": 2760
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Milk Solids, Rose Flavoured Confectionery (14.6%) (Water, Sugar, Liquid Glucose, Stabilizers (E410, E412), CONTAINS PERMITTO SYNTHETIC FOOD COLOUR-E122 AND ADDED FLAVOUR - NATURE IDENTICAL ROSE FLAVOURING SUBSTANCE), Sugar, Almond (5.1%), Condensed Milk Liquid Glucose, Emulsifier E471, Stabilizers (E412, E410, E407) Contains Milk Solids and Almonds. May contain traces of other tree nuts. CONTAINS PERMITTED NATURAL COLOUR-E150d AND SYNTHETIC FOOD COLOURS-E102, E122, E133 AND ADDED FLAVOURS NATURAL (CARDAMOM & ARTIFICIAL KULFI FLAVOURING SUBSTANCES Per Serve % GDA* (~100 ml/58 g) serve",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030834820",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

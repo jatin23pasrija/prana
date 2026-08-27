@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "00946459636639",
+  "barcode_printed": "0946459636639",
+  "barcode_format": "EAN-13",
+  "name": "epigamia TURBO 25g protein shake",
+  "brand": "epigamia",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "250ml",
+        "quantity": {
+          "value": 250,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 164,
+        "protein_g": 25,
+        "carbohydrate_g": 9,
+        "sugars_g": 8,
+        "fat_g": 0.2,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 246
+      }
+    }
+  ],
+  "ingredients_raw": "Skimmed Milk (79%), Milk Solids, Water, Cocoa Powder, Nature Identical Flavouring Substances (Cookie & Cream), Acidity Regulators [INS 340, INS 452, INS 339 Stabilizers (INS 407), Sweetener (INS 955), Edible Common Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0946459636639",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

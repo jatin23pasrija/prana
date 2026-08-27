@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017139138",
+  "barcode_printed": "8908017139138",
+  "barcode_format": "EAN-13",
+  "name": "Nutrela Spirulina",
+  "brand": "nutrela",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Spirulina Powder (56%), Asgandh Root Extract (9%), Anticaking agent (INS 460(i), INS 470(iii), INS 551, INS 553 (iii)), Moringal Leaf Extract (8.4%), Amla Extract (7.1%), Stabilizer (INS 1201, INS 414)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017139138",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

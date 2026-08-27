@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010851521",
+  "barcode_printed": "8906010851521",
+  "barcode_format": "EAN-13",
+  "name": "winner sweetened cocoa mix",
+  "brand": "campco",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 395,
+        "protein_g": 4.3,
+        "carbohydrate_g": 89,
+        "sugars_g": 78.7,
+        "fat_g": 3.9,
+        "saturated_fat_g": 2.36,
+        "trans_fat_g": 0.02,
+        "fibre_g": 0,
+        "sodium_mg": 38.8
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, COCOA SOLIDS, DEXTROSE MONO HYDRATE, SALT, VITAMIN C NS 300) AND EMULSIFIER-SOYA LECITHIN [INS 322], ADDED FLAVOUR-ARTIFICIAL VANILLA FLAVOURING SUBSTANCE CONTAINS SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010851521",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

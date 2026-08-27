@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262070430",
+  "barcode_printed": "8901262070430",
+  "barcode_format": "EAN-13",
+  "name": "Amul",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 pieces (11 g)",
+        "quantity": {
+          "value": 11,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 60,
+        "protein_g": 1,
+        "carbohydrate_g": 6,
+        "sugars_g": 5,
+        "fat_g": 3.5,
+        "saturated_fat_g": 2.3,
+        "sodium_mg": 10
+      }
+    }
+  ],
+  "ingredients_raw": "sugar, cocoa butter, partially skimmed milk powder, cocoa powder, emulsifiers (soya lecithin, polyglycerol esters of interesterified ricinoleic acid), artificial vanilla , cocoa flavors added, allergen information: contains milk , soyabean, made in a facility that processes tree-nuts , wheat tted imp, ,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262070430",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

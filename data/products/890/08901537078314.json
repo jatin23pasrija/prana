@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901537078314",
+  "barcode_printed": "8901537078314",
+  "barcode_format": "EAN-13",
+  "name": "Biryani Kit Lucknowi",
+  "brand": "daawat",
+  "category": "rice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 334,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "RICE - Basmati Rice BIRYANI PASTE - Curd, Water, Dehydrated Onion, Edible Vegetable Oil(Sunflower), Edible Common Salt, Spices and Condiments (Cardamom, Fennel, Star Anise, Mace, Cinnamon, Clove, Coriander, Cumin, Black Pepper, Nutmeg, Bay Leaf), Garlic, Ginger, Rose Water, Kewra Water, Flavour Enhancers (INS 627, INS 631), Turmeric Powder, Acidity Regulator (INS 330), Saffron (0.1%) and Hydrolysed Vegetable Protein (Soya). WHOLE SPICES - Cinnamon Sticks, Green Cardamom (0.2%) Bay Leaf (0.2%), Clove (0.1%) and Back Pepper (0.1%) RAITA SEASONING - Spices and Condiments (Cumin, Chilli, Coriander, Dried Ginger), Maltodextrin (Corn), Natural and Nature Identical Flavouring Substances, Edible Common Salt, Cane Sugar, Dehydrated Garlic, Dehydrated Onion Powder, Black Salt, Hydrolyzed Vegetable Protein (Soya), Dried Mango Powder, Dehydrated Parsley and Anticaking Agent (INS 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901537078314",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

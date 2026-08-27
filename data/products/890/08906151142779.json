@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151142779",
+  "barcode_printed": "8906151142779",
+  "barcode_format": "EAN-13",
+  "name": "ZMA+ Vitamin B6 Magnesium Tablets",
+  "brand": "tata",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Magnesium (Magnesium oxide, Magnesium aspartate), Disintegrant [INS 468], Diluent [Maize starch & INS 460 (i)], Disintegrant [Sodium starch glycolate], Anti-Sticking agent [INS 470 (iii)], Natural colour [INS 171], Artificial colour [INS 102 & INS 132]), Coating agent [INS 464 & INS 462], Glidant [INS 553 (i)], Stabilizer [INS 1202], Anti-Caking agent [INS 551], Zinc [Zinc citrate], Vitamin B6 Pyridoxine hydrochloride].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151142779",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

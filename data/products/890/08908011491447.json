@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08908011491447",
+  "barcode_printed": "8908011491447",
+  "barcode_format": "EAN-13",
+  "name": "Mini Nut & Seed Mix",
+  "brand": "prov",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 18,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "18 g",
+        "quantity": {
+          "value": 18,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 109.6,
+        "protein_g": 3.3,
+        "carbohydrate_g": 4,
+        "sugars_g": 2.2,
+        "fat_g": 8.7,
+        "saturated_fat_g": 3.8,
+        "fibre_g": 1.7,
+        "sodium_mg": 112.5
+      }
+    }
+  ],
+  "ingredients_raw": "Almond Kernels (28%), Cashew Kernels (20%), Pistachio Kernels (20%), Pumpkin Seeds (16%) & Black Raisins (16%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908011491447",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

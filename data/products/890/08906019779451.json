@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906019779451",
+  "barcode_printed": "8906019779451",
+  "barcode_format": "EAN-13",
+  "name": "DryFruit Mix",
+  "brand": "nutraj",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Raisins (Kishmish), Almond Kernels & Cashew Nuts. Allergy Caution: Contains Tree Nuts. This product has been packed in an integrated nuts & dried fruits processing unit and may contain an occasional trace of other nuts or dried fruits. FOR ANY FEEDBACK OR COMPLAINT CONNECT WITH OUR CUSTOMER CARE MANAGER AT VKC NUTS PVT. LTD. D-63, SEC A-2, TRANS DELHI SIGNATURE CITY (TRONICA CITY) INDUSTRIAL AREA, 回家 GHAZIABAD (UP)-201102 OR CALL AT-+91-9971095414 OR EMAIL No. of Servings Per Pack 17.85",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906019779451",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

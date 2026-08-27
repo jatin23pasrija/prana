@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082571303",
+  "barcode_printed": "8906082571303",
+  "barcode_format": "EAN-13",
+  "name": "Peri Peri Nachos & Salsa Dip",
+  "brand": "cornitos",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 478,
+        "protein_g": 7,
+        "carbohydrate_g": 68,
+        "sugars_g": 4,
+        "fat_g": 21,
+        "saturated_fat_g": 4,
+        "fibre_g": 4,
+        "sodium_mg": 671
+      }
+    }
+  ],
+  "ingredients_raw": "Corn (70%), Edible Vegetable Oil (Corn Oil), Iodized Salt, Garlic Powder, Spices and Herbs (Chilli (1.2%), Black Pepper, Red Bell Pepper, Oregano), Corn Starch, Sugar, Lime Juice Powder, Soya Sauce Powder, Acidity Regulator (INS 330), Anticaking Agent (INS 551), Flavour Enhancer (INS 627, INS 631) CONTAIN SOYA AND SOYA PRODUCTS CONTAINS ADDED FLAVOURS, NATURAL AND NATURE IDENTICAL (Vinegar) SALSA DIP: INGREDIENTS Fresh Tomatoes (30%), Tomato Paste (20%), Water, Liquid Glucose, Onion, Sugar, Jalapenos, Capsicum, lodised Salt, Green Chilli, Garlic Paste, Permitted Thickners (INS 1422), Permitted Acidity Regulator (INS 260) CONTAINS PERMITTED CLASS II PRESERVATIVES (INS 211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082571303",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

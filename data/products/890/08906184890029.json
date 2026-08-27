@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906184890029",
+  "barcode_printed": "8906184890029",
+  "barcode_format": "EAN-13",
+  "name": "Purva Bites Roasted Makhana",
+  "brand": "purva-bites",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 478,
+        "protein_g": 8.1,
+        "carbohydrate_g": 68.7,
+        "sugars_g": 15.8,
+        "fat_g": 18.9,
+        "saturated_fat_g": 5.4,
+        "sodium_mg": 792.9
+      }
+    }
+  ],
+  "ingredients_raw": "Makhana (Popped Water Lily Seeds/Foxnuts), Refined Rice Bran Oil, Milk Solids, lodised Salt, Maltodextrin, Sugar, Corn Flour, Garlic, Onion, Edible Vegetable fat (Palm), Cheese Powder, Anti-caking Agent(E551), Acidity Regulator (E330, E270), Tomato Powder, Flavour Enhancers( E627, E631), Yeast Extract, Thickener(E415), Dehydrated Herbs, Spice Extract And Antioxidents (E300), Natural & Nature Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906184890029",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

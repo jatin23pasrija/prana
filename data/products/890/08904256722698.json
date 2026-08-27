@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904256722698",
+  "barcode_printed": "8904256722698",
+  "barcode_format": "EAN-13",
+  "name": "Madras Mixture",
+  "brand": "tasties",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 571.1,
+        "protein_g": 13.5,
+        "carbohydrate_g": 44.4,
+        "sugars_g": 2.6,
+        "fat_g": 37.7,
+        "saturated_fat_g": 14.5,
+        "fibre_g": 2.7,
+        "sodium_mg": 268.7
+      }
+    }
+  ],
+  "ingredients_raw": "Gram Flour, Edible Vegetable Oil (Palmolein Oil), Rice Flour, Rice Flakes, Peanuts, Cashew Nuts, Roasted Bengal Gram, Curry Leaves, Iodised Salt, Chilli Powder, Asafoetida, Pepper Powder, Coriander Powder And Ajwain Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904256722698",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719210419",
+  "barcode_printed": "8901719210419",
+  "barcode_format": "EAN-13",
+  "name": "Mango bite",
+  "brand": "parle",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 333.8,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SUCRE, GLUCOSE LIQUIDE, REGULATEUR D'ACIDITÉ (E330), POUDRE DE MANGUE, AROME MANGUE ARTIFICIEL, COULEUR [E100 - (i)].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719210419",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

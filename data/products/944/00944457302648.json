@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00944457302648",
+  "barcode_printed": "0944457302648",
+  "barcode_format": "EAN-13",
+  "name": "Bites cotton candy flavored ice cream",
+  "brand": "arun-ice-cream",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 7,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Inner Layer (70 %): Ice Cream (Milk Solids, Sugar, Water, Liquid Glucose, Emulsifiers (471, 477), Stabilizers (412, 410), Color (133), Natural Flavor & Nature-Identical Flavoring Substances). Outer Layer (30%): Milk Based Confectionery (Sugar, Edible Vegetable Oils (Coconut Oil & Palm Kernel Oil), Milk Solids, Emulsifiers (322 & 476), & Artificial (Vanilla) Flavoring Substances).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0944457302648",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

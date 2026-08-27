@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063231826",
+  "barcode_printed": "8904063231826",
+  "barcode_format": "EAN-13",
+  "name": "khatta meetha",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "diet anufacturing Dat ite (Indicating CONSUMER SERVICE to MANAGER, NOIDA HALDIRAM SNACKS PVT. LTD. GAUTAM BUDH NAGAR (UP), INDIA OR CALL US AT 0120-2400286 CUSTOMERCARE@HALDIRAM.COM OR E-MAIL US AT: READY TO AT SAVOURIES (PROPRIETAR VISIT US AT WWW.HALDIRAM.CO 8 904063 231826",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063231826",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

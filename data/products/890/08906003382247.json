@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906003382247",
+  "barcode_printed": "8906003382247",
+  "barcode_format": "EAN-13",
+  "name": "Miel pur d'abeilles",
+  "category": "honey",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kj": 1273,
+        "protein_g": 0.3,
+        "carbohydrate_g": 82.4,
+        "sugars_g": 82.4,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "MIEL PUR D'ABEILLES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906003382247",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

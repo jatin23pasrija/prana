@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906083020473",
+  "barcode_printed": "8906083020473",
+  "barcode_format": "EAN-13",
+  "name": "Quinoa Bar",
+  "brand": "mindful-superfood",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 111.98,
+        "energy_kj": 469,
+        "protein_g": 1.76,
+        "carbohydrate_g": 17.31,
+        "sugars_g": 1.85,
+        "fat_g": 3.97,
+        "saturated_fat_g": 3.52,
+        "fibre_g": 1.01,
+        "sodium_mg": 31.15
+      }
+    }
+  ],
+  "ingredients_raw": "Quinoa Crisp (8%), Instant Oats, Almonds Cocoa Powder, Rice Crispy, Fructooligosaccharide (Prebiotic Fiber), Hazelnut Paste, Rice Bran Oil, Salt, Date Syrup, Dark Compound [(Maltitol (INS 965), Edible Vegetable Fat (Hydrogenated), Cocoa Solids, Emulsifiers (INS 491) (INS 322)], Iron Premix (Ferric Phosphate), Vitamin E Preservative (INS 202)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906083020473",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

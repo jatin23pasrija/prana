@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000258365",
+  "barcode_printed": "8908000258365",
+  "barcode_format": "EAN-13",
+  "name": "Cold pressed sunflower oil",
+  "brand": "jivo",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 4550,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cold Press Sunflower Oil Fortified with Vitamin A & D Contains trans fatty acids not more than 2% by weight and saturated fatty acids not more than 17% by weight. PRODUCT OF UKRAINE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000258365",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

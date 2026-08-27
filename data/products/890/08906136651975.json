@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906136651975",
+  "barcode_printed": "8906136651975",
+  "barcode_format": "EAN-13",
+  "name": "High Protein Muesli",
+  "brand": "pintola",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole Grains (34%) (Rolled Oats, Ragi Flakes, Jowar Flakes, Quinoa Flakes, Brown Rice Flakes); Protein Blend (24%) {Texturized Soy Protein, Soy Protein Isolate}; Dry Fruits, Nuts & Seeds (22%) (Black Raisin, Cranberry, Almonds, Flax Seeds, Pumpkin Seeds); Organic Jaggery, Cocoa Powder (7%), Dates, Rice Bran Oil, Himalayan Pink Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906136651975",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

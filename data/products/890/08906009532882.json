@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009532882",
+  "barcode_printed": "8906009532882",
+  "barcode_format": "EAN-13",
+  "name": "RiteBite Max Protein Peri Peri 7 Grain Protein Snack",
+  "brand": "ritebite",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 32,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Millets & Pulses Flour Blend (Sorghum (Jowar),Oats, Finger Millet (Ragi). Soy, Black Gram (Urad), Quinoa), Oil, Soy Protein Isolate, Seasoning (Sugar, Iodized Salt, spices & Herbs, Chilli (9.5%), Oregano (1.3%), Garlic Powder, Powder, Onion Powder Soy Sauce Powder, Starch, Acidity HINS 330), Yeast Powder. Edible Vegetable Oil (Sunflower), Agent (INS 551), Flavour Enhancer (INS 627, INS 631)), Oat, Seeds Powder, Black Pepper, Red Chilli Powder, Edible and Acidity Regulator (INS 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009532882",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

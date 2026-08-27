@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08904018603289",
+  "barcode_printed": "8904018603289",
+  "barcode_format": "EAN-13",
+  "name": "Chia Cinnamon mix",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 13,
+        "protein_g": 0.4,
+        "carbohydrate_g": 1.8,
+        "sugars_g": 0,
+        "fat_g": 0.5,
+        "saturated_fat_g": 0,
+        "fibre_g": 0.7
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904018603289",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

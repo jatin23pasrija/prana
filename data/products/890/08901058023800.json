@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058023800",
+  "barcode_printed": "8901058023800",
+  "barcode_format": "EAN-13",
+  "name": "Maggi 2-minute noodles Masala",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 560,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat flour (maida), palm oil, iodized salt, wheat gluten, thickeners (501(ii), 500(ii)), humectant (451(i)), onion powder, coriander powder, red chili powder, garlic powder, aniseed powder, ginger powder, black pepper powder, toasted onion powder, clove powder, green cardamom powder, cumin powder, hydrolysed groundnut protein, refined wheat flour, soy oil, iodized salt, thickener (508), acidity regulator (330), color (150d), mineral, wheat gluten",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058023800",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

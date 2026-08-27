@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003761091",
+  "barcode_printed": "8908003761091",
+  "barcode_format": "EAN-13",
+  "name": "Mannat Suji Rusk",
+  "brand": "mannat",
+  "category": "rusk",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 361.5,
+        "protein_g": 11.3,
+        "carbohydrate_g": 69.9,
+        "sugars_g": 28.5,
+        "fat_g": 3.8,
+        "saturated_fat_g": 1.92,
+        "fibre_g": 0.9,
+        "sodium_mg": 229
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR(MAIDA), SUGAR, EDIBLE VEGETABLE OIL, SUJI, INVERT SYRUP, BREAD IMPROVER, YEAST, IODIZED SALT & MILK SOLIDS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003761091",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

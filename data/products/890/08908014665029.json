@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014665029",
+  "barcode_printed": "8908014665029",
+  "barcode_format": "EAN-13",
+  "name": "French Yogurt Blueberry",
+  "brand": "mamie-yova",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pasteurized Milk, Blueberry Fruit Preparation (10%). (Sugar, Blueberry Fruit, Water, Thickener (INS 440, INS 410), Acidity Regulator (INS 330). Sugar, Milk Solids, Water, Stabilizers (INS 1442), Nature identical flavouring substances. Active Lactic Cultures including L.delbruelkil subsp. Bulgaricus and S thermophilus), Bifidobacterium,Lacto - bacillus acidophilus). Partly Skimmed Yogurt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014665029",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

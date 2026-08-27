@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904150503508",
+  "barcode_printed": "8904150503508",
+  "barcode_format": "EAN-13",
+  "name": "Cake mix",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 372.09,
+        "protein_g": 9.3,
+        "carbohydrate_g": 74.42,
+        "sugars_g": 37.21,
+        "fat_g": 4.65,
+        "saturated_fat_g": 2.33,
+        "fibre_g": 2.33,
+        "sodium_mg": 720.93
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904150503508",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

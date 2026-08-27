@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414040151",
+  "barcode_printed": "8901414040151",
+  "barcode_format": "EAN-13",
+  "name": "Bikano Chatak masala",
+  "brand": "bikano",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 535,
+        "protein_g": 6.4,
+        "carbohydrate_g": 52.6,
+        "sugars_g": 1.4,
+        "fat_g": 33.2,
+        "saturated_fat_g": 8.5,
+        "sodium_mg": 908
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Meal (32.25%), Edible Vegetable Oil (Cotton Seed Oil and Palm Oil in varying proportions) Corn Meal (24%), Spices and Condiments, iodized Salt, Onion Powder, Tomato Powder, Dry Mango Powder, Sugar (Sucrose), Chickpea flour, _Wheat Flour_, Garlic Powder, acidity regulator (Citric Acid (E 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414040151",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

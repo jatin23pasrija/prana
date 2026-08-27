@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017415911",
+  "barcode_printed": "8908017415911",
+  "barcode_format": "EAN-13",
+  "name": "PEANUT BUTTER",
+  "brand": "get",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 616,
+        "protein_g": 23,
+        "carbohydrate_g": 28.5,
+        "sugars_g": 9.2,
+        "fat_g": 45,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 0,
+        "sodium_mg": 350
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017415911",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "00769807182202",
+  "barcode_printed": "0769807182202",
+  "barcode_format": "EAN-13",
+  "name": "Earl Grey Iced Tea",
+  "brand": "beyond-water",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 12.13,
+        "protein_g": 0.18,
+        "carbohydrate_g": 2.85,
+        "sugars_g": 2.05,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "sodium_mg": 10.77
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0769807182202",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

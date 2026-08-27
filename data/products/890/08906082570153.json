@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082570153",
+  "barcode_printed": "8906082570153",
+  "barcode_format": "EAN-13",
+  "name": "Nacho crips Spinach",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 510.71,
+        "protein_g": 7.14,
+        "carbohydrate_g": 60.71,
+        "sugars_g": 0,
+        "fat_g": 25,
+        "saturated_fat_g": 3.57,
+        "sodium_mg": 525
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082570153",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

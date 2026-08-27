@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906142027504",
+  "barcode_printed": "8906142027504",
+  "barcode_format": "EAN-13",
+  "name": "Isabgol Orange Burst",
+  "brand": "plix",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Psyllium husk powder, FOS, Lemon powder, Sodium chloride, Oat fiber, Natural and nature identical flavor (Orange), Turmeric root extract (5%), Sweetener (INS 960).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906142027504",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

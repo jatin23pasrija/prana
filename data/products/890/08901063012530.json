@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063012530",
+  "barcode_printed": "8901063012530",
+  "barcode_format": "EAN-13",
+  "name": "Milk Bikis",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 459,
+        "protein_g": 7.4,
+        "carbohydrate_g": 77,
+        "sugars_g": 26.4,
+        "fat_g": 13.5,
+        "saturated_fat_g": 6.5,
+        "fibre_g": 0,
+        "sodium_mg": 304
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (WAIDATI, SUGAR REFINED PALM OIL, MILK PRODUCTS (470SWEETENED CONDENSED PARTL MILK&MILK SOLIDST, INVERT SUGAR SYRUP, RAISING AGENTS [503(ii) &-500(ii)), IODISED SALT, EMULSIFIERS [32200) & 4711. E IDENTICAL & ARTIFICIAL (MILK & VANILLA) FLAVOURING SUBSTANCES, CALCIUM SALT, VITAMINS AND POTASSIUM IODATE bers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOYA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063012530",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

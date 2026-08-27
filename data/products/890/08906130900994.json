@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906130900994",
+  "barcode_printed": "8906130900994",
+  "barcode_format": "EAN-13",
+  "name": "Orion K Snack Rings 3x Spicy",
+  "brand": "orion",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 511.24,
+        "protein_g": 6.71,
+        "carbohydrate_g": 59,
+        "sugars_g": 8.46,
+        "fat_g": 27.6,
+        "saturated_fat_g": 13.2,
+        "trans_fat_g": 0,
+        "sodium_mg": 403.97
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (45%), EDIBLE VEGETABLE OIL (PALMOLEIN OIL), STARCH (POTATO (9%), MAIZE (4%)), SEASONING SUGAR, EDIBLE COMMON SALT, SPICES & CONDIMENTS (CHILLI, TURMERIC HYDROLYZED SOY PROTEIN, DEHYDRATED VEGETABLE POWDER (ONION POWDER, GARLIC POWDER), NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES, ACIDITY REGULATORS (INS 330, INS 296), EDIBLE VEGETABLE OIL (SESAME), ANTICAKING AGENT (INS 551), FRUCTOSE, NATURAL COLOUR 160) FLAVOUR ENHANCERS (INS 627 & INS 631) EDIBLE VEGETABLE OIL PALM)], EDIBLE COMMON SALT, RAISING AGENT (INS 500 (i) ALLERGEN INFORMATION: CONTAINS SOY & WHEAT MAY CONTAIN MILK, SULPHITE & NUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906130900994",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

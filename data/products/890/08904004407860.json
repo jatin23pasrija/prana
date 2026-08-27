@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004407860",
+  "barcode_printed": "8904004407860",
+  "barcode_format": "EAN-13",
+  "name": "Chatpata matar",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 18,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Green Peas (78%). Refined Palmolein Oil, Cumin Powder, Red Chilli Powder, Edible Common Salt, Coriander Powder, Dried Mango Powder, Dried Ginger Powder, Black Pepper, Acidity Regulator (INS 330), Black Salt, Clove Powder, Cardamom, Cinnamon, Nutmeg, Bay Leaf, Asafoetida & Colours INS 100, INS 133)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004407860",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030900105",
+  "barcode_printed": "8901030900105",
+  "barcode_format": "EAN-13",
+  "name": "knorr Thick tomato soup",
+  "brand": "knorr",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 51,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Maize Starch, Tomato Paste Solids (15%), Refined Wheat Flour (Maida), lodised salt, Hydrogenated Palm Oil, *Dehydrated Vegetables (Onion Powder (2.8%), Leeks (1.1%)), Hydrolyzed Vegetable Protein, Spices & Condiments (Black pepper (0.4%)), Anti caking agent - 551, Thickener - 415, Red Beet Juice Powder (Anti caking agent - 551), Flavours - Natural (Garlic) and Nature Identical Flavouring Substances, Flavour Enhancer - 627 & 631, Oleoresin Chilli, Acidity Regulator - 330. Contains Wheat. May Contain Traces of Milk, Mustard, Soya, Celery & Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030900105",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

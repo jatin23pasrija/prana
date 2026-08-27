@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262071581",
+  "barcode_printed": "8901262071581",
+  "barcode_format": "EAN-13",
+  "name": "Chocozoo",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "9g",
+        "quantity": {
+          "value": 9,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 47.34,
+        "protein_g": 0.48,
+        "carbohydrate_g": 5.5,
+        "sugars_g": 5.09,
+        "fat_g": 2.64,
+        "saturated_fat_g": 2.55,
+        "trans_fat_g": 0.01,
+        "sodium_mg": 540
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, hydrogenated edible vegetable oil, cocoa solids, emulsifiers (492, 322), artificial flavouring",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262071581",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

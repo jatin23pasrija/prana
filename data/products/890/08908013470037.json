@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013470037",
+  "barcode_printed": "8908013470037",
+  "barcode_format": "EAN-13",
+  "name": "Ginger Ale",
+  "brand": "gunsberg",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (330 ml)",
+        "quantity": {
+          "value": 330,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 116.69,
+        "protein_g": 0,
+        "carbohydrate_g": 29.18,
+        "sugars_g": 27.3,
+        "fat_g": 0,
+        "sodium_mg": 9.45
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013470037",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

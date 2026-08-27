@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058847000",
+  "barcode_printed": "8901058847000",
+  "barcode_format": "EAN-13",
+  "name": "Noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles: Refined wheat flour (Maida), Palm oil, lodised salt, Wheat gluten, Thickene (98&412), Acidity Regulator (501 (i) & 500 (i)) and Humectant (451(i)). NO lasala *Tastemaker Hydrolysed groundnut protein, Sugar, Refined wheat flou Maida), Mixed Spices (16.8%) (Coriander powder, Red chilli powder, Turmeric powde Cumin powder, Aniseed powder, Black pepper powder, Fenugreek powder, Ginger powder Clove powder, Green cardamom powder, Nutmeg powder), Starch, Palm oil, lodised salt, Flavour enhancer (635), Colour (150d), Acidity Regulators (330 & 500(ii)) and Wheat glute Contains Wheat and Nut. May contains Oat, Milk and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058847000",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

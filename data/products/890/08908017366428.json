@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017366428",
+  "barcode_printed": "8908017366428",
+  "barcode_format": "EAN-13",
+  "name": "Indian Masala Protein Bhujia",
+  "brand": "shaka-harry",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (25 g)",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 113,
+        "protein_g": 3.7,
+        "carbohydrate_g": 16,
+        "sugars_g": 0.5,
+        "fat_g": 3.7,
+        "saturated_fat_g": 0.75,
+        "trans_fat_g": 0,
+        "fibre_g": 4.5,
+        "sodium_mg": 73
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017366428",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

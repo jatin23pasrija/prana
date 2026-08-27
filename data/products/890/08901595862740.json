@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595862740",
+  "barcode_printed": "8901595862740",
+  "barcode_format": "EAN-13",
+  "name": "Red Chilli Sauce",
+  "brand": "ching-s",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Sugar, Red Chilli (6%), Garlic, Ginger, lodised Salt, Thickener (INS 1422), Acidity Regulators (INS 261 INS 330), Emulsifying and Stabilizing Agent (INS 415), Preservative (INS 211). Allergen Advice: May contain: Wheat, Nut:, Sesame seeds Soy, Mustard and Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595862740",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

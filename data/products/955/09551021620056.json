@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "09551021620056",
+  "barcode_printed": "9551021620056",
+  "barcode_format": "EAN-13",
+  "name": "Zus Coffee Salted Caramel Latte",
+  "brand": "zus-coffee",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 23,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "23 g",
+        "quantity": {
+          "value": 23,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 103,
+        "protein_g": 2.2,
+        "carbohydrate_g": 14.4,
+        "sugars_g": 11.3,
+        "fat_g": 3.4,
+        "fibre_g": 1.4,
+        "sodium_mg": 107
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9551021620056",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

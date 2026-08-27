@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058020021",
+  "barcode_printed": "8901058020021",
+  "barcode_format": "EAN-13",
+  "name": "Munch Nut Max",
+  "brand": "nestle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar Peanuts (16.8%), Hydrogenated vegetable fats, Fractionated vegetable fat, Refined Wheat flour (Maida), Milk solids, Cocoa solids (3.2%), Emulsifiers Soya lecithin and 476), lodized salt, Raising agent (500(ii)), Yeast, Flour treatment agents (516) and Artificial (Vanilla) flavouring substances Allergen Note: Contains Wheat, Soy, Sesame, Milk and Nut. NE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058020021",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

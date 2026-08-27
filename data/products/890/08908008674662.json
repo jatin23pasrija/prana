@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908008674662",
+  "barcode_printed": "8908008674662",
+  "barcode_format": "EAN-13",
+  "name": "Nabati wafer",
+  "brand": "nabati",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cream (54%) (Sugar, Edible Vegetable Oil (Palm Gle Maltodextrin, Whey Powder, Vegetable Creamer (Glucose Syrup, Hydrogenated Coconut Oil, Sodium Caseinate, Milk Powder, Modified Starch (INS 1440), Stabilizers (INS 340 and INS 331 (iii)), Emulsifier (INS 471 and INS 481(i)), Anticaking Agent (INS 551), Artificial Milk Flavour), Edible Common Salt, Emulsifier (INS 322(i)), Artificial Coconut and Vanilla Flavour, Permitted Food Colours (INS 141(i) and INS 100(i))). Wafer Sheet (46%) (Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Olein), Edible Common Salt, Leavening Agent (INS 500(ii)), Emulsifier (INS 322(i))). CONTAINS PERMITTED NATURAL COLOURS AND ADDED ARTIFICIAL FLAVOURING SUBSTANCES (MILK, COCONUT AND VANILLA FLAVOUR) Allergen Information: contains wheat, milk and soya Numbers in the bracket as per international numbering system Images for representative purpose only",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908008674662",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

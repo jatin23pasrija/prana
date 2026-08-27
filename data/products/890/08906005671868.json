@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005671868",
+  "barcode_printed": "8906005671868",
+  "barcode_format": "EAN-13",
+  "name": "Mix Stick Chikki,by Charliee, India Gujrat",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Peanut (28%), Jaggery (25%), Sugar (15%), Til (Sesame) (13%), Rajgira (Puffed Amaranth) (9%), Liquid Glucose (8%), Cardamom (1%), Nutmeg (1%). CONTAINS: PEANUTS, SESAME ALLERGY ADVICE: This product was processed on machinery that also processes peanuts, tree nuts, wheat, soy, sesame, mustard and sulphites. BÂTON DE MÉLANGE CASSANT Ingrédients: . • • • Arachide ⚫ Jaggery. Sucre Des graines de sésame ⚫ Rajgira (amarante soufflée) Glucose Liquide Cardamome Muscade. Contient: Des arachides, Des graines de sésame. Peut contenir: Arachides Des noix. Du blé⚫ Du soja Des graines de sésame Moutarde • Sulfites. هشة عصا المزيج المكونات: الفول السوداني (۲۸) ٪)، جاجري (۲٥٪)، السكر (۱٥)، تيل (سمسم) (۱۳) القطيفة (أرمانات منفوش) (۹٪) ، الجلوكوز السائل (۸٪) ، الهيل (۱) جوزة الطيب يحتوي على الفول السوداني، سمسم نصيحة مسببات حساسية: تمت معالجة هذا المنتج في آلات تعالج أيضاً الفول السوداني، المكسرات القمح الصويا السمسم الخردل، الكبريتات. حقائق غذائية GCC COUNTRIES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005671868",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014658069",
+  "barcode_printed": "8908014658069",
+  "barcode_format": "EAN-13",
+  "name": "The theatre project",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 503.35,
+        "protein_g": 7.4,
+        "carbohydrate_g": 65.94,
+        "sugars_g": 2,
+        "fat_g": 21.05,
+        "saturated_fat_g": 3.88,
+        "fibre_g": 10.27,
+        "sodium_mg": 920
+      }
+    }
+  ],
+  "ingredients_raw": "Corn, Edible Vegetable Oil (Rice Bra Oil), Sugar, Milk Solids, Salt, Flavour (Natural & Nature Identical Flavouring Substances), Cheese Powder (0.8%), Flavour Enhancer (INS 627, INS 631), Yeast Extract Powder, Anticaking Agent (INS 551) and Acidity Regulator (INS 330). Contains: Milk. May Contain Nut, Soy & Wheat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014658069",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

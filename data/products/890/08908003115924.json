@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003115924",
+  "barcode_printed": "8908003115924",
+  "barcode_format": "EAN-13",
+  "name": "Badam (almond) Pista Biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 396.89332375000004,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 543.86,
+        "protein_g": 5.26,
+        "carbohydrate_g": 61.4,
+        "sugars_g": 22.81,
+        "fat_g": 31.58,
+        "saturated_fat_g": 17,
+        "sodium_mg": 52.63
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003115924",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

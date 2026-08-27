@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019726107",
+  "barcode_printed": "8908019726107",
+  "barcode_format": "EAN-13",
+  "name": "Nova Nova Waffle Chocolates",
+  "brand": "nova-nova",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 360,
+        "protein_g": 4,
+        "carbohydrate_g": 45,
+        "sugars_g": 31,
+        "fat_g": 20,
+        "saturated_fat_g": 17,
+        "fibre_g": 2.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019726107",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906088860258",
+  "barcode_printed": "8906088860258",
+  "barcode_format": "EAN-13",
+  "name": "Current hot ´n’ spicy chilli+ pepper noodles",
+  "brand": "current",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "INGREDIENTS OF NOODLES: Wheat Flour, Vegetable Oil, Wheat Gluten, Modified Tapioca Starch, Salt, Acidity Regulators [500(ii) & 501(ii)], Stabilisers [400 & 452(ii)] and Riboflavin (101). INGREDIENTS OF SEASONING: Salt, Garlic Powder, Hydrolysed Vegetable Protein (HVP), Soya Sauce Powder, Sugar, Red Chilli Pepper, Black Pepper, Maltodextrin (1400), Chicken Flavour, Flavour Enhancers (621, 627 & 631), Food Acid (296), Paprika (160c) and Other Natural Herbs & Spices. INGREDIENTS OF DEHYDRATED VEGETABLES: Carrot, Cabbage, Peas, Red Chilli, Flakes and Chives. INGREDIENTS OF PASTE: Refined Vegetable Oil, Chilli Powder, Paprika (160c) and Other Spices.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906088860258",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071702202",
+  "barcode_printed": "8904071702202",
+  "barcode_format": "EAN-13",
+  "name": "Salt-n-Pepper Banana Chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 560.71,
+        "protein_g": 3.57,
+        "carbohydrate_g": 50,
+        "sugars_g": 0,
+        "fat_g": 39.29,
+        "saturated_fat_g": 14.29,
+        "fibre_g": 3.57,
+        "sodium_mg": 342.86
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071702202",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

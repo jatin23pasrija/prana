@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595931330",
+  "barcode_printed": "8901595931330",
+  "barcode_format": "EAN-13",
+  "name": "Corn Flour",
+  "brand": "ching-s-secret",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Maize Starch. Allergen Advice: This product was processed on machinery and in a plant that also processes Wheat (Gluten), Soy, Mustard and Milk. Manufactured by: CAPITAL FOODS PVT. LTD., Survey No. 192,193, 194, Village - Nahuli, Taluka - Umbergaon, District - Valsad, Gujarat - 396 105, India.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595931330",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

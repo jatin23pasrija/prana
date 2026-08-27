@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010365967",
+  "barcode_printed": "8906010365967",
+  "barcode_format": "EAN-13",
+  "name": "Ghee Bombay Halwa",
+  "brand": "grb",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 piece (40 g)",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 175,
+        "protein_g": 1,
+        "carbohydrate_g": 31,
+        "sugars_g": 27,
+        "fat_g": 5,
+        "trans_fat_g": 0,
+        "fibre_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010365967",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

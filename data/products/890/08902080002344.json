@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080002344",
+  "barcode_printed": "8902080002344",
+  "barcode_format": "EAN-13",
+  "name": "Gatorade zero sugar lemon lime",
+  "brand": "gatorade",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, ACIDITY REGULATOR (330), MINERAL SALTS, SEQUESTRANTS (452 (385) FLAVOUR (NATURAL FLAVOURING SUBSTANCES, PRESERVATIVE 200 SWEETENERS (955.960 a), STABILIZER (445 (iii)), COLOUR (102) CONTAIN NON-CALORIC SWEETENERS TL ADE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080002344",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

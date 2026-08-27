@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207900631",
+  "barcode_printed": "8901207900631",
+  "barcode_format": "EAN-13",
+  "name": "Chyawanprash",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 575,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Patala (Stenspermum suaveolens, St. Bk.), Agnatha (Clerodendrum phlomidis, St. B Gambhari (Gmelina arborea, St. Bk.) va (Aegle marmelos, St. Bk.), Shyon ika (Oroxylum indicum, St. BK.), Gokshura (Tribulus terrestris, Fr.), Shalaparni (Desmodium gangeticum, Pl.), Prishniparni (Uraria picta, Pl.), Brihati (Solanum indicum, Pl.), Kantakari (Solanum surattense, Pl.), Pippali (Piper longum, Fr.), Karkatshringi (Pistacia integerrima, Gl.), Draksha (Vitis vinifera, Dr.Fr.), Guduchi (Tinospora cordifolia, St.), Haritaki (Terminalia chebula, P.), Bala (Sida cordifolia, Rt.), Tamalaki (Phyllanthus niruri, Pl.), Vasa (Adhatoda vasica, Lf.), Jiwanti (Leptadenia reticulata, Pl.), Shati (Hedychium spicatum, Rz.), Musta (Cyperus rotundus, Rz.), Pushkara (Inula recemosa, Rt.), Kakanasika (Martynia annua, Fr.), Mudgaparni (Phaseolus trilobus, Pl.), Mashaparni (Teramnus labialis, Pl.), Reg Vidari (Pueraria tuberosa, Rt. Tr.), Punarnava (Boerhavia diffusa, Rt.), Utpala (Nymphaea stellata, Fl.), Sukshamaila (Elettaria cardamomum, Fr.), Agaru (Cinnamomum zeylanicum - official substitute, St.Bk.), Shweta Chandan (Santalum album, Ht. Wd.) Riddhi (Dioscorea bulbifera - official substitute, Rt. Tr.), Vriddhi (Dioscorea bulbifera - official substitute, Rt. Tr.), Meda (Asparagus recemosus - official substitute, Rt.), Mahameda (Asparagus recemosus - official substitute, Rt.), Jivaka (Pueraria tuberosa - official substitute, Rt. Tr.) Rishabhak (Pueraria tuberosa-official substitute, Rt. Tr.), Kakoli (Withania somnifera - official substitute, Rt.), Kshirkakoli (Withania somnifera - official substitute, Rt.) each 0.396g and Amalaki (Emblica officinalis, Fr., Fr. Pulp) 90.0g, Ghrita, Tila tail (Sesamum indicum, oil) each 1.389, Sharkara 59.5g, Madhu 4.76g and Powder of the following - Pippali (Piper longum, Fr.) 0.79g, Vamsha (Bambusa bambos, S.C.) 1.58g, Tvak (Cinnamomum zeylanicum, St.Bk.), Sukshamaila (Elettaria cardamomum, Fr.), Tvakpara (Cinnamomum tamala, Lf.), Nagkesara (Mesua ferrea, Stmn.), Abhrak Bhasma Akarkarabha (Anacyclus pyrethrum, RL) 0.126g, Lavanga (Syzygium aromaticum Fl. Bd.) 0.128g, Kumkum (Crocus sabvus Sty./Stg.) 0.00759. Preservative-Sodium Benzoate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207900631",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

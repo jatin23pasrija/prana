@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901246007018",
+  "barcode_printed": "8901246007018",
+  "barcode_format": "EAN-13",
+  "name": "demonte ketchup",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Water, Liquid Glucose, Cocoa Powder (8.5%), Malt Extract, Acidity Regulator Pall with a slice of cake. Mkt. By:Del Monte foods Pvt. Ltd., (INS 30), Preservative (INS 202), lodized Sale; Thickener (-2, First Floor Plot No.-16, Udyog Vihar INS 415) and Nature Identical Flavouring Substance. Allergen: Contains Wheat & Barley",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901246007018",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

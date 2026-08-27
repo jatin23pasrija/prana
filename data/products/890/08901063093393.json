@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063093393",
+  "barcode_printed": "8901063093393",
+  "barcode_format": "EAN-13",
+  "name": "Good day cashew cookies",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 508,
+        "protein_g": 6.6,
+        "carbohydrate_g": 67.7,
+        "sugars_g": 67.7,
+        "fat_g": 23.4,
+        "saturated_fat_g": 11.5,
+        "trans_fat_g": 0,
+        "sodium_mg": 227
+      }
+    }
+  ],
+  "ingredients_raw": "NUTRITION INFORMATION Serving Size: 15g (approx, 2 Beguns) No of Servings per pack - About 17 Approx Values per 100 g Energy Protein Carbohydrate of which Total Sugars Added Sugars Total Fat Saturated fatty acids Meno unsaturated fatty acids Poly unsaturated fatty acids Trans fatty acids Cholestorol Sodia 508 kcal 66 g 677 211 208 234 115 g 91 g 24 g 0 g 32 mg 221 m Serve %) ROA 2",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063093393",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

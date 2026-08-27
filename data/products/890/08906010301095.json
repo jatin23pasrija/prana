@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010301095",
+  "barcode_printed": "8906010301095",
+  "barcode_format": "EAN-13",
+  "name": "CHAMPION Gold CREAM BLACKCURRANT FLAVOURED BISCUITS",
+  "brand": "champion-gold",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 396.21,
+        "protein_g": 5.5,
+        "carbohydrate_g": 65.93,
+        "sugars_g": 36.6,
+        "fat_g": 12.28,
+        "saturated_fat_g": 6.45,
+        "trans_fat_g": 0.61,
+        "sodium_mg": 193.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010301095",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

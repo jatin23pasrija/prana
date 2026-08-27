@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08904119606271",
+  "barcode_printed": "8904119606271",
+  "barcode_format": "EAN-13",
+  "name": "Cookie And Cream Ice Cream Sandwich",
+  "brand": "top-n-town",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 269.79,
+        "protein_g": 4.78,
+        "carbohydrate_g": 44.33,
+        "sugars_g": 20.15,
+        "fat_g": 8.15,
+        "saturated_fat_g": 4.89,
+        "sodium_mg": 30.55
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904119606271",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

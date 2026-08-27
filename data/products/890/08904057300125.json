@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904057300125",
+  "barcode_printed": "8904057300125",
+  "barcode_format": "EAN-13",
+  "name": "Arun Chocobar Mini",
+  "brand": "arun",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Inner Layer (69%): Ice cream (Milk Solid Sugar, Water, Liquid Glucose, Emulsifiers (471, 477), Stabilizers (410, 412) & Artificial (Vanilla) Flavoring Substances). Outer Layer (31%): Cocoa Flavored Confectionery (Edible Vegetable Oils (Coconut Oil & Palm Kernel Oil), Sugar, Maltodextrin, Milk Solids, Cocoa Solids, Emulsifier (322) & Artificial (Vanilla) Flavoring Substances).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904057300125",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

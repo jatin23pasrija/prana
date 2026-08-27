@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063136762",
+  "barcode_printed": "8901063136762",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Toastea Milk Rusk",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR (72%), SUGAR, VEGETABLE FAT (CONTAINS ONE OR MORE OF PALM OIL OR SESAME OIL), SWEET CONDENSED MILK & SKIM MILK POWDER (4%), YEAST, BUTTER (MILK) (1.5%), DRY GLUTEN (WHEAT), SALT, FUNGAL ALPHA AMYLASE (ENZYME), MONO AND DIGLYCERIDES OF FATTY ACIDS (PALM) AND SODIUM STEAROYL LACTYLATE (EMULSIFIERS)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063136762",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "04906400744024",
+  "barcode_printed": "4906400744024",
+  "barcode_format": "EAN-13",
+  "name": "Kulfi",
+  "brand": "the-brooklyn-creamery",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 75,
+        "protein_g": 2.5,
+        "carbohydrate_g": 14.9,
+        "sugars_g": 3.1,
+        "fat_g": 3.2,
+        "saturated_fat_g": 1.6,
+        "fibre_g": 2.8,
+        "sodium_mg": 31.7
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Milk Solids, Sweetener (Maltitol), Fructose Oligo Saccharide, Caramel Confectionery, Water, Sweetener (Maltitol), Milk Solids, Fructose Oligo Saccharide, Stabilizers (440), Acidity Regulators (331,500), Pistachio, Cardamom Powder, Stabilizers (410, 412), Emulsifiers (471, 477), CONTAINS PERMITTED NATURAL FOOD COLORS [160(b), 150(c)] AND ADDED ARTIFICIAL FLAVORING SUBSTANCES (KULFI, CONDENSED MILK, ROSE).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4906400744024",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

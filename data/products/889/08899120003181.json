@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08899120003181",
+  "barcode_printed": "8899120003181",
+  "barcode_format": "EAN-13",
+  "name": "Plain Appalam (Size No. 7)",
+  "brand": "madurai-mayil-mark-appalam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 307.98,
+        "protein_g": 17.81,
+        "carbohydrate_g": 58.15,
+        "fat_g": 0.46,
+        "fibre_g": 8.4,
+        "sodium_mg": 24110
+      }
+    }
+  ],
+  "ingredients_raw": "ORID FLOUR, SODIUM BI-CARBONATE SALT, RICE FLOUR EDIBLE OIL, CUMIN SEED.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8899120003181",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

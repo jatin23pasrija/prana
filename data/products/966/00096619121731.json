@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "gtin": "00096619121731",
+  "barcode_printed": "0096619121731",
+  "barcode_format": "EAN-13",
+  "name": "Jelly Belly",
+  "brand": "kirkland-signature",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1814.36948,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "27 pieces 30 g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 110,
+        "protein_g": 0,
+        "carbohydrate_g": 28,
+        "sugars_g": 21,
+        "fat_g": 0,
+        "sodium_mg": 10
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, CORN SYRUP, MODIFIED FOOD STARCH, PEACH PUREE CONCENTRATE 2%, BLACKBERRY PUREE, STRAWBERRY PUREE, BLUEBERRY PUREE, RASPBERRY PUREE, STRAWBERRY JUICE CONCENTRATE, APPLE JUICE CONCENTRATE, BANANA PUREE, PLUM JUICE CONCENTRATE, CHERRY JUICE CONCENTRATE, CHOCOLATE LIQUOR, COCOA BUTTER, SOY LECITHIN (EMULSIFIER), COCONUT, LEMON PURE, ORANGE PUREE, LIME JUICE CONCENTRATE, TANGERINE JUICE CONCENTRATE, WATERMELON JUICE CONCENTRATE, GRAPEFRUIT JUICE CONCENTRATE, PINEAPPLE JUICE CONCENTRATE, CANTALOUPE POWDER, POMEGRANATE JUICE CONCENTRATE, PEAR JUICE CONCENTRATE, KIWI JUICE CONCENTRATE, MANGO PUREE, MANGO JUICE CONCENTRATE, PASSION FRUIT JUICE CONCENTRATE, CITRIC ACID, FUMARIC ACID, LACTIC ACID, MALIC ACID, PHOSPHORIC ACID, ASCORBIC ACID, SODIUM LACTATE, SODIUM CITRATE, COCOA POWDER, NATURAL AND ARTIFICIAL FLAVORS, COFFEE, COLOR, RED 40 LAKE, YELLOW 5 & 6 LAKE, BLUE 1 & 2 LAKE, YELLOW 5 & 6, RED 40, BLUE 1, VEGETABLE AND FRUIT JUICE (COLOR), TAPIOCA DEXTRIN, VANILLA BEANS, BEESWAX, CARNAUBA WAX, CONFECTIONER'S GLAZE, SALT, CAFFEINE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0096619121731",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

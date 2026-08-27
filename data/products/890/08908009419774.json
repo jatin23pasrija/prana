@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009419774",
+  "barcode_printed": "8908009419774",
+  "barcode_format": "EAN-13",
+  "name": "Savoriz",
+  "brand": "bauli",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 52,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 405,
+        "protein_g": 6.4,
+        "carbohydrate_g": 48.1,
+        "sugars_g": 7.8,
+        "fat_g": 20.2,
+        "saturated_fat_g": 9.8,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 514.3
+      }
+    }
+  ],
+  "ingredients_raw": "Puff Roll (~71%) - Refined Wheat Flour (Maida), Water, Partially Hydrogenated Oil, Refined Palm Oil, Sugar, Bakery Mix [Emulsifier (INS 471), Wheat Gluten, Enzymes {Flour Improver - INS 1101(i), 1100(i)}, Antioxidant (INS 300)], Wheat Gluten, Humectant [INS 420 (ii)], Yeast, Milk Solids, Emulsifier [INS471, 477, 472b, 470(I)], Edible Common Salt, Preservative (INS 282), Sourdough Powder, Flavour (Nature identical and Artificial Flavouring substances - Cheese, Butter) Cheesy Jalapeno Pepper Filling (~29% ) [Centre Filling - Refined Soyabean Oil, Water, Sweetener [INS420(i)], Maltodextrin, Humectant (INS 422), Milk Solids, Edible Common Salt, Cheese Powder (2.9%), Jalapeno Pepper(2.5%), Mixed Spices, Acidity Regulator (INS270), Preservatives (INS 211 & INS 202)], Paprika Oleoresin, Flavour (Nature identical and Artificial flavouring substances - Jalapeno)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009419774",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

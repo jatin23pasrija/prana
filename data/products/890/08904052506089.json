@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904052506089",
+  "barcode_printed": "8904052506089",
+  "barcode_format": "EAN-13",
+  "name": "Paneer",
+  "brand": "dinshaw-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 306,
+        "protein_g": 17,
+        "carbohydrate_g": 7.9,
+        "sugars_g": 0,
+        "fat_g": 23,
+        "saturated_fat_g": 15.3,
+        "trans_fat_g": 0.5,
+        "sodium_mg": 60
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904052506089",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

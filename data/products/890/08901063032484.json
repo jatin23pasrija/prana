@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063032484",
+  "barcode_printed": "8901063032484",
+  "barcode_format": "EAN-13",
+  "name": "Britannia treat Croissant Mixed Fruit",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 47,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 404,
+        "protein_g": 5.5,
+        "carbohydrate_g": 59,
+        "sugars_g": 26.2,
+        "fat_g": 16.2,
+        "saturated_fat_g": 8.51,
+        "sodium_mg": 800
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, MARGARINE, REFINED PALM OIL, MIXED FRUIT PUREE (4.5%) (APPLE, BANANA, GUAVA, PINEAPPLE), VITAL GLUTEN, BAKERY IMPROVER MIX {EMULSIFIERS [481(i) & 471], ANTICAKING AGENT [170(i)], FLOUR TREATMENT AGENTS [1100(i) & 1101(i)] & ANTIOXIDANT (300)}, YEAST, MILK SOLIDS, EMULSIFIER (471), STABILIZER (440), IODISED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES, HUMECTANT [420(ii)], PRESERVATIVES (282 & 202), BUTTER (0.14%), ACIDITY REGULATORS (330, 296) AND COLOURS (150d, 129). Numbers in brackets as per International Numbering System) CONTAINS WHEAT GLUTEN AND MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063032484",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

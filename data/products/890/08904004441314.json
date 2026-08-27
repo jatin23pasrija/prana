@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004441314",
+  "barcode_printed": "8904004441314",
+  "barcode_format": "EAN-13",
+  "name": "Mitha magic kaju katli",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 450,
+        "protein_g": 10,
+        "carbohydrate_g": 65,
+        "sugars_g": 42.5,
+        "fat_g": 17.5,
+        "saturated_fat_g": 3.75,
+        "trans_fat_g": 0,
+        "fibre_g": 2.5,
+        "sodium_mg": 38
+      }
+    }
+  ],
+  "ingredients_raw": "Cashew nuts & sugar.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004441314",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

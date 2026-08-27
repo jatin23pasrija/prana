@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "03701367600021",
+  "barcode_printed": "3701367600021",
+  "barcode_format": "EAN-13",
+  "name": "Les Fabuleuses / Boulette d'énergie Pomme-Cannelle",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 284,
+        "protein_g": 4.9,
+        "carbohydrate_g": 48.4,
+        "sugars_g": 38.7,
+        "fat_g": 8.6,
+        "saturated_fat_g": 4,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3701367600021",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

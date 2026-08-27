@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904084100729",
+  "barcode_printed": "8904084100729",
+  "barcode_format": "EAN-13",
+  "name": "Amla Juice 750ML (amla Supplement)",
+  "brand": "vaani-foods",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "ta Juice 100%. Contains Permitted Il Preservatives (E-211, E-202) Rich I Vitamin C 1 Effective For Obesity Flushes Out Toxins Effective For Rejuvenation Tridosha Nashak Brings A Healthy Shine to Skin, Eyes 8 Purifies Blood Increase Vitality, Strength & Vico",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904084100729",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

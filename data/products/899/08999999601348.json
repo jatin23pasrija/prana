@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08999999601348",
+  "barcode_printed": "8999999601348",
+  "barcode_format": "EAN-13",
+  "name": "Royco sapi kecil / rtg",
+  "brand": "unilever",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "​Salt ​Sugar ​Flavor Enhancers (such as Monosodium Glutamate, Disodium Inosinate and Guanylate) ​Dextrin ​Vegetable Fat ​Beef Natural Identical Flavor (sometimes contains egg) ​Onion Powder/Garlic Powder ​Corn Starch ​Anti-Caking Agent (such as Silicon Dioxide) ​White Pepper Powder ​Acidity Regulator Citric Acid ​Celery Powder ​Beef (in small quantities)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8999999601348",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

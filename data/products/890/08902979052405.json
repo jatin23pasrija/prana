@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08902979052405",
+  "barcode_printed": "8902979052405",
+  "barcode_format": "EAN-13",
+  "name": "Cavins butterscotch milkshake",
+  "brand": "cavin-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 109,
+        "protein_g": 3.2,
+        "carbohydrate_g": 15,
+        "sugars_g": 10.6,
+        "fat_g": 4
+      }
+    }
+  ],
+  "ingredients_raw": "Milk (89%) Sugar, Stabilizers (INS 415, INS 412, INS 407), Sequestering Agent (INS 452(i) Edible Common Salt, Cashew Powder (0.05%), and Emulsifier (INS 436). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 1101 AND ADDED FLAVOUR NATURE IDENTICAL AND ARTIFICIAL (BUTTERSCOTCH FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902979052405",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

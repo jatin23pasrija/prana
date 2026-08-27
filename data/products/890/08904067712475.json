@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08904067712475",
+  "barcode_printed": "8904067712475",
+  "barcode_format": "EAN-13",
+  "name": "Jabsons Garlic Mix",
+  "brand": "jabsons",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 190,
+        "protein_g": 3,
+        "carbohydrate_g": 11,
+        "sugars_g": 1,
+        "fat_g": 14,
+        "saturated_fat_g": 5,
+        "sodium_mg": 180
+      }
+    }
+  ],
+  "ingredients_raw": "Bengal Gram Flour (50%), Refined Palmolein Oil, Peanuts (6%), Garlic (1.5%), Iodized Salt, Chilli Powder, Black salt, Dry Mango Powder, Turmeric.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904067712475",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

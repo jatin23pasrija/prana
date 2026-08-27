@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058891430",
+  "barcode_printed": "8901058891430",
+  "barcode_format": "EAN-13",
+  "name": "2-minutes masala noodles",
+  "brand": "nestle-nutrition",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 389,
+        "protein_g": 8.2,
+        "carbohydrate_g": 59.6,
+        "sugars_g": 1.8,
+        "fat_g": 13.5,
+        "saturated_fat_g": 8.2,
+        "fibre_g": 2,
+        "sodium_mg": 411.2
+      }
+    }
+  ],
+  "ingredients_raw": "Instant Noodles with Seasoning* GE KGREDIENTS: loodle Refined Wheat Flour (Maida), Palm Oil, lodized Salt, Wheat Guten, Thio ners (508 & 412), Acidity Regulators (5010) & 500 (1)) and N Humectant (457 (0). Masala &quot;Testemaker:thydrolysed Groundnut Protein, Refined Wheat Flor Maidal, Mixed Spices (13.1%), Sugar, Onion Powder, Starch, Palm Powder, lodised Salt, Thickener (508), Acidity Regulators (330 & Mineral, Flavour Enhancer (635), Colour (150d) and Wheat Gluten. W Comtains Wheat And Nut. ay Contains Milk, Mustard, 0atc And Soy. 18",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058891430",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

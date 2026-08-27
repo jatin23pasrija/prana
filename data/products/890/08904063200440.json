@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200440",
+  "barcode_printed": "8904063200440",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi Tadka",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Kartoffeln (40%), Pflanzenoel (Palomolein), Kichererbsenmehi (10%), Tepary-Bohnenmehi (5%), Staerke (Sago), Speisesalz, Puderzucker, Maltodextrin, Natriumdiacetat, roter Chili, Koriander, Kreuzkuemmel, Mangopulver, Ingwer, Muskatbluete, Muskatnuss, Cayennepfefferoleoresin, Capsanthin (E160c) Dieses Produktenthaeltnatuerliche, naturidentische und kuenstlicheAromastoffe, In indienhergestelittuer er, Vermicelles à base de pomme de terre, et de farine de pois chiche Ingrédients: Pomme de terre (40%), huile vúgétale (oléine de paime), farine de pois chiche (10%), farine de haricot tépary (5%), sasel, sucre, maltodextrine (blé), acidifiant acétate de sodium, boride de piment rouge, poudre de coriandre, poudre de cumin, poudre do nangie, ptre de gingembre, poudre de macis, poudre de muscade, oldorésins de sapsicum, colorant: E160c, Attention: Ce produit contient du blé et de l'arachide, Ce pr éte ermballé dans une usine traitant du blé, des fruits à coques, des graines cis sesame, des graines de moutarde, des produits laitiers, et du blé, Prodult de l'Inde",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200440",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

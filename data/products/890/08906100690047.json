@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906100690047",
+  "barcode_printed": "8906100690047",
+  "barcode_format": "EAN-13",
+  "name": "Seedy Sourdough",
+  "brand": "impossible-foods",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 254.51,
+        "protein_g": 8.29,
+        "carbohydrate_g": 51.58,
+        "sugars_g": 4.46,
+        "fat_g": 1.67,
+        "saturated_fat_g": 0.54,
+        "sodium_mg": 255.74
+      }
+    }
+  ],
+  "ingredients_raw": "50% Organic Stone Ground Whole Wheat (Atta), 50% Organic Wheat Flour Refined (Maida), Sourdough (yeast), Black & White Sesame, Watermelon, Amaranth, Flax, Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906100690047",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

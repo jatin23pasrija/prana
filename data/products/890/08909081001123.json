@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081001123",
+  "barcode_printed": "8909081001123",
+  "barcode_format": "EAN-13",
+  "name": "Bounce Chocho",
+  "brand": "sunfest",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "sugars_g": 32.9,
+        "sodium_mg": 70
+      }
+    }
+  ],
+  "ingredients_raw": "MTL CD-FPB105365 Pkg.Mtrl.Mfd. By Jupiter Laminators Pvt. Ltd. Regn. No. HSPCS Consent 313121821SONCT08497 gredients: Maida (Refined Wheat Flour), Sugar, Refined Palm Oil, Invert Syrup, Liquid Glucose (1.0%), Raising A Emulsifiers (Lecithin (from soyabean), Polyoxyethylene (20) sorbitan monostearate (from palm oil)], Artificial Fla 503) INS 500(ii), INS 450(i)], Colours (INS 150c, INS 150d, INS 122), Starch, Todized Salt, Cocoa Solid Substres (Vanilla, Milk, Chocolate), Flour Treatment Agent (INS 223), Nature Identical Flavouring Substances Con Wheat, Soy, approx. values): Per 100 g (% RDA per serve - 20 g); Energy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081001123",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

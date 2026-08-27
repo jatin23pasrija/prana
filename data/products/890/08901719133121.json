@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719133121",
+  "barcode_printed": "8901719133121",
+  "barcode_format": "EAN-13",
+  "name": "Hide & Seek Black Bourbon",
+  "brand": "parle-platina",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SUGAR, REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, COCOA SOLIDS (3.4%), INVERT SUGAR SYRUP, IODISED SALT, RAISING AGENTS (503(ii), 500(ii)) AND EMULSIFIER OF VEGETABLE ORIGIN [SOY LECITHIN]. CONTAINS PERMITTED NATURAL FOOD COLOURS (150c, 150a) AND ADDED FLAVOURS (NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES - CHOCOLATE, VANILLA). *INCLUDING 2% AS SPRINKLED SUGAR",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719133121",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

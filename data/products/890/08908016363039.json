@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016363039",
+  "barcode_printed": "8908016363039",
+  "barcode_format": "EAN-13",
+  "name": "multivitamin gummies",
+  "brand": "what-s-up-wellness",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 11.5,
+        "energy_kj": 48,
+        "protein_g": 0.03,
+        "carbohydrate_g": 2.62,
+        "sugars_g": 0.99,
+        "fat_g": 0.05,
+        "saturated_fat_g": 0.01,
+        "sodium_mg": 3.75
+      }
+    }
+  ],
+  "ingredients_raw": "Docosahexaenoic acid(DHA), Vitamin C Choline, Vitamin E. Inositol, Zinc, Vitamin B6. Vitamin B5. Folate, Vitamin A, lodine, Vitamin D3, Biotin, Vitamin K2 Vitamin B12, Sucrose, Glucose, Stabilizer, Binding Agent (INS 440), Anti-oxidant (INS 330). Acidity regulator (INS 331(W)) CONTAINS NATURAL FLAVOURING(ORANGE) SUBSTANCES AND NATURAL COLOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016363039",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

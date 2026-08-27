@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906013032187",
+  "barcode_printed": "8906013032187",
+  "barcode_format": "EAN-13",
+  "name": "WAI WAI",
+  "brand": "waiwai",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 469,
+        "protein_g": 9,
+        "carbohydrate_g": 61,
+        "sugars_g": 1.5,
+        "fat_g": 21,
+        "saturated_fat_g": 9.5,
+        "fibre_g": 0,
+        "sodium_mg": 500
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles: Refined WHEAT Flour (Maida), Edible Vegetable Oil (Palm), lodised Salt, WHEAT Gluten, Flavour Enhancers (INS 621, INS 627, INS 631), SOY Sauce [Caramel (INS 150d)], Acidity Regulators (INS 170i, INS 451i, INS 500ii), Thickener (INS 412), Black Pepper, Onion and Artificial Chicken Flavour [Caramel (INS 150d), Water, Starch, Flavor Enhancers (INS 627, INS 631), Dextrose, Emulsifier (INS 414)]. Seasoning: lodised Salt, Garlic, Maltodextrin (INS 1400), Onion, White Pepper, Flavour Enhancers (INS 621, INS 627, INS 631), Chives, Sugar, Black Pepper, Sugar. Onion Flavoured Oil: Edible Vegetable oil (Palm Olein) & Onion. Chilli Powder (in a Separate Sachet). CONTAINS PERMITTED NATURAL COLOR (INS 150d) AND ADDED FLAVOUR [Artificial flavouri substances (Chicken)) Contains Wheat and Soy. This Product was processed on machinery and in a plant that o processes Mustard and Milk (dairy products).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906013032187",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

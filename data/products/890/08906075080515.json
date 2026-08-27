@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08906075080515",
+  "barcode_printed": "8906075080515",
+  "barcode_format": "EAN-13",
+  "name": "Khari - With Pure Ghee",
+  "brand": "agree-bakers",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 569.2,
+        "protein_g": 6.1,
+        "carbohydrate_g": 42.3,
+        "sugars_g": 0.16,
+        "fat_g": 39.7
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906075080515",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

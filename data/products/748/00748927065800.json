@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "00748927065800",
+  "barcode_printed": "0748927065800",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein Vanilla Icecream",
+  "brand": "on",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 scoop (31 g)",
+        "quantity": {
+          "value": 31,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 121,
+        "protein_g": 24,
+        "carbohydrate_g": 4,
+        "sugars_g": 3,
+        "fat_g": 1,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0,
+        "sodium_mg": 100
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0748927065800",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

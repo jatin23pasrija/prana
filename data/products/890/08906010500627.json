@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500627",
+  "barcode_printed": "8906010500627",
+  "barcode_format": "EAN-13",
+  "name": "Chataka Pataka Tangy Tomato",
+  "brand": "balaji",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Rice meal (42%), edible vegetable oil (palmolein, rice bran), corn meal (13%), chickpea flour, sugar, edible common salt, dehydrated vegetable powder (tomato (0.8%), onion, garlic), chilli powder, anticaking agent (ins 551), emulsifier (ins 414), flavour enhancer (ins 627, ins 631), natural & nature identical flavouring substances (tomato).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500627",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

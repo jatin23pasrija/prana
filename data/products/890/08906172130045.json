@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906172130045",
+  "barcode_printed": "8906172130045",
+  "barcode_format": "EAN-13",
+  "name": "Yellow Curry Paste",
+  "brand": "thai-kitchen",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 145,
+        "protein_g": 3.3,
+        "carbohydrate_g": 15.7,
+        "sugars_g": 5.7,
+        "fat_g": 7.7,
+        "saturated_fat_g": 0.9,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 4103.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906172130045",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

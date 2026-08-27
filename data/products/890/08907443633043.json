@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08907443633043",
+  "barcode_printed": "8907443633043",
+  "barcode_format": "EAN-13",
+  "name": "Toms Chokoladebar m. karamel",
+  "brand": "toms",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sukker/socker, glukosesirup/-sirap, kakaosmør/-smör, helt hærdet/herdnet/härdat vegetabilsk fedt/fett i fyldning/fyllning, (palmekerne/- kjerne/palmkärna), sødmælks-/helmelk-/sötmjölkspulver, kondenseret mælk/melk/kondensmjölk, vegetabilsk fedt/fett i fyldning/fyllning (palmeolie-/olje/-olja, shea-kerneolie/-kjerneolje/-kärnolja), kakaomasse, sirup/sirap, fedtreduceret/fettredusert/fettreducerat kakaopulver, maltsirup fra byg/korn (gluten), pasteuriseret æggehvide/eggehvite/pastöriserad äggvita,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907443633043",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

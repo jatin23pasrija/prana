@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002006472",
+  "barcode_printed": "8906002006472",
+  "barcode_format": "EAN-13",
+  "name": "Sandwich Spread Veg. Cucumber & Carrot",
+  "brand": "dr-oetker-funfoods",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 405.5,
+        "protein_g": 0.8,
+        "carbohydrate_g": 20.5,
+        "sugars_g": 18.3,
+        "fat_g": 35.6,
+        "saturated_fat_g": 6.1,
+        "sodium_mg": 1017
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Soyabean Oil, Vegetables (30%) [Cucumber (13%), Carrot (9%), Tomatoes (8%)], Water, Sugar Liquid Glucose, Spices & Condiments, lodised Salt, Emulsifiers & Stabilizers (INS1442, INS415), Milk Solids, Cheese Powder, Maltodextrin, Lemon Juice, Acidity Regulators (INS330 INS260), Preservatives (INS211, INS202). CONTAINS MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002006472",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

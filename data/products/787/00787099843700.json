@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "00787099843700",
+  "barcode_printed": "0787099843700",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy Granola Bar",
+  "brand": "wingreens-harvest",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "40 g",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 188.4,
+        "protein_g": 3.3,
+        "carbohydrate_g": 27.2,
+        "sugars_g": 7.8,
+        "fat_g": 7.4,
+        "saturated_fat_g": 2
+      }
+    }
+  ],
+  "ingredients_raw": "Rolled Oats 50%, Cane Sugar, Sunflower Oil, Dietary Fiber, Choco Chip 8%, Mixed Millet Flour 5%, Coffee Extract 0.7%, Salt, Soy Lecithin, Baking Soda and Natural Mixed Tocopherol",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0787099843700",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

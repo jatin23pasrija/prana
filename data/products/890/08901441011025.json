@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08901441011025",
+  "barcode_printed": "8901441011025",
+  "barcode_format": "EAN-13",
+  "name": "Lijjat udad papad",
+  "brand": "lijjat",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 321.51,
+        "protein_g": 22.46,
+        "carbohydrate_g": 57.58,
+        "sugars_g": 2.05,
+        "fat_g": 0.15,
+        "sodium_mg": 1506.29
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901441011025",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

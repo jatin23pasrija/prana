@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004400083",
+  "barcode_printed": "8904004400083",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's Bhujia sev",
+  "brand": "haldiram-s",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Tepary Beans (Moth Dal) Flour, Refined Cotton Seed Oil, Bengal Gram Flour (Besan), Edible Common Salt, Red Chilli Powder, Clove Powder, Black Pepper, Coriander Seed, Dried Ginger Powder, Cardamom, Bay Leaves, Nutmeg & Cinnamon. Allergen: May Contains Almond, Cashew, Wheat, Milk, Soy, Mustard Seed, Peanut & Sesame Seed.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004400083",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

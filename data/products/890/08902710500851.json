@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902710500851",
+  "barcode_printed": "8902710500851",
+  "barcode_format": "EAN-13",
+  "name": "No Added Sugar Muesli",
+  "brand": "bagrrys",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Multigrain 85.2% (Whole Rolled Oats (57.2%), No Added Sugar Whote Wheat Flakes 28% (Wheat, lodised Sait, Cereal tract, Antioxidants (INS 322(i) & INS 307b))), Sweetener (INS 965-Maltitol), Almonds (2%), Black Currant (2%), Raisirs (2%), Pumpkin Seeds (1%). Flavour (Natural & Nature Identical Flavouring Substances), Lemon Power, Antioxidant (INS 307b). POLYOLS MAY HAVE LAXATIVE EFFECT Jion A PVT. LTD. 8144N-22 PKG. MATERIAL M REGN. NO. PR-66-1",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902710500851",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

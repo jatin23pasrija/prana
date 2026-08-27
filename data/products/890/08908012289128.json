@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908012289128",
+  "barcode_printed": "8908012289128",
+  "barcode_format": "EAN-13",
+  "name": "Naturamore French Vanilla flavour",
+  "brand": "naturamore",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "is Serving Size 1 scoop (10g) I Servings Per Container 35 Amt. Per Serving (10g) Daly V Thy V Vitamin B5 0.6mg 12 Vitamin B6 0.2mg 10 2 7 Folic Acid 110mcg 56 Vitamin B12 0.4 mcg 40 67 D-Biotin 20 mcg 24 5 mg 110mg Iron 17 Calcium 2 1 5 mg Magnesium Manganese Сopper Selenium 0.3 mg 1 26 20 mcg 2 mcg 15 18 26 Zinc 1.5 mg 22 mg Potassium Sodium 30 mg Phosphorus Omega 3 DHA 50 mg 5.4mg ws you how much a nutrient in a serving of food contribules a avice water Str er v lo ramove lumps before consum MR.P71400/- (Incl, of all taxes)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908012289128",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

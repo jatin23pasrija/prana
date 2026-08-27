@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904272600895",
+  "barcode_printed": "8904272600895",
+  "barcode_format": "EAN-13",
+  "name": "Storia Pomegranate 750ml",
+  "brand": "storia",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Fruit Juice [Apple Concentrate 12% & Pomegranate Juice Concentrate 4%), Salt, Acidity Regulators [INS331(iii), INS330), Stevia INS960] and Antioxidant [INS300]. *Equivalent to 100% Fruit Juice (Reconstituted) CONTAINS ADDED NATURE IDENTICAL FLAVOURING SUBSTANCES (POMEGRANATE)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904272600895",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

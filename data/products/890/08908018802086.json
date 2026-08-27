@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08908018802086",
+  "barcode_printed": "8908018802086",
+  "barcode_format": "EAN-13",
+  "name": "Malaysian Curry Instant Noodles",
+  "brand": "sakaza",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 440.6,
+        "protein_g": 8.75,
+        "carbohydrate_g": 63.84,
+        "sugars_g": 1.84,
+        "fat_g": 16.69,
+        "saturated_fat_g": 6.97,
+        "sodium_mg": 2586.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908018802086",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

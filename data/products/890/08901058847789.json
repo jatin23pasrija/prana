@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058847789",
+  "barcode_printed": "8901058847789",
+  "barcode_format": "EAN-13",
+  "name": "Nestle Resource High Protein",
+  "brand": "nestle",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 372,
+        "energy_kj": 372,
+        "protein_g": 45,
+        "carbohydrate_g": 41.7,
+        "sugars_g": 0.1,
+        "fat_g": 2.8,
+        "saturated_fat_g": 0,
+        "fibre_g": 5,
+        "sodium_mg": 210
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Concentrate(45%), Skimmed Milk Powder,(40%), Maltodextrin, Inulin",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058847789",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058847505",
+  "barcode_printed": "8901058847505",
+  "barcode_format": "EAN-13",
+  "name": "Masala penne pasta",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 65,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 341,
+        "energy_kj": 341,
+        "protein_g": 11.6,
+        "carbohydrate_g": 68.3,
+        "sugars_g": 2.6,
+        "fat_g": 2.4,
+        "saturated_fat_g": 1.2,
+        "fibre_g": 4.3,
+        "sodium_mg": 1246.1
+      }
+    }
+  ],
+  "ingredients_raw": "Macaroni (Pasta) - Semolina (100% from Wheat). Masala Tastemaker – _Milk_Solids_, Mixed Spices (21.4%) (Onion Powder, Coriander (20.7% of Mixed Spices), Garlic, Turmeric, Chilli, Cumin, Aniseed, Black Pepper, Fenugreek, Ginger, Paprika, Clove, Nutmeg and Green Cardamom), Hydrolysed Groundnut Protein, Sugar, Noodle Powder (Wheat Flour, Edible Vegetable Oil, Salt, Wheat Gluten, Mineral (Calcium Carbonate, Guar Gum), Green Peas (6.6%), Salt, Tapioca Starch, Edible Vegetable Oil, Mineral (Potassium Chloride), Flavour Enhancer (635), Acidifying Agent (330), _Soyabean_ and _Mustard_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058847505",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

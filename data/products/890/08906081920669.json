@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081920669",
+  "barcode_printed": "8906081920669",
+  "barcode_format": "EAN-13",
+  "name": "Carbamide Forte Vitamin D3+K2",
+  "brand": "carbamide-forte",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Vitamin K2 as MK-7 (Menaquinone-7). Vitamin D3 from Lichen (as Cholecalciferol), Stabilizer (INS 1404 & INS 1201), Firming Agent (INS 341 (ii)), Anticaking Agent [INS 460 (i) & INS 551], Thickener (INS 464), Emulsier (INS 466(ii)), Antifoaming Agent (INS 1521) & Preservative (INS 202). CONTAINS PERMITTED FOOD COLOUR (INS 172 (i)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081920669",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

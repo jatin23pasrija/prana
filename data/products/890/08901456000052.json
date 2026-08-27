@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08901456000052",
+  "barcode_printed": "8901456000052",
+  "barcode_format": "EAN-13",
+  "name": "Nachni Khakhra Ragi / Finger Millet Roasted Crispies, Nachni Khakhra",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 100,
+        "energy_kj": 419,
+        "protein_g": 2,
+        "carbohydrate_g": 13,
+        "sugars_g": 2,
+        "fat_g": 4,
+        "saturated_fat_g": 2,
+        "fibre_g": 3,
+        "sodium_mg": 220
+      }
+    }
+  ],
+  "ingredients_raw": "Nachni Flour, Wheat Flour, Sesame Seeds, Refined Vegetable Oil (Palmolein), Iodized Salt, Water",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901456000052",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

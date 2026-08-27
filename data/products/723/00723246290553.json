@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00723246290553",
+  "barcode_printed": "0723246290553",
+  "barcode_format": "EAN-13",
+  "name": "Dry Kachori",
+  "brand": "garvi-gujarat",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR, CHICKPEA FLOUR, REFINED PALMOLEIN OIL, SUGAR, GREEN CHILIES, GREEN GRAM PULSES SPICES, IODIZED SALT, SESAME SEEDS, MALIC ACID, BAKING POWDER (SODIUM ALUMINUM SULFATE, BAKING SODA).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0723246290553",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

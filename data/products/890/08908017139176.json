@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017139176",
+  "barcode_printed": "8908017139176",
+  "barcode_format": "EAN-13",
+  "name": "Nutrela",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 355.19,
+        "protein_g": 21.92,
+        "carbohydrate_g": 63.9,
+        "sugars_g": 0,
+        "fat_g": 1.31,
+        "saturated_fat_g": 0.31,
+        "fibre_g": 10.02,
+        "sodium_mg": 6800
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017139176",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

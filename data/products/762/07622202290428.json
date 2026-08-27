@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202290428",
+  "barcode_printed": "7622202290428",
+  "barcode_format": "EAN-13",
+  "name": "Dairy Milk Silk Roast Almond",
+  "brand": "cadbary",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 560,
+        "protein_g": 9.7,
+        "carbohydrate_g": 52.7,
+        "sugars_g": 46.7,
+        "fat_g": 35.2,
+        "saturated_fat_g": 19.1,
+        "sodium_mg": 1000
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Milk Solids (21%*), Almonds (16%*), Cocoa Butter, Cocoa Solids, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances). Allergen Information: Contains Milk and Almond. May Contain Wheat, Barley, Soy and Other Tree Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202290428",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

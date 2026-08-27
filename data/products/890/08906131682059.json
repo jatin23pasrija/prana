@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131682059",
+  "barcode_printed": "8906131682059",
+  "barcode_format": "EAN-13",
+  "name": "sorghum puff",
+  "brand": "slurrp-farm",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 440.8,
+        "protein_g": 5.9,
+        "carbohydrate_g": 63.4,
+        "sugars_g": 6.9,
+        "fat_g": 18.3,
+        "saturated_fat_g": 3.5,
+        "fibre_g": 3.9,
+        "sodium_mg": 770.5
+      }
+    }
+  ],
+  "ingredients_raw": "Ingredients Puff (90%) (millets (38%) (jowar, foxtail millet), corn (21%), rice (15%), rice bran oil (16%), antioxidant (rosemary) [INS 392]), seasoning (10%) (amchur, cumin, dried pomegranate seeds, garam masala, black pepper, chilli, desi khand, iodised salt, fructose, black salt, acidity regulator (citric acid) (INS 330), natural colors). Allergen Note: Made in a facility that processes wheat. May contain trace elements. Salety Advice: When feeding a child, please ensure they are sitting down and are supervised to reduce the risk of choking.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131682059",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

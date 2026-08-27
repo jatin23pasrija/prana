@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552007122",
+  "barcode_printed": "8901552007122",
+  "barcode_format": "EAN-13",
+  "name": "Paneer Makhani",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 167.71,
+        "protein_g": 4.93,
+        "carbohydrate_g": 9.43,
+        "sugars_g": 0.43,
+        "fat_g": 12.79,
+        "saturated_fat_g": 3.5,
+        "sodium_mg": 405.93
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Paneer (Milk or Milk Solids, Citric Acid, Salt) (13.2%), Tomato, Onion, Cream (Milk), (5.9%), Ginger, Sunflower Oil, Cashew nut, Garlic, Melon Seeds, Chilli Powder, Salt, Sugar, Green Chilli, Bay Leaf, Cloves, Black Pepper, Black Cardamom, Cinnamon, Dried Fenugreek Leaves, Green Cardamom.Mango Powder. المکونات: ماء، بانير )حليب أو حليب المواد الصلبة، حامض الستريك، ملح( )%۱۳.۲(، طماطم، بصل، کريم )حليب( )5.۹%(، زنجبيل، زيت دوار الشمس، كاجو، ثوم، بذور الشمام، مسحوق الفلفل، ملح، سکر، فلفل أخضر، ورقة الغار، قرنفل، فلفل أسود، هيل أسود، قرفة، أوراق الحلبة المجف فة، هيل أخضر. Processed in a facility that also processes tree nuts, peanuts, soya, mustard and sesame. معالجة في منشأة تعالج أيضا الجوز،الفول السودائي، فول الصويا، الخردل والسمسم.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552007122",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

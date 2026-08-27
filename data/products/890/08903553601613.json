@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08903553601613",
+  "barcode_printed": "8903553601613",
+  "barcode_format": "EAN-13",
+  "name": "Pickel",
+  "brand": "ram-bandhu",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 200,
+        "energy_kj": 837,
+        "protein_g": 3.39,
+        "carbohydrate_g": 21.3,
+        "sugars_g": 3.26,
+        "fat_g": 11.3,
+        "saturated_fat_g": 3.19,
+        "sodium_mg": 4358.86
+      }
+    }
+  ],
+  "ingredients_raw": "Green mangoes, edible common salt, edible rice bran oil, mustard chilli powder, fenugreek , turmeric powder, acidity regulator, compounded Asafoetida, preservative",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903553601613",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906112660540",
+  "barcode_printed": "8906112660540",
+  "barcode_format": "EAN-13",
+  "name": "Antioxydant mix",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 595.5,
+        "protein_g": 29.1,
+        "carbohydrate_g": 20.7,
+        "sugars_g": 0,
+        "fat_g": 44,
+        "saturated_fat_g": 12.4,
+        "fibre_g": 13.86
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906112660540",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

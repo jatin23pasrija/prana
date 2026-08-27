@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117091240",
+  "barcode_printed": "8906117091240",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Butter Shortcuts",
+  "brand": "brb",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "25gm",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 128.7,
+        "energy_kj": 0,
+        "protein_g": 4.4,
+        "carbohydrate_g": 12.7,
+        "sugars_g": 4,
+        "fat_g": 6.7,
+        "saturated_fat_g": 1.3,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Peanut Butter (46%), Refined Wheat Flour, Jaggery, Cocoa Solids, Milk Solids, Milk Protein Concentrate, Refined Coconut Oil, Soy Lecithin (E322), Salt, Baking Soda, Butter*, Vanilla & Chocolate Extract*. ALLERGEN INFO: Contains Peanuts, Wheat, Milk and Soy. Fat 12.7g, Fium",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117091240",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

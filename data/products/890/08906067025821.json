@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906067025821",
+  "barcode_printed": "8906067025821",
+  "barcode_format": "EAN-13",
+  "name": "Fish Oil",
+  "brand": "muscleblaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1.35 g",
+        "quantity": {
+          "value": 1.35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 10.3,
+        "protein_g": 0.05,
+        "carbohydrate_g": 0.22,
+        "sugars_g": 0,
+        "fat_g": 1,
+        "saturated_fat_g": 0.2,
+        "trans_fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Fish Oil, Capsule Shell Ingredient in Solvent (Purified Water), Humectants (INS 422&INS 420 (ii)], Preservatives (INS 218&INS 216), Artificial (Ethyl Vanillin) Flavouring Substance & Antioxidant (INS 307).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906067025821",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

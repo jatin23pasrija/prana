@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002482054",
+  "barcode_printed": "8906002482054",
+  "barcode_format": "EAN-13",
+  "name": "Snikers value pack of 3 45g each",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 487,
+        "protein_g": 9.3,
+        "carbohydrate_g": 57.7,
+        "sugars_g": 49.5,
+        "fat_g": 25.4,
+        "saturated_fat_g": 10,
+        "sodium_mg": 222
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002482054",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

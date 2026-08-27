@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901233024219",
+  "barcode_printed": "8901233024219",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury Dairy Milk with Oreo",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 49,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "20g",
+        "quantity": {
+          "value": 20,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 111,
+        "protein_g": 1.2,
+        "carbohydrate_g": 11.3,
+        "sugars_g": 9.7,
+        "fat_g": 7,
+        "saturated_fat_g": 4,
+        "sodium_mg": 41.66
+      }
+    }
+  ],
+  "ingredients_raw": "MILK CHOCOLATE (53%) [SUGAR, HILK SOLIDS (13%), COCBA BUTTER, CO MASS (6%), EMULSIFIERS (AMMONIUM PHOSPHATIDES (INS442), PEAR (INS476) NATURE IDENTICAL ESSENCE FLAVOUR, ARTIFICIAL VANILLA FLAVOUR, NATUURAL AND ARTIFICAL MIXED OIL FLAVOUR]: VANILLA FLAVOURED CREAM FILLING (35%)(NON-HYDROGENATED PLA OIL, SUGAR, MILK SOLIDS, EMULSIFIER (AMMONIUM PHOSPHATIDES (INS442) ART VANILLA FLAVOUR); COOKIE PIECES (14%) [WHEAT FLOUR, SUGAR, NON-HYDROGENATED H OLEIN, COCOA POWDER, RAISING AGENTS (SODIUM BICARBONATE (INS500(H)), AM BICARBONATE (INS503())), SALT, EMULSIFIER (SOYA LECITHIN (INS322 IDENTICAL VANILLIN FLAVOUR]. FOOD ADDITIVES ARE OF PLANT AND SYNTHETIC ALLERGEN INFORMATION: CONTAINS MILK, WHEAT, SOYA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901233024219",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

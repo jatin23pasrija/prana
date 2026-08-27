@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901161105127",
+  "barcode_printed": "8901161105127",
+  "barcode_format": "EAN-13",
+  "name": "Arròs Basmati Qilla Premium",
+  "brand": "qilla-premium",
+  "category": "rice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "BASMATI Amount Per Scrving Calories from fat O 'Percent Daily Value % Dally value • based on a 2,030 calot ? d,et. Your daily value De nigher or Icwer deve,ndr: Totai Carbohydrate 35g 6% Thiamine 13 % Niacin &gt;ENEIICAI I Y MoolFlED",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901161105127",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

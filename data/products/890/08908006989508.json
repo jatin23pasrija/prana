@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08908006989508",
+  "barcode_printed": "8908006989508",
+  "barcode_format": "EAN-13",
+  "name": "Peanut butter chikki",
+  "brand": "nutritius",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 26,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 516,
+        "protein_g": 26,
+        "carbohydrate_g": 47,
+        "fat_g": 25,
+        "fibre_g": 6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908006989508",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

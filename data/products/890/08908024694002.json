@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908024694002",
+  "barcode_printed": "8908024694002",
+  "barcode_format": "EAN-13",
+  "name": "Strawberry, greek yoghurt",
+  "brand": "athena",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk & Milk solids, Strawberry fruit preparation-12% (Water, Strawberry fruit, Apple Juice Concentrate, Natural & Nature Identical Flavoring Substance (Strawberry), Stabilizer (INS 440), Natural Food Color (INS 163 vi), Acidity Regulator (INS 330), Steviol Glycosides (INS 960a)], Permitted Lactic Acid Culture Active Lactic Acid Culture: Lbacillus delbrueckii subsp. Bulgaricus, S.thermophilus Allergens Contains Milk Nutrit Serve Si Amt. Per 10 Energy 91 Protein 10 Carbohydr Natural S Added S Total Fat 3. Saturated Trans Fa Cholester Sodium 38. Calcium 20 &quot;Approximate Va for adult men. (F",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908024694002",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

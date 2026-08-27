@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08886451008619",
+  "barcode_printed": "8886451008619",
+  "barcode_format": "EAN-13",
+  "name": "Similac Plus",
+  "brand": "abbott",
+  "category": "baby-food",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 461,
+        "protein_g": 14.7,
+        "carbohydrate_g": 59.45,
+        "sugars_g": 41,
+        "fat_g": 18,
+        "saturated_fat_g": 12.5
+      }
+    }
+  ],
+  "ingredients_raw": "Lactose, nonfat dry milk, edible vegetable oils (coconut oil, high oleic sunflower oil, medium chain triglycerides oil, low erucic rapeseed oil, soy oil), corn syrup solids, whey protein concentrate, fructo-oligosaccharides (FOS) (1.6%), MINERALS, arachidonic acid (AA) from M. alpina oil, emulsifier (soy lecithin), 2'-fucosyllactose (2¹-FL) (human milk oligosaccharide) (0.17%), choline bitartrate, docosahexaenoic acid (DHA) from Schizochytrium oil, VITAMINS, nucleotides, taurine, antioxidant (mixed tocopherols), lutein.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8886451008619",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

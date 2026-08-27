@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013172269",
+  "barcode_printed": "8908013172269",
+  "barcode_format": "EAN-13",
+  "name": "Strawberries & Cream Protein Milk Shake",
+  "brand": "phab",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "200 ml",
+        "quantity": {
+          "value": 200,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 139,
+        "protein_g": 18,
+        "carbohydrate_g": 9,
+        "sugars_g": 1.8,
+        "fat_g": 4,
+        "saturated_fat_g": 0.7,
+        "fibre_g": 2.5,
+        "sodium_mg": 150
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013172269",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

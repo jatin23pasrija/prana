@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08939118470820",
+  "barcode_printed": "8939118470820",
+  "barcode_format": "EAN-13",
+  "name": "Vitamin D3+K2 MK-7 Form",
+  "brand": "naturaltein",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Maize Starch, Di-calcium Phosphate, PVPK, Purified Talc, Magnesium Stearate, Mint Powder, Vitamin D3 (Lichen Source), Vitamin K2-MK7",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939118470820",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

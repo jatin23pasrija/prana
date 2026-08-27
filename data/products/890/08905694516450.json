@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08905694516450",
+  "barcode_printed": "8905694516450",
+  "barcode_format": "EAN-13",
+  "name": "Peanut butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 340,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 205,
+        "protein_g": 8,
+        "carbohydrate_g": 7,
+        "sugars_g": 3,
+        "fat_g": 16,
+        "saturated_fat_g": 3,
+        "fibre_g": 2,
+        "sodium_mg": 120
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905694516450",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

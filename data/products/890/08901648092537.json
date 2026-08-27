@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "08901648092537",
+  "barcode_printed": "8901648092537",
+  "barcode_format": "EAN-13",
+  "name": "cold coffee",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 41.11,
+        "protein_g": 1.89,
+        "carbohydrate_g": 6.33,
+        "sugars_g": 6.33,
+        "fat_g": 0.94,
+        "saturated_fat_g": 0.67
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901648092537",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

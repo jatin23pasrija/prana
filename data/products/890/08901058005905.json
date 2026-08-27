@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058005905",
+  "barcode_printed": "8901058005905",
+  "barcode_format": "EAN-13",
+  "name": "KitKat Dark Chocolate Coated Wafer",
+  "brand": "nestle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 390,
+        "protein_g": 3.9,
+        "carbohydrate_g": 45.5,
+        "sugars_g": 37.7,
+        "fat_g": 22.5,
+        "saturated_fat_g": 22.2,
+        "trans_fat_g": 0.04,
+        "fibre_g": 3.8,
+        "sodium_mg": 9.72
+      }
+    }
+  ],
+  "ingredients_raw": "Dark Chocolate (76.2%) (Sugar, Cocoa solids (28.2%), Cocoa butter (8%), Emulsifier (Soya lecithin), Nature-Identical Flavouring Substance and lodised salt) and Wafer (Sugar, Hydrogenated vegetable fats, Refined Wheat flour (Maida), Cocoa solids (1.2%), Milk solids, Fractionated vegetable fat, Raising agent (500(ii)), Yeast, Emulsifier (Soya lecithin), lodised salt, Flour treatment agent (516), Artificial (Vanilla) flavouring substance and Nature-Identical flavouring substance). Contains Wheat, Milk, Sesame and Soy. May contains Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058005905",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

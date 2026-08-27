@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901689010019",
+  "barcode_printed": "8901689010019",
+  "barcode_format": "EAN-13",
+  "name": "MIXED FRUIT Jam",
+  "brand": "mala-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Mix fruit Pulp (45%) (Apple, Banana, Orange, Papaya, Chikku, Strawberry), Thickener (INS 440), Acidity Regulator (INS 330 & INS 331(i)). CONTAINS PERMITTED NATURAL, NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES (PINEAPPLE, RASPBERRY, BLACKCURRANT). CONTAINS PERMITTED NATURAL FOOD COLOUR (INS 150(d)) & SYNTHETIC FOOD COLOUR (INS 122). CONTAINS PERMITTED CLASS II PRESERVATIVE (INS 202, INS 211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901689010019",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

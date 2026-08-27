@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "00000089000717",
+  "barcode_printed": "89000717",
+  "barcode_format": "EAN-8",
+  "name": "Maggi rich tomato sauce",
+  "brand": "maggi",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 137,
+        "protein_g": 0.8,
+        "carbohydrate_g": 33.4,
+        "sugars_g": 30.4,
+        "saturated_fat_g": 0,
+        "fibre_g": 1.4
+      }
+    }
+  ],
+  "ingredients_raw": "water,sugar,tomato paste,salt,acidity regulator,thickening agents",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89000717",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

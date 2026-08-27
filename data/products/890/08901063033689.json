@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063033689",
+  "barcode_printed": "8901063033689",
+  "barcode_format": "EAN-13",
+  "name": "Britaninia Treat Choco Creme Biscuits",
+  "brand": "britaninia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 51,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 498,
+        "protein_g": 5.3,
+        "carbohydrate_g": 71.5,
+        "sugars_g": 37.2,
+        "fat_g": 21.2,
+        "saturated_fat_g": 10.3,
+        "sodium_mg": 402
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INTERESTERIFIED VEGETARITZAT, COCOA SOLIDS (3.8%), INVERT SUGAR SYRUP, MILK CHOCOLATE (2%) [EMULSIFIER 3220 EDIBLE MAIZE STARCH, RAISING AGENTS [500(ii) & 503(ii), IODIZED SALT, MILK SOLIDS, ARTIFICIAL VANILLA, CARAMEL & MILKY COCOA) & NATURE IDENTICAL FLAVOURING SUBSTANCES EMULSIFIER [322(1) AND COLOURS (150d, 124&133) Numbers to brackets as per International Numbering System) CONTAINS WHEAT, MILK & SOY WORE IN A COOL, HYGIENIC ANU DIT ACLEAN AIRTIGHT CONTAINER ONCE OPENED. GEANCEER CONTENTS TO Marketed By: BRITANIA INDUSTRIES LTD., S/TAHUNGE STREET, KOLKATA-700017, WEST BENGAL (A WADIA Enterprise) We For Min unit address & Lic. No read the last two characters of the IOT and can anel SL-06",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063033689",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

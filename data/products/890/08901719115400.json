@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719115400",
+  "barcode_printed": "8901719115400",
+  "barcode_format": "EAN-13",
+  "name": "Milano",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 518,
+        "protein_g": 3.2,
+        "carbohydrate_g": 67,
+        "sugars_g": 31.5,
+        "fat_g": 25.8,
+        "saturated_fat_g": 0,
+        "sodium_mg": 192
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), CHOCOLATE (26 %) [SUGAR, COCOA SOLIDS, COCOA BUTTER, DEXTROSE, EMULSIFIER OF VEGETABLE ORIGIN (SOYA LECITHINI AND ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA], REFINED PALM OIL, SUGAR, INVERT SUGAR SYRUP, LIQUID GLUCOSE, BUTTER, RAISING AGENTS (503 500 . MILK SOLIDS, COCOA SOLIDS (0.7 %), 10DISED SALT AND EMULSIFIER OF VEGETABLE ORIGIN [DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROLI. CONTAINS ADDED FLAVOURS ( ARTIFICIAL FLAVOURING SUBSTANCES - CHOCOLATE AND VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719115400",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

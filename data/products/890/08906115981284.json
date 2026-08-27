@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906115981284",
+  "barcode_printed": "8906115981284",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Flax Seeds",
+  "brand": "himalayan-natives",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 569,
+        "protein_g": 21.55,
+        "carbohydrate_g": 29.35,
+        "sugars_g": 0,
+        "fat_g": 40.6,
+        "saturated_fat_g": 4.89,
+        "fibre_g": 25.22,
+        "sodium_mg": 80
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906115981284",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

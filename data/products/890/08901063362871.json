@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063362871",
+  "barcode_printed": "8901063362871",
+  "barcode_format": "EAN-13",
+  "name": "cake nut & raisin",
+  "brand": "britannia",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 410,
+        "protein_g": 6,
+        "carbohydrate_g": 56,
+        "sugars_g": 32.5,
+        "fat_g": 18,
+        "saturated_fat_g": 8,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), EGGS, SUGAR, EDIBLE HYDROGENATED VEGETABLE OIL & PALM LEIN OIL RAISINS (8.8%), HUMECTANTS (420 & 422), ORANGE PEEL, ALMONDS (2.7%), MALTOSE SYRUP, INVERT RUP BUTTER (1.7%I MILK SOLIDS, CAKE GEL (EMÜLSIFIERS &STABILIZERS (471 & 477) AND HUMECTIANT(4201Hof whie AISING AGENTS (3410), 450(i) &500(i)), BAKING POWDER, IODIZED SALT AND PRESERVATIVES (202 & 282). ONTAINS PERMITTED NATURAL (150c&150d) AND SYNTHETIC (110, 102, 122, 132 & 133) FOOD COLOURS AND ADDED LAVOURS (NATURAL NATURE IDENTICAL AND ARTIFICIAL IMILK, PLUM, FRUIT&VANILLA) FLAVOURING SUBSTANCES Fat umbers in brackets as per International Numbering System) NTAINS WHEAT, EGGS, NUT AND MILK. POLYOLS MAY HAVE LAXATIVE EFFECTS. Carbohydrate Protein Saturated fatty NDITIONS, Lic. No. 10015043001129 omance Nut & Raisin",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063362871",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

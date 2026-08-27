@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009534732",
+  "barcode_printed": "8906009534732",
+  "barcode_format": "EAN-13",
+  "name": "Max protein 7 grain breakfast cookie",
+  "brand": "ritebite",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 55,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 470,
+        "energy_kj": 1966,
+        "protein_g": 18.18,
+        "carbohydrate_g": 43.4,
+        "sugars_g": 30.7,
+        "fat_g": 26.3,
+        "saturated_fat_g": 12.7,
+        "fibre_g": 7.2,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009534732",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

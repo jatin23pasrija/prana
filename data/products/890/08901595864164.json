@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595864164",
+  "barcode_printed": "8901595864164",
+  "barcode_format": "EAN-13",
+  "name": "Sriracha Hot Chilli Sauce",
+  "brand": "chong-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 tsp (1 tsp)"
+      },
+      "values": {
+        "energy_kcal": 10,
+        "protein_g": 0,
+        "carbohydrate_g": 2,
+        "sugars_g": 1,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 80
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Chilli (20%), Vinegar, Salt, Garic A distarch adipate (thickener (E 1422)), Sodium benzoate (pre HOT (E211)), Xanthan gum (emulsifying & stabilizing agent (4 May contain: Wheat (gluten), Soy, Coconut, Sesame, Mustar diamidon acetylé (épaississant (E 1422)), Benzoate de sodium Ingrédients: Eau, Sucre, Piment (20%), Vinaigre, Sel, Al, Ad (conservateur (E 211)), Gomme xanthane (agent émulsifat stabilisant (E 415)) Peut contenir: Blé (gluten), Soja, Noix de coco, Sésame, M KEEP REFRIGERATED",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595864164",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

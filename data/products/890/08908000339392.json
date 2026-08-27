@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000339392",
+  "barcode_printed": "8908000339392",
+  "barcode_format": "EAN-13",
+  "name": "كرك",
+  "brand": "herbal-rea",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 63,
+        "protein_g": 2.6,
+        "carbohydrate_g": 8.6,
+        "sugars_g": 6,
+        "fat_g": 2.1,
+        "fibre_g": 0.7
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000339392",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904022920648",
+  "barcode_printed": "8904022920648",
+  "barcode_format": "EAN-13",
+  "name": "100% Atta Bread",
+  "brand": "bonn",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 251,
+        "protein_g": 7.8,
+        "carbohydrate_g": 48,
+        "sugars_g": 2.4,
+        "fat_g": 1.7,
+        "saturated_fat_g": 0.7,
+        "fibre_g": 6,
+        "sodium_mg": 450
+      }
+    }
+  ],
+  "ingredients_raw": "WHOLE WHEAT FLOUR-ATTA (53%), WATER, SUGAR, YEAST, EDIBLE COMMON SALT, MALT EXTRACT, REFINED PALM OIL, SOYABEAN OIL, GLUTEN, BROWN BREAD CONCENTRATE, SOY FLOUR, PRESERVATIVES [280, 281], FLOUR IMPROVERS 1100(i) & 1104], ANTIOXIDANT [300], ANTICAKING AGENT [170(i)] AND EMULSIFIERS (481(1), 471, 472e & 479].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904022920648",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

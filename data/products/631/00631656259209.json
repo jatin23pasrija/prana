@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "00631656259209",
+  "barcode_printed": "0631656259209",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein Chocolate Fudge Brownie",
+  "brand": "muscletech",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 Scoop (42 g)",
+        "quantity": {
+          "value": 42,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 159,
+        "protein_g": 30,
+        "carbohydrate_g": 4.2,
+        "sugars_g": 2,
+        "fat_g": 1.9,
+        "saturated_fat_g": 1,
+        "fibre_g": 0.6,
+        "sodium_mg": 112
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0631656259209",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

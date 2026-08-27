@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006855014",
+  "barcode_printed": "8906006855014",
+  "barcode_format": "EAN-13",
+  "name": "Ice Cream Rocks Cotton Candy",
+  "brand": "baskin-robbins",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 228,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "12ml",
+        "quantity": {
+          "value": 12,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 38,
+        "protein_g": 0.3,
+        "carbohydrate_g": 3.2,
+        "sugars_g": 2.9,
+        "fat_g": 2.6,
+        "saturated_fat_g": 2,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 3.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006855014",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

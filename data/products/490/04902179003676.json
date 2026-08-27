@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "04902179003676",
+  "barcode_printed": "4902179003676",
+  "barcode_format": "EAN-13",
+  "name": "Smoodh",
+  "brand": "smoodh",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "150ml",
+        "quantity": {
+          "value": 150,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 122,
+        "protein_g": 3.3,
+        "carbohydrate_g": 21.3,
+        "sugars_g": 20.6,
+        "fat_g": 2.7,
+        "saturated_fat_g": 1.8,
+        "sodium_mg": 105.2
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, milk, chocolate, wheat, millet, Barley,iooised salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4902179003676",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001055334",
+  "barcode_printed": "8906001055334",
+  "barcode_format": "EAN-13",
+  "name": "Lime pickle (hot)",
+  "brand": "mother-s-recipe",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Nutrition Facts Serving Size 1 tbsp approx (15 g) Serving Per Package 20 Amount Per Serving Calories 15 Calories from Fat 10 % Daily Value 2 % 0% Total Fat 1 g Saturated Fat 0 g Trans Fat 0 g Cholesterol 0 mg Sodium 700 mg Total Carbohydrate 1 g 0% 29 % 0% 2% Dietary Fiber 1 9 Sugars 0 g Protein 0 g Vitamin A 2 % Calcium 0 % Vitamin C 4 % Iron 0 % Your daily values may be higher or lower depending on Percent daily values are based on a 2,000 calorie diet. your calorie needs. Manufactured & Exported by Desai Brothers Ltd. 1436.Kasba Peth, Pune - 411 011.1ndia Visit us at : www.mothersrecipe.con 98h m Se",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001055334",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

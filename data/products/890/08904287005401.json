@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904287005401",
+  "barcode_printed": "8904287005401",
+  "barcode_format": "EAN-13",
+  "name": "Amore",
+  "brand": "amore",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "MAIDA, SUGAR, EDIBLE VEGETABLE FAT ,MILK SOLIDS, NON-DAIRY CREAMER, EMULSIFIER, NATURE IDENTICAL & ARTIFICIAL FLAVOURS, ESE EDIBLE COMMON SALT ACCITY REGULATOR S PERMITTED CLASS 1 PRESERVATIVES NS 200 234 LPALNCLEMEDELE COMMON SALT EMILSFER INS BG AGENT RS 500L FLAVOUR NATURE IDENTICAL DOUGH CONCITICHER INS 223 NATURAL COLOUR",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904287005401",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

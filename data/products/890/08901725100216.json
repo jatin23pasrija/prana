@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725100216",
+  "barcode_printed": "8901725100216",
+  "barcode_format": "EAN-13",
+  "name": "B Natural Orange",
+  "brand": "b-natural",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 53,
+        "protein_g": 0.2,
+        "carbohydrate_g": 13,
+        "sugars_g": 2.2
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Orange juice (11.1%), Sugar, Kinnow Jace (67%), Orange pulp (3.3%), Acidity regulator (230), Edible Common Salt and Antioxidant (INS 300). CONTAINS PERMITTED NATURAL COLOURS) AND ADDED FLAVOUR(S) (NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725100216",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

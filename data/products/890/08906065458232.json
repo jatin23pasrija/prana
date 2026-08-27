@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906065458232",
+  "barcode_printed": "8906065458232",
+  "barcode_format": "EAN-13",
+  "name": "choco stick jumbo pack",
+  "brand": "choco-stick",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 492,
+        "protein_g": 8,
+        "carbohydrate_g": 68,
+        "sugars_g": 48,
+        "fat_g": 21,
+        "saturated_fat_g": 11,
+        "sodium_mg": 268
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (REFINED PALMOLEIN), COCOA SOLIDS (8%), EDIBLE VEGETABLE FAT (HYDROGENATED OILS), DEXTROSE MONOHYDRATE, MILK POWDER, WHEY POWDER, STARCH, VEGETABLE EMULSIFIER SOYA LECITHIN (E 322), EDIBLE COMMON SALT. CONTAINS PERMITTED NATURAL FOOD COLOURS (CARAMEL(E 150c & E 150d)) AND ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES - ETHYL VANILLIN).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906065458232",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088068789",
+  "barcode_printed": "8901088068789",
+  "barcode_format": "EAN-13",
+  "name": "Saffola Masala Oats",
+  "brand": "saffola",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Rolled Oats (74%), Maltodextrin, Dried Vegetables (Carrot) (1.16%), Onions (1.16%), Green Peas (0.89 %) Coriander (0.12%), Salt, Spices and Condiments (3.4%) (Onion, Fennel, Garlic, Cumin, Chil, Tumeric, Fenugreek), Sugar, Starch, Hydrolysed Vegetable Protein, Wheat Flour, Flavour Enhancers (627,631). CONTAINS ADDED FLAVOUR-NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088068789",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

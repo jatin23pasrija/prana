@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901047816161",
+  "barcode_printed": "8901047816161",
+  "barcode_format": "EAN-13",
+  "name": "Pindi chana aloo",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water. Chickpea (18.10%), Tomato (10.77%), Onion, Potato (4:35%). Sunfiower Oil, Ginger (1.54%), Chana Masala, Coriander, Mango Pawder (0.7), Cumin, Salt, Garlic, Red Chilli Powder, Garam Masala, Fenugreek Leaves Powder and Turmeric Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901047816161",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

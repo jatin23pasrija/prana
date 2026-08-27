@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080604690",
+  "barcode_printed": "8906080604690",
+  "barcode_format": "EAN-13",
+  "name": "Swing Coconut Water",
+  "brand": "paper-boat",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 270,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, COCONUT WATER CONCENTRATE (4.3%), MINERAL SALT (POTASSIUM CHLORIDE). ACIDITY REGULATOR (CITRIC ACID), FLAVOURS (NATURAL AND NATURE-IDENTICAL FLAVOURING SUBSTANCES), PRESERVATIVES (242, 202), IODISED SALT AND ANTIOXIDANT (224). *RECONSTITUTED 55% COCONUT WATER DRINK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080604690",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

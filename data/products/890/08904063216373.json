@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063216373",
+  "barcode_printed": "8904063216373",
+  "barcode_format": "EAN-13",
+  "name": "Gup Shup peanuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Peanut, Wheat Flour, Starch, Sugar, Rice Powder, Vegetable oil (Palmolein), Salt, Red Chilli Powder, Coriander Powder, Cumin Powder, Black Pepper, Ginger Powder, Garlic Powder, Cinnamon Powder, Mace Powder, Asafoetida (Wheat), Acidity Regulator (Citric acid powder E330), Red Colour (E160C)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063216373",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

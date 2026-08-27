@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076132862",
+  "barcode_printed": "8906076132862",
+  "barcode_format": "EAN-13",
+  "name": "Zero Maida Burger Bun",
+  "brand": "baker-s-dozen",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 251,
+        "protein_g": 10,
+        "carbohydrate_g": 49,
+        "sugars_g": 11,
+        "fat_g": 2,
+        "saturated_fat_g": 0.3,
+        "trans_fat_g": 0,
+        "fibre_g": 9,
+        "sodium_mg": 551
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076132862",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

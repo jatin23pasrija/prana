@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201098971",
+  "barcode_printed": "7622201098971",
+  "barcode_format": "EAN-13",
+  "name": "Chocobakes",
+  "brand": "cadbury",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Choco Filling (38% *) (Sugar, Fractionated Fat, Cocoa Solids, Milk Solids, Cocoa Butter, Emulsifier (322), Artificial (Vanilla & Chocolate) Flavouring substances), Refined Wheat Flour (Maida), Sugar, Fractionated Fat, Invert Sugar, Cocoa Solids, Raising Agents (500(ii), 503(ii), 450(i)), lodised Salt, Emulsifier (322), Natural Flavouring substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201098971",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

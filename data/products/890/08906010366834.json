@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010366834",
+  "barcode_printed": "8906010366834",
+  "barcode_format": "EAN-13",
+  "name": "Town Bus Rice Kodubale",
+  "brand": "town-bus",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 135,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 568,
+        "protein_g": 7.8,
+        "carbohydrate_g": 57,
+        "sugars_g": 1.2,
+        "fat_g": 34.3,
+        "saturated_fat_g": 6.6,
+        "sodium_mg": 666
+      }
+    }
+  ],
+  "ingredients_raw": "Rice flour (56%), Refined Palmolein oil, Maida (11%), Coconut milk, Semolina, Green chilli, Salt, Sesame, Cumin, Ginger & Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010366834",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

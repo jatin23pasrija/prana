@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906008350388",
+  "barcode_printed": "8906008350388",
+  "barcode_format": "EAN-13",
+  "name": "Ragi Malt",
+  "brand": "manna",
+  "category": "flour",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 58,
+        "protein_g": 1.2,
+        "carbohydrate_g": 13,
+        "sugars_g": 11,
+        "fat_g": 0.2,
+        "saturated_fat_g": 0.1,
+        "trans_fat_g": 0,
+        "sodium_mg": 17
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Ragi (25%), Milk Solids (20%), Maltodextrin, Barley Malt extract, Cardamom CONTAINS PERMITTED NATURAL COLOUR - BETA CAROTENE (INS 160a (iii))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906008350388",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

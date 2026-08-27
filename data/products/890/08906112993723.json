@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906112993723",
+  "barcode_printed": "8906112993723",
+  "barcode_format": "EAN-13",
+  "name": "Double Protein Brown Bread",
+  "brand": "protein-chef",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 270,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Atta (Whole Wheat Flour), High Protein Blend (Peanut Flour, Vital Wheat Protein, Soy Protein Isolate), Yeast, Rolled Oats, Sugar, Edible Common Salt, Edible Vegetable Oil (Refined Sunflower Oil), Vinegar, Cultured Wheat Flour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906112993723",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

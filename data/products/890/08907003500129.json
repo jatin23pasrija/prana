@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08907003500129",
+  "barcode_printed": "8907003500129",
+  "barcode_format": "EAN-13",
+  "name": "A2B Masala Chips",
+  "brand": "a2b",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 134.6,
+        "protein_g": 2.4,
+        "carbohydrate_g": 11.47,
+        "sugars_g": 0,
+        "fat_g": 8.75,
+        "saturated_fat_g": 4,
+        "sodium_mg": 62.5
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, Bengal gram dal flour, Rice flour, Refined palm superolein oil, White till, Asafoetida, lodised salt, Chilly powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907003500129",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

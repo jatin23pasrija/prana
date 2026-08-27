@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08915907675003",
+  "barcode_printed": "8915907675003",
+  "barcode_format": "EAN-13",
+  "name": "VILLAGE FARMER - EGGS - 6 PIECES",
+  "brand": "village-farmer",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "53g",
+        "quantity": {
+          "value": 53,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "protein_g": 12.7
+      }
+    }
+  ],
+  "ingredients_raw": "Eggs",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8915907675003",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

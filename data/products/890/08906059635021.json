@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059635021",
+  "barcode_printed": "8906059635021",
+  "barcode_format": "EAN-13",
+  "name": "Epigamia Greek Yogurt Strawberry",
+  "brand": "epigamia",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pasteurized double toned milk, processed strawberry pulp, stabilizer & thickener-pectin E440, acidity regulator-malic acid E296, thickener-pectin E440 Added Active Live Cultures: S.Thermophilus, L.Bacillus Delbruecki Subsp CONTAINS PERMITTED NATURAL COLOUR (E160c/E163c)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059635021",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

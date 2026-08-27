@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003113913",
+  "barcode_printed": "8908003113913",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Butter",
+  "brand": "myfitness",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 632,
+        "protein_g": 25,
+        "carbohydrate_g": 22,
+        "fat_g": 50,
+        "saturated_fat_g": 11.6,
+        "fibre_g": 3.22,
+        "sodium_mg": 657
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Peanuts, Sugar, Salt, Permitted Stabilizing Agent (INS 471) Allergen Info : Contains Peanuts And Soya",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003113913",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

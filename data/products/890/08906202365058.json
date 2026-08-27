@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906202365058",
+  "barcode_printed": "8906202365058",
+  "barcode_format": "EAN-13",
+  "name": "Apple Cider Vinegar With The Mother",
+  "brand": "plix",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Acidity Regulators (INS 330, INS 501 (ii), INS 500 (ii)), Apple Cider Vinegar (Diluent (INS 421)), Pomegranate Fruit Extract, Vehicle (INS 1521), Nature Identical Flavouring Substances (Apple), Sweetener (INS 955), Colour (INS 129), Vitamin B6 (Pyridoxine Hydrochloride), Chromium Picolinate, Vitamin B12 (Cyanocobalamin)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906202365058",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

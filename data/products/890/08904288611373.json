@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08904288611373",
+  "barcode_printed": "8904288611373",
+  "barcode_format": "EAN-13",
+  "name": "Tops Mango Pickle",
+  "brand": "tops",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 122,
+        "energy_kj": 122,
+        "protein_g": 1.4,
+        "carbohydrate_g": 20,
+        "sugars_g": 0,
+        "fat_g": 4,
+        "saturated_fat_g": 0.47,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Mango Pieces(63%), Iodised Salt, Mustard Oil, Fenugreek, Acidity Regulator(330,260), Aniseed, Red Chilli Powder(1.77%), Coriander, Lime Juice, Preservative(211), Spices& Condiments, Tumeric Powder(0.19%),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904288611373",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

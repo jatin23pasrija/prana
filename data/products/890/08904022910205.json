@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904022910205",
+  "barcode_printed": "8904022910205",
+  "barcode_format": "EAN-13",
+  "name": "Americana Coconut Cookies",
+  "brand": "americana",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INVERT SYRUP, COCONUT POWDER (1.96%), LEAVENING AGENTS [503(ii) & 500(ii)], EDIBLE STARCH, EDIBLE COMMON SALT, EMULSIFIERS [322 & 471], ACIDITY REGULATOR [450(i)], ARTIFICIAL FLAVOURING SUBSTANCES (BUTTER & COCONUT) AND PRESERVATIVE (223).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904022910205",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906077362244",
+  "barcode_printed": "8906077362244",
+  "barcode_format": "EAN-13",
+  "name": "also bhujia masla",
+  "brand": "jaimin",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato Flakes (27%), Palmolein Oil, Chickpea Flour, Mat Bean Flour, Potato Starch Powder (6%), Red Chilli Powder (3%), Salt, Black Salt, Sugar, Citric Acid (E330), Turmeric Powder, Garlic Powder, Mint Powder, Black Pepper Powder, Coriander Powder, Cumin Powder, Cinnamon Powder, Clove Powder, SESAME Powder, Ground Star Anise, Ground Mace, Black Cardamom Powder, Ginger Powder, Ground Bay Leaf, Ground Carom Seeds, Mango Powder, Ground Fennel Seeds, Green Cardamom Powder, Antioxidant (E319). DUTCH Ingrediënten: Aardappelvlokken (27%), Palmoleïneolie, Kikkererwtenmeel, Bonenmeel, Aardappelzetmeelpoeder (6%), Rode Chilipoeder (3%), Zout, Zwart Zout, Suiker, Citroen Zuur (E330), Kurkumapoeder, Knoflookpoeder, Muntpoeder, Zwarte Peperpoeder, Korianderpoeder, Komijnpoeder, Kaneelpoeder, Kruidnagelpoeder, SESAM Poeder, Gemalen Steranijs, Gemalen Foelie, Zwarte Kardemompoeder, Gemberpoeder, Gemalen Laurier, Gemalen Carambolezaad, Mangopoeder, Gemalen Venkelzaad, Groen Kardemompoeder, Antioxidant (E319). FRENCH Ingrédients: Flocons de Pomme de Terre (27%), Huile de Palmoline, Farine de Pois Chiches, Farine de Haricots Mats, Poudre de Fécule de Pomme de Terre (6%), Poudre de Piment Rouge (3%), Sel, Sel Noir, Sucre, Acide Citrique (E330), Poudre de Curcuma, Poudre d'Ail, Poudre de Menthe, Poudre de Poivre Noir, Poudre de Coriandre, Poudre de Cumin, Poudre de Cannelle, Poudre de Clou de Girofle, Poudre de SESAME, Anis Étoilé Moulu, Macis Moulu, Poudre de Cardamome Noire, Poudre de Gingembre, Feuille de Laurier Moulue, Graines de Carambole Moulues, Poudre de Mangue, Graines de Fenouil Moulues, Vert Poudre de Cardamome, Antioxydant (E319). Mabohnenmehl, Kartoffelstärkepulver (6%), Rotes Chilipulver (3%), Salz, Schwarzes GERMAN Zutaten: Kartoffelflocken (27%), Palmoleinöl, Kichererbsenmehl, Salz, Zucker, Zitronen Säure (E330), Kurkumapulver, Knoblauchpulver, Minzpulver, Schwarzer Pfefferpulver, Korianderpulver, Kreuzkümmelpulver, Zimtpulver, Nelkenpulver, SESAM Pulver, Gemahlener Sternanis, Gemahlene Muskatblüte, Schwarzes Mangepulver Ingwerpulver, Gemahlenes Lorbeerblatt, Gemahlene Karamellsamen, SPANISH Ingredientes: Copos de Patata (27%), Aceite de Palmoleína, Harina de Gemahlene Fenchelsamen, Grün Kardamompulver, Antioxidans (E319). Garbars, Harina de Alubias, Almidón de Patata en Polvo (6%), Chile Rojo en Polvo (3%), Sal. Sal Negra Polvo P on Polvo, Ajo en Polvo, Menta en Polyo, Clavo Fideos Picantes a Base de Patatas Allergy Advice:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906077362244",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

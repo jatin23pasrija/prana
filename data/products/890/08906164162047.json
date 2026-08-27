@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906164162047",
+  "barcode_printed": "8906164162047",
+  "barcode_format": "EAN-13",
+  "name": "watermelon pop",
+  "brand": "hoppin",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 456.12,
+        "protein_g": 18.39,
+        "carbohydrate_g": 70.19,
+        "fat_g": 7.12
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Liquid Glucose, Water, Acidity Regulator (E-330) Gelling Agent (E-440), Sodium Citrate, Contains Permitted Natural Food Colors E 163 (iii), E 141 (ii) and Natural Flavour Substance",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906164162047",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

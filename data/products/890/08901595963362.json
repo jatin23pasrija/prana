@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595963362",
+  "barcode_printed": "8901595963362",
+  "barcode_format": "EAN-13",
+  "name": "HOT GARLIC",
+  "brand": "ching-s-secret",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Wheat Flour, Refined Palm Oil, Salt, Wheat Gluten, Potassium Chloride (Gelling Agent 508)), Sodium Polyphosphate (Emulsifying Agent (452(i))), Potassium Carbonate (Acidity Regulator (501 Sodium Hydrogen Carbonate (Raising Agent (500(ii))). Tertiary Butylhydroquinone (Antioxidant (319)). Dehydrated Garlic (39%), Salt, Mixed Spices 10% (Chilli, Onion, Turmeric, Ginger, Pepper), Corn Flour, Tomato Powder, Sugar, Dehydrated Vegetables 2.4% (Carrots, Parsley), Disodium 5-Ribonucleotides (Flavour Enhancer (635)), Soy Sauce Powder (Soybean, Wheat, Salt), Silicon Dioxide (Anticaking Agent (551), Sunflower Oil, Citric Acid (Acidity Regulator (330)). Yeast Extract.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595963362",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

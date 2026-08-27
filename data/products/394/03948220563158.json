@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "03948220563158",
+  "barcode_printed": "3948220563158",
+  "barcode_format": "EAN-13",
+  "name": "Baidyanath Bhringarajasav",
+  "brand": "baidyanath",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Each 10ml Contains: Bhringraj Kadha 18.1 ml, Harad - 127 mg, Pipal, Jaiphala, Lavang, Dalchini, Elaichi Badi, Tejpatra, Nagkeshar - 32mg Peach, Dhataki - 253 mg, Asav Base - Q.S., Permitted Preservatives & Excipients - Q.S.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948220563158",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906003656423",
+  "barcode_printed": "8906003656423",
+  "barcode_format": "EAN-13",
+  "name": "Three Mango Ginger Pickle",
+  "brand": "three-mango",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 298,
+        "protein_g": 2.8,
+        "carbohydrate_g": 36,
+        "fat_g": 16,
+        "saturated_fat_g": 3.2
+      }
+    }
+  ],
+  "ingredients_raw": "Ginger, Tamarind paste, lodized salt, Refined rice bran oil, Jaggery, Mixed spice powder, Garlic Mustard Seeds,Curry Leaves and Dry Chillies, Acidity regulator - Citric Acid.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906003656423",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

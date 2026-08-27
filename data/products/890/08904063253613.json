@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063253613",
+  "barcode_printed": "8904063253613",
+  "barcode_format": "EAN-13",
+  "name": "Nimbu masala",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 10,
+        "protein_g": 8.57,
+        "carbohydrate_g": 51.43,
+        "sugars_g": 2.86,
+        "fat_g": 34.29,
+        "saturated_fat_g": 10,
+        "fibre_g": 5.71,
+        "sodium_mg": 100
+      }
+    }
+  ],
+  "ingredients_raw": "potatoes (41%), vegetable oil (cotton seed, corn , palmolein), chickpeas flour (6%), tepary beans flour (3%), starch (sago), rice powder, lemon powder, salt, sugar powder, tomato powder, red chilli powder, mango powder, cumin powder coriander powder, onion powder, garlic powder, acidity regulator [citric acid powder (e 330)1, colour [paprika oleoresin (e160c)] and anticalking agent [silicon dioxide (e551), contains natural and nature identical flavouring substances-lemon product of india angenehm şaeuerlich-wuerzige mischung aus kartoffel - und erbsennudeln to",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063253613",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

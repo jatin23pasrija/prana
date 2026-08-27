@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207043185",
+  "barcode_printed": "8901207043185",
+  "barcode_format": "EAN-13",
+  "name": "mixed fruit vitamin boost",
+  "brand": "real-fruit-power",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Sugar, Mixed Fruit Concentrate (1.6%)^ [Apple conc., Orange conc., Guava puree, Mango puree conc., Apricot puree conc., Banana puree, Lime juice conc., Guava puree conc., Passion fruit conc. & Pineapple conc.], Apple juice Concentrate (1.6%), Guava Pulp (2.16%), Mango Pulp (3%), Banana Puree (1%)^, Acidity Regulator (INS 330), Stabilizer (INS 440), Antioxidant (INS 300), Colours [160 a (ii) & 160 a (iii)] and Flavours (Natural and Nature Identical Flavouring Substances) and Vitamins.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207043185",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

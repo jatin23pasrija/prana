@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906067080530",
+  "barcode_printed": "8906067080530",
+  "barcode_format": "EAN-13",
+  "name": "Gripex",
+  "brand": "gripex",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Direction for use: Dissolve the contents of sachet in a mug of hot (250 ml) water before drinking. INDICATIONS: GRtPEX Powder. provides rapid and effective relief from the maior cold symptoms in a great tasting hot drink, Take at the first sign of a cold for rapid relief from: Fever; Headache; Aching Limbs; Blocked Nose; Sore throat pain; Painfut Sinuses; Shivers",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906067080530",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

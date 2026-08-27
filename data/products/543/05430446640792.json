@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "05430446640792",
+  "barcode_printed": "5430446640792",
+  "barcode_format": "EAN-13",
+  "name": "Popcorn Kernels",
+  "brand": "urban-platter",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "20g",
+        "quantity": {
+          "value": 20,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 77.2,
+        "protein_g": 2.5,
+        "carbohydrate_g": 15.4,
+        "fat_g": 1,
+        "fibre_g": 1,
+        "sodium_mg": 42.6
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Corn Kernels (100%). Allergen: Packed in a facility that also handles t gluten and soy containing products.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5430446640792",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

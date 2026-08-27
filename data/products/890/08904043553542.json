@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043553542",
+  "barcode_printed": "8904043553542",
+  "barcode_format": "EAN-13",
+  "name": "Danish bun",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar (18%), Desiccated Coconut, Glazed Fruit [Papaya, Sugar, Acidity Regulator (330), Preservative (211), Food Colours (102, 110, 129)], Edible Vegetable Fat (Margarine), Yeast, lodized Salt, Gluten, Preservative (282), Artificial Flavouring Substances (Coconut and Vanilla). (Numbers referred above are as per International Numbering System) OR, W 2, HAI Contains Wheat ingredients Nutritional Typical Value Information per 100g #RDA %/60 g Serving size TIVE Energy (kcal) 320 9.6 8.3 SS OR Protein (g) Carbohydrate (g) 57.3 Total Sugars (g) Added Sugars (g) 21.77 18 21.6 6.4 5.7 TAXES (M) Rs.10.00",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043553542",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

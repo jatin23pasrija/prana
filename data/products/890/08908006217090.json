@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908006217090",
+  "barcode_printed": "8908006217090",
+  "barcode_format": "EAN-13",
+  "name": "Millet Pancake",
+  "brand": "slurrp-farm",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Supergrain blend (69%) (jowar flour, oat flour, foxtail millet flour, ragi flour), jaggery (12.5%), raw unrefined sugar (12.5%), cocoa powder, baking powder, raising agent (baking soda) [INS 500(ii)], natural flavour, iodised salt, cinnamon powder Allergen Note: Made in a facility that processes wheat and nuts. May contain trace elements. Safety Advice: Always supervise when feeding children. Cut into bite sizes to minimise choking risk. How To Store: Keep it in a cool, dry place. +91 93183 18000 WhatsApp us for fun recipes and info! RECYCLABLE DO NOT LITTER",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908006217090",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

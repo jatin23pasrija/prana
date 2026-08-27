@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906112663831",
+  "barcode_printed": "8906112663831",
+  "barcode_format": "EAN-13",
+  "name": "7-in-1 mix",
+  "brand": "true-elements",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 571,
+        "protein_g": 28.1,
+        "carbohydrate_g": 26.8,
+        "sugars_g": 0,
+        "fat_g": 39,
+        "saturated_fat_g": 7.9,
+        "trans_fat_g": 0,
+        "fibre_g": 18.5,
+        "sodium_mg": 78
+      }
+    }
+  ],
+  "ingredients_raw": "Seeds (58% - Pumpkin, Watermelon, Sunflower), Flax Seeds (13%), Sesame Seeds (10%), Soynut (10%), Chia Seeds (9%), Rosemary Extract. NO ARTIFICIAL COLOUR, FLAVOURS AND PRESERVATIVES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906112663831",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

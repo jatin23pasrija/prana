@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001246729",
+  "barcode_printed": "8908001246729",
+  "barcode_format": "EAN-13",
+  "name": "Natkhat Classic",
+  "brand": "crax",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 82,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Semolina (76%), Edible Vegetable Oil (Refined Palmolein Oil), *Seasoning [lodised Salt, Amchur, Red Chilli, Cumin, Coriander, Kachari, Asafoetida, Black Pepper, Ginger, Clove, Mace, Nutmeg, Cinnamon, Mustard Seed, Mint Leaves, Black Cardamom. Acidity Regulator (INS 330), Flavour Enhancer (INS 635)], Wheat Bran, Flavour(s) (Natural & Nature Identical Flavouring Substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001246729",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

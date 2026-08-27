@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335600657",
+  "barcode_printed": "8904335600657",
+  "barcode_format": "EAN-13",
+  "name": "super muesli no added sugar",
+  "brand": "yogabar",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 425,
+        "protein_g": 17.4,
+        "carbohydrate_g": 54.9,
+        "sugars_g": 1.8,
+        "fat_g": 21.6,
+        "saturated_fat_g": 4,
+        "fibre_g": 15.1,
+        "sodium_mg": 59.94
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Grains 50% (Rolled Oats, Brown Rice Flakes, Jowar Flakes). Seeds 2% (Pumpkin. Sesame, Watermelon, Chia, Flax), Natural Plant Based Dietary Fibre (Fructo-oligo Saccharides), Almonds 8%, Whole Milk Powder, Rice Bran Oil, Probiotics (Bacillus coagulans SNZ1969*). *500 million cfu per serving CONTAINS ADDED NATURAL FLAVOUR (ROSEMARY EXTRACT, CARAMEL) PROPRIETARY FOOD CATEGORY 6.3 BREAKFAST CEREAL. Allergen advice: Products are processed on machinery in a plant that also processes peanuts tree nuts, sesame, soy and dairy products.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335600657",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

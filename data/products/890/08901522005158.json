@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901522005158",
+  "barcode_printed": "8901522005158",
+  "barcode_format": "EAN-13",
+  "name": "Ginger Ale (Zero Sugar)",
+  "brand": "jameson",
+  "category": "water",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Carbonated Water, Acidity Regulators [INS 330, INS 331(iii)], Flavours, Nature Flavouring Substances), Artificial Sweeteners (INS 955, INS 950), Preservative (INS 218) and Colour (INS 150d).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901522005158",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

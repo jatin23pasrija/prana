@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906088860739",
+  "barcode_printed": "8906088860739",
+  "barcode_format": "EAN-13",
+  "name": "Veggie Soup Noodles",
+  "brand": "current-noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Saturated Fat Cholesterol MUFA 9.74 g 0 mo 9.07 0 0% PUFA 1.89 g Calcium 93 mg 9.3% 3.3 mg 17.5% Iron 1130 mg Sodium Phosphorous 115 mg 9.2% Total Carbohydrate 62.95 g 20.98 % Dietary Fiber 0.79 g 3.12% Protein 10 g 20% *Approximate Value **% Daily Values are based on a 2000 Calorie diet. INGREDIENTS OF NOODLES: Wheat Flour, Vegetable Oil, Wheat Gluten, Modified Topioca Starch, lodized Refined Salt, Acidity Regulators [500(ii)&, Stabilisers (466&452)] and Riboflavin (101). INGREDIENTS OF SEASONING: ledized Refined Salt, Garlic Powder, Hydrolysed Vegetable Protein (HVP), Seya Sauce Powder, Sugar, Red Chilli Pepper (Akabare), Black Pepper, Cinamon Powder, Seasom Seeds, Asafoetida, Flavour Enhancer (621, 627 & 631). Food Acid (296), Paprica (160c) and Other Natural Herbs & Spices. INGREDIENTS OF DETURATED VEGETABLES: Carrot, Cabbage, Green Peas, Texturized Vegetabio Protein (TVP), Red Chilli Flakes and Chives. INGREDIENTS OF PASTE: Refined Vegetable Oil, Tomato Powder, Lemon Flavour, Paprica (160c) and Other Feices This package of Current Noodles containsided MSG. recommended for infants below 12 months. ALLEN ADVICE: Contains Wheat Gluten, Soya Powder And Milk Solids,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906088860739",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906016421117",
+  "barcode_printed": "8906016421117",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Butter Bar",
+  "brand": "rajaram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 492.04,
+        "protein_g": 15.76,
+        "carbohydrate_g": 61.62,
+        "sugars_g": 27.94,
+        "fat_g": 20.28,
+        "saturated_fat_g": 6.51,
+        "sodium_mg": 37.8
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Peanuts, Jaggery, Cane Sugar, Liquid Glucose and Cardamom.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906016421117",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

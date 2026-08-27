@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202318078",
+  "barcode_printed": "7622202318078",
+  "barcode_format": "EAN-13",
+  "name": "5 Star Chocolate Bar",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 18,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Liquid Glucose, Milk Solids, Invert Sugar, Hydrogenated Oil, Coroa State Cocoa Butter, Fractionated Fat, Emulsifiers (442, 471, 476), Hydrolyzed Vegetable Protein, lodised For Salt, Farus (Natural, Nature Identical and Artificial (Milk, Caramel and Vanilla) Flavouring Substances). Here Information: Contains Milk, Soy, Sulphites. May Contain Peanut, Wheat, Barley and Tree Nut. 14",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202318078",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

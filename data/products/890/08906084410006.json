@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906084410006",
+  "barcode_printed": "8906084410006",
+  "barcode_format": "EAN-13",
+  "name": "Poha With Bhujia",
+  "brand": "m-o-m",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Rice flakes, sugar, roasted peanuts, edible vegetable oil (soyabean oil), salt, dehydrated red onion flakes, tomato, spices and condiments (mustard, red chili powder, turmeric), acidity regulator (INS 330), curry leaves, bean flour (moth flour), gram pulse flour, edible vegetable oil (soyabean oil, cottonseed and palmolein oil), spices and condiments (red chili powder, ginger, black pepper, cardamom, nutmeg, clove, cumin powder, mace), salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906084410006",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

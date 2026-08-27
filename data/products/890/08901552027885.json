@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552027885",
+  "barcode_printed": "8901552027885",
+  "barcode_format": "EAN-13",
+  "name": "Shredded Mango Relish Pickle",
+  "brand": "soul",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 417.78,
+        "protein_g": 0,
+        "carbohydrate_g": 64,
+        "sugars_g": 60,
+        "fat_g": 18,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 2.2,
+        "sodium_mg": 766
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552027885",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08998666003027",
+  "barcode_printed": "8998666003027",
+  "barcode_format": "EAN-13",
+  "name": "Cafe Blend",
+  "brand": "kopiko",
+  "category": "coffee",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Sugar (53.5%), Foaming Creamer (Glucose, Hydrogenated Vegetable Fat (Coconut, Palm Kernel), Milk Solids (4.8%), Stabilizer (340(ii)), Emulsifier (471), Anticaking Agent (551)), Non Dairy Creamer (Glucose, Hydrogenated Vegetable Fat (Coconut, Palm Kernel), Edible Sodium Caseinate, Stabilizer (340)(ii)), Stabilizer (452(i)), Emulsifier (471), Anticaking Agent (551), Coffee (6.6%), Artificial Flavouring Substance (Cappuccino).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8998666003027",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

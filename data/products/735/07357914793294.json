@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "07357914793294",
+  "barcode_printed": "7357914793294",
+  "barcode_format": "EAN-13",
+  "name": "Spiced Okra Chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 585,
+        "protein_g": 7.41,
+        "carbohydrate_g": 36.25,
+        "sugars_g": 6.12,
+        "fat_g": 9.6,
+        "saturated_fat_g": 7.55,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7357914793294",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

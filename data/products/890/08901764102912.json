@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764102912",
+  "barcode_printed": "8901764102912",
+  "barcode_format": "EAN-13",
+  "name": "Rim Zim",
+  "brand": "coca-cola",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 44,
+        "carbohydrate_g": 10.9,
+        "sugars_g": 10.8,
+        "fat_g": 0,
+        "sodium_mg": 235.1
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, APPLE JUICE (10.4%) (RECONSTITUTED FROM APPLE JUICE CONCENTRATE, IODIZED SALT, ACIDITY REGULATOR (530), STABILIZER (452(i),PRESERVATIVE (202,211), SWEETENER (960), COLOUR (150 FLAVOURS (MIXED SPICES NATURAL & NATURE IDENTICAL FLAVORING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764102912",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

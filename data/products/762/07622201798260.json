@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201798260",
+  "barcode_printed": "7622201798260",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury gems",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 7.9,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 468,
+        "protein_g": 3.6,
+        "carbohydrate_g": 75.1,
+        "sugars_g": 70,
+        "fat_g": 17.5,
+        "saturated_fat_g": 17.3,
+        "trans_fat_g": 0.2,
+        "fibre_g": 0,
+        "sodium_mg": 74
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Hydrogenated Oils, Cocoa Solids (8%), Whey Permeate Powder, Milk Solids, Refined Wheat Flour, Emulsifiers (E 414,E 442, E 476), Colours (E 171, E 102,E 133,E 124,E 127, E 122, E 132, E 110), Glazing Agent (E 903), Liquid Glucose, Natural Flavours, Nature identical Flavours, Artificial Flavouring Substances (Caramel and Vanilla)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201798260",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

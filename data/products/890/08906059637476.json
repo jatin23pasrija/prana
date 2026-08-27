@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059637476",
+  "barcode_printed": "8906059637476",
+  "barcode_format": "EAN-13",
+  "name": "Epigamia Turbo+ Malai Kulfi Protein Shake",
+  "brand": "epigamia",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Ultrafiltered Skimmed Milk (93%), Water, Natural Flavouring Substances (Dulche de leche & Malai, Acidity Regulators (INS 340, INS 452, INS 339 (ii), Colour (INS 150a), Edible Common Salt, Stabilizer (INS 407), Sweetener (INS 955)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059637476",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

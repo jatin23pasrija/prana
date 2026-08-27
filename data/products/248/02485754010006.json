@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "02485754010006",
+  "barcode_printed": "2485754010006",
+  "barcode_format": "EAN-13",
+  "name": "Mediterranean Khubus 6's",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 290.3,
+        "protein_g": 7.7,
+        "carbohydrate_g": 64.2,
+        "sugars_g": 2.5,
+        "fat_g": 0.3,
+        "saturated_fat_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/2485754010006",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

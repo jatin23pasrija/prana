@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08904214501075",
+  "barcode_printed": "8904214501075",
+  "barcode_format": "EAN-13",
+  "name": "Mangalori Mix",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 564.37,
+        "protein_g": 15.52,
+        "carbohydrate_g": 44.44,
+        "sugars_g": 4.59,
+        "fat_g": 34.22,
+        "saturated_fat_g": 16.23,
+        "fibre_g": 2.12
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904214501075",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

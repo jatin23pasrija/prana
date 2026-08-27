@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901652141047",
+  "barcode_printed": "8901652141047",
+  "barcode_format": "EAN-13",
+  "name": "Veg magic fruit cake",
+  "brand": "priyagold",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, PARTIAL HYDROGENATED VEGETABLE FAT (PALM), TUTTI FRUTTI (GLAZED FRUIT CUTS-PAPAYA 7.7%), VANILLA SLICE CAKE CONCENTRATE (WHEY PROTEIN CONCENTRATE, SKIMMED MILK POWDER, CORN STARCH, SODIUM BICARBONATE E500(ii), STABILIZER (E450 (i)), DEXTROSE, E477, E471, E415], GLYCERINE, SORBITOL, DI BAKE FRESH (MALTRODEXTRIN, RAISING AGENT (E450/1), CORN STARCH, VEGETABLE FAT POWDER (OIL PALM), RAISING AGENT (E500 (ii)), EMULSIFIER (E471, E477, E466], STABILIZER E415, ALPHA-AMYLASE (BACILLUS SUBTILIS), CAKE GEL [EMULSIFIER & STABILIZER E450(i), E475, E470(i), E1520, E420 (ii)], BAKE MAGIC [DISPERSING AGENT(E1520), PRESERVATIVE (E202, E200), EMULSIFIER (E471), ANTIOXIDANT E320], BAKING POWDER, IODISED COMMON SALT, ACETIC ACID. CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (ALLURA RED AC E 129, BRILLIANT BLUE FCF (E133), TARTRAZINE(E102) AND ADDED PERMITTED ARTIFICIAL FLAVOURING SUBSTANCES FRUIT AND VANILLA. (NUMBERS IN BRACKETS AS PER INTERNATIONAL NUMBERING SYSTEM) HYDROGENATED VEGETABLE FAT MAY CONTAIN TRANSFAT. POLYOLS MAY HAVE LAXATIVE EFFECTS. ALLERGEN WARNING: CONTAINS WHEAT AND MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901652141047",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

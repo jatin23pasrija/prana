@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906011145322",
+  "barcode_printed": "8906011145322",
+  "barcode_format": "EAN-13",
+  "name": "British Biologicals D-Protin",
+  "brand": "british-biologicals",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 416,
+        "protein_g": 28,
+        "carbohydrate_g": 58,
+        "sugars_g": 0,
+        "fat_g": 8,
+        "saturated_fat_g": 0.4,
+        "fibre_g": 7,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Skimmed milk powder, High oleic sunflower oil powder (HOSO), Cocoa powder, Inulin, Soya protein isolate, CONTAINS PERMITTED AND ADDED FLAVOUR Mineral mix, Maltodextrin, Vitamin mix & Sucralose.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906011145322",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

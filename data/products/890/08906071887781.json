@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906071887781",
+  "barcode_printed": "8906071887781",
+  "barcode_format": "EAN-13",
+  "name": "CrèmeCups",
+  "brand": "lavian-exotique",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 418.47,
+        "protein_g": 4.07,
+        "carbohydrate_g": 63.91,
+        "sugars_g": 31.35,
+        "fat_g": 19.14,
+        "saturated_fat_g": 9.21,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 138.76
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906071887781",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

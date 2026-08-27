@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902710500028",
+  "barcode_printed": "8902710500028",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy Museli",
+  "brand": "baggry-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 405.4,
+        "energy_kj": 1696,
+        "protein_g": 10,
+        "carbohydrate_g": 77.7,
+        "sugars_g": 16,
+        "fat_g": 6.1,
+        "saturated_fat_g": 1.1,
+        "fibre_g": 9,
+        "sodium_mg": 713
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902710500028",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

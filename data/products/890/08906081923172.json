@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081923172",
+  "barcode_printed": "8906081923172",
+  "barcode_format": "EAN-13",
+  "name": "Whey Isolate Matrix",
+  "brand": "carbamide-forte",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (45 g)",
+        "quantity": {
+          "value": 45,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 189.5,
+        "protein_g": 30,
+        "carbohydrate_g": 11.2,
+        "fat_g": 2.75,
+        "sodium_mg": 80
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081923172",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

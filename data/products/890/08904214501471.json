@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904214501471",
+  "barcode_printed": "8904214501471",
+  "barcode_format": "EAN-13",
+  "name": "Surati Special",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 533.33,
+        "protein_g": 9.33,
+        "carbohydrate_g": 48.33,
+        "sugars_g": 0,
+        "fat_g": 38,
+        "saturated_fat_g": 18,
+        "fibre_g": 2,
+        "sodium_mg": 630
+      }
+    }
+  ],
+  "ingredients_raw": "Gram Flour (29%), Refined Palmolein Oil, Rice Flakes (9%), Gram Pulse (2%), Sugar (2%), Peanuts (2%), Chilli Powder, lodized Salt, Black Salt, Turmeric Powder, Compounded Asafoetida, Coriander, Black Pepper, Cumin, Cloves, Anise, Star Anise, Nutmeg, Cardamom, Large Cardamom, Cinnamon, Dry Ginger Powder, Mesua Ferrea, Caraway, Dry Mango Powder, Curry Leaves, Sodium bicarbonate. Allergy Advice: This Product was Processed on machinery that also processes peanuts, tree nuts, sesame seeds, soya, milk and wheat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904214501471",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

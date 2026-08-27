@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "00840205709366",
+  "barcode_printed": "0840205709366",
+  "barcode_format": "EAN-13",
+  "name": "Special dry cake",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 135,
+        "protein_g": 2.3,
+        "carbohydrate_g": 14.7,
+        "sugars_g": 6,
+        "fat_g": 7.4,
+        "saturated_fat_g": 3.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0840205709366",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

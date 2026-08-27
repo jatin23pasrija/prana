@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08901709007753",
+  "barcode_printed": "8901709007753",
+  "barcode_format": "EAN-13",
+  "name": "Sun Lite Refined Sunflower Oil",
+  "brand": "sunny",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 900,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 100,
+        "saturated_fat_g": 12
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED SUNFLOWER OIL, PERMITTED ANTIOXIDANT (INS 319), VITAMIN A (RETINYL PALMITATE), VITAMIN D2 (ERGOCALCIFEROL), PERMITTED ANTIFOAMING AGENT (INS 900a, DMPS), DMPS-0.5 mg PER 100 g (5 ppm).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901709007753",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

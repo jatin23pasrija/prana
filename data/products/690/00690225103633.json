@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "00690225103633",
+  "barcode_printed": "0690225103633",
+  "barcode_format": "EAN-13",
+  "name": "India Gate bsmt Rozana 5kg",
+  "category": "rice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 5000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 355,
+        "energy_kj": 1480,
+        "protein_g": 9,
+        "carbohydrate_g": 78,
+        "sugars_g": 0.9,
+        "fat_g": 0.9,
+        "saturated_fat_g": 0.9,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Basmati Rice",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0690225103633",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

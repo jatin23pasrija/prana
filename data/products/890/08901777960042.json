@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777960042",
+  "barcode_printed": "8901777960042",
+  "barcode_format": "EAN-13",
+  "name": "Vadilal bomber",
+  "brand": "vadilal",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 65,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Middle Layer: Medium Fat Frozen Dessert (51.7 %) [Water, Sugar, Milk Solids, Edible Vegetable Oil (Palm Oil), Liquid Glucose, Cocoa Powder, Emulsifier (471), Stabilisers (412, 466, 407), Synthetic Food Vadilal Colours (110, 124, 133), Artificial (Vanilla) Flavouring Substances], Outer & Center Layer: Chocolate Covering (48.3 %) [Edible Vegetable Oil (Coconut Oil), Sugar, Milk Solid, Cocoa Solid, Wheat Crunch, Emulsifier (322,476), Edible Common Salt, Artificial (Vanilla) Flavouring Substances. Frozen Dessert is made with 8.0 % Edible Vegetable Oil. ALLERGEN INFORMATION: Contains Milk, Soy and Wheat Flour. May Contain Cashew, Almond and Pistachio",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777960042",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

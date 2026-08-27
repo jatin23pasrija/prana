@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063016781",
+  "barcode_printed": "8901063016781",
+  "barcode_format": "EAN-13",
+  "name": "Britannia 5050(72g)",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED (PALMOLEIN & PALM) OIL, SUGAR (18%), RAISING AGENTS [503)(ii), 500(ii) & 341(i)], IODISED SALT (0.8%), INVERT SUGAR SYRUP, YEAST, ACIDITY REGULATORS (270 & 330), EMULSIFIER (472e), NATURE IDENTICAL AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES AND DOUGH CONDITIONER (223). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT AND SULPHITE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063016781",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

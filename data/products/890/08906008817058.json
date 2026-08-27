@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906008817058",
+  "barcode_printed": "8906008817058",
+  "barcode_format": "EAN-13",
+  "name": "aylmer",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "lesterol/Cholestérol 0 mg Sodium 200 mg Potassium 300 mg Calcium 50 mg Iron/Fer 0.3 mg 9% 6% 4% 2% *5% or less is a little, 15% or more is a lot *5% ou moins c'est peu, 15% ou plus c'est beaucoup DR-20-66350-03 0 58807 66350 8 Rinse & Insert Lid Rincez at insérez le couvercle METAL METAL CAN BOITE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906008817058",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

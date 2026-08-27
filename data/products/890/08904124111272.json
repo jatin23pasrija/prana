@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08904124111272",
+  "barcode_printed": "8904124111272",
+  "barcode_format": "EAN-13",
+  "name": "Ananda Chach",
+  "brand": "ananda",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 26,
+        "protein_g": 2.1,
+        "carbohydrate_g": 2.3,
+        "sugars_g": 2.19,
+        "fat_g": 1,
+        "saturated_fat_g": 0.65,
+        "sodium_mg": 118
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids, Potable Water, Active Lactic Culture.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904124111272",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

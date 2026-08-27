@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "05449000000996",
+  "barcode_printed": "5449000000996",
+  "barcode_format": "EAN-13",
+  "name": "Coca-Cola",
+  "brand": "coca-cola",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 330,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Agua carbonatada, azúcar, colorante (E-150d), acidulante (ácido fosfórico), aromas naturales (contiene cafeína).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5449000000996",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

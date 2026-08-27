@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764012808",
+  "barcode_printed": "8901764012808",
+  "barcode_format": "EAN-13",
+  "name": "Coca-Cola 1.25L",
+  "brand": "the-coca-cola-company",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Sugar, salt, caramel e120 , cola.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764012808",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

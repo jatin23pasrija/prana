@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579103415",
+  "barcode_printed": "8902579103415",
+  "barcode_format": "EAN-13",
+  "name": "Frooti Mango Drink",
+  "brand": "parle-agro",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 65,
+        "energy_kj": 272,
+        "protein_g": 0,
+        "carbohydrate_g": 16.2,
+        "sugars_g": 15.7,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, MANGO PULP (19.5%), SUGAR, ACIDITY REGULATOR (INS330) AND ANTIOXIDANT (INS300). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS110) AND ADDED FLAVOUR [NATURE-IDENTICAL FLAVOURING SUBSTANCES (MANGO)] (INS-INTERNATIONAL NUMBERING SYSTEM) NO ADDED PRESERVATIVE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579103415",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

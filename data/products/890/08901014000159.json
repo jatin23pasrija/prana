@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014000159",
+  "barcode_printed": "8901014000159",
+  "barcode_format": "EAN-13",
+  "name": "nissin",
+  "brand": "nissin",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 477.3,
+        "protein_g": 0.44,
+        "carbohydrate_g": 68.62,
+        "sugars_g": 3.93,
+        "fat_g": 19.07,
+        "saturated_fat_g": 0.1,
+        "fibre_g": 3,
+        "sodium_mg": 3324
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014000159",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

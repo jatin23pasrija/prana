@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200471",
+  "barcode_printed": "8904063200471",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's boondi masala",
+  "brand": "haldiram-s",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "chickpea pulse flour (50%), vegetable oil (peanut, corn , cotton seed), starch (sago) salt, red chili powder, black pepper powder, mango powder, mace powder, nutmeg powder, cumin powder, cardamon powder, cinnamon powder, coriander powder, asafoetida powder and citric acid powder (e 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200471",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

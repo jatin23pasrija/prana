@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393019469",
+  "barcode_printed": "8901393019469",
+  "barcode_format": "EAN-13",
+  "name": "Happydent wave",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 28.9,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Polyols (Maltitol, Xylitol (6.5%), Sorbitol), Gum Base, Humectant (INS 422), Thickeners (INS 1405, INS 466), Flavours (Nature-Identical and Artificial (Mint) Flavouring Substances), Sweetener (INS 951), Strawberry Fruit Powder, Emulsifiers (INS 322, INS 473, INS 471, INS 415), Acidity Regulators (INS 334, INS 330). Glazing Agents (INS 903, INS 901, INS 904), Antioxidant (INS 321), Colour (INS 122)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393019469",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

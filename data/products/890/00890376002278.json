@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00890376002278",
+  "barcode_printed": "0890376002278",
+  "barcode_format": "EAN-13",
+  "name": "Chives Kimchi",
+  "brand": "80million-kimchi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 35.71,
+        "protein_g": 3.57,
+        "carbohydrate_g": 3.57,
+        "fibre_g": 3.57
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0890376002278",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

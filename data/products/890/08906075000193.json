@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08906075000193",
+  "barcode_printed": "8906075000193",
+  "barcode_format": "EAN-13",
+  "name": "Walnut Brown Cookies",
+  "brand": "atul-bakery",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "4 pieces (50g)",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 276,
+        "protein_g": 5,
+        "carbohydrate_g": 18,
+        "sugars_g": 10,
+        "fat_g": 20,
+        "saturated_fat_g": 6,
+        "trans_fat_g": 0,
+        "fibre_g": 1,
+        "sodium_mg": 1
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (28%), Edible Vegetable Fat (palmolein) (18%), Sugar (18%), Desiccated Coconut (16%), Walnut (12%), Cocoa Solid (2%), Milk Solid (1%), Custard (1%), Raising Agent [INS 503 (ii), Baking Powder], Edible lodized Salt, Contains Added Flavors [Artificial Flavoring Substance - Chocolate]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906075000193",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

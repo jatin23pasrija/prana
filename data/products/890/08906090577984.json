@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906090577984",
+  "barcode_printed": "8906090577984",
+  "barcode_format": "EAN-13",
+  "name": "Too yum gourmet chips Himalayan pink salt",
+  "brand": "too-yum",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 538,
+        "protein_g": 7.6,
+        "carbohydrate_g": 58,
+        "sugars_g": 0.6,
+        "fat_g": 30.8,
+        "saturated_fat_g": 7,
+        "trans_fat_g": 0.2,
+        "sodium_mg": 570
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906090577984",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

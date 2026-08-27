@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262223379",
+  "barcode_printed": "8901262223379",
+  "barcode_format": "EAN-13",
+  "name": "Jiralu Masala Ghee Khakhra",
+  "brand": "amul",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat flour (atta), ghee (12.8%), jiralu (2.5%) (rock salt, black salt, coriander powder, cumin powder, asafoetida, dry ginger powder, dry mango powder, black pepper, pomegranate powder, cinnamon, clove), iodized salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262223379",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

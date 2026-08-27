@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901888005922",
+  "barcode_printed": "8901888005922",
+  "barcode_format": "EAN-13",
+  "name": "real guava juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 0,
+        "carbohydrate_g": 11.5,
+        "sugars_g": 9.7,
+        "fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "water,guava pulp,sugar,salt,acidity regulator",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901888005922",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

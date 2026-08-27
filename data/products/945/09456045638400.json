@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "09456045638400",
+  "barcode_printed": "9456045638400",
+  "barcode_format": "EAN-13",
+  "name": "Biscoff",
+  "brand": "lotus",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 583,
+        "protein_g": 2.9,
+        "carbohydrate_g": 57,
+        "sugars_g": 36.8,
+        "fat_g": 38.1,
+        "saturated_fat_g": 7.6,
+        "fibre_g": 0.8,
+        "sodium_mg": 220
+      }
+    }
+  ],
+  "ingredients_raw": "Caramelised biscuits 58% (wheat flour, sugar, non-hydrogenated vegetable oils (palm, rapeseed), candy sugar syrup, raising agent (sodium hydrogen carbonate INS500(ii), soy flour, salt, cinnamon), non-hydrogenated rapeseed oil, sugar, emulsifier (soy lecithin (INS322)), acidity regulator (citric acid (INS330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9456045638400",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

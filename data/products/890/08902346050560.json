@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902346050560",
+  "barcode_printed": "8902346050560",
+  "barcode_format": "EAN-13",
+  "name": "Enerzal Orange Flavour",
+  "brand": "enerzal",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sucrose (69%), Glucose (21%), Acidity Regulators (INS 330, INS 331(i), INS 339(i)), Nature Identical Flavouring Substance (Orange flavour), Sodium Chloride, Potassium Chloride, Magnesium Sulphate, Calcium Lactate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902346050560",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

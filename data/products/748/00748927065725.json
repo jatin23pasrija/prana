@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00748927065725",
+  "barcode_printed": "0748927065725",
+  "barcode_format": "EAN-13",
+  "name": "Optimum nutrition whey protein",
+  "brand": "optimum-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 907,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Protein Blend (93%) (Whey Protein Isolate, Whey Protein Concentrate, Hydrolysed Whey Protein) , (Emulsifier: INS 322i), Cocoa Powder (Processed With Alkali), Artificial Flavours (Chocolate, Vanilla), Sweetener (INS 950). ALLERGENS: Contains MILK and SOY. Processed in a plant where nut(s) containing products are manufactured",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0748927065725",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

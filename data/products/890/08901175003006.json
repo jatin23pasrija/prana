@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901175003006",
+  "barcode_printed": "8901175003006",
+  "barcode_format": "EAN-13",
+  "name": "Co-amoxiclav Film Coated Tablets",
+  "brand": "miloharm",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Each film-coated tablet contains amoxicillin trihydrate equivalent to 500 mg amoxicillin with potassium clavulanate equivalent to 125 mg clavulanic acid.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901175003006",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

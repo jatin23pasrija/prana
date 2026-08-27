@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906090577007",
+  "barcode_printed": "8906090577007",
+  "barcode_format": "EAN-13",
+  "name": "Tapioca Chips - Lemon Pepper",
+  "brand": "too-yum",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 495,
+        "protein_g": 1.2,
+        "carbohydrate_g": 68,
+        "sugars_g": 4.9,
+        "fat_g": 24.1,
+        "saturated_fat_g": 5.3,
+        "trans_fat_g": 0.2,
+        "sodium_mg": 470
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906090577007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

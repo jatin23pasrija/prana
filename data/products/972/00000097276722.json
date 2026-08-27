@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00000097276722",
+  "barcode_printed": "97276722",
+  "barcode_format": "EAN-8",
+  "name": "Paper boat NaTa mixed berries",
+  "brand": "paper-boat",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, NATA DE COCO 14% (98% COCONUT WATER SUGAR), SUGAR, MIXED FRUIT JUICE CONCENTRATE 1.2% RED GRAPE, STRAWBERRY (0.3%), BLACK CURRANT CRANBERRY, CHERRY, RASPBERRY (0.2%), RED CURRANT, BLUEBERRY, POMEGRANATE AND ELDERBERRY, GRAPE JUICE CONCENTRATE (1%), ACIDITY REGULATORS (330, 331,327) SUBSTANCES), GELLING AGENT (418), ANTIOXIDANT (365) FLAVOURS (NATURE-IDENTICAL AND NATURAL FLAVOURING PRESERVATIVES (211, 202), FOOD COLOUR (129)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/97276722",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

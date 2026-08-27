@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030555442",
+  "barcode_printed": "8901030555442",
+  "barcode_format": "EAN-13",
+  "name": "Hot & Sour Veg Cup a Soup",
+  "brand": "knorr",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 11,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato Starch, Maltodextrin, Dehydrated Vegetables (Onion (4.5%), Carrot Flakes (2.7%), Garlic Bits (2.2%) and Leeks (0.4%)), Sugar, lodised Salt, Hydrolyzed Vegetable Protein, Nature Identical Flavouring Substances (Soya Sauce), Thickener - 415, Spices & Condiments (Chillies (1.5%)), Hydrogenated Palm Oil, Food Colour-Caramel IV, Acidity Regulator-296, Anti caking agent - 551, Flavour Enhancer-627 & 631, Oleoresin Chilli.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030555442",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030900150",
+  "barcode_printed": "8901030900150",
+  "barcode_format": "EAN-13",
+  "name": "Knorr soup",
+  "brand": "knorr",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 42,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 330,
+        "protein_g": 13.5,
+        "carbohydrate_g": 61.7,
+        "sugars_g": 23.4,
+        "fat_g": 3.4,
+        "saturated_fat_g": 1.5,
+        "trans_fat_g": 0.03,
+        "fibre_g": 1.4,
+        "sodium_mg": 4363
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat flour (Maida), Sugar, Milk Solids, Hydrolyzed Vegetable Protein, lodised salt, Flavours - Natural (Garlic) and Nature Identical Flavouring Substances, Dehydrated Vegetables (Onion (1.8%), Leeks (0.4%)), Dehydrated Chicken (2.2%) (Stabilizer - 461 & 407, Antioxidant - 300), Hydrogenated Palm Oil, Thickener - 415, Flavour Enhancer - 627 & 631, Spices & Condiments (Black Pepper (0.3%)), Food Colour - Caramel IV. Contains Wheat and Milk. May Contain Traces of Soya, Mustard, Celery and Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030900150",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

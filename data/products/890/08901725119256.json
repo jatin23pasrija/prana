@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725119256",
+  "barcode_printed": "8901725119256",
+  "barcode_format": "EAN-13",
+  "name": "Sunfeast Yippee noodles",
+  "brand": "sunfeast",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 67.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 459,
+        "protein_g": 9,
+        "carbohydrate_g": 62.6,
+        "sugars_g": 3,
+        "fat_g": 20.1,
+        "saturated_fat_g": 10.7,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 1267.05
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (78.4%), Refined Palm Oil, lodized Salt, Wheat Gluten (0.4%), Thickeners (INS 508, INS 412), Stabilizers [INS 170(i), INS 339(ii), INS 450(iii), INS 452(i)] and Acidity Regulators [INS 501(i), INS 500(i), INS 330]. Seasoning: Dehydrated Vegetables [Beans (9.5%), Carrot (7.1%), Onion (4.6%) and Cabbage (3.8%)], Instant Noodle Powder (Refined Wheat Flour (Maida) (15.5%), Refined Palm Oil, lodized Salt and Wheat Gluten (0.08%)}, Spices and Condiments (17.6%) [Garlic, Coriander, Cumin, Ginger, Chilli, Aniseed, Fenugreek, Black Pepper, Cardamom, Nutmeg, Caraway, Cinnamon, Clove and Turmeric], Sugar, lodized Salt, Hydrolyzed Vegetable Protein, Natural Flavours and Natural Flavouring Substances, Nature Identical Flavouring Substances, Maltodextrin, Yeast Extract, Acidity Regulator (INS 330), Flavour Enhancers (INS 627, INS 631), Anticaking Agent (INS 551), Mineral, Vitamins and Starch. Contains Wheat, Soy. May Contains Milk, Nut.)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725119256",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

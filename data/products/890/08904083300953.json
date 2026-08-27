@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083300953",
+  "barcode_printed": "8904083300953",
+  "barcode_format": "EAN-13",
+  "name": "MilkyMist Strawberry Milk Shake",
+  "brand": "milky-mist",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 220,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Toned Milk (89%), Sugar, Milk Solids, Emulsifier & Stabilizer (INS 471, INS 407, INS 412, INS 415), Flavor (Nature Identical Flavoring Substances - Strawberry) Acidity Regulator [INS 339 (ii)], lodized Salt, Contains Permitted Synthetic Food Colour (INS 127).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083300953",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

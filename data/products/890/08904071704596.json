@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071704596",
+  "barcode_printed": "8904071704596",
+  "barcode_format": "EAN-13",
+  "name": "Madras Mix",
+  "brand": "udupi-munch",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 571,
+        "protein_g": 9,
+        "carbohydrate_g": 46,
+        "sugars_g": 2,
+        "fat_g": 39,
+        "saturated_fat_g": 18,
+        "fibre_g": 7,
+        "sodium_mg": 593
+      }
+    }
+  ],
+  "ingredients_raw": "Gram Flour (50%), Edible Vegetable Oil (Palmolein), Rice Flour (6%), Gram Dal (6%), Peanuts (6%) Rice Flour (5%), Mixed Spice (Red Chilli Powder, Salt, Turmeric Powder, Curry Leaves, Asafoetida).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071704596",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

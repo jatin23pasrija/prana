@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "06982494701059",
+  "barcode_printed": "6982494701059",
+  "barcode_format": "EAN-13",
+  "name": "Jeera",
+  "brand": "jk",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Calories 384.02Cal, Total_fat 18.90g, Sodium 140mg, Total_Carbohydrates 38.10g, Protein 15.38g, Vitamine_A 13micron, Vitamine_C 1.20mg, Calcium 790mg, Iron 15.60mg, Sugar 1g, Trans_Fat 0g, Saturated_fat 1.34g,Mono_Unsaturatedfat 13.77g",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6982494701059",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

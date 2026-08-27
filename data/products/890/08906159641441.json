@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906159641441",
+  "barcode_printed": "8906159641441",
+  "barcode_format": "EAN-13",
+  "name": "Oats With Curry & Pepper",
+  "brand": "fira",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 372.23,
+        "protein_g": 12.92,
+        "carbohydrate_g": 69.18,
+        "sugars_g": 8.58,
+        "fat_g": 4.87,
+        "saturated_fat_g": 1.09,
+        "trans_fat_g": 0,
+        "fibre_g": 6.89,
+        "sodium_mg": 1055.59
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906159641441",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

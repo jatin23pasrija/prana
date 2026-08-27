@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08902167000218",
+  "barcode_printed": "8902167000218",
+  "barcode_format": "EAN-13",
+  "name": "Poulet Curry Masala MDH 100G",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Coriander, Chilli Red, Cumin, Turmeric, Salt White, Black Pepper, Dried Fenugreek Leaves, Mustard seeds, Fenugreek Seeds, Cinnamon, Cardamom Amomum, Cloves, Nutmeg, Mace, Asafoetida Allergy Advice: For allergen see ingredients in bold May contain traces of sulphur dioxide and sulphites GEWÜRZZUBEREITUNG FÜR HÄHNCHENGERICHTE Zutaten: Koriander, Chili, Kreuzkümmel, Kurkuma, Salz, Schwarzer Pfeffer, Bockshornkleeblätter, Senfkörner, Bockshornklee, Zimtstange, Kardamom, Gewürznelken, Muskatnuss, Macisblüte, Teufelsdreck (Indische Gewürzmischung) Allergie-Hinweis: Für Allergene, sehen Sie Zutaten in Fettdruck Kann Spuren von Schwefeldioxid und Sulfiten enthalten PRÉPARATION POUR PLAT DE CURRY DE POULET Ingrédients: Coriandre, piment rouge, cumin, curcuma, sel, poivre noir, feuilles de fenugrec, graines de moutarde, graines de fenugrec, cannelle, cardamome noire, clous de girofle, noix de muscade, macis, ase fétide Allergènes : voir la liste d'ingrédients en gras Peut contenir des traces de dioxyde de soufre et de sulfites MISCELA DI SPEZIE PER CURRY DI POLLO Gli Ingredienti: Coriandolo, Peperoncino rosso, Cumino, Curcuma, Sale bianco, Pepe nero, Foglie di fieno greco, Senape, Semi di fieno greco, Cinnamomo, Cardamomo, Chido di garofano, Noce moscata, Macis, Assafetida Allergia Consigli: Per allergene visualizzare ingredienti in grassetto Può contenere tracce di anidride solforosa e solfiti HET MENGSEL VAN HET KRUID VOOR DE KERRIE VAN DE KIP Ingrediënten: Koriander, Rode Peper, Komijn, Kurkuma, Zout wit, Zwarte Peper, Fenegriek bladeren, Mosterd, Fenegriek zaden, Kaneel, Kardemom, Kruidnagel, Nootmuskaat, Foelie, Duivelsdrek Allergie Informatie: Voor allergenen zie ingrediënten in het vet Kan sporen van zwaveldioxide en sulfieten bevatten MEZCLA ESPECIADA PARA EL CURRY DEL POLLO Los Ingredients: Coriandro, Chiles Rojos, Comino, Cúrcuma, Sal blanca, Pimienta Negra, Hojas de la Alholva, Mostaza, Alholva, Cinamomo, Cardamomo, Clavos, Nuez moscada, Macis, Asafoetida Consejo para alergias: Para alérgeno véase el ingrediente en negrita Puede contener trazas de dióxido de azufre y sulfitos Manufactured by: R-pure Agro Specialities (FZE) P.O. Box. No. : 120356, &quot;SAIF Zone, Sharjah, UAE Visit us: www.mdhspices.com Lot No. and",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902167000218",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117360223",
+  "barcode_printed": "8906117360223",
+  "barcode_format": "EAN-13",
+  "name": "A2 Cow Milk",
+  "brand": "country-delight",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (250 ml)",
+        "quantity": {
+          "value": 250,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 157,
+        "protein_g": 8,
+        "carbohydrate_g": 11,
+        "sugars_g": 10,
+        "fat_g": 9,
+        "saturated_fat_g": 7.2,
+        "trans_fat_g": 0,
+        "sodium_mg": 100
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117360223",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

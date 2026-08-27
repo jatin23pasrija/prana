@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017333314",
+  "barcode_printed": "8908017333314",
+  "barcode_format": "EAN-13",
+  "name": "Grow Vita",
+  "brand": "grow-vita",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Malt Extract (50%) (Malted Barley (32.5%), Malted Wheat (17.5%),Sugar, Milk solids, Cocoa solids, Soy Protein Isolate,Emulsifier (INS 471), Acidity Regulator (INS 500(ii), INS 501(ii)) Vitamins, Minerals, Iodised Salt, Colour (INS 150c),Nature identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017333314",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

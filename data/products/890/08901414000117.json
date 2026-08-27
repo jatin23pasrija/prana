@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414000117",
+  "barcode_printed": "8901414000117",
+  "barcode_format": "EAN-13",
+  "name": "bhujia",
+  "brand": "bikano",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kj": 2550,
+        "carbohydrate_g": 33.4,
+        "fat_g": 46.9,
+        "saturated_fat_g": 11.9,
+        "sodium_mg": 1070
+      }
+    }
+  ],
+  "ingredients_raw": "Husked Dew Gram Flour (46%), Edible Vegetable Oil (contains one or more of the following: Palmolein Oil, Cottonseed Oil and Ricebran Oil), Chickpea Flour, lodized Salt, Mixed Spices (Red Chilly Powder, Black Pepper Powder, Clove Powder, Dry Ginger Powder, Long Pepper Powder, Mace Powder, Fennel Powder, Nutmeg Powder, Cardamom Powder, Asafoetida). Made in a facility that processes Wheat, Oats, Peanuts, Tree Nuts, Soy, Milk and Sesame. STORE IN A COOL, DRY AND HYGIENIC PLACE AWAY FROM AIR AND DIRECT SUNLIGHT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414000117",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

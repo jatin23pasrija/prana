@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005508904",
+  "barcode_printed": "8906005508904",
+  "barcode_format": "EAN-13",
+  "name": "Bikaji mobile bhel chowpati bhelpuri",
+  "brand": "bikaji",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 110,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 564,
+        "protein_g": 13,
+        "carbohydrate_g": 45,
+        "sugars_g": 4,
+        "fat_g": 37,
+        "saturated_fat_g": 13,
+        "fibre_g": 8,
+        "sodium_mg": 397
+      }
+    }
+  ],
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein oll, Cotton Seed Oil), Puffed Rice (17%), Chick Pea (10%), Peanuts (79%), Gram Flour, Dew Bean Flour (Moth Flour), Wheat Flour, Rice Flakes, Dates (2%), Sugar, Ground Spices and Condiments (lodised Salt, Red Chilli, Coriander, Turmeric (Colouring & Spices), Cumin, Black Salt, Dry Green Chilli, Dry Red Chilli, Garlic, Dry Mango, Dry Cassia Leaves, Cinnamon, Ginger, Black Pepper, Cardamom, Clove, Nutmeg, Mace, Asafoetida, Acidity Regulator (INS330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005508904",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

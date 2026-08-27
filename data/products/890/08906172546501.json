@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906172546501",
+  "barcode_printed": "8906172546501",
+  "barcode_format": "EAN-13",
+  "name": "Mango Icecream",
+  "brand": "huber-holly",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Outer Layer - Mango Syrup (50.4 %): Water, Sugar, Processed Mango Pulp (28%) (Mango Pulp, Sugar), Liquid Glucose, Acidity Regulator (INS 330), Stabilizers (INS 412 INS 415, INS 407) CONTAINS NATURAL COLOURS (INS 100, INS 160c, INS 392) AND NATURAL MANGO FLAVOURING SUBSTANCES Inner Layer - Ice Cream (49.6 %): Water, Milk Solids (Cream, Butter, Skimmed Milk Powder), Sugar, Emulsifier (INS 471, INS N477) and Stabilizers (INS 412, INS 410)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906172546501",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

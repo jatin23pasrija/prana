@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063370050",
+  "barcode_printed": "8901063370050",
+  "barcode_format": "EAN-13",
+  "name": "Good day",
+  "brand": "brityana",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NUTRITION INFORMATION Serving Size: Approx. 13g (Approx. 3 Biscuits) No. of Servings per pack-About 2 Per 100g Product (Approx.)/ Per Serve (%) RDA Energy-500kcal/(3) Protein-6.8g, Carbohydrate-69.1g, of which Total Sugars 20.40 Total Fat-21.8g/14) Saturated fatty acids-10.99/61 Mono unsaturated fatty acids Translatty acids-0g/10) Cholesterol-2.7mg, Sodium-223mg/(1) Basis average adult's Recommended Dietary Allowance of 2000 kcal diet INGREDIENTS: REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, SUGAR, INVERT SUGAR SYRUP, MI MY SOLS & BUTTER (0.5%)], RAISING AGENTS (503(ii) & 500(i)), 1001SED SALT, ARTIFICIAL (BUTTE NATURAL FLAVOURING SUBSTANCES AND EMULSIFIERS [4729 & 322(i)]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063370050",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

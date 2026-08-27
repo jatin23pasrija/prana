@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "05059883365701",
+  "barcode_printed": "5059883365701",
+  "barcode_format": "EAN-13",
+  "name": "Pista Icecream Impact Whey Protein",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 Scoop (30 g)",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 114.9,
+        "protein_g": 21.07,
+        "carbohydrate_g": 3.49,
+        "sugars_g": 1.5,
+        "fat_g": 1.76,
+        "saturated_fat_g": 1.05,
+        "sodium_mg": 52.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5059883365701",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

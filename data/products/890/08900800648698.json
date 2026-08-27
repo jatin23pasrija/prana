@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08900800648698",
+  "barcode_printed": "8900800648698",
+  "barcode_format": "EAN-13",
+  "name": "gnocchi",
+  "brand": "turini",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Flocons de pomme de terre réhydratés 67 % (eau, pomme de terre déshydratée 13 %, curcuma en poudre) semoule de blé dur de qualité supérieure 31% sel. Enrobage contient farine de riz et/ou farine de ble",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8900800648698",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

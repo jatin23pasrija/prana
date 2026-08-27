@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901741000019",
+  "barcode_printed": "8901741000019",
+  "barcode_format": "EAN-13",
+  "name": "Chicken flavoured noodles",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "द INGS der INSIDE て 019 For suggestions & feedback. CG Foods, G.P.O. Box: 1073, Kathmandu, Nepal. Email: qm@chaudha group.com 錢 S INCREDIENTS NM NA IN 909 Noodles ( seasonings): WHEAT flour, Edible Vegetable Oil (Palm), lodised salt, WHEAT Gluten, Flavour Enhancers (E621, E627, E631), SOY Sauce [Caramel (150d)], Acidity Regulator (E500ii, E451i, E170i), Thickener (E412), Black Pepper, Onion and Artificial Chicken Flavour. Seasoning (in a separate sachet): lodised salt, Garlic, Maltodextrin (E1400), Onion, White Pepper, Flavour Enhancers (E621, E627, E631), Chives, Sugar, Black Pepper, Vitamin & Mineral Premix. Onion Flavoured Oil: Edible Vegetable oil (Palm Olein) & Onion with added Vitamin A. Phone No.: +977-1-325041 Chilli Powder in Separate Sachet. रिकामपनि पारसीहर d CONTAINS PERMITTED NATURAL COLGUR (Caramel 150d) AND ADDED FLAVOURS [Nature-identical flavouring substances and Artiod flavouring substances (Chicken)]. May contain traces of MILK products & MUSTARD products This packann Waj needles contains added MON FOR WANTS BELOW 12 MONTHS) TAMATE (NOT RECOMMENDED",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901741000019",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

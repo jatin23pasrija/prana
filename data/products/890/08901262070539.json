@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262070539",
+  "barcode_printed": "8901262070539",
+  "barcode_format": "EAN-13",
+  "name": "FRUIT N' NUT Dark Chocolate",
+  "brand": "amul",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 499,
+        "energy_kj": 2089,
+        "protein_g": 7.2,
+        "carbohydrate_g": 46.7,
+        "sugars_g": 38.3,
+        "fat_g": 32.5,
+        "saturated_fat_g": 16.2,
+        "trans_fat_g": 0,
+        "sodium_mg": 33
+      }
+    }
+  ],
+  "ingredients_raw": "sugar, cocoa solids, cocoa butter, almonds(8%), raisins(5%), permitted emulsifiers (e322, e476),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262070539",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

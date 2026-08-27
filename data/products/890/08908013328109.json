@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013328109",
+  "barcode_printed": "8908013328109",
+  "barcode_format": "EAN-13",
+  "name": "Choco Almond",
+  "brand": "open-secret",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (12.5 g)",
+        "quantity": {
+          "value": 12.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 52.13,
+        "protein_g": 1.39,
+        "carbohydrate_g": 5.25,
+        "sugars_g": 2.33,
+        "fat_g": 3.03,
+        "saturated_fat_g": 1.12,
+        "fibre_g": 2.91,
+        "sodium_mg": 16.38
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013328109",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

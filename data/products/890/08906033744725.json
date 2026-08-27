@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033744725",
+  "barcode_printed": "8906033744725",
+  "barcode_format": "EAN-13",
+  "name": "McVities Tasties Cashew & Almond Cookies",
+  "brand": "mcvities",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm Oil), Invert Sugar Syrup, Nuts Cashew (0.8%), Almond (0.2%)], Raising Agents [INS 500(ii), INS 503 (ii), INS 450(i)], Iodised Salt, Milk Solids (0.5%), Butter (0.2%), Nature Identical Flavouring Substances and Artificial Flavouring Substances (Cashew, Butter).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033744725",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

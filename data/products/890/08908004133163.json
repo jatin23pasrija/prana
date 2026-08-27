@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908004133163",
+  "barcode_printed": "8908004133163",
+  "barcode_format": "EAN-13",
+  "name": "Mango drink",
+  "brand": "areva",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "PURIFIED WATER, SUGAR, MANGO PULP (15%), ACIDITY REGULATORS (E330, E331) ASCORBIC ACID (E300), EMULSIFIER (E440), CONTAINS PERMITTED CLASS I PRESERVATIVES (E211, E224), AND PERMITTED SYNTHETIC FOOD COLOUR (E110) AND ADDED SYNTHETIC FLAVOURS (NATURE IDENTICAL FLAVOURS)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908004133163",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

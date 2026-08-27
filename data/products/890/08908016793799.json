@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016793799",
+  "barcode_printed": "8908016793799",
+  "barcode_format": "EAN-13",
+  "name": "Garlic Chilli Crisp",
+  "brand": "master-chow",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "8g",
+        "quantity": {
+          "value": 8,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 41.6,
+        "protein_g": 1,
+        "carbohydrate_g": 2,
+        "sugars_g": 1,
+        "fat_g": 4
+      }
+    }
+  ],
+  "ingredients_raw": "SUNFLOWER OIL, CHILLIES, ONION, GARLIC, CELERY, SUGAR, SALT, FRIED GARLIC, FRIED ONION ROASTED PEANUTS, CINNAMON, SICHUAN PEPPER CORN, BAY LEAF, STAR ANISE, SOY SAUCE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016793799",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904089301497",
+  "barcode_printed": "8904089301497",
+  "barcode_format": "EAN-13",
+  "name": "Matka Kulfi",
+  "brand": "havmor",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Ice Cream (98.3%): Milk Solids, Sugar, Emulsifier (INS 471) and Stabilizers (INS 412, INS 401, INS 466, INS 410, INS 415, INS 407). Topping (1.7%): Sauce (1.1%) [Sugar, Liquid Glucose, Added Water, Stabilizers (INS 401, INS 466, INS 407), Nature identical (Saffron) Flavoring Substances, Saffron (&lt;0.01%), Synthetic Food Colours (INS 110, INS 102)], Pistachio Nuts (0.5%), Almonds (0.1%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904089301497",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

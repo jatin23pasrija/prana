@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906105370364",
+  "barcode_printed": "8906105370364",
+  "barcode_format": "EAN-13",
+  "name": "Full Cream Milk",
+  "brand": "vikas",
+  "category": "milk",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Min.milk fat :-6.5% Min.milk SNF :- 9.0%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906105370364",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777909119",
+  "barcode_printed": "8901777909119",
+  "barcode_format": "EAN-13",
+  "name": "Sundae Spin Strawberry",
+  "brand": "vadilal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Sugar Syrup (20%) [Water, Sugar, Liquid Glucose, Regulator (330), Stabilizers (446,440,415), Synthetic Food Colour (122) cal (Strawberry) Flavouring Substances], Sugar, Milk Solids (7.6%), Edible vegetable Oil: Palm Oil (6.4%), Liquid Glucose, Emulsifier (471) and Stabilizers 2466,407), Artificial (Vanilla) Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777909119",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

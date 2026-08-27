@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906173702395",
+  "barcode_printed": "8906173702395",
+  "barcode_format": "EAN-13",
+  "name": "Orange Fizzy Whey",
+  "brand": "bm",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 120,
+        "protein_g": 24.23,
+        "carbohydrate_g": 4.61,
+        "sugars_g": 2.31,
+        "fat_g": 0.58,
+        "saturated_fat_g": 0.11,
+        "sodium_mg": 196.16
+      }
+    }
+  ],
+  "ingredients_raw": "Hydrolysed Whey Protein Isolate (90%), Natural & Nature Identical Flavour (Orange), L-Arginine (For Pump), Sodium Bicarbonate, Magnesium Bicarbonate, Food Colour (Ponceau 4R - INS 124 and Sunset Yellow FCF-INS 110), Acidity Regulator (INS 330), Sodium Chloride, Antifoaming Agent (INS - 990a), Sweetener (Sucralose-INS 955 and Acesulfame-Potassium-INS 950).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906173702395",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

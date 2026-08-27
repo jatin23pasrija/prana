@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063281616",
+  "barcode_printed": "8904063281616",
+  "barcode_format": "EAN-13",
+  "name": "Paneer Makhani",
+  "brand": "haldiram-snacks-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 204,
+        "protein_g": 4.93,
+        "carbohydrate_g": 9.15,
+        "sugars_g": 0.7,
+        "fat_g": 16.2,
+        "saturated_fat_g": 4.23,
+        "trans_fat_g": 0,
+        "fibre_g": 0.7,
+        "sodium_mg": 444
+      }
+    }
+  ],
+  "ingredients_raw": "Tomatoes, onions, indian cottage cheese (22%), milk cream, refined sunflower oil, yogurt, fresh ginger, fresh garlic, cashew nut, salt, sugar, spices (cardamom, cinnamon, nutmeg, mace, cumin seeds, coriander, cloves, curry leaves), red chilli powder, dried fenugreek leaves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063281616",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

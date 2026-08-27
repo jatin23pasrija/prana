@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082391154",
+  "barcode_printed": "8906082391154",
+  "barcode_format": "EAN-13",
+  "name": "Banana chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 438,
+        "protein_g": 3.54,
+        "carbohydrate_g": 53.5,
+        "sugars_g": 2.8,
+        "fat_g": 21,
+        "saturated_fat_g": 5.5,
+        "fibre_g": 11.1,
+        "sodium_mg": 254.75
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082391154",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

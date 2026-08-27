@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262153607",
+  "barcode_printed": "8901262153607",
+  "barcode_format": "EAN-13",
+  "name": "Protein Lassi - Plain",
+  "brand": "amul",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk solids, water, sweetener (965, 960), stabilizers [440, 418, 331 (iii)], acidity regulator (330), enzyme (beta galactosidase), active culture. Allergen Information: Contains milk. 'CONTAINS NATURALLY OCCURRING SUGARS'",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262153607",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

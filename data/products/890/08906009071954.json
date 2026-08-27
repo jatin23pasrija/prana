@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009071954",
+  "barcode_printed": "8906009071954",
+  "barcode_format": "EAN-13",
+  "name": "Choco chip cookies",
+  "brand": "unbic",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 471,
+        "protein_g": 5.8,
+        "carbohydrate_g": 68,
+        "sugars_g": 29,
+        "fat_g": 19.5,
+        "saturated_fat_g": 12.2,
+        "sodium_mg": 213
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009071954",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

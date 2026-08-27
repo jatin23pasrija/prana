@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08850007817734",
+  "barcode_printed": "8850007817734",
+  "barcode_format": "EAN-13",
+  "name": "Listening Total Care",
+  "brand": "listerine",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Sorbitol, Propylene Glycol, Poloxamer 407, Sodium Lauryl Sulfate, Eucalyptol, Zinc Chloride, Benzoic Acid, Sodium Benzoate, Thymol, Sodium Saccharin, Methyle Salicylate, Flavor, Sodium Fluoride, Menthol, Aroma, Sucralose, CI 16035, CI 42090, contains 220ppm of fluoride when packed",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8850007817734",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

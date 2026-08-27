@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00000000024907",
+  "barcode_printed": "00024907",
+  "barcode_format": "EAN-8",
+  "name": "Teriyaki Dip Sauce Marinade",
+  "brand": "marks-spencer",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 305,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar - Water Dark Soy Sauce (20%) (contains Water Soybeans. Roasted Wheat (contains Cluten)) Ginger Purée (10%) Garlic Purée. Cornflour Concentrated Lime Juice. Smoked Salt Crushed Red Chillies. Ground Ginger Mirin Rice Wine (contains Rice Water Alcohol Glucose Syrup).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/00024907",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

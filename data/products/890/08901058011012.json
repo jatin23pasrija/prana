@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058011012",
+  "barcode_printed": "8901058011012",
+  "barcode_format": "EAN-13",
+  "name": "KitKat Minis",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 133.2,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Milk solids (15.6%), Fractionated vegetable fat, Hydrogenated vegetable fats, Refined Wheat flour, Cocoa solids (4.4%), Emulsifier (Soya lecithin), Yeast, Raising agent (500(ii)), Iodised salt, Artificial flavouring substance, Flour treatment agent (516) and Nature-Identical flavouring substance. Note: Contains Wheat, Milk, Sesame and Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058011012",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

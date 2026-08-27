@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "00701098266216",
+  "barcode_printed": "0701098266216",
+  "barcode_format": "EAN-13",
+  "name": "Nutriplato Roasted 5 Seeds Blend",
+  "brand": "nutriplato",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 149.61,
+        "protein_g": 7.53,
+        "carbohydrate_g": 5.64,
+        "sugars_g": 0.57,
+        "fat_g": 10.77,
+        "saturated_fat_g": 1.98,
+        "fibre_g": 3.63
+      }
+    }
+  ],
+  "ingredients_raw": "Ingredients: Roasted Flax Seeds 30%, Roasted Watermelon Seeds 25%, Roasted Sunflower Seeds 21%,Roasted White Sesame Seeds 10%, Roasted Pumpkin Seeds 10%, Black Salt 4%.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0701098266216",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005312635",
+  "barcode_printed": "8908005312635",
+  "barcode_format": "EAN-13",
+  "name": "Himalayan Salt Caramel Popcorn",
+  "brand": "4700-bc",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar (52%), Corn (33%), Edible Vegetable Oil (Palm & Sesame), Milk Solids, Liquid Glucose, Maltodextrin, Coffee, Mineral Salt (1%), Emulsifier (INS 322), Raising Agent [INS 500(ii)], Rosemary Extract (INS 392).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005312635",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

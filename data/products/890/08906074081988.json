@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906074081988",
+  "barcode_printed": "8906074081988",
+  "barcode_format": "EAN-13",
+  "name": "Chettinad Kara Kuzhambu",
+  "brand": "aswins-sweets-snacks",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Gingelly Oil (34.97%), Tomato, Garlic, Tamarind Chilli Powder, Coriander Powder Mustard Fenugreek, Fennel Seeds, lodised Salt Dried Turkey Berries (Sundakkai Vathal), Jaggery, Turmeric Powder Dried Black Nightshade Berries (Manathakkali Vathal), Curry Leaves, Compounded Asafoetida (Hing Arabic Gum Refined Wheat Flour)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906074081988",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

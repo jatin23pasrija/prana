@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063017252",
+  "barcode_printed": "8901063017252",
+  "barcode_format": "EAN-13",
+  "name": "50-50",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 502,
+        "protein_g": 7,
+        "carbohydrate_g": 60,
+        "sugars_g": 10,
+        "fat_g": 26,
+        "saturated_fat_g": 13
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (PALM) SUGAR, LIQUID GLUCOSE, RAISING AGENTS 503(), 500(i), 450(1)1, BUTTER (1.2%), BLACK SALT, MILK SOLIDS, EDIBLE VEGETABLE PRODUCT (1%), IODISED SALT, ACIDITY REGULATOR (341(ii), DOUGH CONDITIONER (223) AND IMPROVER [1101(i)]. CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCE (BUTTER)]. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SULPHITE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063017252",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

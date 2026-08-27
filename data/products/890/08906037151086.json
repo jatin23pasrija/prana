@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906037151086",
+  "barcode_printed": "8906037151086",
+  "barcode_format": "EAN-13",
+  "name": "Krishna's Diabic Care Juice",
+  "brand": "krishna-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 14.86,
+        "protein_g": 0.27,
+        "carbohydrate_g": 3.45,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 33.84
+      }
+    }
+  ],
+  "ingredients_raw": "Jamun (Syzygium cumini) Sd. 2.4gm, Bilva (Aegle marmelos) Lf. 0.60gm, Amla (Phyllanthus emblica) Fr. 59.7ml, Methi (Trigonella foenum-graecum) Sd. 0.60gm, Karela (Momordica charantia) Fr. 12ml, Kutki (Picrorhiza kurrooa) Rt. Rz. 0.10gm, Giloy (Tinospora cordifolia) St. 1.2gm, Vijaysar (Pterocarpus marsupium) St. 0.3gm, Tulsi (Ocimum tenuiflorum) Lf. 1.2gm, Gudmar (Gymnema sylvestre) Lf. 0.3gm & Neem (Azadirachta indica) Lf. 0.6gm with permitted class II preservatives less than 0.3%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906037151086",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

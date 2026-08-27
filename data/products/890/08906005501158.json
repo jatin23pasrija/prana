@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005501158",
+  "barcode_printed": "8906005501158",
+  "barcode_format": "EAN-13",
+  "name": "Coated peanut nut cracker",
+  "brand": "bikaji",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 610,
+        "protein_g": 21,
+        "carbohydrate_g": 25,
+        "sugars_g": 3,
+        "fat_g": 46,
+        "saturated_fat_g": 14,
+        "fibre_g": 7,
+        "sodium_mg": 300
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005501158",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

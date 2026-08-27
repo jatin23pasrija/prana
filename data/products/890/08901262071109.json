@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262071109",
+  "barcode_printed": "8901262071109",
+  "barcode_format": "EAN-13",
+  "name": "Super Fruit",
+  "brand": "amul",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 526,
+        "protein_g": 9.8,
+        "carbohydrate_g": 52.6,
+        "sugars_g": 51.5,
+        "fat_g": 34.7,
+        "saturated_fat_g": 20.8,
+        "trans_fat_g": 0,
+        "sodium_mg": 128
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, cocoa butter, milk solids, cranberries (4.2%), blueberries (3.6%), raspberries (3.6%), emulsifiers (322,476), artificial flavouring substances (vanilla). Allergen Information: Contains milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262071109",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

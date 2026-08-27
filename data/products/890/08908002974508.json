@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002974508",
+  "barcode_printed": "8908002974508",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Barfi Chikki",
+  "brand": "arcot-mani-mark",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 509.05,
+        "energy_kj": 2130,
+        "protein_g": 14.11,
+        "carbohydrate_g": 54.09,
+        "sugars_g": 19.24,
+        "fat_g": 26.25
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002974508",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

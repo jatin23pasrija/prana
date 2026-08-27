@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262020671",
+  "barcode_printed": "8901262020671",
+  "barcode_format": "EAN-13",
+  "name": "Cheese Sauce Green Chutney",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 192,
+        "energy_kj": 803,
+        "protein_g": 12.3,
+        "carbohydrate_g": 1.1,
+        "fat_g": 15.4,
+        "saturated_fat_g": 9.7,
+        "trans_fat_g": 0.5,
+        "fibre_g": 0,
+        "sodium_mg": 360
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262020671",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

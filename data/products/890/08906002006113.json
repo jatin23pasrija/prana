@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002006113",
+  "barcode_printed": "8906002006113",
+  "barcode_format": "EAN-13",
+  "name": "Veg Mayonnaise",
+  "brand": "dr-oetker",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "26"
+      },
+      "values": {
+        "energy_kcal": 502.2,
+        "protein_g": 0.5,
+        "carbohydrate_g": 8.6,
+        "sugars_g": 7.3,
+        "fat_g": 51.8,
+        "saturated_fat_g": 9.2,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Mayonnaise Original (Proprietary Food - 12.6.1-Emulsified Dips dents: Refined Soyabean Oil, Water, Sugar, Milk Solids, lodised Sat, L Emulsifiers and Stabilizers (INS415, INS1442), Acidity Regulators (NS Preservatives (INS211, INS202), Antioxidant (INS319). TANG MILK Serve Size-15g Pack contains 26 M&Mid By: Dr. Oetker sa India Pvt. Ltd. Nutritional Information Energy (kcal) Protein (a) SP-3&4, Ind. Area Kaharani, For complaints, contact Alwar Rajasthan - are manager at ker in Carbohydrate (g) - Total Sugars (g) Added Sugars (g) 18002700481 Total Fat (g) Per Per 100g Serve P 502.2 753 SP 01/24 05 01 1.3 == 8.6 7.3 54 518 92 00 710.5/ - Saturated Fat (g) - Trans Fat (g) Cholesterol (mg) Sodium (ma)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002006113",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

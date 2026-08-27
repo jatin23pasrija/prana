@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005504548",
+  "barcode_printed": "8906005504548",
+  "barcode_format": "EAN-13",
+  "name": "chips mast masala",
+  "brand": "bikaji",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potatoes (65%), Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Ground Spices and Condiments (7%) (Onion Powder, Garlic Powder, Coriander, Black Pepper, Red Chilli, Green Chill, Ginger, Cumin, Turmeric (Coloring & Spices), lodised Salt, Sug, Pomegranate, Parsley Leaves (0.2%), Acidity Regulator (INS 330 & INS 270) and Paprika Extrac (INS 160c)) CONTAINS: ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES) INGREDIENTS: Pommes De Terre (65%), Huile Végétale Comestible (Huile De Palme, Huile De Coton), Epices Moulues Et Condiments (7%) (Poudre D'oignon, Poudre D'ail, Coriandre, Poivre Nor Piment Rouge, Piment Vert, Gingembre, Cumin, Curcuma (Colorant Et Épices), Sel lode, Sucre Grenade, Feuilles De Persil (0.2%), Régulateur D'acidité (INS 330 Et INS 270) Et Extrait De Paprika ZUTATEN: Kartoffeln (65%), Essbares Pflanzenöl (Palmoleinöl, Baumwollsamenöl, Gemahlene Gewürze Und Gewürze (7%) (Zwiebelpulver, Knoblauchpulver, Koriander, Schwarzer Pfeffer, Roter Petersilienblatter (0.2%), Säureregulator (INS 330 & INS 270) und Paprikaextrakt (INS 160c)) سكريات بطاطس (٥٨%) ، زيت طعام نباتي زيت دمن النخيل زيت بذور القطن بهارات وتوابل مطحونة (٧%) (مسحوق بصل. اسم اليوم كزيرة، فلفل أسود، فلفل أحمر حار فلفل أخضر حار ،زنجبيل كمون كركم تلوين) و بهارات ملح مدعم بالبود. STORAGE IN",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005504548",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

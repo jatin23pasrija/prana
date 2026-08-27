@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906054031347",
+  "barcode_printed": "8906054031347",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Makhana Gorgon Nuts Black Pepper & Himalayan Salt",
+  "brand": "pop-mak",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (25 g)",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 115,
+        "protein_g": 2.18,
+        "carbohydrate_g": 17.17,
+        "sugars_g": 0,
+        "fat_g": 3.95,
+        "saturated_fat_g": 0.71,
+        "fibre_g": 2.33,
+        "sodium_mg": 80.57
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906054031347",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

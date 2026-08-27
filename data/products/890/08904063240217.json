@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063240217",
+  "barcode_printed": "8904063240217",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's",
+  "brand": "haldiram-s",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Split Green Gram (74%), Edible Vegetable Oil (Cotton Seed, Corn, Ground Nut and Rice Bran) and lodised Salt. Allergen Information: Contains Peanut. STORE IN A COOL & DRY PLACE, ONCE OPENED KEEP THE MATERIAL IN AIR TIGHT CONTAINER. Haldiram's Trade Mak/Copyright Haldia India (Pvt) Lad Momber St Gur (Haryana), INDIA PRODUCT OF INDIA Lic. No. For Feedback or Queries, Whit No. and Manufacturing Datel t THE CONSUMER SERVIC HALDIRAM SNACKS C-31, SECTOR-62, NOID GAUTAM BUDH NAGAR OR CALL US AT: 0120-2 US AT: CUSTOMERCARE VISIT US AT: WWW.I READY-TO-EAT SAVOURIES MRP. 5.00 (INCL. OF ALL SERVINGS PER PACK: NET QUANTITY: MFG. DATE : USE BY BATCH NO. : USP KEEP YOUR CITY CLEAN OTHER PACKAGED IN A PROTECTIVE ATMOSPHERE 8 904063 2 Pkg: Mtri. Mfd. By: GLS Films",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063240217",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

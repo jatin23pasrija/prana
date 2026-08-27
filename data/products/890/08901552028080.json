@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552028080",
+  "barcode_printed": "8901552028080",
+  "barcode_format": "EAN-13",
+  "name": "pakora chutney",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "water, sugar, tamarind, green chillies, salt, cumin, acidity regulator: citric acid, ginger powder, ginger, black salt, red chilli powder, processed in a facility that also processes tree nuts, peanuts, wheat, milk, soya and sesame keep away from direct sunlight, refrigerate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552028080",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

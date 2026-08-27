@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "09551285288269",
+  "barcode_printed": "9551285288269",
+  "barcode_format": "EAN-13",
+  "name": "Double choco Brownie caké",
+  "brand": "lavian",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 21,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 445.39,
+        "protein_g": 7.23,
+        "carbohydrate_g": 68.57,
+        "sugars_g": 29.12,
+        "fat_g": 17.03,
+        "saturated_fat_g": 11.25,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 122.92
+      }
+    }
+  ],
+  "ingredients_raw": "product contains SORBITOL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9551285288269",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

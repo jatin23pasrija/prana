@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014814007",
+  "barcode_printed": "8908014814007",
+  "barcode_format": "EAN-13",
+  "name": "Multigrain Bread",
+  "brand": "mr-bakewell",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 331,
+        "protein_g": 3.5,
+        "carbohydrate_g": 68,
+        "sugars_g": 6.75,
+        "fat_g": 5,
+        "saturated_fat_g": 3
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Water, Multigrain Mix (Sunflower, Flax Seed, Sesame, Soya Seeds Rolled Oats), Whole Wheat Flour (Atta), Sugar, Edible Vegetable Oil (Palm Oil), Yeast, iodized Salt, Soya Flour, Gluten, Calcium Propionate (INS282). Bread Improver (INS 170), 1100i, Ardior fort (INS 301)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014814007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

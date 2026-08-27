@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "02200000801494",
+  "barcode_printed": "2200000801494",
+  "barcode_format": "EAN-13",
+  "name": "Idiyappam",
+  "brand": "adyar-annapoorna",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 369,
+        "protein_g": 6.7,
+        "carbohydrate_g": 82.3,
+        "sugars_g": 0,
+        "fat_g": 1.4,
+        "saturated_fat_g": 0,
+        "fibre_g": 0.5,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Flour, Water, Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/2200000801494",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

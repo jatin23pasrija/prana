@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262175890",
+  "barcode_printed": "8901262175890",
+  "barcode_format": "EAN-13",
+  "name": "Amul Kesar Pista Royale",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 238.81,
+        "protein_g": 4.48,
+        "carbohydrate_g": 22.39,
+        "sugars_g": 20.9,
+        "fat_g": 14.93,
+        "saturated_fat_g": 8.36,
+        "sodium_mg": 52.24
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262175890",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

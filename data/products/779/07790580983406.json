@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "07790580983406",
+  "barcode_printed": "7790580983406",
+  "barcode_format": "EAN-13",
+  "name": "Jardinera con choclo",
+  "brand": "arcor",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "130 g",
+        "quantity": {
+          "value": 130,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 92,
+        "energy_kj": 391,
+        "protein_g": 3.6,
+        "carbohydrate_g": 16,
+        "sugars_g": 1.3,
+        "fat_g": 1.4,
+        "saturated_fat_g": 0.3,
+        "fibre_g": 4.6,
+        "sodium_mg": 234
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7790580983406",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200044",
+  "barcode_printed": "8904063200044",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram Chips Panchrattan",
+  "brand": "haldiram-s",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potatoes (41%), Edible Vegetable Oil (Palmolein, Cotton Seed, Rice Bran) Raisins (8.0%), Cashew Nuts (7.0%), Sugar Powder, Almonds (6.0%), Rice Flakes (2.0%), Sesame Seeds, lodised Salt, Curry Leaves, Black Pepper Powder, Cumin and Acidity Regulator (INS 330). CONTAING NUTS AND SESAME SEEDS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200044",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

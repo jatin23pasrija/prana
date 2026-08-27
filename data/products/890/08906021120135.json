@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021120135",
+  "barcode_printed": "8906021120135",
+  "barcode_format": "EAN-13",
+  "name": "Compounded Asafoetida Powder",
+  "brand": "aachi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 367.7,
+        "protein_g": 5.1,
+        "carbohydrate_g": 83.9,
+        "sugars_g": 0.1,
+        "fat_g": 1.3,
+        "saturated_fat_g": 0.7,
+        "trans_fat_g": 0,
+        "sodium_mg": 4.4
+      }
+    }
+  ],
+  "ingredients_raw": "Gum Arabic, Refined Wheat Flour (Maida, approx 30%) and Asafoetida",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021120135",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

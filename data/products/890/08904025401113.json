@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904025401113",
+  "barcode_printed": "8904025401113",
+  "barcode_format": "EAN-13",
+  "name": "Mix Fruit Jam",
+  "brand": "chitale",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Mix Fruits Pulp / Juice - 46% (Strawberry Pulp, Banana Pulp, Papaya Pulp, Mango Pulp, Orange Juice, Pineapple Juice, Grape Juice, Guava Pulp), Thickener (INS 440), Acidity Regulator (INS 330), PRESERVATIVE (INS 211) CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 127), (INS 122) & ADDED FLAVOUR - NATURE IDENTICAL MIX FRUIT AND ARTIFICAL RASPBERRY FLAVOURING SUBSTANCE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904025401113",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

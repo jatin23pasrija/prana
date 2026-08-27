@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906015614749",
+  "barcode_printed": "8906015614749",
+  "barcode_format": "EAN-13",
+  "name": "Butterscotch cone",
+  "brand": "hangyo",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "110 ml",
+        "quantity": {
+          "value": 110,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 303,
+        "protein_g": 4.4,
+        "carbohydrate_g": 31.8,
+        "sugars_g": 20.3,
+        "fat_g": 17.6,
+        "saturated_fat_g": 11,
+        "trans_fat_g": 0.3,
+        "sodium_mg": 149
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906015614749",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

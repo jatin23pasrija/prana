@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906032019787",
+  "barcode_printed": "8906032019787",
+  "barcode_format": "EAN-13",
+  "name": "Marie biscut",
+  "brand": "patanjali",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 409,
+        "energy_kj": 1712,
+        "protein_g": 7.9,
+        "carbohydrate_g": 74.5,
+        "sugars_g": 19,
+        "fat_g": 10.5,
+        "saturated_fat_g": 5.1,
+        "fibre_g": 7.5,
+        "sodium_mg": 296
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat flour (Atta 65.5%), Sugar, Refined vegetable oil (Palm oil), Malt extract, Raising agent (INS 500 (ii), INS 503(1)),Barley flour, Invert syrup, Liquid glucose, Milk solids, Honey, iodized salt, Clarified butter, Dough conditioner (INS 223). Antioxidant (INS 319), Emulsifier [INS 322(i)], Flavours-Nature identical flavouring substances (Milk & Vanilla). CONTAINS _WHEAT_, _MILK_, _SOY_, _BARLEY_ , _SULPHITE_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906032019787",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

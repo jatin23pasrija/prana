@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901095001465",
+  "barcode_printed": "8901095001465",
+  "barcode_format": "EAN-13",
+  "name": "Masala Flavour Instant Tea Premix",
+  "brand": "daily",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 14,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Medium fat dairy whitener Milk solids Sugar and Emulsifiers [INS 339 ) and DNS 309 (iii)], Maltodextrin, Instant tea powder (45%) Milk solids, Mix masala powder (0.4%) and Flavours (Natural flavouring substances) CONTAINS MILK FOR USE:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901095001465",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

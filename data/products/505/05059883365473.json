@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "05059883365473",
+  "barcode_printed": "5059883365473",
+  "barcode_format": "EAN-13",
+  "name": "Legacy Pre-Workout Dry Scoop - Mango And PassionFruit",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "16 g",
+        "quantity": {
+          "value": 16,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 29.44,
+        "protein_g": 0,
+        "carbohydrate_g": 7.34,
+        "sugars_g": 0.18,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "sodium_mg": 1.92
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5059883365473",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08902050002039",
+  "barcode_printed": "8902050002039",
+  "barcode_format": "EAN-13",
+  "name": "Cornflakes Chiwda (fried Indian snack)",
+  "brand": "laxminarayan",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 602.72,
+        "protein_g": 10.97,
+        "carbohydrate_g": 42.96,
+        "sugars_g": 16.71,
+        "fat_g": 43,
+        "saturated_fat_g": 13.71,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Cornflakes, Peanuts, Peanut Oil, Sugar, Raisins, Cashewnuts, Coconut, Sesame, Iodised Salt, Hydrogenated Vegetable Oil, Chilli Powder, Turmeric Powder, Asafoetida, Licorice root.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902050002039",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

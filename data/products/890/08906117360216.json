@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117360216",
+  "barcode_printed": "8906117360216",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Atta",
+  "brand": "country-delight",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 4000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 370,
+        "protein_g": 11,
+        "carbohydrate_g": 75,
+        "sugars_g": 0.2,
+        "fat_g": 3,
+        "saturated_fat_g": 0.3,
+        "trans_fat_g": 0,
+        "fibre_g": 11.7,
+        "sodium_mg": 2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117360216",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

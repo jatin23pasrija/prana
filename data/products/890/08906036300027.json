@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906036300027",
+  "barcode_printed": "8906036300027",
+  "barcode_format": "EAN-13",
+  "name": "peanut chikki",
+  "brand": "karia-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 560.67,
+        "protein_g": 15.92,
+        "carbohydrate_g": 48.11,
+        "sugars_g": 35.26,
+        "fat_g": 32.29,
+        "saturated_fat_g": 6.18,
+        "fibre_g": 6.97
+      }
+    }
+  ],
+  "ingredients_raw": "Peanut, Jaggery and Liquid Glucose Contains Added Flavour (Nature Identical & Artificial Flavouring Substances-Vanilla). Contains Peanut Allergen information: This product was manufactured in a plant that also processes product containing peanuts, almonds, pistachio, tree nuts and sesame.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906036300027",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

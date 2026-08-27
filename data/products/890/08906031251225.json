@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906031251225",
+  "barcode_printed": "8906031251225",
+  "barcode_format": "EAN-13",
+  "name": "Chakote Milk Toast",
+  "brand": "chakote",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour(Maida), Sugar, Hydrogenate Vegetable Oil, Edible Vegetable Oil (Pat) Compressed Yeast, lodized Salt, Gluten, Milk Solids (6%), Starch, Soya Flour, Emulsifiers (INS 472e, INS 481(i)), Antioxidant (INS 300), Anticaking Agent (INS 170(i)), Stabilizer (INS 1104), Flour Treatment Agents (INS 510, INS 1100(i)) & Vanillin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906031251225",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

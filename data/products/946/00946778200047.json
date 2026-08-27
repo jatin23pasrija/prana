@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "00946778200047",
+  "barcode_printed": "0946778200047",
+  "barcode_format": "EAN-13",
+  "name": "Super Munchies Pineapple Chips",
+  "brand": "super-munchies",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 424,
+        "protein_g": 2,
+        "carbohydrate_g": 80,
+        "sugars_g": 7.3,
+        "fat_g": 11,
+        "saturated_fat_g": 4,
+        "sodium_mg": 1.4
+      }
+    }
+  ],
+  "ingredients_raw": "Pineapple 89%, refined rice bran oil",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0946778200047",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

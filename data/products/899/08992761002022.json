@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08992761002022",
+  "barcode_printed": "8992761002022",
+  "barcode_format": "EAN-13",
+  "name": "Sprite 390ml",
+  "brand": "sprite",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 390,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Air berkarbonasi, gula, pengatur keasaman (asam sitrat & trinatrium sitrat), perisa alami, pengawet (natrium benzoat), pemanis buatan (asesulfam-k & sukralosa), minyak jeruk nipis dan lemon (0.001%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8992761002022",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

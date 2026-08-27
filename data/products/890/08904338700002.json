@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904338700002",
+  "barcode_printed": "8904338700002",
+  "barcode_format": "EAN-13",
+  "name": "A gile",
+  "brand": "dehlvi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Dhania (Coriandrum sativum) (Fr.) (Dst.) Gule Surkh (Rosa damascena) (F1.) (Dst.) Patent & Proprietary Unani Medicine Formula Each 20 ml contains: Balcharr (Nardostachys jatamansi) (Rz.) (Dst.) Charilla (Parmelia perlata) (Pl.) (Dst.) mg mg mg 20 mg 20 mg Jaiphal (Myristica fragrans) (Sd.) (Dst.) 20 mg Khus (Vetiveria zizanoides) (Rt.) (Dst.) Post Turanj (Citrus medica) (Fr.R.) (Dst.) 20 mg Sandal Safed (Santalum album) (Ht.Wd.) (Dst.) Tezpat (Cinnamomum tamala) (Lf.) (Dst.) Zanjbeel (Zingiber officinale) (Rz.) (Dst.) 20 mg 20 mg 20 mg Rubbe Anar (Punica granatum) (Rp.Fr.Pp.) (Jce.) 0.56 ml 0.56 ml 0.12 ml Arq Keora (Pandanus tectorius) (F1.) (Dst.) 0.12 ml 0.001 ml 0.001 ml Rubbe Seb (Malus sylvestris) (Rp.Fr.Pp.) (Jce.) Arq Gulab (Rosa damascena) (F1.) (Dst.) Roghan Darchini (Cinnamomum zeylanicum) (St.Bk.) (Oil) Roghan Elaichi (Elettaria cardamomum) (Sd.) (Oil) Roghan Long (Syzygium aromaticum) (Fl. Bd.) (Oil) Zafran (Crocus sativus) (Fl. Stg.) (Dct.) Qand Safed (Saccharum officinarum) (Jce.) (Ext.) (Pdr.) Aab (Purified water) (Liq) Natroon Banjawi (Sodium benzoate) (Cryst.) (Pdr.) Dosage: Adults 20 ml and Children 10 ml before breakfast and evening meal. SHAKE WELL BEFORE USE Max. Ret. Price: (Incl. of all Taxes) Batch No. : Date of Mfg.: Date of Exp. : For mfg. location, refer the first digit 0.001 ml 10 mg q.s. q.s. q.s. 215/00 DS/01/220 02/2023 01/2026 of the Batch No. and see address pannel. Mild. by:- Sana Herbals Pvt. Ltd. (AG.M.P. CERTIFIED Co.) Correspondence at Regd. Office: (P) 238, F.I.E., Patparganj, Delhi-92 (D) B-24, UPSIDC, M.G. Road, Ind. Area, Ma-1, Dasna, Hapur (U.P.)-201015 Mfg Lic. No.: U-135/2019 Mig. Lic. No.: DL-275 A&U Bawana Ind. Area, Delhi-110039 Mfg Lic. No.: DL-387 A&U Plot-60. Pocket-G, Sector-3, Consumer Care No. : 9555094254 Email: info@sanaherbals.com 8904338 700002",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904338700002",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

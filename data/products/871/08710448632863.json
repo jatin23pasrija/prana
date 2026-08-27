@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08710448632863",
+  "barcode_printed": "8710448632863",
+  "barcode_format": "EAN-13",
+  "name": "Barbecue-Sauce",
+  "brand": "remia",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "tomatenpuree 51%, groenten (ui 22,4% en paprika 4,2%), suiker, natuurazijn, maiszetmeel, gemodificeerd maiszetmeel, zout, specerijen, zwarte peper, natuurlijk aroma, voedingszuur: citroenzuur, conserveermiddel: kaliumsorbaat, MOSTERDMEEL, kruiden.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8710448632863",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042959191",
+  "barcode_printed": "8901042959191",
+  "barcode_format": "EAN-13",
+  "name": "Paneer Tikka Masala",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Onion (27%), Water, Cottage cheese (Milk )(15%); Toned milk, Tomato paste. Refined sunflower oil, Yogurt, Spices, Cashew nuts, Sugar, Salt, Ginger, Green chilli, Red chilli, Garlic, Turmeric powder, Dried fenugreek leaves. Colour (Paprika oleoresin) ALLERGEN ADVICE: Contains Milk and Tree nuts. May Contain traces of Mustard. Peanuts and Sesame. المكونات: بصل (%27)، ماء، جبن قريش (%15)، حليب منزوع الدسم، معجون طماطم، زيت دوار الشمس المكرر، زبادي، توابل، مكسرات الكاجو، سكر، ملح، زنجبيل، فلفل أخضر، فلفل أحمر، ثوم، مسحوق الكركم، أوراق الحلية المجففة، أولرين بابريكا نصيحة لمن يعانون الحساسية: يحتوي على حليب ومكسرات. قد يحتوي على فتات الخردل والفول السوداني والسمسم.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042959191",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

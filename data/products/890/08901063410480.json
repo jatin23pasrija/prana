@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063410480",
+  "barcode_printed": "8901063410480",
+  "barcode_format": "EAN-13",
+  "name": "Laughing Cow Cheese Slice",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 288,
+        "protein_g": 14.5,
+        "carbohydrate_g": 3.4,
+        "sugars_g": 3.4,
+        "fat_g": 24,
+        "saturated_fat_g": 14.9,
+        "trans_fat_g": 0.9,
+        "sodium_mg": 1350
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063410480",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

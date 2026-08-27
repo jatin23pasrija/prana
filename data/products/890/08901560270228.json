@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901560270228",
+  "barcode_printed": "8901560270228",
+  "barcode_format": "EAN-13",
+  "name": "Garlic Paste",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 126,
+        "protein_g": 5.1,
+        "carbohydrate_g": 25.6,
+        "sugars_g": 0,
+        "fat_g": 0.4,
+        "saturated_fat_g": 0.1,
+        "fibre_g": 4.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901560270228",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

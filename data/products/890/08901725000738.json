@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725000738",
+  "barcode_printed": "8901725000738",
+  "barcode_format": "EAN-13",
+  "name": "Charliee till laddu",
+  "brand": "charliee",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "40g",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 212,
+        "protein_g": 5.7,
+        "carbohydrate_g": 20.8,
+        "sugars_g": 16.48,
+        "fat_g": 11.76,
+        "saturated_fat_g": 1.52,
+        "fibre_g": 2.84,
+        "sodium_mg": 32.05
+      }
+    }
+  ],
+  "ingredients_raw": "Til (Sesame) (53%), Jaggery (25%), Sugar (15%), Liquid Glucose (7%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725000738",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

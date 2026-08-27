@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906097408588",
+  "barcode_printed": "8906097408588",
+  "barcode_format": "EAN-13",
+  "name": "Fish Fry Marinade Mix",
+  "brand": "zoff",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 72.46,
+        "protein_g": 3.6,
+        "carbohydrate_g": 8.51,
+        "sugars_g": 1.97,
+        "fat_g": 2.78,
+        "saturated_fat_g": 1.16,
+        "trans_fat_g": 0,
+        "sodium_mg": 56.91
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906097408588",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901044210856",
+  "barcode_printed": "8901044210856",
+  "barcode_format": "EAN-13",
+  "name": "Mix Fruit Jam",
+  "brand": "mapro",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SUGAR, MIX FRUIT PULP (PAPAYA PULP, GUAVA PULP, BANANA PULP, MANGO PULP, PINEAPPLE PULP, APPLE PULP, ORANGE JUICE, STRAWBERRY PULP) (45%), WATER, ACIDITY REGULATORS (INS-330, INS 331), THICKENER (INS-440), PRESERVATIVE (INS-211) CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS-122) AND ADDED FLAVOURS-NATURAL, NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (MIX FRUIT)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901044210856",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

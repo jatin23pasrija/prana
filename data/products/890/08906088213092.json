@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08906088213092",
+  "barcode_printed": "8906088213092",
+  "barcode_format": "EAN-13",
+  "name": "Orika Special Magic Masala",
+  "brand": "orika",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 72,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "6g",
+        "quantity": {
+          "value": 6,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 10.8,
+        "protein_g": 0.3,
+        "carbohydrate_g": 1.5,
+        "sugars_g": 0.7,
+        "fat_g": 0.2,
+        "saturated_fat_g": 0,
+        "fibre_g": 0.5,
+        "sodium_mg": 863.3
+      }
+    }
+  ],
+  "ingredients_raw": "Lodized Salt, Spices and Condiments, Corn Starch, Sugar, HVP (Soya), Flavour (Natural and Nature Identical), Edible Rice Bran Oil, Yeast Extracts, Spice Extracts, Anticaking Agent (INS 551), Acidity Regulator (INS 330), Natural Colour (160c), Caramel Powder (INS 150d), and Dehydrated Kasuri Methi.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906088213092",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

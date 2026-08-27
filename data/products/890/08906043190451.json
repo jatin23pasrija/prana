@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906043190451",
+  "barcode_printed": "8906043190451",
+  "barcode_format": "EAN-13",
+  "name": "Soan Papdi",
+  "brand": "pramod-multifold-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar(47%), Gram Flour (18%), Edible Vegetable Oil (Palmolein Oil, Corn Oil), Refined Wheat Flour(Maida(8%)), Hydrogenated Vegetable Oil, Almond (0.5%), Pistachio (0.12%), Cardamom.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906043190451",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

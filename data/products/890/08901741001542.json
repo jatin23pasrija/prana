@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901741001542",
+  "barcode_printed": "8901741001542",
+  "barcode_format": "EAN-13",
+  "name": "Mama",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 480,
+        "protein_g": 10,
+        "carbohydrate_g": 58.2,
+        "sugars_g": 2,
+        "fat_g": 23,
+        "saturated_fat_g": 10,
+        "fibre_g": 3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901741001542",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

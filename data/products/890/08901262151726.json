@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262151726",
+  "barcode_printed": "8901262151726",
+  "barcode_format": "EAN-13",
+  "name": "Amul Lactose Free250ml",
+  "brand": "amul",
+  "category": "milk",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "250 ml",
+        "quantity": {
+          "value": 250,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 148,
+        "protein_g": 7.5,
+        "carbohydrate_g": 12,
+        "sugars_g": 12,
+        "fat_g": 7.8,
+        "saturated_fat_g": 5,
+        "sodium_mg": 105
+      }
+    }
+  ],
+  "ingredients_raw": "Toned Milk, Milk Solids, Enzyme (beta galactosidase)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262151726",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

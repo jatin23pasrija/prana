@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "03948063032453",
+  "barcode_printed": "3948063032453",
+  "barcode_format": "EAN-13",
+  "name": "Treat Croissant Vanilla",
+  "brand": "britannia",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL & INTERESTERIFIED VEGETABLE FAT, MARGARINE, LIQUID GLUCOSE, MILK SOLIDS, BAKERY IMPROVER MIX {EMULSIFIERS [481(i) & 471], ANTICAKING AGENT [170(i)], FLOUR TREATMENT AGENTS [1100(i) & 1101(i)] & ANTIOXIDANT (300)}, HUMECTANT [420(ii)], YEAST, VITAL GLUTEN, EMULSIFIERS (471 & 475), IODISED SALT, PRESERVATIVES (282 & 202), NATURE IDENTICAL (VANILLA) FLAVOURING SUBSTANCES, COLOUR (171), RAISING AGENTS [450(i) & 338] AND STABILIZER (469).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948063032453",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

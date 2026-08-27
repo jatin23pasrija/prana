@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08886467122446",
+  "barcode_printed": "8886467122446",
+  "barcode_format": "EAN-13",
+  "name": "Pringles - South African Style Periperi Flavour",
+  "brand": "pringles",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Dried Potato (44%), Edible Vegetable Oil (Palm Oil), Corn Flour, Starch, Peri Peri Seasoning (6.5%) [Maltodextrin, Salt, Sugar, Flavouring Substances (Natural & Nature Identical), Vegetable Powder (5%) (Garlic), Vinegar, Spices (Red Chilli Pepper (3%), Cumin), Acidity Regulator (INS 296), Flavour Enhancer (INS 635), Anticaking Agents (INS 341(iii), 551), Spice Extracts (0.6%) (Green Chilli, Garlic, Paprika), Herb Extract (Oregano)], Emulsifier (INS 471), Maltodextrin, Acidity",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8886467122446",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

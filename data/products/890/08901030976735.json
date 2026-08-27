@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030976735",
+  "barcode_printed": "8901030976735",
+  "barcode_format": "EAN-13",
+  "name": "Korean Ramen",
+  "brand": "knorr",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 96,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 418,
+        "protein_g": 9.4,
+        "carbohydrate_g": 65.8,
+        "sugars_g": 3.7,
+        "fat_g": 14.1,
+        "saturated_fat_g": 6.6,
+        "trans_fat_g": 0.1,
+        "fibre_g": 5,
+        "sodium_mg": 1944
+      }
+    }
+  ],
+  "ingredients_raw": "NOODLES: REFINED WHEAT FLOUR (MAIDA THICKENER-1420, PALM OIL/PALMOLEIN, WHEAT GLUTEN, POTATO STARCH, IODISED SALT, YEAST, ACIDITY REGULATOR-500(i) AND 501(i), TEXTURIZER - 451(i). SEASONING: IODISED SALT, #DEHYDRATED VEGETABLES (CABBAGE, ONION, GINGER), FLAVOUR ENHANCER - 627 & 631, MILK SOLIDS, POTATO STARCH, SPICES AND CONDIMENTS (CHILLI POWDER (0.8%)), OLEORESIN CHILLI, SUGAR, MALTODEXTRIN, FLAVOURS - NATURE IDENTICAL FLAVOURING SUBSTANCES AND NATURAL GARLIC FLAVOUR, ANTICAKING AGENT - 551, HYDROLYZED VEGETABLE PROTEIN. #DEHYDRATED VEGETABLES (3.1%): CABBAGE, SPRING ONION, MUSHROOM, BROCCOLI, BELL PEPPER, ZUCCHINI. CONTAINS WHEAT AND MILK. MAY CONTAIN TRACES OF MUSTARD, CELERY, SOYA & NUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030976735",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063240071",
+  "barcode_printed": "8904063240071",
+  "barcode_format": "EAN-13",
+  "name": "Bhujia",
+  "brand": "haldiram-s",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 38,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 579.6,
+        "protein_g": 14.1,
+        "carbohydrate_g": 39,
+        "sugars_g": 3.1,
+        "fat_g": 40.8,
+        "saturated_fat_g": 6.7,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 754
+      }
+    }
+  ],
+  "ingredients_raw": "Tepary Beans Flour, Edible Vegetable Oil (Cotton Seed, Corn, Palmolein, Ground Nut and Rice Bran), Gram Pulse Flour, lodised Salt, *Spices & Condiments (Red Chilli Powder, Black Pepper Powder, Ginger Powder, Clove Powder, Mace Powder, Nutmeg Powder and Cardamom Powder). &quot;Used as natural flavouring substances. Contains Peanut",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063240071",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

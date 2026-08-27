@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010505219",
+  "barcode_printed": "8906010505219",
+  "barcode_format": "EAN-13",
+  "name": "Tomato Twist",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 564.37,
+        "protein_g": 7.05,
+        "carbohydrate_g": 52.91,
+        "sugars_g": 3.53,
+        "fat_g": 31.75,
+        "saturated_fat_g": 17.64,
+        "fibre_g": 7.05,
+        "sodium_mg": 388.01
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010505219",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

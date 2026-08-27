@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030653407",
+  "barcode_printed": "8901030653407",
+  "barcode_format": "EAN-13",
+  "name": "Kissan Fresh Tomato Ketchup",
+  "brand": "kissan",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 950,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "TOMATO KETCHUP INGREDIENTS: WATER,TOMATO PASTE (28%), SUGAR, SALT, ACIDITY REGULATOR-260, STABILIZERS-1422, 415,PRESERVATIVE-211, ONION POWDER, GARLIC POWDER, SPICES AND CONDIMENTS CONTAINS PERMITTED CLASS II PRESERVATIVE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030653407",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

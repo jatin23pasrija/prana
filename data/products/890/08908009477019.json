@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009477019",
+  "barcode_printed": "8908009477019",
+  "barcode_format": "EAN-13",
+  "name": "Triple strength Omega 3 fish oil",
+  "brand": "healthy-hey",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Fish Oil (Sardine), Vitamin E (D-alpha-tocopherol), Gelatin (Ingredient of capsule shell) glycerin (Vehicle), Sorbitol (Humectant) (INS 420 (i)), Methyl paraben (Preservative) (INS 218), Propy peraben (Preservative) (INS 216) and Purified Water.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009477019",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

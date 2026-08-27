@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00769503843209",
+  "barcode_printed": "0769503843209",
+  "barcode_format": "EAN-13",
+  "name": "Brownie Crunch",
+  "brand": "get-a-way",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Brownie Crunch Ice Cream Bar Inner Layer (Ice Cream 77%): Milk and Milk Solids. Whey Protein Concentrate, Brownie Pieces (10%)(Wheat Flour, Cocoa Solids, Coconut Oil, Baking Powder), Chocolate Fudge (4%)(Chocolate, Walnut, Ghee), Cocoa Solids (3%), Erythritol. Permitted Emulsifying (E471) and Stabilising (E412, E433. E415.E407) Agents. Outer Layer (23%): Chocolate Paste (Maltitol, Refined Coconut Oil, Cocoa Solids. Soya Lecithin). Cocoa Butter, Roasted Cashew (7%). CONTAINS PERMITTED NATURAL COLOUR(S) & ADDED FLAVOUR(S) Allergens: Contains Milk, Nut and Contains Soy. Polyols may have a laxative effect.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0769503843209",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

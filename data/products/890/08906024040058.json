@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08906024040058",
+  "barcode_printed": "8906024040058",
+  "barcode_format": "EAN-13",
+  "name": "Ginger Chat",
+  "brand": "guru-krupa-products",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 207,
+        "protein_g": 0.7,
+        "carbohydrate_g": 51.3,
+        "fat_g": 1.4,
+        "fibre_g": 3.15,
+        "sodium_mg": 470
+      }
+    }
+  ],
+  "ingredients_raw": "Ginger, Black Salt, Citric & Aspartame.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906024040058",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

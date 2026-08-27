@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906165785665",
+  "barcode_printed": "8906165785665",
+  "barcode_format": "EAN-13",
+  "name": "Biozyme Performance Whey Triple chocolate",
+  "brand": "muscleblaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "38.5 g",
+        "quantity": {
+          "value": 38.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 148.94,
+        "protein_g": 25,
+        "carbohydrate_g": 7.32,
+        "sugars_g": 4.36,
+        "fat_g": 2.18,
+        "saturated_fat_g": 1.52,
+        "trans_fat_g": 0,
+        "sodium_mg": 212.44
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906165785665",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

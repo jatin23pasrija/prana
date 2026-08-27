@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001050711",
+  "barcode_printed": "8906001050711",
+  "barcode_format": "EAN-13",
+  "name": "Mixed pickle",
+  "brand": "mother-s-recipe",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 142,
+        "protein_g": 2,
+        "carbohydrate_g": 12,
+        "sugars_g": 5.3,
+        "fat_g": 9.3,
+        "saturated_fat_g": 2,
+        "sodium_mg": 4730
+      }
+    }
+  ],
+  "ingredients_raw": "Mixed Fruits and Vegetable Pieces (Mango, Carrot, Lime, Green Chilli, Tomato and Amba Haldar) (62%), Iodized Salt, Water, Cottonseed Oil, Chilli Powder, Spices & Condiments. Acidity Regulator (INS 260) and Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001050711",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

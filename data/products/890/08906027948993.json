@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906027948993",
+  "barcode_printed": "8906027948993",
+  "barcode_format": "EAN-13",
+  "name": "Mexican Style Rice",
+  "brand": "eat-regal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 249.47580350000004,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Long Grain White Rice, Red Kidney Beans, Tomato, Salsa Sauce (Tomato, Sugar, Salt, Onion, Coriander, Capsicum, Jalapeno, Lemon), Sweet Corn, Bell Pepper, Refined Sunflower Oil, Garlic, Vinegar, Salt, Jalapeno, DMG (E 471, Vegetable), Lemon, Sugar, Silicon Dioxide.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906027948993",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

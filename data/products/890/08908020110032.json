@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08908020110032",
+  "barcode_printed": "8908020110032",
+  "barcode_format": "EAN-13",
+  "name": "Yes COCO",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 54,
+        "protein_g": 0.1,
+        "carbohydrate_g": 13.5,
+        "sugars_g": 11,
+        "fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Treated Water, Reconstituted Orange Juice (25%), Nata De Coco(25%), Sugar, Acidity Regulator 330, E327), Stabilizer (E 418), Class II Preservatives (E 202, E 211), Vitamin C (E 300) Contain Permitted Synthetic Food Colour (E 110) and Added Nature Identical Flavoring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908020110032",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

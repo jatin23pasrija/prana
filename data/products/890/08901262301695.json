@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262301695",
+  "barcode_printed": "8901262301695",
+  "barcode_format": "EAN-13",
+  "name": "Ice Malai",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 67,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "67g",
+        "quantity": {
+          "value": 67,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 158,
+        "protein_g": 2.5,
+        "carbohydrate_g": 17.4,
+        "sugars_g": 3.9,
+        "fat_g": 8.7,
+        "saturated_fat_g": 5.2,
+        "sodium_mg": 35
+      }
+    }
+  ],
+  "ingredients_raw": "Milk solids, polydextrose, fructo-oligosaccharides, emulsifiers (471, 491), stabilizers (407, 412). Allergen Information: Contains milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262301695",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

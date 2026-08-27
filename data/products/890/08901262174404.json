@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262174404",
+  "barcode_printed": "8901262174404",
+  "barcode_format": "EAN-13",
+  "name": "Sundae Gudbud",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 183,
+        "protein_g": 3.1,
+        "carbohydrate_g": 22.8,
+        "sugars_g": 20.6,
+        "fat_g": 9.4,
+        "saturated_fat_g": 5.3,
+        "sodium_mg": 38
+      }
+    }
+  ],
+  "ingredients_raw": "Milk solids, sugar, ripple (6%) (water, sugar, dextrose, stabilizer (440), acidity regulator (330), artificial flavouring substances (grape, orange), colours (110,102,122,132)], candied fruit pieces (4.5%), raisin (2%), cashew (2%), emulsifier (471), stabilizers (407, 466, 415, 412), toppings (5.5%) [multi coloured sugar strands (36) milk chocolate chips (2.5%)], artificial flavouring substances strawberry, vanilla), colour (127).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262174404",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

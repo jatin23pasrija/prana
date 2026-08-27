@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002484003",
+  "barcode_printed": "8906002484003",
+  "barcode_format": "EAN-13",
+  "name": "Snickers",
+  "brand": "mars",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 12,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 477,
+        "protein_g": 7.2,
+        "carbohydrate_g": 61,
+        "sugars_g": 55.9,
+        "fat_g": 22.65,
+        "saturated_fat_g": 10.2,
+        "trans_fat_g": 0.11,
+        "sodium_mg": 231
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Milk Solids, Cocoa Butter, Cocoa Solids, Edible vegetable fats &lt; 5% (Sal fat, Palm oil), Dextrose, Emulsifier (E322); Liquid Glucose, Peanuts (14%), Sugar, Hydrogenated vegetable oil (Palm oil), Milk Solids, Iodized Salt, Cocoa Butter, Cocoa Solids, Edible vegetable fats &lt; 5% (Sal fat, Palm oil), Dextrose, Emulsifier (E322).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002484003",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

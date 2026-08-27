@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512540508",
+  "barcode_printed": "8901512540508",
+  "barcode_format": "EAN-13",
+  "name": "Act 2 butter pepper 70g",
+  "brand": "act-ii",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 569,
+        "energy_kj": 2381,
+        "protein_g": 0,
+        "carbohydrate_g": 49,
+        "fat_g": 39,
+        "saturated_fat_g": 20,
+        "fibre_g": 7,
+        "sodium_mg": 400
+      }
+    }
+  ],
+  "ingredients_raw": "Popping Corn, Edible Vegetable Fat, iodised Salt, Pepper White Powder and Beta Carotene CONTAINS PERMITTED NATURAL COLOUR [160a()] AND ADDED FLAVOURS (NATURAL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512540508",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

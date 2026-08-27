@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719125812",
+  "barcode_printed": "8901719125812",
+  "barcode_format": "EAN-13",
+  "name": "hide & seek Milano choco filled cocoa rich biscuits",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 533,
+        "protein_g": 4.4,
+        "carbohydrate_g": 64,
+        "sugars_g": 38,
+        "fat_g": 28.8,
+        "saturated_fat_g": 13.6,
+        "sodium_mg": 102
+      }
+    }
+  ],
+  "ingredients_raw": "CHOCO CREME (40%) (SUGAR, REFINED OILS (PALMOLEIN & PALM OIL), COCOA SOLIDS, EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN), ARTIFICIAL FLAVOURING SUBSTANCES VANILLA) REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, SUGAR, COCOA SOLIDS (4.3%), INVERT SUGAR SYRUP, LIQUID GLUCOSE, IODISED SALT, RAISING AGENTS (500 (1), 503 (i), 341] AND EMULSIFIER OF VEGETABLE ORIGIN (472). CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES CHOCOLATE AND VANILLA).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719125812",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

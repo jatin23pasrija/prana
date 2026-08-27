@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901399088131",
+  "barcode_printed": "8901399088131",
+  "barcode_format": "EAN-13",
+  "name": "Glucovita bolts",
+  "brand": "bolts",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SUGAR (SUCROSE), DEXTROSE MONOHYDRATE, ACIDITY REGULATOR (INS 330), MINERALS (CALCIUM PHOSPHATE, IRON PYROPHOSPHATE), MAGNESIUM STEARATE, COMMON SALT, VITAMINS (VITAMIN C, VITAMIN D2), ANTICAKING AGENT (INS 551), PRESERVATIVES (INS 211), FOOD COLOURS (INS 110), ORANGE JUICE POWDER. CONTAINS PERMITTED SYNTHETIC FOOD COLOURS AND ADDED FLAVOURS (NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901399088131",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

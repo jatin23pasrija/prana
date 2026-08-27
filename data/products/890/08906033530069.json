@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033530069",
+  "barcode_printed": "8906033530069",
+  "barcode_format": "EAN-13",
+  "name": "pnsta mix",
+  "brand": "snapin",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 g",
+        "quantity": {
+          "value": 1,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 2.5,
+        "energy_kj": 10,
+        "protein_g": 0.1,
+        "carbohydrate_g": 0.5,
+        "fat_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033530069",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

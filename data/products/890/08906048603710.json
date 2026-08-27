@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906048603710",
+  "barcode_printed": "8906048603710",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Fariyali Kali Mirch",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 558.04,
+        "protein_g": 9.6,
+        "carbohydrate_g": 49.18,
+        "sugars_g": 10.05,
+        "fat_g": 35.88,
+        "saturated_fat_g": 13.4,
+        "fibre_g": 1.96,
+        "sodium_mg": 680
+      }
+    }
+  ],
+  "ingredients_raw": "Potato (42%), Peanuts (21%), Edible Vegetable Oil: Sugar (13%), Rock Salt, Black Pepper (0.73%), Coriander Seeds, Coriander Leaves, Poppy Seed Raisin, Curry Leaves, Citric Acid, Spices & Condiments. (Jeera Powder, Dhaniya Powder, Black Salt, Red Chilli Pouder, Black Pepper Powder, Asafoetida).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906048603710",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004403749",
+  "barcode_printed": "8904004403749",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's Moong Dal",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Hp Haldiram's NAGPUR TASTE OF TRADITION GOÛTEZ LA TRADITION INDIAN SNACKS/COLLATIONS INDIENNES MOONG DAL Salty Split Green Gram (Mung Bean)/ Gramme Vert Divisé Salé (Les Haricots Mung) All time salted snack of fried Mung Lentils meilleur collation salée des lentilles Mung fis PRODUCT ΟΙ Net WeigDIA/PRODUIT DE LINDE Poids Net: 350 THERE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004403749",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

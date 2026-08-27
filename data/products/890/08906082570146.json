@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082570146",
+  "barcode_printed": "8906082570146",
+  "barcode_format": "EAN-13",
+  "name": "Beetroot nacho crisps",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 528.57,
+        "protein_g": 14.29,
+        "carbohydrate_g": 14.29,
+        "sugars_g": 0,
+        "fat_g": 28.57,
+        "saturated_fat_g": 3.57,
+        "fibre_g": 7.14,
+        "sodium_mg": 350
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082570146",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

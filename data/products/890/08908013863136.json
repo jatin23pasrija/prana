@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013863136",
+  "barcode_printed": "8908013863136",
+  "barcode_format": "EAN-13",
+  "name": "Cranberry Almond Crunch Bar",
+  "brand": "epiphany",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (38 g)",
+        "quantity": {
+          "value": 38,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 136.8,
+        "protein_g": 2.9,
+        "carbohydrate_g": 20.7,
+        "fat_g": 4.8,
+        "fibre_g": 1.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013863136",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

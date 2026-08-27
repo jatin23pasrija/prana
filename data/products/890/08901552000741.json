@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552000741",
+  "barcode_printed": "8901552000741",
+  "barcode_format": "EAN-13",
+  "name": "Ashoka Garlic Pickle 500G",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Al (67%), Huile de tournesol, sel, Poudre de piment, Moutarde, Acide acétique, Fenugrec, Poudre de safran des Indes, Poudre de coriandre, Poudre de cumin, Ase fétide",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552000741",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

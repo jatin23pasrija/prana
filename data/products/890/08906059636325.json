@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059636325",
+  "barcode_printed": "8906059636325",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Berry Yogurt",
+  "brand": "epigamia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 85,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "85 g",
+        "quantity": {
+          "value": 85,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 65,
+        "protein_g": 5.7,
+        "carbohydrate_g": 7,
+        "sugars_g": 6,
+        "fat_g": 1.6,
+        "saturated_fat_g": 1,
+        "sodium_mg": 46
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059636325",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

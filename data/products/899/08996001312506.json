@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08996001312506",
+  "barcode_printed": "8996001312506",
+  "barcode_format": "EAN-13",
+  "name": "Malkist Cheese Flavoured Crunchy Layered Cracker Biscuits",
+  "brand": "mayora",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 144,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour Edible Vegetable Oil (Palmolein) Sugar (15.8%), Whey Powder, Glucose Syrup, Milk Solids (1.67%)(SMP), Cheese Powder (Cheese, Maltodextrin)(1.62%), Tapioca Starch, Leavening Agent (E503(ii), E500(ii)), Edible Common Salt, Baker's Yeast, Malt Extract (0.42%), Butter, Artificial Flavouring Substance (Cheese), Emulsifier (Soy Lecithin E322(i)), Vitamin Premix (Thiamine Mononitrate, Riboflavin, Pyridoxine Hydrochloride, Cyanocobalamin), Permitted Synthetic Food Colour (E102, E110).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8996001312506",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

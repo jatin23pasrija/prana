@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "03948764012273",
+  "barcode_printed": "3948764012273",
+  "barcode_format": "EAN-13",
+  "name": "Coca cola Soft Drink 750ml",
+  "brand": "coca-cola",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Carbonated water ,Sugar, Acidity Regulator (338), Caffeine (8.7 mg/100g), Colour (150d), Flavours (Natural Flavoring substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948764012273",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579003456",
+  "barcode_printed": "8902579003456",
+  "barcode_format": "EAN-13",
+  "name": "Smoodh Chaas",
+  "brand": "smoodh",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 15.74,
+        "protein_g": 1.27,
+        "carbohydrate_g": 0.73,
+        "sugars_g": 0.58,
+        "sodium_mg": 245.88
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, DOUBLE TONED MILK DAHI (40%) (MILK SOLIDS, STARTER CULTURE), IODISED SALT, STABILIZER (INS 466), NATURE IDENTICAL FLAVOURING SUBSTANCES (MASALA) AND ACIDITY REGULATOR (INS 330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579003456",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

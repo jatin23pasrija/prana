@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906165787577",
+  "barcode_printed": "8906165787577",
+  "barcode_format": "EAN-13",
+  "name": "Fish Oil",
+  "brand": "hk-vitals",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 capsule (1.61 g)",
+        "quantity": {
+          "value": 1.61,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 12.81,
+        "protein_g": 0.28,
+        "carbohydrate_g": 0.02,
+        "sugars_g": 0,
+        "fat_g": 1.29,
+        "saturated_fat_g": 0.02,
+        "trans_fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906165787577",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

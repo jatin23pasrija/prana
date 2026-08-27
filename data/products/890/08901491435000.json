@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491435000",
+  "barcode_printed": "8901491435000",
+  "barcode_format": "EAN-13",
+  "name": "Potato Chips (Plain Salted flavour) 20rs",
+  "brand": "uncle-chipps",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 548,
+        "energy_kj": 2294,
+        "protein_g": 6.7,
+        "carbohydrate_g": 52,
+        "sugars_g": 0.6,
+        "fat_g": 35,
+        "saturated_fat_g": 15.8,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 600.46
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Palmolein, Sunflower Oil), Iodised Salt (1.5%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491435000",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

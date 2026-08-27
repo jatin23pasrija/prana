@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08564324165644",
+  "barcode_printed": "8564324165644",
+  "barcode_format": "EAN-13",
+  "name": "Lemon Juice",
+  "brand": "fruitaco",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 19.85,
+        "protein_g": 0,
+        "carbohydrate_g": 4.88,
+        "sugars_g": 3.2,
+        "fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Lemon Juice (99%), Water (1%), Class II Preservative (INS 224)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8564324165644",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

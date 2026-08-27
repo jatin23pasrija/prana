@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003190839",
+  "barcode_printed": "8908003190839",
+  "barcode_format": "EAN-13",
+  "name": "Skimmed Milk Powder",
+  "brand": "suruchi-dairy",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 357,
+        "protein_g": 34,
+        "carbohydrate_g": 54,
+        "fat_g": 0.56,
+        "saturated_fat_g": 0.28
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003190839",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030877131",
+  "barcode_printed": "8901030877131",
+  "barcode_format": "EAN-13",
+  "name": "Real Mayonnaise",
+  "brand": "hellmann-s",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 85,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "protein_g": 0,
+        "carbohydrate_g": 6.6,
+        "sugars_g": 4,
+        "fat_g": 52.6,
+        "saturated_fat_g": 8.4,
+        "trans_fat_g": 0.5,
+        "fibre_g": 0,
+        "sodium_mg": 721.5
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Soybean Oil (Fortified with Vitamin A & D), Water, Sugar, Thickeners-E 1442, E 1450, Natural Vinegar, iodised Salt, Spices & Condiments, Lemon Juice Concentrate, Preservative-E 202, Nature Identical and Natural Flavouring Substances, Sequestrant-E 385.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030877131",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

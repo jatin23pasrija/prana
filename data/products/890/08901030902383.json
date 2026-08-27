@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030902383",
+  "barcode_printed": "8901030902383",
+  "barcode_format": "EAN-13",
+  "name": "Manchow Veg",
+  "brand": "knorr",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 11,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (11 g)",
+        "quantity": {
+          "value": 11,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 36,
+        "protein_g": 0.5,
+        "carbohydrate_g": 7.8,
+        "fat_g": 0.3
+      }
+    }
+  ],
+  "ingredients_raw": "Soup Powder. Ingrédients: Potato Starch, paration: Maltodextrin, Sugar, lodised Salt, *Dehydrated Vegetables (Cabbage Flakes (2.2%), Garlic Bits (1.8%), Onion Bits (1.8%), and Leeks (0.4%)), Hydrolyzed Vegetable Protein, Hydrogenated Palm Oil, Spices & Condiments (Chillies (1.8% ) ), Thickener - 415, Food Colour - Caramel IV, Flavours - Natural (Garlic) and Nature Identical flavouring substances (Soya Sauce), Acidity Regulator - 330, Anti caking agent - 551, Flavour Enhancer - 627 & 631. atents of this pack Contains Soya. May Contain Traces of Wheat, Milk, Mustard, Celery and Nuts. 11 g Soup powder + 150 ml water)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030902383",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

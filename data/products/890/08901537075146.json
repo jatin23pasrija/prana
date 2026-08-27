@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901537075146",
+  "barcode_printed": "8901537075146",
+  "barcode_format": "EAN-13",
+  "name": "Dawat",
+  "brand": "hadeel",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cèrb0hYdrate Vitamin A Og : Sella 1121 Bùsmati Rice processed Packeot by : ssat • LT Foods Ltd. Village-Varpal, Toren•Taran Road, Amritsar•143022, Punjab, India, ssaÜ:• LT Foods Ltd t No. 134, First Floor, Rectangle.ls Sùkùt District Centre. New Delhi-110017, tndiò. r F *91-11-29563099 ISO 9001:2008 certified company",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901537075146",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

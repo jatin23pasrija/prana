@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "07613039542026",
+  "barcode_printed": "7613039542026",
+  "barcode_format": "EAN-13",
+  "name": "Peptamen peptide based formula",
+  "brand": "nestle",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 469,
+        "protein_g": 18.3,
+        "carbohydrate_g": 58.5,
+        "sugars_g": 12,
+        "fat_g": 18,
+        "saturated_fat_g": 16,
+        "sodium_mg": 370
+      }
+    }
+  ],
+  "ingredients_raw": "Maltodextrin, Whey protein hydrolysate (21.1%), Sugar, Medium chain triglyceride oil (12.5%), Potato starch, Soyabean oil, Minerals, Emulsifier (Soy lecithin), Acidity regulators (525, 330 and 524), Nature identical (Vanilla) flavouring substance, Choline hydrogen tartrate, Vitamins, Taurine and L-Carnitine.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7613039542026",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08664522556555",
+  "barcode_printed": "8664522556555",
+  "barcode_format": "EAN-13",
+  "name": "Himzberg Kiwi",
+  "brand": "himzberg",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 53.7,
+        "protein_g": 0.21,
+        "carbohydrate_g": 12.92,
+        "sugars_g": 12.8,
+        "fat_g": 0,
+        "sodium_mg": 0.07
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Cane Sugar, Kiwi Pulp 12% Acidity Regulator(INS - 330)Stabalizer (INS-440), Contains Permitted Food Color (INS-142), Added Permitted Natural, Nature Identical & Synthetic Flavor, Contains Class II Preservative (INS-211), (INS - 202)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8664522556555",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

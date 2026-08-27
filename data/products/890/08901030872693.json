@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030872693",
+  "barcode_printed": "8901030872693",
+  "barcode_format": "EAN-13",
+  "name": "Real mayonnaise",
+  "brand": "hellmann-s",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 800,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Soybean Oil (Fortified with Vitamin A & D), Water, Sugar, Thickeners-E 1442, E 1450, Natural Vinegar, lodised Salt, Spices & Condiments, Lemon Juice Concentrate, Preservative-E 202, Nature Identical and Natural Flavouring Substances, Sequestrant-E 385. May contain traces of Soya. Number of serves per pack: Approx. 53 &quot;Source: Euromonitor, Cooking Ing retail value RSP, (includes Hellmann's a sales), 2022 data. Store in cool, dry & hygienic place away from dire",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030872693",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

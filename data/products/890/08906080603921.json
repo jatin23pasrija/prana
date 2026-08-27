@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080603921",
+  "barcode_printed": "8906080603921",
+  "barcode_format": "EAN-13",
+  "name": "Swing+ Mixed Fruit Medley",
+  "brand": "paper-boat",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, MANGO PULP CONCENTRATE (1.1%)&quot;, APPLE JUICE CONCENTRATE (1%), ORANGE JUICE CONCENTRATE (0.65%), ACIDITY REGULATOR (330), FLAVOURS (NATURE-IDENTICAL AND NATURAL FLAVOURING SUBSTANCES), IODISED SALT, STABILIZERS (466, 415), PRESERVATIVES (202, 242), FOOD COLOURS (102, 124, 110) AND VITAMIN D2 (ERGOCALCIFEROL) RECONSTITUTED 13.5% MIXED FRUIT JUICE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080603921",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

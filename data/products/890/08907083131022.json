@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08907083131022",
+  "barcode_printed": "8907083131022",
+  "barcode_format": "EAN-13",
+  "name": "Popped Fox Nuts Makhana",
+  "brand": "snack-factory",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 457.34,
+        "protein_g": 7.15,
+        "carbohydrate_g": 66.82,
+        "sugars_g": 8.83,
+        "fat_g": 17.94,
+        "saturated_fat_g": 3.63,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 1925.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907083131022",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

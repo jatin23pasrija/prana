@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063165847",
+  "barcode_printed": "8901063165847",
+  "barcode_format": "EAN-13",
+  "name": "Treat",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 483.87,
+        "protein_g": 6.45,
+        "carbohydrate_g": 74.19,
+        "sugars_g": 38.71,
+        "fat_g": 19.35,
+        "saturated_fat_g": 11.29,
+        "fibre_g": 0,
+        "sodium_mg": 516.13
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063165847",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

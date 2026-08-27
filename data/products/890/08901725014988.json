@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725014988",
+  "barcode_printed": "8901725014988",
+  "barcode_format": "EAN-13",
+  "name": "sunfeast",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 425,
+        "protein_g": 5.4,
+        "carbohydrate_g": 63.9,
+        "sugars_g": 33.1,
+        "fat_g": 16.4,
+        "saturated_fat_g": 10.7,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), MILK CHOCO COVERING (22.9%) (SUGAR, INTERESTERIFIED VEGETABLE FAT, MILK SOLIDS (2.75%), COCOA SOLIDS (1.37%), HYDROGENATED VEGETABLE OILS, ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)), SUGAR, LIQUID GLUCOSE, REFINED PALMOLEIN, HUMECTANT (INS 422), INVERT SYRUP, CAKE GEL (EMULSIFIERS [MONO - AND DI-GLYCERIDES OF FATTY ACIDS (FROM PALM OIL), SALTS OF MYRISTIC, PALMITIC AND STEARIC ACIDS WITH AMMONIA, CALCIUM, POTASSIUM AND SODIUM (FROM PALM OIL), PROPYLENE GLYCOL ESTERS OF FATTY ACIDS (FROM PALM OIL)], HUMECTANT (INS 422)), MILK SOLIDS (1.61%), RAISING AGENTS [INS 500(II), INS 450(1), INS 450(VII), INS 503(II)], EMULSIFIERS [POLYGLYCEROL ESTERS OF FATTY ACID (FROM PALM OIL), LECITHIN (FROM SOYABEAN)], STABILIZERS (INS 407, INS 415), ACIDITY REGULATOR (INS 330), PRESERVATIVE (INS 202), HYDROLYSED VEGETABLE PROTEIN, NATURE IDENTICAL FLAVOURING SUBSTANCES, IODIZED SALT, FLOUR TREATMENT AGENT (INS 223) AND COLOUR (INS 102). CONTAINS WHEAT, MILK, SOY, SULPHITE. MAY CONTAIN NUT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725014988",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

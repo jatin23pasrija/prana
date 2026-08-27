@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908025585217",
+  "barcode_printed": "8908025585217",
+  "barcode_format": "EAN-13",
+  "name": "Ashwagandha Powder",
+  "brand": "mai-greens",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Ashwagandha Root Powder (100%). Net Wt. 600g Active Ingredients: Withanolides Nutritional Infe Servings per package Serving size: 5g Energy Protein Fat, Total - Saturated - Trans Carbohydrate - Sugars Dietary Fibre Sodium(As Na) Avera quanty per 83.AJ 019 019 019 04 339 019",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908025585217",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

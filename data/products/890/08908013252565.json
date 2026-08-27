@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013252565",
+  "barcode_printed": "8908013252565",
+  "barcode_format": "EAN-13",
+  "name": "Tropical Fruits Granola",
+  "brand": "carrefour",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 457,
+        "protein_g": 7,
+        "carbohydrate_g": 75,
+        "sugars_g": 23,
+        "fat_g": 14,
+        "saturated_fat_g": 8,
+        "fibre_g": 10,
+        "sodium_mg": 95
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013252565",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

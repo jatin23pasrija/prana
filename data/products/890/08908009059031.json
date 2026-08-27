@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009059031",
+  "barcode_printed": "8908009059031",
+  "barcode_format": "EAN-13",
+  "name": "Protein Bread",
+  "brand": "the-health-factory",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 slice (25 g)",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 61,
+        "protein_g": 4,
+        "carbohydrate_g": 10.5,
+        "sugars_g": 1.13,
+        "fat_g": 0.3,
+        "saturated_fat_g": 0.07,
+        "sodium_mg": 93
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flour Excellent, Protein Blend (Pea Protein Isolate, Soy Protein Isolate, Lentil Protein Concentrate), Gluten, Yeast, Vinegar, Sunflower Oil, Cane Sugar, Iodised Salt, Cultured Wheat Flour.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009059031",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901576010122",
+  "barcode_printed": "8901576010122",
+  "barcode_format": "EAN-13",
+  "name": "Potato Wafers Salted",
+  "brand": "modern-kitchens",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kj": 2373,
+        "protein_g": 7.64,
+        "carbohydrate_g": 50.24,
+        "sugars_g": 5.2,
+        "fat_g": 37.56,
+        "saturated_fat_g": 18.08,
+        "fibre_g": 3.6,
+        "sodium_mg": 259.76
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, Refined Vegetable Oil, Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901576010122",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

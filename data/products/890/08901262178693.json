@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262178693",
+  "barcode_printed": "8901262178693",
+  "barcode_format": "EAN-13",
+  "name": "Milk Cake",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 pieces (39 g)",
+        "quantity": {
+          "value": 39,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 190,
+        "protein_g": 4,
+        "carbohydrate_g": 18,
+        "sugars_g": 18,
+        "fat_g": 11,
+        "saturated_fat_g": 6.6,
+        "trans_fat_g": 0.3,
+        "fibre_g": 0,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262178693",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

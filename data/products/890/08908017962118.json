@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017962118",
+  "barcode_printed": "8908017962118",
+  "barcode_format": "EAN-13",
+  "name": "Wicked Gud Tomato Thumka Popped Chips",
+  "brand": "wicked-gud",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Chickpea Flour (38%), Rice Flour, Potato Flakes, Tapioca Starch, Sugar, Maltodextrin, Common Salt, Acidity Regulators (Citric Acid & INS 262(ii)), Dehydrated Vegetable Powder & Extracts (Garlic and Onion), Spices and Spice Extracts (Chilli, Cumin, Black Pepper & Clove), Dehydrolysed Vegetable Protein, Paprika Extract (INS 160c), Anti-caking Agents (INS 551 & INS 341(i)), Flavor Enhancers (INS 627&INS 631), Natural and Nature Identical Flavor Substances (Tomato), Edible Vegetable Oil (Sunflower Oil). Allergen Information: Contains Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017962118",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014000166",
+  "barcode_printed": "8901014000166",
+  "barcode_format": "EAN-13",
+  "name": "Geki - Hot & Spicy",
+  "brand": "nissin",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 476.96,
+        "protein_g": 6.78,
+        "carbohydrate_g": 67.96,
+        "sugars_g": 4.54,
+        "fat_g": 19.04,
+        "saturated_fat_g": 8.19,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 1876.31
+      }
+    }
+  ],
+  "ingredients_raw": "NOODLES (80.00%) Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), Tapioca Starch, lodised Salt, Acidity Regulators [INS 45100 & INS 500(i)], Turmeric Powder, Thickener (INS 412) & Antioxidant (INS 319). SEASONING MIX (12.50%): Sugar, Hydrolysed Vegetable Protein Powder (Soya), Dehydrated Chicken Powder, Dehydrated Chicken Blits. Flavours (Natural & Nature Identical), Garlic Powder, lodised Salt, Onion Powder Yeast Extract Powder, Mixed Spices 2.25% (Nutmed Cumin, Ginger, Black Pepper, Coriander Turmeric), Flavour Enhancers (INS 631 & 627), Roasted Sesame Seeds, Acidity Regu or (INS 330), Oleoresin Capsicum & Anticaning Agent (INS 551). SEASONING OIL (7.50%); Edible Vegetable Oil (Palmolein, Soya Bean Oil & Chilli Seed Oil). Colour [INS 160c(0)] & Oleoresin Rosemary S ALLERGEN INFORMATION: CONTAINS WHEAT & SOY MAY CONTAIN MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014000166",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

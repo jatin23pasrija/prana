@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009059307",
+  "barcode_printed": "8908009059307",
+  "barcode_format": "EAN-13",
+  "name": "Milk Bread",
+  "brand": "the-health-factory",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 slices, average (50 g)",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 126.2,
+        "energy_kj": 528,
+        "protein_g": 5.79,
+        "carbohydrate_g": 22.22,
+        "sugars_g": 4.63,
+        "fat_g": 1.58,
+        "saturated_fat_g": 0.27,
+        "fibre_g": 3.07,
+        "sodium_mg": 127.4
+      }
+    }
+  ],
+  "ingredients_raw": "100% Whole Wheat Flour (Chakki Fresh Atta Milk Solids, Cane Sugar, Yeast, Vinegar, Gluten, Sunflower Oil, Iodised Salt, Cultured Wheat Flour, Vitamin C.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009059307",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

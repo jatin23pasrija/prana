@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08908004620229",
+  "barcode_printed": "8908004620229",
+  "barcode_format": "EAN-13",
+  "name": "Suman Chanachur",
+  "brand": "maa-jasoda-food-products-p-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 14.35,
+        "carbohydrate_g": 38.77,
+        "sugars_g": 5.48,
+        "fat_g": 35.34,
+        "fibre_g": 4.86,
+        "sodium_mg": 1040
+      }
+    }
+  ],
+  "ingredients_raw": "Gram Pulses, Peanut, Gram Flour, Pea Flour, Pure Vegetable Oil, Red Chilli Powder, Common salt, Black Rock Salt, Cardamom owder, Cumin Powder, Cinamom Powder, Clover Powder, Dry Ginger Powder, Sugar Powder and Asafetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908004620229",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

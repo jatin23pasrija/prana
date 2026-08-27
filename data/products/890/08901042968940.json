@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042968940",
+  "barcode_printed": "8901042968940",
+  "barcode_format": "EAN-13",
+  "name": "MTR Veggie Upma",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (60 g)",
+        "quantity": {
+          "value": 60,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 252,
+        "protein_g": 4.8,
+        "carbohydrate_g": 41.7,
+        "sugars_g": 2.4,
+        "fat_g": 6.8,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 700
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat semolina (72%), Interesterified vegetable fat, lodised salt, Dehydrated carrot (2.9%), Green chilli (2.1%), Ginger, Sugar, Maltodextrin (Corn), Curry leaves, Mustard, Bengal gram splits, Dehydrated onion, Anticaking agent (INS 551), Acidity regulators (INS 330 & 334), Natural and nature identical flavouring substance.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042968940",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

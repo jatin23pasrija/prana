@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042956763",
+  "barcode_printed": "8901042956763",
+  "barcode_format": "EAN-13",
+  "name": "Lemon Rice",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Eau, riz (36%), huile de tournesol, noix de coco, jus de citron (4%), sel, piment vert, pois chiches cassés, feuilles de curry, moutarde, pâte de gingembre, curcuma, correcteur d'acidité (E 330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042956763",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

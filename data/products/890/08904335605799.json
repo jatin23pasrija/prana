@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335605799",
+  "barcode_printed": "8904335605799",
+  "barcode_format": "EAN-13",
+  "name": "High Protein Oats",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole Grains (54.9%) (Instant Oats), Protein Blend (24.9%) (Texturised Soy Protein Flakes, Soy Protein Isolate, Whey Powder), Seasoning (Sugar, Iodised Salt, Acidity Regulator (Acetic Acid, Citric Acid, Tartric Acid), Mixed Spices",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335605799",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

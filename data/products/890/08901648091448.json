@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08901648091448",
+  "barcode_printed": "8901648091448",
+  "barcode_format": "EAN-13",
+  "name": "Nutrifit Probiotic Drink",
+  "brand": "mother-dairy",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 73,
+        "protein_g": 1.8,
+        "carbohydrate_g": 14.6,
+        "sugars_g": 14.6,
+        "fat_g": 0.8,
+        "saturated_fat_g": 0.6,
+        "sodium_mg": 80
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901648091448",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

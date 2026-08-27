@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042971865",
+  "barcode_printed": "8901042971865",
+  "barcode_format": "EAN-13",
+  "name": "Badam Drink",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 can (180 ml)",
+        "quantity": {
+          "value": 180,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 170,
+        "protein_g": 6.67,
+        "carbohydrate_g": 23.4,
+        "sugars_g": 22.7,
+        "fat_g": 5.4,
+        "saturated_fat_g": 3.06,
+        "trans_fat_g": 0,
+        "sodium_mg": 72
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042971865",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

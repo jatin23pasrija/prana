@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08904067712833",
+  "barcode_printed": "8904067712833",
+  "barcode_format": "EAN-13",
+  "name": "Tikka Masala Coated Peanuts",
+  "brand": "jabsons",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.2 cup (30 g)",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 174,
+        "protein_g": 5,
+        "carbohydrate_g": 12,
+        "sugars_g": 3,
+        "fat_g": 12,
+        "saturated_fat_g": 2,
+        "trans_fat_g": 0,
+        "fibre_g": 1,
+        "sodium_mg": 190
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904067712833",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

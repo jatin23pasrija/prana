@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131681717",
+  "barcode_printed": "8906131681717",
+  "barcode_format": "EAN-13",
+  "name": "NO0DLES 6.4",
+  "brand": "slurrp-farm",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 192,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 364.5,
+        "protein_g": 10,
+        "carbohydrate_g": 78.7,
+        "sugars_g": 6.4,
+        "fat_g": 1.1,
+        "saturated_fat_g": 0.2,
+        "trans_fat_g": 0,
+        "fibre_g": 11.5
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles: Multigrain flour blend (whole wheat (atta), foxtail millet) (91%), cluster bean powder (natural gum), iodised salt, rosemary. Spice Mix (6%): Spice blend (garlic, onion, coriander, chilli, cumin), iodised salt, unrefined raw sugar, milk solids, corn starch, natural and nature-identical flavouring substances, citric acid (acidity regulator) [INS 330].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131681717",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

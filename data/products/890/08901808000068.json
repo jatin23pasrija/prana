@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901808000068",
+  "barcode_printed": "8901808000068",
+  "barcode_format": "EAN-13",
+  "name": "WeiKFiELD",
+  "brand": "weikfield",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Maize Starch, Iodized Salt, Artificial Flavouring Substance(Vanilla), Synthetic Food Colours (INS 102,110,122)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901808000068",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

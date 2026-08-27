@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005144007",
+  "barcode_printed": "8908005144007",
+  "barcode_format": "EAN-13",
+  "name": "vanilla almond multigrain energy bar",
+  "brand": "yogabar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 38,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "38 g",
+        "quantity": {
+          "value": 38,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 166,
+        "protein_g": 5.3,
+        "carbohydrate_g": 21.8,
+        "sugars_g": 7.3,
+        "fat_g": 7.4,
+        "saturated_fat_g": 0.8,
+        "fibre_g": 3
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Grains 27% (Brown Rice, Millets (Sammai, Foxtail), Rolled Oats (15%)), Honey 20%, Seeds 19% (Sunflower, Sesame, Chia), Almonds 16%, Dates, Rice Crispies, Peanut, protein Powder, Palm Sugar, Cinnamon. CONTAINS ADDED NATURAL FLAVOUR (Rosemary Extract, Vanilla Extract)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005144007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

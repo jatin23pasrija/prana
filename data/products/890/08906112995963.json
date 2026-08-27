@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906112995963",
+  "barcode_printed": "8906112995963",
+  "barcode_format": "EAN-13",
+  "name": "High Protein Brown Bread",
+  "brand": "protein-chef",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 254.9,
+        "protein_g": 14.2,
+        "carbohydrate_g": 44.3,
+        "fat_g": 2.3,
+        "fibre_g": 6.9
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta) (60%), High Protein Blend (Vital Wheat Protein, Soy, Peanut, Edible Vegetable Oil (Refined Sunflower Oil), Sugar, Yeast, Edible Common Salt, Vinegar, Fermented Wheat Flour.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906112995963",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

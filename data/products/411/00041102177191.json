@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "00041102177191",
+  "barcode_printed": "0041102177191",
+  "barcode_format": "EAN-13",
+  "name": "Cassatta",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 248,
+        "protein_g": 4.9,
+        "carbohydrate_g": 25.6,
+        "sugars_g": 20.4,
+        "fat_g": 15.1,
+        "saturated_fat_g": 7.6,
+        "fibre_g": 0,
+        "sodium_mg": 44
+      }
+    }
+  ],
+  "ingredients_raw": "Ice Cream (80%): Milk solids, sugar, mixed fruit jam (2.7%), emulsifier (471), stabilisers (407, 466, 415, 412), artificial flavouring substances (strawberry, butterscotch, tutti frutti, vanilla), colours (102, 124, 127); Eggless Cake Base (10%), Refined wheat flour, sugar palm oil, milk solids, emulsifiers [477, 471, 470(1), 429, 400, 415), raising agents (500(4), 503(0)| ;Topping (10%), Cashew pieces, Allergen Information: Contains milk, wheat, nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0041102177191",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

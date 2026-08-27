@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021129176",
+  "barcode_printed": "8906021129176",
+  "barcode_format": "EAN-13",
+  "name": "Gobi Manchurian mix",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 50,
+        "protein_g": 1.15,
+        "carbohydrate_g": 10.39,
+        "sugars_g": 0.06,
+        "fat_g": 0.43,
+        "saturated_fat_g": 0.04,
+        "fibre_g": 0.69,
+        "sodium_mg": 386.22
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021129176",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

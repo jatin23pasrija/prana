@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000581401",
+  "barcode_printed": "8908000581401",
+  "barcode_format": "EAN-13",
+  "name": "SVS Roasted Uluthangali Mix",
+  "brand": "svs-s-v-sankaralinga-nadar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 350,
+        "protein_g": 17.5,
+        "carbohydrate_g": 67.4,
+        "sugars_g": 0.04,
+        "fat_g": 1.4,
+        "fibre_g": 11.4
+      }
+    }
+  ],
+  "ingredients_raw": "Black Urad Dal, Raw Rice",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000581401",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

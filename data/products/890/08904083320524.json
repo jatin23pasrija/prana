@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083320524",
+  "barcode_printed": "8904083320524",
+  "barcode_format": "EAN-13",
+  "name": "Alphonso Mango Delight Ice cream",
+  "brand": "milky-mist",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk, Milk Solids, Sugar, Liquid Glucose, Mango Pulp (15%), Emulsifier (INS 471), Stabilizers (INS 410, INS 412, INS 407), Colors (INS 110, INS 102), Flavor (Nature Identical Flavoring Substances - Mango).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083320524",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

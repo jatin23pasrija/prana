@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030949630",
+  "barcode_printed": "8901030949630",
+  "barcode_format": "EAN-13",
+  "name": "Women's Plus",
+  "brand": "horlicks-unilever",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 360,
+        "protein_g": 15,
+        "carbohydrate_g": 68.2,
+        "sugars_g": 28,
+        "fat_g": 3,
+        "saturated_fat_g": 1.5,
+        "trans_fat_g": 0.1,
+        "fibre_g": 2,
+        "sodium_mg": 650
+      }
+    }
+  ],
+  "ingredients_raw": "Cereal Extract (46%) [Barley, Wheat, Malted Barley, Wheat Malt], Milk Solids (37%), Maltodextrin, Minerals, Edible lodized Salt, Nature Identical Flavouring Substances, Vitamins, Non-Caloric Sweetener (INS 950). Allergen Information: Contains Wheat, Barley & Milk. May Contain Traces of Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030949630",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

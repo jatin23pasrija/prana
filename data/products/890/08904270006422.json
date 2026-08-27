@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904270006422",
+  "barcode_printed": "8904270006422",
+  "barcode_format": "EAN-13",
+  "name": "Desi Bytes Biscuit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED SUGAR, EDIBLE VEGETABLE OIL (PALMOLEIN), HYDROGENAT ED VEGETABLE OIL (PALM), INVERT SYRUP, MILK SOLIDS, IODIZED SALT, LEAVENING AGENTS [(E500i, 503)], PERMITTED EMULSIFIERS (E322, 471), CONTAINS ADDED ARTIFICIAL FLAVORING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904270006422",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

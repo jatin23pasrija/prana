@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088772433",
+  "barcode_printed": "8901088772433",
+  "barcode_format": "EAN-13",
+  "name": "Saffola Masala Millets",
+  "brand": "saffola",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "35g",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 132,
+        "protein_g": 2.8,
+        "carbohydrate_g": 24.6,
+        "sugars_g": 2,
+        "fat_g": 3.1,
+        "saturated_fat_g": 0.6,
+        "fibre_g": 2.9,
+        "sodium_mg": 450
+      }
+    }
+  ],
+  "ingredients_raw": "Multigrain Mix (64.5Millet (41.1%) (Sorghum Milles, Pearl Millet Flakes}, Oats Flakes], Potato Flakes, Seasonmugar, lodised Salysed Vegetable Protein, Spices and Condiments&quot;, Starch, Acidity Malic acid), Potassium Chloride, Flavour enhancers (627, 631), Yeast ext sat Fiber], Dehydrated Vegetables (8.2%) [Carrot (2.8%), Onion (2.6%), French beans (...). Green Peas (0.5%)], Refined Rice bran Oil, Natural & Nature Identical Flavouring Substance, Masala Mix *Contains Turmeric, Coriander, Black Pepper, Cinnamon and Clove",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088772433",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

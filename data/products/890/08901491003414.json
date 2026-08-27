@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491003414",
+  "barcode_printed": "8901491003414",
+  "barcode_format": "EAN-13",
+  "name": "Kurkure",
+  "brand": "lehar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 555,
+        "protein_g": 6,
+        "carbohydrate_g": 57.3,
+        "sugars_g": 1.4,
+        "fat_g": 33.6,
+        "saturated_fat_g": 7.7,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 694
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491003414",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

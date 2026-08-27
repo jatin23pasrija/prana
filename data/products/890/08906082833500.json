@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082833500",
+  "barcode_printed": "8906082833500",
+  "barcode_format": "EAN-13",
+  "name": "Rusk",
+  "brand": "polka",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (33.4 g)",
+        "quantity": {
+          "value": 33.4,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 148.52,
+        "protein_g": 3.3,
+        "carbohydrate_g": 24.17,
+        "sugars_g": 1.9,
+        "fat_g": 4.28,
+        "saturated_fat_g": 2.17,
+        "trans_fat_g": 0,
+        "fibre_g": 1.14,
+        "sodium_mg": 30.84
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082833500",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

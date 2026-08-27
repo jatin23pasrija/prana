@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009076744",
+  "barcode_printed": "8906009076744",
+  "barcode_format": "EAN-13",
+  "name": "Choco ripple cookies",
+  "brand": "unibic",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 98.8,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 494,
+        "protein_g": 5.5,
+        "carbohydrate_g": 68,
+        "sugars_g": 34,
+        "fat_g": 20,
+        "saturated_fat_g": 9.6,
+        "sodium_mg": 283
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Golden Syrup, Cocoa Powder (2%), Milk Solids, Chocolate Chips (0.5%) [Sugar, Cocoa Solids, Cocoa Butter, Dextrose and Emulsifiers (INS 322 from Soy, INS 476)], Leavening Agents (INS 503 ii, INS 500 ii), Emulsifiers (INS 322 from Soy, INS 472e, INS 435 and INS 471), lodised Salt, Artificial Flavouring Substance (Vanillin). Allergen Advice: Contains Wheat, Milk and Soy. May contain traces of Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009076744",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063223036",
+  "barcode_printed": "8904063223036",
+  "barcode_format": "EAN-13",
+  "name": "Mexilla Flaming Hot",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Corn (70%), Edible Vegetable Oil (Palmolein, Cotton Seed, Rice Bran), *Spices and Condiments [(Red/Chilli Powder (1%), Garlic Powder, Onion Powder, Rice Flour, Paprika Extract (INS 160c)], lodised Salt, Sugar Powder, Hydrolysed Vegetable (Soy) Powder, Acidity Regulators (INS 330, INS 296, INS 340), Flavour Enhancers (INS 627, INS 631), Anticaking Agent (INS 551), Stabiliser (INS 414), Natural and Nature Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063223036",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

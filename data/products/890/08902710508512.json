@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902710508512",
+  "barcode_printed": "8902710508512",
+  "barcode_format": "EAN-13",
+  "name": "Healthy Crunchy Muesli",
+  "brand": "bagrry-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rolled Oats (39.7%), Whole Wheat Flakes 31.6% (Wheat, Sugar, lodized Salt,CerealExtract and Antioxidants-INS 322&INS 307b), Invert Syrup, Raisins (4.6%), Broken Rolled Wheat, Almonds (3%), Wheat Bran (1.1%), Oat Bran (1.1%), Honey (1%) & Antioxidant (INS 307b)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902710508512",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

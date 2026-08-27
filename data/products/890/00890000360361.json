@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "00890000360361",
+  "barcode_printed": "0890000360361",
+  "barcode_format": "EAN-13",
+  "name": "Iorgute",
+  "brand": "nestle-grego",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 112.22,
+        "protein_g": 4.78,
+        "carbohydrate_g": 13.33,
+        "sugars_g": 13.33,
+        "fat_g": 4.44
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0890000360361",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

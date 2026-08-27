@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725015565",
+  "barcode_printed": "8901725015565",
+  "barcode_format": "EAN-13",
+  "name": "Digestive",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 800,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 474,
+        "protein_g": 7.7,
+        "carbohydrate_g": 68.4,
+        "sugars_g": 16.3,
+        "fat_g": 20.2,
+        "saturated_fat_g": 10.1,
+        "trans_fat_g": 0.07,
+        "fibre_g": 6.2,
+        "sodium_mg": 451.7
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat flour (Maida) (35.2%), Refined Palm Oil, Wheat flour (Atta) (18.4%), Sugar, Wheat Bran (4.3%), Liquid glucose, Raising agents [INS 500(ii), INS 503), INS 450(1), Maltodextrin, Milk solids, iodized Salt, Emulsifiers (Lecithin Energy(from Soyabean), Diacetyltartaric and fatty Protein ( acid esters of glycerol (from sunflower oil & palm oil), Mono - & di-glycerides of fatty acids (from palm oil)], Malt Extract (0.2%), Nature identical flavouring substances, Wheat fibre (0.03%), Flour treatment agent (INS 223) and Artificial flavouring (Vanilla).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725015565",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

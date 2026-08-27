@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901689031007",
+  "barcode_printed": "8901689031007",
+  "barcode_format": "EAN-13",
+  "name": "Butterscotch Crush",
+  "brand": "mala-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Sugar, Apple Puree (35%), Water, Thickener (INS 440), Acidity Regulator (INS 330, INS 331 (ii)), Firming Agent (INS 509). CONTAINS PERMITTED NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES (BUTTERSCOTCH). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 102, INS 122, INS 171). CONTAINS PERMITTED CLASS II PRESERVATIVE (INS 202, INS 211, INS 223)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901689031007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904067710990",
+  "barcode_printed": "8904067710990",
+  "barcode_format": "EAN-13",
+  "name": "Нут очищенный обжаренный со специями (Тандури масла)",
+  "brand": "jabsons",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 490,
+        "energy_kj": 2050,
+        "protein_g": 18,
+        "carbohydrate_g": 60,
+        "sugars_g": 3,
+        "fat_g": 20,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904067710990",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

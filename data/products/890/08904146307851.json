@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904146307851",
+  "barcode_printed": "8904146307851",
+  "barcode_format": "EAN-13",
+  "name": "Muesli",
+  "brand": "spar",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Wheat Flakes (34.50%) (Wheat, Sugar, lodized Salt, Malt Extract, Emulsifier (INS 322) (i) & Antioxidant (INS 320)), Rolled Oats, Corn Flakes (Corn Grits, Sugar, lodized Salt, Malt Extract, Emulsifier (INS 322) (i) & Antioxidant (INS 320), Strawberry Crush (8.5%) {Sugar, Strawberry Pulp, Water, Acidity Regulator (INS 330), Thickener (INS 440), Food Colour (INS 122, INS 124, INS 127), Natural and Nature Identical Flavour, Preservative (INS 224)}, Rice Flakes (Rice, lodized Salt), Dehydrated Fruits & Nuts {Raisins, Almonds, Dehydrated Papaya, Dehydrated Apple, Dehydrated Pineapple}, Invert Sugar Syrup, Pineapple Crush {(Acidity Regulator (INS 330), Thickener (INS 440), Food Colour (INS 102), Preservative (INS 224)), Apple Juice Concentrate, Honey, Sugar, Emulsifier (INS 322) (i), Natural & Nature Identical Flavour, Antioxidant (INS 320).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904146307851",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

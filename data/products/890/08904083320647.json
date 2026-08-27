@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083320647",
+  "barcode_printed": "8904083320647",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Cup Icecream",
+  "brand": "milky-most",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (55 g)",
+        "quantity": {
+          "value": 55,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 134,
+        "protein_g": 2.2,
+        "carbohydrate_g": 15,
+        "sugars_g": 15,
+        "fat_g": 7.2,
+        "saturated_fat_g": 4.8,
+        "trans_fat_g": 0.1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083320647",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

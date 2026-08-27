@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080404117",
+  "barcode_printed": "8902080404117",
+  "barcode_format": "EAN-13",
+  "name": "slice",
+  "brand": "pepsico-india-holdings-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, *CONCENTRATED MANGO PULP (5.1%), Acidity Regulator (330), Favour (Natural and nature identical falvouring substances ), Stabilizers (466, 440), sweetener (960a), preservative (202), colour (110) *Equivalent to 10.2% mango pulp IN Reconstituted Beverage",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080404117",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

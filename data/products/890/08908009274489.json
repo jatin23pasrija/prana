@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009274489",
+  "barcode_printed": "8908009274489",
+  "barcode_format": "EAN-13",
+  "name": "Mushroom soup powder",
+  "brand": "berlino",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 317.12,
+        "protein_g": 7.1,
+        "carbohydrate_g": 64.9,
+        "sugars_g": 29.83,
+        "fat_g": 4.74,
+        "saturated_fat_g": 1.53,
+        "fibre_g": 1.68,
+        "sodium_mg": 6373.99
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009274489",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "00890237006681",
+  "barcode_printed": "0890237006681",
+  "barcode_format": "EAN-13",
+  "name": "Pineapple coconut milk",
+  "brand": "ricco-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 61.22,
+        "protein_g": 0.41,
+        "carbohydrate_g": 7.76,
+        "sugars_g": 7.35,
+        "fat_g": 3.27,
+        "saturated_fat_g": 2.86,
+        "fibre_g": 0.82
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0890237006681",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

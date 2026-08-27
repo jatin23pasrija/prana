@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335601890",
+  "barcode_printed": "8904335601890",
+  "barcode_format": "EAN-13",
+  "name": "Yoga bar High Protein Muesli+",
+  "brand": "yoga-bar",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 850,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Grains 45% {Rolled Oats, Millets 22% [Ragi Flakes (Ragi, Jaggery), Jowar Flakes (Jowar, Jaggery)]}, Texturized Soya Protein Flakes, Dark Chocolate Paste 13% (Sugar, Edible Vegetable Fat, Cocoa Solids, Soy Lecithin & Natural Flavours), Dehydrated Fruits (Raisins, Cranberry 1%), Nuts & Seeds (Chia, Almond 1.5%, Pumpkin), Dates Syrup, Peanut Protein, Cocoa Powder, Natural Flavours, Rice Bran Oil, Jaggery Syrup, Probiotics (Bacillus Coagulans SNZ 1969, 15 Billion CFU/g).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335601890",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

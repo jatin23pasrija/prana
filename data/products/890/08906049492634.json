@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906049492634",
+  "barcode_printed": "8906049492634",
+  "barcode_format": "EAN-13",
+  "name": "Thoughtful Organic Whole Wheat",
+  "brand": "namdharis",
+  "category": "flour",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 372,
+        "protein_g": 11.9,
+        "carbohydrate_g": 76,
+        "fat_g": 2.26,
+        "fibre_g": 12.17
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906049492634",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

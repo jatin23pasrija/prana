@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069411721",
+  "barcode_printed": "8906069411721",
+  "barcode_format": "EAN-13",
+  "name": "Fit mix",
+  "brand": "jewel-farmer",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 565.1,
+        "protein_g": 15,
+        "carbohydrate_g": 34.7,
+        "sugars_g": 12.6,
+        "fat_g": 40.7,
+        "saturated_fat_g": 5.78,
+        "fibre_g": 12.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069411721",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

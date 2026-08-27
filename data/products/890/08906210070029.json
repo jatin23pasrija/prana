@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906210070029",
+  "barcode_printed": "8906210070029",
+  "barcode_format": "EAN-13",
+  "name": "Bhujia",
+  "brand": "eat-better-co",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Flour Mix [Chana Dal, Jowar (8.5%), Rice, Ragi (3%)], Seasoning [Iodised Salt, Sugar, White Dextrin, Onion Powder, Mint Leaves, Coriander Powder, Red Chilli Powder, Garlic Powder, Turmeric Powder, Mango Powder, Spices & Condiments, Citric Acid (INS 330), Rice Bran Oil. As Flavouring Agent",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906210070029",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

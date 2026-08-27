@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906114820577",
+  "barcode_printed": "8906114820577",
+  "barcode_format": "EAN-13",
+  "name": "Soya chunks mini",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 345,
+        "protein_g": 52,
+        "carbohydrate_g": 33,
+        "sugars_g": 0.1,
+        "fat_g": 0.5,
+        "fibre_g": 3,
+        "sodium_mg": 200
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906114820577",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

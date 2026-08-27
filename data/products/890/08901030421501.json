@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030421501",
+  "barcode_printed": "8901030421501",
+  "barcode_format": "EAN-13",
+  "name": "Cassatta",
+  "brand": "kwality-wall-s",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "70 ml",
+        "quantity": {
+          "value": 70,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 99,
+        "protein_g": 2,
+        "carbohydrate_g": 19,
+        "sugars_g": 11,
+        "fat_g": 2,
+        "saturated_fat_g": 0,
+        "fibre_g": 1.6,
+        "sodium_mg": 38
+      }
+    }
+  ],
+  "ingredients_raw": "MEDIUM FAT FROZEN DESSERT 3 FLAVOURED FROZEN DESSERT WITH VEGETARIAN CAKE INGREDIENTS: Water, Vegetarian Cake - (13%) (Water, Wheat Flour, Sugar, Milk Solids, Soyabean Oil, Raising Agents 500 (II), 541(I), Starch, Emulsifiers - 473, 477, 471, 481(1), Stabilizer 415, Dextrose, Salt, Maltodextrin CONTAINS NATURE IDENTICAL & ARTIFICIAL VANILLA FLAVOURING SUBSTANCES), Sugar, Cashew Nuts (8.63%), Palm Oil, Milk Solids, Glazed Fruits (4.30%) (Papaya Pieces, Sugar, Acidity Regulator-330. CONTAINS PERMITTED CLASS II PRESERVATIVE - 211 AND SYNTHETIC FOOD COLOURS 102, 110, 122, 124), Liquid Glucose, Vegetable Protein (Soy), Emulsifier 471, Stabilizers - 410, 412, 407, Acidity Regulator 330. CONTAINS PERMITTED SYNTHETIC FOOD COLOURS-102, 110 AND ADDED FLAVOURS-NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES. FROZEN DESSERTS CONTAIN EDIBLE VEGETABLE OIL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030421501",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

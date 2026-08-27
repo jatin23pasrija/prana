@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063014299",
+  "barcode_printed": "8901063014299",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Vita Marie Gold Biscuits",
+  "brand": "britannia-industries-ltd",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 248,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (66%), SUGAR, REFINED PALM OIL, MILK PRODUCTS [MILK SOLIDS&SWESTENED CONDENSED PARTLY SKIMMED MILK, INVERT SUGAR SYRUP, RAISING AGENTS [503(m) & 500(i)], IODISED SALT, EMULSIFIERS [471 & 322(i)] ARTIFICIAL (MILK, BUTTER&VANILLA) FLAVOURING SUBSTANCES, VITAMINS, DOUGH CONDITIONER (223), MINERALS AND IMPROVER [110101 (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK, SOYA AND SULPHITE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063014299",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

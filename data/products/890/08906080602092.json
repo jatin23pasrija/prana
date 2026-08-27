@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080602092",
+  "barcode_printed": "8906080602092",
+  "barcode_format": "EAN-13",
+  "name": "Swing Mixed Fruit Medley",
+  "brand": "paper-boat",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 52.8,
+        "carbohydrate_g": 13.2,
+        "sugars_g": 12.9,
+        "sodium_mg": 28
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, SUGAR, MANGO PULP (1%)* 0ml serving, APPLE JUICE CONCENTRATE ORANGE JUICE CONCENTRATE (0.6%)* %RDA per ACIDITY REGULATOR (CITRIC ACID), IODISED SALT FLAVOURS (NATURE-IDENTICAL AND NATURAL), STABILIZERS (CARBOXY METHYL CELLULOSE AND GUAR GUM) AND ANTIOXIDANT (ASCORBIC ACID) &quot;RECONSTITUTED 13% MIXED FRUIT JUICE 35% 0% 181 no GMOS** **no bio engineered ingredients. FOR MANUFACTURING DATE 2% MRP (INCL. OF ALL TAXES), energy USE BY DATE AND BATCH NUMBER: SEE BELOW Fi 260209 0",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080602092",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207004391",
+  "barcode_printed": "8901207004391",
+  "barcode_format": "EAN-13",
+  "name": "Real Fruit Power Mango",
+  "brand": "dabur",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 57,
+        "protein_g": 0,
+        "carbohydrate_g": 14.3,
+        "sugars_g": 14.3,
+        "fat_g": 0,
+        "sodium_mg": 1.5
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Blend of Mango Pulp (25%)^, [Including Alphonso Mango Pulp (0.5%)] Sugar, Acidity Regulator (INS 330), Stabilizer (INS 440), Antioxidant (INS 300), Flavour (Nature Identical Flavouring Substances) and Colour [INS 160 a(iii)]. ^THIS CONTAINS 25% MANGO JUICE CONTENT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207004391",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

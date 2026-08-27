@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906078721040",
+  "barcode_printed": "8906078721040",
+  "barcode_format": "EAN-13",
+  "name": "Lemon chilli",
+  "brand": "gopal-wafers",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 518.2,
+        "protein_g": 8.03,
+        "carbohydrate_g": 54.03,
+        "sugars_g": 7.2,
+        "fat_g": 30,
+        "saturated_fat_g": 14.15,
+        "fibre_g": 0,
+        "sodium_mg": 810
+      }
+    }
+  ],
+  "ingredients_raw": "Potato (55%), Edible Vegetable oil (Palmolein oil) (33%), Sugar, Black Salt, Edible common Salt, Spices & Condiments ((Chilli Powder (0.3%), Cumin Powder)), Silicon Dioxide (E 551), Milk Solids, HVP (Soya), Citric Acid (INS 330), Malic Acid (INS 296), Sodium Acetate (INS 262), Disodium 5'-ribonucleotides (INS 635),Contains Added Flavour (NATURAL and NATURE IDENTICAL FLAVOURING SUBSTANCES(Lemon)).ALLERGEN ADVICE: CONTAINS _MILK_,_SOYA_.Traces:_CEREALS_(GLUTEN), _MILK_,_TREE NUTS_,_PEANUTS_,_SESAME SEEDS_,_MUSTARD SEEDS_,_SOYA_.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906078721040",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

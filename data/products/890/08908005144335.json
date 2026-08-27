@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005144335",
+  "barcode_printed": "8908005144335",
+  "barcode_format": "EAN-13",
+  "name": "Almond Coconut Breakfast Protein Bar",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50g",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 229,
+        "protein_g": 7.9,
+        "carbohydrate_g": 29.6,
+        "sugars_g": 8.7,
+        "fat_g": 9,
+        "saturated_fat_g": 2.3,
+        "fibre_g": 7,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Grains 20% (Rolled Oats 10%, Brown Rice, Foxtail millet 5%, Quinoa 4%), Seeds 14% (Sunflower, Sesame, Flax, Watermelon, Pumpkin, Chia), Honey, Prebiotic fibre (Fructo-oligosaccharide). Nuts (Almonds 10%, Peanuts), Soy crisps, Rice crisps, Dried Coconut 5%, Dried Cranberry, Apple fibre, Ginger, Gum Acacia, Himalayan pink salt. CONTAINS ADDED NATURAL FLAVOUR (Rosemary extract)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005144335",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

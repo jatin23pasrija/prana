@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552011600",
+  "barcode_printed": "8901552011600",
+  "barcode_format": "EAN-13",
+  "name": "Bombay Biryani",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283.49523125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Riz Basmati Cuit, Légumes (Pommes De Terre, Carottes, Chou-Fleur, Haricots Verts, Petits Pois), L'oignon, Eau, L'huile De Tournesol, Sel, Ail, Feuilles De Menthe, De Pâte De Tomate, Gingembre, Le Piment Vert, Cumin, Piment Rouge Entier, La Coriandre En Poudre, Piment En Poudre, Poudre De Curcuma, Épices (Poivre Noir, Cardamome Noire, Cardamome Verte, Mace, Cumin En Poudre, Poudre De Clou De Girofle, Laurier, Cannelle En Poudre), Anis Étoilé, La Cardamome Noire, Clou De Girofle, Cannelle.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552011600",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

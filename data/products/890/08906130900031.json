@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906130900031",
+  "barcode_printed": "8906130900031",
+  "barcode_format": "EAN-13",
+  "name": "Chocopie",
+  "brand": "orion",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 432.7,
+        "energy_kj": 1812,
+        "protein_g": 3.8,
+        "carbohydrate_g": 69.8,
+        "sugars_g": 40,
+        "fat_g": 15.9,
+        "saturated_fat_g": 10.8,
+        "trans_fat_g": 0.2,
+        "sodium_mg": 243.5
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, CHOCO COVERING (21.6%) [SUGAR, HYDROGENATED VEGETABLE FAT, COCOA SOLIDS, MILK SOLIDS, EMULSIFIER (INS 3220) AND NATURE IDENTICAL FLAVOUR (VANILLIN)], LIQUID GLUCOSE, HYDROGENATED VEGETABLE FAT, HUMECTANT (INS 422), DEXTROSE, RAISING AGENTS [INS 500(1), INS 503), STABILIZERS (INS 407, INS 440, INS 415, INS 410 EDIBLE COMMON SALT HYDROLYZED PEA PROTEIN, PRESERVATIVES (INS 202, INS 281), ACIDITY REGULATOR INS 341, NATURE IDENTICAL FLAVOUR (VANILLIN) ALLERGEN INFORMATION: CONTAINS WHEAT, MILK & SOY. of MAY CONTAIN SULPHITE & NUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906130900031",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

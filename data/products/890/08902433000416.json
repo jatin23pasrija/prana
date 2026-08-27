@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08902433000416",
+  "barcode_printed": "8902433000416",
+  "barcode_format": "EAN-13",
+  "name": "Snickers Almond",
+  "brand": "snickers",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 472,
+        "energy_kj": 1976,
+        "protein_g": 6.6,
+        "carbohydrate_g": 60,
+        "sugars_g": 54,
+        "fat_g": 22.8,
+        "saturated_fat_g": 9.3,
+        "fibre_g": 0,
+        "sodium_mg": 89.2
+      }
+    }
+  ],
+  "ingredients_raw": "Milk chocolate coating (40%): Sugar, Milk solids, Cocoa butter, Cocoa Solids, Edible vegetable fats &lt;5% (Sal fat, Palm oil), Dextrose, Emulsifier (INS 322); Central filling (60%): Liquid glucose, Almonds (15%), Sugar, Hydrogenated vegetable oil (Palm oil), Milk solids, Iodized salt, Cocoa butter, Cocoa Solids, Edible vegetable fats &lt;5% (Sal fat, Palm oil), Dextrose, Emulsifier (INS 322)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902433000416",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

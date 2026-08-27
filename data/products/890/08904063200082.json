@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200082",
+  "barcode_printed": "8904063200082",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Chikki Bar",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 521.5,
+        "protein_g": 15.5,
+        "carbohydrate_g": 53,
+        "sugars_g": 36,
+        "fat_g": 27.5,
+        "saturated_fat_g": 5.2,
+        "sodium_mg": 10
+      }
+    }
+  ],
+  "ingredients_raw": "Peanuts (58%), Jaggery, Hydrogenated Vegetable oils, Glucose and Cardamom Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200082",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

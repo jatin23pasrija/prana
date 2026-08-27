@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906045141499",
+  "barcode_printed": "8906045141499",
+  "barcode_format": "EAN-13",
+  "name": "Pea protein isolate",
+  "brand": "nutrabay",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 354,
+        "protein_g": 76.7,
+        "carbohydrate_g": 8.48,
+        "sugars_g": 2.55,
+        "fat_g": 1.52,
+        "saturated_fat_g": 0.3,
+        "sodium_mg": 1330
+      }
+    }
+  ],
+  "ingredients_raw": "Pea protein isolate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906045141499",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

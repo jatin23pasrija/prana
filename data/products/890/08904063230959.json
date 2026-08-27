@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063230959",
+  "barcode_printed": "8904063230959",
+  "barcode_format": "EAN-13",
+  "name": "Hyderabadi Biryani",
+  "brand": "haldiram-snacks-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.5 pack (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 160,
+        "protein_g": 3,
+        "carbohydrate_g": 23,
+        "sugars_g": 0,
+        "fat_g": 6,
+        "saturated_fat_g": 0.5,
+        "fibre_g": 2,
+        "sodium_mg": 610
+      }
+    }
+  ],
+  "ingredients_raw": "Rice (28%), tomato (19%), onion (15%), sunflower oil (8%), beans (5%), cauliflower(5%), butter (4%), yogurt (4%), carrot(3%), frozen peas (3%), coconut, salt, green chilly, clarified butter, coriander powder, garlic, ginger, turmeric powder, mint, red chilly, cinnamon, cardamom, mace, cumin",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063230959",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071701090",
+  "barcode_printed": "8904071701090",
+  "barcode_format": "EAN-13",
+  "name": "Small Bhakarwadi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 170,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 271.43,
+        "protein_g": 4.29,
+        "carbohydrate_g": 28.57,
+        "sugars_g": 4.29,
+        "fat_g": 15.71,
+        "saturated_fat_g": 7.14,
+        "fibre_g": 1.43,
+        "sodium_mg": 135.71
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flour, Palm Oil, Gram Flour, Ground Spices, White Sesame, Green Chili, Dry Mango Powder, Turmeric Powder, Tamarind & Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071701090",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

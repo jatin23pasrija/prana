@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "06281000783627",
+  "barcode_printed": "6281000783627",
+  "barcode_format": "EAN-13",
+  "name": "Mini Italian Pizza Flavored Crackers",
+  "brand": "biskino",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Wheat Flour, Vegetable Oil (Palm Oil), Sugar, Raising Agents (Ammonium Bicarbonate E-503, Sodium Bicarbonate E-500), Malt Extract, Invert Syrup, Salt, Artificial Food Flavouring (Butter, Pizza), Leavening Agent (Sodium Acid Pyrophosphate E-450), Flour Treatment Agent (Sodium Metabisulphite E-223), Antioxidants (E-320 & E-321), Microbial Enzymes (Amylase & Protease)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6281000783627",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

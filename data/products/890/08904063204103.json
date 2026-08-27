@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063204103",
+  "barcode_printed": "8904063204103",
+  "barcode_format": "EAN-13",
+  "name": "Minute khana",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 422.22,
+        "protein_g": 12.22,
+        "carbohydrate_g": 71.11,
+        "sugars_g": 3.33,
+        "fat_g": 10,
+        "saturated_fat_g": 1.11,
+        "fibre_g": 3.33,
+        "sodium_mg": 1255.56
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063204103",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

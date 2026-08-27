@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063225795",
+  "barcode_printed": "8904063225795",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi Choley",
+  "brand": "haldiram-s-minute-khana",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 240,
+        "energy_kj": 1005,
+        "protein_g": 6,
+        "carbohydrate_g": 20,
+        "sugars_g": 0,
+        "fat_g": 15,
+        "fibre_g": 2,
+        "sodium_mg": 20000
+      }
+    }
+  ],
+  "ingredients_raw": "Minute Khana STYLE CHOLEY SPECIAL • PUNJAB! CHOLEY WHOLE CHICKPEAS WITH GREEN CHILLIES AND AROMATIC SPICES COOKED IN A TANGY Nutrition F 2 Servings per pack Serving size ents Water, Chickpea(18%), Tomatoes, Onions, Refined Vegetable Oil (Cotton Seed), Fresh Ginger, Garlic, Green Chilli, Spices(Cardamom, Cinnamon, Nutmeg, Cumin Seeds, Carom Seeds, Coriander, sl, Salt, Yogurt (Milk), Coriander Leaves, Red Chilli Powder, Turmeric Powder, Dried Fenugreek and Bay Leaves. CONTAINS MILK Sodium 930mg Total Carbohydrate Dietary Fiber 2g Total Sugars Og Includes O",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063225795",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

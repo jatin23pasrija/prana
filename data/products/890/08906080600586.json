@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080600586",
+  "barcode_printed": "8906080600586",
+  "barcode_format": "EAN-13",
+  "name": "Paper Boat Lychee Drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, SUGAR, LYCHEE PULP (12%), APPLE JUICE CONCENTRATE (0.5%)*, ACIDITY REGULATORS [330, 332(ii), 331 (iii)], FLAVOURS (NATURE-IDENTICAL AND NATURAL FLAVOURING SUBSTANCES), STABILIZERS (CARRAGEENAN AND KONJAC FLOUR), ANTIOXIDANT (300) AND VITAMIN D2.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080600586",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

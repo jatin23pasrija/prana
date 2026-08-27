@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004416244",
+  "barcode_printed": "8904004416244",
+  "barcode_format": "EAN-13",
+  "name": "Pista Badam Cookies",
+  "brand": "haldiram",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Enriched White Flour, Hydrogenated Vegetable Oil, Refined Sugar, Almond, Milk Solids (1.5%), Invert Sugar, Coconut Powder, Pistachio Nuts, Custard Powder [Edible Starch, lodised Salt, Colours (Sunset Yellow (E 110) & Tartrazine (E 102)) & Flavour], Baking Powder, Cardamom Powder, lodised Salt, Colours [Sunset Yellow (E 110) & Tartrazine (E 102)] & Added Natural Flavour (Saffron) Contains Wheat, Almond, Pistachios, Coconut & Milk May Contains Soy, Cashew & Sesame Seed",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004416244",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

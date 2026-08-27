@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063146457",
+  "barcode_printed": "8901063146457",
+  "barcode_format": "EAN-13",
+  "name": "Britannia winking cow chocolate 180ml",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "DOUBLE TONED MILK, WATER, SUGAR, COCOA SOLIDS (CHOCOLATE), EMULSIFIERS AND STABILIZERS (471, 412, 407 & 415), NATURE IDENTICAL & ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCE, ACIDITY REGULATORS (340(ii), 340(iii), 452(i)] AND IODISED SALT. CONTAINS MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063146457",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906090572859",
+  "barcode_printed": "8906090572859",
+  "barcode_format": "EAN-13",
+  "name": "Too Yumm! Rings - Tomato Twist",
+  "brand": "too-yumm",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 493,
+        "protein_g": 5.4,
+        "carbohydrate_g": 67,
+        "sugars_g": 6.9,
+        "fat_g": 22.5,
+        "saturated_fat_g": 10.4,
+        "trans_fat_g": 0.1,
+        "fibre_g": 2.2,
+        "sodium_mg": 830
+      }
+    }
+  ],
+  "ingredients_raw": "Corn Flour (70%), Edible Vegetable Oil (Palmolein), Seasoning (Sugar, Salt, &quot;Spices and Condiments (Contains Onion and Garlic), Black Salt, Acidity Regulators (E 296, E 330). Flavour Enhancers (E 627, E 631), Tomato Powder (1.4%). Tamarind Powder, Hydrolysed Vegetable Protein (Soya). Anticaking Agent (E 551)). Anticaking Agent (E 170)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906090572859",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499008381",
+  "barcode_printed": "8901499008381",
+  "barcode_format": "EAN-13",
+  "name": "Corn Flakes with Real Strawberry Puree",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Corn Grits (64.8%), Sugar, Beetroot Extract, Strawberry Puree (2.5%), Cereal Extract, lodized Salt, Vitamins, Flavour (Nature Identical), Minerals, Antioxidant (INS 320).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499008381",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

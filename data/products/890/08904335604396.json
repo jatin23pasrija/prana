@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335604396",
+  "barcode_printed": "8904335604396",
+  "barcode_format": "EAN-13",
+  "name": "Pro Clean Whey Chocolate Flavour",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 907,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "35 g",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 136,
+        "protein_g": 25,
+        "carbohydrate_g": 4.2,
+        "sugars_g": 2.8,
+        "fat_g": 2.1,
+        "saturated_fat_g": 1.3,
+        "sodium_mg": 43.4
+      }
+    }
+  ],
+  "ingredients_raw": "Whey (89.1%) (Whey Protein Concentrate. Whey Protein Isolate), Cocoa Powder (9%), Natural Flavours and Flavouring Substance, Himalayan Pink Salt, Sucralose (&lt;0.2%), PROABSORB Blend (Protease Enzyme, Probiotics&quot;-Bacillus coagulans, Bacillus sub Bacillus clausi, Lactobacillus acidophilus, Lactiplantibacillus planta Papain, Bromelain).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335604396",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

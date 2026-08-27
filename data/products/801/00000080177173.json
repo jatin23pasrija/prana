@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00000080177173",
+  "barcode_printed": "80177173",
+  "barcode_format": "EAN-8",
+  "name": "Nutella",
+  "brand": "ferrero",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SUGAR, PALM OIL, HAZELNUTS (13%), SKIMMED COW MILK POWDER (8.7%), LOW FAT COCOA POWDER (7.4%), EMULSIFIER (LECITHIN - INS 322), NATURE-IDENTICAL FLAVOURING SUBSTANCE-VANILLIN.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/80177173",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "03760010130667",
+  "barcode_printed": "3760010130667",
+  "barcode_format": "EAN-13",
+  "name": "Biere abbaye St Erwann 7°",
+  "brand": "britt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 3000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Eau, malt d'_orge_, malt de _froment_, _millet_, _avoine_, sarrasin, _épeautre_, _seigle_, houblon, épices, levures.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3760010130667",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

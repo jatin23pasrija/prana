@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719100963",
+  "barcode_printed": "8901719100963",
+  "barcode_format": "EAN-13",
+  "name": "Milano",
+  "brand": "parle-platina",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WHEAT FLOUR, CHOCOLATE ( 26 % ) t SUGAR, COCOA SOLiDS, COCOA BUTTER,DEXTROSE, EMULSIFIER ( LECITHIN OF SOYA ORIGIN ) AND ADDED FLAVOUR ( ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA, EDIBLE VEGETABLE OIL (PALM OIL), SUGAR INVERT SUGAR, LIQUID GLUCOSE,BUTTER, RAISING AGENTS (503(II), 500(II)), MILK SOLIDS, COCOA SOLIDS, EDIBLE COMMON SALT AND EMULSIFIER (di-acetyl tartaric acid esters of mono and di-glycerides of edible vegetable oils)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719100963",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

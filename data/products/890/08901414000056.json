@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414000056",
+  "barcode_printed": "8901414000056",
+  "barcode_format": "EAN-13",
+  "name": "Aloo bhujia",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Refined Palmolein Oil, Refined Ricebran Oil, Refined Cottonseed Oil), Rice Flour, Chickpea Flour, Spices and Condiments (Red Chilli Powder, Dried Mint, Dried Mango Powder, Cumin Powder, Gooseberry Powder, Coriander Powder, Cardamom Powder, Green Chilli Powder, Nutmeg Powder, Dried Ginger Powder, Carom Seeds Powder, Black Pepper Powder), Husked Dew Moth Bean Flour, Iodized Salt, Sugar (Sucrose), Onion Powder, Garlic Powder, Black Salt, Asafoetida, Acidity Regulators (E296 and E330), Natural and Nature Identical Flavouring Substances",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414000056",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

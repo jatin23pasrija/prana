@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063214355",
+  "barcode_printed": "8904063214355",
+  "barcode_format": "EAN-13",
+  "name": "Khatta Meetha",
+  "brand": "haldiram-s",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 220,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Gram Pulse Flour, Edible Vegetable Oil (Cotton Seed, Corn, Palmolein, Ground Nut and Rice Bran), Peanut (8%), Rice Flakes (8%), Sago (7%), Sugar Powder, Green Peas (4%), Gram Pulse (3%), Lentil (2%), Rice Flour, Edible Starch, lodised Salt, Black Salt Powder, *Spices & Condiments (Mango Powder, Turmeric Powder, Cumin Powder, Bishops Weed, Ginger Powder, Black Pepper Powder), Acidity Regulator (INS 330), Leavening Agent (INS 500{i}), Anticaking Agent (INS 551) and Synthetic Food Colour (INS 133). *Used as natural flavouring substances. Allergen Information: Contains Peanuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063214355",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

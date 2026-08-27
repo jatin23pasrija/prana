@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579003654",
+  "barcode_printed": "8902579003654",
+  "barcode_format": "EAN-13",
+  "name": "Smoodh toffee caramel",
+  "brand": "smoodh",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 2.1
+      }
+    }
+  ],
+  "ingredients_raw": "MILK SOLIDS, SUGAR, DEXTROSE, FOOD COLOUR (INS 150c) (0.92%), MALT EXTRACT, EMULSIFIERS AND STABILIZERS [INS 460(1), INS 471, INS 466, INS 407, INS 340, INS 452], NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES (CARAMEL, COCOA, TOFFEE), ARTIFICIAL FLAVOURING SUBSTANCE (VANILLA) AND IODISED SALT. (EQUIVALENT TO 90% M/M DOUBLE TONED MILK) (INS-INTERNATIONAL NUMBERING SYSTEM) ALLERGEN INFORMATION: CONTAINS MILK, BARLEY, WHEAT AND MILLET",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579003654",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

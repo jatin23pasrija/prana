@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063257581",
+  "barcode_printed": "8904063257581",
+  "barcode_format": "EAN-13",
+  "name": "Lite Mixture",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 42,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 504,
+        "protein_g": 13,
+        "carbohydrate_g": 50,
+        "sugars_g": 2,
+        "fat_g": 28,
+        "saturated_fat_g": 15
+      }
+    }
+  ],
+  "ingredients_raw": "Flaked Rice(46%),Edible Vegetable Oil(Palmolein/Cotton Seed),Black chickpea(14%),Edible Common Salt,Corn Flakes(6.5%),Black Salt Powder,Cumin Seed Powder, Turmeric Powder,Pomegranate Seed Powder,Dry Mango Powder,Ginger Powder,Cinnamon Powder,Celery,Mint Leaves Powder,Cardamom Powder,Black Cumin,Red Chilli Powder,Clove Powder,Acidity Regulator",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063257581",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006783058",
+  "barcode_printed": "8906006783058",
+  "barcode_format": "EAN-13",
+  "name": "D-lite Tomato Ketchup",
+  "brand": "surabhi",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 135.08,
+        "protein_g": 1.52,
+        "carbohydrate_g": 33.37,
+        "sugars_g": 32.23,
+        "fat_g": 0.49,
+        "saturated_fat_g": 0.09,
+        "sodium_mg": 814.51
+      }
+    }
+  ],
+  "ingredients_raw": "Tomato Puree (57%), Water, Sugar, Liquid Glucose, lodized Salt, Starch, Emulsifying & Stabilizing Agent (INS 1422, INS 415), Acidity Regulator (INS 260), Spices & Condiments, Preservative (INS 211) CONTAINS PERMITTED CLASS II PRESERVATIVE (INS 211) Allergen Instruction: This product was processed on machinery and in a plant that also processes Wheat, Soya, Milk Solids, Mustard, Tree Nuts and Sesame Seeds.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006783058",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

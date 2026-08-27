@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906000610909",
+  "barcode_printed": "8906000610909",
+  "barcode_format": "EAN-13",
+  "name": "Potato Cheese Shotz",
+  "brand": "mccain",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 231.1,
+        "protein_g": 8.09,
+        "carbohydrate_g": 24.26,
+        "sugars_g": 4.65,
+        "fat_g": 11.3,
+        "saturated_fat_g": 6.97,
+        "trans_fat_g": 0,
+        "fibre_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Potatoes (40.80%), Proessed Cheese(30.42%) (Cheddar cheese, Milk Solids, Emulsifier [INS 331], Edible Common Salt, Permitted Class II Preservative [INS 200]), Bread Crumbs (Wheat Flour, Yeast, Edible Common Salt), Permitted Class II Preservative [INS 200], Antioxidant [INS 300]), Palmolein Oil, Batter (Wheat Flour, Corn Starch, Corn Flour, Edible Common Salt, Thickner [INS 466]), Seasoning (Acidity Regulators [INS 330, INS 270], Flavour Emhancer [INS 627], Anticaking Agent [INS 551]), Corn Flour, Onion Powder, Edible Common Salt, Red Chilli Flakes, Parsley. CONTAINS ADDED FLAVOURS: NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES CONTAINS WHEAT, SOYA AND MILK DERIVATIVES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906000610909",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

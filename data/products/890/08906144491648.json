@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08906144491648",
+  "barcode_printed": "8906144491648",
+  "barcode_format": "EAN-13",
+  "name": "Sleepy Owl French Vanilla Cold Coffee",
+  "brand": "sleepy-owl",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 78,
+        "protein_g": 3.1,
+        "carbohydrate_g": 10.62,
+        "fat_g": 2.6,
+        "saturated_fat_g": 1.9,
+        "sodium_mg": 43
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906144491648",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083600282",
+  "barcode_printed": "8904083600282",
+  "barcode_format": "EAN-13",
+  "name": "kapol surti Masala",
+  "brand": "kapol",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 155,
+        "energy_kj": 155,
+        "protein_g": 8,
+        "carbohydrate_g": 28.5,
+        "sugars_g": 0,
+        "fat_g": 1,
+        "saturated_fat_g": 0.5,
+        "fibre_g": 2.5,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Cumin, Coriander, Pomegranate Seeds, Dry Mango, Salt, Black Pepper, Chilly,, Asafoetida, Turmeric.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083600282",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

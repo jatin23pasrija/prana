@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719119385",
+  "barcode_printed": "8901719119385",
+  "barcode_format": "EAN-13",
+  "name": "parle 20,20 Nice sugar",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 68.75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 478,
+        "protein_g": 6.5,
+        "carbohydrate_g": 72.8,
+        "sugars_g": 25.2,
+        "fat_g": 17.9,
+        "saturated_fat_g": 9.6,
+        "sodium_mg": 243
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, DESICCATED COCONUT POWDER (5%), INVERT SUGAR SYRUP, RAISING AGENTS (503 (i), 500 (i) 1, IODISED SALT AND EMULSIFIER OF VEGETABLE ORIGIN (472e). CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES-COCONUT). INCLUDING 2% AS SPRINKLED SUGAR",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719119385",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014002566",
+  "barcode_printed": "8901014002566",
+  "barcode_format": "EAN-13",
+  "name": "Top Ramen",
+  "brand": "nissin",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NOODLES (90.57%): Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), Iodised Salt, Acidity Regulators [INS 451(i) & INS 500(i)], Mixed Spices 0.17% (Turmeric, Coriander, Cumin & Red Chilli), Antioxidant (INS 319) & Thickener (INS 412). SEASONING MIX (9.43%): lodised Salt, Sugar, Flavours (Natural & Nature Identical), Textured Soya, Onion Powder, Hydrolysed Vegetable Protein Powder (Soya), Noodle Powder (Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), lodised Salt, Acidity Regulators [INS 451(i) & INS 500(i)], Mixed Spices 0.17% (Turmeric, Coriander, Cumin & Red Chilli), Antioxidant (INS 319) & Thickener (INS 412), Edible Vegetable Oil (Palm Oil), Corn Starch, Mixed Spices 3.15% (Red Chilli, Ginger, Turmeric, Black Pepper & Nutmeg), Garlic Chips, Skimmed Milk Powder, Flavour Enhancers (INS 631 & INS 627) Dehydrated Chicken Powder, Chilli Flakes, Dehydrated Chicken Bits, Acidity Regulator (INS 330), Egg Powder, Garlic Powder, Dried Fenugreek Leaves, Antioxidant (INS 551), Thickener (INS 415) & Colour [INS 160c(i)]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014002566",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

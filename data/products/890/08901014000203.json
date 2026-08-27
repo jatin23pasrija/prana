@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014000203",
+  "barcode_printed": "8901014000203",
+  "barcode_format": "EAN-13",
+  "name": "Cup Noodles CHILI CHILI CHILLI",
+  "brand": "cup-noodles",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), lodised Salt, Sugar, Dehydrated Pieces 3.61% (Red Chilli Flakes, Cabbage, Red Chilli Rings & Green Capsicum), Mixed Spices 2.69% (Red Chilli & Cumin), Hydrolysed Vegetable Protein Powder (Soya), Yeast Extract Powder, Milk Solids, Garlic Powder, Onion Powder Acidity Regulators [INS 330, INS 500(i) & INS 451(i)]. Edible Vegetable Oil (Coconut Oil), Thickeners (INS 415& INS 412), Flavour Enhancers (INS 631 & INS 627), Colour [INS 160c], Oleoresin Capsicum, Nature Identical Flavour, Anticaking Agent (INS 551) & Antioxidant (INS 319). CONTAING",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014000203",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

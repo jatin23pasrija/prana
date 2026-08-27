@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08939127290730",
+  "barcode_printed": "8939127290730",
+  "barcode_format": "EAN-13",
+  "name": "Tomato Ketchup",
+  "brand": "the-true-tomato",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "1940gm Tomatoes in 1 kg Ketchup, Desi Khand 14% Onion 22% Salt 1.1%, Vinegar 1%, Ginger 0.3%, 0.3% of (Cumin Garlic 0.2%, Chilli 0.05%, Sweet potato 0.015",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939127290730",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

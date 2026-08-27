@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020581029",
+  "barcode_printed": "8906020581029",
+  "barcode_format": "EAN-13",
+  "name": "iD Peanut Chuntney",
+  "brand": "id",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 259.72,
+        "protein_g": 9.22,
+        "carbohydrate_g": 14.4,
+        "sugars_g": 2.49,
+        "fat_g": 18.36,
+        "saturated_fat_g": 4.38,
+        "sodium_mg": 570.14
+      }
+    }
+  ],
+  "ingredients_raw": "PEANUT (26.26%), COCONUT, RO-PURIFIED WATER, SUNFLOWER OIL, TAMARIND, GREEN CHILLY, DRIED RED CHILLY, IODIZED SALT, BENGAL GRAM, CORIANDER, GARLIC AND SUGAR.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020581029",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

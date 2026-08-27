@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063365964",
+  "barcode_printed": "8901063365964",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Chocolate Cake 100gm",
+  "brand": "britannia",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 420,
+        "energy_kj": 1758,
+        "protein_g": 5.8,
+        "carbohydrate_g": 58,
+        "sugars_g": 27.5,
+        "fat_g": 18.4,
+        "saturated_fat_g": 10.2,
+        "sodium_mg": 181.1
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EGG, VANASPATI, INTERESTERIFIED VEGETABLE FAT, HUMECTANT (422), DEXTROSE, REFINED PALMOLEIN OIL, LIQUID GLUCOSE, COCOA SOLIDS (2.1%), HIGH MALTOSE SYRUP, FRUCTOOLIGOSACCHARIDES, COLOURS (150d, 150c, 102, 122, 132, 133), CAKE GEL [EMULSIFIERS (471, 477, 470(i)) & HUMECTANTS (1520, 422)), RAISING AGENTS (341(i), 500(ii), 450(vii) & 450(i)), NATURE IDENTICAL (CHOCOLATE) & ARTIFICIAL (CREAMY VANILLA) FLAVOURING SUBSTANCES, INVERT SYRUP, IODIZED SALT, PRESERVATIVES (202 & 282), ACIDITY REGULATOR (330), BAKING POWDER, EMULSIFIER (475) AND STABILIZER (415). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT & EGG. STORE UNDER COOL, DRY AND HYGIENIC CONDITIONS AWAY FROM SUNLIGHT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063365964",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

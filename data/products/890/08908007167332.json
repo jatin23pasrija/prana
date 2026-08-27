@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08908007167332",
+  "barcode_printed": "8908007167332",
+  "barcode_format": "EAN-13",
+  "name": "Pudina Punch",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 400,
+        "protein_g": 10,
+        "carbohydrate_g": 75,
+        "sugars_g": 5,
+        "fat_g": 10,
+        "saturated_fat_g": 5,
+        "fibre_g": 10,
+        "sodium_mg": 685
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908007167332",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

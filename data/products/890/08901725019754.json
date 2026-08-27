@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725019754",
+  "barcode_printed": "8901725019754",
+  "barcode_format": "EAN-13",
+  "name": "Yippee! Korean Fiery Hot",
+  "brand": "yippee",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Instant Noodles: Maida (Refined Wheat Flour), Refined Palm Oil, Starch, Iodized Salt, Emulsifier [Mono and diglycerides of fatty acids from Palm Oil)], Wheat Gluten, Thickener (INS 466), Acidity Regulators [INS 500), IS 601(1), INS 330), Stabilizers (INS 339), INS 450(i)]. Seasoning: Spices and Condiments (20.2%); (Dried Garlic, Red Chili, Dried Ginger, Black Pepper, Spice Oleoresin), Hydrolyzer Vegetable Protein [Soya Protein Isolate, Maltodextrin, Instant Noodle Powder (Maida (Refined Wheat Flour), Refined Palm O Starch, lodized Salt, Wheat Gluten), Maltodextrin, lodized Salt Dehydrated Onion, Sugar, Soyabean Sauce Powder (Soyabean Sauce, Maltodextrin), Flavour Enhancers (INS 627, INS 631) Nature Identical Flavouring Substances, Yeast Extract, Anticaking Agent (INS 551), Natural Flavours and Natural Flavouring Substances, Thickener (INS 415), Acidity Regulator (INS 330) Dehydrated Vegetables (100.0%)/Cabbage (32.8%) Carrot (32.8%), Spring Onion (22.9%), Beans (6.6%), Zucchini (4.9%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725019754",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

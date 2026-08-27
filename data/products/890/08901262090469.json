@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262090469",
+  "barcode_printed": "8901262090469",
+  "barcode_format": "EAN-13",
+  "name": "T-Special Premium Dairy Whitener",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 460,
+        "protein_g": 20,
+        "carbohydrate_g": 50,
+        "sugars_g": 50,
+        "fat_g": 20,
+        "saturated_fat_g": 12,
+        "sodium_mg": 270
+      }
+    }
+  ],
+  "ingredients_raw": "Milk solids, sucrose",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262090469",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058000450",
+  "barcode_printed": "8901058000450",
+  "barcode_format": "EAN-13",
+  "name": "2-minute Noodles Veggie Masala",
+  "brand": "maggi-nestle",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 62,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 379,
+        "energy_kj": 1587,
+        "protein_g": 8,
+        "carbohydrate_g": 57.7,
+        "sugars_g": 2.1,
+        "fat_g": 13.5,
+        "saturated_fat_g": 7.9,
+        "trans_fat_g": 0.12,
+        "fibre_g": 0,
+        "sodium_mg": 1137.1
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles(Refined wheat flour (Maida),Palm oil, iodized salt, Wheat gluten,Thickeners (E 508,E 412), Acidity regulators(E 501(i),E 500(i)),Humectant (E 451)),Masala(Dehydrated vegetables (18.6%) (Carrot bits(9.3%),Green french beans (9.3%)), Mixed spices (17.6%), Refined wheat flour (Maida),iodized salt, Sugar, Starch, Palm oil, Dehydrated onion (4%), Toasted onion flakes (3.7%), Flavour enhancer(E 635), Dried garlic, Acidity regulator(E 330), Colour(E 150d),Yeast extract, Mineral and Wheat gluten). Contains _Wheat_,May contains _Oats_, _Milk_,_Soy_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058000450",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

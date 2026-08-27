@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08000500367599",
+  "barcode_printed": "8000500367599",
+  "barcode_format": "EAN-13",
+  "name": "Seeds saunf flavoured",
+  "brand": "tic-tac",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 7.2,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 388,
+        "protein_g": 1,
+        "carbohydrate_g": 90.2,
+        "sugars_g": 85,
+        "fat_g": 1.5,
+        "saturated_fat_g": 0.7,
+        "trans_fat_g": 0,
+        "sodium_mg": 12
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, FENNEL SEEDS POWDER (6.7%), MALTODEXTRIN, THICKENER (INS 414), RICE STARCH, ANTICAKING AGENT (INS 470(i)), FLAVOURS (NATURAL FLAVOURS AND FLAVOURING SUBSTANCES), GLAZING AGENT (INS 903). ALLERGEN INFORMATION: MAY CONTAIN TRACES OF WHEAT, RYE, BARLEY, OATS, SPELT, KHORASAN,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8000500367599",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

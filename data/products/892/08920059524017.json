@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08920059524017",
+  "barcode_printed": "8920059524017",
+  "barcode_format": "EAN-13",
+  "name": "Goa Special Dryfruit Toffee",
+  "brand": "gold-special-dryfruit-toffee",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "UQUIO GLUCOSE, SUGAR, DESICCATED COCONUT, WHOLE MILK POWDER, HYDROGENATED VEGETABLE OILS USED TRANS FAT, IODISED SALT & EMULSIFIERS (SOYA LECITHIN (-47 CONTAINS NATURAL IDENTICAL FLAVOURING (COCONUT FLAVOURED) SUBSTANCES E-47)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8920059524017",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

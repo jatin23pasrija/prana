@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014658489",
+  "barcode_printed": "8908014658489",
+  "barcode_format": "EAN-13",
+  "name": "kettle style cream and onion",
+  "brand": "the-theather-project",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 512.74,
+        "protein_g": 7.56,
+        "carbohydrate_g": 59.2,
+        "sugars_g": 2.57,
+        "fat_g": 27.3,
+        "saturated_fat_g": 13.46,
+        "sodium_mg": 240
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Palmolein Oils Sunflower Oil), Sugar, lodised Salt, Milk Solids (1.7 %), Cheese Powder (1.3%), Dehydrated Vegetable Powder (Onion (0.8%), Garlic), Yeast Extract Powder, Acidity Regulator (INS 270), Herb (Parsley), Flavour Enhancer (INS 627, INS 631), Flavour (Natural and Nature Identical Flavouring Substances), Anticaking Agent (INS 551) Contains: Milk. May contains Soy, Wheat and Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014658489",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

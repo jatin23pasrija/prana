@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058817652",
+  "barcode_printed": "8901058817652",
+  "barcode_format": "EAN-13",
+  "name": "Bar One",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "21 g",
+        "quantity": {
+          "value": 21,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 98,
+        "protein_g": 1,
+        "carbohydrate_g": 14,
+        "sugars_g": 13.4,
+        "fat_g": 4.1,
+        "saturated_fat_g": 2.8,
+        "fibre_g": 0.3,
+        "sodium_mg": 20
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058817652",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

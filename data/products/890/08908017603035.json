@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017603035",
+  "barcode_printed": "8908017603035",
+  "barcode_format": "EAN-13",
+  "name": "vegan omega",
+  "brand": "zero-harm",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 capsule (0.5 g)",
+        "quantity": {
+          "value": 0.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 2.1,
+        "protein_g": 0.01,
+        "carbohydrate_g": 0.01,
+        "fat_g": 0.02,
+        "fibre_g": 0,
+        "sodium_mg": 197
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017603035",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

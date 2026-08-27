@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058897159",
+  "barcode_printed": "8901058897159",
+  "barcode_format": "EAN-13",
+  "name": "Milkybar",
+  "brand": "nestle",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 24.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 497,
+        "protein_g": 11.1,
+        "carbohydrate_g": 51.6,
+        "sugars_g": 39.9,
+        "fat_g": 27.3,
+        "saturated_fat_g": 25.1,
+        "trans_fat_g": 0.05,
+        "sodium_mg": 155.1
+      }
+    }
+  ],
+  "ingredients_raw": "Milk solids (35%), Sugar, Hydrogenated vegetable fats, Fractionated vegetable fat, Emulsifier (_Soya lecithin_) and Nature-Identical flavouring substance. Contains _Milk_, _Sesame_ and _Soy_. May Contains Wheat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058897159",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

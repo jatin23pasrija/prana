@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "00748927056372",
+  "barcode_printed": "0748927056372",
+  "barcode_format": "EAN-13",
+  "name": "ON Gold Standard 100% Whey Protein",
+  "brand": "optimum-nutrition",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2270,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "33 g",
+        "quantity": {
+          "value": 33,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 124,
+        "protein_g": 24,
+        "carbohydrate_g": 4,
+        "sugars_g": 2,
+        "fat_g": 1,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0,
+        "sodium_mg": 174
+      }
+    }
+  ],
+  "ingredients_raw": "Protein Blend (92%), (Whey Protein Isolate, Whey Protein Concentrate, Hydrolysed Whey Protein) (Emulsifier: Say Lecithin), Flavours, Cookie Crumb (Enrich Flour [Wheat Flaur, Niacin, Reduced Iron, Thiamine Mononitrate, Riboflavin, Falic Acid], Sugar, Palm And Palm Kernel Oil, Cocoa Powder Processed With Alkali], High Fryctose Corn Syrup. Corn Flour. Salt, Dextrose, Sodium Bicarbonate, Soy Lecithin), Sodium Lhloride, Thickeners (466, 415, 407), Sweetener (955). ALLERGENS: Contains MILK, WHEAT and SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0748927056372",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

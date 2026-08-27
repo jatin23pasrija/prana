@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010366575",
+  "barcode_printed": "8906010366575",
+  "barcode_format": "EAN-13",
+  "name": "Masala Pori",
+  "brand": "town-bus",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 28,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 483,
+        "protein_g": 10.3,
+        "carbohydrate_g": 43,
+        "sugars_g": 0,
+        "fat_g": 28,
+        "saturated_fat_g": 12.3,
+        "trans_fat_g": 0,
+        "sodium_mg": 400
+      }
+    }
+  ],
+  "ingredients_raw": "Puffed Rice (44%), Bengal Gram Flour, Rice Flour, Fried Gram Dal, Groundnuts, Garlic, Red Chilli Powder, Turmeric Powder,Red Chilli, Cumin, Mustard, Coriander Powder, Fenugreek, Curry Leaves and Asafoetida. Contains: Nuts (Peanuts) May Contains: Nuts, Milk, Wheat & Sesame.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010366575",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

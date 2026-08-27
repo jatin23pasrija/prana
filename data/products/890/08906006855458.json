@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006855458",
+  "barcode_printed": "8906006855458",
+  "barcode_format": "EAN-13",
+  "name": "Top Notch Butterscotch Ice Cream",
+  "brand": "baskin-robbins",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (110 ml)",
+        "quantity": {
+          "value": 110,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 185.4,
+        "protein_g": 3.3,
+        "carbohydrate_g": 20.7,
+        "sugars_g": 11,
+        "fat_g": 10,
+        "saturated_fat_g": 5.1,
+        "fibre_g": 0.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006855458",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

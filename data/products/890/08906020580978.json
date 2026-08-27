@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020580978",
+  "barcode_printed": "8906020580978",
+  "barcode_format": "EAN-13",
+  "name": "Paneer Paratha By iD",
+  "brand": "id",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 piece (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 382,
+        "protein_g": 10.37,
+        "carbohydrate_g": 60,
+        "sugars_g": 0.17,
+        "fat_g": 11.09,
+        "saturated_fat_g": 7.7,
+        "fibre_g": 1.93,
+        "sodium_mg": 160
+      }
+    }
+  ],
+  "ingredients_raw": "PANEER [COTTAGE CHEESE (50%)]. WHEAT FLOUR (18%), RO-PURIFIED WATER, REFINED WHEAT FLOUR, SUNFLOWER OIL, GREEN CHILLI, IODIZED SALT, GINGER, CORIANDER LEAVES, MIXED SPICES (CORIANDER, CUMIN, CINNAMON, NUTMEG, SESAME, CARDAMOM, CLOVE, BAY LEAF, STAR ANISE, CHILLI, CAROM, MACE, STONE FLOWER), DRY MANGO POWDER, CHILLI FLAKES, ASAFOETIDA, BLACK PEPPER",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020580978",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

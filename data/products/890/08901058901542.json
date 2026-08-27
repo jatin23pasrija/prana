@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058901542",
+  "barcode_printed": "8901058901542",
+  "barcode_format": "EAN-13",
+  "name": "Maggie",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 389,
+        "energy_kj": 1629,
+        "protein_g": 8.2,
+        "carbohydrate_g": 59.6,
+        "sugars_g": 1.8,
+        "fat_g": 13.5,
+        "saturated_fat_g": 8.2,
+        "trans_fat_g": 0.13,
+        "fibre_g": 2,
+        "sodium_mg": 1028.3
+      }
+    }
+  ],
+  "ingredients_raw": "Refined wheat flour (Maida), Palm oil, Iodized salt, Wheat gluten, Thickeners (INS 508, INS 412), Acidity regulators (INS 501(i) & 500(i)) and Humectant (INS 451(i)), Mixed spices (25.6%) (Onion powder, Coriander powder, Turmeric powder, Red chilli powder, Garlic powder, Cumin powder, Aniseed powder, Ginger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder, Nutmeg powder), Refined wheat flour (Maida), Hydrolysed groundnut protein, Sugar, Palm oil, Iodized salt, Starch, Thickener (INS 508), Flavour enhancer (INS 635), Toasted onion flakes, Acidity regulator (INS 330), Mineral, Colour (INS 150d) and Wheat gluten. Contains Wheat and Nut May contains Milk, Mustard, Oats and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058901542",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

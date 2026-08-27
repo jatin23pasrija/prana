@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906112995413",
+  "barcode_printed": "8906112995413",
+  "barcode_format": "EAN-13",
+  "name": "5 Super Foods Bread",
+  "brand": "protein-chef",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 270,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Atta (Whole Wheat Flour), Super Foods Blend [Soy Flour (4.3%), Flax Seeds (0.7%), Sesame Seeds (0.4%), Rolled Oats (0.4%), Peanuts (0.3%)], Vital Wheat Gluten, Yeast, Sugar, lodized Salt, Refined Sunflower Oil, Vinegar, Bread Premix, Bread Improver.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906112995413",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

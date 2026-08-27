@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030986017",
+  "barcode_printed": "8901030986017",
+  "barcode_format": "EAN-13",
+  "name": "Horlicks chocolate delight flavour",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "2 SPOONS HOT OR COLD, (20 g) HORLICKS MILK 3. STIR QUICKLY&ENJOY! Cereal Extract (44%) [Malted Barley (13%), Barley (11%), WANT TO KNOW MORE? Wheat Malt (11%), Wheat (9%)], Sugar, Cocoa Powder (6%), Wheat Gluten, Minerals, Milk Solids (2%), Soy Protein Isolate, Emulsifier (INS 471), Liquid Glucose, Glucose, Natural Colour (INS 150c), Nature Identical Flavouring Substances, Acidity Regulators [INS 501 (ii), INS 500 (ii)], Vitamins, Edible lodized Salt. Allergen Information: Contains Wheat, Barley, Milk & Soy Sucrose 1kg דיךין 0122NB2B 21 22/01/26 21/04/27 64966169 For Net Wt., MRP Rs. (Incl. of all taxes):, Batch No., PKD. and Use By See the Coding Areat ^% of an average Adult's Recommended Dietary Allowance (",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030986017",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

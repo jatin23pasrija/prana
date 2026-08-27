@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906098670458",
+  "barcode_printed": "8906098670458",
+  "barcode_format": "EAN-13",
+  "name": "Ultra pop cheese popcorn",
+  "brand": "ultra-pop",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 465.96,
+        "energy_kj": 1951,
+        "protein_g": 9.4,
+        "carbohydrate_g": 71.38,
+        "sugars_g": 2.91,
+        "fat_g": 15.76,
+        "saturated_fat_g": 15.76
+      }
+    }
+  ],
+  "ingredients_raw": "POPPED CORN, REFINED EDIBLE PALMOLEIN OIL, IODIZED SALT, SUGAR, STARCH, SPICES AND CONDIMENTS, MILK SOLIDS, ACIDITY REGULATOR (E330), NATURALCOLOUR (E160C), ANTI CAKING AGENT (E551) AND FLAVOUR ENHANCER (E631, E627), ONION POWDER AND GARLIC POWDER CONTAINS MILK SOLIDS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906098670458",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08908024977167",
+  "barcode_printed": "8908024977167",
+  "barcode_format": "EAN-13",
+  "name": "SUPERYOU PROTEIN WAFER COFFEE",
+  "brand": "superyou",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "40g",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 187.1,
+        "protein_g": 10,
+        "carbohydrate_g": 20,
+        "sugars_g": 3.52,
+        "fat_g": 10.14,
+        "saturated_fat_g": 0.01,
+        "fibre_g": 3,
+        "sodium_mg": 179
+      }
+    }
+  ],
+  "ingredients_raw": "PROTEIN BLEND (FERMENTED NUTRITIONAL YEAST PROTEIN (22%)+ MILK SOLIDS), EDIBLE VEGETABLE FAT (HYDROGENTED COCONUT OIL, INS 322), SWEETENER (INS965), WHEAT FLOUR (ATTA), COFFEE POWDER, COCOA SOLIDS, STARCH, EMULSIFIERS (INS 322, INS 476), EDIBLE COMMON SALT, IMPROVER ENZYME, CONTAINS ADDED FLAVOUR - NATURE IDENTICAL FLAVOURING SUBSTANCE (COFFEE FLAVOUR, CHOCOLATE, COCOA BUTTER), ARTIFICIAL FLAVOURING SUBSTANCE (ETHYL VANILLIN)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908024977167",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

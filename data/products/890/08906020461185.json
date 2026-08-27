@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020461185",
+  "barcode_printed": "8906020461185",
+  "barcode_format": "EAN-13",
+  "name": "Suji Rusk",
+  "brand": "harvest-gold",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 443.6,
+        "protein_g": 9.21,
+        "carbohydrate_g": 77.59,
+        "sugars_g": 24.11,
+        "fat_g": 10.71,
+        "saturated_fat_g": 2.48,
+        "trans_fat_g": 0,
+        "fibre_g": 4.24,
+        "sodium_mg": 273.81
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (71.4%), Sugar, Edible Vegetable Oil (Refined Palmolein Oil and Refined Rice Bran Oil), Yeast, Suji (2.14%), Invert Sugar Syrup, lodized Salt, Gluten, Food Color (150a), Cardamom Seeds (0.32 %), Emulsifier {472e and 481(i)}, Soya Flour, Nature Identical Flavoring Substance, Flour Treatment Agent {1100(i)}, Xylanase and Antioxidant (300). (Numbers referred above are as per the International Numbering System)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020461185",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

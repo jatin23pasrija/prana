@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00685450116831",
+  "barcode_printed": "0685450116831",
+  "barcode_format": "EAN-13",
+  "name": "Milk Rusk",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WHEAT FLOUR, SUGAR, PALM OIL, SKIM MILK POWDER, SEMOLINA, YEAST, SALT. ARTIFICIAL FLAVOR(MILK), LECITHIN, SODIUM MHEASTEAROTEN: 25! EMULSIFIER(SOY DI-ACETYL TARTARIC ACID ESTERS OF MONO AND DIGLYCERIDES, MONO & DIGLYCERIDES OF FATTY ACIDS). WHEAT FIBRE, ASCORBIC ACID AS DOUGH CONDITIONER AND ENZYME (ALPHA AMYLASE) CONTAINS: WHEAT, MILK AND SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0685450116831",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

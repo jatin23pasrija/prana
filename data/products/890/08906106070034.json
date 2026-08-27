@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906106070034",
+  "barcode_printed": "8906106070034",
+  "barcode_format": "EAN-13",
+  "name": "Jowar & Sweet Potato Flour Espresso Coffee Cake Mix",
+  "brand": "serapheena",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sachet 1: Jawar (Sorghum), Starch (Sweet Potato, Tapioca), Baking Powder, Salt CONTAINS NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA) Sachet 2: Raw Cane Sugar Sachet 3: Coffee Powder No Preservatives. No Xanthan Gum.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906106070034",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

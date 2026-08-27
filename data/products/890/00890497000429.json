@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "00890497000429",
+  "barcode_printed": "0890497000429",
+  "barcode_format": "EAN-13",
+  "name": "Naan Rounds",
+  "brand": "stonefire",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 naan (60 g)",
+        "quantity": {
+          "value": 60,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 170,
+        "energy_kj": 711,
+        "protein_g": 5,
+        "carbohydrate_g": 31,
+        "sugars_g": 3,
+        "fat_g": 4,
+        "saturated_fat_g": 1,
+        "trans_fat_g": 0.1,
+        "fibre_g": 3,
+        "sodium_mg": 480
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0890497000429",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

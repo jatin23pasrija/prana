@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "00706502578329",
+  "barcode_printed": "0706502578329",
+  "barcode_format": "EAN-13",
+  "name": "Jain Misal",
+  "brand": "eat-easy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 85,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "42.5g",
+        "quantity": {
+          "value": 42.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 193,
+        "protein_g": 3.48,
+        "carbohydrate_g": 27,
+        "sugars_g": 0.13,
+        "fat_g": 7.91,
+        "saturated_fat_g": 3.36,
+        "trans_fat_g": 0,
+        "fibre_g": 0.72,
+        "sodium_mg": 412
+      }
+    }
+  ],
+  "ingredients_raw": "Dew beans (29%), Edible Vegetable Oil (Palm), Tomato, Peas, Groundnuts, Jaggery, Mustard Seeds, Red Chilli, Edible Common Salt, Tamarind Powder, Sugar, Lemon Powder, Curry Leaves, Other Spices and Condiments",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0706502578329",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

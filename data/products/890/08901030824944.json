@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030824944",
+  "barcode_printed": "8901030824944",
+  "barcode_format": "EAN-13",
+  "name": "Regular Malt Flavour",
+  "brand": "horlicks",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cereal Extract, Barley, Wheat, Malted Barley, Wheat Malt, Milk Solids, Corn Solids, Minerals, Soy Protein Isolate, Wheat Gluten, Nature Identical Flavouring Substances, Vitamins, Edible Iodized Salt, Non-Caloric Sweetener, Natural Flavour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030824944",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

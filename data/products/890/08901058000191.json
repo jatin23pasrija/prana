@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058000191",
+  "barcode_printed": "8901058000191",
+  "barcode_format": "EAN-13",
+  "name": "Family Fun Pack",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 560,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "70 g",
+        "quantity": {
+          "value": 70,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 269,
+        "energy_kj": 1126,
+        "protein_g": 5.7,
+        "carbohydrate_g": 41.7,
+        "sugars_g": 1.3,
+        "fat_g": 8.8,
+        "saturated_fat_g": 5.7,
+        "trans_fat_g": 0.09,
+        "sodium_mg": 719.8
+      }
+    }
+  ],
+  "ingredients_raw": "NOODLES (WHEAT FLOUR, PALM OIL AND LESS THAN 2% OF SALT, WHEAT GLUTEN, CALCIUM CARBONATE, POTASSIUM CHLORIDE, SODIUM POLYPHOSPHATE, GUAR GUM, SODIUM CARBONATE, POTASSIUM CARBONATE ASTEMAKER SPICE PACKET (HYDROLYZED PEANUT PROTEIN, NOODLE POWDER WHEAT FLOUR, PALM OIL AND LESS THAN 2% OF SALT, WHEAT GLUTEN CALCIUM CARBONATE, POTASSIUM CHLORIDE, SODIUM TRIPOLYPHOSPHATE, GUAR GUM, SODIUM CARBONATE, POTASSIUM CARBONATE], SUGAR, SPICE, ONION POWDER, CORNSTARCH, CHILLI POWDER, GARLIC POWDER, PALM OIL, SALT, CARAMEL COLOR, CITRIC ACID POTASSIUM CHLORIDE, DISODIUM GUANYLATE AND DISODIUM INOSINATE SINGER SODIUM BICARBONATE MAY CONTAINS PEANUT AND WHEAT (GLUTEN) INGREDIENTS.&quot; CONTAIN MILK, MUSTARD SEEDS SOY NESTLE CONSUN P.O. BAG NO WECARE 1800 10.3 湯 astle. See be What ma MRPHIL ON Lot MAT SE BY - Ree letter after U Mit By: Nestle In 8) Lic No lingue No. Fo De No. 100 Lic No. 1001",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058000191",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

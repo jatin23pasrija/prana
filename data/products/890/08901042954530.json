@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042954530",
+  "barcode_printed": "8901042954530",
+  "barcode_format": "EAN-13",
+  "name": "Rava Dosa",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Semolina (45%), Rice, Refined wheat flour, Edible vegetable fat (Interesterified (Palm Oil and Palm kernel oil)), Salt, Cumin, Green Chilli Powder, Acidity Regulator (Malic Acid (E296))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042954530",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

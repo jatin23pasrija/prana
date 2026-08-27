@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595991402",
+  "barcode_printed": "8901595991402",
+  "barcode_format": "EAN-13",
+  "name": "Idli 65",
+  "brand": "ching-s-secret",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (70 g)",
+        "quantity": {
+          "value": 70,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 130,
+        "protein_g": 2,
+        "carbohydrate_g": 11,
+        "sugars_g": 0,
+        "fat_g": 9,
+        "saturated_fat_g": 2,
+        "trans_fat_g": 0,
+        "sodium_mg": 640
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595991402",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

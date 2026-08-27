@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009440682",
+  "barcode_printed": "8906009440682",
+  "barcode_format": "EAN-13",
+  "name": "Saras Dahi",
+  "brand": "saras",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "MILK SOLIDS, Pasteurized toned milk & active culture. (MIN. SNF 8.5%, FAT 3.0%) Lic. No. 10012013000010 Batch No., PKD & USE BY DATE, MRP,U.S.P/gm (incl.of all taxes) SEE TOP LID 0090 8 सरस पाश्चुराइ",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009440682",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019558067",
+  "barcode_printed": "8908019558067",
+  "barcode_format": "EAN-13",
+  "name": "PROTEIN WATER GREEN APPLE FLAVOUR",
+  "brand": "aquatein-pro",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 18.5,
+        "protein_g": 4.2
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, WHEY PROTEIN ISOLATE, ACIDITY REGULATOR, SWEETENER (SUCRALOSE), PERMITTED CLASS II PRESERVAVES (E 2111),STABILIZERIE412.E466,CONTAINS PERMITTED SYNTHETIC FOOD COLOUR, NATURE DENTICAL FLAVOURING",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019558067",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

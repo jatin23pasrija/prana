@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010501259",
+  "barcode_printed": "8906010501259",
+  "barcode_format": "EAN-13",
+  "name": "Masala sev murmura",
+  "brand": "balaji-wafers",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "PUFFED RICE (45%), CHICKPEA FLOUR, EDIBLE VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWINGS: PALMOLEIN, RICE BRAN, CORN, COTTONSEED), RICE FLOUR, **SEASONING [SPICES & CONDIMENTS 4% (CHILLI, BLACK PEPPER, CURRY LEAVES, OREGANO, COMPOUNDED ASAFOETIDA (WHEAT FLOUR, GUM ACACIA, ASAFOETIDA), CUMIN, DRY MANGO, GINGER), DEHYDRATED VEGETABLE POWDER (GARLIC, TAMARIND, ONION), EDIBLE COMMON SALT, BLACK SALT, SUGAR HYDROLYZED VEGETABLE PROTEIN (SOYA), FLAVOUR (NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES), ACIDITY REGULATOR (INS 330), YEAST EXTRACT, ANTICAKING AGENT (INS 551), FLAVOUR ENHANCER (INS 627, INS 631) **AS FLAVOURING & SEASONING AGENT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010501259",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

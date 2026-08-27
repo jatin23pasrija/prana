@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010503550",
+  "barcode_printed": "8906010503550",
+  "barcode_format": "EAN-13",
+  "name": "Wafers",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "POTATO (82%), EDIBLE VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWINGS: PALMOLEIN, GROUNDNUT), SEASONING [MILK SOLIDS (WHEY 0.7%), SUGAR, EDIBLE COMMON SALT, ONION POWDER (0.3%), CHEESE POWDER (0.2%), HERBS (CHIVES, PARSLEY), ACIDITY REGULATOR (INS 330), YEAST EXTRACT POWDER, ANTICAKING AGENT (INS 551), HYDROLYZED VEGETABLE POWDER (SOYA), FLAVOUR ENHANCER (INS 627, INS 631), FLAVOUR (NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES)) **AS FLAVOURING & SEASONING AGENT POTATO WAFERS READY-TO-EAT SAVOURIES | PROPRIETARY FOOD | INDIAN SNACKS & SAVOURIES ALLERGEN ADVICE: CONTAINS MILK SOLIDS, CHEESE POWDER & SOY. MAY CONTAIN PEANUT PRODUCT OF INDIA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010503550",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

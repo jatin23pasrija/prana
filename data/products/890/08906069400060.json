@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069400060",
+  "barcode_printed": "8906069400060",
+  "barcode_format": "EAN-13",
+  "name": "Southwest Chipotle Dressing",
+  "brand": "veeba",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "15 g",
+        "quantity": {
+          "value": 15,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 38,
+        "protein_g": 0.3,
+        "carbohydrate_g": 2.2,
+        "sugars_g": 1.2,
+        "fat_g": 3.1
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Synthetic Vinegar [Water, Acetic Acid (INS260)], Refined Soyabean Oil, Liquid Glucose, Milk Solids, Emulsifiers and Stabilizers (INS1442, INS1450. INS415), Tomato Paste, Spices and Condiments, lodised Salt, Sugar, Chillies (1.6%), Cheese Powder, Natural Flavouring Substances, Preservatives (INS211, INS202), Acidity Regulator (INS330), Herbs, Antioxidant (INS319) and Sequestrant (INS385). ALLERGEN INFORMATION: Contains Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069400060",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

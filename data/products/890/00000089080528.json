@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00000089080528",
+  "barcode_printed": "89080528",
+  "barcode_format": "EAN-8",
+  "name": "Iced Latté",
+  "category": "coffee",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 170,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Toned milk (55%), Water, Milk solids, Sugar, Coffee (0.6%), Thickeners (1440, 415), Acidity regulators (500(ii), 332(ii)), Nature-identical flavouring substances, Emulsifier (322(i)), Stabilizer (407) and lodized salt. Allergen Note: Contains Milk and Soy. FOR MRP (incl. of all taxes): - MFD. - USE BY - Lot No.: SEE BOTTOM PANEL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89080528",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

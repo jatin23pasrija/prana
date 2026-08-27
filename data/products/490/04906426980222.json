@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "04906426980222",
+  "barcode_printed": "4906426980222",
+  "barcode_format": "EAN-13",
+  "name": "instant popcorn",
+  "brand": "4700bc",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 139,
+        "protein_g": 2,
+        "carbohydrate_g": 15,
+        "sugars_g": 0,
+        "fat_g": 8,
+        "saturated_fat_g": 4,
+        "fibre_g": 3,
+        "sodium_mg": 160
+      }
+    }
+  ],
+  "ingredients_raw": "Popping corn |70%), Edible vegetable oil (Rice bran. Sunflower & Olive oil). Iodised salt,Anti-Oxidant (E319). Acidity Regulator (E330), Anti-foaming Agent (E900a), Emulsifier (E471)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4906426980222",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

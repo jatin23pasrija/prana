@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063017627",
+  "barcode_printed": "8901063017627",
+  "barcode_format": "EAN-13",
+  "name": "Brit 50-50 maska chaska 40g (20)",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM & PALMOLEIN OIL, SUGAR, LIQUID GLUCOSE, RAISING AGENTS [503(ii), 341(ii), 500(ii) & 450(i)], BUTTER (1.2%), BLACK SALT, MILK SOLIDS, DEHYDRATED VEGETABLE (CHIVES) (1%), IODISED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCE, DOUGH CONDITIONER (223) AND IMPROVERS [1101(i)& XYLANASE]. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SULPHITE. STORE IN A COOL, HYGIENIC AND DRY PLACE. TRANSFER CONTENTS TO A CLEAN AIRTIGHT CONTAINER ONCE OPENED. JURUCTRIES LTD. 5/1 A HUNGERFORD",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063017627",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

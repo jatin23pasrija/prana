@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904246935275",
+  "barcode_printed": "8904246935275",
+  "barcode_format": "EAN-13",
+  "name": "Priya Quick Upma",
+  "brand": "priya",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 410,
+        "protein_g": 10.8,
+        "carbohydrate_g": 41.2,
+        "sugars_g": 3.7,
+        "fat_g": 12.3,
+        "saturated_fat_g": 5.3,
+        "fibre_g": 5.9,
+        "sodium_mg": 1260
+      }
+    }
+  ],
+  "ingredients_raw": "Precooked Semolina (71%), Edible Vegetable Oil Gram Split Ginger Paste, Cashew Nut (1.3%), Curry Leaves, Mustard, Anticaking Agent, Calcium Silicate, Sugar, Dry Coriander Leaves, Acidity Regulator, Citric Acid, Natural and Nature Identical Flavouring Substances and Compounded Asafootida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904246935275",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

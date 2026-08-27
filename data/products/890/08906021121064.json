@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021121064",
+  "barcode_printed": "8906021121064",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Masala Powder",
+  "brand": "aachi",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Spice Content - 76% (Red Chilli Powder, Coriander, Cumin, Garlic Flakes, Mustard, Fenugreek, Black Pepper, Tamarind Powder, Turmeric Powder, Curry Leaves) Rice and Salt-7%.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021121064",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

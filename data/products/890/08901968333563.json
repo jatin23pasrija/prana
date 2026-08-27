@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08901968333563",
+  "barcode_printed": "8901968333563",
+  "barcode_format": "EAN-13",
+  "name": "Chicken Bockwurst",
+  "brand": "buffet",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 231.6,
+        "protein_g": 11.4,
+        "carbohydrate_g": 6,
+        "sugars_g": 2.5,
+        "fat_g": 18
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901968333563",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906153883892",
+  "barcode_printed": "8906153883892",
+  "barcode_format": "EAN-13",
+  "name": "Two Brothers Thandai Drink Mix",
+  "brand": "two-brothers",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cashew nut (33.22%), Almond (33.22%) Sauf (8.31%) melon seeds (7.47%) Pistachio (5.23%) Poppy Seeds (4.15%) Black pepper (3.32%) Rose petals (1.66%) Cardamom (1.00%) Saffron (1.00%) White pepper (0.83%) Nutmeg (0.58%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906153883892",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

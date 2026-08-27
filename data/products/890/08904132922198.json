@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132922198",
+  "barcode_printed": "8904132922198",
+  "barcode_format": "EAN-13",
+  "name": "Snactac mixed frui jam",
+  "brand": "reliance-retail",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 309,
+        "protein_g": 0.5,
+        "carbohydrate_g": 77.3,
+        "sugars_g": 68.7,
+        "fat_g": 0,
+        "sodium_mg": 189
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, MIXED FRUIT [PAPAYA, BANANA APPLE, PINEAPPLE, STRAWBERRY, BLACK GRAPES, PLUM) PULP 145%), 224, ACIDITY REGULATOR (330), THICKENER (440) ARTIFICIAL FLAVOURING SUBSTANCES (PINEAPPLE, RASPBERR SYNTHETIC FOOD COLOUR (122), PRESERVATIVES (211) CONTAINS PERMITTED CLASS II PRESERVATIVES ALLERGEN INFORMATION CONTAINS SULPHITE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132922198",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00012345678905",
+  "barcode_printed": "0012345678905",
+  "barcode_format": "EAN-13",
+  "name": "Sphère plaisir",
+  "brand": "altena-s-nopales",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Courgette (40 %), _ŒUF_, Farines (avoine, pois chiche), bicarbonate, _MOUTARDE_ à L'Ancienne (dont Vinaigre d'alcool, graines de _MOUTARDE_, eau, sel, vin blanc 4,8 % (dont _SULFITES_), sucre, arôme naturel, acidifiant : acide lactique), Cœur: _MOUTARDE_ au miel (dont Sucre, eau, vinaigre d'alcool, graines de _MOUTARDE_, miel 8%, sel, épices, herbes, colorant : caramel E150c, acidifiant : acide citrique, conservateur : E224 (_SULFITES_))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0012345678905",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

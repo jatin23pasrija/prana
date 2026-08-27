@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059639197",
+  "barcode_printed": "8906059639197",
+  "barcode_format": "EAN-13",
+  "name": "Almond Drink",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 25,
+        "protein_g": 1.7,
+        "carbohydrate_g": 0.3,
+        "sugars_g": 0.2,
+        "fat_g": 1.9,
+        "saturated_fat_g": 0.2
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Almond (4%), Emulsifier [INS322(ii)], Stabilizer (INS 418), Minerals, Vitamin Premix (Vit A and Vit D2)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059639197",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

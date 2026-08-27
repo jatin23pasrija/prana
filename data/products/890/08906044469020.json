@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906044469020",
+  "barcode_printed": "8906044469020",
+  "barcode_format": "EAN-13",
+  "name": "Asafoetida",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "POIDS NET: 3.50 OZS Net Weight 100g INGREDIENTS: RICE FLOUR, GUM ARABIC, ASAFOETIDA, TURMERIC, WHEAT FLOUR. TURMERIC CODE NO. 75300 Plot C",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906044469020",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

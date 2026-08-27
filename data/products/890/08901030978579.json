@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030978579",
+  "barcode_printed": "8901030978579",
+  "barcode_format": "EAN-13",
+  "name": "Horlicks Chocolate",
+  "brand": "horlicks",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 360,
+        "protein_g": 7,
+        "carbohydrate_g": 81,
+        "sugars_g": 46,
+        "fat_g": 2,
+        "saturated_fat_g": 1.4,
+        "fibre_g": 5,
+        "sodium_mg": 350
+      }
+    }
+  ],
+  "ingredients_raw": "Malted Cereals (Extracted Solids) (23%) [Barley Malt (13%), Wheat Malt (10%)], Cereal Extract (19%) [Barley (11%), Wheat (8%)], Partially Hydrolysed Cereal Solids, Sugar, Milk Solids (8%), Cocoa Powder (6%), Wheat Gluten, Minerals, Soy Protein Isolate, Emulsifier (INS 471), Liquid Glucose, Natural Colour (INS 150c), Nature Identical Flavouring Substances, Vitamins, Stabiliser (INS 412), Edible lodized Salt, Acidity Regulators [INS 501(ii), INS 500(ii)].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030978579",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

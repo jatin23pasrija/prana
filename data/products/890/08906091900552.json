@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906091900552",
+  "barcode_printed": "8906091900552",
+  "barcode_format": "EAN-13",
+  "name": "Gourmet Chcoolate",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 428.57,
+        "protein_g": 10.71,
+        "carbohydrate_g": 75,
+        "sugars_g": 17.86,
+        "fat_g": 14.29,
+        "saturated_fat_g": 7.14,
+        "fibre_g": 14.29
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906091900552",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

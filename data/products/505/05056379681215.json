@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "05056379681215",
+  "barcode_printed": "5056379681215",
+  "barcode_format": "EAN-13",
+  "name": "Impact Whey Isolate Salted Caramel",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 367,
+        "protein_g": 83.26,
+        "carbohydrate_g": 6.49,
+        "sugars_g": 2.01,
+        "fat_g": 0.88,
+        "saturated_fat_g": 0.38,
+        "sodium_mg": 392
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5056379681215",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

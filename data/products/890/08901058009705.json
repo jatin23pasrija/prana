@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058009705",
+  "barcode_printed": "8901058009705",
+  "barcode_format": "EAN-13",
+  "name": "Veg atta noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 290,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (72.5 g)",
+        "quantity": {
+          "value": 72.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 228,
+        "protein_g": 5.6,
+        "carbohydrate_g": 36.5,
+        "sugars_g": 1.8,
+        "fat_g": 7.5,
+        "saturated_fat_g": 6.2,
+        "trans_fat_g": 0.11,
+        "fibre_g": 3.3,
+        "sodium_mg": 579.2
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flour (Atta) (84.2%), Palm oil, lodized salt, Wheat gluten, Thickeners (508 & 412), Humectants (451 (i) & 452(i)) and Acidity regulators (501 (i) & 500 (i)) Tastemaker: Dehydrated Vegetables (22%) (Carrot bits (12%), Green peas (10%) Mixed spices (20.3%) (Roasted spice mix powder (5.6%) (Coriander, Turmeric, Cumin, Aniseed, Black pepper, Fenugreek, Ginger, Green cardamom, Cinnamon, Clove, Nutmeg, Bay leaf, Black cardamom), Onion powder, Garlic powder, Red chilli powder, Dehydrated kasuri methi leaves, Red chilli bits, Coriander powder, Turmeric powder, Ginger powder, Aniseed powder, Black pepper powder, Cumin powder, Cumin, Fenugreek powder, .Capsicum extract, Compounded asafoetida, Star anise powder, Coriander extract & Cumin extract), Toasted onion flakes (Onion (17.5%), Corn oil), Wheat Flour (Atta), Sugar, lodized salt, Toasted onion powder (Onion (4.9%), Corn oil), Thickener (508), Palm oil, Flavour enhancer (635), Yeast extract powder, Starch, Acidity regulator (330), Wheat gluten and Mineral.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058009705",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

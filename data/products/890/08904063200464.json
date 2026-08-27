@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200464",
+  "barcode_printed": "8904063200464",
+  "barcode_format": "EAN-13",
+  "name": "Boondi Plain 200G (salz. backerbsen) Haldirams",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Farine de pois chiche (50%), huile végétale (graine de coton, mais et oléine de palme), sagou, sel (2%), Attention: Ce produit a été emballé dans une usine traitant des fruits à coques, des graines de sésame, des graines moutarde, des produits laitiers et du blé, Produit de linde Carder à labri de la",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200464",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013172238",
+  "barcode_printed": "8908013172238",
+  "barcode_format": "EAN-13",
+  "name": "Phab Protein Bar",
+  "brand": "phab",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (65 g)",
+        "quantity": {
+          "value": 65,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 227.8,
+        "protein_g": 21,
+        "carbohydrate_g": 26.8,
+        "sugars_g": 9.8,
+        "fat_g": 5.8,
+        "saturated_fat_g": 2.6,
+        "trans_fat_g": 0,
+        "fibre_g": 7.7,
+        "sodium_mg": 151.3
+      }
+    }
+  ],
+  "ingredients_raw": "Protein 367 (Soy Protein pranules(175) Whey Protein kolate Probiotic Fretes S+Squerfree Whita Chesslate Milk Solrds, Cocos Solich, Edible Vegetable Fat (Palmi, Humstant (INS (103), Pas Protan Isolate (5), Asian Date Paxt6, Prickste and swansa (6SNZ4 (4603), Psh Oc-Sunro Rated Amad pitcert (266) Great Poun rே 2 at Codes rean Ponder (2.1475), Emulsifier (INS 412, N$ 322 (0), Záble common atHimalayan Pink Sal0, Acidity anbaal flavar - rary.rasemary orONS 330), Nature Y PLACE. DOD-High Protein B. - Full COLDAVS CHOCOLATE PRODUCTS Ba ar -(5.1",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013172238",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063202291",
+  "barcode_printed": "8904063202291",
+  "barcode_format": "EAN-13",
+  "name": "ALOO PARATHA",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "DO ************ NG Potatoes (60%), Whole Wheat Flour (27%), Refined Sunflower Oil, Water, Salt, Coriander Leaves, Ginger, Green Chili, Mint Leaves, Red Chili Powder and Spices (Coriander, Cumin, Mango Powder, Dried Fenugreek Leaves, Black Pepper Powder). CONTAINS WHEAT COMPONENTS THIS PRODUCT IS MADE IN A FACILITY THAT PROCESSED FOODS CONTAINING PEANUT, TREE NUTS, MILK, MUSTARD SOY SESAME AND CELERY COMP",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063202291",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

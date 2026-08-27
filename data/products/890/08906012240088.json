@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906012240088",
+  "barcode_printed": "8906012240088",
+  "barcode_format": "EAN-13",
+  "name": "Heeng ki tikiya",
+  "brand": "dilbahar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Ingredients ( fra 0.9% ida (Ferula Narthex Boiss) Asafoe 2% 0.10% 0.9% 0.9% 0.2% 18.4% 0.06% elackPepper-(Piper Nigrum Linn.) rLong long Piper Longum Linn.) Pepper Cumin Dry Ginger Pepper Dry Mango Peeplamool (Piper Longum Linn.) Neembusat (Citrus Medica Extract) Black Sa (Black Salt) Salt Sugar (Cuminum Cyminum Linn.) (Zingiber Officinale Rosc.) Capsicum Annum Linn.) (Mangifera indica Linn.) 0.010% (Salt) Sugar) 0.3% 68% Q.S.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906012240088",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

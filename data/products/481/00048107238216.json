@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "00048107238216",
+  "barcode_printed": "0048107238216",
+  "barcode_format": "EAN-13",
+  "name": "Gnc All In One",
+  "brand": "gnc",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 ne scoop (30 g)",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 87.4,
+        "protein_g": 15,
+        "carbohydrate_g": 5.5,
+        "sugars_g": 1.44,
+        "fat_g": 0.6,
+        "saturated_fat_g": 0.21
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0048107238216",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

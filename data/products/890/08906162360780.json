@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906162360780",
+  "barcode_printed": "8906162360780",
+  "barcode_format": "EAN-13",
+  "name": "Peanut chutney",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "PEANUT (61%), GARLIC, SMALL ONION, DRY RED CHILLI, REFINED SUNFLOWER OIL, DRY KASHMIRI RED CHILLI, URAD DAL, ROCK SALT, TAMARIND, CURRY LEAVES, MUSTARD SEEDS, ASAFOETIDA ALLERGEN INFO: CONTAINS PRODUCTS FROM PEANUT & MUSTARD",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906162360780",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030976988",
+  "barcode_printed": "8901030976988",
+  "barcode_format": "EAN-13",
+  "name": "Horlicks classic Malt",
+  "brand": "horlicks",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Malt (66.7%) [Barley (32%), Wheat Flour (Atta), Wheat, Millet], Milk Solids (14%), Sugar, Wheat Gluten, Minerals, Edible Iodized Salt, Soy Protein Isolate, Acidity Regulators (INS 501, INS 500), Vitamins.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030976988",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

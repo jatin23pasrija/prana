@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001025269",
+  "barcode_printed": "8906001025269",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein (Malai Kulfi)",
+  "brand": "avvatar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "35 g",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 138,
+        "protein_g": 28,
+        "carbohydrate_g": 2.9,
+        "fat_g": 1.7,
+        "saturated_fat_g": 1.1,
+        "sodium_mg": 90
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001025269",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081923646",
+  "barcode_printed": "8906081923646",
+  "barcode_format": "EAN-13",
+  "name": "Carbamide Forte Chewable Vitamin D3",
+  "brand": "carbamide-forte",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cholecalciferol (Vitamin D3) (As Stabilized), Excipients",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081923646",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

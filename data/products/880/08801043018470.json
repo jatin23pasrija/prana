@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08801043018470",
+  "barcode_printed": "8801043018470",
+  "barcode_format": "EAN-13",
+  "name": "NONGSP 席 GOURMET SPICY SPICY & CREAMY FLAVOUR Toom",
+  "brand": "shin-ramyun",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 137,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NOEDELS 77%: Tarwebloem, aardappelzetmeel, palmolie, zout, zuurteregelaars: E501, E500, E339, antioxidant: E306, emulgator: E322 (bevat soja), kleurstof: E101. KRUIDENPOEDER 12% : Smaakmaker (maltodextrine, kokosolie, rijst, aardappelzetmeel, palmolie, gistextract, zout, amandel, haver, knoflook, sojabonen, tarwe), maltose, glucose, smaakversterkers: E621, E627, E631, aardappelzetmeel, zout, maiszetmeel, peterselie, shiitake, koolzaadolie. KRUIDENPASTA 11%: Suiker, Oliebereiding (rijstolie, water, koolzaadolie, groene uien), smaakversterkers: E621, E627, E631, smaakmaker (maltodextrine, smaakversterker: E640, gehydrolyseerd plantaardig eiwit (soja, tarwe), mosterdzaad, sojabonen, maïszetmeel, wortel), smaakmaker (chilli, knoflook, ui), zout, glucose, shiitake, voedingszuur: E330. Kan sporen van gerst, schaaldieren, eieren, vis, pinda's, melk, selderij, sesamzaad en weekdieren bevatten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8801043018470",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

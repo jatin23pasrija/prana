@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00000089006627",
+  "barcode_printed": "89006627",
+  "barcode_format": "EAN-8",
+  "name": "Orbit mixed fruit chewing gum",
+  "brand": "orbit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "sorbitol, mannitol, maltitol, isomalt, gum base, natural nature identical and artificial mint vanilla flavouring, sweeteners, aspartame, acesulfame K, contains soybean lecithin, contains milk, anticaking agent, magnesium stearate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89006627",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

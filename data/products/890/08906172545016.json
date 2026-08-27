@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906172545016",
+  "barcode_printed": "8906172545016",
+  "barcode_format": "EAN-13",
+  "name": "aamchi Mango Ice Cream",
+  "brand": "hocco",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Inner Layer Medium Fat Ice Cream (85.2%): Precessed Mange Pulp (40%) (Mange Pulp. Sugar) Milk Solids (Cream Butter Skimmed Milk Powder), Sugar, Emulsifier (INS 471, INS 433) and Stabilisers (INS 466, INS 412, INS 407a, INS 415. INS 410) CONTAINS NATURAL COLOUR (INS 1606) AND NATURAL MANGO FLAVOURING SUBSTANCES, Outer Layer-Mange Covering (14.8%): Edible Vegetable Oil (Palm Oil, Palm Kernel Oil), Sugar, Milk Solids, Emulsifiers (NS3230) INS 476) Acidity regulater (INS 330), Spices Oleoresins, CONTAINS NATURAL COLOUR (INS 160b, INS 1606. INS 1411 And NATURAL MANGO FLAVOURING",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906172545016",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

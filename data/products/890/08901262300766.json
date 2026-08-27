@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262300766",
+  "barcode_printed": "8901262300766",
+  "barcode_format": "EAN-13",
+  "name": "Frostik Dark Chocolate",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Inner Layer - Chocolate Stick (22%): Cocoa Solids, sugar, coconut oil, cocoa butter, emulsifier (322); Middle Layer - Chocolate Ice Cream (58%): Milk solids, sugar, cocoa solids, emulsifier (471), stabilizers (407, 466, 415, 412); Outer Layer: Choco Layer Coating (20%): Cocoa solids, sugar, coconut oil, cocoa butter, emulsifier (322), cashew pieces (4.5%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262300766",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

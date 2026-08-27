@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "00631656259278",
+  "barcode_printed": "0631656259278",
+  "barcode_format": "EAN-13",
+  "name": "Nitro tech Protine Shake",
+  "brand": "muscle-tech",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 4000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (45 g)",
+        "quantity": {
+          "value": 45,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 161,
+        "protein_g": 30,
+        "carbohydrate_g": 4,
+        "sugars_g": 2,
+        "fat_g": 2,
+        "saturated_fat_g": 1.1,
+        "fibre_g": 0.6,
+        "sodium_mg": 105
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0631656259278",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

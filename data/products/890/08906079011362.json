@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906079011362",
+  "barcode_printed": "8906079011362",
+  "barcode_format": "EAN-13",
+  "name": "Smackers lollipop",
+  "brand": "luvit",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Liquid Glucose, Milk Solids, Hydrogenated Vegetable Oil (Palm Oil), Cocoa Solids (4.0%*), Salt, Butter Oil, Emulsifier (INS 322(i)), Malt Extract.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906079011362",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08904073601022",
+  "barcode_printed": "8904073601022",
+  "barcode_format": "EAN-13",
+  "name": "Sharbat Khus",
+  "brand": "shree-guruji",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 275.6,
+        "protein_g": 0.1,
+        "carbohydrate_g": 72.92,
+        "sugars_g": 52.21,
+        "fat_g": 0.21,
+        "sodium_mg": 15.67
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, WATER, LIQUID GLUCOSE, DISTILLATE OF KHUS (1%), ACDITY REGULATOR (E330) CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (E102), (E133) & ADDED FLAVOURS - NATURAL, NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (KHUS)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904073601022",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

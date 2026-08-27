@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335604518",
+  "barcode_printed": "8904335604518",
+  "barcode_format": "EAN-13",
+  "name": "Power Up 20g Protein Bar Coffee Crush",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "70 g",
+        "quantity": {
+          "value": 70,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 243,
+        "protein_g": 20,
+        "carbohydrate_g": 35.7,
+        "sugars_g": 16.1,
+        "fat_g": 7.7,
+        "saturated_fat_g": 6.8,
+        "fibre_g": 11.9,
+        "sodium_mg": 28.7
+      }
+    }
+  ],
+  "ingredients_raw": "Prote Blend (37%) (Peanut Protein, Soy Crisps 10.5%, Milk Protein Concentrate, Whole Milk Powder, Whey Protein Isolate %), No Add Sugar Dark Compound 20% (Maltitol,Edible Vegetable Fat (Hydrogenated),Cocoa Solids, Sorbitan Tristearate, Soy Lecithin & Nare dentical Flavour), Fructooligosaccharide, Maltitol, Glycerine, Coffee Powder (3%), Natural & Nature Identical Flavours, Rice Bran Oil, Penut 6%), Soy Lecithin, Gum Acacia, Steviol Glycoside.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335604518",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906025502012",
+  "barcode_printed": "8906025502012",
+  "barcode_format": "EAN-13",
+  "name": "Vijaya Doodh Peda",
+  "brand": "vijaya",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 108.9,
+        "protein_g": 2.8,
+        "carbohydrate_g": 12.8,
+        "sugars_g": 12.8,
+        "fat_g": 5.1,
+        "saturated_fat_g": 3.2,
+        "sodium_mg": 43
+      }
+    }
+  ],
+  "ingredients_raw": "Milk & Sugar",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906025502012",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

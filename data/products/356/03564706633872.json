@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "03564706633872",
+  "barcode_printed": "3564706633872",
+  "barcode_format": "EAN-13",
+  "name": "Torti surimi",
+  "brand": "menu-fraicheur",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pates alimentares cuites 3% semoule de blé dur, sell: eau; surimi 15% (eal, chair de poisson, amidon dont ble amidon modifie huile de soja sucre, set colorant: extrait de paprika, stabilisants: E450, E451); huile de colza; poivron rouge; vinagre d'alcool; jus de cron à base concentré; amidon modifié de pomme de teme; whisky; vinaigre de xeres; moutarde aan de moula d'alcool, se); sel; sucre ; jaune d'oeuf en poudre; congervateur: E202; ciboulette des ha épaississant: gomme xanthane; poivre; échalote déshydratée; poudre de betterave; artimes caramel ordinaire. Traces de: céleri, autres céréales contenant du gluten, crustacés graines de sésame et soja.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3564706633872",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

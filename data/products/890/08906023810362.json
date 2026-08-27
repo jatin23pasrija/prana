@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906023810362",
+  "barcode_printed": "8906023810362",
+  "barcode_format": "EAN-13",
+  "name": "Cream Bun",
+  "brand": "nanda-s",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Water, Sugar, Milk Solids, Iodised salt, Refined Palmolein Oil, Hydrogenated Vegetable Oil, Corn Flour ,Preservative (252) Acidity Regulator (260) ,Emulsifier (471), Improver (1100) and Antioxidant (300). Contains Permitted Synthetic Food Colours (INS 102) Added Flavours (Natural & Artificial Flavoring Substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906023810362",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

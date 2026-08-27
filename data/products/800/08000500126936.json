@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08000500126936",
+  "barcode_printed": "8000500126936",
+  "barcode_format": "EAN-13",
+  "name": "Ferrero Rocher",
+  "brand": "ferrero-rocher",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "MILK CHOCOLATE (30%) (SUGAR, COCOA BhUTTER, COCOA MASS, SKIMMED MILK POWDER, ANHYDROUS MILKFAT, EMULSIFIER: LECITHIN - INS 322, NATURE IDENTICAL FLAVOURING SUBSTANCE VANILLIN), HAZELNUTS (28.5%), SUGAR, PALM OIL, REFINED WHEAT FLOUR (MAIDA), WHEY POWDER, LOW FAT COCOA POWDER, EMULSIFIER (LECITHIN-INS 322), RAISING AGENT (INS 500ii), EDIBLE COMMON SALT, NATURE IDENTICAL FLAVOURING SUBSTANCE - VANILLIN. ALLERGEN INFORMATION: Contains MILK, Fat NUT, WHEAT, SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8000500126936",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08907790000338",
+  "barcode_printed": "8907790000338",
+  "barcode_format": "EAN-13",
+  "name": "Fruit mufflins",
+  "brand": "ribbons-balloons",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 369.2,
+        "protein_g": 4.97,
+        "carbohydrate_g": 49.79,
+        "sugars_g": 40.01,
+        "fat_g": 16.57,
+        "saturated_fat_g": 7.75,
+        "sodium_mg": 130
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EDIBLE VEGETABLE OIL (PALM OIL), WATER, MILK SOLIDS, SWEETENER [INS 420], RAISING AGENT [INS 500(i), INS 541], EDIBLE STARCH, EMULSIFIERS [INS 472e, INS 475, INS 471, INS 477, INS 470(i)], ACIDITY REGULATOR [INS 330], STABILIZER [INS 415], ANTICAKING AGENT INS 341(iii)], HUMECTANT [INS 422, INS 1520], IODISED SALT AND ANTIOXIDANT [INS 320]. CONTAINS ADDED FLAVOURS NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCE-VANILLA AND MIX FRUIT] CONTAINS PERMITTED CLASS II PRESERVATIVES [INS 282, INS 200, INS 202] (Numbers in brackets as per International Numbering System)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907790000338",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

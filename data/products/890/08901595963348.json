@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595963348",
+  "barcode_printed": "8901595963348",
+  "barcode_format": "EAN-13",
+  "name": "Instant noodles",
+  "brand": "chings",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Noodles: Refined Wheat Flour (Maida), Refined Palm Oil, lodised Salt, Wheat Gluten, Thickener (INS 508), Stabilizer (INS 451), Acidity Regulator (INS 501 (i)), Raising Agent (INS 500(i)). Antioxidant (INS 319). Seasoning Mix: Mixed Spices (22.6%) [Coriander, Cumin, Chilli, Ginger], lodised Salt, Sugar, Dehydrated Garlic, Dehydrated Vegetables (7.5%) [Carrot, Parsley], Dehydrated Onion, Corn Flour, Soy Sauce Powder (Soybean, Wheat, Salt), Flavour Enhancer (INS 635)), Acidity Regulator (INS 260)), Anticaking Agent (INS 551) Sunflower Oil, Yeast Extract, Natural Colour (INS 150d), Natural Flavouring Substances. ALLERGEN ADVICE: Contains Wheat and Soy. May contain Mustard, Milk & Celery",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595963348",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

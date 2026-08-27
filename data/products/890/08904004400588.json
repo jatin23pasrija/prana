@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004400588",
+  "barcode_printed": "8904004400588",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's Lite Chiwda",
+  "brand": "haldiram",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 57,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 542,
+        "protein_g": 8.02,
+        "carbohydrate_g": 56.34,
+        "sugars_g": 2.16,
+        "fat_g": 31.63,
+        "saturated_fat_g": 10.64,
+        "fibre_g": 3.86,
+        "sodium_mg": 710.18
+      }
+    }
+  ],
+  "ingredients_raw": "Rice flakes,Refined Palmolein Oil,Bengal Gram Flour,Tapioca Starch,Refined Sugar,Iodised Salt and Turmeric",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004400588",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

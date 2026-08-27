@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08901044670858",
+  "barcode_printed": "8901044670858",
+  "barcode_format": "EAN-13",
+  "name": "Mapro Khus Sharbat",
+  "brand": "mapro",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 260,
+        "protein_g": 0,
+        "carbohydrate_g": 69.68,
+        "sugars_g": 68.93,
+        "fat_g": 0,
+        "sodium_mg": 6.12
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, WATER, EXTRACT OF KHUS ROOTS (10%), ACIDITY REGULATOR (CITRIC ACID), PRESERVATIVE (INS-211) CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS-102, INS-133) & ADDED FLAVOURS-NATURAL, NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES (KHUS)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901044670858",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

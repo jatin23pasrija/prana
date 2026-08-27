@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016809087",
+  "barcode_printed": "8908016809087",
+  "barcode_format": "EAN-13",
+  "name": "Plant-based chicken seekh kebab",
+  "brand": "blue-tribe",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 205,
+        "protein_g": 14.56,
+        "carbohydrate_g": 6.99,
+        "sugars_g": 1.46,
+        "fat_g": 13.2,
+        "saturated_fat_g": 8.83,
+        "fibre_g": 1.03
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016809087",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

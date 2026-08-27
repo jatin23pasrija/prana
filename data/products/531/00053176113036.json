@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "00053176113036",
+  "barcode_printed": "0053176113036",
+  "barcode_format": "EAN-13",
+  "name": "Eggs",
+  "brand": "fresho",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 128,
+        "protein_g": 13.3,
+        "carbohydrate_g": 0.67,
+        "sugars_g": 0,
+        "fat_g": 8,
+        "saturated_fat_g": 3.3,
+        "sodium_mg": 124
+      }
+    }
+  ],
+  "ingredients_raw": "Eggs",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0053176113036",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

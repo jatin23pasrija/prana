@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063342354",
+  "barcode_printed": "8901063342354",
+  "barcode_format": "EAN-13",
+  "name": "sandwich white bread",
+  "brand": "britannia",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), WATER, SUGAR YEAST, IODISED SALT, REFINED PALM OIL, SOYA FLOUR, VITAL GLUTEN, PRESERVATIVE (282), FLOUR TREATMENT AGENT (516 & 510), EMULSIFIER (472e), STABILIZER (1700), 412), ACIDITY REGULATOR (260), IMPROVERS [1101(1), 1102,1104], ANTIOXIDANT (300), VITAMINS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063342354",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

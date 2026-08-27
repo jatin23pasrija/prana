@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906011410123",
+  "barcode_printed": "8906011410123",
+  "barcode_format": "EAN-13",
+  "name": "Ganesh Udad Pepper Lentil Chips",
+  "brand": "ganesh",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 piece (14 g)",
+        "quantity": {
+          "value": 14,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 44,
+        "protein_g": 4,
+        "carbohydrate_g": 7,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 233
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906011410123",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

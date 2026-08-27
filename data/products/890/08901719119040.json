@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719119040",
+  "barcode_printed": "8901719119040",
+  "barcode_format": "EAN-13",
+  "name": "Parle Mazelo Candy",
+  "brand": "parle",
+  "category": "sugar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 198,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 380,
+        "protein_g": 0,
+        "carbohydrate_g": 95.1,
+        "sugars_g": 79.7,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 18.29
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, LIQUID GLUCOSE AND ACIDITY REGULATORS (270, 325). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (171,122,102,133) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - LITCHI, WATERMELON, APPLE, GUAVA, BANANA).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719119040",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

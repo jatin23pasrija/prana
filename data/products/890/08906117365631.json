@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117365631",
+  "barcode_printed": "8906117365631",
+  "barcode_format": "EAN-13",
+  "name": "Milk Bread",
+  "brand": "country-delight",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole wheat flour (Atta) (45%), Protein Blend (8.5%) (Vital Wheat Gluten, Soy Protein Isolate, Pea Protein Concentrate). Sulphurless Sugar, Defatted Soy Flour, (Milk Solids) (27%). Baker's Yeast, Edible vegetable oil (Cold-Pressed Sunflower oil), lodized salt, Fermented wheat flour, Cultured sweet potato and Vitamin C.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117365631",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

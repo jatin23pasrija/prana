@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906067021182",
+  "barcode_printed": "8906067021182",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein",
+  "brand": "muscleblaze",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 394.39,
+        "protein_g": 72,
+        "carbohydrate_g": 12.4,
+        "sugars_g": 6,
+        "fat_g": 6.31,
+        "saturated_fat_g": 4.1,
+        "sodium_mg": 413.77
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Blend (Whey Protein Concentrate, Whey Powder & Whey Protein Isolate), Cocoa Powder, Nature Identical Flavouring Substances, Lecithin (Emulsifier), Salt, Xanthan Gum (Stabilizer), Proprietary Enzyme Blend, Sucralose (Sweetener) & Silicon Dioxide (Anti-Caking Agent) Proprietary Enzyme Blend-A Multi Enzyme blend containing Amylase, Protease, Lactase, paket & Cellulase. CONTAIN NON-CALORIC SWEETENER This contains Sucralose CONTAINS NATURALLY OCCURRING SUGARS'",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906067021182",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764112270",
+  "barcode_printed": "8901764112270",
+  "barcode_format": "EAN-13",
+  "name": "Coca Cola Zero Sugar",
+  "brand": "coca-cola-zero",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, ACIDITY REGULATORS (338, 331(iii)), SWEETENERS (955, 950) PRESERVATIVE (211), CAFFEINE (9.2 mg/100 g), COLOUR (150d), FLAVOURS (NATURAL FLAVOURING SUBSTANCES). &quot;CONTAINS CAFFEINE&quot;",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764112270",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

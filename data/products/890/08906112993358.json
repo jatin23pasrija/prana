@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08906112993358",
+  "barcode_printed": "8906112993358",
+  "barcode_format": "EAN-13",
+  "name": "Cookie",
+  "brand": "lo",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 595,
+        "protein_g": 23,
+        "carbohydrate_g": 18,
+        "sugars_g": 12,
+        "fat_g": 40
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906112993358",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

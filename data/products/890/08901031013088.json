@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901031013088",
+  "barcode_printed": "8901031013088",
+  "barcode_format": "EAN-13",
+  "name": "Donettes Powdered",
+  "brand": "hostess",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "enriched flour (wheat flour, malted barley flour, niacin, reduced iron, thiamin mononitrate, riboflavin, folic acid), palm oil, dextrose, sugar, water, corn starch, soybean oil, glycerin, nonfat milk, defatted soy flour, egg yolk, titanium dioxide, sodium acid pyrophosphate, baking soda, sodium aluminum phosphate, salt, preservatives (sorbic acid, sodium propionate, potassium sorbate, natamycin), wheat starch, soy lecithin, dextrin, mono - and diglycerides, guar gum, cellulose gum, natural and artificial flavors, enzymes, annatto and turmeric for color",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901031013088",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

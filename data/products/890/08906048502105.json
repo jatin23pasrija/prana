@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906048502105",
+  "barcode_printed": "8906048502105",
+  "barcode_format": "EAN-13",
+  "name": "Protinex Rich Chocolate Flavour",
+  "brand": "protinex",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Skimmed milk powder, Soy protein isolate, Maltodextrin, Cocoa powder, Nature identical flavourings substances (Chocolate&Vanilla Stabilisers (Carrageenan, Xanthan) Vitamins, Sweetener (Sucralose)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906048502105",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

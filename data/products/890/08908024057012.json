@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908024057012",
+  "barcode_printed": "8908024057012",
+  "barcode_format": "EAN-13",
+  "name": "Peanut chocolate laddoos",
+  "brand": "eat-better-co",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Dates (46%), peanuts (32%), cashews (10%), oats (7.6%), cacao (2.2%), chia seeds (1.6%), vanilla extracts (0.6%), & sea salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908024057012",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

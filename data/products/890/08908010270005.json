@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010270005",
+  "barcode_printed": "8908010270005",
+  "barcode_format": "EAN-13",
+  "name": "Golden corn",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 359.7,
+        "protein_g": 16.1,
+        "carbohydrate_g": 66.87,
+        "sugars_g": 0.4,
+        "fat_g": 3.1,
+        "saturated_fat_g": 0.5,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010270005",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08904045410386",
+  "barcode_printed": "8904045410386",
+  "barcode_format": "EAN-13",
+  "name": "Multani rajbhogprash",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 357.96,
+        "protein_g": 0,
+        "carbohydrate_g": 78.7,
+        "sugars_g": 60.1,
+        "fat_g": 4.6,
+        "saturated_fat_g": 0,
+        "fibre_g": 3.7
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904045410386",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512562609",
+  "barcode_printed": "8901512562609",
+  "barcode_format": "EAN-13",
+  "name": "Act II Popcorn",
+  "brand": "act-ii",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Popped corn 88.7%, refined edible palmolein oil (tbhq) iodized salt nature identical flavour, butter table butter 0.07% and beta carotene, contains milk and it's products.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512562609",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

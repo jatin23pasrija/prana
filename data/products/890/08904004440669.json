@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004440669",
+  "barcode_printed": "8904004440669",
+  "barcode_format": "EAN-13",
+  "name": "Choley Bhatura",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "HP Haldiram's NAGPUR CHOLEY BHATURE Deep fried wheat bread with mild spicy chickpeas in gravy GREAT TASTING SINCE 1937 QUALITY FOOD 400g VEGETARIAN NATURAL HAND INGREDIENTS MADE with No Added Preservatives PRODUCT OF INDIA Net Weight Poids Net 14.1 oz Storme Condition: Keep frozen at - 18°C or below Hot LOOP Du meine",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004440669",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08906140970819",
+  "barcode_printed": "8906140970819",
+  "barcode_format": "EAN-13",
+  "name": "Punjab Sindh White Butter",
+  "brand": "punjab-sindh",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 720,
+        "protein_g": 0.6,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 80
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906140970819",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

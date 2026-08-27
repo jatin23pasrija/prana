@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08427030007359",
+  "barcode_printed": "8427030007359",
+  "barcode_format": "EAN-13",
+  "name": "Similac Total Comfort 3 Growing Up Formula",
+  "brand": "similac-is-sold-by-abbott",
+  "category": "baby-food",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 820,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "RAMUAN: Maltodekstrin, MINYAK SAYURAN: (minyak bunga matahari oleik tinggi, minyak kacang soya minyak kelapa), protein air dadih separa hidrolisis (susu lembu), sukrosa, MINERAL: (kalsium klorida, trikalsiu fosfat, kalium fosfat, kalium hidroksida, magnesium sulfat, natrium sitrat, ferus sulfat, kalium klorida, zink sulfat natrium klorida, kuprum sulfat, mangan sulfat, kalium iodida, natrium selenit), frukto-oligosakarida (FOS), perisa VITAMIN: (asid askorbik, natrium askorbat, askorbil palmitat, niasinamida, RRR-alfa tokoferil asetat, ka - pantotenat, piridoksina hidroklorida, Vitamin A palmitat, tiamin hidroklorida, riboflavin, asid folik, ilokuinon, d-bi Klorida, asid arakidonik (AA) dari minyak M. alpina, asid dokosaheksenoik (DHA) dari minyak Schizochytrium sp kolekalsiferol, sianokobalamina), 2'-fucosyllactose (2'-FL) (oligosakarida), pengemulsi (lesitin soya), kolina NUKLEOTIDA: (sitidina 5'-monofosfat, dinatrium uridina 5'-monofosfat, adenosina 5'-monofosfat, dinatrium guanosina 5'-monofosfat), taurina, asid sitrik, campuran tokoferol, KAROTENOID: (lutein, beta karotena). Mengandung pengemulsi sebagai kondisioner makanan yang dibenarkan dan bahan perisa yang dibenarkan. Maklumat Pemakanan",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8427030007359",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

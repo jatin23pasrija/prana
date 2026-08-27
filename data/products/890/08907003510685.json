@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08907003510685",
+  "barcode_printed": "8907003510685",
+  "barcode_format": "EAN-13",
+  "name": "Gulab Jamun",
+  "brand": "a2b",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 309,
+        "protein_g": 4.2,
+        "carbohydrate_g": 55,
+        "sugars_g": 45,
+        "fat_g": 8,
+        "saturated_fat_g": 5,
+        "trans_fat_g": 0.3,
+        "sodium_mg": 10
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar syrup, Milk solids (18%), Refined palm superolein oil, Cardamom.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907003510685",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

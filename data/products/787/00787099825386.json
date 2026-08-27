@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "00787099825386",
+  "barcode_printed": "0787099825386",
+  "barcode_format": "EAN-13",
+  "name": "Seeded Multigrain Sourdough bread",
+  "brand": "la-folie",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 261.15,
+        "protein_g": 11.85,
+        "carbohydrate_g": 46.8,
+        "sugars_g": 4.58,
+        "fat_g": 2.95
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0787099825386",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

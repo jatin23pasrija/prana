@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595971220",
+  "barcode_printed": "8901595971220",
+  "barcode_format": "EAN-13",
+  "name": "Manchow instant soup",
+  "brand": "ching-s",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato starch, dried glucose syrup,iodised salt, dehydrated vegetables(13.5%)[carrot,french beans,parsley, cabbage], sugar, dehydrated onion,soy sauce powder (soyabean,wheat,salt) , dehydrated garlic, flavour inhancer (INS 635) ,mixed spices(chilli powder,pepper powder), natural colour (INS 150d), acidity regulator (INS 296), Anticaking agent(INS 551), sunflower oil, thickener (INS 415), natural flavouring substances",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595971220",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

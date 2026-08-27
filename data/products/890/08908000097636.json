@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000097636",
+  "barcode_printed": "8908000097636",
+  "barcode_format": "EAN-13",
+  "name": "Muesli",
+  "brand": "gaia",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat Flakes (48.58%), Rolled Oats (16,77%), Corn Flakes (8.60%), Dried Fruits 6.0% [Apple (1.5%) Pineapple (1.5%), Papaya (1.5%), Apricot (1.5%)], Almonds (4.0%), Invert Sugar Syrup, Raisins (3.0%), Strawberry Syrup (2.0%), Strawberry Crush (2.0%), Pineapple Crush (2.0%), Mango Crush (2.0%), Apple Juice Concentrate, Liquid Glucose, Antioxidant (INS 310).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000097636",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262152143",
+  "barcode_printed": "8901262152143",
+  "barcode_format": "EAN-13",
+  "name": "Double Chocolate Milk Shake",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "180 ml",
+        "quantity": {
+          "value": 180,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 207,
+        "protein_g": 5.6,
+        "carbohydrate_g": 27.4,
+        "sugars_g": 26.3,
+        "fat_g": 9,
+        "saturated_fat_g": 5,
+        "sodium_mg": 66.6
+      }
+    }
+  ],
+  "ingredients_raw": "Double toned milk, sugar, dark chocolate (7.5%), milk chocolate (1.9%), cocoa solids, stabilizer (407), artificial flavouring substances (cocos, vanilla),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262152143",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

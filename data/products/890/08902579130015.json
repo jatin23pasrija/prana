@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579130015",
+  "barcode_printed": "8902579130015",
+  "barcode_format": "EAN-13",
+  "name": "Appy Juice Packet",
+  "brand": "parle-agro",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 packet (200 ml)",
+        "quantity": {
+          "value": 200,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 126.91,
+        "protein_g": 0,
+        "carbohydrate_g": 31.8,
+        "sugars_g": 31.7,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 38
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579130015",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

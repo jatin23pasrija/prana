@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "00769807188099",
+  "barcode_printed": "0769807188099",
+  "barcode_format": "EAN-13",
+  "name": "Jumbo rolled Oats",
+  "brand": "wingreens-harvest",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 407.5,
+        "protein_g": 13.5,
+        "carbohydrate_g": 67.3,
+        "fat_g": 9.3,
+        "saturated_fat_g": 1.5,
+        "fibre_g": 15.5,
+        "sodium_mg": 3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0769807188099",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

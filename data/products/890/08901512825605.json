@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512825605",
+  "barcode_printed": "8901512825605",
+  "barcode_format": "EAN-13",
+  "name": "Snacko Cheese & Herbs Flavour Bakes Twisties",
+  "brand": "snacko",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 502,
+        "protein_g": 6,
+        "carbohydrate_g": 67,
+        "sugars_g": 2.8,
+        "fat_g": 23,
+        "saturated_fat_g": 10,
+        "fibre_g": 2,
+        "sodium_mg": 500
+      }
+    }
+  ],
+  "ingredients_raw": "Corn Meal (52.8%) Refined Edible Palmolein Oil (TBHQ), Rice Meal (13.2%), Milk Solids (Whey Powder (1.8%), Cheese Powder (1.2%), Cream Powder (0.6%)}, Maltodextrin, Iodized Salt, Sugar, Dehydrated Vegetable (Onion Powder), Stabilizer (Hydrolyzed Vegetable Protein), Acidity Regulators (Laim Citric Acid), Natural Flavour Nature Identical Flavours & Cream Onion), Parsley Flakes & Anticaking Agent",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512825605",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

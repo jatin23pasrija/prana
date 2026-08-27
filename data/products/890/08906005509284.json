@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005509284",
+  "barcode_printed": "8906005509284",
+  "barcode_format": "EAN-13",
+  "name": "Lite Chiwda",
+  "brand": "bikaji",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 519,
+        "energy_kj": 2172,
+        "protein_g": 6,
+        "carbohydrate_g": 60,
+        "sugars_g": 3,
+        "fat_g": 28,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 0,
+        "fibre_g": 6,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Flakes (37%), Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Roasted Gram (25%), Corn Flakes (6%), Ground Spices & Condiments (lodised Salt, Red Chilli, Dried Mango Black Salt, Ginger, Clove, Nutmeg, Black Pepper, Long Pepper, Cardamom, Asafoetida, Cumin, Mace, Cinnamon, Coriander, Mint, Fenugreek, Fennel Seeds, Turmeric (Colouring & Spices), Dehydrated Vegetable Powder (Onion, Garlic), Bishop's Seed, Mustard Seeds), Dried Curry Leaves (0.5%) CONTAINS: MUSTARD ALLERGEN ADVICE: This product is made in a facility that processes food containing peanut, treenut, soy, milk, cereals containing gluten, sesame, mustard and sulphites.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005509284",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

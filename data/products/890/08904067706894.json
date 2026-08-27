@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904067706894",
+  "barcode_printed": "8904067706894",
+  "barcode_format": "EAN-13",
+  "name": "green peas onion garlic",
+  "brand": "heritage-namkeen-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "GREEN PEAS Onion & Garlic INGREDIENTS: Green Pease(65%), Refined Palmolein Oil, Salt, Sugar, Spices &Condiments [(Onion 0.5%), Garlic (0.7%), Parsleyl, Acidity Regulator (Citric Acid), Anti Caking agent (Sicon Dioxide), Flavour Ennancer (Disodium Guanylate), Natural color (Curcumin INS 100), Synthetic Color (Brüilant Blue INS 133). ALLERGY INFORMATION: May Contain Soyabean. Nutrition Information Servings per package: 1 Serving Size 2/5 cup (30g) % Dally Average Qty per intake (per aty pee Serving 130 kcal 530 kJ Avarage Serving) 100 g 7% 510 kcal 2130 AJ Energy 26 60 00 000 470 80 20 Protein Total fa - saturated lat tran fet - cholestarol Carbohydrate - Total sugars added sugan/ 0 mg HAcibution int Store in Cool & Dry Place",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904067706894",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

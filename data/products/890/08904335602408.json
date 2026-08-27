@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335602408",
+  "barcode_printed": "8904335602408",
+  "barcode_format": "EAN-13",
+  "name": "Coffe Rush 10g Protein Bar",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Date Paste (39%), Soy Crisps, Date Syrup, Dark Chocolate Paste (Sugar, Edible Vegetable Fat, Cocoa Solids, Soy Lecithin & Natural Flavours), Texturized Soy Protein Flakes, Almond (Butter, Dices), Cashew Paste, Milk Protein Concentrate, Peanut Protein, Skim Milk Powder, Peanut Butter, Coffee Powder (2%), Cocoa Powder, Cranberry, Whey Protein Concentrate, Oats Flour, Glycerine, Natural Flavours (Coffee, Rosemary Extract), Himalayan Pink Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335602408",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

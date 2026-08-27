@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906099282469",
+  "barcode_printed": "8906099282469",
+  "barcode_format": "EAN-13",
+  "name": "Nail N Mane Hair & Nails",
+  "brand": "ayuttva",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Vitamin C (as Ascorbic acid), Vitamin D (as Cholecalciferol), Vitamin E (as d-alpha tocopheryl acetate), Biotin, Zinc (as Zinc gluconate), Eclipta alba (Whole Plant) Extract, Emblica officinalis (Fruit) Extract, Phyllanthus niruri (Whole Plant) Extract, Linum usitatissimum (Seed) Extract, Ocimum sanctum (Leaf) Extract, Glycyrrhiza glabra (Stem) Extract, Withania somnifera (Root) Extract, HPMC vegetable capsule shell",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906099282469",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

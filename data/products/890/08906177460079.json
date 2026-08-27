@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08906177460079",
+  "barcode_printed": "8906177460079",
+  "barcode_format": "EAN-13",
+  "name": "Shivabala coconut oil",
+  "brand": "shivabala",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 899.19,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "fat_g": 99.91,
+        "saturated_fat_g": 91.85,
+        "sodium_mg": 5.08
+      }
+    }
+  ],
+  "ingredients_raw": "Coconut Oil",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906177460079",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

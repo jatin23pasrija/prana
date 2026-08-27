@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080602726",
+  "barcode_printed": "8906080602726",
+  "barcode_format": "EAN-13",
+  "name": "Paper Boat Swing yummy Guava 600ml pet",
+  "brand": "paper-boat",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 55.6,
+        "protein_g": 0,
+        "carbohydrate_g": 13.9,
+        "sugars_g": 13.5,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 105
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, GUAVA PUREE (14%), SUGAR ACIDITY REGULATORS (330, 331 (iii)), IODISED SALT, FLAVOURS (NATURE-IDENTICAL AND NATURAL FLAVOURING SUBSTANCES), STABILIZERS (418,466) PRESERVATIVES (202, 242), ANTIOXIDANT (300), FOOD COLOUR (160a(iii)) AND VITAMIN D2 (ERGOCALCIFEROL)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080602726",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

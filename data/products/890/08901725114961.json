@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725114961",
+  "barcode_printed": "8901725114961",
+  "barcode_format": "EAN-13",
+  "name": "Marie Light",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 445,
+        "protein_g": 9.1,
+        "carbohydrate_g": 77.4,
+        "sugars_g": 21.3,
+        "fat_g": 11,
+        "saturated_fat_g": 5.6,
+        "trans_fat_g": 0.07,
+        "sodium_mg": 292.4
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (68.2%), Sugar, Refined Palm Oil, Invert Syrup, Raising Agents [INS 500 (ii), INS 503(ii), INS 450(i)], Milk Solids, lodized Salt, Flour treatment agent (INS 223), Nature identical flavouring substances, Artificial flavouring substances (Milk, Vanilla), Emulsifier [Diacetyl tartaric and fatty acid esters of glycerol (from sunflower and palm oil)], Mineral (0.01%), Colour (INS 150d) and Vitamins (0.01%). CONTAINS WHEAT, MILK, SULPHITE. MAY CONTAINS NUT, SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725114961",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

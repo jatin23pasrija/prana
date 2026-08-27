@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08906036673602",
+  "barcode_printed": "8906036673602",
+  "barcode_format": "EAN-13",
+  "name": "Nandini GoodLife Toned Milk",
+  "brand": "nandini",
+  "category": "milk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 ml",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 59,
+        "protein_g": 3.3,
+        "carbohydrate_g": 4.8,
+        "sugars_g": 4.8,
+        "fat_g": 3,
+        "saturated_fat_g": 1.9,
+        "fibre_g": 0,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids, Vitamin A& Vitamin D Milk Fat : 3.0% (Min) & SNF 8.5% (Min.)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906036673602",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

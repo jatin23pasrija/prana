@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901888005748",
+  "barcode_printed": "8901888005748",
+  "barcode_format": "EAN-13",
+  "name": "Real Masala Mixed Fruit Juice",
+  "brand": "real",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Sugar, Concentrated Mixed Fruit Juice (4%) [From Orange, Apple, Guava, Apricot, Mango, Banana, Passion Fruit, Lime, Lemon, Mango Pulp (3.3%), Acidity Regulator (INS 330), lodized Salt, Black Salt, Stabilizers (INS 440, INS 466, INS 418), Antioxidant (INS 300), Spices And Condiments (0.1%) [Chilli Powder, Cumin, Coriander, Black Pepper and Turmeric], Colours [INS 160 a (ii) & (iii)] and Flavours (Natural & Nature Identical Flavouring Substances). THIS CONTAINS 23.3% MIXED FRUIT JUICE CONTENT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901888005748",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030857973",
+  "barcode_printed": "8901030857973",
+  "barcode_format": "EAN-13",
+  "name": "Kissan peanut butter",
+  "brand": "kissan",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 188,
+        "protein_g": 7.7,
+        "carbohydrate_g": 6.2,
+        "sugars_g": 3.2,
+        "fat_g": 14.8,
+        "saturated_fat_g": 2.8,
+        "fibre_g": 2.6,
+        "sodium_mg": 80.7
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Peanuts 90% , sugar , edible vegetable oil , salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030857973",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

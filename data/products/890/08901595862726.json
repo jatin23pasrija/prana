@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595862726",
+  "barcode_printed": "8901595862726",
+  "barcode_format": "EAN-13",
+  "name": "Dark Soy Sauce",
+  "brand": "ching-s-secret",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 210,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "water, sugar, lodised salt, natural colour (ins 150c), soybeans (10%), wheat, acidity regulator (ins 260), preservative (ins 202),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595862726",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

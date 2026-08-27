@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906111441232",
+  "barcode_printed": "8906111441232",
+  "barcode_format": "EAN-13",
+  "name": "Majestic Red Bean Curry",
+  "brand": "raasa",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 pouch (140 g)",
+        "quantity": {
+          "value": 140,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 250,
+        "protein_g": 11,
+        "carbohydrate_g": 31,
+        "sugars_g": 9,
+        "fat_g": 9,
+        "saturated_fat_g": 1,
+        "fibre_g": 13,
+        "sodium_mg": 860
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906111441232",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

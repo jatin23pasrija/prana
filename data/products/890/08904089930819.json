@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08904089930819",
+  "barcode_printed": "8904089930819",
+  "barcode_format": "EAN-13",
+  "name": "Sweet Lassi By Heritage",
+  "brand": "heritage",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 95,
+        "protein_g": 2,
+        "carbohydrate_g": 17.6,
+        "sugars_g": 14.5,
+        "fat_g": 1.9,
+        "saturated_fat_g": 1.2,
+        "trans_fat_g": 0.08,
+        "sodium_mg": 45
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904089930819",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

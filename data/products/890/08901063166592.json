@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063166592",
+  "barcode_printed": "8901063166592",
+  "barcode_format": "EAN-13",
+  "name": "Biscafe",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 516.13,
+        "protein_g": 6.45,
+        "carbohydrate_g": 74.19,
+        "sugars_g": 22.58,
+        "fat_g": 19.35,
+        "saturated_fat_g": 9.68,
+        "fibre_g": 0,
+        "sodium_mg": 467.74
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063166592",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

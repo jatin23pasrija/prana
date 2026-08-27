@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904209302762",
+  "barcode_printed": "8904209302762",
+  "barcode_format": "EAN-13",
+  "name": "Chicken manchurian masala",
+  "brand": "aachi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 26.67,
+        "protein_g": 6.6,
+        "carbohydrate_g": 58.93,
+        "sugars_g": 11.67,
+        "fat_g": 1.8,
+        "saturated_fat_g": 0.4,
+        "fibre_g": 6.8,
+        "sodium_mg": 5835.47
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904209302762",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

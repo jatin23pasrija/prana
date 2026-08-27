@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906108302768",
+  "barcode_printed": "8906108302768",
+  "barcode_format": "EAN-13",
+  "name": "Desicated Coconut",
+  "brand": "popular-essentials",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30 g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 198,
+        "protein_g": 2.1,
+        "carbohydrate_g": 7.2,
+        "sugars_g": 2.1,
+        "fat_g": 19.2,
+        "saturated_fat_g": 16.8,
+        "fibre_g": 4.8,
+        "sodium_mg": 11.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906108302768",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

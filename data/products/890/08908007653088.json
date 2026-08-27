@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908007653088",
+  "barcode_printed": "8908007653088",
+  "barcode_format": "EAN-13",
+  "name": "Rachana Curd Chillies",
+  "brand": "rachana",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 224.6,
+        "protein_g": 0.2,
+        "carbohydrate_g": 55.5,
+        "fat_g": 0.8
+      }
+    }
+  ],
+  "ingredients_raw": "Curd, Green Chillies & Edible Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908007653088",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

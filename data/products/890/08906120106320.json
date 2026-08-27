@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906120106320",
+  "barcode_printed": "8906120106320",
+  "barcode_format": "EAN-13",
+  "name": "Trail Mix",
+  "brand": "farmley",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Blackcurrants (20%), Cranberry Slices (20%), Cashew Nuts (15%), Almonds (15%), Sunflower Seeds (12.5%), Pumpkin Seeds (12.5%), Blueberries (5%), Olive Oil, Himalayan Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906120106320",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

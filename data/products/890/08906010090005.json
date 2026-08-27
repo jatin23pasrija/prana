@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010090005",
+  "barcode_printed": "8906010090005",
+  "barcode_format": "EAN-13",
+  "name": "D'lecta Cheese Cubes",
+  "brand": "d-lecta",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 322,
+        "protein_g": 19,
+        "carbohydrate_g": 3,
+        "sugars_g": 3,
+        "fat_g": 26,
+        "saturated_fat_g": 16.4,
+        "trans_fat_g": 0.92,
+        "sodium_mg": 1227
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010090005",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

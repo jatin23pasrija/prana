@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08904052566069",
+  "barcode_printed": "8904052566069",
+  "barcode_format": "EAN-13",
+  "name": "Vanilla ice cream",
+  "brand": "dinshaw",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 198.1
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Milk Solids, Sugar, Liquid Glucose, Emulsifiers (471, 433), Stabilizers (412, 410, 466, 407). CONTAINS ADDED FLAVOUR (NATURE IDENTICAL ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA). Numbers given in bracket indicate Numbers as per International Numbering System (INS) Allergen Contanins: Milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904052566069",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

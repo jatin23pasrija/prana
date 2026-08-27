@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901689010125",
+  "barcode_printed": "8901689010125",
+  "barcode_format": "EAN-13",
+  "name": "Mala's straberry jam",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Strawberry Pulp (25%), Water, Thickener (INS 440), Acidity Regulators (INS 296, INS 330, INS 331(i)). CONTAINS PERMITTED NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES (STRAWBERRY). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 122). CONTAINS PERMITTED CLASS II PRESERVATIVE (INS 202, INS 211) For Manufacturing Details check first letter of Batch No. & Refer below for UCTS PVT. LTD.,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901689010125",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

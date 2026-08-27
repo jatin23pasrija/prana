@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009079288",
+  "barcode_printed": "8906009079288",
+  "barcode_format": "EAN-13",
+  "name": "Kesar Cashew Badam Cookies",
+  "brand": "unibic",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 487,
+        "protein_g": 5.5,
+        "carbohydrate_g": 66,
+        "sugars_g": 26,
+        "fat_g": 22.3,
+        "saturated_fat_g": 10,
+        "sodium_mg": 195
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Milk Solids, Dry Nuts (1%) (Almond and Cashew), Golden Syrup, Leavening Agents (INS 503(ii), INS 500(ii)), Emulsifiers (INS 322(Soy), INS 472E), iodised Salt, Artificial Flavouring(Saffron, Cashew, Almond ,Milk), Contains _Wheat_, _Milk_, _Soy_,_Nut_.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009079288",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

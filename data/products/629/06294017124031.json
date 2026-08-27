@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "06294017124031",
+  "barcode_printed": "6294017124031",
+  "barcode_format": "EAN-13",
+  "name": "KitKat Chunky Caramel",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 42,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 489,
+        "protein_g": 5.3,
+        "carbohydrate_g": 62.5,
+        "sugars_g": 54.6,
+        "fat_g": 24.2,
+        "saturated_fat_g": 15.5,
+        "trans_fat_g": 0.07,
+        "sodium_mg": 93.7
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Caramel filling (20.1%) (Glucose fructose syrup, Milk solids, Glucose syrup, Fractionated vegetable fat, Sugar and Salt), Milk solids, Cocoa solids (8.4%), Refined wheat flour (Maida), Cocoa butter (3.9%), Palm kernel oil, Shea butter, Palm oil, Emulsifier (322(i)) and Raising agent (500(ii)). Contains Wheat and Milk. May contains Soy and Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6294017124031",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

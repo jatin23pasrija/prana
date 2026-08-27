@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081920157",
+  "barcode_printed": "8906081920157",
+  "barcode_format": "EAN-13",
+  "name": "Calcium Magnesium Zinc D3 K",
+  "brand": "carbamide-forte",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Calcium, Magnesium, Alfalfa leaf powder, Moringa stem powder, Zinc, Folic acid, Vitamin K2, Vitamin D3, Vitamin B12, Diluent (INS 460 (i) & INS 341 (ii)]. Binder (Maize starch). Glazing Agent [INS 464). Anticaking Agent (INS 553 (iii)). Thickening Agent [INS 466). Glidant INS 470 (iii)], Permitted Food Colour (INS 171] & Potassium Sorbate [INS 202].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081920157",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

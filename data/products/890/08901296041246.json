@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08901296041246",
+  "barcode_printed": "8901296041246",
+  "barcode_format": "EAN-13",
+  "name": "Revital H",
+  "brand": "revital",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1.3 g, 1.3g or 1.3 G",
+        "quantity": {
+          "value": 1.3,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 0,
+        "energy_kj": 0,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "VEHICLE (PEANUT OIL), MINERALS, GELATIN FOOD GRADE, BULKING AGENT [460(0)]. HUMECTANT (422), VITAMINS, GINSENG ROOT EXTRACT, EMULSIFIER (322) LUBRICANT (HYDROGENATED VEGETABLE OIL), THICKNER (BEESWAX WHITE), PRESERVATIVE (211), COLOURS (110, 124, 135) AND ANTIOXIDANT (320). RECOMMENDED USAGE LEVEL: FOR ADULT MEN, ONE CAPSULE DAILY AFTER MEAL. NOT TO EXCEED THE RECOMMENDED DAILY USAGE. NOT FOR MEDICINAL USE. DECLARATION % RDA PER SERVE PER SERVE 1500 IU 45 Img 43.5 THE RECOMMENDED DALY USAGE NOT FOR 14mg 43.8 INSTRUCTIONS OF USE: 10 mg 43.5 ONE CAPSULE TO BE TAKEN WITH ONE GLASS OF DRINKING WATER/MILK/JUICE. IN CASE OF ACCIDENTAL OVERDOSE, CONSULT A PHYSICIAN. SYMPTOMS OF OVERDOSE MAY INCLUDE GASTRIC UPSET, HEADACHE AND INCREASED HEART RATE. 0.8 mg 25.8 TM TRADEMARK ssaí fs ic No. 10015022004549 Natural ginseng, Vitamin B1, B2, B6, B12 Vitamin C and 0.8 mcg 36.4 PRODUCT IS REQUIRED TO BE STORED OUT OF REACH OF CHILDREN.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901296041246",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

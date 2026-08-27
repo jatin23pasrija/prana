@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069401739",
+  "barcode_printed": "8906069401739",
+  "barcode_format": "EAN-13",
+  "name": "Chef’s Special Veg Mayonnaise Eggless",
+  "brand": "veeba",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 277.6,
+        "protein_g": 0,
+        "carbohydrate_g": 13.6,
+        "sugars_g": 8.4,
+        "fat_g": 24.8,
+        "saturated_fat_g": 3.98,
+        "trans_fat_g": 0,
+        "sodium_mg": 840
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Refined Soyabean Oil, Synthetic Vinegar [Water, tic Acid (INS260)], Sugar, Emulsifiers and Stabilizers (INS1442, INS1450, 415), lodised Salt, Spices and Condiments, Acidity Regulator (INS330), servatives (INS211, INS202), Nature-Identical Flavouring Substances tioxidant (INS319) and Sequestrant (INS385). UTRITIONAL INFORMATION (Approx. Values) 8 Servings per pack, erving size: 1 Tbsp. (Approx. 15 g) Per 100 g % RDA Per Serve* 2.08% utrients ergy (kcal) 277.60 tein (g) 0.00 rbohydrate (g) 13.60 Total Sugars (g) 8.40 Added Sugars (g) 8.40 2.52% tal Fat (g) 24.80 5.55% Trans Fat (g) 0.00 Saturated Fat (g) 3.98 2.71% odium (mg) 840.00 0.00% 6.30% VRB Manufactured & Marketed by: VRB Consumer Products Private Limited Plot SP3-7, RIICO Industrial Area, Keshwana, Tehsil-Kotputli, Jaipur, Rajasthan-303108 (INDIA). For feedback, contact our consumer care executive at the above address; email: hello@veeba.in; call: 0124-465 Connect with us www.veeba.in 1 Store in a cool&dry place. Refrigerate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069401739",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

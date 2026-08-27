@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595963461",
+  "barcode_printed": "8901595963461",
+  "barcode_format": "EAN-13",
+  "name": "Manchow Instant Noodles",
+  "brand": "capital-foods",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 255,
+        "protein_g": 7.4,
+        "carbohydrate_g": 33.2,
+        "sugars_g": 0.3,
+        "fat_g": 10.3,
+        "saturated_fat_g": 5.1,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 957.07
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles: Wheat Flour, Refined Palm Oil, Salt, Potassium Chloride (Gelling Agent, E508), Wheat Gluten, Sodium Polyphosphate (Emulsifying Agent, E452(i)), Potassium Carbonate (Acidity Regulator, E501(i)), Sodium Hydrogen Carbonate (Raising Agent, E500(ii)), Tertiary Butylhydroquinone (Antioxidant, E319) Seasoning Mix: Garlic Powder, iodised Salt, Mixed Spices 12.6% (chilli, ginger, black pepper), Corn Starch, Hydrolysed Soy Protein, Sugar, Onion Powder, Disodium 5' - Guanylate, Disodium 5' Inosinate (Flavour Enhancers, E627, E631), Edible Palm Oil, Soy Sauce Powder, Caramel (Natural Colour E150d), Citric Acid (Acidity Regulator, E330), CONTAINS PERMITTED NATURAL COLOUR (CARAMEL, E150d) AND ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595963461",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080013265",
+  "barcode_printed": "8902080013265",
+  "barcode_format": "EAN-13",
+  "name": "Tropicana Guava Juice (25)",
+  "brand": "tropicana",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 57,
+        "energy_kj": 239,
+        "protein_g": 0,
+        "carbohydrate_g": 14.4,
+        "sugars_g": 13.5,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 3
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, *GUAVA PULP (22%), SUGAR ACIDITY REGULATOR(330), FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES), ANTIOXIDANT(300), COLOUR (160a(i)) *22% GUAVA PULP IN BEVERAGE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080013265",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

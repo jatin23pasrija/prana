@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033741595",
+  "barcode_printed": "8906033741595",
+  "barcode_format": "EAN-13",
+  "name": "Wholewheat Marie",
+  "brand": "mcvities",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 7.8,
+        "carbohydrate_g": 75,
+        "sugars_g": 21,
+        "fat_g": 12.5,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (46.8%), Whole Wheat Flour (Atta)(17.7%), Sugar, Edible Vegetable Oil (Palm Oil), Invert Sugar Syrup, Calcium Carbonate (1%), Malt Extract, Raising Agents [INS 503 (ii), INS 500 (1)]. Emulsifiers (INS 471, INS 322), Milk Solids, Edible Common Salt, Dough Conditioner (INS 223),Vitamins And Minerals Premix (0.02%), Flour Treatment Agents [Papain {INS I101 (i}, Protease {(INS 1101(1)}] ti",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033741595",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

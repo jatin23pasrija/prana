@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906048501450",
+  "barcode_printed": "8906048501450",
+  "barcode_format": "EAN-13",
+  "name": "Protinex creamy vanilla",
+  "brand": "protinex",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Skimmed milk powder, Maltodextrin, Soy protein isolate, Minerals (Di calcium phosphate, Ferric pyrophosphate, Zinc sulphate, Potassium iodide), Nature identical flavouring substances, Stabilizer (Guar gum), Vitamins (Choline bitartrate, Ascorbic acid, dl-alpha tocopheryl acetate, Nicotinamide, Retinyl acetate, Ergocalciferol, Thiamine hydrochloride, Calcium pantothenate, Riboflavin, Pyridoxine hydrochloride, Folic acid, d-Biotin), Sweetener (INS 955).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906048501450",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

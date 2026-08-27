@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063325104",
+  "barcode_printed": "8901063325104",
+  "barcode_format": "EAN-13",
+  "name": "Toastea Suji Rusk",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 435.48,
+        "protein_g": 6.45,
+        "carbohydrate_g": 80.65,
+        "sugars_g": 26.45,
+        "fat_g": 9.68,
+        "saturated_fat_g": 6.45,
+        "sodium_mg": 290.32
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR (65%), SUGAR, VEGETABLE (CONTAINS ONE OR MORE OF PALM OIL OR SESAME OIL), SEMOL (7%), YEAST, SKIM MILK POWDER (0.7%), SALT, GLUTEN(WHE CARDAMOM (0.1%) AND FUNGAL ALPHA AMYLASE (ENZYME). CONTAINS: WHEAT, MILK PRODUCTS & SESAME 3 INGRÉDIENTS: FARINE DE BLÉ (65%), SUCRE, GRAISSE VÉGÉTAL (CONTIENT UNE OU PLUSIEURS PARMIS HUILE DE PALME OU HUILE D SÉSAME), SEMOULE (7%), LEVURE, LAIT ÉCRÉMÉ EN POUDRE (0.7%) SEL, GLUTEN (BLE), CARDAMOM (0.1%) ET ALPHA-AMYLASE FONGIQUE (ENZYME) CONTIENT: BLÉ, PRODUITS LAITIERS ET SÉSAME MANUFACTURED FOR / FABRIQUÉ POUR: BRITANNIA INDUSTRIES LTD., 5/1A HUNGERFORD STREET, KOLKATA 700 017, INDIA. FOR ANY QUERIES, PLEASE CONTACT US - STORE IN COOL AND DRY PLACE/ A CONSERVER À L'ABRI DE LA CHALEUR ET DE L'HUMIDITÉ feedback@britindia.com/ POUR TOUS VOS QUESTIONS CONTACTEZ NOUS - feedback@britindia.com BRITANNIA INDUSTRIES LTD. FOR EXPORT/POUR EXPORT PRODUCT OF INDIA / PRODUIT DE L'INDE F SUITABLE E FOR VEGE NC OME & The Ult er with the You can now e, texture lice of ight level of ance of whea cup of tea ar yet allowin ittle wonde your steam MILK BRITA Toa MILK BISCOTT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063325104",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

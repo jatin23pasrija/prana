@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908023890009",
+  "barcode_printed": "8908023890009",
+  "barcode_format": "EAN-13",
+  "name": "Whitty Cheese Masti Khakra",
+  "brand": "whitty",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 435,
+        "protein_g": 8,
+        "carbohydrate_g": 59,
+        "sugars_g": 1.5,
+        "fat_g": 21.7,
+        "saturated_fat_g": 17.2,
+        "fibre_g": 0,
+        "sodium_mg": 982
+      }
+    }
+  ],
+  "ingredients_raw": "Whole wheat flour, Palmolein Oil, cheese seasoning (Cheese powder, milk solids, mixed spices, sugar) (5%), Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908023890009",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

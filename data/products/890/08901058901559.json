@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058901559",
+  "barcode_printed": "8901058901559",
+  "barcode_format": "EAN-13",
+  "name": "Maggi 2-Minute Noodles",
+  "brand": "nestle",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles: Refined wheat flour (Maida), Palm oil, lodised salt, Wheat gluten, Thickeners (508 & 412), Acidity regulators (501(i) & 500 (i)) and Humectant (451(i)). Masala *Tastemaker: Mixed spices (25.6%) (Onion powder, Coriander powder, Turmeric powder, Red chilli powder, Garlic powder, Cumin powder, Aniseed powder, Ginger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder & Nutmeg powder), Refined wheat flour (Maida), Hydrolysed groundnut protein, Sugar, Palm oil, lodised salt, Starch, Thickener (508), Flavour enhancer (635), Toasted onion flakes, Acidity regulator (330), Mineral, Colour (150d) and Wheat gluten. Contain Wheat and Nut May contains Milk, Mustard, Oats and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058901559",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08995077603433",
+  "barcode_printed": "8995077603433",
+  "barcode_format": "EAN-13",
+  "name": "Pilus TicTac cassava",
+  "brand": "dua-kelinci",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Tepung Tapioka, Minyak Sawit [mengandung Antioksidan TBHQ (E319) Koro, Jagung, Bumbu Campuran [mengandung Penguat Rasa (Mononatrium Glutamat (E621), Dinatrium Guanilat (E627), Cinatrium inosinat (E631)), Antioksidan Tokoferol (E307), Pemanis Buatan Asesulfam-K (E950), Pemanis Alami Glikosida Steviol (E960), Antikempal Silikon Dioksida (E551), Pengatur Keasaman (Asam Sitrat (E330), Natrium Sitrat (E331)), Pewarna Alami (Karamel III (E150c), Karamel IV (E150d), Paprika Oleoresin, Karmin Cl. No. 75470, Kurkumin Cl. No. 75300), Protein Kedelai Terhidrolisis, Udang Bubuk, Ikan Bubuk), Gula, Tepung Terigu, Garam, Rempah-Rempah [Bawang Putih, Wijen, Seledri, Kayu Manis], Pati Jagung, Pati Termodifikasi, Penstabil Gom Arab (E414), Pengembang [Natrium Bikarbonat (E500()), Penstabil (Asam Natrium Pirofosfat (E450()), Kalsium Karbonat (E170(i)))], Susu Bubuk, Pemanis Buatan Aspartam (E951), Maltodekstrin, Cabai Bubuk. Mengandung alergen, lihat daftar bahan yang dicetak tebal. Diproduksi dengan peralatan yang juga memproses produk yang mengandung telur, kacang, dan mustar. Mengandung Fenilalanin, tidak cocok untuk penderita Fenilketonurik. Mengandung pemanis buatan, disarankan tidak dikonsumsi oleh anak di bawah 5 (lima) tahun, ibu hamil, dan ibu menyusui.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8995077603433",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

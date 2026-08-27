@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009994055",
+  "barcode_printed": "8906009994055",
+  "barcode_format": "EAN-13",
+  "name": "Elite Dreams Choco Brownie Cake",
+  "brand": "elite",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SUGAR, CHOCOLATE PASTE 21% (SUGAR, COCOA SOLIDS, COCOA BUTTER, EDIBLE VEGETABLE OIL (PALM ORL MUS SOLIDS, EMULSIFIER (INS 3221 & NATURE IDENTICAL FLAVOURING SUBSTANCE, REFINED WHEAT FLOUR (MAIDA, EDIBLE VEGETABLE C RICE BRAN OIL), LIQUID EGG, LIQUID GLUCOSE, EDIBLE VEGETABLE PAT INTERESTERIFIED EDIBLE OILS (PALM OIL & PALM KERNEL OIL WATER EMULSIFIERS (INS 471, INS 435 & INS 322), PRESERVATIVE (INS 20 ANTIOXIDANTS (INS 320 & INS 330), SESAME OIL & VITAMIN AI, BUTTER MILK SOLIDS, COCOA SOLIDS-1.6%, HUMECTANT (INS 422), NATUR NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES (N PRESERVATIVES (INS 282 & INS 2021, 1ODIZED SALT, LEAVENING AGE INS 5000, ACIDITY REGULATOR INS 260). FLOUR TREATMENT AGENT 11000] AND THICKENER (INS 415).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009994055",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

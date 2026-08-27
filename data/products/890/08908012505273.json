@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908012505273",
+  "barcode_printed": "8908012505273",
+  "barcode_format": "EAN-13",
+  "name": "Dark Chocolate",
+  "brand": "nidz",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 sg (15 g)",
+        "quantity": {
+          "value": 15,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 83.62,
+        "protein_g": 1.17,
+        "carbohydrate_g": 7.23,
+        "sugars_g": 4.2,
+        "fat_g": 4.67,
+        "saturated_fat_g": 2.21
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908012505273",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

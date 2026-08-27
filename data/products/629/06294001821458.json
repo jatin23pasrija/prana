@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "06294001821458",
+  "barcode_printed": "6294001821458",
+  "barcode_format": "EAN-13",
+  "name": "Bounty minis",
+  "brand": "mars-nederland",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 427.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 140,
+        "sugars_g": 14.1,
+        "fat_g": 7.4,
+        "saturated_fat_g": 5.9,
+        "sodium_mg": 28
+      }
+    }
+  ],
+  "ingredients_raw": "sugar.desiccated coconut . glucose.syrup.cicoa butter.cocoa mass.skimmed milk powder.emulsifier(soya lecithin .E471).lactose.milk fat.whey powder.humectant(Glycerol).salt.natural vanilla extract .milk chocolate contains milk solids 14%minimum",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6294001821458",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

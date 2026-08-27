@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131940128",
+  "barcode_printed": "8906131940128",
+  "barcode_format": "EAN-13",
+  "name": "Wild Date",
+  "brand": "wild-date",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "40g",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 195,
+        "protein_g": 5.6,
+        "carbohydrate_g": 12.4,
+        "sugars_g": 8,
+        "fat_g": 12.3,
+        "saturated_fat_g": 2,
+        "fibre_g": 6,
+        "sodium_mg": 3.2
+      }
+    }
+  ],
+  "ingredients_raw": "Nuts 42%(Almonds 18%, Cashew Nuts 15%, Peanut 9%), Wild - honey, Cranberries 11%, Pumpkin Seeds, Sunflower Seeds, Coconut Flakes, Cinnamon Powder, Salt CONTAINS ADDED NATURAL FLAVOUR (Vanilla Extract)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131940128",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

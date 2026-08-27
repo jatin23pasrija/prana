@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764092305",
+  "barcode_printed": "8901764092305",
+  "barcode_format": "EAN-13",
+  "name": "Maaza Origina",
+  "brand": "hindustan-coca-cola-beverages-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, MANGO PULP (19.5%), SUGAR, ACIDITY REGULATOR (330), ANTIOXIDANT(300) AND PRESERVATIVE (202) CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (110) AND ADDED MANGO FLAVOURS (NATURAL, NATURE-IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764092305",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

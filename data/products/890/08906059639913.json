@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059639913",
+  "barcode_printed": "8906059639913",
+  "barcode_format": "EAN-13",
+  "name": "Strawberry Milk Shake",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 71.67,
+        "protein_g": 3.33,
+        "carbohydrate_g": 13.89,
+        "sugars_g": 13.89,
+        "fat_g": 0.44,
+        "saturated_fat_g": 0,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059639913",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

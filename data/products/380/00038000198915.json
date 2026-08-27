@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00038000198915",
+  "barcode_printed": "0038000198915",
+  "barcode_format": "EAN-13",
+  "name": "Froot loops marshmallows",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 297.6699928125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "sugar, corn flour blend (whole grain yellow corn flour, degerminated yellow corn flour), wheat flour, whole grain oat flour, modified food starch, contains 2% or less of corn syrup, modified corn starch, dextrose, vegetable oil (hydrogenated coconut, soybean and/or cottonseed), oat fiber, maltodextrin, salt, natural and artificial flavor, soluble corn fiber, gelatin, yellow 5, red 40, yellow 6, blue 1, bht for freshness. vitamins and minerals: vitamin c (ascorbic acid), reduced iron, niacinamide, vitamin b6 (pyridoxine hydrochloride), vitamin b2 (riboflavin), vitamin b1 (thiamin hydrochloride), folic acid, vitamin d3, vitamin b12. contains wheat ingredients.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0038000198915",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

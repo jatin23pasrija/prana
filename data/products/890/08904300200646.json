@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08904300200646",
+  "barcode_printed": "8904300200646",
+  "barcode_format": "EAN-13",
+  "name": "Mario Masala instant noodles",
+  "brand": "msfh",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 454,
+        "protein_g": 12.8,
+        "carbohydrate_g": 62,
+        "sugars_g": 2,
+        "fat_g": 19,
+        "saturated_fat_g": 10,
+        "sodium_mg": 1400
+      }
+    }
+  ],
+  "ingredients_raw": "From the highest quality our, oil and spices under gienic condition EXP. CAD. to 560 g (19.7 oz) 2025 2027 PRODUCT OF EN IT INGREDIENTS: NOODLE: REFINED WHEAT FLOUR, EDIBLE VEGETABLE OIL (REFINED PALM OIL), IODIZED SALT, WHEAT GLUTEN, GELLING AGENT POTASSIUM CENTENUTO E CHLORIDE (508), EMULSIFYING AGENT SODIUM TRIPOLYPHOSPHATE (451 (i)), ACIDITY REGULATOR-POTASSIUM CARBONATE (501(i)), ANTI-CAKING AGENT-CALCIUM CARBONATE (170(i)), RAISING AGENT-SODIUM DICARBONATE (500(ii)) & STABILIZER-GUAR GUM (412). SEASONING: SUGAR, IODIZED SALT, MIXED SPICES ((16.3%) OF INGREDIENTI: FAR WHICH CORIANDER, ANISEED, TURMERIC (INS-100(ii)), CUMIN, CHILI, BLACK PEPPER, CLOVE, GREEN CARDAMOM AND NUTMEG), ONION POWDER, HYDROLYZED POLIFOSFATO SOD GROUNDNUT PROTEIN, NOODLE POWDER (REFINED WHEAT FLOUR, EDIBLE VEGETABLE OIL (REFINED PALM OIL), IODIZED SALT, WHEAT GLUTEN, GELLING AGENT - BICARBONATO DI S POTASSIUM CHLORIDE (508), EMULSIFYING AGENT - SODIUM TRIPOLYPHOSPHATE (451(i)), ACIDITY REGULATOR - POTASSIUM CARBONATE (501(i)), ANTI - CAKING CIPOLLA, ARACHID AGENT-CALCIUM CARBONATE (170(i)), RAISING AGENT-SODIUM BICARBONATE (500(ii))) & STABILIZER-GUAR GUM (412), GARLIC POWDER, EDIBLE STARCH, FLAVOUR CINO, PEPE NERO, M ENHANCER (DISODIUM GUANYLATE (627) & DISODIUM INOSINATE (631)), GINGER POWDER, ANTI CAKING AGENT (SILICON DIOXIDE (551)), ACIDITY REGULATOR (CITRIC CONSERVARE IN LU ACID (330)), EDIBLE VEGETABLE OIL (REFINED SUNFLOWER OIL), RAISING AGENT-SODIUM BICARBONATE (500(ii)), AND MINERAL (FERRIC PYROPHOSPHATE). CONTAINS ADDED NATURE IDENTICAL FLAVOURING SUBSTANCES (MASALA) AND NATURAL COLOR (TURMERIC (INS-100(ii))) IMPORTATO DA: RC ALLERGY ADVICE:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904300200646",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

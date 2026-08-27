@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00784927149447",
+  "barcode_printed": "0784927149447",
+  "barcode_format": "EAN-13",
+  "name": "toasted millet muesli dark chocolate and orange peel",
+  "brand": "monsoon-harvest",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rolled Oats 47.55%, Dark Chocolate 30.89% (Cocoa Powder, Cocoa Nibs, Cocoa Butter, Butter, Sugar, Milk Powder, Soya Lecithin, Vanilla). Millets 9.6% (Sorghum (Jowar) Flakes, Finger Millet (Ragi) Flakes), Almonds 7.5%, Orange Peel 3.55%, Flax Seeds, Orange Oil 0.24%, Natural Mixed Tocopherols (E307b) Allergen Information: Contains milk, nuts and seeds",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0784927149447",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906116957882",
+  "barcode_printed": "8906116957882",
+  "barcode_format": "EAN-13",
+  "name": "PRE Workout 200 Xtreme",
+  "brand": "muscleblaze",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "L-Citrulline DL-Malate (2:1), Beta Alanine, Orange Fruit Powder, Caffeine, L-Theanine, Nature Identical Flavouring Substance, Sweetener (INS 955), Anticaking Agent INS 5521, Acidity Regulator (INS 330) & Food Colour (INS 124]. CONTAIN NON-CALORIC SWEETENER This contains Sucralose CONTAINS CAFFEINE Not recommended for children, pregnant and lactating Women & people sensitive to caffeine. Images used are for illustration purpose only",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906116957882",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

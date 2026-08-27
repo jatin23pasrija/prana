@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207001635",
+  "barcode_printed": "8901207001635",
+  "barcode_format": "EAN-13",
+  "name": "Chyawanprakash Sugar free",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Amalaki (Emblica officinalis, Fr., Fr.Pulp) 86.0g and Ext. derived from the following Asana (Pterocarpus marsupium, Ht. Wd.) 3.52g, Bilva (Aegle marmelos, St. Bk.), Shyonaka (Oroxylum indicum, St. Bk.), Gambhari (Gmelina arborea, St. Bk.), Patala (Stereospermum suaveolens, St. Bk.), Agnimantha (Clerodendrum phlomidis, St. Bk.), Shalaparni (Desmodium gangeticum, Pl.), Prishniparni (Uraria picta,Pl.), Brihati (Solanum indicum,Pl.), Kantakari (Solanum surattense, Pl.), Gokshura (Tribulus terrestris, Fr.), Mudgaparni (Phaseolus trilobus, Pl.), Mashaparni (Teramnus labialis, Pl.), Karkatashringi (Pistacia integerrima, Gl.), Tamalaki (Phyllanthus niruri, Pl.), Pushkara (Inula racemosa, Rt.), Haritaki (Terminalia chebula, P.), Guduchi (Tinospora cordifolia, St.), Karchura (Curcuma zedoaria, Rz.), Musta (Cyperus rotundus, Rz.), Punarnava (Boerhavia verticillata, Pl.), Utpala (Nymphaea stellata, Fl.), Vasa (Adhatoda vasica, Rt.), Yashti (Glycyrrhiza glabra, Rt.), Kakanasika (Maritima annua, Fr.), Draksha (Vitis vinifera, Fr.) each 0.38g, Bala (Sida cordifolia, Pl.) 0.684g, Jivanti (Leptadenia reticulata, Rt.) 0.076g, Ashwagandha (Withania somnifera, Rt.), Shatavari (Asparagus recemosus, Rt.), Varahi (Dioscorea bulbifera, Rt. Tr.) each 0.76g, Vidari (Pueraria tuberosa, Rt. Tr.) 1.14g, Goghrita 1.00g, Tila Tail (Sesamum indicum, Oil) 1.00g and Powder of the following - Vamsha (Bambusa bambos, 5.C.) 1.34g, Pippali (Piper longum, Fr.) 184g, Ivak (Cinnamomum zeylanicum, St. Bk.) 0.194g, Sukshmaila (Elettaria cardamomum, Fr.) 1.008g, Ivakpatra (Cinnamomum tamala, L.) 0.2059 Nagakesara (Mesua ferrea, Stma.) 0.190g Lavanga (Syzygium aromaticum, FLBd.) 0212 Tah (Glycyrrhiza glabra, Rt.) Excipients-gx 1.0, Sorbitol and Sucralose, Sodium Benzoate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207001635",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

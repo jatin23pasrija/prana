@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003439044",
+  "barcode_printed": "8908003439044",
+  "barcode_format": "EAN-13",
+  "name": "Kuthu vilakku",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 12,
+        "carbohydrate_g": 75,
+        "fat_g": 1.9
+      }
+    }
+  ],
+  "ingredients_raw": "carbohydrates,protein,fat,energy,dietary fibre",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003439044",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

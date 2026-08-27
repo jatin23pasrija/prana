@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906127551338",
+  "barcode_printed": "8906127551338",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Protein Dark Chocolate",
+  "brand": "alpino",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Peanut Protein Isolate, Cocoa Powder, Medium Chain Triglycerides (Extracted from Coconut), Monk Fruit Extract, Natural Chocolate Flavour, Sunflower Lecithin, Xanthan Gum (Naturally Extracted)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906127551338",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

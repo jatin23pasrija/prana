@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "00748927060041",
+  "barcode_printed": "0748927060041",
+  "barcode_format": "EAN-13",
+  "name": "Gold Standard 100% Whey Extreme Milk Chocolate Flavour",
+  "brand": "optimum-nutrition",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 907,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 397,
+        "protein_g": 75,
+        "carbohydrate_g": 13,
+        "sugars_g": 3,
+        "fat_g": 5,
+        "saturated_fat_g": 3,
+        "sodium_mg": 156
+      }
+    }
+  ],
+  "ingredients_raw": "Protein Blend (90%) (Whey Protein Isolate, Whey Protein Concentrate, Hydrolysed Whey Protein) (Emulsifier: INS 3221), Cocoa Powder (Processed With Alkali), Artificial Flavours (Vanilla, Chocolate), Creamer (Edible Vegetable Oil (Sunflower Oil), Maltodextrin, Sodium Caseinate, Mono And Diglycerides, Tocopherols, Tricalcium Phosphate), Sodium Chloride, Sweeteners (INS 950, INS 955). ALLERGENS: Contains MILK and SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0748927060041",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

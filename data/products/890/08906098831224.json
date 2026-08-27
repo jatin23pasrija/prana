@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906098831224",
+  "barcode_printed": "8906098831224",
+  "barcode_format": "EAN-13",
+  "name": "bajra chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 350.54,
+        "protein_g": 11,
+        "carbohydrate_g": 69.33,
+        "sugars_g": 9.33,
+        "fat_g": 14.33,
+        "saturated_fat_g": 11,
+        "fibre_g": 20.67,
+        "sodium_mg": 1265
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906098831224",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

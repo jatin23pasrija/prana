@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161391594",
+  "barcode_printed": "8906161391594",
+  "barcode_format": "EAN-13",
+  "name": "Navratan Tadka Mixture",
+  "brand": "let-s-try",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Gram Pulse Flour, Edible Vegetable Oil (Refined Groundnut Oil), Chana Dal (14%), Masoor Dal (14%), Peanuts (11.5%), Flaked Rice, Green Peas (4%), Starch, Rice Powder, &quot;Spice and Condiments (Dried Mango Powder, Black Salt, Cumin Powder, Corriander Powder, Carom Seeds, Black Pepper, Mint Powder, Ginger Powder, Nutmeg Powder, Red Chilli Powder, Clove Powder and Asafoetida), Iodised Salt and Acidity Regulator (INS 330). * Used as Natural Flavouring Agent.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161391594",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

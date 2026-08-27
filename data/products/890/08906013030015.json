@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906013030015",
+  "barcode_printed": "8906013030015",
+  "barcode_format": "EAN-13",
+  "name": "WAI WAI",
+  "brand": "cg-foods",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Nood'es (68.7g): WHAT Flour (70.9%), Edible Vegetable Oil [Palm Oil (17.3%) Salt (2%), WHEAT gluten, Acidity Regulator (E500ii, E451i, E170i,), Thinckner (E412), Flavor Enhancers (E621, E627, E631), SOY Sauce (Contains Colour (E150d)], Onion, Black Pepper, Chicken Noodle Flavoring (Artificial) (Contains Flavor Enhancers (E627, E631), Anti Caking Agent (E341iii), Thickener (E414), Acidity Regulator (E330), Antioxidant (E307) Seasoning Powder (3g): Salt (1.2%), Garlic, Maltodextrin (E1400), White Pepper, Flavor Enhancers (E621, E627, E631), Leek, Suga Onion, Black Pepper. Onion Flavored Oil (g): Edible Vegetable Oil [Palm Olein (34%), and Onion. Chilli Powder (0.3g). May contan traces of MILK products and MUSTARD products",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906013030015",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

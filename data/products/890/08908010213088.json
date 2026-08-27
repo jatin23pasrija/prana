@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010213088",
+  "barcode_printed": "8908010213088",
+  "barcode_format": "EAN-13",
+  "name": "Nacho chips",
+  "brand": "1",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Corn (68%), edible vegetable oil (corn oil), sugar, corn starch, spices , condiments (onion, chili, jalapeno, parsley, garlic), iodised salt, herbs (0.8%), black salt, acidity regulator (INS 262 (ii), INS 330, INS 296), flavouring, anti-caking agent (INS 551)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010213088",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

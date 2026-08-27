@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491002349",
+  "barcode_printed": "8901491002349",
+  "barcode_format": "EAN-13",
+  "name": "Sizzlin hot nacho",
+  "brand": "10rs",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 520,
+        "protein_g": 7.4,
+        "carbohydrate_g": 60.4,
+        "sugars_g": 4.9,
+        "fat_g": 27.7,
+        "saturated_fat_g": 11.2,
+        "sodium_mg": 643
+      }
+    }
+  ],
+  "ingredients_raw": "Corn (77%), Edible Vegetable Oil (Palmolein Oil), Seasoning (Maltodextrin, &quot;Spices & Condiments, Sugar, lodized Salt, Milk Solids, Acidity Regulator (330), Cheese, Dehydrated Beetroot, Yeast Extract, Nature Identical Flavouring Substances, Anticaking Agent (551), Flavour Enhancers (627,631)), Color (124).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491002349",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

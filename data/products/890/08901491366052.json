@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491366052",
+  "barcode_printed": "8901491366052",
+  "barcode_format": "EAN-13",
+  "name": "Puffcorn",
+  "brand": "kurkure",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 58,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cereal Products (67%) (Corn Meal (53%). Rice Meal), Edible Vegetable Oil (Palmolein), ++Seasoning (Sugar, lodised Salt, Maltodextrin, &quot;Spices and Condiments, Milk Solids, Cheese, Salt Substitute (Potassium Chloride), Flavour (Natural and Nature Identical Flavouring Substances), Flavour Enhancers (627, 631), Acidity Regulators (296, 330), Emulsifying & Stabilising Agent (331 (iii), 471, 327), Gram Meal, Firming Agent (170(i)), lodised Salt. **As flavouring agent. ~Contains Onion and Garlic ALLERGEN ADVICE: Contains Soy, Milk, Wheat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491366052",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

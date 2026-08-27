@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "00655257651613",
+  "barcode_printed": "0655257651613",
+  "barcode_format": "EAN-13",
+  "name": "Multi Millet Noodles",
+  "brand": "little-moppet-foods",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 360,
+        "protein_g": 11.1,
+        "carbohydrate_g": 76.7,
+        "sugars_g": 10,
+        "fat_g": 1,
+        "saturated_fat_g": 0,
+        "fibre_g": 4.4,
+        "sodium_mg": 20
+      }
+    }
+  ],
+  "ingredients_raw": "Cereals 99.99% Whole Wheat Flour, Multi Millet Flour (Finger Millet/Ragi, Pearl Millet, Little Millet, Kodo Millet Barnyard Millet), Groundnut Oil and Salt. Tastemaker Masala Chili powder, Salt, Turmeric powder, Pepper, Ginger and Spices.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0655257651613",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

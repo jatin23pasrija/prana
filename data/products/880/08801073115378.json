@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08801073115378",
+  "barcode_printed": "8801073115378",
+  "barcode_format": "EAN-13",
+  "name": "Buldak HOT Chicken Flavor Rosé Ramen",
+  "brand": "samyang",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NOODLE(71.8%) {WHEAT FLOUR, MODIFIED TAPIOCA STARCH, REFINED PALM OIL, WHEAT GLUTEN, SALT, EMULSIFIER[SOY LECITHIN(E322 (i)], ACIDITY REGULATOR (POTASSIUM CARBONATE (E501(i)), SODIUM CARBONATE(E500(i)), SODIUM PHOSPHATE DIBASIC(E339 (ii))], THICKENER[GUAR GUM(E412)], TOCOPHEROLS(E306), GREEN TEA FLAVOR OIL, RIBOFLAVIN(E101), CITRIC ACID(E330)}. SAUCE(18.6%) {WATER, WHITE SUGAR, ARTIFICIAL CHICKEN FLAVOR POWDER(SOY, WHEAT, CELERY), CHEESE SAUCE(MILK, GARLIC, SOY, WHEAT), WHOLE MILK, ARTIFICIAL CHICKEN FLAVOR(SOY, WHEAT), SOYBEAN OIL, RED PEPPER POWDER(SOY), CHILI PEPPER POWDER(SOY), YEAST POWDER, ONION, THICKENER [MODIFIED POTATO STARCH(E1420)], GARLIC, SALT, DECOLORIZED CHILI EXTRACT, COLOUR[PAPRIKA EXTRACT(E160c)], PEPPER POWDER(SOY), CURRY POWDER(CELERY)}. POWDER(9.6%) {WHOLE MILK POWDER(SOY), MILK POWDER, YEAST EXTRACT POWDER(SOY), GARLIC POWDER(SESAME SEEDS), PARSLEY CURLY}. CONTAINS: WHEAT, GLUTEN, SOY, MILK, CELERY, SESAME SEEDS. MANUFACTURED IN A FACILITY THAT ALSO PROCESSES CELERIES, CEREALS CONTAINING GLUTEN, CRUSTACEANS, EGGS, FISH, MILK, MOLLUSCS, MUSTARD, NUTS, PEANUTS, SESAME SEEDS AND SOY PRODUCTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8801073115378",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

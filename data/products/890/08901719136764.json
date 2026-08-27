@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719136764",
+  "barcode_printed": "8901719136764",
+  "barcode_format": "EAN-13",
+  "name": "Hide&Seek Vanilla",
+  "brand": "parle-platina",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "White Créme (40%) [Sugar, Maze Starch, Refined Oils (Palmolein, Palm Oil), Emulsifier of Vegitable Origin (Soy Lecithin), Nature Identical Flavouring Substances], Refined Wheat Flour (Maida), Sugar, Refined Palm Oil, Cocoa Solids (4.5%), Inverted Sugar Syrup, Liquid Glucose, Iodised Salt, Raising Agents [500 (iii), 503 (ii), 341(i)] , and Emulsifier of Vegetable Origin 472e. CONTAINS ADDED FLAVOURS: (Artificial Flavouring Substances - Chocolate and Vanilla) CONTAINS: WHEAT, SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719136764",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

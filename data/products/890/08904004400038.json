@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004400038",
+  "barcode_printed": "8904004400038",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram Bhujia Sev",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "INGREDIEMTS Tepary Beas Flour (Moth), Reined Cotton Seed O, Cick Peas Flour lodised Salt Red Chii, Cloe Powder/ Bick Pepper Dried Ginger Powder Cerdamom Powcer, ay Leves, Nutmeg & Cinnamon. M-y Contain Peanut, Tree Nuts, Sesame Seed, MIk, Sea Mustard Seed & Wneat iNGRĖDENTS haicots Feine (Moth), Huile De Graines De (oon Rainée, Farine Deois Chiches, Sel locié, Pime.t Roge Poudre clou de G ofle, Poivre Noir, Gingembre Sene en Poucre Cardamome Poudre, Fauilles De Laurici, MuscadEt annelle eut Contenir Des Arachides, Des No Graines De Sesameu Lait, Soja, Gratne De Mou arde Et Iu Ble Keen Aw From Direct Sunligh Garder a l'ombre Mant ctur &Packed By /Fabrication EtEmballage m DIIT ITN.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004400038",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

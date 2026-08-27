@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030671975",
+  "barcode_printed": "8901030671975",
+  "barcode_format": "EAN-13",
+  "name": "Knorr sweet corn veg soup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Soup Powder. Ingredients: Sugar, Potato Starch, Dehydrated Vegetables (Corn (7.5%), Carrot Flakes (5%), Leeks (0.5%)), Maltodextrin, Edible Common Salt, Hydrolysed Protein (Hydrolysed vegetable protein, Maltodextrin, Salt), Thickener - 415, Edible Vegetable Fat, Spices and Condiments, Flavour Enhancer-627",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030671975",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

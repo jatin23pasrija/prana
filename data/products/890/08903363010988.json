@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363010988",
+  "barcode_printed": "8903363010988",
+  "barcode_format": "EAN-13",
+  "name": "Udid Dal",
+  "brand": "dmart-premia",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 337.3,
+        "protein_g": 23.82,
+        "carbohydrate_g": 57.49,
+        "sugars_g": 0.84,
+        "fat_g": 1.35,
+        "saturated_fat_g": 0.28,
+        "trans_fat_g": 0,
+        "sodium_mg": 18.88
+      }
+    }
+  ],
+  "ingredients_raw": "Black Gram Split",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363010988",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

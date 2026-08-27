@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "00890234900678",
+  "barcode_printed": "0890234900678",
+  "barcode_format": "EAN-13",
+  "name": "Bombom creme de avela",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 488.89,
+        "protein_g": 8.89,
+        "carbohydrate_g": 43.7,
+        "fat_g": 37.04,
+        "saturated_fat_g": 17.78,
+        "fibre_g": 6.67,
+        "sodium_mg": 1037.04
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0890234900678",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

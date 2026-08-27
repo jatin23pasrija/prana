@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906125982059",
+  "barcode_printed": "8906125982059",
+  "barcode_format": "EAN-13",
+  "name": "Protein Chips",
+  "brand": "gourmet-snacks",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 393.5,
+        "protein_g": 4.6,
+        "carbohydrate_g": 88.5,
+        "sugars_g": 46.1,
+        "fat_g": 3.7,
+        "saturated_fat_g": 1.7,
+        "fibre_g": 4.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906125982059",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

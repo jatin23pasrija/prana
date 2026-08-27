@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552000833",
+  "barcode_printed": "8901552000833",
+  "barcode_format": "EAN-13",
+  "name": "Ashoka Brinjal Pickle 575G",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sucre, Aubergine 39%, Vinaigre de canne à sucre, Graines De _Moutarde_, Sel, Piment En Poudre, Huile De Tournesol, Coriandre, Fenugrec, Poudre de cumin, Poudre de curcuma, Ase fétide. Acide: acide citrique",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552000833",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

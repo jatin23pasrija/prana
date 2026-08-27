@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552013390",
+  "barcode_printed": "8901552013390",
+  "barcode_format": "EAN-13",
+  "name": "Mabooj",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 78.8,
+        "protein_g": 2.3,
+        "carbohydrate_g": 8.1,
+        "sugars_g": 0,
+        "fat_g": 3.8,
+        "saturated_fat_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552013390",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

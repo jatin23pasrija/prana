@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491981552",
+  "barcode_printed": "8901491981552",
+  "barcode_format": "EAN-13",
+  "name": "Lay’s Chile Limon 20rs",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 55,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (30 g)",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 160,
+        "protein_g": 2,
+        "carbohydrate_g": 16,
+        "sugars_g": 1,
+        "fat_g": 10,
+        "saturated_fat_g": 4.4,
+        "fibre_g": 0,
+        "sodium_mg": 290
+      }
+    }
+  ],
+  "ingredients_raw": "ca, mirl lay's is the registereu cor feedback or queries, write to the consumer services manager, pepsico india holdings pvt, ltd,, p,o, box 27, dlf qutab enclave, phase-1, gurugram-122002, haryana, india, or call us at 1800 22 4020 cr email us at consumer,feedback@pepsico,com proprietary food - potato chips (15,1) as compared to previous lay's chile limón our packs, limited period offer, valid in ct geographies, gredients: potato, edible vegetable oil molein oil), *seasoning (sugar, lodised salt, favour (natural and nature identical flavouring substances), ~spices , condiments, maltodextrin, lime juice powder, anticaking agent (551), edible vegetable oil (sunflower seed oil), flavour enhancers (627, 631), corn syrup solids), *as flavouring agent, contains onion and garlic",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491981552",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

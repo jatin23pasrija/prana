@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "04901059046345",
+  "barcode_printed": "4901059046345",
+  "barcode_format": "EAN-13",
+  "name": "Kitkat Butterscotch Flavour",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 27.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 446,
+        "protein_g": 7.2,
+        "carbohydrate_g": 46.2,
+        "sugars_g": 35.6,
+        "fat_g": 25.8,
+        "saturated_fat_g": 25.5,
+        "sodium_mg": 46.44
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Milk solids, Hydrogenated vegetable fats, Fractioned vegetable fat, Refined Wheat flour (Maida), Cocoa solids (2.4%), Emulsifier (Soya lecithin), Nature identical (Butterscotch) flavouring substances, Raising agent (500(ii)), Yeast, lodized salt, Flour treatment agent (516), Artificial (Vanilla) flavouring substance and Colour (160a(i)). Contains Wheat, Milk, Seasame and Soy. May Contains Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4901059046345",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

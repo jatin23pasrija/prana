@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777001660",
+  "barcode_printed": "8901777001660",
+  "barcode_format": "EAN-13",
+  "name": "Green Peas",
+  "brand": "vadilal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.4 Cup (104 g)",
+        "quantity": {
+          "value": 104,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 100,
+        "energy_kj": 418,
+        "protein_g": 7,
+        "carbohydrate_g": 17,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 9,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777001660",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

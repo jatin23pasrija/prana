@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906067021199",
+  "barcode_printed": "8906067021199",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein - rich milk chocolate flavour",
+  "brand": "muscleblaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "35 g",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "protein_g": 25,
+        "carbohydrate_g": 4.34,
+        "fat_g": 2.21,
+        "saturated_fat_g": 1.44
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Blend (Whey Protein Concentrate, Whey Powder & Whey Protein Isolate), Cocoa Powder, Nature Identical Flavouring Substances, Sodium Chloride, Emulsifier (INS 322 (i)), Stabilizer (INS 415), Amylase, Protease, Lactase, Lipase & Cellulase, Sweetener [INS 955) & Anti-Caking Agent (INS 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906067021199",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

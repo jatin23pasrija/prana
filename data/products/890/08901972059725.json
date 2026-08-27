@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901972059725",
+  "barcode_printed": "8901972059725",
+  "barcode_format": "EAN-13",
+  "name": "Saltine Salted Tops Crackers",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "wheat flour, vegetable palm oil leavening agent - ammonium bicarbonate, salt, yeast dough conditioner-sodium metabisulphite, leavening agent-sodium bicarbonate, artificial flavor-butter creamerand enzymes-amylases, proteases. allergen information: contains wheat and sulphites manufactured in a facility that processes milk, soy peanuts and tree nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901972059725",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

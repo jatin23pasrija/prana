@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08907525020181",
+  "barcode_printed": "8907525020181",
+  "barcode_format": "EAN-13",
+  "name": "ফ্যান্টা অরেঞ্জ ফ্লেভার্ড",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 52,
+        "protein_g": 0,
+        "carbohydrate_g": 13,
+        "fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "কার্বনেটেড ওয়াটার, সুগার অ্যাসিডুলেন্টস স্টেবিলাইজার্স ক্লাউডিং এজেন্ট প্রিজারভেটিভ কালারস আর্টিফিশিয়াল ফ্লেভারস্",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907525020181",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

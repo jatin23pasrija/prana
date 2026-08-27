@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906125982073",
+  "barcode_printed": "8906125982073",
+  "barcode_format": "EAN-13",
+  "name": "Corn Chips",
+  "brand": "4700bc",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 441.4,
+        "protein_g": 7.6,
+        "carbohydrate_g": 72.6,
+        "sugars_g": 2.5,
+        "fat_g": 13.4,
+        "saturated_fat_g": 3.5,
+        "fibre_g": 7.1,
+        "sodium_mg": 575
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906125982073",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

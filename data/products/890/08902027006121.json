@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08902027006121",
+  "barcode_printed": "8902027006121",
+  "barcode_format": "EAN-13",
+  "name": "Real Bake White Sliced Bread",
+  "brand": "kitty",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 246.99,
+        "protein_g": 7.65,
+        "carbohydrate_g": 51.87,
+        "sugars_g": 4.62,
+        "fat_g": 0.99,
+        "saturated_fat_g": 0.25,
+        "fibre_g": 2.15,
+        "sodium_mg": 460.89
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (64.4%), Yeast, Sugar, lodized Salt, Soya Flour, Preservatives (282,200), Edible Vegetable Fat (Hydrogenated Vegetable Oil), Gluten, Emulsifiers (481(i), 472e), Acidity Regulators (270,297), Antioxidant (300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902027006121",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

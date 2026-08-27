@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906023411903",
+  "barcode_printed": "8906023411903",
+  "barcode_format": "EAN-13",
+  "name": "Mawa Malai",
+  "brand": "cream-bell",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potable Water, Sugar, Milk Solids, Edible Vegetable Oil (Refined Palm Oil), Maltodextrin, Starch, Emulsifying Agents (INS 471) & Stabilizing Agents (INS 407,412,466), Food Colours (INS 150d, 102) and Flavour {Nature-Identical and Artificial Flavouring Substances (Mawa Malai, Condensed Milk)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906023411903",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

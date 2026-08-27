@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08901972060110",
+  "barcode_printed": "8901972060110",
+  "barcode_format": "EAN-13",
+  "name": "Dukes Bourbon Chocolate Biscuit",
+  "brand": "dukes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 473.9,
+        "protein_g": 5.6,
+        "carbohydrate_g": 74.6,
+        "sugars_g": 39,
+        "fat_g": 17,
+        "saturated_fat_g": 7.4,
+        "sodium_mg": 119
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901972060110",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

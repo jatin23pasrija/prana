@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "09900272541793",
+  "barcode_printed": "9900272541793",
+  "barcode_format": "EAN-13",
+  "name": "bix cake sandwich",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Middle Layer-Ice Cream (56.2 %): Water, Milk Solid (Cream, Butter, Skimmed Milk Powder). Sugar, Milk Chocolate Shred (6%)(Sugar Milk Solids, Cacoa Butter, Cocoa Solids, Emulsifiers (INS 322, INS 476) CONTAINS ADDED NATURE IDENTICAL (VANILLIN) FLAVOURING SUBSTANCES), Cocoa Solids, Emulsifier (INS 471, INS 433) and Stabilisers (INS 466, INS 412, INS 407a, INS 415, INS 410) CONTAINS PERMITTED ARTIFICIAL COLOUR (INS 155) AND ARTIFICIAL VANILLA FLAVOURING SUBSTANCES Outer Layer - Cake Sponge (43.8 %): Sugar, Maida, Milk Solids, Edible Vegetable Canola oil, Cocoa Powder (4%), Starch, Emulsifiers (INS 471, INS 75, INS 433, INS 4777 Colours (INS 150a), Raising agent (INS 500 (ii), INS 450 (i)), lodised Salt, Wheat Gluten, Contains Artificial Vanilla & Chocolate flavouring Substa ces FOOD ALLERGEN: Contains Milk, Wheat and Soy. May Contain Nut and Sulphite.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9900272541793",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

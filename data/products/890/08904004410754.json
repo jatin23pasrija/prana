@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004410754",
+  "barcode_printed": "8904004410754",
+  "barcode_format": "EAN-13",
+  "name": "Dry Fruit Besan Ladoo",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (33 g)",
+        "quantity": {
+          "value": 33,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 183.56,
+        "protein_g": 2.69,
+        "carbohydrate_g": 18.52,
+        "sugars_g": 10.06,
+        "fat_g": 10.95,
+        "saturated_fat_g": 4.71,
+        "sodium_mg": 5.64
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004410754",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

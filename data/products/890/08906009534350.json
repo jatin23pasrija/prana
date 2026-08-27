@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009534350",
+  "barcode_printed": "8906009534350",
+  "barcode_format": "EAN-13",
+  "name": "Max Protein Peanut Butter",
+  "brand": "ritebite",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 tablespoon (32 g)",
+        "quantity": {
+          "value": 32,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 183,
+        "protein_g": 9,
+        "carbohydrate_g": 9,
+        "sugars_g": 3,
+        "fat_g": 12,
+        "saturated_fat_g": 3,
+        "fibre_g": 1,
+        "sodium_mg": 29
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009534350",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

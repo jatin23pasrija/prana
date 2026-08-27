@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010503581",
+  "barcode_printed": "8906010503581",
+  "barcode_format": "EAN-13",
+  "name": "GIPPI masala noodles",
+  "brand": "balaji",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 420,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NOODLES: REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), EDIBLE COMMON SALT, WHEAT GLUTEN, THICKENER (INS 412), ACIDITY REGULATOR (INS 500 (1)), EMULSIFIER (INS 451), MINERAL (CALCIUM CARBONATE). 2 - YUMY MASALA: MIXED SPICES (24%): (CORIANDER (11%), ONION (4%), CHILLI (3%), TURMERIC (1%), CUMIN (1%), GARLIC (1%), BLACK PEPPER (0.9%), ANISEED (0.9%), GINGER (0.5%), NUTMEG (0.3%), CINNAMON (0.2%), CLOVE (0.2%), CARDAMOM (0.1%), FENUGREEK (0.1%), MACE (0,1)), HYDROLYZED VEGETABLE PROTEIN (PEANUT), EDIBLE COMMON SALT, REFINED WHEAT FLOUR CIMAIDA), EDIBLE STARCH, SUGAR, EDIBLE VEGETABLE OIL(SUNFLOWER), ACIDITY REGULATOR (INS 330, INS 500(11)), FLAVOUR ENHANCER (INS 635), NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES (MASALA, ONION) NOODLES AND YUMMY MASALA: PRECOOKED PASTA & NOODLES & LIKE PRODUCTS. ALLERGEN ADVICE: CONTAINS WHEAT FLOUR, WHEAT GLUTEN, SOY AND PEANUT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010503581",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014757502",
+  "barcode_printed": "8908014757502",
+  "barcode_format": "EAN-13",
+  "name": "sambhar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Tuvar Dal (Pigeon Peas 30%), Chana Dal (Bengal Gram Urad Dal, Dry Fenugreek Seed, Coconut (5%), Asafoetida, Resham Pa Jaggery, Spice Mix (Cumin, Bay Leaf, Coriander Whole, Mustard Seed Tomato, Drumsticks, Turmeric Powder, Salt, Pumpkin, Onion, Curry Leaves, Tamarind, Cotton Seed Oil, Water Allergen Advice: Packed in a plant that processes dairy, wheat flour, tree nuts and milk products",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014757502",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

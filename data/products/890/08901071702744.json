@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071702744",
+  "barcode_printed": "8901071702744",
+  "barcode_format": "EAN-13",
+  "name": "Hershey's Hot Chocolate",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 240,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Cocoa Solids (29.6%), Vitamins & Minerals [Vitamin C (Ascorbic acid), Iron (Ferric Pyrophosphate), Zinc (Zinc sulphate), Vitamin E (Acetate), Vitamin B6 (Pyridoxine), Vitamin B1 (Thiamine Chloride hydrochloride), Vitamin B2 (Riboflavin), Vitamin A (Acetate), Vitamin B9 (Folic Acid), Vitamin D2 (Ergocalcif - erol), Vitamin B12 (Cyanocobalamin)] & Flavour (Artificial Flavouring Substance - Vanilla) Mid Du Mokoon Phormocouticals (1) But Itd (Food division)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071702744",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

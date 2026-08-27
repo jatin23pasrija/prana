@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000589599",
+  "barcode_printed": "8908000589599",
+  "barcode_format": "EAN-13",
+  "name": "ONION RINGS",
+  "brand": "snak-up",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Palmolein Oil, Edible Vegetable Oil, Corn Flour, Edible Starch, Onion Powder, Coriander Powder, Garlic Powder, Chilli Powder, Cheese Powder, Iodised Salt, Dextrin, Ribotide (INS 631, INS 627), Sugar, Black Salt, Acidity Regulator (INS 330), Raising Agent (INS 500 (ii)), Anti-caking Agent (INS 551). CONTAINS ADDED FLAVOURS COLOURS AND NATURE IDENTICAL FLAVOURING SUBSTANCES THE PRODUCT CONTAINS WHEAT FLOUR &quot;A PROPRIETARY FOOD&quot;_SNACKS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000589599",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904198802045",
+  "barcode_printed": "8904198802045",
+  "barcode_format": "EAN-13",
+  "name": "Moong Dal",
+  "brand": "euro",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 37,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 460,
+        "protein_g": 19.5,
+        "carbohydrate_g": 50.1,
+        "sugars_g": 0,
+        "fat_g": 20.2,
+        "saturated_fat_g": 9.7,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Green Gram Lentils, Refined Palmolein Oil, lodised Salt Allergy Advice May contain: Peanuts, Tree Nuts, Spa, Wheat & Sesame Seeds. Strina Cool & Dry Place. ep Away From Direct Sunlight & Heat. Member SK Sud Asse the Food KEEP OUR CITY USA MRP R CLEAN & GREEN OTHER QUALI GUARANTEED Rs.15.00",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904198802045",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

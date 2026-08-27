@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725113544",
+  "barcode_printed": "8901725113544",
+  "barcode_format": "EAN-13",
+  "name": "Glouse",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 437,
+        "protein_g": 7.1,
+        "carbohydrate_g": 78.8,
+        "sugars_g": 28.5,
+        "fat_g": 10.4,
+        "saturated_fat_g": 0.01,
+        "sodium_mg": 575.1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725113544",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08901786062003",
+  "barcode_printed": "8901786062003",
+  "barcode_format": "EAN-13",
+  "name": "Chaat Masala",
+  "brand": "everest",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "5 g",
+        "quantity": {
+          "value": 5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 16.9,
+        "protein_g": 0.25,
+        "carbohydrate_g": 3.59,
+        "sugars_g": 0.31,
+        "fat_g": 0.17,
+        "saturated_fat_g": 0.02,
+        "fibre_g": 0,
+        "sodium_mg": 1000
+      }
+    }
+  ],
+  "ingredients_raw": "Rock Salt, Black Salt, Dried Mango, Cumin, Pomegranate seed, Black Pepper Dried Ginger, Chilli, Mint Leaf, Nutmeg, Bishop's Weed, Citric acid and Compounded Asafoetida",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901786062003",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08904022907908",
+  "barcode_printed": "8904022907908",
+  "barcode_format": "EAN-13",
+  "name": "Black-Jack Cookies",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 98,
+        "protein_g": 1.1,
+        "carbohydrate_g": 15,
+        "sugars_g": 6.4,
+        "fat_g": 3.7,
+        "saturated_fat_g": 1.7,
+        "fibre_g": 0.2,
+        "sodium_mg": 63
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904022907908",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

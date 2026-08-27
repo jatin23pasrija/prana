@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719122835",
+  "barcode_printed": "8901719122835",
+  "barcode_format": "EAN-13",
+  "name": "Grand Londonderry Candy",
+  "brand": "parle",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SUGAR, LIQUID GLSCOSE, SWEETENED CONDENSED MILK (16.5%), MLA IODISED SALT, MALT EXTRACT AND EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES-MICK)SWEETENED CONDENSED MILK (16.5%), MILK FAT, MALTEZACT AND EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN). ONED FOVOUR (ARTIFICIAL FLAVOURING SUBSTANCES - MILK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719122835",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071704847",
+  "barcode_printed": "8901071704847",
+  "barcode_format": "EAN-13",
+  "name": "Exotic Dark Turkish Hazelnuts",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 549,
+        "protein_g": 6,
+        "carbohydrate_g": 57,
+        "sugars_g": 44.8,
+        "fat_g": 33,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 40
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071704847",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

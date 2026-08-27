@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906023415215",
+  "barcode_printed": "8906023415215",
+  "barcode_format": "EAN-13",
+  "name": "ice cream cream bell",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potable Water, Milk Solids, Sugar, Maltodextrin, Emulsifying Agents (INS 433, 471) & Stabilizing Agents (INS 401, 407, 412) and Flavour {Nature-Identical and Artificial Flavouring Substances (Vanilla)} Contains Milk Number of per pack-7 | Per Serve: 100 ml (55 g) Nutritional Information (Approx. value) Energy (kcal) Per Serve 100 ml (55 g) Per (%) RDA Serve 118.1 5.9 Carbohydrate (g) 13.5 Total Sugars (g) 12.5 (Added Sugars) (g) 9.1 Fat (g) 6.0 9:0 Saturated Fat (g) 3.8 171 Trans Fat (g) 0.0 Protein (g) Sodium (mg) Cholesterol (mg) 15.3 2.4 36.9 bowance plated on diet per day Line in Ne KEEP FROZEN. STORE AT-18°C OR BELOW Website: www.creambell.com Follow us on MRP Rs. (nd of Unit Sale Price DATE OF MANUFACTURE: USE BY: HRP. Rs.1-29.99 99.00 (Rs. MED.05 JULY-25 USE BY 04 JULY-26 BATCH NO.:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906023415215",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

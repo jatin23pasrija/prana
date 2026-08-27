@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08852117380146",
+  "barcode_printed": "8852117380146",
+  "barcode_format": "EAN-13",
+  "name": "Milk Candy Coffee Flavour",
+  "brand": "my-chewy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 360,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "My Chewy Milk Candy Coffee Flavour (My Chewy Brand) Ingredients: Glucose syrup 33.00 %, Non-diary creamer 25.00% Sugar 13.00 %, Whey powder 12.00%, Whole milk powder 8.0% Coffe powder 2.00%, Artificial coffee flavour 0.295 % Country of origin: China Imported by: Prairie Marketing Limited (Thailand) (un)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8852117380146",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

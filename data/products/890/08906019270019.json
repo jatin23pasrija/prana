@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906019270019",
+  "barcode_printed": "8906019270019",
+  "barcode_format": "EAN-13",
+  "name": "Yakult",
+  "brand": "yakult",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 65,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Ingredients Water, Sugar, Skimmed Milk Powder, Glucose, Probiotic-Lactobacillus case strain Shirota (LcS), CONTAINS ADDED NATURAL & NATURAL IDENTICAL FLAVOURS ALLERGEN INFORMATION: CONTAINS MILK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906019270019",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901117257023",
+  "barcode_printed": "8901117257023",
+  "barcode_format": "EAN-13",
+  "name": "Maxirich",
+  "brand": "cipla",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Maxirich Tulsi Drops Natural immunity Booster OTHER BENEFITS •Supports Skin Health •Supports Joint Health •Supports Heart Health •Anti Viral, Anti Bacterial •Useful in Urine Infections •Antioxidant which Supports Overall Health AN AYURVEDIC PROPRIETARY MEDICINE Each 1 ml contains extract of: Shyam Tulsi (Ocimum sancțum) Leaf 0.20 ml Vishnu Tulsi (Ocimum tenuiflorum) Leaf 0.20 ml Ram Tulsi (Ocimum gratissimum) Leaf 0.20 ml Nimbu Tulsi (Ocimum citriodorum) Leaf 0.20 ml Van Tulsi (Ocímum basilicum) Leaf 0.15 ml Base q.s. DOSAGE: 5-10 drops, 2-3 times a day in water (lukewarm) or tea or as directed by a physician SHAKE WELL BEFORE USE. KEEP OUT OF REACH OF CHILDREN Storage Conditions: Store under cool, dark & dry place, at temperature not exceeding 30°C. Protect from direct sunlight.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901117257023",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

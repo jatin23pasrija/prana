@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719128547",
+  "barcode_printed": "8901719128547",
+  "barcode_format": "EAN-13",
+  "name": "Happy Happy CAKES Tutti Frutty Flavoured",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EGG, EDIBLE VEGETABLE FAT (HYDROGENATED VEGETABLE OILS) & REFINED PALM OLEIN, HUMECTANTS (420, 422, 1520), CANDIED FRUIT (PAPAYA-5.7%), CAKE IMPROVER (MALTODEXTRIN, STARCH, EMULSIFIERS (472a, 475), RAISING AGENTS (450i, 500ii)), STABILIZER (415), LIQUID GLUCOSE, EMULSIFIERS OF VEGETABLE ORIGIN (471, 477, 470i), INVERT SUGAR SYRUP, IODIZED SALT, ARTIFICIAL (TUTTI FRUITY) FLAVOURING SUBSTANCE, RAISING AGENT (341i), STABILIZER (415) AND COLOURS (102, 129 & 110).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719128547",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010362621",
+  "barcode_printed": "8906010362621",
+  "barcode_format": "EAN-13",
+  "name": "Soan Papdi",
+  "brand": "grb",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 526.4,
+        "protein_g": 4.8,
+        "carbohydrate_g": 68.3,
+        "sugars_g": 50,
+        "fat_g": 26,
+        "saturated_fat_g": 15,
+        "sodium_mg": 11
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Bengal Gram Flour, Refined Wheat Flour, Refined Palmolein Oil, Vegetable Fat (Interesterified), Liquid Glucose, Cardamom, Almond & Pistachio.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010362621",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

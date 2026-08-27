@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552025140",
+  "barcode_printed": "8901552025140",
+  "barcode_format": "EAN-13",
+  "name": "Madras Curry Paste hot",
+  "brand": "truly-indian",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wasser, Salz, Korianderpulver, Sonnenblumenöl, rotes Chilipulver 6%, Kreuzkümmelpulver, Säuerungsmittel: Essigsäure; Knoblauch, Ingwer, Kurkumapulver, rotes Linsenmehl, Anissamen, Bockshornklee, Nelken, Zimt, Lorbeer.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552025140",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

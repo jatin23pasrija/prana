@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904234100616",
+  "barcode_printed": "8904234100616",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Fruit Jam",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 480,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Water, Mixed Fruit Pulp (45%) [Pear Pulp, Mango Pulp, Pineapple Pulp, Apple Juice, Orange Juice, Strawberry Pulp, Thickener (INS 440), Acidity Regulator (INS 330), Preservatives (INS 202 INS 211), Natural and Nature-Identical Flavours, Synthetic Food Colour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904234100616",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906061300900",
+  "barcode_printed": "8906061300900",
+  "barcode_format": "EAN-13",
+  "name": "Jeera Bhakhri",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 555.56,
+        "protein_g": 11.11,
+        "carbohydrate_g": 50,
+        "sugars_g": 0,
+        "fat_g": 33.33,
+        "saturated_fat_g": 11.67,
+        "sodium_mg": 888.89
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906061300900",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

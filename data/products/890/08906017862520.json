@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906017862520",
+  "barcode_printed": "8906017862520",
+  "barcode_format": "EAN-13",
+  "name": "Burst",
+  "brand": "bisk-farm",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 425.2,
+        "protein_g": 6.31,
+        "carbohydrate_g": 74.28,
+        "sugars_g": 44.82,
+        "fat_g": 16.91,
+        "saturated_fat_g": 9.57,
+        "trans_fat_g": 0.21,
+        "sodium_mg": 138
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (42.6%), SUGAR, EDIBLE VEGETABLE OIL (PALM, PALMOLEIN), MILK SOLIDS, EDIBLE STARCHE (CORN), SALT, EMULSIFIER (322), DISPERSING AGENT (1520) AND ANTIOXIDANT (319) STRAWBERRY FLAVOURED FILLING (35.23%) [HYDROGENATED VEGETABLE OIL (PALM, PALMOLEIN), EDIBLE VEGETABLE OIL (PALM, PALMOLEIN), EMULSIFIER (322), SALT, SUGAR, WHEY POWDER, MILK SOLIDS, DEXTROSE MONOHYDRATE, EDIBLE STARCHE (CORN), EMULSIFIER (322), DISPERSING AGENT (1520) & ANTIOXIDANT (319)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906017862520",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

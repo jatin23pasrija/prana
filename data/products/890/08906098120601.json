@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906098120601",
+  "barcode_printed": "8906098120601",
+  "barcode_format": "EAN-13",
+  "name": "Cloud9 Classic Energy Drink",
+  "brand": "cloud9",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Carbonated Water, Sugar, Acidity Regulators INS330, INS331 Taurine, Maltodextrin, Caffeine, Vitamins (B5, B3, B6, & B12), Permitted Class II Preservative (INS211). CONTAINS ADDED FLAVOUR (NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES, FRUIT AND PERMITTED NATURAL COLOUR INS150d).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906098120601",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

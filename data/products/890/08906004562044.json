@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906004562044",
+  "barcode_printed": "8906004562044",
+  "barcode_format": "EAN-13",
+  "name": "Masala Matar",
+  "brand": "diamond",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 456.93,
+        "protein_g": 20.57,
+        "carbohydrate_g": 56.47,
+        "sugars_g": 3.34,
+        "fat_g": 16.53,
+        "saturated_fat_g": 7.43,
+        "sodium_mg": 779.84
+      }
+    }
+  ],
+  "ingredients_raw": "Green Peas (80%), Edible Vegetable Oil (Palmolein Oil / Cotton Seed Oil), Iodised Salt, &quot;Spice and Condiments (Red Chilli Powder, Cumin, Coriander Powder Black Pepper Powder, Black Salt, Clove Powder), Dehydrated Vegetable Powder (Dry Mango), Colour (INS 133) and Acidity Regulator (INS 300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906004562044",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

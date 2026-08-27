@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499008169",
+  "barcode_printed": "8901499008169",
+  "barcode_format": "EAN-13",
+  "name": "Chocos",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Multigrain Flour Mix (64.8%) (Wheat Flour (Atta) (55.8%), Sorghum (Jowar) Flour (3%), Rice Flour (3 Corn Meal (3%)), Sugar, Cocoa Solids (5.3%), Minerals, Cereal Extract, lodized Salt, Colours (INS 150a, INS 150d), Edible Vegetable Oil (Palmolein), Flavours (Nature Identical & Artificial (Cream)), Vitamins, Antioxidant (INS 307b). ALLERGEN DECLARATION: CONTAINS WHEAT & BARLEY. MAY CONTAIN SOY, MILK, OATS & NUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499008169",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

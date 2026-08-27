@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069400473",
+  "barcode_printed": "8906069400473",
+  "barcode_format": "EAN-13",
+  "name": "Cheese and Jalapeno dip",
+  "brand": "veeba",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 378.02,
+        "protein_g": 2.21,
+        "carbohydrate_g": 12.42,
+        "sugars_g": 5.95,
+        "fat_g": 35.5,
+        "saturated_fat_g": 5.78,
+        "sodium_mg": 1120
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Soyabean Oil, Water, Synthetic Vinegar [Water, Acetic Acid (INS260) Sugar Jalapenos (4.3%), Emulsifiers and Stabilizers (INS1442, INS1450, INS415), Milk Solids, Cheese Powder (2.4%), lodised Salt, Tomato Paste, Spices and Condiments, Acidity Regulator (NS330), Flavours (Natural & Nature-Identical Flavouring Substances), Preservatives (NS211, INS202), Antioxidant (INS319) and Sequestrant (INS385). ALLERGEN INFORMATION: Contains Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069400473",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

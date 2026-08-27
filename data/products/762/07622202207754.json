@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202207754",
+  "barcode_printed": "7622202207754",
+  "barcode_format": "EAN-13",
+  "name": "Bourn Vita Biscuits",
+  "brand": "bourn-vita",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 111.6,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida) (56%*), Sugar, Palmolein oil, Cereal Based Beverage Mix 5% Cereal Extract (Barley, Millets, Wheat), Sugar, Cocoa Solids, Maltodextrin, Colour (150c), Minerals, Wheat Gluten, Liquid Glucose, Emulsifiers (322, 471), Milk Solids, Vitamins, Raising Agent (500(ii)), Flavours (Natur Nature Identical and Artificial (Vanilla) Flavouring Substances), lodised Salt], Invert sugar, Cocoa solids (1.1%) Minerals, Leavening Agents (500(ii), 503(ii)), lodised salt. Flavours (Natural & Nature Identical Flavouring Substances), Milk solids, Emulsifier (322), colour (150 Allergen Information: Contains Milk, Wheat, Barley, Soy. May Contain Tree nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202207754",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

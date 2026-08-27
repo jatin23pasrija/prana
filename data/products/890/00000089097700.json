@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00000089097700",
+  "barcode_printed": "89097700",
+  "barcode_format": "EAN-8",
+  "name": "roasted garlic and herb aged cheese spread",
+  "brand": "belgioioso",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "v7738 fresh snac zo 06 zzarell volini fr6 3148 se a vte belgio fresh mozzarella merica's favorite cheet (od 700ma con ofe belgioic fresh mozzarella fresh 52 fresh mozzarella belgioios america's favorite cheese fresh mozzarella belgioioso ala fresh mozzarita 2 belgioioso burrata fresh mozzarella cheese filled with shreds of mozzarella soaked in cream belgioioso,com belgioioso cheese inc best by jan s belgioioso burrata lslsls $599 ratai mees (ly 9 zo's belgioioso glasten fre fre ica's favorit mozzare marinated 932 belgioiold he nutrition denmark, wi 54208 gredients: cheddar cheese (pasteurized milk, cheese cultures, sat eymes), whey, water, cream, salt, garlic, parsley, onion, lactic acid han gum, , sorbic acid as a preservative, contains: milk total carbohydrate dietary fiber og total sugars 3g - sweet - , tangy new name same great recipe prices trisican 1959 toagitil reddar horseradish real cet - , tangy with peppers made with real cheddar cheza broad nest nest port wine real cheddar cheese spread cheddar real port wine nesu ead 050509 12 60 $469 cheese read courmet cheese snack spread pine river cheddar real es carlic q pine river swiss races ssims mataded natural che pind el121 owls nest) by bacon flavor river save 5¢ per gallon artın wl's nesu cura brad 17,12,2 appro pley (00mrna te tyler smokey cheddar 130 1 2 bacon flavor river ourmet cheese snack spread save on f when you bug prices good thru 06/04/2022 with purchase of 2 8 cz pine river cheese spreads-all varieties $3,99 mdom o",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89097700",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

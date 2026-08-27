@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080002528",
+  "barcode_printed": "8902080002528",
+  "barcode_format": "EAN-13",
+  "name": "Sting Blue Current",
+  "brand": "pepsico",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 27,
+        "protein_g": 0,
+        "carbohydrate_g": 6.8,
+        "sugars_g": 6.8,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "sodium_mg": 31
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, ACIDITY REGULATORS (330, 331), FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES), SEQUESTRANTS (452(i), 385), CAFFEINE (29 mg/100 ml), PRESERVATIVES (211, 202), SWEETENERS (955, 950), COLOUR (133)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080002528",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

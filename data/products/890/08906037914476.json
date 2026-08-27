@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906037914476",
+  "barcode_printed": "8906037914476",
+  "barcode_format": "EAN-13",
+  "name": "Noodles Chatpata Namkeen",
+  "brand": "satmola",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 16,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 510.5,
+        "protein_g": 9.45,
+        "carbohydrate_g": 55.2,
+        "sugars_g": 2.56,
+        "fat_g": 26.4,
+        "saturated_fat_g": 11.7,
+        "trans_fat_g": 0,
+        "fibre_g": 2.02
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flour, Edible Vegetable Oil (Palmolein Oil, Cotton Seed Oil & Rice Bran Oil), Tapioca Starch, Maize Starch, Spices & Condiments (Chilli Powder, Mango Powder, Cumin Powder, Coriander Powder, Clove Powder, Cinnamon Powder, Garlic Powder, Onion Powder), Salt, Black Salt, Maltodextrin, Acidity Regulator (E330), Anticaking Agent (E551) and Flavour Enhancers (E627, E631).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906037914476",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

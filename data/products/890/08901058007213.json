@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058007213",
+  "barcode_printed": "8901058007213",
+  "barcode_format": "EAN-13",
+  "name": "Masala Veg Atta noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 72.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles: Resultant Wheat Flour (Resultant Atta) (84.2%), Palm oil, lodized salt, Wheat gluten, Thickeners (508 & 412), Humectants (451(i)&452(i)) and Acidity regulators (501(i) & 500 (i) Masala TASTEMAKER: Mixed spices (22.5%) ('Roasted spice mix powder (6.6%) (Coriander, Turmeric, Cumin, Aniseed, Black pepper, Fenugreek, Ginger, Green cardamom, Cinnamon, Clove, Nutmeg, Bay leaf, Black cardamom), Onion powder, Garlic powder, Red chilli powder, Red chilli bits, Coriander powder, Turmeric powder, Ginger powder, Aniseed powder, Black pepper powder, Cumin powder, Cumin, Fenugreek powder, Capsicum extract, Compounded asafoetida, Star anise powder, Coriander extract & Cumin extract), Dehydrated Vegetables (16.7%) (Carrot bits (8.5%), Green peas (8.2%)), Toasted onion flakes (Onion (12.4% ), Corn oil), Resultant Wheat Flour (Resultant Atta), Sugar, lodized salt, Toasted onion powder (Onion (5.9%), Corn oil), Thickener (508), Palm oil, Flavour enhancer (635), Yeast extract powder, Starch, Dehydrated kasuri methi leaves, Acidity regulator (330), Wheat gluten and Mineral. Contains Wheat May contains Milk, Oats and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058007213",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491100045",
+  "barcode_printed": "8901491100045",
+  "barcode_format": "EAN-13",
+  "name": "Jowar puffs",
+  "brand": "kurkure",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 519,
+        "protein_g": 6.7,
+        "carbohydrate_g": 59.2,
+        "sugars_g": 3.4,
+        "fat_g": 28.4,
+        "saturated_fat_g": 6.3,
+        "sodium_mg": 645
+      }
+    }
+  ],
+  "ingredients_raw": "'Millet (Jowar Meal (27%)), Cereal Products (Corn Meal (26%), Rice Meal (18%)), Edible Vegetable Oil (Rice Bran Oil), Seasoning (Spices and Condiments, Sugar, lodised Salt, Maltodextrin, Flavour (Natural and Nature Identical Flavouring Substances), Salt Substitute (Potassium Chloride), Black Salt Hydrolysed Vegetable Protein, Tomato Powder, Acidity Regulator (330), Lemon Powder, Yeast Extract, Flavour Enhancers (627, 631)) Firming Agent (170(i)), Emulsifier (471). &quot;As Flavouring Agent. &quot;Contains Onion and Garlic. ALERGEN ADVICE: Contains Soy. May Contain Wheat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491100045",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005340269",
+  "barcode_printed": "8906005340269",
+  "barcode_format": "EAN-13",
+  "name": "Mullu Murukku",
+  "brand": "relish",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 64,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rice Flour (60%), Black Gram Flour (15%). Butter (10%), Cummin Seeds, Seasame Seeds, Asafoetida, Salt & Refined Vegetable Oilحبو أسافر يبدأ الخضر",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005340269",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

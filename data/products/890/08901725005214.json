@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725005214",
+  "barcode_printed": "8901725005214",
+  "barcode_format": "EAN-13",
+  "name": "Atta Noodles",
+  "brand": "yippee",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 428,
+        "protein_g": 9.7,
+        "carbohydrate_g": 64.3,
+        "sugars_g": 3.2,
+        "fat_g": 16.3,
+        "saturated_fat_g": 7.7,
+        "fibre_g": 7.5,
+        "sodium_mg": 1446.7
+      }
+    }
+  ],
+  "ingredients_raw": "Instant Noodles Wheat Four (Atta) (64.8%), Refined Palm oil, Tapioca Starch, Dehydrated Potato (2.0%), lodized Salt, Onion Powder, Wheat Gluten, Garlic Powder, Stabilizer [INS 170(i)), ING 339(ii)], Thickener (INS 466), Acidity Regulators (NS 450(i), INS 500(i), INS 501(i), Dehydrated Parsley (0.08%) and Vitamin C.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725005214",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058006100",
+  "barcode_printed": "8901058006100",
+  "barcode_format": "EAN-13",
+  "name": "Masala Veg Atta Noodles with Spinach",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Noodles Resultant Wheat Flour (Resultant Atta) (80.5%), Palm oil, Wheat gluten, Iodized salt, Dehydrated spinach (1.2%), Thickeners (508&412), Humectant (451 (i) & 452(i)), Acidity regulators (501 (i) & 500(i)) and Color (141(ii)) Masala TASTEMAKER: Mixed spices (24.4%) (Onion powder, Coriander powder, Garlic powder, Red chilli powder, Turmeric powder, Cumin powder, Aniseed powder, Red chilli bits, Ginger powder, Black pepper powder, Fenugreek powder, Cumin, Capsicum extract, Compounded asafoetida, Green cardamom powder, Star anise powder, Cinnamon powder, Clove powder, Nutmeg powder, Bay leaf, Black cardamom powder, Coriander extract, Cumin extract), Toasted onion flakes (Onion (13.7%), Corn oil), Resultant Wheat Flour (Resultant Atta), Sugar, Carrot bits (9.49%), Iodized salt, Toasted onion powder (Onion (6.3%), Corn oil), Thickener (508), Palm oil, Flavour enhancer (635), est extract powder, Starch, Dehydrated kasuri methi leaves, Acidity regulator (330), Wheat gluten and Mineral.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058006100",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

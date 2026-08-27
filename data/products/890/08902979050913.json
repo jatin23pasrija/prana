@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902979050913",
+  "barcode_printed": "8902979050913",
+  "barcode_format": "EAN-13",
+  "name": "Covins chocolate milkshake 180ml",
+  "brand": "cavins",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Toned Milk (84%), Sugar, Cocoa Solids (1.4%), Flavour (Nature Identical Flavouring Substances), Stabilizers (INS 415, INS 412, INS 407), Sequestrant (INS 451(i)), lodized salt. Allergen Advice: Contains Milk CHOCOLATE FLAVOURED MILKSHAKE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902979050913",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

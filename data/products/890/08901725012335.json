@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725012335",
+  "barcode_printed": "8901725012335",
+  "barcode_format": "EAN-13",
+  "name": "Dream cream 20",
+  "brand": "sunfest",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 490,
+        "energy_kj": 2052,
+        "protein_g": 4.5,
+        "carbohydrate_g": 70.5,
+        "sugars_g": 38.9,
+        "fat_g": 21.4,
+        "saturated_fat_g": 10.4,
+        "trans_fat_g": 0,
+        "sodium_mg": 200
+      }
+    }
+  ],
+  "ingredients_raw": "Maida (Refined Wheat Flour), Sugar, Refined Palm Oil, Dextrose, Starch, Invert Syrup, Raising Agents [INS 503(ii), INS 500(ii), INS 450(i)], Milk Solids, Artificial Flavouring Substances (Vanilla, Milk, Strawberry, Raspberry, Mint), Iodized Salt, Emulsifier [Lecithin (from Soyabean Nature Identical Flavouring Substances, Acidity Regulator (INS 296), Dehydrated Strawberry (0.02%), Colours (INS 102, INS 124)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725012335",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

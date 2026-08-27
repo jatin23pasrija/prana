@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080603938",
+  "barcode_printed": "8906080603938",
+  "barcode_format": "EAN-13",
+  "name": "Swing+ Slurpy Mango",
+  "brand": "paper-boat",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 62.8,
+        "protein_g": 0,
+        "carbohydrate_g": 15.7,
+        "sugars_g": 15.5,
+        "fat_g": 0,
+        "sodium_mg": 3.2
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, SUGAR, MANGO PULP CONCENTRATE (6.3%)#, ACIDITY REGULATOR (330), FLAVOURS (NATURE-IDENTICAL AND NATURAL FLAVOURING SUBSTANCES), STABILIZERS (466, 415), PRESERVATIVES (202, 242), FOOD COLOURS (102, 110) AND VITAMIN D2 (ERGOCALCIFEROL). ' #RECONSTITUTED 13% MANGO JUICE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080603938",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

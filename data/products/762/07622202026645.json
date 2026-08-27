@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202026645",
+  "barcode_printed": "7622202026645",
+  "barcode_format": "EAN-13",
+  "name": "Bournvita 14.4g pp",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cereal Extract 56% (Barley, Millets, Wheat), Sugar, Coco Solids, Maltodextrin, Colour (150c), Minerals, Wheat Glute Liquid Glucose, Emulsifiers (322,471), Milk Solids, Vitamins Raising Agent (500), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances), lodised Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202026645",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

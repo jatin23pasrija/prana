@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063365384",
+  "barcode_printed": "8901063365384",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Cake Gobbles 35g",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 416,
+        "protein_g": 6,
+        "carbohydrate_g": 58.3,
+        "sugars_g": 27,
+        "fat_g": 17.7,
+        "saturated_fat_g": 8.8,
+        "sodium_mg": 169
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) SUGAR, EGGS, HYDROGENATED VEGETABLE OIL & REFINED PALMOLEIN OIL, FRUIT PRODUCTS (PAPAYA CUTS & ORANGE PULP), HUMECTANTS (422 & 420(ii)), HIGH MALTOSE SYRUP, EDIBLE MAIZE STARCH, PENTA CAKE,RAISING AGENTS[ 450, 500, 341&341), EMULSIFIERS (472e, 466&435), STABILIZER (412) & ACIDITY REGULATOR (330)), CAKE GEL EMULSIFERS & STABILIZERS (471 & 477) AND HUMECTANT (420), 1ODISED SALT, RAISING AGENTS [341(i), 500(ii) & 450(i)], NATURE IDENTICAL (ORANGE) AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES, INVERT SUGAR SYRUP, PRESERVATIVES (202 & 282), EMULSIFIER (435), COLOURS (110 & 122), ACIDITY REGULATOR (330) AND STABILIZER (415).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063365384",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

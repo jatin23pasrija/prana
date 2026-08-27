@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058868012",
+  "barcode_printed": "8901058868012",
+  "barcode_format": "EAN-13",
+  "name": "Kitkat",
+  "brand": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Milk solids, Refined wheat flour (Maida), Hydrogenated vegetable fats (contain sesame oil), Edible vegetable fats, Cocoa solids (4.4%), Emulsifier (Soya lecithin), Raising agent (500(ii)), Yeast, Flour treatment agents (516 and 1101(i)) and iodized salt. CONTAINS ADDED FLAVOUR (ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES) MAY CONTAIN PEANUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058868012",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

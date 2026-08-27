@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725105174",
+  "barcode_printed": "8901725105174",
+  "barcode_format": "EAN-13",
+  "name": "Mango",
+  "brand": "b-natural",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 106,
+        "protein_g": 0.1,
+        "carbohydrate_g": 15,
+        "sugars_g": 3.4,
+        "fibre_g": 1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725105174",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

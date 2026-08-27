@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106030176",
+  "barcode_printed": "8909106030176",
+  "barcode_format": "EAN-13",
+  "name": "Hellmann's Cheezy Jalapeno Burst Veg Mayonnaise, 85 g",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Refined soybean oil (fortified with vitamin a &d), Cheese seasoning (maltodextrin, Dehydrated vegetables (onion, Garlic), Cheese powder, Sugar, Whey powder, Dextrose, High fat dairy whitener, Natural and nature identical flavouring substances, Cream analogue, Corn starch, Flavour enhancer (627, 631), Anticaking agent (551)), Thickeners (1442, 1450, 412), Sugar, Diced jalapeno, Natural vinegar, Lodised salt, Acidity regulator (330), Natural and nature identical flavouring substances, Preservative (202), Sequestrant (385). contains milk. number of serves per pack: approx, 5, Per serve: 15 g (1 tbsp)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106030176",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

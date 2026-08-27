@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207007545",
+  "barcode_printed": "8901207007545",
+  "barcode_format": "EAN-13",
+  "name": "Hajmola Pudina",
+  "brand": "hajmola",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Powders of Pudina (Mentha spicata, Aerial Part) 16.890 mg, Amra (Mangifera Indica, Fr.) 17.745 mg, Shveta Jiraka (Cuminum cyminum, Fr.) 3.545 mg, Sunthi (Zingiber officinale, Rz.) 3.545 mg, Pippali (Piper longum, Fr.) 3.545 mg, Maricha (Piper nigrum, Fr.) 6.345 mg, Dhanayaka Coriandrum sativum, Fr.)2.436 mg, Samudra Lavana 10.245 mg, Sauvarchala Lavana 36.8 mg, Sharkara 344.990 mg; Spearmint Oil Mentha spicata, Aerial Part, Oil) 0.427 mg and Excipients q.s. Preservative: Sodium benzoate IP",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207007545",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058851298",
+  "barcode_printed": "8901058851298",
+  "barcode_format": "EAN-13",
+  "name": "Maggi 2-minutes Noodles",
+  "brand": "nestle",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 437,
+        "protein_g": 10.4,
+        "carbohydrate_g": 44.5,
+        "sugars_g": 5,
+        "fat_g": 15.7,
+        "saturated_fat_g": 6.8,
+        "trans_fat_g": 0.24,
+        "fibre_g": 3.9,
+        "sodium_mg": 1232.2
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles : Refined wheat flour, Palm oil , salt , Wheat gluten , Thickeners(508 & 412) , mineral(calcium carbonate) and Humectant(451(i)) Taste maker : Hydrolyzed peanut protein ,Mixed spices(23.6%) ,Dehydrated onion , coriander powder , red Chili powder (3%), Turmeric powder , dried Garlic (2.5%), Cumin powder , Aniseed powder , Fenugreek powder , ginger powder , black pepper powder (0.4%), Clove powder(0.1%), green cardamom powder(0.1%), nutmeg powder , Noodle powder ( refined wheat flour, palm oil ,wheat gluten ,Acid regulators(170(i) , 501(i) & 500(i)) , Thickeners(508 & 412) , Humectant(451(i)) , calcium carbonate, guar gum), starch, garlic powder, caramel salt mix (salt , color(150d), & palm oil) , acidity regulators(330 & 500(ii)) , Flavour enhancer(635) and mineral ( ferric pyrophosphate)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058851298",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

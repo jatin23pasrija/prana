@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106085114",
+  "barcode_printed": "8909106085114",
+  "barcode_format": "EAN-13",
+  "name": "Horlicks Milkshake",
+  "brand": "hindustan-unilever-limited",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 130,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Toned Milk (40%), Sugar Cocoa Powder, Malt Cereal Blend, Stabilizers (INS407, INS471, INS415, INS412), Vitamins & Minerals, Edible lodized Salt, Nature Identical Flavouring Substances, Acidity Regulator (INS 339(ii)), Medium Chain Triglycerides. Allergen Information: Contains Milk, Wheat, Barley, and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106085114",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

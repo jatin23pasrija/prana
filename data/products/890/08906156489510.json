@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906156489510",
+  "barcode_printed": "8906156489510",
+  "barcode_format": "EAN-13",
+  "name": "Garam Masala",
+  "brand": "khetika",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Coriander, Chilli, Dried Mango, Cumin, Bay Leaves, Black Pepper, Dried Ginger, Nutmeg, Taj Dalchini, Cloves, Fennel, Green Cardamom, Black Cardamom, Star Anise (Badiyan), Ajwain, Salt, Rock Salt, Stone Flower (Dagad Phool), Mace (Javantri), Shah Jeera, Dried Mint Leaves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906156489510",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

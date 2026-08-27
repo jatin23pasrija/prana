@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335602910",
+  "barcode_printed": "8904335602910",
+  "barcode_format": "EAN-13",
+  "name": "Yoga Bar Super Muesli",
+  "brand": "yoga-bar",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 367,
+        "protein_g": 9.7,
+        "carbohydrate_g": 73,
+        "sugars_g": 12.2,
+        "fat_g": 6.2,
+        "saturated_fat_g": 1,
+        "fibre_g": 9.5,
+        "sodium_mg": 281.8
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Grains 58.0% (Millets 26.0% (Ragi 16%, Jowar 30%), Rolled Oats 22%, Brown Rice Flakes), Corn Flakes (Corn Grits, Unrefined Sugar, lodized Salt, Malt Extract, Soy Lecithin), Nuts & 4.8% (Raisins, Cranberry), Jaggery Syrup, Honey, Rice Bran Oil, Natural Flavors (Almond, Rosemary Extract), Himalayan Pink Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335602910",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

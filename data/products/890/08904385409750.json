@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904385409750",
+  "barcode_printed": "8904385409750",
+  "barcode_format": "EAN-13",
+  "name": "Lifelong Electric Kettle, 1.5 Litres LLEK60",
+  "brand": "lifelong",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Item Name Generic Name Brand Name SKU ID Capacity Colour Warranty Net Quantity Box Size Net Weight Gross Weight Voltage Frequency Wattage Content MRP Unit sale Price Month & Year of Manufacture Marketed By Manufactured By Country of Origin Customer Service Contact 1.5 Litres Silver 1 Year 1 Number 20.3 cm x 16.5 cm x 23 cm (L x B x H) 0.75 Kg 0.92 Kg 230 V AC 50 Hz, 1 Phase 1500 W 1 Number Electric Kettle, 1 Number Manual cum Warranty Card 1599.00 (Inclusive of all taxes) 1599.00 Per Number September 2024 Lifelong Online Retail Private Limited 5th Floor, Unit No. 508, DLF South Court, Saket District Center, Saket, New Delhi, India - 110017 Shree Sita Ram appliances Pvt. Ltd. • Plot No. 62 A, Sector 53, Phase V, HSIIDC, Kundli Industrial Area, Sonipat, Haryana, India - 131028 INDIA Lifelong Online Retail Private Limited www.lifelongindiaonline.com/contact-us Tel: +91 9711558877 Contact Person: Customer Support Desk Email: Customer Care Address: 5th Floor, Unit No. 508, DLF South Court, Saket District Center, Saket, New Delhi, India - 110017 Barcode 00 9 0 4 3 8 5 4 0 9 7 5 0",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904385409750",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "aquafina-is-sold-by-pepsico",
+  "name": "Aquafina Is Sold By Pepsico",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/brand/aquafina-is-sold-by-pepsico",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  }
+}

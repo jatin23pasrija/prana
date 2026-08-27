@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500016",
+  "barcode_printed": "8906010500016",
+  "barcode_format": "EAN-13",
+  "name": "Simply Salted",
+  "brand": "balaji-wafers",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 554,
+        "protein_g": 7.7,
+        "carbohydrate_g": 53.4,
+        "sugars_g": 0.8,
+        "fat_g": 32.9,
+        "saturated_fat_g": 15.7,
+        "trans_fat_g": 0.1,
+        "fibre_g": 7.2,
+        "sodium_mg": 385
+      }
+    }
+  ],
+  "ingredients_raw": "Potato (89%), Edible Vegetable Oil (Palmolein), Iodized Salt (0.4%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500016",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

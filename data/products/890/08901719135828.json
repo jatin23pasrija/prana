@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719135828",
+  "barcode_printed": "8901719135828",
+  "barcode_format": "EAN-13",
+  "name": "Hide$seek",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined wheat flour, sugar, palm oil, hydrogenated vegetable fat, cocoa solids, choco chips (12%), invert sugar syrup, dextrose, emulsifiers (soy lecithin, E472e), raising agents (E500, E503), salt, artificial flavours (vanilla, chocolate, strawberry, orange), colours (E150c, E150d, E110). Contains wheat, soy, milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719135828",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

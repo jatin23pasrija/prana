@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083308065",
+  "barcode_printed": "8904083308065",
+  "barcode_format": "EAN-13",
+  "name": "Spiced Butter Milk",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 21.6,
+        "protein_g": 1.2,
+        "carbohydrate_g": 1.5,
+        "sugars_g": 1.5,
+        "fat_g": 1.2,
+        "saturated_fat_g": 0.8,
+        "sodium_mg": 260
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Toned Milk Curd (40%), lodized Salt, Stabilizer (INS 440), Spices and condiments (0.03%), Probiotic Culture (Lactobacillus rhamnosus). Allergen Information: Contains Milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083308065",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

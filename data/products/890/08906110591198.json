@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "08906110591198",
+  "barcode_printed": "8906110591198",
+  "barcode_format": "EAN-13",
+  "name": "Extra long 1121 premium basmati rice",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 155.25,
+        "protein_g": 3.82,
+        "carbohydrate_g": 35.1,
+        "fat_g": 0.23,
+        "fibre_g": 1.8,
+        "sodium_mg": 900
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906110591198",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

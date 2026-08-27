@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202326233",
+  "barcode_printed": "7622202326233",
+  "barcode_format": "EAN-13",
+  "name": "cadbury dairymilk silk chocolate",
+  "brand": "dairy-milk",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Milk Solids (25%*), Cocoa Butter, Cocoa Solids, Emulsifiers (442,476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances). Allergen Information: Contains Milk. May Contain Tree Nuts, Wheat, Barley and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202326233",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

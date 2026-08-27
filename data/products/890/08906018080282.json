@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906018080282",
+  "barcode_printed": "8906018080282",
+  "barcode_format": "EAN-13",
+  "name": "Southern Classic Bread",
+  "brand": "fresh-choice",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 276.5,
+        "sugars_g": 13,
+        "fat_g": 0.8,
+        "saturated_fat_g": 0.6
+      }
+    }
+  ],
+  "ingredients_raw": "Refined wheat flour (maida), Sugar Edible vegetable fat, Salt, Yeast Improper {Flour treating agent (1100), stabilizer (170 l), emulsifier (481), Antioxidants (300)}, Preservative (282), Acidity Regulator (260) (Number the brackets are as per international numbering system) Allergen Information : Contains wheat glute, traces of milk solids",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906018080282",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

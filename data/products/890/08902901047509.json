@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08902901047509",
+  "barcode_printed": "8902901047509",
+  "barcode_format": "EAN-13",
+  "name": "Good Life Pista rosted 200gm",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "25g",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 534.1,
+        "energy_kj": 2236,
+        "protein_g": 23.4,
+        "carbohydrate_g": 15.8,
+        "sugars_g": 0,
+        "fat_g": 6.3,
+        "saturated_fat_g": 4,
+        "sodium_mg": 581
+      }
+    }
+  ],
+  "ingredients_raw": "Nuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902901047509",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

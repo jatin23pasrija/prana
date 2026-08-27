@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904300200622",
+  "barcode_printed": "8904300200622",
+  "barcode_format": "EAN-13",
+  "name": "Date of Expiry:",
+  "brand": "trdp-mario",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (REFINED PALM OIL), IODIZED SALT, GELLING AGENT (508), EMULSIFYING AGENT (451, ACIDITY REGULATOR (501 (1), ANTI-CAKING AGENT (170 ), RAISING AG 85% STABILIZER: GUAR GUM (412)) SEASONING:- SUGAR, IODIZED SALT, MIXED SPICES ((16.3%) OF WHICH CORIANDER, ANISEED, TURCUMIN 452 k 99 629 19 199 00 Og 1200 mg 2% CHILL, BLACK PEPPER, CLOVE, GREEN CARDAMOM & NUTMEG), ONION POWDER, HYDROLYZED GROUNDNUT PROTEINS, DE POWDER REFINED WHEAT FLOUR (MAIDA)), EDIBLE VEGETABLE OIL (REFINED PALM OIL), IODIZED SALT, MODIFIED STARCH (1420), GELUNG AGENT (50) EMULSIFYING AGENT (451 (i)), ACIDITY REGULATOR (501 (i)), ANTICAKING AGENT (170 ) RAISING AGENT (500(ii)), STABILIZER: GUAR GUM, GARLIC POWDER, EDIBLE STARCH, FLAVOUR ENHANCER (627 & 631), GINGER POWDER, ANTI CAKING AGENT(551), ACIDITY REGULATOR 0% EDIBLE VEGETABLE OIL (REFINED SUNFLOWER OIL), RAISING AGENT (500(ii)) & MINERAL (FERRIC PYROPHOSPHATE). 17% PERMITTED COLOR NATURE IDENTICAL FLAVOURING SUBSTANCES (MASALA) AND NATURAL COLOR (TURMERIC (INS-100)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904300200622",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

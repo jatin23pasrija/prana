@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "03948207025716",
+  "barcode_printed": "3948207025716",
+  "barcode_format": "EAN-13",
+  "name": "Chyawanprash",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Petale Stereospermum suaveolens, St Bk.) Agnimantha (Clerodendrum phlomldis, St. Bl Gambhari (Gmellina arborea, St. Bk.), BIva (Aegle marmelos, St. Bk.), Shyonaka (Oroxylum Indicum, St. Bk.), Gokshura (Trbulus terrestris Fr), Shalaparnl (Desmodlum gangetiqum, Pl Prishniparni (Urarla plcta, PL.), Brihati (Solanum Indlcum, Pl.), Kantakarl (Solanum surattense PL, Plppall (Piper longum, Fr), Karkatshringi (Pistacla integerrima, G.), Draksha (Vitis vinifera, Dr.Fr.), Guduchl (Tinospora cordifolla, St.), Harltaki (Terminalla chebula, P), Bala (Sida cordifolla, Rt.), Tamalakl (Phyllanthus niruri, PL), Vasa (Adhatoda vasica, Lf), Jiwanti (Leptadenla reticulata, Pl.), Shatl (Hedychlum spicatum, Rz.), Musta (Cyperus rotundus, Rz.), Pushkara (Inula recemosa, Rt.), Kakanaslka (Martynla annua, Fr.), Mudgaparni (Phaseolus trilobus, PL), Mashaparmi (Teramnus lablalls, PL) Vidari (Pueraria tuberosa, Rt. Tr), Punarnava (Boerhavia diffusa, Rt.), Utpala (Nymphaea stellata, FL.), Sukshamalla (Elettaria cardamomum, Fr), Agaru (CInnamomum zeylanicum - official substitute, St.Bk.), Shwata Chandan (Santalum album, Ht. Wd), Rdthi (Dloscorea bulbifera-tal substitute, Rt. Tr) Vriddhi (Dioscorea bulbifera-official substitute, Rt. Tr), Meda (Asparagus recemosus-official substitute, RL)Maameda (Asparagus recemosus official substitute, Rt.), Jivaka (Pueraria tuberosa-officlal substitute, Rt. T Rishabhak (Puerarla tuberosa officlal substitute,Rt. Tr.), Kakoll (Withanla somnifera official substitute, Rt.), Kshlrkakoll (Withania Somnifera-official substitute, Rt.) each 0.398g and Amalaki (Emblica officinalls, Fr., Fr. Pulp 90.0g, Ghrita, Tila tail (Sesamum Indicum, ol each 1.38g, Sharkara 59.5g, Madhu 4.76g and Powder of the following-Pippall (Plper longn P) 0.79g, Vamsha (Bambusa bambos, SC 589, Tvak (Cinnamomum zeylanicum, St.Bk Sukshamaila (Elettaria cardamomunm, h Tvakpatra (Cinnamomum tamala, Lf) Nagkesara (Mesua ferrea, Stmn.), Abhrak Bhasma each 0.10. Mukta Pishti 0.08 Akarkarabha (Anacyclus pyrethrum, RL) 0.1200 Lavenga (Syzyglum aromaticum, RBd G.1288, Kumkum (Crocus sativus, Sty/S1g 9.0075g. Preservative-Sodium Benzoate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948207025716",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

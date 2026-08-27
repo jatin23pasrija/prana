@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063227232",
+  "barcode_printed": "8904063227232",
+  "barcode_format": "EAN-13",
+  "name": "Takatak",
+  "brand": "haldiram",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 cup (1 cup)"
+      },
+      "values": {
+        "energy_kcal": 163,
+        "protein_g": 2,
+        "carbohydrate_g": 21,
+        "sugars_g": 1,
+        "fat_g": 8,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 0,
+        "fibre_g": 1,
+        "sodium_mg": 272
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063227232",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

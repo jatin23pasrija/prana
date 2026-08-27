@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07901758112706",
+  "barcode_printed": "7901758112706",
+  "barcode_format": "EAN-13",
+  "name": "parle - G",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 130,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "refined wheat flour (maida), sugar, refined palm oil, invert sugar syrup, iodised salt, raising agent [503, 500], milk solids, flour treatment agent[1101 and Emulsifier of vegetable origin [472e] contain added flavour.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7901758112706",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

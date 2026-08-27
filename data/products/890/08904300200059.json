@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904300200059",
+  "barcode_printed": "8904300200059",
+  "barcode_format": "EAN-13",
+  "name": "mario",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "pred 600 × N Whois Happy Mario? Is be a foodie or a mad food scientist? Well, he is a perfectionist who loves to cook as much as he loves to eat, who appreciates tasty and healthy food as much as be likes compliments for himself. He's TROP HAPPY WORLD An assortment of tea-time delicacies, beginning with his super fine and deliciously crispy Happy Mario rusks. an explorer who has travelled the world and collected a treasure of TRDP tasteful experiences. MARIO 2x 300g Packs Inside Milk Rusk 0% % TRANSFAT MARIO Milk Rusk PRODUCT OF INDIA Net Wt. 600 g (21.16 oz) GOODNESS MILK & OF MALT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904300200059",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

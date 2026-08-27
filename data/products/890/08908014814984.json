@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014814984",
+  "barcode_printed": "8908014814984",
+  "barcode_format": "EAN-13",
+  "name": "Millet Bread",
+  "brand": "mr-bakewell",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 245,
+        "protein_g": 7.9,
+        "carbohydrate_g": 51.75,
+        "sugars_g": 1.28,
+        "fat_g": 1.9,
+        "saturated_fat_g": 0.5,
+        "sodium_mg": 600
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Water, Millet Flour 11.7% Ragi - Finger Millet Flour. Sorghum - Jowar Flour, Bajra - Pearl Millet Flour, Rajgira - Amaranth Flour, Baghar - Barnyard Flour), Sunflower Oil, Sugar, Yeast, Wheat Gluten, Iodised Salt, Sourdough Flour, Preservative (INS 282), Anticaking Agent (INS 170(i)). Emulsifier (INS 472e), Antioxidant (INS 300), Enzymes, Soya Flour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014814984",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

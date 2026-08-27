@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904008205035",
+  "barcode_printed": "8904008205035",
+  "barcode_format": "EAN-13",
+  "name": "Madras carry powder",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Coriander, Turmeric, Chili, Garlic, Cumin, Fennel, Bay leaf, Salt, Fenugreek, Mustard, Pepper, Dry mango, Ginger, Cloves, Cinnamon & Gram. Ingrédients: Coriandre, Curcuma, Piment, Ail, Cumin, Fenouil, Laurier, Sel, Fenugrec, Moutarde, Poivre, Mangue sechee, Gingembre, Girofle, Cannelle & Lentille(Gram). CONTAINS NO ADDED COLOURS OR PRESERVATIVES PRODUCT OF INDIA www.chutney.net fssat 11511001000671 - Helpline: 022-23738711 8904008 205035 importateur Exclusif: MAISON AROSTEGUY Fondee en 1875 www.arosteguy.com Batch Code: 150912",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904008205035",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

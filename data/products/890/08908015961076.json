@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08908015961076",
+  "barcode_printed": "8908015961076",
+  "barcode_format": "EAN-13",
+  "name": "Basmati Rice",
+  "brand": "mehnaz",
+  "category": "rice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 5000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 346,
+        "protein_g": 7,
+        "carbohydrate_g": 78,
+        "sugars_g": 0,
+        "fat_g": 0.6,
+        "saturated_fat_g": 0.1
+      }
+    }
+  ],
+  "ingredients_raw": "basmati reis",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908015961076",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

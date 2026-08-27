@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414001862",
+  "barcode_printed": "8901414001862",
+  "barcode_format": "EAN-13",
+  "name": "Span papdi",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "sugar (sucrosel, refined for manuf characters manufact paimolein oll, refined wheat flour (maida), chickpea flour, almond, pistachia, cardamom, 83 - bika contains added flavour inatural and plot no, 2 industria sonipat - 600 nature identical flavouring substances) 66 bik plot no, food pa rai soni markete bikane a-28, la area, n allergen alt contains: w t almond and pistachio may t f nuts, nuts, sesame, milk sey and cw also contam store in a cool dry and hgenc place protect the contents from air and for fee bouyrd n n ol jon",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414001862",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

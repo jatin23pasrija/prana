@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063253149",
+  "barcode_printed": "8904063253149",
+  "barcode_format": "EAN-13",
+  "name": "Bombay Mix",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 485.71,
+        "protein_g": 20,
+        "carbohydrate_g": 51.43,
+        "sugars_g": 2.86,
+        "fat_g": 22.86,
+        "saturated_fat_g": 5.71,
+        "fibre_g": 11.43,
+        "sodium_mg": 514.29
+      }
+    }
+  ],
+  "ingredients_raw": "chickpeas pulse (37%), peanuts (10%), vegetable oil (cotton seed, corn and palmolein), chickpeas flour (20%), green peas (8%), salt, red chilli powder and mango powder contains peanuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063253149",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

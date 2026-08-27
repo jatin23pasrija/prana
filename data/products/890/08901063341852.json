@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063341852",
+  "barcode_printed": "8901063341852",
+  "barcode_format": "EAN-13",
+  "name": "Milk Bread",
+  "brand": "britannia",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 279,
+        "protein_g": 6.9,
+        "carbohydrate_g": 58.8,
+        "fat_g": 1.8,
+        "saturated_fat_g": 0.7,
+        "sodium_mg": 242
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), WATER, SUGAR. MILK SOLIDS (3.5%), YEAST, REFIN PALMOLEIN OIL, IODISED SALT, VITAL WHEAT GLUTEN,SOYA FLOUR, PRESERVATIVES (200), EMULSIFIERS [471, 481 (1) & 472), CALCIUM SALT, STABILIZER [412], DOUGH CONDITIONER [516], ACIDITY REGULATOR (260), FLOUR TREATMENT AGENT [510] ANTIOXIDANT [300] AND VITAMINS*.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063341852",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

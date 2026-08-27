@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058002904",
+  "barcode_printed": "8901058002904",
+  "barcode_format": "EAN-13",
+  "name": "maggi",
+  "brand": "maggi",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "woodles: refined wheat flour (maida), palm oil, lodized salt, wheat gluten, thickeners 508 , 412), acidity regulators (501 (i) , 500 (i)) and humectant (451(i)), masala *tastemaker®: mixed spices (25,6%) (onion powder, coriander powder turmeric powdere chilli powder, garlic powder, cumin powder, aniseed powder, ginger powder fenugreek der, black pepper powder, clove powder, green cardamom powde ,utmeg powder), refined wheat flour (maida), hydrolysed groundnut protein, suga palm oil, lodized salt, starch, thickener (508), flavour enhancer (635), toasted on fiakes, acidity regulator (330), mineral, colour (150d) and het gluten, contains wheat and nut 1 serve (pack)-52 g, pack contains 1 surve #guideline daily aunts of an average adult",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058002904",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

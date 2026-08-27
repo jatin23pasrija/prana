@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00000000850001",
+  "barcode_printed": "00850001",
+  "barcode_format": "EAN-8",
+  "name": "Mandarin Crunch Salad",
+  "brand": "trader-joe-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 306.17484975,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pasta, water, enriched macaroni product (durum wheat semolina, niacin, ferrous sulfate, thiamine mononitrate, riboflavin, folic acid), canola oil, extra virgin olive oil, mandarin oranges, sugar, citric acid, diced apples, calcium ascorbate, red cabbage, arugula, celery, crumbled feta cheese (pasteurized milk, salt, cheese culture, microbial enzyme), potato starch, sweetened dried cranberries (cranberries, sugar, sunflower oil), roasted pumpkin seeds (pumpkin seeds, canola oil, sea salt), green onion, white balsamic condiment (wine vinegar, grape must), apple cider vinegar, shallots, basil, Dijon mustard (distilled vinegar, water, mustard seed, sea salt, white wine, citric acid, turmeric, spices), black pepper, xanthan gum.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/00850001",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

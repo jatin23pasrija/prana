@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010900568",
+  "barcode_printed": "8908010900568",
+  "barcode_format": "EAN-13",
+  "name": "High Protein Peanut Butter Organic Jaggery",
+  "brand": "pintola",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 510,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Peanuts (78%), Organic Jaggery (12%), Whey Protein Concentrate (European Origin) (10%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010900568",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

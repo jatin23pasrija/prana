@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063211828",
+  "barcode_printed": "8904063211828",
+  "barcode_format": "EAN-13",
+  "name": "Subz Handi",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 140.85,
+        "protein_g": 2.82,
+        "carbohydrate_g": 6.34,
+        "sugars_g": 2.82,
+        "fat_g": 11.97,
+        "saturated_fat_g": 4.23,
+        "fibre_g": 1.41,
+        "sodium_mg": 471.83
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063211828",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

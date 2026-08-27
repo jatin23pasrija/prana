@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005500786",
+  "barcode_printed": "8906005500786",
+  "barcode_format": "EAN-13",
+  "name": "Bikaji khatta meeta 400 g",
+  "brand": "bikaji",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "6g 6g 11% 11% 8% 4g Omcg 0% 25mg 2% &lt;1mg 4% 142mg 3% ow much a nutrient in a et. 2000-calories a day is (Approx.) Per Serving 2/3 cup (40)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005500786",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

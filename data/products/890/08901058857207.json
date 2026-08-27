@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058857207",
+  "barcode_printed": "8901058857207",
+  "barcode_format": "EAN-13",
+  "name": "KITKAT",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk Chocolate (50.3%) (Sugar, Milk solids (12.1%), Cocoa butter (8.8%), Cocoa solids (6%), Emulsifier (Soya lecithin) & Artificial (Vanilla) flavouring substances), White chocolate (26.7%) (Sugar, Cocoa butter (8%), Milk solids (7.2%), Emulsifier (Soya lecithin) & Artificial (Vanilla) flavouring substances), Wafer (Refined wheat flour (Maida), Sugar, Hydrogenated vegetable fats, Cocoa solids (1.2%), Milk solids, Fractionated vegetable fat, Yeast, Raising agent (500(ii)), Emulsifier (Soya lecithin), lodized salt, Flour treatment agent (516), Artificial (Vanilla) flavouring substances & Nature identical flavouring substances). Allergen Note: Contains Wheat, Milk, Sesame & Soy. May contain Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058857207",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

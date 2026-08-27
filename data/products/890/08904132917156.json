@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132917156",
+  "barcode_printed": "8904132917156",
+  "barcode_format": "EAN-13",
+  "name": "Besan Ladoo",
+  "brand": "snactac",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SUGAR (SUCROSE), CHICKPEA FLOUR (34.2%), REFINED PALMOLEIN OIL, SPLIT BENGAL GRAM (6.1%), GUM ACACIA, ALMOND (0.7%), CASHEW (0.7%), CUCUMBER SEEDS (0.7%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132917156",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

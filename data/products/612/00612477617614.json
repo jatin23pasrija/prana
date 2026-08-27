@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00612477617614",
+  "barcode_printed": "0612477617614",
+  "barcode_format": "EAN-13",
+  "name": "Lemon Breeze",
+  "brand": "peping",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Carbonated Water, Coconut Water Co - ncentrate, FOS (fructooligosaccharides), Sugar (2.12g), PEPSMART (Chicory Root Inulin, Marshmallow Root Extract, Kudzu Extract, Slippery Elm Extract), Clear Lemon Juice Concentrate, Nature Identical Flavouring Substance (Lemon Lime), Stevia",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0612477617614",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

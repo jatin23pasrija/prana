@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132950788",
+  "barcode_printed": "8904132950788",
+  "barcode_format": "EAN-13",
+  "name": "Campa cricket with electrolytes",
+  "brand": "campa",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 50.8,
+        "energy_kj": 213,
+        "protein_g": 0,
+        "carbohydrate_g": 12.7,
+        "sugars_g": 12.7,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 87
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, LEMON JUICE CONCENTRATE (0.3%), ACIDITY REGULATORS (E330, E331(iii) ), MINERAL SALTS (SODIUM CHLORIDE, POTASSIUM CHLORIDE),SEQUESTRANTS (E452(i) , E385), PRESERVATIVE (E211), COLOUR (E102)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132950788",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

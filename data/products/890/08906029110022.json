@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906029110022",
+  "barcode_printed": "8906029110022",
+  "barcode_format": "EAN-13",
+  "name": "Sliced Bread",
+  "brand": "wibs",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (36.3 g)",
+        "quantity": {
+          "value": 36.3,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 85.6,
+        "protein_g": 2,
+        "carbohydrate_g": 18.9,
+        "sugars_g": 0.6,
+        "fat_g": 0.2,
+        "saturated_fat_g": 0.11,
+        "sodium_mg": 170.4
+      }
+    }
+  ],
+  "ingredients_raw": "13% OAS 5% 0% Pure Veg CONTAINS: REFINED WHEAT FLOUR (MAIDA), WATER, YEAST, IODISED SALT, VANASPATI, SUGAR, SOYA FLOUR, PERMITTED CLASSI PRESERVATIVES (E 282, 260) AND IMPROVERS. (E 1100) NETT WEIGHT 400 g Contains Wheat & Soya",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906029110022",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

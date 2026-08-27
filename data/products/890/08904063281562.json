@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063281562",
+  "barcode_printed": "8904063281562",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi choley",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 154.93,
+        "protein_g": 3.52,
+        "carbohydrate_g": 14.08,
+        "sugars_g": 0,
+        "fat_g": 9.15,
+        "saturated_fat_g": 1.06,
+        "trans_fat_g": 0,
+        "fibre_g": 1.41,
+        "sodium_mg": 500
+      }
+    }
+  ],
+  "ingredients_raw": "Water, chickpeas (16%), tomatoes, onions, refined sunflower oil, fresh ginger, fresh garlic, green chili, spices (cardamom, cinnamon, nutmeg, mace, cumin seeds, coriander, cloves, curry leaves), salt, yogurt, coriander leaves, red chilli powder, dried fenugreek leaves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063281562",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

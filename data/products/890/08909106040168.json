@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106040168",
+  "barcode_printed": "8909106040168",
+  "barcode_format": "EAN-13",
+  "name": "Horlicks",
+  "brand": "hindustan-unilever-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 550,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Malt (66.7%) [Barley (32%), Wheat Flour (Atta), Wheat, Millet], Milk Solids (14%), Sugar, Wheat Gluten, Minerals, Edible lodized Salt, Soy Protein Isolate, Acidity Regulators [INS 501(ii), INS 500(ii)], Vitamins. Allergen Information: Contains Wheat, Barley, Milk & Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106040168",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

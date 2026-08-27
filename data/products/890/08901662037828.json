@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901662037828",
+  "barcode_printed": "8901662037828",
+  "barcode_format": "EAN-13",
+  "name": "CHICKEN BIRYANI MIX",
+  "brand": "suhana",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Iodised Salt, Onion, Garlic, Ginger, Dry Mint Leaves, Refined Sunflower Oil [Sunflower Oil, Permitted Antioxidant (E319), Black Pepper, Chilli, Cumin, CASSIA BARK (TAJ), Clove, Caraway, Green Chilli, Black Cardamom, Sugar, Green Cardamom, Bay Leaf, Long Pepper, Turmeric, Bishop's Seeds, Fennel Seeds, Lemon Powder, Artificial Flavour (Kewda) Minimum Spice Content: 40% Salt Content: 22%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901662037828",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

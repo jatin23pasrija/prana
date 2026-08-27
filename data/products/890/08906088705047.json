@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906088705047",
+  "barcode_printed": "8906088705047",
+  "barcode_format": "EAN-13",
+  "name": "Double Chocolate Hot Cocoa Mix",
+  "brand": "christopher-cocoa",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "(ENG) Milk Solids, Sugar, Cocoa Powder, Maltodextrin, Flavourings, Stabilizer (INS 339(ii), INS 339 (iii)), Salt. (GER) Milchtrockenmasse, Zucker, Kakaopulver, Maltodextrin, Aromen, Stabilisator (INS 339(ii), INS 339(iii)), Salz.. (RUS) Сухое молоко, сахар, какао-порошок, мальтодекстрин, ароматизаторы, стабилизатор (INS 339(ii), INS 339(iii)), coль. (CHI)乳固体、糖、可可粉、 麦芽糊精、食用香料、稳定剂 A (INS 339(ii) INS 339 (iii)) 食用 رك س ب ي ل ح ل ا ن م ة ب ل ص داوم (AR) E ت ب ث م ، ت ا ه ك ن م ، ن ي رت س ك ي دوت لام ، واك اك ل ا ق وحسم (INS 339(ii). INS 339 (iii)). J. 0",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906088705047",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

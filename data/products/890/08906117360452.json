@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117360452",
+  "barcode_printed": "8906117360452",
+  "barcode_format": "EAN-13",
+  "name": "Country Delight Idli Dosa Batter",
+  "brand": "country-delight",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 115,
+        "protein_g": 5.1,
+        "carbohydrate_g": 23,
+        "sugars_g": 0.55,
+        "fat_g": 0.9,
+        "sodium_mg": 137.5
+      }
+    }
+  ],
+  "ingredients_raw": "RO Water, Rice (35%), Urad Dal, Fenugreek Seeds & Iodized Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117360452",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

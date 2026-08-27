@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262176552",
+  "barcode_printed": "8901262176552",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi Kulfi Mawa Elaichi",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 ice cream (48 g)",
+        "quantity": {
+          "value": 48,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 112,
+        "protein_g": 2.1,
+        "carbohydrate_g": 10.5,
+        "fat_g": 6.9
+      }
+    }
+  ],
+  "ingredients_raw": "Milk solids, sugar, permitted emulsifiers (435, 471), stabilizers (407, 412), cardamom powder (0.1%), artificial flavouring substances (cardamom special). Allergen Information: Contains milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262176552",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

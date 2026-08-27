@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "04840191651737",
+  "barcode_printed": "4840191651737",
+  "barcode_format": "EAN-13",
+  "name": "Pure & Natural Gond Katira",
+  "brand": "attar-ayurveda",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 9.5,
+        "carbohydrate_g": 35,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "fibre_g": 8,
+        "sodium_mg": 9000
+      }
+    }
+  ],
+  "ingredients_raw": "Gond Katira",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4840191651737",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

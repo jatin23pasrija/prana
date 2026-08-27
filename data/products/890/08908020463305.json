@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908020463305",
+  "barcode_printed": "8908020463305",
+  "barcode_format": "EAN-13",
+  "name": "Biggies Swiss Cheese",
+  "brand": "crax",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 535,
+        "protein_g": 6.1,
+        "carbohydrate_g": 61.4,
+        "sugars_g": 4.5,
+        "fat_g": 29.4,
+        "saturated_fat_g": 14,
+        "trans_fat_g": 0.22,
+        "sodium_mg": 723
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908020463305",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

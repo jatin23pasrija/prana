@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904150501696",
+  "barcode_printed": "8904150501696",
+  "barcode_format": "EAN-13",
+  "name": "muffin mix",
+  "brand": "betty-crocker",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 430,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 148,
+        "protein_g": 1.3,
+        "carbohydrate_g": 28.2,
+        "sugars_g": 17.3,
+        "fat_g": 3.3,
+        "saturated_fat_g": 2.4,
+        "fibre_g": 0.4,
+        "sodium_mg": 280
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Wheat Flour Compound Chocolate Chips (12%) (Sugar, Cocoa Solids, Hydrogenated Vegetable Fat (Palm), Dextrose, Emulsifier (INS3220, INS491), Natural Flavouring Substance(Vanilla), Edible Vegetable Oil,Modified Starch (INS1422), Raising Agents (INS500, INS541(0, INS341(0), Dextrose, Emulsifiers and Stabilizers (INS471, INS410, INS415, INS466), Salt, Artificial Flavouring Substance (Vanilla CONTAINS PERMITTED FLAVOURING AND FOOD CONDITIONER",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904150501696",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

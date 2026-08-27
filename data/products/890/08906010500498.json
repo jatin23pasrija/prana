@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500498",
+  "barcode_printed": "8906010500498",
+  "barcode_format": "EAN-13",
+  "name": "balaji wafers tomato twist",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato (87%). Edible Vegetable Oil (Palmolein), Sugar, iodized Salt, Maltodextrin, Spices & Condiments (Chilli Powder, Cumin Powder, Clove Powder, Cinnamon), Dehydrated Vegetable Powder (Tomato (1%), Onion, Garlic), Acidity Regulator (INS 296, INS 330), Anticaking Agent (INS 551), Flavour Enhancer (INS 627, INS 631).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500498",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

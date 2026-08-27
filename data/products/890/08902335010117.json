@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08902335010117",
+  "barcode_printed": "8902335010117",
+  "barcode_format": "EAN-13",
+  "name": "Cream Rich Orange",
+  "brand": "ankit",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 453,
+        "protein_g": 6,
+        "carbohydrate_g": 78,
+        "sugars_g": 42,
+        "fat_g": 13
+      }
+    }
+  ],
+  "ingredients_raw": "FARINE DE BLÉ, SUCRE, HUILE VÉGÉTALE COMESTIBLE, SOLUTION DE SUCRE, L'AMIDON COMESTIBLE, SEL, POUDRES À LEVER [500 (m, 503 (0) ÉMULSIFIANTS (322 471), CORRECTEUR D'ACIDITE (30) ET CONDITIONEUR DE PATE (2z CONTIENT PERMISE COULEUR ALIMENTAIRES SYNTHÉTIQUES (110) ET AAJOUTÉ DES ARÔMES ARTIFICIELS (ORANGE, VANILLE) INGREDIENTES: FARINHA DE TRIGO, AÇÚCAR, ÓLEO VEGETAL COMESTÍVEL, AÇÚCAR LÍQUIDO, AMIDO COMESTÍVEL, SAL, LEVEDURAS [500 M, 503 (0), EMULSIONANTES (322.471), REGULADOR DE ACIDEZ (330) E CONDICIONADOR MASSA (223) CONTEM COR DE ALIMENTOS PERMITIDOS SINTÉTICO (110) E ACRESCENTOU SABORES ARTIFICIAIS (LARANJA, BAUNILHA). INGREDENTES: HARINA DE TRIGO, AZÚCAR ACEITE VEGETAL COMESTIBLE, AZÚCAR LÍQUIDO, ALMIDÓN COMESTIBLE, SAL GASIFICANTES (500 (m, 503 OL EMULGENTES (322471), REGULADOR DE ACDEZ (330) Y ACONDICIONADOR DE LA PASTA 22m",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902335010117",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

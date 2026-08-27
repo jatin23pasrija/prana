@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001017206",
+  "barcode_printed": "8908001017206",
+  "barcode_format": "EAN-13",
+  "name": "Cornitos nacho crisps",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Corn (70%), Edible Vegetable Oil (Corn Oil), Sugar, lodized Salt, Spices and Condiments (Onion, Garlic, Jalapeno (0.4%), Ginger, Green Chilli, Parsley), Corn Starch, Milk Solids (Skim Milk Powder, Whey Powder), Soya Sauce powder, Acidity Regulator (INS 296), Anticak - ing Agent (INS 551), Flavour Enhancer (INS 627, INS 631) CONTAINS SOYA AND MILK PRODUCTS CONTAINS ADDED FLAVOURS, NATURAL AND NATURE IDENTIC (JALAPENO) NET QUANTITY: BATCH NO. DATE OF MFG : 150g PH14SJD 14 AUG 2025 USE BY 13 AUG 2026 MRP R INCLUSIVE OF ALL TAXES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001017206",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

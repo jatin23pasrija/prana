@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08904221694784",
+  "barcode_printed": "8904221694784",
+  "barcode_format": "EAN-13",
+  "name": "Atom Whey Protein Creamy Strawberry",
+  "brand": "as-it-is",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 scoop (36 g)",
+        "quantity": {
+          "value": 36,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 136,
+        "protein_g": 27,
+        "carbohydrate_g": 4.7,
+        "fat_g": 1,
+        "saturated_fat_g": 0.6
+      }
+    }
+  ],
+  "ingredients_raw": "WITH PROBIOTIC BLEND L-VALINE L-LYSINE AMINO ACID PROFILE PER SERVING IN GRAMS L-THREONINE 2.8 1.5 HIGH BIOLOGICAL VALUE DELIGHT YOURSELF L-METHIONINE L-PHENYLALANINE 0.8 L-TRYPTOPHAN 0.5 L-HISTIDINE 0.5 BCAA (Branched Chain Amino Acid) 5.8 NO ADDED SUGAR AUTHENTICATE WITH QR CODE & SCRATCH CODE EAA (Essential Amino Acid) 12.5 L-ARGININE 0.8 L-ASPARTIC ACID 2.8 L-CYSTEINE 0.4 L-ALANINE L-GLYCINE 1.4 0.5 15 1.3 0.8 ATOM Whey Protein comes with a power-packed combination of Whey Protein Isolate & Whey Protein Concentrate blended with DigeZyme & Probiotic Blend that makes it easy to digest & gentle on gut. The lip-smacking flavours make the overall experience of consuming whey a delightful one. Warning: Not intended for use by pregnant or lactating women. If you are on any medication, consult your doctor before use. Avoid this if you are allergic. Discontinue use and consult your doctor or health care professional if any adverse reaction occurs. Duration of Use: Consume at your discretion or as suggested by your healthcare professional CONTAINS NON-CALORIC SWEETENER FOR CALORIE CONSCIOUS | CONTAINS SUCRALOSE ALLERGEN INFORMATION: CONTAINS MILK & MILK PRODUCTS, MANUFACTURED IN A FACILITY THAT ALSO PROCESS SOY PRODUCTS Keep in cool & dark place, away from direct sunlight, once open",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904221694784",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

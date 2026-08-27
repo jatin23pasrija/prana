@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08907459000587",
+  "barcode_printed": "8907459000587",
+  "barcode_format": "EAN-13",
+  "name": "Kopiko",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 161,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Liquid Glucose, Sugar Edible Vegetable Oil (Palm Butter (2%), Milk Solids (0.8%), Coffee Extract (0.5%), Edible Common Salt (iodized), Emulsifier (Soy Lecithin-322(1), Natura Food Colours (E150d), Artificial Flavours (Vanille, Milk, Coffee) Allergen information: Contains Milk. Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907459000587",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

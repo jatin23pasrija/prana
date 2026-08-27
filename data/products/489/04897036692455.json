@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "04897036692455",
+  "barcode_printed": "4897036692455",
+  "barcode_format": "EAN-13",
+  "name": "Monster Energy Ultra",
+  "brand": "monster",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, ACIDITY REGULATORS (CITRIC ACID PRESERVATIVES (SORBIC ACID, BENZOIC ACID), SWEETENERS (SUCRALISE ROMIAN CITRATE), ERYTHRITOL, TAURINE (400 mg/100ml), FLAVORS (0) MATURE-IDENTICAL & ARTIFICIAL (CITRUS FRUIT FLAVORING SUBSTANCES ACESULFAME POTASSIUM), CAFFEINE 30mg/100ml (300ppm), VITAMINS (05, B3, B6, B12), D-GLUCURONOLACTONE, INOSITOL (2 mg/100ml),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4897036692455",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

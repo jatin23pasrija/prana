@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725004682",
+  "barcode_printed": "8901725004682",
+  "barcode_format": "EAN-13",
+  "name": "farmlite oats & chocolate Cookies",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 484,
+        "protein_g": 11,
+        "carbohydrate_g": 63.6,
+        "sugars_g": 26.2,
+        "fat_g": 21.6,
+        "saturated_fat_g": 10.1,
+        "trans_fat_g": 0,
+        "fibre_g": 4.6,
+        "sodium_mg": 248.8
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat flour (Atta) (31.3%), Oat flakes (20.3%), Sugar, Refined palm oil, Plain chocolate chips (6.2%) {Sugar, Cocoa solids, Cocoa butter, Dextrose, Emulsifier [Lecithin (from soybean)], Natural flavours and natural flavouring substances}, Liquid glucose, Invert syrup, Raising agents [INS 503 (ii), INS 500(ii), INS 450(i)], Cocoa solids (1.4%), Almond (1.4%), Maltodextrin, lodized salt, Artificial flavouring substances (Milk, Vanilla) and Emulsifier [Lecithin (from Soyabean)] CONTAINS WHEAT, OATS, MILK, SOY, NUT. MAY CONTAIN SULPHITE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725004682",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725135485",
+  "barcode_printed": "8901725135485",
+  "barcode_format": "EAN-13",
+  "name": "Mom's Magic",
+  "brand": "sunfeast",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 499,
+        "protein_g": 8.1,
+        "carbohydrate_g": 65.1,
+        "sugars_g": 23.9,
+        "fat_g": 22.9,
+        "saturated_fat_g": 13.9,
+        "sodium_mg": 40
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725135485",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

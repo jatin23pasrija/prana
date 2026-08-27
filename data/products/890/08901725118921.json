@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725118921",
+  "barcode_printed": "8901725118921",
+  "barcode_format": "EAN-13",
+  "name": "tedha medha",
+  "brand": "bingo",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 541,
+        "energy_kj": 2263.5,
+        "protein_g": 6.9,
+        "carbohydrate_g": 55.9,
+        "sugars_g": 1.8,
+        "fat_g": 32.8,
+        "saturated_fat_g": 14.8,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "CEREALS AND PULSES MIX {RICE GRITS, DEGERMED CORN GRITS, BENGAL GRAM GRITS, PEA GRITS), *EDIBLE VEGETABLE OIL AND SEASONING {ONION POWDER, SPICES AND CONDIMENTS, IODIZED SALT, MALTODEXTRIN, BLACK SALT FLAVOUR ENHANCERS (508, 635), ACIDITY REGULATORS (MALIC ACID, CITRIC ACID, TARTARIC ACID), TOMATO POWDER, SUGAR, HYDROLYZED VEGETABLE PROTEIN, GARLIC POWDER, NATURE IDENTICAL FLAVOURING SUBSTANCES AND NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES}. *TO KNOW THE SPECIFIC TYPE OF OIL USED, MATCH THE SYMBOL (^ OR AA WITH THE LAST CHARACTER OF BATCH NUMBER WHEREIN A DENOTES REFINED PALMOLEIN AND AA DENOTES REFINED RICE BRAN OIL. USED AS FLAVOURING AGENTS. CONTAINS SOY. MAY CONTAIN MILK, WHEAT, BARLEY. es DO NOT BUY THIS PACK IF FOUND TAMPERED WITH.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725118921",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

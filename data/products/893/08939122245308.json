@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08939122245308",
+  "barcode_printed": "8939122245308",
+  "barcode_format": "EAN-13",
+  "name": "Whey Max",
+  "brand": "naturaltien",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (38 g)",
+        "quantity": {
+          "value": 38,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 146,
+        "protein_g": 24,
+        "carbohydrate_g": 8.26,
+        "sugars_g": 4.01,
+        "fat_g": 1.9,
+        "saturated_fat_g": 1.14,
+        "fibre_g": 1.72,
+        "sodium_mg": 69.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939122245308",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

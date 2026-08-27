@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043553085",
+  "barcode_printed": "8904043553085",
+  "barcode_format": "EAN-13",
+  "name": "Wow Pav",
+  "brand": "modern",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 261,
+        "protein_g": 9.5,
+        "carbohydrate_g": 48.9,
+        "sugars_g": 2.8,
+        "fat_g": 2.98,
+        "saturated_fat_g": 2.17,
+        "fibre_g": 0,
+        "sodium_mg": 442
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Fat (Interesterified), Yeast, lodized Salt, Gluten, Soya Flour, Preservative (282), Emulsifier (471), Acidity Regulator (260), Flour Treatment Agents (510, 1100(i)) and Antioxidant (300)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043553085",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

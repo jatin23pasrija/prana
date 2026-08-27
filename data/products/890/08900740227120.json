@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08900740227120",
+  "barcode_printed": "8900740227120",
+  "barcode_format": "EAN-13",
+  "name": "ISO Gold Whey Protein Isolate",
+  "brand": "one-science-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 112,
+        "energy_kj": 467,
+        "protein_g": 27,
+        "carbohydrate_g": 0.5,
+        "sugars_g": 0.4,
+        "fat_g": 0.3,
+        "saturated_fat_g": 0.2,
+        "sodium_mg": 100
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Blend (93%) (Whey Protein Isolate, Whey Protein Hydrolysatel Emulsifier Sunflower Lecithin, Fat-reduced Cocoa Powder, Flavor (Chocolate), Thickeners (Carrageenan Xanthan), Sodium Chloride, Sweeteners (Sucralose, Acesulfame K), Emulsifier (Refined Coconut Oil Contains added flavours.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8900740227120",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

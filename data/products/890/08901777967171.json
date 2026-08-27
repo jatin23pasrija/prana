@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777967171",
+  "barcode_printed": "8901777967171",
+  "barcode_format": "EAN-13",
+  "name": "Premium Kesar Pista Kulfi",
+  "brand": "vadilal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk, Cane Sugar, Milk Fat, Non Fat Milk, Water, Pistachio (4%), Cardamom Powder (0.05%), Saffron (0.02%), Mono & Diglycerides of Fatty Acids (E471), Guar Gum (E412), Sodium Carboxymethyl Cellulose (E466), Carrageenan (E407), FD&C Yellow No.5 (E102), Natural Saffron Flavor",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777967171",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}
