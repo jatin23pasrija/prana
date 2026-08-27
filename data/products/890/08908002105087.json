@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002105087",
+  "barcode_printed": "8908002105087",
+  "barcode_format": "EAN-13",
+  "name": "Milk White Bread",
+  "brand": "bakes-fresh",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 297,
+        "protein_g": 9.47,
+        "carbohydrate_g": 52.34,
+        "sugars_g": 5.6,
+        "fat_g": 5.4,
+        "saturated_fat_g": 3.2,
+        "fibre_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour, Milk Powder, Fresh Yeast, Sugar, Salt (lodised), Gluten, Class II preservative (282), Emulsifier (471 e), Improver (1100); Anti oxidants (300), Acidity Regulator (INS260), Edible Vegetable Oil (Palm Oil)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002105087",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004400762",
+  "barcode_printed": "8904004400762",
+  "barcode_format": "EAN-13",
+  "name": "Haldirams Alu Bhujia",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 175,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato, Refined Palmolein Oil, Bengal Gram Flour (Besan), Potato Flakes, Potato Starch, Tapioca Starch, Tapary Beans (Moth Dal) Flour, iodised Salt,Red Chilli Powder, Black Salt, Acidity Regulator (INS 330), Black Pepper, Clove, Cardamom, Dried Ginger Powder, Dried Garlic Powder, Refined Sugar, Cumin Powder, Bay Leaves, Nutmeg, Cinnamon and Mint Leaves",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004400762",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

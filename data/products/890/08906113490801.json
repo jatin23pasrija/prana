@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906113490801",
+  "barcode_printed": "8906113490801",
+  "barcode_format": "EAN-13",
+  "name": "Masala Oats and Millets",
+  "brand": "tata-soulfull",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 400,
+        "protein_g": 11.3,
+        "carbohydrate_g": 64.6,
+        "sugars_g": 6.3,
+        "fat_g": 10.4,
+        "saturated_fat_g": 4.1,
+        "fibre_g": 10.8,
+        "sodium_mg": 1900
+      }
+    }
+  ],
+  "ingredients_raw": "Rolled Oats (50%), Foxtail Millet (Navane) (20%), Mixed Masala Powder (20%) (Maltodextrin, lodised Salt, Mixed Spices, Refined Sugar), Natural Flavor, Hydrolyzed Vegetable Protein, Anticaking Agent(INS 551),Stabilizer (INS 414), Nature-Identical Flavor Substances, Flavor Enhancers (INS 627, INS 631)), Jowar (5%) Dried Vegetables (Carrots-1.2%, Onion-0.8%, Peas-0.6%), Palm oil, Dried Coriander Leaves (0.2%), Antioxidant (INS 320)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906113490801",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

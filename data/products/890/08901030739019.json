@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030739019",
+  "barcode_printed": "8901030739019",
+  "barcode_format": "EAN-13",
+  "name": "Magnum Chocolate Truffle",
+  "brand": "unilever",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 62,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 184,
+        "protein_g": 2.5,
+        "carbohydrate_g": 17,
+        "sugars_g": 14.1,
+        "fat_g": 12.1,
+        "saturated_fat_g": 7.7,
+        "trans_fat_g": 0.1,
+        "fibre_g": 1.6,
+        "sodium_mg": 35.56
+      }
+    }
+  ],
+  "ingredients_raw": "ICE CREAM: WATER, CHOCOLATE FLAVOURED CONFECTIONERY (18.41%) (WATER, SUGAR, LIQUID GLUCOSE, COCOA POWDER, MILK SOLIDS EDIBLE VEGETABLE FAT, CHOCOLATE, EMULSIFIER - E471, STABILISER - E410), MILK SOLIDS, SUGAR, COCOA SOLIDS, LIQUID GLUCOSE, EMULSIFIER - E471, STABILISERS - E410, E412 AND E407, NATURE IDENTICAL (CHOCOLATE) FLAVOURING SUBSTANCE, OUTER LAYER: MILK COMPOUND COATING (23.39%): SUGAR, COCOA BUTTER, MILK SOLIDS, COCOA SOLIDS, COCONUT OIL, EMULSIFIER E322 VANILLIN; MILK COVERING CHOCOLATE (7.80%): SUGAR, COCOA BUTTER, MILK SOLIDS, COCOA SOLIDS, EMULSIFIER-E322, VANILLIN",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030739019",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

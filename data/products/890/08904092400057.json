@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08904092400057",
+  "barcode_printed": "8904092400057",
+  "barcode_format": "EAN-13",
+  "name": "Kalory Brown Bread",
+  "brand": "kalory",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 260,
+        "energy_kj": 260,
+        "protein_g": 8,
+        "carbohydrate_g": 55,
+        "fat_g": 1,
+        "saturated_fat_g": 0.1,
+        "sodium_mg": 340
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour, Paustik Maida, Sugar, Salt, Drinking Water, Soya Flour, Refined Oil, Yeast, Permitted Class-II Preservatives & Improver.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904092400057",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

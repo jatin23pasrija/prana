@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010505448",
+  "barcode_printed": "8906010505448",
+  "barcode_format": "EAN-13",
+  "name": "Balaji wafers",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Shing Bhujia Spicy Coated Peanuts /8yl di,by 6lag J5a Arachides Enrobées Épicéés Amendoim Revestido Pcanta INGREDIENTS/GG9&aJl /INGRÉDIENTS /INGREDIENTES (EN) INGREDIENTS - Peanut (63%), Chickpea Flour (13%), Edible Vegptabe Corn Flour, Black Gram Flour, Spices & Condiments 2% (Chill, Black Pepper, Clove, CaromS Seeds, Tamarind). aremon salt, Acidity Regulator (E330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010505448",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906046145038",
+  "barcode_printed": "8906046145038",
+  "barcode_format": "EAN-13",
+  "name": "Chai masala organic spices mix",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 0,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Cinnamon, cardamom, ginger, clove, black pepper",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906046145038",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016029263",
+  "barcode_printed": "8908016029263",
+  "barcode_format": "EAN-13",
+  "name": "natkhat",
+  "brand": "crax",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 63,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 462,
+        "protein_g": 9.5,
+        "carbohydrate_g": 70,
+        "sugars_g": 2,
+        "fat_g": 16,
+        "saturated_fat_g": 7.3,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 1065
+      }
+    }
+  ],
+  "ingredients_raw": "Semolina (76%), Edible Vegetable Oil (Refined Palmolein Oill *Seasoning [lodised Salt, Amchur, Red Chilli, Cumin, Coriander, Kachari, Asafoetida, Black Pepper, Ginger, Clove, Mace, Nutmeg, Cinnamon, Mustard Seed, Mint Leaves, Black Cardamom, Acidity Regulator (INS 330), Flavour Enhancer (INS 635)], Wheat Bran, Flavour(s) (Natural & Nature Identical Flavouring Substances) &quot;Used as part of flavouring agent Contains Wheat May Contain Soy and Milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016029263",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001211891",
+  "barcode_printed": "8906001211891",
+  "barcode_format": "EAN-13",
+  "name": "Amla Candy",
+  "brand": "markfed-sohna",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Amla, Fruit, Sugar, Acidity Regulator Citric Acid(INS 330) , Preservative(INS-211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001211891",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

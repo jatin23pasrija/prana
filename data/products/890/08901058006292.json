@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058006292",
+  "barcode_printed": "8901058006292",
+  "barcode_format": "EAN-13",
+  "name": "2 - Minute Noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 384,
+        "protein_g": 8.2,
+        "carbohydrate_g": 59.6,
+        "sugars_g": 1.8,
+        "fat_g": 12.5,
+        "saturated_fat_g": 8.2,
+        "trans_fat_g": 0.13,
+        "sodium_mg": 1028.3
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles: Refined wheat flour (Maida), Palm oil, lodized salt, Wheat gluten, Thickeners (508 & 412), Acidity regulators (501 (i)&500 (i)) and Humectant (451(i)). Masala *TASTEMAKERⓇ: Mixed spices (25.6%) (Onion powder, Coriander powder, Turmeric powder, Red chilli powder, Garlic powder, Cumin powder, Aniseed powder, Ginger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder & Nutmeg powder), Refined wheat flour (Maida), Hydrolysed groundnut protein, Sugar, Palm oil, Starch, Iodized salt, Thickener (508), Flavour enhancer (635), Toasted onion flakes, Acidity regulator (330), Colour (150d), Mineral and Wheat gluten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058006292",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

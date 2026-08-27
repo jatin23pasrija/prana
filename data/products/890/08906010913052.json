@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010913052",
+  "barcode_printed": "8906010913052",
+  "barcode_format": "EAN-13",
+  "name": "Matka Kulfi",
+  "brand": "dairy-day",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk Solids, Water, Sugar, Almond (3%), Pista (3%), Emulsifier and Stabiliser (INS 471,412,433,407,401) CONTAINS ADDED FLAVOUR - NATURE IDENTICAL AND ARTIFICIAL KULFI FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010913052",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

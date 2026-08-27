@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080603358",
+  "barcode_printed": "8906080603358",
+  "barcode_format": "EAN-13",
+  "name": "Fruit And Nuts Supermix",
+  "brand": "paper-boat",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 434,
+        "protein_g": 14,
+        "carbohydrate_g": 36,
+        "sugars_g": 27,
+        "fat_g": 26,
+        "saturated_fat_g": 3.6,
+        "fibre_g": 4.3,
+        "sodium_mg": 5.2
+      }
+    }
+  ],
+  "ingredients_raw": "DRY FRUITS 40% (ALMONDS AND CASHEWS), DEHYDRATED CRANBERRY (25%), PUMPKIN SEEDS AND CANDIED AMLA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080603358",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

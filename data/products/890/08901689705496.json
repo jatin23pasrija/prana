@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08901689705496",
+  "barcode_printed": "8901689705496",
+  "barcode_format": "EAN-13",
+  "name": "Armella's Strawberry Jam",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 301.76,
+        "protein_g": 0.86,
+        "carbohydrate_g": 73.16,
+        "sugars_g": 72.95,
+        "fat_g": 0.71,
+        "saturated_fat_g": 0.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901689705496",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

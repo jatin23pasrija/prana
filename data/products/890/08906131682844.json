@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131682844",
+  "barcode_printed": "8906131682844",
+  "barcode_format": "EAN-13",
+  "name": "Slurrp Farm Choco Crunch",
+  "brand": "slurrp-farm",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28g",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 83.9,
+        "protein_g": 1.5,
+        "carbohydrate_g": 18,
+        "sugars_g": 6.4,
+        "fat_g": 1,
+        "saturated_fat_g": 0.2,
+        "fibre_g": 1.4,
+        "sodium_mg": 2
+      }
+    }
+  ],
+  "ingredients_raw": "Multigrain flour blend [jowar, ragi, rice] (34%), raw unrefined sugar (23%), corn (18%), cocoa (6%), rice bran oil, nature-identical flavour, rosemary.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131682844",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906140521103",
+  "barcode_printed": "8906140521103",
+  "barcode_format": "EAN-13",
+  "name": "Jackfruit",
+  "brand": "mercely-s-ice-cream",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 195,
+        "protein_g": 3.5,
+        "carbohydrate_g": 24,
+        "sugars_g": 21,
+        "fat_g": 10,
+        "saturated_fat_g": 6.5,
+        "trans_fat_g": 0.25,
+        "fibre_g": 3,
+        "sodium_mg": 20
+      }
+    }
+  ],
+  "ingredients_raw": "1) Icecream-80% [Milk, Sugar, Milk Fat, Skim milk powder, Fructooligosaccharide, Emulsifiers and Stabilizers (E471-VEGETABLE SOURCE, E466, E415, E412, E407, E405), Probiotic culture (Bacillus coagulans SNZ 1969), Paprika extract, Turmeric extract] ii) Jackfruit pulp preparation-20% [Jackfruit pulp, sugar]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906140521103",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

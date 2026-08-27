@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908022418037",
+  "barcode_printed": "8908022418037",
+  "barcode_format": "EAN-13",
+  "name": "Egg Whites",
+  "brand": "yellows-and-whites",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 56.7,
+        "protein_g": 12.5,
+        "carbohydrate_g": 0.7,
+        "fat_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908022418037",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

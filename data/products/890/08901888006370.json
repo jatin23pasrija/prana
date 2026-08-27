@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901888006370",
+  "barcode_printed": "8901888006370",
+  "barcode_format": "EAN-13",
+  "name": "Real Orange Fruit juice",
+  "brand": "real",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Sugar, Concentrated Orange Juice (6.45%). Acidity Regulator (INS 330), lodized Salt, Flavours (Natural and Nature Identical Flavouring Substances), Stabilizer (INS 466). Antioxidant (INS 300) and Colour [INS 160a (iii)]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901888006370",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

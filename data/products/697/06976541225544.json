@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "06976541225544",
+  "barcode_printed": "6976541225544",
+  "barcode_format": "EAN-13",
+  "name": "Watermelon chewy fruit candy",
+  "brand": "juice-drop",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SUGAR, GLUCOSE SYRUP,COCONUTCREAMER,COCONUT SORBITAN MONOLAURATE, CARRAGEENAN, GUM ARABIC, CREAM OF TARTAR, CARNAUBA WAX, VEGETABLE OIL(PALM), STABILIZER(E3401), ANTICAKING AGENT (E551), CONTAINS PERMITTED ARTIFICIAL FOOD COLOUR(S) ARTIFICIAL FLAVOUR(S)(WATERMALON) NET WEIGHT:16G PRODUCTION DATE: 15/07/2025 EXPIRY DATE:14/07/2027 BATCH NO:MC20250715 MANUFACTURED BY:HENAN MACKENDY FOOD CO.,LTD ADDRESS:NO.001,XINGYE AVENUE, YOUHE OFFICE,XIXIAN ADVANCED, HENAN PROVINCE.CHINA NOT CONTAINING FRUITS.PHOTOS ON THE PACK ILLUSTRATION PURPOSE ONLY KEEP AND STORE COOL DRY PLACE AND AVOID DIRECT SUNLIGHT MADE IN PRC",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6976541225544",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

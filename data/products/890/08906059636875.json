@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059636875",
+  "barcode_printed": "8906059636875",
+  "barcode_format": "EAN-13",
+  "name": "Fruit Yoghurt Alphonso Mango",
+  "brand": "epigamia",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Yogurt (Pasteurized Double Toned Milk, Milk Solids, Stabilizer (Pectin (INS 440)), Permitted Lactic Acid Culture), Processed Alphonso Mango Pulp (**Alphonso Mango Puree, Sugar, Water), Total Fruit Content**14% Active Cultures: S. Thermophilus, L. Bacillus delimack subsp. Bulgaricus Contains Probiotic: Bifidobacterium lactis 10/8 phu per serve (75g) per day.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059636875",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

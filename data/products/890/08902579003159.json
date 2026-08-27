@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579003159",
+  "barcode_printed": "8902579003159",
+  "barcode_format": "EAN-13",
+  "name": "Dhisoom",
+  "brand": "parle-agro",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, CARBON ANG AGENT (INS 290), TURE IDENTICAL FLAVOURING SUBSTANCE (JEERA MASALA), (INS-INTERNATIONAL NUMBERING SYSTEM) LACK SALT, PRESERVATIVE (INS 211 NUTRITIONAL INEO SERVING SERVE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579003159",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005666826",
+  "barcode_printed": "8906005666826",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Vermicelli",
+  "brand": "narasu-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "90 g",
+        "quantity": {
+          "value": 90,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 306.9,
+        "energy_kj": 1285,
+        "protein_g": 10.9,
+        "carbohydrate_g": 62.5,
+        "sugars_g": 0,
+        "fat_g": 1.5,
+        "saturated_fat_g": 0.45,
+        "trans_fat_g": 0,
+        "sodium_mg": 18
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005666826",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

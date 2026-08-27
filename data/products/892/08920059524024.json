@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08920059524024",
+  "barcode_printed": "8920059524024",
+  "barcode_format": "EAN-13",
+  "name": "CRISHLEY’S",
+  "brand": "nutty-dryfruit-toffee",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "LIQUID GLUCOSE SUGAR WHOLE MELK POWDER HIDROGENATED VEGETABLE OILE USED TRANS FAT, 100GED SALT & EMULSIFIERS (SOYA LECITHIN (-47) CONTAINS NATURAL GENTICAL FLAVOURING (COCONUT FLAVOURED) SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8920059524024",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

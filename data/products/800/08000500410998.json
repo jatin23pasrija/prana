@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08000500410998",
+  "barcode_printed": "8000500410998",
+  "barcode_format": "EAN-13",
+  "name": "Tic Tac Mint",
+  "brand": "tic-tac",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 13,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "LNI W 3RD 20 000 20 OR ON Bot Proprietary food-Harry (0.2.1) INGREDIENTS SUGAR, MALTA RICE STARCH, THICKENER (INS 414), FRUCTOSE, FLAVOURS NATURAL FLAVOURS AND FLAVOURING SUBSTANCES, NATURE-IDENTICAL FLAVOURING SUBSTANCES AND ARTIFICIAL FLAVOURING SUBSTANCE-ETHYLVANILLIN ANTICAKING AGENT (INS 4700), GLAZING AGENT (INS 903) NUTRITIONAL INFORMATION Per 100 g: Energy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8000500410998",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

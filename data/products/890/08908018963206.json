@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08908018963206",
+  "barcode_printed": "8908018963206",
+  "barcode_format": "EAN-13",
+  "name": "Lite Chiwda",
+  "brand": "babu",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 595,
+        "protein_g": 6.1,
+        "carbohydrate_g": 50,
+        "sugars_g": 2.2,
+        "fat_g": 40.8,
+        "saturated_fat_g": 8.86,
+        "fibre_g": 3.38,
+        "sodium_mg": 630
+      }
+    }
+  ],
+  "ingredients_raw": "Riceflakes, Refined Groundnut Oil, Sugar, Vanaspati, Gram Flour, Asafoetida, Dry Mango Powder, Iodised Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908018963206",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

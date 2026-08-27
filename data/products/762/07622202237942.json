@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202237942",
+  "barcode_printed": "7622202237942",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury dairy milk",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 12.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 526,
+        "protein_g": 6.8,
+        "carbohydrate_g": 62.6,
+        "sugars_g": 58.8,
+        "fat_g": 28,
+        "saturated_fat_g": 18.6,
+        "trans_fat_g": 0,
+        "sodium_mg": 107
+      }
+    }
+  ],
+  "ingredients_raw": "Chocolate grements: Sugar, Cocoa Butner, Milk Solids (19%*) Cocoa solids, Emulsifiers (442. 476), Flavours (Natural Nature Identical and Arofical (Caramel and Vanilla flavouring) Schstances) Allergen Information: Contains Milk, Sulphite May Contain Tree Nuts, Wheat, Barley and Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202237942",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

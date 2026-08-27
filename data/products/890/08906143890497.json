@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906143890497",
+  "barcode_printed": "8906143890497",
+  "barcode_format": "EAN-13",
+  "name": "The Whole Truth Almond Raisin Dark Chocolate",
+  "brand": "the-whole-truth",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 547.9,
+        "protein_g": 7.9,
+        "carbohydrate_g": 52,
+        "sugars_g": 32.8,
+        "fat_g": 34.3,
+        "saturated_fat_g": 20.8,
+        "fibre_g": 8.2,
+        "sodium_mg": 9.4
+      }
+    }
+  ],
+  "ingredients_raw": "47% COCOA, 38% DATES, ALMONDS 15%, RAISINS 15%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906143890497",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

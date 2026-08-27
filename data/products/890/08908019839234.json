@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019839234",
+  "barcode_printed": "8908019839234",
+  "barcode_format": "EAN-13",
+  "name": "Pistachio Praline Brittle",
+  "brand": "cacao",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 585.77,
+        "protein_g": 13.43,
+        "carbohydrate_g": 43.86,
+        "sugars_g": 27.43,
+        "fat_g": 39.62,
+        "saturated_fat_g": 12.74,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 76.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019839234",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

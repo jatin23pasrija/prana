@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014841058",
+  "barcode_printed": "8908014841058",
+  "barcode_format": "EAN-13",
+  "name": "Cream Chese Herbs",
+  "brand": "spotted-cow",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 226.16,
+        "protein_g": 8.87,
+        "carbohydrate_g": 10.67,
+        "fat_g": 16,
+        "saturated_fat_g": 12.24,
+        "sodium_mg": 7.36
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014841058",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

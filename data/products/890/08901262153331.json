@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262153331",
+  "barcode_printed": "8901262153331",
+  "barcode_format": "EAN-13",
+  "name": "Amul Protein Blueberry Shake",
+  "brand": "amul",
+  "category": "milk",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk solids, water, sweetener (965, 960), blueberry fruit preparation (3.5%) [blueberry fruit, water, nature identical flavouring substances, stabilizer (440), acidity regulator (330), colours (133, 122)], acidity regulator (330), stabilizers (440, 418), artificial flavouring substances (blueberry).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262153331",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

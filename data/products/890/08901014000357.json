@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014000357",
+  "barcode_printed": "8901014000357",
+  "barcode_format": "EAN-13",
+  "name": "Top Ramen Chettinad Chicken Curry",
+  "brand": "nissin",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 450.3,
+        "protein_g": 9.65,
+        "carbohydrate_g": 65.82,
+        "sugars_g": 1.35,
+        "fat_g": 15.51,
+        "saturated_fat_g": 9.1,
+        "sodium_mg": 711.8
+      }
+    }
+  ],
+  "ingredients_raw": "NOODLES (85%): Refined Wheat Flour (Maida), Edible Vegetable oil (Palm Oil), lodised Salt, Acidity Regulators [INS 500(i) & INS 451(i)], Thickener (INS 412) & Antioxidant (INS 319). SEASONING MIX (15%): Noodle Powder {Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), lodised Salt, Acidity Regulators [INS 500(i) & INS 451(i)], Thickener (INS 412) & Antioxidant (INS 319)}, lodised Salt, Com Starch, Mixed Spices 9.94% (Red Chilli, Coriander Turmeric, Fennel, Cumin, Black Pepper, Ginger, Stone Flower, Star Anise, Fenugreek, Cinnamon Green Cardamom & Clove), Onion Powde Hydrolysed Vegetable Protein Powder (Soya) Flavours (Natural & Nature Identical), Sugar Coconut Powder, Tomato Powder, Dried Chicken Powder, Milk Solids, Garlic Powder, Edible Vegetable Oil (Palm Oil & Coconut Oil), Yeast Extract Powder Chicken Bits, Colours [INS 150d & INS 1600 Thickener (INS 412), Flavour Enhancers (INS 631&/ INS 627), Curry Leaves, Acidity Regulator (INS 330) ALLERGEN INFORMATION: CONTAINS WHEAT & Green Coriander Leaves. SOY&MILK Mid. by: INDO NISSIN FOODS PVT. LTD. No. 1102, 11th Floor, Raheja Towers, West Wing MG Ro Issai 10 0 for 30 seco Stir w N gravy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014000357",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

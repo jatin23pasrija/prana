@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009532837",
+  "barcode_printed": "8906009532837",
+  "barcode_format": "EAN-13",
+  "name": "Max protein (7 grain protein snack)",
+  "brand": "ritebite",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (60 g)",
+        "quantity": {
+          "value": 60,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 286,
+        "protein_g": 10,
+        "carbohydrate_g": 29.4,
+        "sugars_g": 1.8,
+        "fat_g": 14,
+        "saturated_fat_g": 2.7,
+        "fibre_g": 4,
+        "sodium_mg": 500
+      }
+    }
+  ],
+  "ingredients_raw": "Millets & Pulses Blend Flour (55%), (Jowar/Sorghum, Chickpeas, Quinoa, Oats, Ragi, Soy, Urad), Rice Bran Oil, Soy Protein Isolate, Dietary Fiber, Chinese Manchurian Seasoning [Sugar, lodized Salt, Garlic Powder, Mixed Spices (Chilli, Ginger, Bell Pepper, Black Pepper, Celery), Onion powder, Soy Sauce Powder, Hydrolyzed Vegetable Protein (Soy), Anticaking Agent (E551), Yeast extract powder, Flavour Enhancer (E627, 631). Permitted Nature And Natural Identical Flavouring Substances] Black Pepper, Salt. Allergen Declaration: Contains Soy & Cereals",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009532837",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

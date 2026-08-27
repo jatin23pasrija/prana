@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906125300457",
+  "barcode_printed": "8906125300457",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Almond Choco filled Waffle Cone",
+  "brand": "choco-blast",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Choco Paste: (Sugar, Refined Vegetable (Palm) Oil, Skimmed Milk Powder (14%), Cocoa Powder (10%), Milk Fat, Emulsifier (INS 442, INS 476).) Biscuit Cone: (Refined Wheat Flour (Maida), Sugar, Corn Starch, Refined Vegetable (Palm) Oil, Emulsifier (INS 322), Salt & Caramel Color (INS 150C)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906125300457",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262178075",
+  "barcode_printed": "8901262178075",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Magic Sundae",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 267,
+        "protein_g": 3.5,
+        "carbohydrate_g": 27.3,
+        "sugars_g": 26.5,
+        "fat_g": 16.2,
+        "saturated_fat_g": 11.1,
+        "trans_fat_g": 0.4,
+        "sodium_mg": 44
+      }
+    }
+  ],
+  "ingredients_raw": "Ice Cream (78%) - Milk solids, sugar, emulsifier (471), stabilizers (407, 466, 415, 412), artificial flavouring substances (vanilla). Chocolate Topping (22%)-( cocoa solids, coconut oil, chocolate ripple [water, sugar, dextrose, cocoa solids, stabilizer (440)], milk chocolate chips (1.5%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262178075",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

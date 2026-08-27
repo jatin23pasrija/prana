@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335600756",
+  "barcode_printed": "8904335600756",
+  "barcode_format": "EAN-13",
+  "name": "Yoga bar oats dark chocolate",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 413,
+        "protein_g": 11.2,
+        "carbohydrate_g": 67.6,
+        "sugars_g": 18.1,
+        "fat_g": 10.9,
+        "saturated_fat_g": 2.6,
+        "fibre_g": 10,
+        "sodium_mg": 59.2
+      }
+    }
+  ],
+  "ingredients_raw": "Oats 52%, Seeds & Dry Fruits 11% (Chia Seeds, Pumpkin, Black Raisins). Raw Sugar, Cocoa Powder, Dehydrated Dates Powder, Rice Bran Oil, Himalayan Pink Salt. Contains Added Natural Flavour: Rosemary Extract, Chocolate. Commodity: 6.3 Breakfast Cereal (Proprietary Food) Allergen Advice: CONTAINS OATS, which are processed in a plant where products containing gluten are manufactured.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335600756",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906023414805",
+  "barcode_printed": "8906023414805",
+  "barcode_format": "EAN-13",
+  "name": "Caremel Butterscotch",
+  "brand": "cream-bell",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Sugar, Milk Sollds, Edible (Refined Palm Oil), Chikki (8%) (Sugar, Cashew Nut, Wheat Crunch), Caramel Sauce (4.5%) (Sugar, Milk Solids, Water, Permitted Stabilizing Agents (INS 407, 412, 466)), Maltodextrin, Permitted Emulsifying Agents (INS 433, 471) & Stabilizing Agents (INS 407,410,412, 466), Permitted Synthetic Food Colour (INS 102) and Flavour (Nature Identical & Artificial Flavouring Substances (Butterscotch)].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906023414805",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

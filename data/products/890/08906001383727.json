@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001383727",
+  "barcode_printed": "8906001383727",
+  "barcode_format": "EAN-13",
+  "name": "Coconut Cookies",
+  "brand": "cremica",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EDIBLE VEGETABLE OIL (PALM), INVERT SYRUP, DESICCATED COCONUT POWDER (1.4%), STARCH, RAISING AGENTS [INS 503 (ii), INS 500(ii)]. IODISED SALT, EMULSIFIERS (INS 322, INS 471), MILK SOLIDS, DOUGH CONDITIONER (INS 223), ARTIFICIAL FLAVOURING SUBSTANCES (COCONUT & VANILLA), ACIDITY REGULATOR [INS 450(i)].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001383727",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

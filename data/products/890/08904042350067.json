@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904042350067",
+  "barcode_printed": "8904042350067",
+  "barcode_format": "EAN-13",
+  "name": "Dubai Kunafa Cheese Cake",
+  "brand": "ditch-the-guilt",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 437.7,
+        "protein_g": 30.7,
+        "carbohydrate_g": 2.8,
+        "sugars_g": 0.8,
+        "fat_g": 34.7,
+        "saturated_fat_g": 18.7,
+        "trans_fat_g": 0,
+        "fibre_g": 1,
+        "sodium_mg": 10
+      }
+    }
+  ],
+  "ingredients_raw": "Cocoa Butter, Cocoa Butter Equivalent, Maltitol, Erythritol, Whey Protein, Pea Protein, Vermicellin, Pistachio, Wheat Flour, Coconut Oil, Vanilla Pod, Monk Fruit",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904042350067",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

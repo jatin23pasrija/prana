@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363003744",
+  "barcode_printed": "8903363003744",
+  "barcode_format": "EAN-13",
+  "name": "Rava",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "protein",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363003744",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

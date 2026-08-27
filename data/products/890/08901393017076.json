@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393017076",
+  "barcode_printed": "8901393017076",
+  "barcode_format": "EAN-13",
+  "name": "Chupa chups belt",
+  "brand": "perfetti",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "glucose syrup, sugar, wheat flour, invert sugar, acids (malic ac (e296) (1,7%), citric acid (, 'su) (0,9%)), hydrogenated coconut oil, nature identical fruit flavour, hydrogenat sunflower oil, colours (riboflavin (e101) (0,003%), carmine (e120) (0,002%), brilliant blue fcf (e133) (0,0029 beta-carotene (e160a) (0,0002%)), can cause hypersensitivity, store in a cool and dry place, keep awa from direct sunlight, راب الجلوكوز، سكر، دقيق القمح، سكر محول، محمضات: حمض التفاح )اي۲۹٦()1،٧٪(، حمض الليمون )اي۳۳۰()۰،۹٪(، زیت طابقة ل لطبيعية، زيت دوار الشمس المهدرج، الوان: ريوفلافين )ای۱۰۱)(۳، ,,۰٪(، کرمين )اي۱۲۰()۰۰۲،٪(، ازرق لامع اف سي جزری )ای۱۶۰ ابه )۰۲ ۰ ۰،۰٪(, قد تسبب فرط في الحساسية, المواد المضافة لأغراض غدائية ضمن الحدود المسموح بها )ط ح ص(",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393017076",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

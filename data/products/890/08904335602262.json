@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335602262",
+  "barcode_printed": "8904335602262",
+  "barcode_format": "EAN-13",
+  "name": "Cornflakes+",
+  "brand": "yogabar",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 850,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 379,
+        "protein_g": 6.4,
+        "carbohydrate_g": 87.9,
+        "sugars_g": 10.5,
+        "fat_g": 0.3,
+        "saturated_fat_g": 0.1,
+        "fibre_g": 2.6,
+        "sodium_mg": 440
+      }
+    }
+  ],
+  "ingredients_raw": "Corn Grits (92%), Sugar, lodized Salt, Malt Extract, Soy Lecithin, Vitamin & Minerals Premix, Probiotics (Bacillus Coagulans, 100 million CFU Per Serving.) Contains Added Natural Flavour : Rosemary Extract.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335602262",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

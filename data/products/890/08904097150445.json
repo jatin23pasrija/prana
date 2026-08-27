@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904097150445",
+  "barcode_printed": "8904097150445",
+  "barcode_format": "EAN-13",
+  "name": "Eggless Cake Rusk",
+  "brand": "pankaj-s",
+  "category": "rusk",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR, BAKERY SHORTENING, EDIBLE VEGETABLE OIL (PALMOLEIN OIL), CANDIED FRUITS CUTS (9%), WHEY PROTEIN CONCENTRATE (5%), SKIMMED MILK POWDER, IODIZED SALT, RAISING AGENTS [INS 500 (ii), INS 341 (ii)) AND CLASS i PRESERVATIVE. CONTAINS ADDED PERMITTED NATURAL & SYNTHETIC FOOD En COLOURS (140, 127 AND ADDED ARTIFICIAL FLAVOURING Pro SUBSTANCE MIX FRUIT).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904097150445",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08903023305492",
+  "barcode_printed": "8903023305492",
+  "barcode_format": "EAN-13",
+  "name": "surja chana chips plain",
+  "brand": "surja",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 410.16,
+        "protein_g": 22.2,
+        "carbohydrate_g": 65.64,
+        "sugars_g": 1.22,
+        "fat_g": 6.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903023305492",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

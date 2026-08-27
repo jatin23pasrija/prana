@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08904067704951",
+  "barcode_printed": "8904067704951",
+  "barcode_format": "EAN-13",
+  "name": "Rajwadi Mix",
+  "brand": "jabsons",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.6 Cup (30 g)",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 160,
+        "protein_g": 3,
+        "carbohydrate_g": 16,
+        "sugars_g": 3,
+        "fat_g": 9,
+        "saturated_fat_g": 2,
+        "trans_fat_g": 0,
+        "fibre_g": 1,
+        "sodium_mg": 260
+      }
+    }
+  ],
+  "ingredients_raw": "NGREDIENTS : Corn Flakes （20%）， Rarimed Palmolein Oil, Bengal Gram Flour， Polaio （15%）， Raisin （15%）， Cashewnut （12%）， Rice Flour, Sugar， odized Salt, Dry Mango Powder, Cumin， Sorander, Curry Leaves （0.5%）， Clove， Shti Powder （0.3%）， Acidity regulator Ctric Acid）， Turmeric Extract， Sodium Copper Chlorophyllin. ALLERGY INFORMATION ： Contain Cashewnut",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904067704951",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

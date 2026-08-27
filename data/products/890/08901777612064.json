@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777612064",
+  "barcode_printed": "8901777612064",
+  "barcode_format": "EAN-13",
+  "name": "Coconut cookies",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 426.67,
+        "protein_g": 3.33,
+        "carbohydrate_g": 43.33,
+        "sugars_g": 20,
+        "fat_g": 26.67,
+        "saturated_fat_g": 20,
+        "fibre_g": 6.67
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777612064",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

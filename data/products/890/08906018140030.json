@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906018140030",
+  "barcode_printed": "8906018140030",
+  "barcode_format": "EAN-13",
+  "name": "Spring roll sheets",
+  "brand": "switz",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 550,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 281.6,
+        "protein_g": 9,
+        "carbohydrate_g": 59.7,
+        "sugars_g": 0,
+        "fat_g": 0.8,
+        "saturated_fat_g": 0.5,
+        "fibre_g": 0,
+        "sodium_mg": 40
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR (GLUTEN), WATER, CORN STARCH, SALT, EDIBLE VEGETABLE OIL, EMULSIFIER E322 (SOYA-BASED), PRESERVATIVE E282, EMULSIFIER E481+E471 (PALM VEGETABLE OIL).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906018140030",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

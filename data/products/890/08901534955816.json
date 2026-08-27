@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901534955816",
+  "barcode_printed": "8901534955816",
+  "barcode_format": "EAN-13",
+  "name": "Nilon's Imlee Tamarind Chutney",
+  "brand": "nilon-s",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 308,
+        "protein_g": 1,
+        "carbohydrate_g": 76,
+        "sugars_g": 47,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 400
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Tamarind Paste (22%), Water, Iodised Salt, Spices, Corn Starch and Preservative (INS 211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901534955816",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

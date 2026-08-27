@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906143891647",
+  "barcode_printed": "8906143891647",
+  "barcode_format": "EAN-13",
+  "name": "Cold Coffee Whey Protein Isolate + Concentrate",
+  "brand": "the-whole-truth",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whey protein blend 79.19 (sunflower lecithin) whey protein isolate..... 42.0% whey protein concentrate 37.1% dates..... 9.5% coffee .... 5.4% whole milk powder 5.3% bromelain 0.6% monk fruit... 0.1% So what EXACTLY is in this protein powder? Let's get into it! Sunflower lecithin + Bromelain + Monk fruit = less than 1% WHEY PROTEIN BLEND MILK DATES O COFFEE CLEANEST PROTEIN. EVER. We've partnered with Trunativ to source our whey protein from USA & Europe - from one of the largest, most credible whey manufacturers in the world. We blend this protein at an ISO, HACCP GMP and US FDA certified facility. And we test every batch for purity. We are also approved by Trustified, India's first and only 100% blind Brook Trunativ Mark of Good PROTEIN 90",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906143891647",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

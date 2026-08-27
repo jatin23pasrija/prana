@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063206343",
+  "barcode_printed": "8904063206343",
+  "barcode_format": "EAN-13",
+  "name": "DASHIN KERELA MIXTURE",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Chickpeas Flour (45%), Vegetable Oil (Palmolein), Rice Flour (12%), Peanuts (5%), Curry Leaves, Salt, Red Chilli Powder, Coriander Powder, Turmeric Powder, Black Pepper Powder, Cumin Powder, Ginger Powder, Aniseed Powder, Asafoetida, Clove Powder, Cardamom Powder, Cinnamon Powder, Nutmeg Powder and Acidity Regulator (Citric Acid Powder (E330)). Kryddig Blandning av Kikärtsmjöl Nudlar, Rismjölnudlar och Jordnötter INGREDIENSER: Kikärtsmjöl(45 %). Vegetabilisk olja (palmolein), Rismjöl(12%), Jordnötter(5%),Curryblad, Salt, Röd chilipulver, Korianderpulver, Gurkmejapulver, Svartpepparpulver, Kumminpulver, Ingefärapulver, Anispulver, Dyvelsträck, T Kryddnejlika, Kardemummapulver, Kanelpulver, Muskotpulver och surhetsreglerande medel(citronsyrapulver(E330)) Kryddad blandning av nudlar av kikärtsmjöl, Risrnjölsnudlar och Jordnotter Ingredienser: Kikärtsmjöl/ Kikärtsmel ( 45%), Vegetabilisk olja/ olie ( Palmolein/ olie), Rismjöl/Rismel (12%), Jordnötter/ Jordnødder (5%), Curryblad/ Karryblade, Salt, Rött Chilipulver, Korianderpulver, Gurkmeja, Svartpeppar, Kummin/ spidskommen, F Ingefära, Anisfrön, Dyvelsträck, Kryddnejlika/ nellike, Kardemumma, Kanel, Muskot och CSurhetsreglerande medel (Citronsyrepulver ( E330) F Kruidige mix van kikkererwten meeloedels, rijstmentnoedels en pinda's INGREDIENTEN: kikkererwtenmeel (45%), plantaar olje (Palmolein), rijstmeel (12%), pinda's (5%), currybladeren, zout, rode chilipe korianderpoeder, kurkumapoeder, zwarte peperpoeder, komijnpoeder comberpoeder, anijspoeder, Asafoetida, kruidnagelpoeder, kardemompoeder, kaneelpoeder, nootmuskaatpoeder en zuurteregelaar (citroenzuurpoeder (E330)). Krydret blanding av kikertermel nudler, ris mel nudler og peanøtter INGREDIENSER: Kikertmel (45%), Vegetabilsk olje (Palmolein), Rismel (12%), Peanøtter (5%), Karriblader, Salt, Rød chilipulver, Korianderpulver, Gurkemeiepulver, Svart paprika, Kumminpulver, Ingefærpulver, anispulver, Asafoetida, nellikpulver, kardemomme pulver, kanelpulver, muskatnøtt pulver og surhetsregulator (sitronsyrepulver (E330)),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063206343",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

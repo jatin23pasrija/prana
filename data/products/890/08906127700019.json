@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906127700019",
+  "barcode_printed": "8906127700019",
+  "barcode_format": "EAN-13",
+  "name": "Nylon Khaman Flour",
+  "brand": "talod",
+  "category": "flour",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Gram Flour 65%, Sugar, lodized Salt, Citric Acid (E330), Turmeric Masala Pack: Gram Flour, Sodium Bi-Carbonate (E50ii) Allergy Advice: Made in a facility that processes celery, mustard, soy, sesame, wheat, milk, tree nuts & peanut",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906127700019",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

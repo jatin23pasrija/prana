@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058858860",
+  "barcode_printed": "8901058858860",
+  "barcode_format": "EAN-13",
+  "name": "Maggi Atta noodle - Masala",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "INGREDIENTS NOODLES: Atta (78.7%), Palm oil, Wheat gluten, Salt, Thickeners (508 &412), Acidity regulators (501(0)& 5000) and Humectant (451(i)). Masala* TASTEMAKER with garnishing: Mixed spices (18.9 % ) (Dehydrated onion, Coriander powder, Dried garlic, Turmeric powder, Red chilli powder, Cumin powder, Black pepper powder, Aniseed, Fenugreek powder, Ginger powder, Clove powder, Green cardamom powder & Nutmeg powder, Soya bari (18.2 %), Dehydrated vegetables (17.3 %) (Green peas (64% ), Carrot (5.5%) & Green french beans (5.5%)), Sugar, Toasted onion (Onion & Corn oil), Salt, Caramel salt mix (Salt, Colour (150d) & Palm oil), Noodle powder (Refined wheat flour (Maida), Palm oil, Salt, Wheat gluten Thickeners (508 & 412 Acidity regulators (501(i) &500(i))&Humectant (4510) Palm oil, Flavour enhancer (6 ,Dehydrated coriander leaves and Acidity regulator 330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058858860",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

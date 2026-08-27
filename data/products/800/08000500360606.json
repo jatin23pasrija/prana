@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08000500360606",
+  "barcode_printed": "8000500360606",
+  "barcode_format": "EAN-13",
+  "name": "Moments",
+  "brand": "ferrero-rocher",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 520,
+        "protein_g": 7.8,
+        "carbohydrate_g": 55.5,
+        "sugars_g": 29.6,
+        "fat_g": 29.6,
+        "saturated_fat_g": 11.8,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8000500360606",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

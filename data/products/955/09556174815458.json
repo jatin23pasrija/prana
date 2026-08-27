@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "09556174815458",
+  "barcode_printed": "9556174815458",
+  "barcode_format": "EAN-13",
+  "name": "3 in 1 Oat Cereal Drink, Original flavour",
+  "brand": "quaker",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 420,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wholegrain Oat (35.57%), Sugar, Creamer (Glucose Syrup, Fully Hydrogenated Palm Fat, Stabilisers, Milk Protein, Emulsifiers, Silicon Dioxide, Tocopherol, Cereal Flakes (Wheat Flour, Corn Starch, Soybean Protein Flour, Corn Flour, Rice, Malt Extract, Stabiliser), Calcium Carbonate, Flavourings, Salt, Vitamins (Vitamin 13, Thiamine Mononitrate, Riboflavin, Niacinamide, Pyridoxine HCL, Folic Acid, Vitamin B12, Maltodextrin). Contains: Oats, Wheat, Barley, Soy and Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9556174815458",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

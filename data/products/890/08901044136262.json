@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901044136262",
+  "barcode_printed": "8901044136262",
+  "barcode_format": "EAN-13",
+  "name": "Mapro Choco Spread",
+  "brand": "mapro",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Palm Oil, Milk Solids, Cocoa Powder, Whey Powder, Emulsifiers (INS 322, INS 476), Antioxidant (INS 307 c) CONTAINS ADDED FLAVOURS-NATURAL, NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCE (VANILLA).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901044136262",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

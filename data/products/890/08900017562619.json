@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08900017562619",
+  "barcode_printed": "8900017562619",
+  "barcode_format": "EAN-13",
+  "name": "Bun Maska",
+  "brand": "jo-bakes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 276,
+        "protein_g": 10.01,
+        "carbohydrate_g": 56.05,
+        "sugars_g": 10.1,
+        "fat_g": 1.25
+      }
+    }
+  ],
+  "ingredients_raw": "BREAD Refined Wheat Flour, Water, Tutti Frutti, Sugar, Yeast, Edible Common Salt, Edible Vegetable (Palm) Oil, Bread Improver (Ins 170(1), 1100) CREAMY FAT SPREAD Refined Palm Oil, Common Salt, Skimmed Milk Powder, Emulsifiers and Stabilizers, (E-471, E-322) Class II Preservatives (E-202, E-200), Acidity Regulator (E-330), Starch, Sequestering Agents (E-385), Antioxidants (E-319), Contains Permitted Natural Colours (E-160a) and Added Flavour (Nature Identical Flavouring Substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8900017562619",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

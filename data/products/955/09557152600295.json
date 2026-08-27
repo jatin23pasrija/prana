@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "09557152600295",
+  "barcode_printed": "9557152600295",
+  "barcode_format": "EAN-13",
+  "name": "Ultimate Baked Cheese Flavour Popcorn",
+  "brand": "sks-foods",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "energy_kj": 0,
+        "protein_g": 4,
+        "carbohydrate_g": 71,
+        "sugars_g": 46,
+        "fat_g": 22,
+        "saturated_fat_g": 12,
+        "fibre_g": 3,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Corn, Sugar, Vegetable Oil (Palm), Dextrose, Cheese Seasoning (Dextrose, Milk Solids, Salt, Sugar, Maltodextrin, Flavour Enhancers [Monosodium Glutamate (E621), Disodium Guanylate (E627), Disodium Inosinate (E631)], Anticaking Agent [Silicon Dioxide (E551) Vegetable Oil (Palm), Cheese (Milk), Colour [Paprika Extract (E160c)], Acidity Regulator [Citric Acid (E330)], Yeast Extract), Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9557152600295",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

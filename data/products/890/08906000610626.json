@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906000610626",
+  "barcode_printed": "8906000610626",
+  "barcode_format": "EAN-13",
+  "name": "McCain Chilli Garlic Potato Pops",
+  "brand": "mccain",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 174.4,
+        "protein_g": 3,
+        "carbohydrate_g": 23.5,
+        "sugars_g": 0.5,
+        "fat_g": 7.6,
+        "saturated_fat_g": 3.65,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 432
+      }
+    }
+  ],
+  "ingredients_raw": "Potato (84%), Palmolein Oil, Garlic Paste (Water, Garlic (1.25%), Iodized Salt, Starch, Acidity Regulator (INS 260), Maize Starch, Potato Flakes, Iodized Salt, Onion Powder, Red Chilli Flakes (0.37%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906000610626",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

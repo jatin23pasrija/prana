@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002003242",
+  "barcode_printed": "8906002003242",
+  "barcode_format": "EAN-13",
+  "name": "Veg Mayonnaise",
+  "brand": "dr-oetker",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 312.9,
+        "protein_g": 0.9,
+        "carbohydrate_g": 21.3,
+        "sugars_g": 12.7,
+        "fat_g": 24.9,
+        "saturated_fat_g": 4.6,
+        "sodium_mg": 975.36
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Olive Oil (24%), Sugar, E Mustard Powder, Preservatives (INS211, INSZO CONTAINS ADDED FLAVOUR Serve Size 15 Nutritional FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002003242",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

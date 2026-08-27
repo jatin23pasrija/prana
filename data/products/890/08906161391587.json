@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161391587",
+  "barcode_printed": "8906161391587",
+  "barcode_format": "EAN-13",
+  "name": "Peanut party mix",
+  "brand": "let-s-try",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "White Split Peanuts (27%), Peanuts (26%), Potato Flakes (12%), Gram Flour (8%), Edible Vegetable Oil (Refined Groundnut Oil), Arrowroot, &quot;Spices & Condiments (lodised Salt, Black Salt), Yellow Chilli Powder, Longi Mirch, Dry Mango (Amchoor), Red Chilli (Mirch), Cumin (Jeera), Black Cumin, Coriander Seeds, Black Pepper, White Pepper, Mint, Pomegranate Seeds, Carom Powder, Muskmelon Seed, Dried Ginger (Sonth), Ginger, Cassia, Cardamom Amomum, Cloves, Nutmeg, Mace, Caraway, Star Flower Asafoetida, Kachri, Nausader). &quot;Contains Added Flavour (Natural & Nature-identical Flavouring Substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161391587",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

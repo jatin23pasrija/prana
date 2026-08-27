@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906136651951",
+  "barcode_printed": "8906136651951",
+  "barcode_format": "EAN-13",
+  "name": "Pintola High Protein Oats Dark Chocolate",
+  "brand": "pintola",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Oats (43%), Protein Blend (26%) {Texturized Soy Protein, Soy Protein Isolate, Whey Protein Concentrate}; Dry Fruit, Nut & Seeds (12%) (Raisins, Almonds, Pumpkin Seeds, Chia Seeds}; Organic Jaggery, Cocoa Solids (7%), Jowar Flakes, Himalayan Pink Salt. Allergen Information: Contains Oats, Nuts, Soy & Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906136651951",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

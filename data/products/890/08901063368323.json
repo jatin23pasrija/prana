@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063368323",
+  "barcode_printed": "8901063368323",
+  "barcode_format": "EAN-13",
+  "name": "muffills vanila flavour",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SUGAR, REFINED WHEAT FLOUR (MAIDA), PREPARED MIX (INVERT SYRUP, WATER, VEGETABLE OIL, EGG, HUMECTANTS (422 & 420(ii))), INVERT SUGAR SYRUP, GUM GEL, EMULSIFIERS AND STABILIZERS (471, 477 AND HUMECTANT (420(ii))), LIQUID GLUCOSE, BAKING POWDER, ARTIFICIAL VANILLA FLAVOURING, NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES, RAISING AGENTS (500(ii), 450(i), 341(i)), IODIZED SALT, ACIDITY REGULATOR (330), PRESERVATIVES (202, 282), EMULSIFIER (471), STABILIZER (415).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063368323",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

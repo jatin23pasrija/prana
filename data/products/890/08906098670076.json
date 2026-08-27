@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906098670076",
+  "barcode_printed": "8906098670076",
+  "barcode_format": "EAN-13",
+  "name": "PERI PERI THRILLER POPCORN",
+  "brand": "ultrapop",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 456.69,
+        "protein_g": 8.78,
+        "carbohydrate_g": 74.68,
+        "sugars_g": 1.84,
+        "fat_g": 13.65
+      }
+    }
+  ],
+  "ingredients_raw": "POPPED CORN, REFINED EDIBLE PALMOLEIN OIL, IODIZED SALT, SUGAR, SPICES AND CONDIMENTS (CHILI, CORIANDER, HERBS, GARLIC POWDER, ONION POWDER, MALTODEXTRIN, DRY MANGO POWDER, TOMATO POWDER) ACIDITY REGULATOR (E330, E334), FLAVOR ENHANCER (E 627, 631) ADDED NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906098670076",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906107173598",
+  "barcode_printed": "8906107173598",
+  "barcode_format": "EAN-13",
+  "name": "Ham And Cheese Spring Rolls",
+  "brand": "prasuma",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 219.5,
+        "protein_g": 13.46,
+        "carbohydrate_g": 27.98,
+        "sugars_g": 3.38,
+        "fat_g": 5.98,
+        "saturated_fat_g": 3.21,
+        "trans_fat_g": 0.23,
+        "sodium_mg": 654.55
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906107173598",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

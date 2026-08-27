@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "07898975729179",
+  "barcode_printed": "7898975729179",
+  "barcode_format": "EAN-13",
+  "name": "Açaí Purée with Guaraná",
+  "brand": "amazonas",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Pasteurized açaí pulp (Euterpe Oleracea), water, sugar cane, natural guarana extract-(Paullinia cupana L.), citric acid (INS 330), guar gum (stabilizer INS 412), xanthan gum (thickener INS 415)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7898975729179",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

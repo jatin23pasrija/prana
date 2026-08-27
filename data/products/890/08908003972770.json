@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003972770",
+  "barcode_printed": "8908003972770",
+  "barcode_format": "EAN-13",
+  "name": "Mario milk rush",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "EN NGREDIENTS: WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OILS (REFINED PALM DIL), MEMOLINA, YEAST, MILK SOLIDS, INVERT SYRUP, BUTTER, IODIZED SALT, WHEAT FIBER, EMULSIFIER (MONO GLYCERIDES OF FATTY ACIDS), ANTIOXIDANT (ASCORBIC ACID) & FLOUR TREATMENT AGENTS (AMYLASES). CONTAINS ADDED FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES (MILK)] ALLERGY ADVICE: FOR ALLERGENS, INCLUDING CEREALS CONTAINING PUTEN. SEE INGREDIENTS IN BOLD. MAY CONTAIN TREE NUTS AND PEANUTS. B GRÉDIENTS: FARINE DE BLÉ, SUCRE, HUILES VÉGÉTALES COMESTIBLES, LA EMOULE, LEVURE, LAIT SOLIDE, SIROP INVERTI, BEURRE, SEL IODISE, FIBRE DE LE, EMULSIFIANT (MONOGLYCERIDES D'ACIDES GRAS), L'ANTIOXYDANT (ACIDE SCORBIQUE) AGENTS DE TRAITEMENT DE LA FARINE (AMYLASES). ONTIENT SAVEUR AJOUTÉE [NATURE ET NATUREL IDENTIQUES LES LIE STANCES AROMATISANTES (LAIT)] . ERGIE CONSEILS: POUR LES ALLERGÈNES, COMPRIS LES CÉRÉALES CONTENANT DU GLUTEN, VOIR LES INGRÉDIENTS EN GRAS. PEUVENT CONTENIR DES NOIX ET CACAHUÈTES. ES INGREDIENTES: LA HARINA DE TRIGO, AZUCAR, ACEITES VEGETALES COMESTIBLES, SEMOLA, LEVADURA, SÓLIDOS DE LECHE, JARABE INVERTIDO, MANTEQUILLA, MEZCÓ LA SAL CON YODO, FIBRA DEL TRIGO, EMULSOR (MONO GLICERIDOS DE ÁCIDOS GRASOS), ANTIOXIDANTE (ÁCIDO ASCORBICO) AGENTES DEL TRATAMIENTO HARIMA (AMILASAS). CONEM O SABOR ADICIONADO [NATURAL E NATUREZA SUBSTÂNCIAS AROMATIZANTES IDÊNTICOS (LECHE)]. ALERGIA ACONSELHAR: PARA LOS ALERGENOS, INCLUIDOS LOS CEREALES QUE CONTIENEN GLUTEN, VER LOS INGREDIENTES EN NEGRITA. PODE CONTER FRUDS DE CASCA RIJA E AMENDOINS. ، سوجي ، AR المكونات قيق القمح والسكر ، والزيوت النباتية الصالحة للأكل الخميرة ، المواد الصلبة الحليب ، شراب قلب و زبدة ، والملح المعالج باليود والألياف القمح ومستحلب أحادي الجلسريد الأحماض الدهنية) ، ومضادات الأكسدة ( أسكربيك) (سد و الطحين وكلاء العلاج (أميلازات) يحتوي على نكهة واضاف [الطبيعة الطبيعية والمنكهة متطابقة المواد (حليب)]. حساسية النصيحة بالنسبة للمواد المسببة للحساسية، بما في ذلك الحبوب التى تحتوي على الغلوتين ، انظر المكونات بالخط العريض. ربما تحتوي على المكسر ات والفول السوداني. PKD. موضب Net Wt. 300 g (10.58 oz)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003972770",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

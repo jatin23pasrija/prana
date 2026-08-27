@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063166486",
+  "barcode_printed": "8901063166486",
+  "barcode_format": "EAN-13",
+  "name": "Potazos spicy bis-chips",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "wheat flour, vegetable oil (palmolein , palm), sugar, dehydrated potato flakes, salt, spices , condiments (cumin, caraway, onion, garlic, red chili), raising agents (ammonium bicarbonate, sodium bicarbonate), corn syrup, invert sugar, rice flour, skim milk powder, milk powder, vital gluten, whey powder, natural , artificial flavors, maltodextrin, emulsifiers (soy lecithin), acidity regulators (citric acid, tartaric acid, sodium diacetate, sodium succinate), enzyme (bacterial), preservatives (sodium bisulphite)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063166486",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

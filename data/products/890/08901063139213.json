@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063139213",
+  "barcode_printed": "8901063139213",
+  "barcode_format": "EAN-13",
+  "name": "Brit bourbon 150g (sys)",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) SUGAR (33%) REFINED PALM OIL EDIBLE MAIZE STARCH COLOURS (150a. 150d. 122, 110, 133 & 102) COCOA SOLIDS (2.72) MILK SOLIDS RAISING AGENTS (500m) & 503@] EMULSIFIERS 471 & 322@] MILK CHOCOLATE (0.12) EMULSIFIER (3220))) NATURE IDENTICAL & ARTIFICIAL (VANILLA, CHOCOLATE MILK & MILKY COCOA) FLAVOURING SUBSTANCES IODISED SALT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063139213",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

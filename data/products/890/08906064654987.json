@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064654987",
+  "barcode_printed": "8906064654987",
+  "barcode_format": "EAN-13",
+  "name": "Chip & Dip",
+  "brand": "wingreens",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 416.4,
+        "protein_g": 10.8,
+        "carbohydrate_g": 68.3,
+        "sugars_g": 57,
+        "fat_g": 11.1,
+        "saturated_fat_g": 5.25
+      }
+    }
+  ],
+  "ingredients_raw": "THIS COMBO BACK CONTAINS BAKED IITA CHIPS AND SWEET CHILLI GARLIC DIP INGREDIENTS CHIPS: Refined Wheat Flout Whole Wheat Flour, Edible • (70) Refines Oll (Refined Palm Oil. Oats, Milet Flour, Malted Barley Flour, Yeas Iodized Sat, Sugar, Defydrated Vegetables (Onion, Garlic, Green UN Ш dim Chill, Tomato) Milk Solids, Red Chill Powder, Permitted Acidity Regulator Ao lab 139 (INS 330. INS 296). Permitted Artsaung Agent (INS861), Denydrated juss Parsley, Edible Refined Oi (Refined Soybean Oil) Contains added Flavor- гада Natural identical. DIP: Sugar (55%). Red Chilles (12.5%), Garlic (7.5%), Water. Thickeners (INS 415) Acidity Regulators (INS 280). Class i vasellul preservative (INS 211), ladized Sat, Mured Spices",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064654987",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

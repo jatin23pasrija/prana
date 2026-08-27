@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906107175769",
+  "barcode_printed": "8906107175769",
+  "barcode_format": "EAN-13",
+  "name": "Mughlai Chicken Tikka",
+  "brand": "meatigo",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 132.7,
+        "protein_g": 15.5,
+        "carbohydrate_g": 4.1,
+        "sugars_g": 0.5,
+        "fat_g": 6.1,
+        "saturated_fat_g": 2.7,
+        "trans_fat_g": 2.7,
+        "sodium_mg": 330.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906107175769",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

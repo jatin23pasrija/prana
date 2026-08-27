@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491002196",
+  "barcode_printed": "8901491002196",
+  "barcode_format": "EAN-13",
+  "name": "Oats Muesli",
+  "brand": "quaker",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 448,
+        "protein_g": 9,
+        "carbohydrate_g": 71,
+        "sugars_g": 16,
+        "fat_g": 14,
+        "saturated_fat_g": 4,
+        "fibre_g": 6,
+        "sodium_mg": 242
+      }
+    }
+  ],
+  "ingredients_raw": "Multigrain(55%), (Rolled Oats 26%, Rice & Rice Flour 14%, Corn Grit & Flour 7%, Rolled Barley 5%, Wheat 3%, Refined Wheat Flour (Maida) 1.4%, Berries & Seeds (22%), (Candied Cranberries 8%, Dried Blackcurrents 7%, Sunflower seeds 4%, Pumpkin Seeds 3% ), Sugar, Palmolein Oil, Maltodextrin, Invert Syrup, Stabilizer (1422, 170i, 322), Liquid Glucose, iodised Salt, Cereals Extracts, Flavour (natural and nature Identical Flavouring Substances), Colour (150d), Antioxidents (307b)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491002196",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

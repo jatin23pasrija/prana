@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010917869",
+  "barcode_printed": "8906010917869",
+  "barcode_format": "EAN-13",
+  "name": "Kulfi",
+  "brand": "polar-bear",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 290,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk Solids, Water, Sugar, Almond (3%), Pista (3%), Emulsifier (INS 471,433), Stabilizer (INS 415,412,407), Nature Identical Flavour (Kulfi).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010917869",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

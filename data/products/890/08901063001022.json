@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063001022",
+  "barcode_printed": "8901063001022",
+  "barcode_format": "EAN-13",
+  "name": "Britannia nutri choice",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WHEAT FLOUR (ATTA) (45%), REFINED PALM OIL, SUGAR, CEREAL PRODUCTS (16%) [RAGI FLOUR, CORN FLAKES, ROLLED OATS, JOWAR FLOUR, RICE FLOUR & QUINOA FLOUR], WHEAT BRAN (6%), MILK PRODUCTS [SWEETENED CONDENSED PARTLY SKIMMED MILK & WHEY POWDER], RAISING AGENTS [500(ii) & 503(ii)], HONEY (0.6%), IODIZED SALT, EMULSIFIERS [322(i), 471 & 472e] AND NATURE-IDENTICAL & ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, OATS, MILK AND SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063001022",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

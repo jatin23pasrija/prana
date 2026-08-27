@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906098790958",
+  "barcode_printed": "8906098790958",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Butter",
+  "brand": "marbella",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 624,
+        "energy_kj": 2610.82,
+        "protein_g": 25,
+        "carbohydrate_g": 23,
+        "sugars_g": 6,
+        "fat_g": 48,
+        "saturated_fat_g": 11,
+        "fibre_g": 3,
+        "sodium_mg": 112
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906098790958",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

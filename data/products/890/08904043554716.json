@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043554716",
+  "barcode_printed": "8904043554716",
+  "barcode_format": "EAN-13",
+  "name": "Crem Treat Vanilla Crem bun",
+  "brand": "modern",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Bun Icing (Sugar, Edible Vegetable Fat (Interesterified), Humectant (422), Stabilizer (412), Preservative (200), Turmeric Extract, Artificial Flavouring Substances (Vanilla and Butterscotch]&quot;, Sugar, Glazed Fruit (3.68%) [Papaya, Sugar, Acidity Regulator (330), Preservative (211), Food Colour (129)], Edible Vegetable Fat (Interesterified), Gluten, Yeast, lodized Salt, Soya Flour, Preservative (282), Emulsifier (4810).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043554716",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

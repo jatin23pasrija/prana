@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08904192215902",
+  "barcode_printed": "8904192215902",
+  "barcode_format": "EAN-13",
+  "name": "Rice cakes mix masala",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 84,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 104,
+        "protein_g": 3.72,
+        "carbohydrate_g": 21.45,
+        "sugars_g": 0.53,
+        "fat_g": 0.44,
+        "saturated_fat_g": 0.21,
+        "fibre_g": 2.53,
+        "sodium_mg": 58
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904192215902",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

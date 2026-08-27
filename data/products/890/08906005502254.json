@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005502254",
+  "barcode_printed": "8906005502254",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi Tadka",
+  "brand": "bikaji",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 559,
+        "protein_g": 10,
+        "carbohydrate_g": 43,
+        "sugars_g": 2,
+        "fat_g": 11,
+        "saturated_fat_g": 7,
+        "fibre_g": 4,
+        "sodium_mg": 1954
+      }
+    }
+  ],
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Dehydrated Potato Flakes (21.4%), Gram Flour, Dew Bean Flour (Moth Flour), Tapioca Starch, Ground Spices & Condiments (lodised Salt, Dry Mango, Red Chilli, Ginger, Black Pepper, Cardamom, Clove, Turmeric (Colouring & Spices), Tomato Powder, Onion Powder, Garlic Powder, Black Salt, Mace, Nutmeg, Cinnamon, Acidity Regulator (INS 330))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005502254",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

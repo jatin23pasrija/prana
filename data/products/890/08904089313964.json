@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904089313964",
+  "barcode_printed": "8904089313964",
+  "barcode_format": "EAN-13",
+  "name": "Blockbuster Mango magic",
+  "brand": "havmor",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "90 ml",
+        "quantity": {
+          "value": 90,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 203,
+        "protein_g": 2.4,
+        "carbohydrate_g": 17.1,
+        "sugars_g": 17,
+        "fat_g": 13.9,
+        "saturated_fat_g": 10.1,
+        "sodium_mg": 36.5
+      }
+    }
+  ],
+  "ingredients_raw": "Inner layer - Ice Cream (70%): Added Water, Milk Solids, Sugar, Mango Pulp (9.6%), Emulsifiers (INS 471, INS 433) and Stabilizers (INS 466, INS 412, INS 407a, INS 410), Artificial (Mango) Flavoring Substances, Synthetic Food Colours (INS 110, INS 102, INS 124). Outer Layer - White Compound Covering (30%): Refined Palm Kernel Oil, Sugar, Milk Solids, Refined Palm Oil, Emulsifier (INS 322), Natural Colour (160b), Artificial (Mango) Flavoring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904089313964",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

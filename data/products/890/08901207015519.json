@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207015519",
+  "barcode_printed": "8901207015519",
+  "barcode_format": "EAN-13",
+  "name": "Чаванпраш",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 314,
+        "energy_kj": 1315,
+        "protein_g": 0.3,
+        "carbohydrate_g": 77.4,
+        "fat_g": 0.19
+      }
+    }
+  ],
+  "ingredients_raw": "Emblica officinalis Sugar, Honey, Ghee Clarified butter), Sesamum indicum Segame) oil, Piper longum, Eletta cardamomum, Peuraria tuberosa, Dioscorea bulbifers Asparagus racemosus, Withania somnifera, Santalum album, Tinospora cordifolia, Sida cordifolia, Solanum indicum, Solanum xanthocarpum, Tribulus terrestris, Aegle marmelos, Premna integrifolia, Oroxylum indicum, Stereospermum suaveolens, Desmodium gangeticum, Uraria picta, Gmelina arborea, Vitis vinifera, Phaseolus trilobus, Pistacia integerrima, Phyllanthus niruri, Leptadenia reticulata, Terminalia chebula, Curcuma zedoaria, Cyperus rotundus, Boerhavia diffusa, Nymphaea stellata, Glycyrrhiza glabra Adhatoda vasica, Martynia annua la racemosa, Cinnamomum zeylanicum, Syzygium aromaticum, Mesua ferrea, Cinnamomum tamala, Bambusa arundinace Santalum album Oil ver to Potassium sorbate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207015519",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

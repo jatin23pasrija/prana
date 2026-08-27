@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131683063",
+  "barcode_printed": "8906131683063",
+  "barcode_format": "EAN-13",
+  "name": "Wheat, Apple & Date With Milk Cereal",
+  "brand": "slurrp-farm",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 384.4,
+        "protein_g": 13.3,
+        "carbohydrate_g": 65.6,
+        "sugars_g": 9.7,
+        "fat_g": 8.5,
+        "saturated_fat_g": 0.2,
+        "trans_fat_g": 0,
+        "fibre_g": 5.2,
+        "sodium_mg": 138.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131683063",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

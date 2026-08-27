@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082371606",
+  "barcode_printed": "8906082371606",
+  "barcode_format": "EAN-13",
+  "name": "Alphonso Mango Kulfi",
+  "brand": "grameen-kulfi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "72 g",
+        "quantity": {
+          "value": 72,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 148,
+        "protein_g": 3.1,
+        "carbohydrate_g": 18.5,
+        "sugars_g": 13.1,
+        "fat_g": 6.5,
+        "saturated_fat_g": 4.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082371606",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

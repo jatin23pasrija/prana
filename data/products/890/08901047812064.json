@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901047812064",
+  "barcode_printed": "8901047812064",
+  "barcode_format": "EAN-13",
+  "name": "Dal Palak",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Boiled Pulses (53%) [Water, Chana Dal, Red Lentils, Toor Dal], Water, Spinach (14.7%), Tomato, Onion, Sunflower Oil, Garlic (0.8%), Salt, Coriander Powder, Coriander leaves, Cumin Seeds (0.2%), Ginger, Red Chilli Powder, Dry Mango Powder, Green Chilli, Turmeric Powder, Garam Masala. Allergy Advice! For allergens, including cereals containing gluten see ingredients in Bold. May also contain Cereals containing Gluten, Nuts, Peanuts, Soya, Sesame & Mustard. • NO ARTIFICIAL PRESERVATIVES. • NO ARTIFICIAL COLOURS OR FLAVOURS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901047812064",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

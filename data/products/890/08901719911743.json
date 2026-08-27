@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719911743",
+  "barcode_printed": "8901719911743",
+  "barcode_format": "EAN-13",
+  "name": "Kreams Gold Mango Artificially Flavoured Sandwich Cookies",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 66.7,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Enriched wheat flour, Sugars (sugar, invert sugar syrup), Palm oil, Leavening (ammonium bicarbonate, sodium bicarbonate), Salt, Artificial flavours (mango, milk), Emulsifier (soy lecithin), DL malic acid and colour (turmeric oleoresin, sunset yellow). May contain: Milk, Tree nuts. Contains: Wheat, Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719911743",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

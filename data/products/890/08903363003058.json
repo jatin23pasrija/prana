@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363003058",
+  "barcode_printed": "8903363003058",
+  "barcode_format": "EAN-13",
+  "name": "Tea masala",
+  "brand": "dmart",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 377.27,
+        "protein_g": 9.38,
+        "carbohydrate_g": 73.44,
+        "sugars_g": 5.56,
+        "fat_g": 5.11
+      }
+    }
+  ],
+  "ingredients_raw": "Dry Ginger, Black Pepper, Cardamom, Peepramul, Nutmeg, Clove & Cinnamon.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363003058",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

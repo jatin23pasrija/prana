@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904067700304",
+  "barcode_printed": "8904067700304",
+  "barcode_format": "EAN-13",
+  "name": "Classic Hand Roasted Peanuts",
+  "brand": "jabsons",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "_Peanuts_ (96%), Refined Cotton Seed Oil, Iodized Salt (1%), Black Salt (0.3%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904067700304",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

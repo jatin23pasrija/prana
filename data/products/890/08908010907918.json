@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010907918",
+  "barcode_printed": "8908010907918",
+  "barcode_format": "EAN-13",
+  "name": "Sleep gummies",
+  "brand": "power-gummies",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 3.1,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 300,
+        "carbohydrate_g": 80,
+        "sugars_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "FO.S(fructo-oligosaccharides), Water, Gelling Agent (Pectin, Carrageenan), Acidity Regulator (Trisodium Citrate, Citric Acid), Passiflora Extract, Melatonin, Vitamin B6(as Pyridoxine Hydrochloride), Flavour Natural Passion Fruit Flavour, Colours (INS133, INS103& INS171), MCT Oil(Source-Coconut Oil), Glazing Agent (Carnauba Wax), Corn Starch vit B6 VITAMIN B6 It may help to support the production of happy hormones like serotonin & dopamine, which may help to cope with daily stress and keeps the brain and neurons healthy. PASSION FRUIT FLAVOUR *This only for brand promotion && does not represent the true nature of the product",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010907918",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

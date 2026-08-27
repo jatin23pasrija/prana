@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901792001829",
+  "barcode_printed": "8901792001829",
+  "barcode_format": "EAN-13",
+  "name": "niru",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "BRAND DIENTS 100% Wheat Cream EDIENTS : 100% Crème de bié ANDTEILE: 100% Weizencreem a no/ Fournée No,18100 Nr, 1OCT 2020 estens haltbar bis ende, Before end/ sommer avant le fin/ ORTEUR , VERTEILER ORTAS GmbH O Schaffhauseng",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901792001829",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

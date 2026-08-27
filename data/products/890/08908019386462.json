@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019386462",
+  "barcode_printed": "8908019386462",
+  "barcode_format": "EAN-13",
+  "name": "Protein Bar Choco Fudge",
+  "brand": "whey91",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "65 g",
+        "quantity": {
+          "value": 65,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 271.7,
+        "protein_g": 20,
+        "carbohydrate_g": 33.2,
+        "sugars_g": 3.9,
+        "fat_g": 8.3,
+        "saturated_fat_g": 7.6,
+        "trans_fat_g": 0,
+        "fibre_g": 7.9
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019386462",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

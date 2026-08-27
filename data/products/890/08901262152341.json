@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262152341",
+  "barcode_printed": "8901262152341",
+  "barcode_format": "EAN-13",
+  "name": "Amul Kool Premium Kesar Flavour",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Toned milk, sugar, milk solids, artificial flavouring substances (kesar), colours (102,110).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262152341",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

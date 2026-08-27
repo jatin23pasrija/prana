@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030559266",
+  "barcode_printed": "8901030559266",
+  "barcode_format": "EAN-13",
+  "name": "Mexican tomato corn soup",
+  "brand": "knorr",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 346,
+        "protein_g": 7.69,
+        "carbohydrate_g": 69.23,
+        "sugars_g": 30.77,
+        "fat_g": 1.38,
+        "saturated_fat_g": 1.23,
+        "sodium_mg": 4615.38
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030559266",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

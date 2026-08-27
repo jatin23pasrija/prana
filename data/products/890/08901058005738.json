@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058005738",
+  "barcode_printed": "8901058005738",
+  "barcode_format": "EAN-13",
+  "name": "8901058005738",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 412,
+        "protein_g": 12.5,
+        "carbohydrate_g": 70.6,
+        "sugars_g": 22,
+        "fat_g": 9.4,
+        "saturated_fat_g": 4.6,
+        "fibre_g": 0,
+        "sodium_mg": 44
+      }
+    }
+  ],
+  "ingredients_raw": "Resultant wheat flour (Resultant Atta) (28%), Milk solids (27.4%), Wheat flour (Atta) (8.5%), Rice flour (8.3%), Sugar, Oat flour (6%), Soyabean oil, Apple juice concentrate (3.5%), Orange juice concentrate (3%), Corn flour (2.1%), Mango pulp (0.8%), Malto - dextrin, Starch, Malted barley flour (0.6%), Minerals, Mango powder (0.5%), Pomegranate juice concen - trate (0.4%), Blackcurrant juice concentrate (0.3%), Red beet puree (0.1%), Dextrose, Vitamins and Acidity regulator (501(ii)). Contains Wheat, Milk, Oat and Barley.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058005738",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

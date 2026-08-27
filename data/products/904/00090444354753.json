@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00090444354753",
+  "barcode_printed": "0090444354753",
+  "barcode_format": "EAN-13",
+  "name": "Korean ramen",
+  "brand": "ching-s-secret",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 112,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles: Refined Wheat Flour (Maida), Thickeners (INS 1420, INS 508), Refined Palm Oil (Antioxidant (INS 319)), Wheat Gluten (Antioxidant (INS 1102)), lodised Salt, Texturizer (INS 451 (i)), Acidity Regulator (INS 501 (i), Raising Agent (INS 500 (ii)). Seasoning Mix: lodised Salt, Dehydrated Vegetables (12%) [Carrot, Cabbage, Capsicum], Maltodextrin, Sugar, Dehydrated Garlic, Yeast Extract, Soya Granules, Dehydrated Onion, Fermented Soya Sauce Powder, Spices [Chilli (5%), Pepper (1%)], Natural and Nature Identical Flavouring Substances, Dehydrated Herb, Flavour Enhancers (INS 627, INS 631), Acidity Regulator (INS 330), Anticaking Agents (INS 551, INS 341 (iii)), Thickener (INS 412), Refined Palm Oil, Mushroom Powder (1%), Colour (INS 150d), Antioxidant (INS 319).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0090444354753",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

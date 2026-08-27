@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725001124",
+  "barcode_printed": "8901725001124",
+  "barcode_format": "EAN-13",
+  "name": "Sunfeast Dark Fantasy Chocolate Shake 300ml",
+  "brand": "sunfeast",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Toned Milk (80.5%), Sugar, Water, Cocoa Solids (1.32%), Nature Identical Flavouring Substances, Stabilizers (INS 407, INS 412), Emulsifier [Mono - and di-glycerides of fatty acids (from Palm oil)]. Belgian Chocolate (0.1%) (Emulsifier [Lecithin (from soyabean)] and Natural Flavours and Natural Flavouring Substances), Artificial Flavouring Substances (Chocolate, Vanilla), Acidity Regulator [INS 339(iii), lodized Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725001124",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

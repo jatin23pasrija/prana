@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906075002234",
+  "barcode_printed": "8906075002234",
+  "barcode_format": "EAN-13",
+  "name": "Green Masala (Khari Surti Pastry Puff)",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 624,
+        "protein_g": 12,
+        "carbohydrate_g": 38,
+        "sugars_g": 4,
+        "fat_g": 48,
+        "saturated_fat_g": 8,
+        "fibre_g": 2,
+        "sodium_mg": 1204
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906075002234",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

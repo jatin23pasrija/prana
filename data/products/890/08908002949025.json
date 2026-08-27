@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002949025",
+  "barcode_printed": "8908002949025",
+  "barcode_format": "EAN-13",
+  "name": "Torino Orange Flavour Aerated Beverage",
+  "brand": "torino-is-sold-by-megatrends",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 45,
+        "protein_g": 0,
+        "carbohydrate_g": 12,
+        "fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, SUGAR (12gm/100ml), CARBON DIOXIDE (0.432g/100ml), ACIDITY REGULATOR (INS 330) & STABILISING AGENTS (INS 414, INS 445), PERMITTED CLASS II PRESERVATIVES (INS 211), CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 110) & ADDED ORANGE FLAVOUR. (NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002949025",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

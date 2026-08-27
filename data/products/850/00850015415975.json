@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "00850015415975",
+  "barcode_printed": "0850015415975",
+  "barcode_format": "EAN-13",
+  "name": "Unmutton Dhaba Curry KIT",
+  "brand": "gooddot",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 520,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 287.29,
+        "protein_g": 14.27,
+        "carbohydrate_g": 19.19,
+        "sugars_g": 4.81,
+        "fat_g": 17.05,
+        "saturated_fat_g": 4.15,
+        "trans_fat_g": 0,
+        "fibre_g": 13.61,
+        "sodium_mg": 634.79
+      }
+    }
+  ],
+  "ingredients_raw": "UnMutton Chunks: Water, Soy Flour, Soy Protein Isolate, Wheat Gluten, Vegetable Protein (Pea), Corn Flour, Sago Flour, Barley Flour, Refined Wheat Flour, Tapioca Starch, Potato Starch, Hydrolysed Vegetable Protein (Groundnut), Flax Seeds Powder, Fenugreek Powder, Fennel Seeds Powder, Coriander Seeds Powder, Garlic, Onion, Dry Ginger Powder, Raising Agent(Baking Powder), Flavour Enhancer (Yeast Extract), lodised Salt. Gravy Mix: Edible Vegetable Oil (Rice Bran), Onion Powder, Garlic Powder, Cumin Seeds, Coriander Seeds, Cardamom, Cinnamon, Clove, Fenugreek Seeds, Red Chili, Bay Leaf, Nutmeg, Fennel, Black Pepper, Mustard Seeds, Mace, Star Anise, Turmeric, Carom Seeds, Cashew Nuts, Dry Mango Powder, Tomato Powder, Mustard Powder, lodised Salt, Flavour Enhancer (INS 640), Beet Red Powder, Asafoetida. Whole Spices: Black Cardamom, Green Cardamom, Bay leaf, Cinnamon Stick, Star Anise, Clove. CONTAINS PERMITTED NATURAL COLOUR AND ADDED FLAVOURS - NATURE IDENTICAL FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0850015415975",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

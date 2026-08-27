@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906132960828",
+  "barcode_printed": "8906132960828",
+  "barcode_format": "EAN-13",
+  "name": "Mango pickle",
+  "brand": "lovely",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Mango Pieces, Salt, Chilli Powder, Sesame Oil (Gingelly Oil), Mustard, Fenugreek, Asafoetida, Synthetic Vinegar. CONTAINS PERMITED CLASS II PRESERVATIVE. SODIUM BENZOATE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906132960828",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

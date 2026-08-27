@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083512257",
+  "barcode_printed": "8904083512257",
+  "barcode_format": "EAN-13",
+  "name": "black urad dal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "live an organic life tet organic grown without synthetic pesticides , gmos urad black whole black gram net weight:2 lb (908g) batch no,: dusa031123454 lot no,:bgm23e2 best before, nov 2025 01851 2341 usda organic jalvik bharat product of india email us on 0072525 0020 13atm03 21 200 yo otram vituox oma (24 toll free call for mor",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083512257",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

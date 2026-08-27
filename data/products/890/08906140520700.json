@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906140520700",
+  "barcode_printed": "8906140520700",
+  "barcode_format": "EAN-13",
+  "name": "Blueberry",
+  "brand": "mercely-s-ice-cream",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "1) Icecream-80% [Milk, Sugar, Milk Fat, Skim milk powder, Fructooligosaccharide Emulsifiers and Stabilizers (E471-VEGETABLE SOURCE, E466, E415, E412, E407, E405), Probiotic Cu (Bacillus coagulans SNZ 1969), Natural flavouring substance (Blueberry)] 1) Blueberry fruit preparation-20% [Blueberry fruit, sugar]. Alergens: Contains Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906140520700",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

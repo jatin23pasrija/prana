@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132946330",
+  "barcode_printed": "8904132946330",
+  "barcode_format": "EAN-13",
+  "name": "Upma",
+  "brand": "masti-oye",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "60G",
+        "quantity": {
+          "value": 60,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 232.2,
+        "protein_g": 3.6,
+        "carbohydrate_g": 49.9,
+        "sugars_g": 1.5,
+        "fat_g": 2.04,
+        "saturated_fat_g": 1.2,
+        "sodium_mg": 926.4
+      }
+    }
+  ],
+  "ingredients_raw": "SUJI (70%), EDIBLE VEGETABLE FAT - INTERSTERIFIED PALM & PALM KERNEL, IODIZED SALT, GREEN CHILLIES, DEHYDRATED CARROT, MUSTARD, GINGER, SUGAR, BENGAL GRAM, CURRY LEAVES, DEHYDRATED ONION, ACIDITY REGULATORS (330, 334), NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132946330",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

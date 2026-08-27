@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906016010120",
+  "barcode_printed": "8906016010120",
+  "barcode_format": "EAN-13",
+  "name": "almonds",
+  "brand": "k-b-b-nuts-pvt-ltd",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 575,
+        "protein_g": 21.2,
+        "carbohydrate_g": 21.7,
+        "sugars_g": 3.9,
+        "fat_g": 49.4,
+        "saturated_fat_g": 3.7,
+        "fibre_g": 12.2,
+        "sodium_mg": 1
+      }
+    }
+  ],
+  "ingredients_raw": "almond kernels",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906016010120",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

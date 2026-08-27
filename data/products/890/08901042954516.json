@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042954516",
+  "barcode_printed": "8901042954516",
+  "barcode_format": "EAN-13",
+  "name": "Rava idli",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "ISemolina (80%), Edible Vegetable fat - Interesterified (Palm Oil, Palm kernel C Bengal gram splits, Curry leaves, Salt, Sugar, Mustard, Raising agent Sodium bicarbonate (E 500 il), Ginger, Green chilli, Coriander, Blackgram Dal, Red chilli Powder, Cumin, Turmeric, Cassia, Fenugreek, Clove, Maltodextrin, Acidity regulators Citric acid (E 330) and Tartaricacid (E 334) . CONTAINS NATURAL FLAVORING SUBSTANCE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042954516",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

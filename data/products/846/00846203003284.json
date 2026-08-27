@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00846203003284",
+  "barcode_printed": "0846203003284",
+  "barcode_format": "EAN-13",
+  "name": "Shrewsbury cookies",
+  "brand": "chitale-bandhu",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour, Refined Sugar, Pasteurised Table Butter (20%) [Cow Milk Fat, Iodised Salt, Natural Colour - Annatto (INS 160b)], Hydrogenated Vegetable Fat, Corn Flour, Milk, Edible Vegetable Fat Emulsion [Emulsifiers (INS 492, INS 322), Stabilizers (INS 415), Antioxidants (INS 304, INS 319), Permitted Natural Colour [INS 160a (ii)], Nature Identical Flavouring Substance], Baking Powder [Raising Agent (INS 500 (ii), Acidulant (INS 521)], Artificial Flavour (Vanilla), Iodised Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0846203003284",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906144566278",
+  "barcode_printed": "8906144566278",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Peanut Butter powder",
+  "brand": "mypb",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Roasted Peanuts, Cocoa Powder, Sugar, Rock Salt No added vitamins, minerals, artificial flavours or preservatives. ALLERGEN INFO: Contains peanuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906144566278",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

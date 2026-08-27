@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083320517",
+  "barcode_printed": "8904083320517",
+  "barcode_format": "EAN-13",
+  "name": "MilkyMist Italian Chocolate Delight Ice cream",
+  "brand": "milkymist",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 243.5,
+        "protein_g": 4.1,
+        "carbohydrate_g": 27.2,
+        "sugars_g": 27.2,
+        "fat_g": 13.1,
+        "saturated_fat_g": 8.9,
+        "sodium_mg": 55.5
+      }
+    }
+  ],
+  "ingredients_raw": "Milk, Milk Solids, Sugar,Liquid Glucose, Cocoa Solids Chocolate Ripple (7%) Sugar, Water, Liquid Glucose, Cocoa Solids, Cocoa Butter Pectin(INS 440), Choco Chips (5%) [Cocoa Solids, Cocoa Butter, Sugar Soya Lecithin, Artificial Flavoring Substance - Ethyl Vanillin], Emulsifier (S 471), Stabilizers (INS 410, INS 412, INS 407), Flavor (Nature identical Flavoring Substances - Chocolate). Allergen Information: Contains Milk & Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083320517",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

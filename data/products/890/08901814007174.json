@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08901814007174",
+  "barcode_printed": "8901814007174",
+  "barcode_format": "EAN-13",
+  "name": "Groviva Gold",
+  "brand": "groviva",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 441,
+        "protein_g": 15,
+        "carbohydrate_g": 59,
+        "sugars_g": 15,
+        "fat_g": 15.5,
+        "saturated_fat_g": 2.96,
+        "sodium_mg": 470
+      }
+    }
+  ],
+  "ingredients_raw": "Protein [Milk Solids (27%) & Soy Protein Isolate (7%)], Maltodextrin, Oils (Soybean Oil, Sunflower Oil), Sucrose, Nature Identical Flavouring Substances (Chocolate), Fibers [Soy Fiber (2.47%) & Polydextrose (1.75%)], Minerals, Acidity Regulators [INS 331 (i) & INS 332(i)], Emulsifier [INS 322(0)], DHA Powder (0.47%), Vitamins, Lutein-Zeaxanthin complex (0.167%), Probiotics (Lactobacillus acidophilus NCFM (0.022%) & Bifidobacterium lactis HN019 (0.073%)], Choline Chloride, Antioxidants (INS 304), L-Carnitine, Inositol & Taurine.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901814007174",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

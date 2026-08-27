@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020462144",
+  "barcode_printed": "8906020462144",
+  "barcode_format": "EAN-13",
+  "name": "Vanilla Cupcake Eggless",
+  "brand": "harvest-gold",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Refined Rice Bran Oil), Humectant (422), Liquid Glucose Milk Solids, Starch, Invert Sugar, Edible Fibre (Wheat Fibre), Raising Agents (500), 341(1), 450(1), Cake ger {Emulsifiers [471,477,470, Humectant (422, 1520), Firming Agent (509)}, Preservatives (282, 200), Iodized Salt Artificial Flavouring Substances (Vanilla and Pineapple)*, Acidity Regulator (330), Emulsifiers (322, 481(i)}, Stabilizer (412), Gluten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020462144",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

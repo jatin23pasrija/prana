@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005618030",
+  "barcode_printed": "8906005618030",
+  "barcode_format": "EAN-13",
+  "name": "Winkies chocolate swiss roll",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 407.83,
+        "protein_g": 6.75,
+        "carbohydrate_g": 59.41,
+        "sugars_g": 28.91,
+        "fat_g": 15.91,
+        "saturated_fat_g": 4.21,
+        "sodium_mg": 103.66
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005618030",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

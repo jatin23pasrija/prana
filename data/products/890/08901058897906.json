@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058897906",
+  "barcode_printed": "8901058897906",
+  "barcode_format": "EAN-13",
+  "name": "Resource High Protein (Vanilla Flavour)",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whey protein concentrate (45%), Skimmed milk powder (40%), Inulin, Maltodextrin, Nature identical Vanilla) flavouring substance, Vitamins, Sweetener (950) and Minerals. CONTAINS MILK. THIS CONTAINS ACESULFAME POTASSIUM. NOT RECOMMENDED FOR CHILDREN; PREGNANT AND LACTATING MOTHERS. CONTAINS NON-CALORIC SWEETENER.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058897906",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

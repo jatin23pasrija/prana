@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117091219",
+  "barcode_printed": "8906117091219",
+  "barcode_format": "EAN-13",
+  "name": "Shortcuts Peanut Butter Wafer Bites",
+  "brand": "brb",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Peanut Butter (54.5%), Refined Wheat Flour, Jaggery, Milk Solids, Refined Coconut Oil, Emulsifier (Soy Lecithin), Iodized Salt, Baking Soda, Milk Protein Concentrate, Butter & Vanilla. Wheat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117091219",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

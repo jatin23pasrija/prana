@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004420227",
+  "barcode_printed": "8904004420227",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's Mathura Peda",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 397,
+        "protein_g": 12.43,
+        "carbohydrate_g": 51.31,
+        "sugars_g": 46.45,
+        "fat_g": 15.55,
+        "saturated_fat_g": 7.66,
+        "fibre_g": 0.83,
+        "sodium_mg": 0.05
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids (Khoa), Refined Sugar & Preservative (INS 202)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004420227",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

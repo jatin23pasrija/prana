@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006784079",
+  "barcode_printed": "8906006784079",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Fruit Jam",
+  "brand": "surabhi",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Banana Pulp, Pineapple Pulp, Papaya Pulp, Gauva Pulp, Mango Pulp, Water, Thickener (INS440), Acidity Regulator (INS330), Preservatives (INS211, INS224) CONTAINS PERMITTED CLASS II PRESERVATIVES (INS211 & INS224), PERMITTED SYNTHETIC FOOD COLOURS (INS122 & INS124) & ADDED FLAVOR. (NATURAL, ARTIFICIAL MIXED FRUIT FLAVORING SUBSTANCE). Allergy Instructions: This product was processed on machinery and in a plant that also processes Wheat, Peanuts, Tree Nuts, Sesame Soya and Milk Solids.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006784079",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08904051327111",
+  "barcode_printed": "8904051327111",
+  "barcode_format": "EAN-13",
+  "name": "Sesame sweet ball",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 400,
+        "protein_g": 10,
+        "carbohydrate_g": 60,
+        "sugars_g": 33.33,
+        "fat_g": 13.33,
+        "saturated_fat_g": 0,
+        "fibre_g": 6.67
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904051327111",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

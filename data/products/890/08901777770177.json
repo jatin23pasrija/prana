@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777770177",
+  "barcode_printed": "8901777770177",
+  "barcode_format": "EAN-13",
+  "name": "Premium Alphonso mango ice cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 206.19,
+        "protein_g": 3.09,
+        "carbohydrate_g": 21.65,
+        "sugars_g": 14.43,
+        "fat_g": 11.34,
+        "saturated_fat_g": 7.22,
+        "fibre_g": 1.03,
+        "sodium_mg": 46.39
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777770177",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

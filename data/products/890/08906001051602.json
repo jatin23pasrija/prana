@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001051602",
+  "barcode_printed": "8906001051602",
+  "barcode_format": "EAN-13",
+  "name": "mother's",
+  "brand": "mother-s-recipe",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato (67%), Tapioca (Sago), Rock Salt, Red Chilli Powder, Cumin and Sunflower Oil.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001051602",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

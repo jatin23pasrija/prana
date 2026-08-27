@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063028210",
+  "barcode_printed": "8901063028210",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Nice",
+  "brand": "britannia-industries-ltd",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 59.4,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "13g (approx 2 Biscuits)",
+        "quantity": {
+          "value": 13,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 463,
+        "energy_kj": 0,
+        "protein_g": 6,
+        "carbohydrate_g": 76,
+        "sugars_g": 30.5,
+        "fat_g": 15,
+        "saturated_fat_g": 8,
+        "trans_fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR (286), REFINED PALM OIL, COCONUT PRODUCTS (4.5%) (DESICCATED COCONUT COCONUT MILK POWDER), MILK SOLIDS, INVERT SUGAR SYRUP, EDIBLE MAZE STARCH, RAISING AGENTS [503(ii), 500(ii) & 450(i)], EMULSIFIERS (322(i), 471 &472e), IODISED SALT AND ARTIFICIAL (COCONUT & VANILLA) FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063028210",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

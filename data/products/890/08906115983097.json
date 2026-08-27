@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906115983097",
+  "barcode_printed": "8906115983097",
+  "barcode_format": "EAN-13",
+  "name": "Moong Dal",
+  "brand": "himalayan-natives",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 345,
+        "protein_g": 24,
+        "carbohydrate_g": 61,
+        "sugars_g": 3,
+        "fat_g": 2.23,
+        "saturated_fat_g": 0.7,
+        "fibre_g": 19,
+        "sodium_mg": 0.6
+      }
+    }
+  ],
+  "ingredients_raw": "Moong Dal",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906115983097",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

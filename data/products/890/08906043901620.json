@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906043901620",
+  "barcode_printed": "8906043901620",
+  "barcode_format": "EAN-13",
+  "name": "Vanilla Muffin Small",
+  "brand": "bliss-chocolates-india-pvt-ltd",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 386,
+        "protein_g": 5.6,
+        "carbohydrate_g": 45.2,
+        "sugars_g": 26.37,
+        "fat_g": 20.2,
+        "saturated_fat_g": 13.4,
+        "fibre_g": 7.5,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Muffin Mix (Sugar, Wheat Flour, Edible Vegetable Oil, Edible Common Salt, Emulsifiers & Stabilizers - E477, E466, E412, E435, E322), Dextrose, Starch, Raising Agents, - E55(II), E541(I), Egg, Maltodextrin, Vanilla Flavour, Citric Acid, Water, Edible Refined Oil.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906043901620",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

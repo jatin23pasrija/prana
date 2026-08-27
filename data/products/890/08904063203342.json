@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063203342",
+  "barcode_printed": "8904063203342",
+  "barcode_format": "EAN-13",
+  "name": "Ratlami mixture",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 571.43,
+        "protein_g": 17.14,
+        "carbohydrate_g": 40,
+        "sugars_g": 5.71,
+        "fat_g": 37.14,
+        "saturated_fat_g": 11.43,
+        "fibre_g": 11.43,
+        "sodium_mg": 514.29
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063203342",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

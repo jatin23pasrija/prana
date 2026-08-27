@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08908007322106",
+  "barcode_printed": "8908007322106",
+  "barcode_format": "EAN-13",
+  "name": "Energy Bar Quinoa Almond",
+  "brand": "mettle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "35 Gms"
+      },
+      "values": {
+        "energy_kcal": 150.37,
+        "protein_g": 3.64,
+        "carbohydrate_g": 23.38,
+        "sugars_g": 10.72,
+        "fat_g": 4.7,
+        "fibre_g": 2.48
+      }
+    }
+  ],
+  "ingredients_raw": "Cereal Blend (Granola (Rolled Oats, Honey, Vegetable Oil), Malted Wheat Flakes, Oats, Rice Crisp, Quinoa & Corn Flakes), Glucose, Dark Chocolate Compound, Nuts & Seeds (Almonds & Pumpkin seeds), Brown rice syrup, Dates, Cranberries, Fructo - oligosaccha rides, Honey, Vegetable Glycerin, Soy protein isolate, Vegetable Oil Salt, Emulsifier: Soy lecithin, Rosemary extract for freshness.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908007322106",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

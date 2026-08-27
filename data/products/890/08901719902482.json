@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719902482",
+  "barcode_printed": "8901719902482",
+  "barcode_format": "EAN-13",
+  "name": "Rusk",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 273,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 444.44,
+        "protein_g": 7.41,
+        "carbohydrate_g": 77.78,
+        "sugars_g": 25.93,
+        "fat_g": 11.11,
+        "saturated_fat_g": 5.56,
+        "fibre_g": 0,
+        "sodium_mg": 314.81
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719902482",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

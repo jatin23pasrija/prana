@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512540409",
+  "barcode_printed": "8901512540409",
+  "barcode_format": "EAN-13",
+  "name": "chilli surprise",
+  "brand": "act-ii",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 506,
+        "protein_g": 6,
+        "carbohydrate_g": 59,
+        "sugars_g": 0,
+        "fat_g": 30,
+        "saturated_fat_g": 16,
+        "trans_fat_g": 0,
+        "fibre_g": 12,
+        "sodium_mg": 600
+      }
+    }
+  ],
+  "ingredients_raw": "Popping Corn (66.7%), Refined Edible Palmolein Oil (TBHQ), lodized Salt, Spices & Condiments (Chilli Powder (0.1%), Pepper Black Powder, Cumin Powder, Fennel Powder, Ginger Powder), Sugar, Dehydrated Vegetables (Onion Powder Garlic Powder), Stabilizer (Hydrolyzed Vegetable Protein), Maltodextrin, Soya Sauce Powder, Acidity Regulator (Cric Acid), Anticaking Agent (Silicon Dioxide), Flavour Enhancers (Disodium Guanylate, Disodium Inosinate), Refined Edible Sunflower Oil, Natural Flavour (Pepper) & Nature Identical Ravour (Onion). Contains Soy and its products.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512540409",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

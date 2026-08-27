@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908026834024",
+  "barcode_printed": "8908026834024",
+  "barcode_format": "EAN-13",
+  "name": "Choconut Crunch Overnight Oats",
+  "brand": "goat-life",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Instant Oats (48%), Whey Protein Contentrate, Jaggery Powder Seeds (6%) (Chia Seeds, Flax Seeds), Milk Solids, Cocoa Solids (5%), Almonds (4%), Stevia Extract, Himalayan Pink Salt CONTAINS NATURAL FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908026834024",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

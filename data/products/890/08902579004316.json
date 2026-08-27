@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579004316",
+  "barcode_printed": "8902579004316",
+  "barcode_format": "EAN-13",
+  "name": "SMOODH Flavoured Milk (kesar Badam)",
+  "brand": "parle-agro",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "MILK SOLIDS *, SUGAR, EMULSIFIERS AND STABILIZERS [INS 460(i), INS 471, INS 466, INS 407, INS 340, INS 452]. FOOD COLOUR (INS 150c), NATURE IDENTICAL FLAVOURING SUBSTANCE (KESAR BADAM) AND IODISED SALT. *(EQUIVALENT TO 90% M/M DOUBLE TONED MILK) (INS-INTERNATIONAL NUMBERING SYSTEM) ALLERGEN INFORMATION: CONTAINS MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579004316",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906108192475",
+  "barcode_printed": "8906108192475",
+  "barcode_format": "EAN-13",
+  "name": "Korean Chicken Momos",
+  "brand": "licious",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "MOMO-Chicken (46%), Refined Wheat Flour (Maida), Water, Onion (7%), Soy Sauce (4.2%), Coriander (2%), Ginger, Garlic, Seasoning (1.7%), Vinegar, Brown Sugar, Sunflower Oil, lodised Salt, Red Chilli, Sesame Oil, Wheat Gluten, Flavour Enhancer (INS 627 & INS 631), Milk Solids, Gelling Agent (INS 407), Emulsifier (INS 451(i)), Spice Extract, Natural Color (INS 150a & INS 160c(i)), Acidity Regulator (INS 262(i)), Thickener (INS 415).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906108192475",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

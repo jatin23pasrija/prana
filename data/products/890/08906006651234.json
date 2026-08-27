@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006651234",
+  "barcode_printed": "8906006651234",
+  "barcode_format": "EAN-13",
+  "name": "Dates Powder",
+  "brand": "lion",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "15 g",
+        "quantity": {
+          "value": 15,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 56.25,
+        "protein_g": 0.3,
+        "carbohydrate_g": 13.74,
+        "sugars_g": 12.15,
+        "fat_g": 0.02,
+        "fibre_g": 0.06,
+        "sodium_mg": 3.64
+      }
+    }
+  ],
+  "ingredients_raw": "Dry Dates Powder",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006651234",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

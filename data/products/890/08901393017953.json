@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393017953",
+  "barcode_printed": "8901393017953",
+  "barcode_format": "EAN-13",
+  "name": "Mentos - Mint Flavour, Chewy Toffee",
+  "brand": "perfetti",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 36.4,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 386,
+        "energy_kj": 1532,
+        "protein_g": 0.05,
+        "carbohydrate_g": 92,
+        "sugars_g": 72,
+        "fat_g": 1.8,
+        "saturated_fat_g": 1.8,
+        "trans_fat_g": 0.02,
+        "fibre_g": 0,
+        "sodium_mg": 64
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, LIQUID GLUCOSE, STARCH, HYDROGENATED VEGETABLE OIL, THICKENER (INS 414) STABILIZER (INS 1400), EMULSIFIER (INS 471). CONTAINS ADDED FLAVOURS (NATURAL AND NATURE-IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393017953",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906071887743",
+  "barcode_printed": "8906071887743",
+  "barcode_format": "EAN-13",
+  "name": "Creme Bakes",
+  "brand": "lavian-exotique",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 21,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 445.39,
+        "protein_g": 7.23,
+        "carbohydrate_g": 68.57,
+        "sugars_g": 65.07,
+        "fat_g": 17.03,
+        "saturated_fat_g": 11.25,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 122.92
+      }
+    }
+  ],
+  "ingredients_raw": "SOFT CAKE(REFINED WHEAT FLOUR (MAIDA), SUGAR, LIQUID GLUCOSE, HUMECTANTS (INS 422, INS 420(i)), EDIBLE VEGETABLE OIL(REFINED PALMOLIEN OIL, INS 319, INS 330, INS 900(a)), CAKE GEL(INS 471, INS 477, INS 472(b), INS 470(i),INS 422), MILK SOLIDS, COCOA SOLIDS, BAKING POWDER, EMULSIFIER(INS 322), EDIBLE VEGETABLE FAT(REFINED PALM OIL, REFINED PALM STEARIN, Indian sesame oil), EDIBLE COMMON SALT, PRESERVATIVES (INS 202, INS 223), RAISING AGENTS (INS 503(ii), INS 500(ii)), STABILIZER(INS 415). CONTAINS PERMITTED NATURAL FOOD COLOUR (INS 150(d)) and ADDED FLAVOURS - ARTIFICIAL FLAVOURING SUBSTANCES (ETHYL VANILLIN))SYRUP(HUMECTANTS (INS 420(ii), INS 422), PRESERVATIVE (INS 202). CENTRE CREAM (18%)(SUGAR, EDIBLE VEGETABLE FAT (REFINED PALM OIL, REFINED PALM STEARIN, Indian sesame oil), MILK SOLIDS, COCOA SOLIDS, DEXTROSE MONOHYDRATE, EMULSIFIER(INS 322), HUMECTANT (INS 420(i)), PRESERVATIVE (INS 202), EDIBLE COMMON SALT. CONTAINS ADDED FLAVOUR-NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES (COCOA)), ENROBED COMPOUND (35%) (SUGAR, EDIBLE VEGETABLE FATS (HYDROGENATED VEGETABLE OILS - REFINED PALM KERNEL OIL,Indian sesame oil, INS 322), MILK SOLIDS, COCOA SOLIDS, EMULSIFIERS (INS 322, INS 476, INS 492), ANTIOXIDANT (INS 321),CONTAINS ADDED FLAVOUR(ARTIFICIAL FLAVOURING SUBSTANCES (ETHYL VANILLIN))), CONTAINS _WHEAT, MILK, SOYA AND SULPHITE. MAY CONTAINS TRACES OF NUTS_HYDROGENATED VEGETABLE FATS USED-CONTAINS TRANS FATS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906071887743",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

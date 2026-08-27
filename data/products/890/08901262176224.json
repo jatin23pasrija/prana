@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262176224",
+  "barcode_printed": "8901262176224",
+  "barcode_format": "EAN-13",
+  "name": "Amul Chocobar Probiotic",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 138,
+        "protein_g": 1.6,
+        "carbohydrate_g": 9.7,
+        "sugars_g": 9.2,
+        "fat_g": 10.4,
+        "saturated_fat_g": 7.7,
+        "sodium_mg": 20
+      }
+    }
+  ],
+  "ingredients_raw": "Inner Layer: Probiotic Ice Cream (70%): Milk solids, sugar, emulsifier (471), stabilizers (407, 466, 415, 412), artificial flavouring substances (vanilla), probiotic bacterial strains (Lactobacillus acidophilus & Bifidobacterium animalis-minimum 10 CFU* per mL); Outer Layer: Choco Layer Coating (30%): Cocoa solids, sugar, cocoa butter, coconut oil, emulsifier (322). *Colony Forming Unit",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262176224",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

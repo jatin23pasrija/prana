@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414000582",
+  "barcode_printed": "8901414000582",
+  "barcode_format": "EAN-13",
+  "name": "Bikano",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Edible Vegetable Oil (Contains one or more of the following: Palmolein Oil and Ricebran Oil), Split Benga Flour, Maize Flour, Peanuts, Rice Flakes, Spices and Condiments (Red chilly powder, Dry mango powder. Cumin powder powder, Clove powder, Asafoetida powder, Cinnamon powder, Coriander powder, Green chilly powder, Carom seeds p powder, Mace powder, Bay leaves powder), Green Peas, Cornflakes, Potato chips, Rice flour, Chickpeas, Iodized Salt, T salt, Malic Acid (E 296) as Acidity Regulator. CONTAINS PERMITTED NATURAL [E 100 & E 141(ii)] AND SYNTHETIC FOOD COLOUR (E133/FD&C BLUE NO.1) AND FLAVOURING SUBSTANCES) ALLERGEN ALERT: CONTAINS: PEANUT Made in a facility that processes Wheat, Oats, Peanuts, Tree Nuts, Soy, Milk and Sesame. INGRÉDIENTS: Huile végétale comestible (contient un ou plusieurs des éléments suivants: huile de palmoléine et hu (17.9%), lentilles (16,8%), farine de pois chiche, farine de maïs, cacahuètes, flocons de riz, épices et condiments (pime poudre de cumin, poudre sèche de gingembre, poudre de poivre noir, poudre de clou de girofle, poudre d'Asafoetic poudre fraiche verte, poudre de graines de carambole, poudre de cardamome, poudre de macaron, poudre de feuill croustilles, farine de riz, pois chiches, sel iodé, poudre de curcuma, poudre d'épinards, sel noir, acide malique (E 296) CONTIENT DES NATURELLES AUTORISÉES (E 100 et E 141 (ii)] ET DES COULEURS SYNTHÉTIQUES POUR LES ALIMENT AROMES AJOUTÉS (SUBSTANCES ARÔMES IDENTIQUES NATURELLES) ALERTE D'ALLERGENE : CONTIENT: ARACHIDE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414000582",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

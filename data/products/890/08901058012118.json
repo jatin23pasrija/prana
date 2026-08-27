@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058012118",
+  "barcode_printed": "8901058012118",
+  "barcode_format": "EAN-13",
+  "name": "Greek Yoghurt Alphonso Mangoes",
+  "brand": "nestle-a",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 109,
+        "protein_g": 4.8,
+        "carbohydrate_g": 15.2,
+        "sugars_g": 11.7,
+        "fat_g": 3.2,
+        "saturated_fat_g": 2.6,
+        "sodium_mg": 60
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058012118",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

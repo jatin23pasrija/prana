@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151741",
+  "barcode_printed": "8901063151741",
+  "barcode_format": "EAN-13",
+  "name": "Marie gold",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 453.13,
+        "protein_g": 9.38,
+        "carbohydrate_g": 78.13,
+        "sugars_g": 21.88,
+        "fat_g": 12.5,
+        "saturated_fat_g": 6.25,
+        "sodium_mg": 328.13
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151741",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

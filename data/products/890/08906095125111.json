@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906095125111",
+  "barcode_printed": "8906095125111",
+  "barcode_format": "EAN-13",
+  "name": "Mamra Badam 200gm",
+  "brand": "wonderland-foods",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 608.4,
+        "protein_g": 18.5,
+        "carbohydrate_g": 23.78,
+        "sugars_g": 3.8,
+        "fat_g": 48.8,
+        "saturated_fat_g": 4.22,
+        "trans_fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906095125111",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

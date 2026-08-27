@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003398006",
+  "barcode_printed": "8908003398006",
+  "barcode_format": "EAN-13",
+  "name": "Tofu",
+  "brand": "pro-plant",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 147.6,
+        "protein_g": 18,
+        "carbohydrate_g": 1.58,
+        "fat_g": 7.92
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003398006",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

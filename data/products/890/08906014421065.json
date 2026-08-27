@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906014421065",
+  "barcode_printed": "8906014421065",
+  "barcode_format": "EAN-13",
+  "name": "Chicken Tikka Masala Spice Mix",
+  "brand": "sanjeev-kapoor-s-khazana",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 440,
+        "protein_g": 8,
+        "carbohydrate_g": 20,
+        "sugars_g": 0,
+        "fat_g": 40,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 8,
+        "sodium_mg": 4360
+      }
+    }
+  ],
+  "ingredients_raw": "Spices (cumin crushed, coriander powder), onion, vegetable oil (cotton seed oil), tomato powder, cashewnuts, whey powder, salt, ginger, garlic, melon seeds, milk powder, paprika oleoresin, citric acid ( e 330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906014421065",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001381143",
+  "barcode_printed": "8906001381143",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Bread",
+  "brand": "english-oven",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 281,
+        "protein_g": 10.59,
+        "carbohydrate_g": 50.15,
+        "sugars_g": 5.61,
+        "fat_g": 2.03,
+        "saturated_fat_g": 0.47,
+        "fibre_g": 9.97,
+        "sodium_mg": 474
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta-87%)*, Sugar, Wheat Gluten, Yeast, Iodised Salt, Edible Vegetable Oil (Rice Bran), Wheat Bran, Class II Preservative (282), Malt Powder, Emulsifiers [471, 472e 481 (1)], Improvers (170(i), 510, 923, 1100] and Antioxidant (300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001381143",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

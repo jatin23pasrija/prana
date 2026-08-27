@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906036675521",
+  "barcode_printed": "8906036675521",
+  "barcode_format": "EAN-13",
+  "name": "Dharwad Peda",
+  "brand": "nandini",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 449,
+        "protein_g": 13,
+        "carbohydrate_g": 58,
+        "sugars_g": 58,
+        "fat_g": 18.3,
+        "saturated_fat_g": 11.9,
+        "sodium_mg": 203
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids, Sugar",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906036675521",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

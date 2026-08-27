@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058013979",
+  "barcode_printed": "8901058013979",
+  "barcode_format": "EAN-13",
+  "name": "Rich tomato ketchup",
+  "brand": "maggi",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Tomato paste (24.5%), Sugar, lodized salt, Thicker (1422 & 415), Acidity Regulator (260), Dehydrated onion, Dried garlic, Preservative (211) and Mixed spices.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058013979",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500030",
+  "barcode_printed": "8906010500030",
+  "barcode_format": "EAN-13",
+  "name": "Malasa Masti",
+  "brand": "balaji-wafers",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 539,
+        "protein_g": 7.4,
+        "carbohydrate_g": 56.9,
+        "sugars_g": 5.2,
+        "fat_g": 29.5,
+        "saturated_fat_g": 14,
+        "trans_fat_g": 0.1,
+        "fibre_g": 8.5,
+        "sodium_mg": 760
+      }
+    }
+  ],
+  "ingredients_raw": "POTATO (87%), EDIBLE VEGETABLE OIL (PALMOLEIN), SUGAR, SPICES & CONDIMENTS 1% (CHILLI, DRY MANGO, CORIANDER, CUMIN, BLACK PEPPER, GINGER, CLOVE), EDIBLE COMMON SALT, BLACK SALT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500030",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

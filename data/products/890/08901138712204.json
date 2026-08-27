@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901138712204",
+  "barcode_printed": "8901138712204",
+  "barcode_format": "EAN-13",
+  "name": "Mentat",
+  "brand": "hlmalaya",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Mentat tablete este un supliment alimentar din extracte si pulberi vegetale. Plantele din compozitie contin substante bioactive ce contribuie la mentinerea starii de sanatate a organismului prin cresterea capacitatii de concentrare si de memorare si a rezistentei la stres.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901138712204",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010505325",
+  "barcode_printed": "8906010505325",
+  "barcode_format": "EAN-13",
+  "name": "Ratlami sev",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 564.37,
+        "protein_g": 14.11,
+        "carbohydrate_g": 42.33,
+        "sugars_g": 0,
+        "fat_g": 38.8,
+        "saturated_fat_g": 17.64,
+        "fibre_g": 7.05,
+        "sodium_mg": 1022.93
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010505325",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002515046",
+  "barcode_printed": "8908002515046",
+  "barcode_format": "EAN-13",
+  "name": "kalimark vibro paneer",
+  "brand": "kalimark",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "| VİBR。 Quantity Of Sugar Added 12g Per 100mi PANEER NUTRITIONAL FACTS PER 100ml APPROX) SWEETENED CARBONATED BEVERAGE CONTAINS Sugar WATER, SUGAR, CITRIC ACID AND NO FRUIT JUICE CONTAINS: PERMITTED CLASS II PRESERVATIVE E211 AND ADDED NATURE IDENTICAL AND ARTIFICIAL ROSE FLAVORING SUBSTANCES. Carbohydrate 12 12q Protein Fat Energy 0g 0g 48 Kcals",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002515046",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

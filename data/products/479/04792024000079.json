@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "04792024000079",
+  "barcode_printed": "4792024000079",
+  "barcode_format": "EAN-13",
+  "name": "Coconut milk powder sm",
+  "brand": "maggi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Coconut milk solids (78.6%), - OOQ Maltodextrin, Sodium caseinate (Milk protein) and Stabilizer (339(ii). INGREDIENTS AFTER RECONSTITUTION: Water, Coconut milk solids, Maltodextrin, Sodium caseinate (Milk protein) and Stabilizer (339(ii). ut COL Dog Mad Amounts of an average abult contains4 portions NUTRITIONAL COMPASS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4792024000079",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

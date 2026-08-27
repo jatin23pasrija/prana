@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08000500441688",
+  "barcode_printed": "8000500441688",
+  "barcode_format": "EAN-13",
+  "name": "TicTac Seeds",
+  "brand": "tictac",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 13,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 50,
+        "energy_kj": 209,
+        "protein_g": 0.1,
+        "carbohydrate_g": 11.7,
+        "sugars_g": 11,
+        "fat_g": 0.2,
+        "saturated_fat_g": 0.09,
+        "fibre_g": 0,
+        "sodium_mg": 1.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8000500441688",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

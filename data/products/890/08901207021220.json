@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207021220",
+  "barcode_printed": "8901207021220",
+  "barcode_format": "EAN-13",
+  "name": "real apple juice",
+  "brand": "real",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Sugar, Liquid Glucose, Apple Juice Concentrate (3.85%)^, Acidity Regulator (INS 296), Antioxidant (INS 300) and Flavours (Nature Identical Flavouring Substances). THIS CONTAINS 23 % APPLE JUICE CONTENT. Refrigerate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207021220",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

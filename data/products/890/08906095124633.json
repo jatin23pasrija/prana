@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906095124633",
+  "barcode_printed": "8906095124633",
+  "barcode_format": "EAN-13",
+  "name": "Raw california Independence Almonds By Wonderland",
+  "brand": "wonderland",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 574,
+        "protein_g": 15,
+        "carbohydrate_g": 33,
+        "sugars_g": 5,
+        "fat_g": 46,
+        "saturated_fat_g": 9,
+        "fibre_g": 3,
+        "sodium_mg": 640
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906095124633",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

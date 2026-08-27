@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906143890008",
+  "barcode_printed": "8906143890008",
+  "barcode_format": "EAN-13",
+  "name": "5 Grain Muesli",
+  "brand": "the-whole-truth",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50 g",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 236.3,
+        "protein_g": 6.2,
+        "carbohydrate_g": 33,
+        "sugars_g": 2.2,
+        "fat_g": 9.7,
+        "saturated_fat_g": 1.6,
+        "fibre_g": 3.7,
+        "sodium_mg": 5.2
+      }
+    }
+  ],
+  "ingredients_raw": "Multigrain(rolled oats, ragi flakes, bajra flakes, jowar flakes, brown rice flakes), nuts (almonds, peanut butter), dried fruits (dates, black & golden raisins, apricots),seeds (pumpkin seeds, watermelon seeds),cocoa butter,cinnamon",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906143890008",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

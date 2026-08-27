@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500276",
+  "barcode_printed": "8906010500276",
+  "barcode_format": "EAN-13",
+  "name": "Balaji Wafers Shing Bhujia",
+  "brand": "balaji-wafers",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 640,
+        "protein_g": 20.3,
+        "carbohydrate_g": 26.5,
+        "sugars_g": 2,
+        "fat_g": 47.4,
+        "saturated_fat_g": 12,
+        "sodium_mg": 798
+      }
+    }
+  ],
+  "ingredients_raw": "PEANUT (63%), CHICKPEA FLOUR (13%), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), CORN FLOUR, BLACK GRAM FLOUR SPICES & CONDIMENTS 2% (CHILLI, BLACK PEPPER, GINGER, DRY MANGO, CLOVE, CAROM SEEDS, TAMARIND), EDIBLE COMMON SALT, ACIDITY REGULATOR (INS 330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500276",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

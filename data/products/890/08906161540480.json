@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161540480",
+  "barcode_printed": "8906161540480",
+  "barcode_format": "EAN-13",
+  "name": "Protein wafer",
+  "brand": "stroom",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "PEA PROTEIN, SUGARFREE WHITE CHOCOLATE (SWEETENER (INS 965(1)), EDIBLE VEGETABLE FAT, MILK SOLIDS, EMULSIFIER (INS 322(1)), MULTIGRAIN (MILLET, WHEAT ATTA), COCONUT OIL, SKIMMED MILK POWDER, NATURE IDENTICAL FLAVOUR-ST PERMITTED FOOD COLOUR (INS129), SWEETENER (INS 965(1)), EDIBLE COMMON SALT, LEAVENING AGENT (INS500(11)), EMULSIFIER (INS322(1))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161540480",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

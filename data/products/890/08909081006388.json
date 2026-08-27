@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081006388",
+  "barcode_printed": "8909081006388",
+  "barcode_format": "EAN-13",
+  "name": "Yippee noodles",
+  "brand": "sunfeast",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Instant Noodles: Maida (Refined Wheat Flour) (78.7%), *Edible Vegetable Oil, lodized Salt, Wheat Gluten (0.4%), Thickeners (508, 412), Acidity Regulators [501(1), 500(i)], Stabilizer [339(ii)]. Seasoning: Masala Mix: Dehydrated Vegetables [Beans (9.5%), Carrot (7.1%), Onion (4.6%), Cabbage (3.8%)], Instant Noodle Powder Maida (Refined Wheat Flour) (15.9%), *Edible Vegetable Oil, lodized Salt, Wheat Gluten (0.07%)}, Spices and Condiments (17.6%) [Garlic, Coriander, Cumin, Dried Ginger, Chillies, Aniseed, Fenugreek, Black Pepper, Cardamom, Nutmeg, Caraway, Cinnamon, Cloves, Turmeric], Sugar, lodized Salt, Hydrolyzed Vegetable Protein (Defatted Soya, Maltodextrin), Natural Flavours and Natural Flavouring Substances, Yeast Extract, Acidity Regulator (330), Nature Identical Flavouring Substances, Flavour Enhancer (635). *To know the specific type of oil(s) used, match the symbol (^ or ^^) with the last character of batch number wherein * denotes Refined Palm Oil, MA denotes the blend of oils Refined Rice Bran Oil, Refined Palm Oil. Contains Wheat, Soy. May Contain Milk, Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081006388",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

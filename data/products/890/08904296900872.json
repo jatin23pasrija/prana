@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904296900872",
+  "barcode_printed": "8904296900872",
+  "barcode_format": "EAN-13",
+  "name": "Fabsta Masala Mazza",
+  "brand": "fabsta",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "INSTANT NOODLES WITH SEASONING NOODLES 90%: Refined Wheat Flour (Maida), Refined Palm Oil, lodised Salt, Acidity Regulators (INS 451 & INS 500], Mixed Spices 0.17% [Turmeric, Coriander, Cumin & Red Chilli (0.02%)], Antioxidant (INS 319) & Thickener (INS 412) SEASONING 10%: Sugar, Onion Powder 18%, lodised Salt, Mixed Spices 11.41% [Coriander, Red Chilli (1.94%), Turmeric, Cumin, Fennel, Black Pepper (0.99%), Fenugreek, Ginger, Clove (0.29%), Nutmeg & Green Cardamom, Noodle Powder (Refined Wheat Flour (Maida), Refined Palm Oil, lodised Salt, Acidity Regulators [INS 451(i) & INS 500(0), Mixed Spices 0.17% (Turmeric, Coriander, Cumin & Red Chilli), Antioxidant (INS 319) & Thickener (INS 412)), Maltodextrin, Hydrolyzed Vegetable Protein (Soya), Corn Starch, Garlic Powder, Flavour Enhancers [INS 631&INS 627, Yeast Extract Powder, Acidity Regulator (INS 330) & Natural Flavour.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904296900872",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

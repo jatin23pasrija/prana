@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906066202124",
+  "barcode_printed": "8906066202124",
+  "barcode_format": "EAN-13",
+  "name": "Italiano Tradizionale",
+  "brand": "keya",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 361,
+        "energy_kj": 1511,
+        "protein_g": 12,
+        "carbohydrate_g": 78,
+        "sugars_g": 1,
+        "fat_g": 0.4,
+        "saturated_fat_g": 0.1,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 5
+      }
+    }
+  ],
+  "ingredients_raw": "Durum Wheat Semolina",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906066202124",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

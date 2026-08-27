@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08906023413501",
+  "barcode_printed": "8906023413501",
+  "barcode_format": "EAN-13",
+  "name": "Fantasia Ice Cream Sandwich",
+  "brand": "cream-bell",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "58 g",
+        "quantity": {
+          "value": 58,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 169.2,
+        "protein_g": 2.9,
+        "carbohydrate_g": 26.2,
+        "sugars_g": 13.1,
+        "fat_g": 5.8,
+        "saturated_fat_g": 2.9,
+        "trans_fat_g": 0.06,
+        "sodium_mg": 30.4
+      }
+    }
+  ],
+  "ingredients_raw": "Inner Layer (59%): Water, Milk Solids, Sugar, Maltodextrin, Permitted Emulsifying Agents (433, 471) & Stabilizing Agents (407,412) Outer Layer (41%): Choco Biscuit: Wheat Flour, Sugar, Edible Vegetable Oil (Refined Palm Kernel Oil), Cocoa Powder, Milk Solids, Salt, Raising Agents [500 (ii), 503 (ii)], Emulsifier (322) & Antioxidant (INS 319) CONTAINS PERMITTED NATURAL FOOD COLOUR (150c) AND ADDED NATURE IDENTICAL AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906023413501",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

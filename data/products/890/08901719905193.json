@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719905193",
+  "barcode_printed": "8901719905193",
+  "barcode_format": "EAN-13",
+  "name": "Hide & Seek",
+  "brand": "hide-seek",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 5 cookies (27.5 g)",
+        "quantity": {
+          "value": 27.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 132,
+        "protein_g": 1.6,
+        "carbohydrate_g": 20.1,
+        "sugars_g": 9,
+        "fat_g": 5,
+        "saturated_fat_g": 3.1,
+        "sodium_mg": 32
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719905193",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

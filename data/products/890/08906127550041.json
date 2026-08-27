@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906127550041",
+  "barcode_printed": "8906127550041",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Peanut Butter Smooth",
+  "brand": "alpino",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Roasted Peanut (86%), Chocolate (13%) (Natural Cocoa, Cocoa Butter, Brown Sugar), Salt, Emulsifier (E471-100% Plant Base)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906127550041",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

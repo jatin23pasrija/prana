@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033261215",
+  "barcode_printed": "8906033261215",
+  "barcode_format": "EAN-13",
+  "name": "Ripple Tea",
+  "brand": "ripple",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 111,
+        "protein_g": 19.7,
+        "carbohydrate_g": 4.1,
+        "sugars_g": 3.1,
+        "fat_g": 1.8
+      }
+    }
+  ],
+  "ingredients_raw": "Green Tea (99.7%) & Jasmine Flavour (Natural Flavour) CONTAINS ADDED FLAVOUR (NATURAL FLAVOUR)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033261215",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

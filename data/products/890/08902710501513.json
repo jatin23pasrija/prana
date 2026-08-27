@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08902710501513",
+  "barcode_printed": "8902710501513",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Whey Protien with Almonds Muesli",
+  "brand": "baggry-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 399,
+        "protein_g": 20.3,
+        "carbohydrate_g": 64.5,
+        "sugars_g": 16,
+        "fat_g": 8.2,
+        "saturated_fat_g": 1.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902710501513",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

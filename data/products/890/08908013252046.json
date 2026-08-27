@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013252046",
+  "barcode_printed": "8908013252046",
+  "barcode_format": "EAN-13",
+  "name": "mixed fruit granola",
+  "brand": "fit-and-flex",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "AGREDIENTS: Rolled Oats (32.9%), FOS (9.5%), Rice Flour(9.3%), Wheat Flour (7.6%), Palm Kernel Oil (6.1%), Sugar (4.2 g), Maze Grits, Maltodextrin, Almond Flakes (3%), Tender Coconut Powder, Coconut Milk Powder, Candied Fruits (Cranberry 3.7%, Blueberry 3.7%), Freeze Dried Fruits (Strawberry 3%), Salt, Sodium Citrate (INS 331) Glycerin(INS 422), Citric Acid (INS 330), Tocopherol (INS 307). CONTAINS ADDED NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES(MIX BERRIES & TENDER COCONUT) Contains Oligofructose (Dietary Fibre) 9.4 gm/100 gm ALLERGEN INFORMATION: Contains gluten,may contain traces of almond.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013252046",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

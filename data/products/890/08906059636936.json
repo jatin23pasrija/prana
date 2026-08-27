@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059636936",
+  "barcode_printed": "8906059636936",
+  "barcode_format": "EAN-13",
+  "name": "Epigamia Everyday Yogurt Mango",
+  "brand": "epigamia",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pasteurized Double Toned Milk (86%), Sugar, Milk Solids (3%), Nature Identical Flavouring Substances (Mango), Stabilizer (INS 440), Permitted Lactic Acid Cultures, Colour (INS 102, INS 110) Active Live Cultures: S.Thermophilus, L.Bacillus delbrueckii subsp. Bulgaricus ALLERGENS: Contains milk. Manufactured in a facility processing milk, nuts & cereals containing gluten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059636936",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

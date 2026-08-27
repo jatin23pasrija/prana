@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005144366",
+  "barcode_printed": "8908005144366",
+  "barcode_format": "EAN-13",
+  "name": "Breakfast Protein Bar Apricot Fig",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Millets, Samai Flakes, Jowar Flakes, Rolled Oats, Rice Flakes, Quinoa Flakes, Oats Flour, Fructo-oligosaccharide, Nuts & Seeds 15.5% (Flax, Sesame, Sunflower 3%, Chia, Almond 2%, Pumpkin), Raisins 9.8%, Honey, Rice Crispy, Glycerine, Natural Flavors (Apricot, Fig, Rosemary Extract), Gum Acacia, Apple Fibre, Himalayan Pink Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005144366",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

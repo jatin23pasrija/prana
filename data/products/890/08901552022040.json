@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552022040",
+  "barcode_printed": "8901552022040",
+  "barcode_format": "EAN-13",
+  "name": "Ashoka Dal Palak (280G)",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Bengal Gram, Spinach, Onions, Tomatoes, Split Green Gram, Garlic, Sunflower Oil, Ginger, Green Chilli, Salt, Turmeric Powder, Cumin, Spices (Star anise, Black Cardamom, Black Pepper, Caraway, Cassia, Chilli, Clove, Cloves, Coriander, Cumin, Ginger Powder, Fennel Seeds), Coriander Powder, Red Chilli Powder, Black Pepper Powder, Asafoetida (Wheat), Cinnamon Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552022040",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

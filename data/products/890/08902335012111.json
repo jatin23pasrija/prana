@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08902335012111",
+  "barcode_printed": "8902335012111",
+  "barcode_format": "EAN-13",
+  "name": "Galletas",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 992.2333093750001,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 0,
+        "protein_g": 9.09,
+        "carbohydrate_g": 78.79,
+        "sugars_g": 21.21,
+        "fat_g": 10.61,
+        "saturated_fat_g": 4.55,
+        "sodium_mg": 348.48
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902335012111",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

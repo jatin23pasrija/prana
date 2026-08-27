@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262178440",
+  "barcode_printed": "8901262178440",
+  "barcode_format": "EAN-13",
+  "name": "Cookie Sub",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 163,
+        "protein_g": 3.2,
+        "carbohydrate_g": 25.8,
+        "sugars_g": 24.6,
+        "fat_g": 5.7,
+        "saturated_fat_g": 3,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 85
+      }
+    }
+  ],
+  "ingredients_raw": "Inner Layer - Chocolate Ice Cream (50%): Milk solids, sugar, dextrose, cocoa solids, emulsifiers (471, 491), stabilizers (407, 412); Outer Layer - Chocolate Cookie (50%): Refined wheat flour, sugar, palm oil, cocoa solids, maltodextrin, iodized salt, raising agents [500 (ii), 503 (ii)], antioxidant (319), emulsifier (322), artificial flavouring Substances (vanilla), colour (150d). Allergen Information: Contains milk, wheat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262178440",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

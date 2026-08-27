@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901357000472",
+  "barcode_printed": "8901357000472",
+  "barcode_format": "EAN-13",
+  "name": "Hi-Tea",
+  "brand": "hi-tea",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 225,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Batch No 83 N rod Dat 2021 الشاي هاي تب",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901357000472",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

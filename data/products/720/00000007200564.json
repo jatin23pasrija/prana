@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00000007200564",
+  "barcode_printed": "07200564",
+  "barcode_format": "EAN-8",
+  "name": "milk",
+  "brand": "smartpaper",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Smart PECH * For Visual representation only FOR COOL PERSONALISED RECIPES SCAN THE OR CODE&gt; PLAM AT Brew your favorite cup of coffee/tea anytime of day or night Do nat UHT Milk needs no refrigeration till it's opened, hence easy to store! Mate Kan Prot P.B Cust Pamper the child in you, enjoy with your favorite cereals Pr Tol Since it is sterilised, UHT milk can be consumed Directly from pack",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/07200564",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

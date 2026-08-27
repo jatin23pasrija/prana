@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908021430016",
+  "barcode_printed": "8908021430016",
+  "barcode_format": "EAN-13",
+  "name": "BOMBAY MIXTURE",
+  "brand": "bg-naidu",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rice Flour, Gram Flour, Split Bengal Gram, Lentils, Cashew Nut, Mixed Spices, Salt, Asafoetida & Edible Veg.Oil",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908021430016",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004400687",
+  "barcode_printed": "8904004400687",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's Aloo Bhujia Sev",
+  "brand": "haldiram-s",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 564,
+        "protein_g": 8.97,
+        "carbohydrate_g": 47.71,
+        "fat_g": 37.48,
+        "saturated_fat_g": 16.42,
+        "sodium_mg": 984
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Palmolein, Cotton Seed, Corn, Sunflower), Bengal Gram Flour (Besan), Potato Flakes, Potato Starch, Tapioca Starch, Tepary Beans (Moth Dal) Flour, Iodised Salt, Red Chilli Powder, Black Salt, Acidity Regulator (INS 330), Black Pepper, Clove, Dried Ginger Powder, Dried Garlic Powder, Cumin Powder, Bay Leaf, Nutmeg, Cinnamon, Turmeric, Mint Leaves, Natural Flavours & Natural Flavouring Substances & Nature Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004400687",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

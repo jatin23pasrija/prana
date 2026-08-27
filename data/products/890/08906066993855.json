@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08906066993855",
+  "barcode_printed": "8906066993855",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Chana",
+  "brand": "bam-bam",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 348.97,
+        "protein_g": 20.55,
+        "carbohydrate_g": 56.68,
+        "fat_g": 4.45
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906066993855",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

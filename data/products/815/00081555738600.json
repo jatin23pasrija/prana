@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "00081555738600",
+  "barcode_printed": "0081555738600",
+  "barcode_format": "EAN-13",
+  "name": "la colors lipstick",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "POLYISOBUTENE MINERAL OIL (PARAFFINUM LIQUIDUM), PARAFFIN TRIDECYL TRIMELLITATE, ETHYLHEXYL PALMITATE OCTYLDODECANOL, MICA, DIGLYCERYL ADIPATE CAPRYLATE/HYDROXYSTEARATE/ISOSTEARATE/ STEARATE, MICROCRYSTALLINE WAX (CERA MICROCRISTALLINA), SYNTHETIC FLUORPHLOGOPITE SYNTHETIC WAX, POLYCLYCERYL-10 DECAISOSTEARATE, DIMETHICONE, SILICA DIMETHYL SILYLATE, ALOE BARBADENSIS LEAF EXTRACT, PHENOXYETHANOL, TOCOPHERYL ACETATE ETHYLHEXYLGLYCERIN, TIN OXIDE MAY CONTAIN /PEUT CONTENIR: TITANIUM OXIDE (CI 77891) IRON OXIDES (CI 77491, CI 77492, CI 77499), RED 6 LAKE (CI 15850), RED 7 LAKE (CH15850), RED 40 LAKE (CI 16035), RED 28 LAKE (CI 45410) BLUE 1 LAKE (C 42090), BLACK 2 (CI 77266). CARMINE (CI 75470) CAUTION IF IRDITATION CUL DISCONTINUE USE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0081555738600",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

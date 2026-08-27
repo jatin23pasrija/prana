@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08904147434709",
+  "barcode_printed": "8904147434709",
+  "barcode_format": "EAN-13",
+  "name": "Citrus acid (Limbu Phool)",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 160,
+        "protein_g": 0,
+        "carbohydrate_g": 80,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 20,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904147434709",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

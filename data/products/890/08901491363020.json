@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491363020",
+  "barcode_printed": "8901491363020",
+  "barcode_format": "EAN-13",
+  "name": "Chilli Chatka",
+  "brand": "10",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cereal Products (66%) (Rice Meal (43%), Com Meal (23%)), Edible Vegetable Oil (Rice Bran Oil), *Seasoning (Sugar, &quot;Spices & Condiments, lodised Salt, Rice Flour, Flavour (Natural & Nature Identical Flavouring Substances), Acidity Regulators (330, 196), Black Salt, Flavour Enhancers (627, 631), Colours (160c 150d)), Gram Meal (0.5%). As Flavouring Agent. Contains Onion and Garlic Serve Size 20 g** MARK Per 100g %RDA Per Serve Pepsi",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491363020",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

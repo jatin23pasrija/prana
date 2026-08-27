@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906143890473",
+  "barcode_printed": "8906143890473",
+  "barcode_format": "EAN-13",
+  "name": "The Whole Truth 71% Dark Chocolate",
+  "brand": "the-whole-truth",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 596.6,
+        "protein_g": 8.1,
+        "carbohydrate_g": 40.2,
+        "sugars_g": 21.6,
+        "fat_g": 44.8,
+        "saturated_fat_g": 30.9,
+        "fibre_g": 8.2,
+        "sodium_mg": 2.7
+      }
+    }
+  ],
+  "ingredients_raw": "cocoa(cocoa nibs (51%), cocoa butter (20%)), date powder(29%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906143890473",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

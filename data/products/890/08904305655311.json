@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904305655311",
+  "barcode_printed": "8904305655311",
+  "barcode_format": "EAN-13",
+  "name": "Chicken Wings Pepper Fry",
+  "brand": "fresh-to-home",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "175 g",
+        "quantity": {
+          "value": 175,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 201,
+        "protein_g": 28,
+        "carbohydrate_g": 3.1,
+        "sugars_g": 0.4,
+        "fat_g": 8.4,
+        "saturated_fat_g": 4.4,
+        "sodium_mg": 470
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904305655311",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

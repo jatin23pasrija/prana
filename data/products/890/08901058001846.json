@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058001846",
+  "barcode_printed": "8901058001846",
+  "barcode_format": "EAN-13",
+  "name": "Kitkat",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 18.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Milk solids (16.2%), Fractionated vegetable fat, Hydrogenated vegetable fats, Refined Wheat flour (Maida), Cocoa solids (4.5%), Emulsifier (Soya lecithin), Yeast, Raising agent (500)). Artificial (Vanilla) flavouring substance, Iodised salt, Flour treatment agent (516) and Nature-Identical flavouring substance.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058001846",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

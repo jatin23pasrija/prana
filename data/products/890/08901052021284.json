@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901052021284",
+  "barcode_printed": "8901052021284",
+  "barcode_format": "EAN-13",
+  "name": "tata tea gemini",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "TATATEA EMUN SSL 10 INGRE NET W: 500 g MRP Incl. of all taxes Manufactured",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901052021284",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

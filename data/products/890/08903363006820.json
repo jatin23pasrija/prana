@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363006820",
+  "barcode_printed": "8903363006820",
+  "barcode_format": "EAN-13",
+  "name": "Almond Kernels",
+  "brand": "dmart-swaad",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 642.21,
+        "protein_g": 25.1,
+        "carbohydrate_g": 11.59,
+        "sugars_g": 5.51,
+        "fat_g": 55.05,
+        "saturated_fat_g": 4.66,
+        "trans_fat_g": 0,
+        "sodium_mg": 0.77
+      }
+    }
+  ],
+  "ingredients_raw": "Almond Kernels",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363006820",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

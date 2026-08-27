@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00846203002881",
+  "barcode_printed": "0846203002881",
+  "barcode_format": "EAN-13",
+  "name": "seed and choco chip cookies",
+  "brand": "chitale",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Atta, Hydrogenated Vegetable Fat, Refined Sugar, Dark Chocolate Chips (11.4%) [Sugar, Hydrogenated Vegetable Oil (Vanaspati), Maltodextrin, Cocoa Solids, Emulsifier (Soya Lecithin) (INS 322), Nature Identical Flavouring Substances (Vanillin), lodised Salt], Pumpkin Seeds (6.7%), Sunflower Seeds (6.7%), Cashewnuts (6.03%), Corn Flour, Orange Peel, Dextrose, Skimmed Milk Powder, Nature Identical Flavour (Orange), Artificial Flavour (Vanilla), Raising Agent [INS 503 (ii), INS 521, INS 500 (ii)], lodised Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0846203002881",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

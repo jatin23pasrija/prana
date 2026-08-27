@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "07901011018448",
+  "barcode_printed": "7901011018448",
+  "barcode_format": "EAN-13",
+  "name": "Nestle munch king size",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 17.8,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 435,
+        "protein_g": 6,
+        "carbohydrate_g": 50,
+        "sugars_g": 32.9,
+        "fat_g": 23.4,
+        "saturated_fat_g": 23.1,
+        "trans_fat_g": 0.06,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Refined Wheat flour (Maida), Hydrogenated vegetable fats, Fractionated vegetable fat, Milk solids, Cocoa solids (3.8%), Emulsifiers (Soya lecithin and 476), Raising agent (500 ii), Yeast, Iodized salt, Flour treatment agent (516) and Artificial flavouring substances (vanilla). Allergen note: Contains Wheat, Milk, Sesame and Soy. May Contain Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7901011018448",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

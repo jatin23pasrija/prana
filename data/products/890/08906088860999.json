@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906088860999",
+  "barcode_printed": "8906088860999",
+  "barcode_format": "EAN-13",
+  "name": "current hot lemon",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 557.8,
+        "protein_g": 6.1,
+        "carbohydrate_g": 55.2,
+        "sugars_g": 1.48,
+        "fat_g": 34.6,
+        "saturated_fat_g": 15.6,
+        "fibre_g": 3.8,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Meal, Edible Vegetable Oil (Palmolein Oil), Corn Meal, *Spices and Condiments (Red Chilli Powder, Amchur Powder, Coriander Powder, Onion Powder, Garlic Powder, Ginger Powder, Black Pepper, Turmeric Powder, Fenugreek), Gram Meal, Salt, Sugar, Tomato Powder, Acidity Regulator (INS 330) Starch Powder, SMP Powder, Dextrose, Paprika (INS 160c), Flavour Enhancer INS 6211 and Natural Flavour (Lemon).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906088860999",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904109471490",
+  "barcode_printed": "8904109471490",
+  "barcode_format": "EAN-13",
+  "name": "Chyawanprash",
+  "brand": "patanjali",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 355,
+        "protein_g": 1.1,
+        "carbohydrate_g": 78,
+        "sugars_g": 36,
+        "fat_g": 4,
+        "saturated_fat_g": 2.8,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "oyxoykyxlyxlhxlyx",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904109471490",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

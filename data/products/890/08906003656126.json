@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906003656126",
+  "barcode_printed": "8906003656126",
+  "barcode_format": "EAN-13",
+  "name": "Three Mango Lime Pickle",
+  "brand": "three-mango",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 57,
+        "protein_g": 3,
+        "carbohydrate_g": 8,
+        "fat_g": 1,
+        "saturated_fat_g": 0.1
+      }
+    }
+  ],
+  "ingredients_raw": "Lime pieces, Lime juice, iodized salt, Refined rice bran oil, Mixed spice powder, Mustard seeds, Curry leaves, Dry chillies, Garlic, Acidity regulator",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906003656126",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

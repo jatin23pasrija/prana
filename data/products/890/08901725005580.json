@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725005580",
+  "barcode_printed": "8901725005580",
+  "barcode_format": "EAN-13",
+  "name": "Aashirvaad Ready to cook Chapati",
+  "brand": "aashirvaad",
+  "category": "flour",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 261,
+        "protein_g": 8.9,
+        "carbohydrate_g": 46.1,
+        "sugars_g": 6,
+        "fat_g": 6.3,
+        "saturated_fat_g": 0.8,
+        "trans_fat_g": 0.04,
+        "fibre_g": 8.1,
+        "sodium_mg": 331.6
+      }
+    }
+  ],
+  "ingredients_raw": "Atta (54.9%), Water (36.4%), Refined Sunflower Oil, Iodized Salt, Tapioca Flour, Milk Solids, Humectant (INS 422), Wheat Gluten, Emulsifier [Mono - and di-glycerides of fatty acids (from Palm oil)], Vitamin C and Yeast.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725005580",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

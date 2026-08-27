@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906156483495",
+  "barcode_printed": "8906156483495",
+  "barcode_format": "EAN-13",
+  "name": "Sprouted Moong Chilla",
+  "brand": "khetika",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (50 g)",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 120,
+        "protein_g": 6.55,
+        "carbohydrate_g": 19,
+        "fat_g": 2.27,
+        "fibre_g": 5.5,
+        "sodium_mg": 123.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906156483495",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

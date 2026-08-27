@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "05059883417059",
+  "barcode_printed": "5059883417059",
+  "barcode_format": "EAN-13",
+  "name": "Impact Whey Protein",
+  "brand": "my-protein",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 115.5,
+        "protein_g": 21.5,
+        "carbohydrate_g": 3.44,
+        "sugars_g": 1.41,
+        "fat_g": 1.75,
+        "saturated_fat_g": 1.07,
+        "sodium_mg": 51.41
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Concentrate (93.1%) (Emulsifiers: Soy lecithin & Sunflower lecithin), Natural & Nature Identical & Artificial Flavours (Mango), Natural Colour (Beta Carotene), Sweetener (Sucralose). ALLERGENS: Contains Milk and Soy. Manufactured in a facility which processes Oats, Wheat and Nuts. THIS CONTAINS SUCRALOSE. CONTAINS NON-CALORIC SWEETENER. INSTRUCTIONS FOR USE: Protein contributes to the growth & maintenance of muscle mass, so to reap the benefits of MYPROTEIN 4671 this product we recommend adding 30g (approx 1 scoop) to 250ml of water or milk, consume 30 minutes before and/or after your exercise. Recommended Usage: 30g (approx. 1 scoop) per day. IMPORTANT INFORMATION: This product is not to be used as a substitute for a varied diet. This product is intended to be used alongside an active lifestyle and a balanced diet.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5059883417059",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906095375127",
+  "barcode_printed": "8906095375127",
+  "barcode_format": "EAN-13",
+  "name": "Nylon sev",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 591,
+        "protein_g": 8,
+        "carbohydrate_g": 47,
+        "sugars_g": 0,
+        "fat_g": 41,
+        "saturated_fat_g": 21,
+        "fibre_g": 8,
+        "sodium_mg": 572
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906095375127",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

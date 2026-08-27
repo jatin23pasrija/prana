@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009809663",
+  "barcode_printed": "8906009809663",
+  "barcode_format": "EAN-13",
+  "name": "Waffy orange flavour",
+  "brand": "dukes",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 516.2,
+        "protein_g": 3.1,
+        "carbohydrate_g": 69.5,
+        "sugars_g": 38.2,
+        "fat_g": 25.1,
+        "saturated_fat_g": 12.8,
+        "trans_fat_g": 0.2,
+        "sodium_mg": 29.44
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, REFINED WHEAT FLOUR (MAIDA), MALTODEXTRIN, REFINED PALM OIL, HYDROGENATED OILS, EMULSIFIER [INS 322(i)], NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES (ORANGE), ORANGE FRUIT POWDER (0.01%), IODIZED SALT, COLOUR (INS 110), RAISING AGENT [INS 500(ii)], FLOUR TREATMENT AGENTS (INS 223, INS 1100, INS 1101) AND ACIDITY REGULATOR (INS 296), _Wheat_, _Milk_, _Soy_, _Sulphites_, _Nuts_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009809663",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

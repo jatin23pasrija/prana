@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901548431108",
+  "barcode_printed": "8901548431108",
+  "barcode_format": "EAN-13",
+  "name": "Sugar Free Green Sweetner",
+  "brand": "sugar-free",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Carrier (Lactose), Dispersing Agent Microcrystalline Cellulose, Non Calorie Sweetener - Steviol Glycoside Binder - Croscarmellose Sodium, Anticaking Agent - Colloidal Silicon Dioxide, Magnesium Stearate (ADI of Steviol Glycoside - 4 mg/kg body weight expressed as steviol))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901548431108",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

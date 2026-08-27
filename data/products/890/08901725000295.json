@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725000295",
+  "barcode_printed": "8901725000295",
+  "barcode_format": "EAN-13",
+  "name": "Sunfast glucose 1 kg",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 440,
+        "protein_g": 7.1,
+        "carbohydrate_g": 79,
+        "sugars_g": 27.7,
+        "fat_g": 10.6,
+        "saturated_fat_g": 5.3,
+        "sodium_mg": 421.2
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (62.5%), Sugar, Refined Palm Oil, Invert Syrup, Raising Agents [ins 503(ii), Ins 500(ii)], Iodized Salt, Liquid Glucose (0.2%), Milk Solids (0.2%), Emulsifiers [lecithin (From Soyabean), Diacetyl Tartaric Acid Ester Of Mono-diglycerides (from Sunflower & Palm Oil)], Artificial Flavouring Substances (Vanilla, Cream, Milk, Sweet), Vitamin & Mineral (0.02%) And Flour Treatment Agent (Ins 223) And Colours (Ins 102, Ins 124). Contains Wheat, Milk, Soy, Sulphites, May Contains Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725000295",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

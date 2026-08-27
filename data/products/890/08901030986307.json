@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030986307",
+  "barcode_printed": "8901030986307",
+  "barcode_format": "EAN-13",
+  "name": "Horlicks Chocolate",
+  "brand": "horlicks",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 365,
+        "protein_g": 10,
+        "carbohydrate_g": 78,
+        "sugars_g": 32,
+        "fat_g": 2,
+        "saturated_fat_g": 1.4,
+        "fibre_g": 2.2,
+        "sodium_mg": 350
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030986307",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

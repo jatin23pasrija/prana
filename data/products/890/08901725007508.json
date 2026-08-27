@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725007508",
+  "barcode_printed": "8901725007508",
+  "barcode_format": "EAN-13",
+  "name": "Bingo! Potato Chips Chilli Sprinkled",
+  "brand": "itc",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 531,
+        "protein_g": 7.1,
+        "carbohydrate_g": 50.5,
+        "sugars_g": 1.5,
+        "fat_g": 33.4,
+        "saturated_fat_g": 14.2,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 824.6
+      }
+    }
+  ],
+  "ingredients_raw": "POTATO (60.0%), REFINED PALMOLEIN, SEASONING (IODIZED SALT, RED CHILLI POWDER (1.1%), MALTODEXTRIN, #SPICES AND CONDIMENTS, ONION POWDER, REFINED WHEAT FLOUR (MAIDA), NATURE IDENTICAL FLAVOURING SUBSTANCES, BLACK SALT, MILK SOLIDS, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, SUGAR, TOMATO POWDER, HYDROLYZED VEGETABLE PROTEIN, GARLIC POWDER AND FLAVOUR ENHANCER (INS 508)} AND IODIZED SALT. #USED AS FLAVOURING AGENTS. CONTAINS SOY, MILK, WHEAT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725007508",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

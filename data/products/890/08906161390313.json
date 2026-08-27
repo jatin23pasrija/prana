@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161390313",
+  "barcode_printed": "8906161390313",
+  "barcode_format": "EAN-13",
+  "name": "Let's Try Mulitgrain Mix",
+  "brand": "let-s-try",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 173,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Flaked Rice (35%), Edible Vegetable Oil (Groundnut Oil), Corn Flakes (15%), Peanuts (15%), Chick Peas Pulse Flour, Bengal Gram (9%), Starch, Curry Leaves, Spice Mix (Dried Mango Powder, Clove Powder, Mace Powder, Cardamom Powder, Nutmeg Powder, Corriander Powder, Black Salt, Red Chilli Powder), Iodised Salt and Acidity Regulator (INS 330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161390313",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

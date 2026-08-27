@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014814243",
+  "barcode_printed": "8908014814243",
+  "barcode_format": "EAN-13",
+  "name": "100% Whole Wheat Chapati",
+  "brand": "mr-bakewell",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 266.6,
+        "protein_g": 6.89,
+        "carbohydrate_g": 57.17,
+        "sugars_g": 0.38,
+        "fat_g": 3.33,
+        "saturated_fat_g": 2.22,
+        "fibre_g": 6.67,
+        "sodium_mg": 533.33
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta), (65.6%), Water, Refined Palmolien Oil(5.9%), Gluten, lodized Salt, Emulsifier (E471), Sugar",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014814243",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

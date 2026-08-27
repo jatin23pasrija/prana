@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "gtin": "08906153091105",
+  "barcode_printed": "8906153091105",
+  "barcode_format": "EAN-13",
+  "name": "Butterfly Pea Flower Herbal Tea",
+  "brand": "blue-tea",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.7g",
+        "quantity": {
+          "value": 0.7,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 2.21,
+        "protein_g": 0.12,
+        "carbohydrate_g": 0.42,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "sodium_mg": 0.59
+      }
+    }
+  ],
+  "ingredients_raw": "100 %Butterfly pea flowers (Clitoria Ternatea)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906153091105",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

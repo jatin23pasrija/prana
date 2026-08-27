@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908011478684",
+  "barcode_printed": "8908011478684",
+  "barcode_format": "EAN-13",
+  "name": "Heart Healthy Trail Mix",
+  "brand": "boyo",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 515,
+        "protein_g": 15,
+        "carbohydrate_g": 37,
+        "sugars_g": 23,
+        "fat_g": 38,
+        "saturated_fat_g": 5.2,
+        "fibre_g": 10,
+        "sodium_mg": 9.6
+      }
+    }
+  ],
+  "ingredients_raw": "Walnut, Roasted Peanut, Roasted Almond, Flax Seed, Raisin, Pitted Black Date, Roasted Hazelnut, Dried unsweetened Blueberry, Dark Choco Chips",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908011478684",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

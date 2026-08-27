@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202051685",
+  "barcode_printed": "7622202051685",
+  "barcode_format": "EAN-13",
+  "name": "Tang Mango",
+  "brand": "tang",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 389,
+        "protein_g": 0.1,
+        "carbohydrate_g": 96.7,
+        "sugars_g": 94.6,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 76
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202051685",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

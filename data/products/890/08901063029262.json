@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063029262",
+  "barcode_printed": "8901063029262",
+  "barcode_format": "EAN-13",
+  "name": "Jim jam92 g",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 486,
+        "protein_g": 5,
+        "carbohydrate_g": 73,
+        "sugars_g": 31.8,
+        "fat_g": 19,
+        "saturated_fat_g": 9.5,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR (24%), REFINED PALM OIL & INTERESTERIFIED VEGETABLE FAT, INVERT SUGAR SYRUP DEXTROSE, MILK PRODUCTS (MILK SOLIDS & SWEETENED CONDENSED MILK), EDIBLE MAIZE STARCH, MALTODEXTRIN, FRUIT PRODUCTS (0.7%) (APPLE JUICE CONCENTRATE, BANANA POWDER & PLUM JUICE CONCENTRATE), IODISED SALT, EMULSIFIERS [322(i) & 471], RAISING AGENTS [503(ii)&500(ii)], NATURE IDENTICAL AND ARTIFICIAL (MIXED FRUIT, VANILLA & BUTTER) FLAVOURING SUBSTANCES, ACIDITY REGULATORS [330&331(iii)], GELLING AGENT (440) AND COLOUR (122). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOYA. Marketed By: BRITANNIA INDUSTRIES LTD., 5/1 A HUNGERFORD STREET, KOLKATA-700017, WEST BENGAL (A WADIA Enterprise) For Mfg. unit address & Lic. No. read the last two characters of the &quot;Lot No.&quot; and see address panel below. 06-J. B. MANGHARAM FOODS PVT. LTD., GOLA KA MANDIR, PO. RESIDENCY, GWALIOR-474005, MADHYA PRADESH Lic. No. 10012026000247, 9F-BRITANNIA INDUSTRIES LTD., PLOT NO. B-28, FIVE STAR MIDC, RANJANGAON, TAL SHIRUR, DIST. PUNE-412220, MAHARASHTRA Lic. No. 10018022007587, 9L-ANNIA INDUSTRIES LTD A13, A14, A15, A16, SIPCOT INDUSTRIAL GROWTH CENTRE, GANGAIKONDAN, TIRUNELVELI-627352, TAMIL NADU Lic. No. 12422999001583 For feedback Contact: Executive, Consumer Care Cell, Ph: (Tell Free 1-800-42544",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063029262",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

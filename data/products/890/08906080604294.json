@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080604294",
+  "barcode_printed": "8906080604294",
+  "barcode_format": "EAN-13",
+  "name": "Swing+",
+  "brand": "paper-boat",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, SUGAR, ORANGE JUICE CONCENTRATE (2.8%)*, ACIDITY REGULATOR (330), FLAVOURS (NATURAL AND NATURE-IDENTICAL FLAVOURING SUBSTANCES), STABILIZERS (466, 415), PRESERVATIVES (242, 202), IODISED SALT, FOOD COLOUR (110) AND VITAMIN D2 (ERGOCALCIFEROL).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080604294",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

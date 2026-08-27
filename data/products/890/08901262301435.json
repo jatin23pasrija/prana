@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262301435",
+  "barcode_printed": "8901262301435",
+  "barcode_format": "EAN-13",
+  "name": "Berry Dazzle",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 145,
+        "protein_g": 2.3,
+        "carbohydrate_g": 17.7,
+        "sugars_g": 17.3,
+        "fat_g": 7.1,
+        "saturated_fat_g": 4.3,
+        "sodium_mg": 33
+      }
+    }
+  ],
+  "ingredients_raw": "Milk solids, sugar, wild berry fruit preparation (14%) [sugar, strawberry dices (18.5%), raspberry whole (10.5%), black currant whole (5.5%), red currant dices (5.5%), water stabilizer (440), colours (122, 133), nature identical flavouring substances], wild berry fruit compound (3%) [water, sugar, red grape juice concentrate (8.2%), pear juice concentrate (8.8%), apple juice concentrate (7.9%), strawberry pulp concentrate (0.03%), nature identical flavouring substances, acidity regulator (330), colours (122, 133), emulsifier (471), stabilizers (407, 466, 415, 412), artificial flavouring substances (wild berry), colour (127)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262301435",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

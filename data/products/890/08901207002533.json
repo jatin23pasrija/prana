@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207002533",
+  "barcode_printed": "8901207002533",
+  "barcode_format": "EAN-13",
+  "name": "SITOPALADI CHURNA",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Each 5g prepared from powder of the wing: Tvak (Cinnamomum zeylanicum, St.Bk.) 1562 Sushmala (Elettaria cardamomum, Sd.) 312.5mg, Pippal Per longum, Fr.) 625mg, Vamsha (Bambusa bambos, 50 mg and Sharkara 2656.25mg LOCATION: Svasa, Kasa, Kshaya, Daha, Agnimandhya kuchi DOSAGE: 2g (approx 2 teaspoonful) two times a day wh mey or as directed by the physician. Light and easily digestible foods. Aid: Heavy, oily and spicy food.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207002533",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

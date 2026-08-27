@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901972066235",
+  "barcode_printed": "8901972066235",
+  "barcode_format": "EAN-13",
+  "name": "Digestive",
+  "brand": "dukes",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 497.4,
+        "protein_g": 7.4,
+        "carbohydrate_g": 66.4,
+        "sugars_g": 18.3,
+        "fat_g": 22.5,
+        "saturated_fat_g": 10.5,
+        "fibre_g": 6.1,
+        "sodium_mg": 443.8
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), WHEAT FLOUR (20.7 %), REFINED PALM OIL. SUGAR, OATS (7.2 %), WHEAT BRAN (4.8 %), LIQUID GLUCOSE, RAISING AGENTS [INS 503(ii), INS 500(ii)], HONEY (1.1 %), MILK SOLIDS, IODIZED SALT EMULSIFIER [INS 322(i)] AND ARTIFICIAL FLAVOURING SUBSTANCES (HONEY, CEREAL). ALLERGEN: Contains Wheat, Oats, Soy, Milk and Sulphites. Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901972066235",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161500682",
+  "barcode_printed": "8906161500682",
+  "barcode_format": "EAN-13",
+  "name": "Nutri Binge California Almonds",
+  "brand": "nutri-binge",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 618,
+        "protein_g": 20.9,
+        "carbohydrate_g": 20.4,
+        "sugars_g": 4.6,
+        "fat_g": 50.2,
+        "saturated_fat_g": 4.2,
+        "fibre_g": 12.1,
+        "sodium_mg": 2.4
+      }
+    }
+  ],
+  "ingredients_raw": "Almonds",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161500682",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

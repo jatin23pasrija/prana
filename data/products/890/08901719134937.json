@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719134937",
+  "barcode_printed": "8901719134937",
+  "barcode_format": "EAN-13",
+  "name": "Parle g dark biscuits",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 457,
+        "protein_g": 6.4,
+        "carbohydrate_g": 77.5,
+        "sugars_g": 33.8,
+        "fat_g": 13.4,
+        "saturated_fat_g": 6.3
+      }
+    }
+  ],
+  "ingredients_raw": "FINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INVE SUGAR SYRUP, COCOA SOLIDS, IODISED SALT, RAISING AGENT(503(ii), 500(ii)] AND EMULSIFIER OF VEGETABLE ORIGIN [SOY LETHIN). CONTAINS PERTTED NATURAL FOOD COLOURS [1501500) AND ADDED FLAVOURS (NATURE IDENTAL. AND ARTIFICIAL FLAVOURING SUBSTANCES-HOCOLATE, VANILLA) CONTAINS: WHAT AND 07 9017",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719134937",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

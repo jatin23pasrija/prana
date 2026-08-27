@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064281497",
+  "barcode_printed": "8906064281497",
+  "barcode_format": "EAN-13",
+  "name": "Butter Cookies",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 514.29,
+        "protein_g": 5.71,
+        "carbohydrate_g": 65.71,
+        "sugars_g": 22.86,
+        "fat_g": 25.71,
+        "saturated_fat_g": 13.14,
+        "fibre_g": 5.71,
+        "sodium_mg": 314.29
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064281497",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

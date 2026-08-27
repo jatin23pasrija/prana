@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552005036",
+  "barcode_printed": "8901552005036",
+  "barcode_format": "EAN-13",
+  "name": "Dal Makhani",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Black gram, Cream (Milk) (6.5%), Onion, Red Kidney Beans, Tomato Paste, Sunflower Oil, Butter (Milk, Salt) (1.5%), Cashewnut, Ginger, Salt, Coriander leaves, Garlic, Chilli Powder, Spices (Anistar, Black Cardamom, Black Pepper, Caraway, Cassia, Chilli, Clove, Salt, Coriander, Cumin, Dry Ginger, Fennel Seeds), Green Chilli, Turmeric Powder, Cardamom, Cinnamon, Clove. CONTAINS: MILK & CASHEWNUT Processed in a facility that also processes tree nuts, peanuts, soya, mustard and sesame.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552005036",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

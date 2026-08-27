@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "04904059826405",
+  "barcode_printed": "4904059826405",
+  "barcode_format": "EAN-13",
+  "name": "Chekkalu",
+  "brand": "tasties",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 470,
+        "protein_g": 7.18,
+        "carbohydrate_g": 58.37,
+        "sugars_g": 2,
+        "fat_g": 23.13,
+        "saturated_fat_g": 11.78,
+        "fibre_g": 4.8,
+        "sodium_mg": 643
+      }
+    }
+  ],
+  "ingredients_raw": "Rice flour (64%), Refined palmolein oil, Clarified butter, Onion, Ginger, Green chilli, Roasted bengal gram dal, Iodised salt, Sesame seeds, Cumin and Curry leaves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4904059826405",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

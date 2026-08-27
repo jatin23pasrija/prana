@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005500014",
+  "barcode_printed": "8906005500014",
+  "barcode_format": "EAN-13",
+  "name": "bikaji bhujia",
+  "brand": "334006",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 16,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "RED SIKAJI बीकानेरी भुजिया GREDENTS Foor (AT 5 e vegeaie O Gram Cond Cinger Blad Candemon 169 s 08RAR2022 K22C92012 FOR MANUF ACTURING UNIT ADDRESS SEE THE FIRST CHARACTER OF BATCH NO. 7SEP2022g Mantued by NTERNATIONAL LTO. C9-572 Ret No ES73-472 FS8S-59 Kemi Eteion KO al Area Bner 154 004 an inda NTERNATIONAL LTD Ssal Area Rahan India 0 Cere SN O Shot on Y17 WIDE Vivo Al camera",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005500014",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

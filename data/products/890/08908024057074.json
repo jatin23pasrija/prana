@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908024057074",
+  "barcode_printed": "8908024057074",
+  "barcode_format": "EAN-13",
+  "name": "Hazelnut Chocolate Laddoos",
+  "brand": "eat-better-co",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 499,
+        "protein_g": 11,
+        "carbohydrate_g": 52,
+        "sugars_g": 25,
+        "fat_g": 27,
+        "saturated_fat_g": 14,
+        "trans_fat_g": 0,
+        "fibre_g": 10,
+        "sodium_mg": 69.9
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908024057074",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059910005",
+  "barcode_printed": "8906059910005",
+  "barcode_format": "EAN-13",
+  "name": "Golden Pack Corn-Puffs",
+  "brand": "hully-gully",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Corn Grit (70%) Corn Oil / Rice Bran Oil (16%), Spices And Condiments (Red Chilli, cumin) dehydrated vegetable (tomato, onion, garlic) acidity regulator (INS 296, INS 260), anti caking Agent (INS 551). CONTAIN ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES) INGRÉDIENTS : Condiments (piment rouge, cumin) légumes déshydratés (tomate, oignon, ail) Gruau de Mais (70%) Huile de maïs / Huile de son de riz (16%), Épices et regulateur d'acidité (INS 296, INS 260), agent anti-agglomérant (SIN 551). ENT DES AROMES AJOUTÉS (S SUBSTANCES AROMATIQUES NATURELLES ET NATURELLES IDENTIQUES) et Quantity/Poids Net Prix de detail Max de tous less impots) Mig./Date de ication de lot DATE OF MFD.28/04/2026 27/01/2027 NET QUANTITV (1209+109) 130 9 USE BY MRP R3.50.00 (INCL.OF ALL TAXES) USF.R.0.38 PER 9 6.NG.OT1529 FDA 19466911872 Lic No.: 201608110562 31 크 rn:K uth a 7 Ster monde Ere Obres et vitan gestion PUFFS ON INFORMAT Serving",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059910005",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

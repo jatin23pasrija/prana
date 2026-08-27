@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088724036",
+  "barcode_printed": "8901088724036",
+  "barcode_format": "EAN-13",
+  "name": "Saffola karra crunch",
+  "brand": "saffola",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 388,
+        "protein_g": 11,
+        "carbohydrate_g": 72,
+        "sugars_g": 4.3,
+        "fat_g": 7.8,
+        "saturated_fat_g": 1.5,
+        "fibre_g": 6.5,
+        "sodium_mg": 1390
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088724036",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

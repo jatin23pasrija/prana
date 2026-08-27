@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901233029856",
+  "barcode_printed": "8901233029856",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury Dairy Milk Chocolate Bar",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 130,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "sugar,milk solids(22%*),cocoa butter,cocoa solids, emulsifiers (442,476). CONTAINS ADDED FLAVOUR (NATURAL, NATURE IDENTICAL AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES) ALlergen information:Contains Milk. May contain Treenuts & Wheat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901233029856",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

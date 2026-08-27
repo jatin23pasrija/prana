@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006721555",
+  "barcode_printed": "8906006721555",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Fruit Jam",
+  "brand": "lion",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Mixed fruit pulp blend-46% (Red papaya concentrate, guava puree, banana puree, apple juice concentrate, mango concentrate, pineapple juice concentrate, orange juice Concentrate, grape juice concentrate) Thickener - INS440, Acidity Regulator Flavour, Preservative-INS211 & Food Colour - INS122. CONTAINS PERMITTED SYNTHETIC FOOD COLOUR. ADDED NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCE. CONTAINS PERMITTED CLASS II PRESERVATIVE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006721555",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

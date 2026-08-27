@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906132640591",
+  "barcode_printed": "8906132640591",
+  "barcode_format": "EAN-13",
+  "name": "Darling Garlic Pickle",
+  "brand": "darling",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 168,
+        "protein_g": 5,
+        "carbohydrate_g": 19,
+        "fat_g": 8
+      }
+    }
+  ],
+  "ingredients_raw": "Garlic pieces, Refined Vegetable Oil, Salt, Chilli Powder, Mustard, Fenugreek, Ginger, Compounded Asafoetida and Acidity Regulator - E260",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906132640591",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005312567",
+  "barcode_printed": "8908005312567",
+  "barcode_format": "EAN-13",
+  "name": "Himalayan Salt Caramel Popcorn",
+  "brand": "4700bc",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 429.8,
+        "protein_g": 4.3,
+        "carbohydrate_g": 80.2,
+        "sugars_g": 36,
+        "fat_g": 10.2,
+        "saturated_fat_g": 4.7,
+        "trans_fat_g": 0,
+        "fibre_g": 3.2,
+        "sodium_mg": 49
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005312567",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

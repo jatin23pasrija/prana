@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058002683",
+  "barcode_printed": "8901058002683",
+  "barcode_format": "EAN-13",
+  "name": "Spicy Garlic 2 Minute Noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 248,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 331,
+        "energy_kj": 1386,
+        "protein_g": 7.7,
+        "carbohydrate_g": 48.8,
+        "sugars_g": 1.9,
+        "fat_g": 12.1,
+        "saturated_fat_g": 8.2,
+        "trans_fat_g": 0.15,
+        "fibre_g": 0,
+        "sodium_mg": 1023.6
+      }
+    }
+  ],
+  "ingredients_raw": "Refined wheat flour (Maida), Palm oil, lodized salt, Wheat gluten, Thickeners (508&412), Acidity regulators (501 (i) & 500 (i)) and Humectant (451). Masala *TASTEMAKERⓇ: Mixed Spices (55.7%) (Garlic powder (36.4%), Red chilli flakes, Onion powder, Spice extract blend, Curry spice extract blend, Star anise powder Rosemary extract & Capsicum extract), Sugar, lodized salt, Thickener (508), Flavour enhancer (635), Palm oil, Starch and Acidity regulator (330). Allergen Note: Contains Wheat and Sesame. May Contain Oats, Milk and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058002683",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

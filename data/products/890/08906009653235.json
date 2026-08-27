@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009653235",
+  "barcode_printed": "8906009653235",
+  "barcode_format": "EAN-13",
+  "name": "Max Protein Daily Choco Almond Bar",
+  "brand": "max-protein",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Protein Blend (29%) (Soy Nuggets, Whey Protein Concentrate, Calcium Caseinate, Soy Concentrate), Dietary Fiber (16%) (Fructooligosacharide), Dark Compound No Added Sugar (12%) (Maltitol, Edible Vegetable Fat (Hydrogenated), Cocoa Solids, Emulsifier (Soy Lecithin)), Maltitol, Whole Grain Rolled Oats (8%), Almonds (7%), Brown Rice Crispy, Edible Vegetable Oil (High Oleic Sunflower Oil), Humectant (Glycerine), Cocoa Powder, Cocoa Mass, Flaxseeds, Tribasic Calcium Phosphate, Emulsifier (Soy Lecithin), Binding Agent (Guar Gum), Soy Protein Isolate, Salt and Citric Acid, Antioxidants (Vitamin C), Added Vitamins and Minerals. CONTAINS ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURS nilla &",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009653235",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

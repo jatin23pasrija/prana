@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906062262146",
+  "barcode_printed": "8906062262146",
+  "barcode_format": "EAN-13",
+  "name": "Cold Milled Low Carb Flour(Keto)",
+  "brand": "jiwa",
+  "category": "flour",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 456.4,
+        "protein_g": 18.24,
+        "carbohydrate_g": 33.18,
+        "fat_g": 32.04,
+        "fibre_g": 17.62
+      }
+    }
+  ],
+  "ingredients_raw": "Almond Flour, Coconut flour and Buckwheat Flour, Jackfruit Flour, Psyllium Powder, Guar Gum & Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906062262146",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

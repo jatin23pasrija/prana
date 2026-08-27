@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906058710286",
+  "barcode_printed": "8906058710286",
+  "barcode_format": "EAN-13",
+  "name": "hoppits",
+  "brand": "scmitten",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Nougatine with Cocoa 44%: Sugar, Glucose Syrup, Cocoa Solids (6%), Milk Solids, Edible Vegetable Fat, Sorbitol, Hydrolyzed Milk Protein, Edible Salt, Chocolate Flavour (Nature - Identical), Milk Chocolate 34%: Sugar, Cocoa Butter, Milk Solids (18%), Cocoa Solids, Emulsifiers (INS 322, INS 476), Vanilla Flavour (Natural), Caramel 22%: Glucose Syrup, Sugar, Edible Vegetable Fat, Milk Solids, Sorbitol, Emulsifier (INS 471), Edible Salt, Caramel Flavour (Nature-Identicall. Allergen advice: Contain Milk and Soy. May Contain Gluten and Nut. Temperature and humidity changes may cause product to develop a whitish layer, without affecting its fitness for consumption. Net Weight:40g. For Expiry Date, Batch Code, MRP Rs., (Incl. of all taxes) USP/g and MFD. see th Pkg. Material Mfd. By: Uff 8 9060587 +1; Reg.No.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906058710286",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

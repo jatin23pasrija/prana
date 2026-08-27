@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08991102771238",
+  "barcode_printed": "8991102771238",
+  "barcode_format": "EAN-13",
+  "name": "Tango brownies crispy",
+  "brand": "tango",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Komposisi: Gula, Tepung Terigu, Minyak Nabati (Mengandung Antioksidan TBHQ), Sirup Tinggi Fruktosa, Remahan Kukis 3.6% (Mengandung Telur, Susu, Antioksidan (Askorbil Palmital Tokoferol Campuran Pekat), Pewarna Alami (Karamel IV, Karbon Tanaman CI 77266), Pewarna Sintetik Merah Allura Cl 16035), Kakao Bubuk 3.5%, Bubuk Albumen Telur, Tapioka, Susu Bubuk Rasa Plain, Kakao Massa 0.9%, Ekstrak Malt, Garam, Kalsium Karbonat, Pengerusi Leitin Kedelai, Perisa Sintetik (Mengandung Pewarna Alami Karamel IV, Pewarna Sintet Ponceau 4R CI 16255), Krim Kelapa, Bumbu Rasa Cokelat Susu (Mengandung Susu), Pewan Alami (Karamel IV, Karbon Tanaman CI 77266), Pengembang, Pewarna Sintetik Merah Allura 16035.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8991102771238",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906190870091",
+  "barcode_printed": "8906190870091",
+  "barcode_format": "EAN-13",
+  "name": "Jimmy's Kesar Thandai",
+  "brand": "jimmy-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "200"
+      },
+      "values": {
+        "energy_kcal": 98,
+        "protein_g": 2.5,
+        "carbohydrate_g": 17.5,
+        "sugars_g": 13.2,
+        "fat_g": 2,
+        "saturated_fat_g": 1.2,
+        "sodium_mg": 33
+      }
+    }
+  ],
+  "ingredients_raw": "Tonned Milk (80%), Sugar, Almonds, Cashew Nuts, Fox Nuts, Watermelon Seeds, Black Pepper, Fennel Seeds, Cardamom, Saffron, Stabilizer & Emulsifier (INS 418, INS 415, INS 466), Colour (INS 102), Flavours (Natural & Nature Identicle Flavouring Substances), Preservative (INS 211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906190870091",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

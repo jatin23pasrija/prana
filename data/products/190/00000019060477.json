@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00000019060477",
+  "barcode_printed": "19060477",
+  "barcode_format": "EAN-8",
+  "name": "Butter Chakli",
+  "brand": "charliee",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 105,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Tapioca Flour (45%), Refined Palmolein Oil (29%), Black Matpe Flour (23%), lodised Salt (2%), Butter (1%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/19060477",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

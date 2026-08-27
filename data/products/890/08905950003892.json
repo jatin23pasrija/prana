@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08905950003892",
+  "barcode_printed": "8905950003892",
+  "barcode_format": "EAN-13",
+  "name": "Soya Sticks",
+  "brand": "bikaji",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Tapioca Starch, Black Gram Flour, Soya Powder (7%), Rice Flour, Black Lentil Flour, Ground Spices & Condiments (lodised Salt, Sugar, Maltodextrin, Fennel, Cumin, Red Chilli, Ginger, Turmeric (Colouring & Spices), Dry Mango Powder, Corn Starch, Garlic, Mustard Seeds, Acidity Regulator (INS 330, INS 296), Anticaking Agent (INS 551), Asafoetida, Flavouring Enhancer (INS 627, INS 631, INS 635), Hydrolyzed Vegetable Protein (Soya)). Hydrogenated Vegetable Oil (Palm, Sesame) CONTAINS: SOY, SESAME, MUSTARD CONTAINS ADDED FLAVOURS (NATURE IDENTICAL & NATURAL FLAVOURING SUBSTANCES) CONTAINS ADDED PERMITTED NATURAL COLOUR (INS 160c)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905950003892",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

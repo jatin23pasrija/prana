@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08850389100691",
+  "barcode_printed": "8850389100691",
+  "barcode_format": "EAN-13",
+  "name": "Mogu Mogu Strawberry Juice",
+  "brand": "sappe-public-company-limited",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 320,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "water, strawberry juice from concentrate (25%), nata de coco (25%) (coconut water (97,8%), sugar, acidity regulator (ins 260)), sugar, nature identical flavour (strawberry), acidity regulators (ins 330, ins 327), preservatives (ins 202, ins 211), stabilizer (ins 418), artificial colours (ins 122, ins 124, ins 102), pete",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8850389100691",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

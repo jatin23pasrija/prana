@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030795824",
+  "barcode_printed": "8901030795824",
+  "barcode_format": "EAN-13",
+  "name": "Horlicks classic malt",
+  "brand": "hindustan-unilever-ltd",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Malt (65.6%)[(Barley (31.3%), Wheat flour (Atta), Wheat,Millet)],Milk solids(14%),sugar,Wheat Gluten, Minerals, Emulsifier (INS 471), Edible lodized salt,soy protein isolate, Acidity Regulators [INS 501 (ii),INS 500(ii)], Vitamins.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030795824",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

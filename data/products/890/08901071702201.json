@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071702201",
+  "barcode_printed": "8901071702201",
+  "barcode_format": "EAN-13",
+  "name": "HERSHEY'S EXOTIC DARK",
+  "brand": "hershey-s",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 453,
+        "protein_g": 1.74,
+        "carbohydrate_g": 80.5,
+        "sugars_g": 64.7,
+        "fat_g": 13.7,
+        "saturated_fat_g": 8,
+        "trans_fat_g": 0.05,
+        "sodium_mg": 24.4
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Liquid Glucose, Cocoa Solids (13%), Cocoa Butter, Fruit Pulp (5.6%) (Papaya (5.35%), Raspberry (0.14%), Goji (0.14%)), Stabilizers (440,414,331 (iii),1400), Milk Solids, Acidity Regulator (296), Flavours [Nature Identical & Artificial Flavouring Substances (Raspberry, Vanilla and Green Apple)], Emulsifier (322(i)), Edible Common Salt, Synthetic Food Colours (122,102,133) and Glazing Agent (904).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071702201",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

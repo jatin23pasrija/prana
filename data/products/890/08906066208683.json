@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906066208683",
+  "barcode_printed": "8906066208683",
+  "barcode_format": "EAN-13",
+  "name": "Cajun Spice Mix",
+  "brand": "keya",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 95,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 223.1,
+        "protein_g": 6.7,
+        "carbohydrate_g": 41.2,
+        "sugars_g": 16.7,
+        "fat_g": 3.5,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 12320
+      }
+    }
+  ],
+  "ingredients_raw": "Iodised Salt, Spices & Condiments(Garlic, Onion, Black Pepper), Sugar, Refined Wheat Flour (Maida), Maltodextrin, Tamarind Powder, Starch, Mixed Herbs(Oregano, Parsley, Basil), Acidity Regulator (INS330), Yeast Extract Powder, Hydrolysed Vegetable Protein (Soya), Anti Caking Agent (INS551), Flavour Enhancer(INS627, INS631), Natural Colour (INS150a).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906066208683",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

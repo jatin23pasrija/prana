@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908008674808",
+  "barcode_printed": "8908008674808",
+  "barcode_format": "EAN-13",
+  "name": "Wafer",
+  "brand": "nabati",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 28,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cream (Sugar, Refined Palm Olein, Whey Powder, Cocoa Powder (Cocoa Solids (3.6%)), Corn Starch, Emulsifier (INS 322), lodized Salt, Acidity Regulator (INS 330)). Wafer Sheet (Refined Wheat Flour (Maida), Cocoa Powder (Cocoa Solids (2.4%)), Refined Palm Olein, Flour Treatment Agent (INS 1101 (i))), lodized Salt, Raising Agent (INS 500(ii)), Emulsifier (INS 322)). Numbers in the bracket as per international numbering system Allergen:contains wheat, milk, and soya.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908008674808",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

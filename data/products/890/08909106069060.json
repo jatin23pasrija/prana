@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106069060",
+  "barcode_printed": "8909106069060",
+  "barcode_format": "EAN-13",
+  "name": "Kissan Teekhi Lehsun Mirch Chutney",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "vegetables(47%): freshly minced garlic, Red chilli paste tomato paste, Coriander puree), Water, Refined soybean oil. Spices & condiments: mathania red chili powder, Coriander powder red chili powder, Roasted cumin powder (0, 1% 11, 10dised salt, Sugar, Acetic & citric acid, Nature identical & natural flavoring substances, Preservative sodium benzoate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106069060",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

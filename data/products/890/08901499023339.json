@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499023339",
+  "barcode_printed": "8901499023339",
+  "barcode_format": "EAN-13",
+  "name": "Muesli Fruit, Nut & Seeds",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "MULTIGRAIN MIX (66%) {CORN GRITS (18.3%), WHEAT (16.5%), RICE (9.7%), ROLLED BARLEY (8%), ROLLED OATS (8%), RAGI MILLET FLOUR (3.5%), RICE FLOUR, CORN MEAL, REFINED WHEAT FLOUR (MAIDA)}, CANDIED FRUITS, DRY FRUITS, NUT & SEED (21%) {CANDIED PAPAYA (5%), ALMONDS (3.5%), PUMPKIN SEEDS (3.5%), CANDIED CRANBERRY (3%), BLACK CURRANTS (3%), BLACK RAISINS (3%)}, SUGAR, CEREAL EXTRACT, WHEAT BRAN, HONEY, OLIGOFRUCTOSE, IODIZED SALT, COCOA SOLIDS VITAMINS, COLOURS (INS 140, INS 150d), FLAVOURS {NATURE IDENTICAL & ARTIFICIAL (COCONUT)}, ANTIOXIDANT (INS 307b) AND MINERAL. ALLGEN DECLARATION: CONTAINS WHEAT, BARLEY, OATS, NUT (ALMONDS), SULPHITE MAY CONTAIN OTHER NUTS, SOY AND MILK. SOME CANDIED AND DRY FRUITS CONTAIN SULPHITE TO MAINTAIN COLOUR",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499023339",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

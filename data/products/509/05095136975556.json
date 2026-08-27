@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "05095136975556",
+  "barcode_printed": "5095136975556",
+  "barcode_format": "EAN-13",
+  "name": "Karam Karam Masala Bites",
+  "brand": "bikaji",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Corn Meal (27%), Rice Meal (27%), Gram Meal (3%), Ground Spices & Condiments (Dry Mango, Coriander, Dehydrated (Tomato, Garlic & Onion), Red Chilli, Cumin, Dry Ginger), lodised Salt, Sugar, Maltodextrin, Acidity Regulator (INS 330), Flavour Enhancer (INS 631, INS 627), Natural Colour (INS 160c), Anti Caking Agent (INS 551), Added Natural & Nature Identical Flavouring Substances (Onion) CONTAINS: ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES) AND PERMITTED SYNTHETIC FOOD COLOURS (INS 160c) ALLERGEN ADVICE: This product is made in a facility that processes food containing peanut, treenut, soy, milk, cereals containing gluten, sesame, mustard, and sulphites.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5095136975556",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

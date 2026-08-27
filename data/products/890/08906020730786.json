@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020730786",
+  "barcode_printed": "8906020730786",
+  "barcode_format": "EAN-13",
+  "name": "Savour Spice Valley Green Cardamom",
+  "brand": "savour",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Green Cardamom",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020730786",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

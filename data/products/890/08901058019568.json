@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058019568",
+  "barcode_printed": "8901058019568",
+  "barcode_format": "EAN-13",
+  "name": "Maggi Pazzta",
+  "brand": "maggi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 68.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 327,
+        "protein_g": 7.7,
+        "carbohydrate_g": 69.8,
+        "sugars_g": 6.8,
+        "fat_g": 1.9,
+        "saturated_fat_g": 1.5,
+        "sodium_mg": 712.9
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058019568",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

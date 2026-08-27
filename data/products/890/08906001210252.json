@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001210252",
+  "barcode_printed": "8906001210252",
+  "barcode_format": "EAN-13",
+  "name": "100% natural sesame oil",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 884,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 100,
+        "saturated_fat_g": 14.2,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Sesame seed oil & jaggery",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001210252",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

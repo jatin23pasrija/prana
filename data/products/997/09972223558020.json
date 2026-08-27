@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "09972223558020",
+  "barcode_printed": "9972223558020",
+  "barcode_format": "EAN-13",
+  "name": "Poha",
+  "brand": "laxmi",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 365,
+        "protein_g": 0,
+        "carbohydrate_g": 79.38,
+        "sugars_g": 7.12,
+        "fat_g": 0.85,
+        "saturated_fat_g": 0.22,
+        "fibre_g": 3.85,
+        "sodium_mg": 2240
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Poha",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9972223558020",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

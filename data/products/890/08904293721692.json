@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08904293721692",
+  "barcode_printed": "8904293721692",
+  "barcode_format": "EAN-13",
+  "name": "Lime Pickle",
+  "brand": "delish",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 91.97,
+        "protein_g": 1.73,
+        "carbohydrate_g": 11.4,
+        "sugars_g": 5.62,
+        "fat_g": 2.87,
+        "saturated_fat_g": 1.39,
+        "sodium_mg": 593.36
+      }
+    }
+  ],
+  "ingredients_raw": "Lime(64%), Edible Vegetable Oil,Corn Oil, lodized Salt,Mustard, Red Chilli, Garlic, Fenugreek, Acidity Regulator(INS 330), Turmeric, Asafoetida",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904293721692",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

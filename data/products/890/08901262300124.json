@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262300124",
+  "barcode_printed": "8901262300124",
+  "barcode_format": "EAN-13",
+  "name": "Amul tru sitaphal bliss",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk solids, sugar, dried custard apple (10%), emulsifier (471), stabilizers (407, 466, 415, 412), nature identical flavouring substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262300124",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

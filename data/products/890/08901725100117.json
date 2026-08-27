@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725100117",
+  "barcode_printed": "8901725100117",
+  "barcode_format": "EAN-13",
+  "name": "B Natural Guava Juice 1ltr",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "water , guava pulp , sugar , acidity regulators ( ins 330, ins 296 ), plydextrose , colour ( ins 150d, ins 124)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725100117",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

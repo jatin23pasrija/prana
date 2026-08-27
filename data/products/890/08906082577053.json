@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082577053",
+  "barcode_printed": "8906082577053",
+  "barcode_format": "EAN-13",
+  "name": "Crusties",
+  "brand": "cornitos",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 57,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28 g",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 143.1,
+        "protein_g": 1.9,
+        "carbohydrate_g": 18.4,
+        "sugars_g": 2.3,
+        "fat_g": 6.9,
+        "saturated_fat_g": 1.1,
+        "fibre_g": 0.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082577053",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

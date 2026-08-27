@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030987403",
+  "barcode_printed": "8901030987403",
+  "barcode_format": "EAN-13",
+  "name": "Lipton GREEN TEA CLEAR & LIGHT 250 g",
+  "brand": "lipton",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "protein :- 1.026 g Fat:- 0.083 g Carbohydrates:- 3.857 g Sugar :- 0.033 g Common salt :-0.004 g Fiber :- 0g Fruits, vegetables, legumes:- 0%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030987403",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

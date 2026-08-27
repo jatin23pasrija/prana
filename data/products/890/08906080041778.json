@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080041778",
+  "barcode_printed": "8906080041778",
+  "barcode_format": "EAN-13",
+  "name": "Multigrain cheese straws",
+  "brand": "27-peaks-gourmet-foods",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 172.9320910625,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Unbleached refined wheat flour, water, butter (cream), cheese (microbial rennet), multigrain seeds (pumpkin seeds, flax seeds, sunflower seeds, watermelon seeds, sesame seeds), salt, organic brown sugar, yeast, calcium propionate.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080041778",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

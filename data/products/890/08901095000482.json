@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901095000482",
+  "barcode_printed": "8901095000482",
+  "barcode_format": "EAN-13",
+  "name": "society Sweet spicy mango pickle",
+  "brand": "society",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Mango (45%), Sugar, Jaggery (8%), Red chilli powder, Fenugreek, Mustard, lodised salt, Fennel seeds, Coriander seeds, Curmin, Corn oil, Asafoetida, Cinnamon, Clove, Turmeric powder, Acidity regulators (INS 330, INS 260) & Preservative (INS 211). 8 901095 000482 PICTURE DOES NOT REPRESENT PRODUCT INSIDE THE PACK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901095000482",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

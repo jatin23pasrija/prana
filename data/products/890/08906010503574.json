@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010503574",
+  "barcode_printed": "8906010503574",
+  "barcode_format": "EAN-13",
+  "name": "Cream Wafers",
+  "brand": "balaji-wafers",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 16,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "GREDIENTS: SUGAR POWDER, REFINED WHEAT FLOUR (MAIDA). EDIBLE VEGETABLE FAT/OIL ALMOLEIN), WHEY POWDER, MILK POWDED EMULSIFIED (INC 322), EDIBLE COMMON SALT, ACIDITY REGULATOR ANS 330), RAISING AGENT (INS 500 (11)), NATURAL & NATURE IDENTICAL FLAVOUR (ORANGE (0.1%)), NATURE IDENTICAL & ARTIFICIAL FLAVOUR (VANILLA), SYNTHETIC FOOD COLOUR (INS 110). ALLERGEN ADVICE: CONTAINS WHEAT FLOUR, SOY, WHEY & MILK POWDER. DO NOT BUY THE PACK IF FOUNDAMAGED/OPEN. KEEP AWAY FROM DIRECT SUNLIGHT & HEAT BALAJI WA SURVEY NO. TA.LODHIKA MARKETED BY ANC NO. 19912",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010503574",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

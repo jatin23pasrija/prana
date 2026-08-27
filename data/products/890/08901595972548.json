@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595972548",
+  "barcode_printed": "8901595972548",
+  "barcode_format": "EAN-13",
+  "name": "Chowmein hakka noodles masala",
+  "brand": "ching-s-secret",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Iodised Salt, Mixed Spices (17.5%) [Chilli, Cumin, Coriander] Powder (Soybean, Wheat, Salt), Anticaking Agent (INS 551), Acidity Regulators Sugar, Garlic Powder, Onion Powder, Flavour Enhancer (INS 635), Soy Sauce (INS 330, INS 260), Sunflower Oil, Natural Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595972548",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

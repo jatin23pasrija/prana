@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906048239735",
+  "barcode_printed": "8906048239735",
+  "barcode_format": "EAN-13",
+  "name": "Khatta Meetha Chana Papad",
+  "brand": "utsav",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Chana Dal Flour (42%). Urad Mogar Flour (42%), Salt, Red Chilli, Sugar, Saji, Groundnut Oil, Mango Powder, Celery, Cumin, Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906048239735",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

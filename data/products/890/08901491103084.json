@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491103084",
+  "barcode_printed": "8901491103084",
+  "barcode_format": "EAN-13",
+  "name": "Green chutney style",
+  "brand": "kurkure",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cereal Products (57%) (Rice Meal (38%), Corn Meal (19%)), Edible Vegetable Oil (Palmolein), *Seasoning (~Spices & Condiments, lodised Salt, Sugar, Tamarind Powder, Flavour (Natural, Nature Identical and Artificial (Spearmint) Flavouring Substances), Maltodextrin, Acidity Regulator (330), Emulsifier (414), Color (160c), Flavour Enhancers (627, 631)), Gram Meal (6%). *As flavouring agent. ~Contains Onion and Garlic enhances 627,631",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491103084",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

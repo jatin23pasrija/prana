@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "00689358635531",
+  "barcode_printed": "0689358635531",
+  "barcode_format": "EAN-13",
+  "name": "Kombhucha",
+  "brand": "kumbayah",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 26.7,
+        "protein_g": 0.11,
+        "carbohydrate_g": 6,
+        "sugars_g": 3.9,
+        "fat_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0689358635531",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

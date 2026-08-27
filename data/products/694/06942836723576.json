@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "06942836723576",
+  "barcode_printed": "6942836723576",
+  "barcode_format": "EAN-13",
+  "name": "Hershey's 49% Dark",
+  "brand": "hershey-s",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 556,
+        "protein_g": 6.3,
+        "carbohydrate_g": 56,
+        "sugars_g": 45.8,
+        "fat_g": 36.7,
+        "saturated_fat_g": 22,
+        "trans_fat_g": 0.2,
+        "sodium_mg": 44
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Cocoa Solids (32.4%), Cocoa Butter (17.4%), Milk Solids, Emulsifiers (322 (1) 476) and Flavour (Artificial Flavouring Substance - Vanillin)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6942836723576",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

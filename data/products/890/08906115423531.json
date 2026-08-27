@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906115423531",
+  "barcode_printed": "8906115423531",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy Nippattu",
+  "brand": "we-ll-be",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 520,
+        "protein_g": 6.7,
+        "carbohydrate_g": 61.3,
+        "sugars_g": 0.3,
+        "fat_g": 27.6,
+        "saturated_fat_g": 7.2,
+        "fibre_g": 4.6,
+        "sodium_mg": 572.1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906115423531",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

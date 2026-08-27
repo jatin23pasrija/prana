@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906086610039",
+  "barcode_printed": "8906086610039",
+  "barcode_format": "EAN-13",
+  "name": "Mango Drink",
+  "brand": "fruizy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, SUGAR, MANGO PULP (14%), ACIDITY REGULATOR(330,331), ANTIOXIDANTS (300), PERMITTED CLASS II PRESERVATIVE (211), CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (110,102) AND ADDED FLAVOUR (NATURAL AND NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906086610039",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

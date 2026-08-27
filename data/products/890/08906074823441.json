@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906074823441",
+  "barcode_printed": "8906074823441",
+  "barcode_format": "EAN-13",
+  "name": "Ginget snaps",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 446,
+        "protein_g": 6.27,
+        "carbohydrate_g": 62.72,
+        "sugars_g": 23.7,
+        "fat_g": 25.6,
+        "saturated_fat_g": 17.07,
+        "sodium_mg": 670
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906074823441",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

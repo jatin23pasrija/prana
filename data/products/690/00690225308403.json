@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00690225308403",
+  "barcode_printed": "0690225308403",
+  "barcode_format": "EAN-13",
+  "name": "Hyderabad Biryani Masala",
+  "brand": "india-gate",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "BIRYANI GRAVY: ONION, TOMATO, EDIBLE REFINED VEGETABLE OIL(SOYABEAN),GINGER, SPICES AND CONDIMENTS, GARLIC IODIZED SALT, CASHEW NUT, WATER, SUGAR, ACIDITY REGULATOR (INS 330) HYDERABADI BIRYANI SEASONING: IODISED SALT, MIXED SPICES & HERBS (CHILLI, KASURI METHI, TURMERIC, CLOVE, MACE, NUTMEG),MALTODEXTRIN, SUGAR, NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES, FLAVOUR ENHANCER (INS 627, INS 631), YEAST EXTRACT POWDER, HYDROLYSED VEGETABLE PROTEIN(SOYA), ACIDITY REGULATOR (INS 330), COCONUT MILK POWDER, NATURAL COLOUR (INS 150d), ANTICAKING AGENT (INS 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0690225308403",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

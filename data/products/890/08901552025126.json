@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552025126",
+  "barcode_printed": "8901552025126",
+  "barcode_format": "EAN-13",
+  "name": "madras Currypaste",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Indische Würzpaste Madras Curry-mild - für Fleischgerichte Zutaten: Wasser, Salz, Korianderpulver, Sonnenblumenöl, Kreuzkümmelpulver, Knoblauch, Ingwer, Kurkumapulver, rotes Linsenmehl, Säuerungsmittel: Essigsäure, rotes Chilipulver 2%, Anissamen, Bockshornklee, Nelken, Zimt, Lorbeer, Kann Weizen, Nüsse, Senf und Sesam enthalten, Zubereitung: Ôl in einer Pfanne erhitzen, eine gehackte Zwiebel dazugeben und goldbraun anbraten, 500 g geschnittenes Hühnerfleisch hinzufügen und anbraten, Ein bis zwei Esslöffel der Paste hinzugeben und gut umrühren, Nach Belieben klein geschnittene oder passierte Tomaten dazugeben, Einen halben Becher Sahne hinzufügen und köcheln lassen, bis alles gar ist, Bedarf Wasser dazugeben, Dazu passt hervorragend Reis",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552025126",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906068352117",
+  "barcode_printed": "8906068352117",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Pickle",
+  "brand": "pachranga-s-farm-fresh",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "mango, lime, carrot, green chilli, lotus stem, caper, turnip, caperberry, cranberry, salt, fenugreek, coriander, turmeric, red chilly powder, fennel, cumin, common salt, edible vegetable oil, acetic acid, citric acid, sodium benzoate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906068352117",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

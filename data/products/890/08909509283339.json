@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08909509283339",
+  "barcode_printed": "8909509283339",
+  "barcode_format": "EAN-13",
+  "name": "Kinder CereAlé - Kinder",
+  "brand": "kinder",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "protein_g": 6.6,
+        "carbohydrate_g": 64.7,
+        "sugars_g": 27.1,
+        "fat_g": 23.1,
+        "saturated_fat_g": 13,
+        "fibre_g": 3.3,
+        "sodium_mg": 95.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909509283339",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

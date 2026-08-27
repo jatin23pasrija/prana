@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363006103",
+  "barcode_printed": "8903363006103",
+  "barcode_format": "EAN-13",
+  "name": "Black Pepper (Pepper Corn)",
+  "brand": "dmart-premia",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 359.93,
+        "protein_g": 11.96,
+        "carbohydrate_g": 65.49,
+        "sugars_g": 0.32,
+        "fat_g": 5.57,
+        "saturated_fat_g": 0.65,
+        "trans_fat_g": 0,
+        "sodium_mg": 24.08
+      }
+    }
+  ],
+  "ingredients_raw": "Black Pepper",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363006103",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

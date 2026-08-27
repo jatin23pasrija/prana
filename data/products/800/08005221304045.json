@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08005221304045",
+  "barcode_printed": "8005221304045",
+  "barcode_format": "EAN-13",
+  "name": "pan brioche",
+  "brand": "dolceindora",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Farina di grano tenero tipo &quot;0&quot; 58%, acqua, zucchero 8,7%, burro 6,8%, lievito, tuorlo d'uovo in polvere 1,2%, latte intero in polvere 1,1%, sale, emulsionanti (stearoli - 2 - lattilato di sodio), aromi, farina di grano malato, aromi naturali.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8005221304045",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

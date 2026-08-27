@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906000610336",
+  "barcode_printed": "8906000610336",
+  "barcode_format": "EAN-13",
+  "name": "Mc Cain Aloo Tikki",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "potato permitted class ii preservative ins 260, ins 330], acidity regulator garlic paste (water, garlic, edible common salt, corn starch, acidity regulator permitted class il preservative tins 260 permitted class i resevative ins 211]), [ins 211] permitted class ii preservative edible common salt, onion powder, red chilli flakes (0,23%), processed in a plant manufacturing wheat, milk and soya baoed products cumin seeds, method of preparation fry or bake 5ook eho hawing #deep fry: sss step i preheat the oil in kadhai/wok (max, temperature directly-do not thaw, step ii put the desired quantity from the freezer, fry gently in hot oil and deep remaining pr step ii take the product stepi seal , kee oto 175°c fry for 3 minutes, freezer , - preheat oven to 220°c ge frozen aloo tikki in a single layer airfryer-preheat the airfyer to 200°c ing tray and bake for 1o minutes sht golden brown, w fry on frying pan bake (approx, half pack) for 14-16miune until golden brown, filip in between, t little amount of oil, fry on medium magic with mccain r about 6-8 dccasionally min,, ave cooking, reduce cooking time when cooking s",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906000610336",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

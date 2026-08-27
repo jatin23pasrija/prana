@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058000702",
+  "barcode_printed": "8901058000702",
+  "barcode_format": "EAN-13",
+  "name": "Munch",
+  "brand": "nestle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 435,
+        "protein_g": 6,
+        "carbohydrate_g": 50,
+        "sugars_g": 32.9,
+        "fat_g": 23.4,
+        "saturated_fat_g": 23.1,
+        "trans_fat_g": 0.06,
+        "fibre_g": 0,
+        "sodium_mg": 89.3
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Refined Wheat flour (Maida), Hydrogenated vegetable fat, Fractionated vegetable fat, Milk solids, Cocoa solids (3.9%), Emulsifier (Soya lecithin), Raising agent (E 500(ii)), Yeast, iodised salt, Flour treatment agent (E 516), Artificial (Vanilla),Nature identical flavouring substances,Contains _Wheat_, _Sesame_, _Milk_ and _Soy_, May Contains _Nut_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058000702",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063220431",
+  "barcode_printed": "8904063220431",
+  "barcode_format": "EAN-13",
+  "name": "Taka tak",
+  "brand": "haldiram-s",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Rice Meal, Edible Vegetable Oil (Palmol Cotton Seed, Rice Bran), Corn Meal (23%), Gram Meal, and Condiments (Red Chilli Powder (0.8%), Raw Powder, Coriander Powder (0.25%), Cumin Powder, Powder, Anise Powder (0.1%) Black Pepper Powder, (L Nutmeg Powder, Cinnamon Powder, Onion Powder, S Extract), lodised Salt, Whey Powder, Maltodextrin, De Sugar Powder, Acidity Regulators (INS 296 & INS 330), N and Nature Identical Flavouring Substances *Used as natural flavouring agent",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063220431",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

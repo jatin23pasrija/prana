@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08902979011549",
+  "barcode_printed": "8902979011549",
+  "barcode_format": "EAN-13",
+  "name": "Badam Flavoured Milk",
+  "brand": "cavin-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 170,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 85.1,
+        "protein_g": 3.2,
+        "carbohydrate_g": 14.7,
+        "sugars_g": 14.6,
+        "fat_g": 1.5,
+        "saturated_fat_g": 1,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 58
+      }
+    }
+  ],
+  "ingredients_raw": "Double toned milk, Sugar, Almond bits (0.4%), Flavour (Artificial (Badam) Flavouring substance), Sequestrant (INS 339 (i)), Stabilizer (INS 407), Synthetic food color (INS 102, INS 110). Allergen advice: Contains milk and nuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902979011549",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

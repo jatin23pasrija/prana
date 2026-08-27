@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010505493",
+  "barcode_printed": "8906010505493",
+  "barcode_format": "EAN-13",
+  "name": "Wheels",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 42.33,
+        "protein_g": 10.58,
+        "carbohydrate_g": 67.02,
+        "sugars_g": 7.05,
+        "fat_g": 17.64,
+        "saturated_fat_g": 10.58,
+        "fibre_g": 3.53,
+        "sodium_mg": 1417.99
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010505493",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

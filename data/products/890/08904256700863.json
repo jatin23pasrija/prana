@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904256700863",
+  "barcode_printed": "8904256700863",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Bread",
+  "brand": "fresho",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 294,
+        "protein_g": 9.7,
+        "carbohydrate_g": 55,
+        "sugars_g": 4.03,
+        "fat_g": 4,
+        "saturated_fat_g": 2.8,
+        "fibre_g": 1.47,
+        "sodium_mg": 501.2
+      }
+    }
+  ],
+  "ingredients_raw": "Whole wheat flour (Atta), Refined wheat flour (Maida), Sugar, Edible vegetable fat, Yeast, lodized Salt, Edible vegetable oil (palm oil), Gluten, Whole wheat kernels, Improver, Caramel Colour (INS 150a)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904256700863",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202236341",
+  "barcode_printed": "7622202236341",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury Celebrations",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 527,
+        "protein_g": 5.6,
+        "carbohydrate_g": 64.2,
+        "sugars_g": 61,
+        "fat_g": 27.9,
+        "saturated_fat_g": 18.7,
+        "sodium_mg": 92.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202236341",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

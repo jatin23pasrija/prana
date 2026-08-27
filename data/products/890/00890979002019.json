@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00890979002019",
+  "barcode_printed": "0890979002019",
+  "barcode_format": "EAN-13",
+  "name": "Potato crackers",
+  "brand": "bombay-sweets",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "potato flakes,potato starch,wheat flour,refined veg oil & spices(chilli powder, cardamon, cinnamon et cetera",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0890979002019",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

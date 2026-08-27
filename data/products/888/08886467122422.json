@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08886467122422",
+  "barcode_printed": "8886467122422",
+  "barcode_format": "EAN-13",
+  "name": "Fusion Chutney Flavour",
+  "brand": "kellogg-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 107,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Dried Potato (45%), Edible Vegetable Oil (Palm Oil), Corn Flour Starch, Fusion Chutney Flavour Seasoning (5.5%) [Maltodextrin, Salt, Sugar, Flavouring Subtanceses {Natural, Natural Identical & Artificial (Onion)}, Vegetable Powders (Garlic Powder, Onion Powder), Spices {Ginger, Clove (0.5%), Cinnamon (0.5%), Cassia (0.5%), Celery Seed}, Colour (INS 150 a), Anticaking Agents {INS 341 (iii), 551, 552}, Acidity Regulator (INS 330), Flavour Enhancer (INS 635), Hydrolysed Vegetable Protein, Vegetable Oil (Palm Oil), Yeast Extract, Spice Extracts {Paprika, Ginger}, Malt Extract, Sweeteners (INS 951, 955)], Emulsifier (INS 471), Maltodextrin, Acidity Regulator (INS 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8886467122422",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

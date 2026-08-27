@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08908015394638",
+  "barcode_printed": "8908015394638",
+  "barcode_format": "EAN-13",
+  "name": "Apis Classic Dates",
+  "brand": "apis",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 282,
+        "protein_g": 2.45,
+        "carbohydrate_g": 75.03,
+        "fibre_g": 8
+      }
+    }
+  ],
+  "ingredients_raw": "non GMO Seeded DatesWashed and packed under strict hygienic conditions free from preservatives",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908015394638",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

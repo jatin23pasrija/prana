@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063240019",
+  "barcode_printed": "8904063240019",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram Nut Cracker",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 42,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 634,
+        "protein_g": 20,
+        "carbohydrate_g": 26,
+        "sugars_g": 0.3,
+        "fat_g": 50,
+        "saturated_fat_g": 22.5,
+        "sodium_mg": 1500
+      }
+    }
+  ],
+  "ingredients_raw": "Peanuts (69%), Gram Pulse Flour (18%), Corn Starch, Edible Vegetable Oil Palmolein Oil), Corn Starch, *Spices 8 Condiments (Red Chilli Powder, Black Pepper Powder, Ginger Powder, Clove Powder, cumin Powder, Big Cardamom Powder, Cinnamon Powder, Mace POwder, Nutmeg Powder, Asafoetida Powder, Spices Extract), lodised Salt, Black Salt, Acidity Regulator (INS 330) and Natural 8 Nature Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063240019",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

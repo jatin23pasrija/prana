@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019726220",
+  "barcode_printed": "8908019726220",
+  "barcode_format": "EAN-13",
+  "name": "Nova nova Waffle Cookies",
+  "brand": "nova-nova",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 Cookie (11 g)",
+        "quantity": {
+          "value": 11,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 44.44,
+        "protein_g": 0.66,
+        "carbohydrate_g": 5.09,
+        "sugars_g": 3.19,
+        "fat_g": 2.4,
+        "saturated_fat_g": 1.24,
+        "fibre_g": 0.18,
+        "sodium_mg": 14.05
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019726220",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

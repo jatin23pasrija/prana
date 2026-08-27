@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00940042488551",
+  "barcode_printed": "0940042488551",
+  "barcode_format": "EAN-13",
+  "name": "Doublemint",
+  "brand": "wrigleys",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SUGAR, LIQUID GLUCOSE, EDIBLE VEGETABLE OIL (PALM OIL), STABILIZERS [INS 1400, INS 422, INS 1450], FLAVOURS [NATURAL, NATURE IDENTICAL AND ARTIFICIAL (MINT)], GLAZING AGENT [INS 913], COLOURS [INS 171, INS 133]. MAY CONTAIN SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0940042488551",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017087439",
+  "barcode_printed": "8908017087439",
+  "barcode_format": "EAN-13",
+  "name": "Plant Protein - Mango",
+  "brand": "happy-cultures",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 505,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pea Protein Isolate 42%, Brown Rice Protein Isolate 39%, Real Fruit & Almond Chunks 10%, Gut Loving Probiotics 1% ,Ashwagandha KSM 66° 1%, Monk Fruit Extract 0.3%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017087439",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

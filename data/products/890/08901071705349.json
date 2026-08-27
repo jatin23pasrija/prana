@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071705349",
+  "barcode_printed": "8901071705349",
+  "barcode_format": "EAN-13",
+  "name": "Hot Chocolate",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 399,
+        "protein_g": 6,
+        "carbohydrate_g": 87,
+        "sugars_g": 70,
+        "fat_g": 3,
+        "saturated_fat_g": 1.7,
+        "fibre_g": 10,
+        "sodium_mg": 4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071705349",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

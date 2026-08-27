@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906065166007",
+  "barcode_printed": "8906065166007",
+  "barcode_format": "EAN-13",
+  "name": "Farmland frozen green peas",
+  "brand": "farmland",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 75,
+        "protein_g": 4,
+        "carbohydrate_g": 13.5,
+        "sugars_g": 1,
+        "fat_g": 0.3,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 3.3
+      }
+    }
+  ],
+  "ingredients_raw": "Farmland Ewhering labe FROZEN GREEN PEAS No Added Colours or Preservati",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906065166007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

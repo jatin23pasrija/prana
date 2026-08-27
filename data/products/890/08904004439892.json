@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004439892",
+  "barcode_printed": "8904004439892",
+  "barcode_format": "EAN-13",
+  "name": "Paneer Paratha",
+  "brand": "haldiram",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 morceau (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 340,
+        "protein_g": 11,
+        "carbohydrate_g": 30,
+        "sugars_g": 1,
+        "fat_g": 19,
+        "saturated_fat_g": 2.5,
+        "trans_fat_g": 0,
+        "fibre_g": 4,
+        "sodium_mg": 7474
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004439892",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004401226",
+  "barcode_printed": "8904004401226",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram Dal biji namakeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Bengal Gram Flour (Besan), Refined Palmolein Oil, Red Lentils (Masur Whole), Dried Mango Powder, iodised Salt, Red Chilli Powder, Black Pepper, Spinach, Cumin, Clove, Pipal, Black Salt, Dried Ginger Powder, Asafoetida, Nutmeg, Cinnamon, Bay Leaves, Mint Leaves & Colour (INS 141). Allergen: May Contains Peanut, Tree Nuts, Milk, Wheat, Soy, Mustard Seed & Sesame Seed.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004401226",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

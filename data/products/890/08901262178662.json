@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262178662",
+  "barcode_printed": "8901262178662",
+  "barcode_format": "EAN-13",
+  "name": "Tricone Dark Chocolate",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "120 ml",
+        "quantity": {
+          "value": 120,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 249,
+        "energy_kj": 1042,
+        "protein_g": 3.8,
+        "carbohydrate_g": 25.3,
+        "sugars_g": 18.5,
+        "fat_g": 16.2,
+        "saturated_fat_g": 10.5,
+        "trans_fat_g": 0,
+        "sodium_mg": 32
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262178662",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

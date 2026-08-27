@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08901153012938",
+  "barcode_printed": "8901153012938",
+  "barcode_format": "EAN-13",
+  "name": "wafer cream rolls",
+  "brand": "tasty-treat",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 422,
+        "protein_g": 4,
+        "carbohydrate_g": 70,
+        "sugars_g": 43,
+        "fat_g": 14,
+        "saturated_fat_g": 12
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Refined wheat flour(maida), Hydrogenated vegetable fat (palm), Maltodextrin,Cocoa powder (2%), Corn starch, Milk solids, emulsifier (INS 322), Edible Refined Vegetable oil (palm), Edible common salt. CONTAINS PERMITTED NATURAL FOOD COLOUR (INS 150d) AND ADDED FLAVOURS (NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (CHOCOLATE)) Nutritional Information Per 100g (Approx.) Energy (kcal) Carbohydrates (g) Added Sugar (g) Protein (g) Fat (g) Saturated Fat (g) Trans Fat (g) 422 70 43 4 14 12 0.08 Store in a clean, cool and dry place. Keep away from humidity and direct sunlight. Transfer contents to an air-tight container once opened. BEST BEFORE NINE MONTHS FROM PACKAGING WHEN STORED AS PER STORAGE INSTRUCTIONS. nly &quot;901153 012938&quot;",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901153012938",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

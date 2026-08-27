@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042970486",
+  "barcode_printed": "8901042970486",
+  "barcode_format": "EAN-13",
+  "name": "Badam Drink Mix",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 pack (10 g)",
+        "quantity": {
+          "value": 10,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 37,
+        "protein_g": 0.5,
+        "carbohydrate_g": 7.8,
+        "sugars_g": 7.7,
+        "fat_g": 0.5,
+        "saturated_fat_g": 0,
+        "sodium_mg": 5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042970486",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

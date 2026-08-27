@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001386032",
+  "barcode_printed": "8906001386032",
+  "barcode_format": "EAN-13",
+  "name": "Sandwich cookies",
+  "brand": "twinnies",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "(FFI) Bistutts eu saveurs. ii de bié, sucre, nuiie ae pane, sucre Inverti, colorants (caramel, rouge de betterave, aniato). poudep lever (F50C, FfTJ0). pœ'dre de cacao, amidon de maïs, lait écrémé en poudre, extrait de mait d'orge, sel, émulsifiants [E471 , E322 (soja)], arôrrœs, sirop de agent de traitement de la tarine: E223 (sulphite); correcteur d acidité'. E330, E450;antioxygène: E319. Peut contenir des traces de fruits à coque. À consommer avant le: voir impression.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001386032",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

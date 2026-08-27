@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906158360145",
+  "barcode_printed": "8906158360145",
+  "barcode_format": "EAN-13",
+  "name": "Craze Coffee Marie",
+  "brand": "craze",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 445,
+        "protein_g": 8.4,
+        "carbohydrate_g": 78.9,
+        "sugars_g": 21.9,
+        "fat_g": 10.7,
+        "saturated_fat_g": 5.2,
+        "sodium_mg": 319
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, NATURAL COFFEE POWDER, MILK PRODUCTS (MILK SOLIDS & SWEETENED CONDENSED PARTLY SKIMMED MILK), RAISING AGENTS (5030 & 500(i)), IODIZED SALT, NATURE IDENTICAL & ARTIFICIAL (MILK & VANILLA) FLAVOURING SUBSTANCES, EMULSIFIER (472) CALCIUM SALT AND DOUGH CONDITIONER (223), CARAMEL DS 150.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906158360145",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

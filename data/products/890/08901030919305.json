@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030919305",
+  "barcode_printed": "8901030919305",
+  "barcode_format": "EAN-13",
+  "name": "pizza & pasta sauce",
+  "brand": "knorr",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 83,
+        "protein_g": 1.4,
+        "carbohydrate_g": 14,
+        "sugars_g": 10.7,
+        "fat_g": 2.4,
+        "saturated_fat_g": 0.4,
+        "trans_fat_g": 0.02,
+        "fibre_g": 1,
+        "sodium_mg": 909
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Vegetables (Crushed Tomato - 25%, Diced Tomato - 20%, Chopped Onion-3.5% and Garlic Paste-2.5%), Sugar, lodised Salt, Soyabean Oil, Stabilisers - E1422, E415, Acidity Regulator - E260, Herbs (Oregano and Basil - 0.12%), White Pepper Powder, Preservative-E211",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030919305",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

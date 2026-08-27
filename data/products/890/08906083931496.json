@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906083931496",
+  "barcode_printed": "8906083931496",
+  "barcode_format": "EAN-13",
+  "name": "Chana Burfi",
+  "brand": "dmb",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 piece (25 g)",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 135.71,
+        "protein_g": 2.93,
+        "carbohydrate_g": 12.6,
+        "sugars_g": 7.48,
+        "fat_g": 8.18,
+        "saturated_fat_g": 2.33,
+        "sodium_mg": 28.76
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906083931496",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

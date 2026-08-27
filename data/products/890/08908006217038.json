@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908006217038",
+  "barcode_printed": "8908006217038",
+  "barcode_format": "EAN-13",
+  "name": "Choco Ragi Cookies",
+  "brand": "slurrp-farm",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Multigrain Flour Blend (48%) [Whole Wheat, Jowar, Ragi], Rice Bran Oil (12%), Jaggery (11%), Unrefined Sugar (11%), Cocoa Powder (3.5%), Chocolate Chips, Skimmed Milk Powder, Corn Flour, Nature-identical Flavour, Raising Agent (Baking Soda), Salt, Natural Emulsifier (Sunflower Lecithin), Xanthan Gum, Antioxidant (Natural Rosemary). Allergen Note: Contains Milk & Wheat. Processed in a factory that also processes nuts. Safety Advice: When feeding a child, please ensure they are sitting and are supervised to reduce the risk of choking.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908006217038",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

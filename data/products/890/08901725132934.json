@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725132934",
+  "barcode_printed": "8901725132934",
+  "barcode_format": "EAN-13",
+  "name": "Dark fantasy",
+  "brand": "sunfeast",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 520,
+        "protein_g": 6.4,
+        "carbohydrate_g": 63.2,
+        "sugars_g": 38.4,
+        "fat_g": 27.2,
+        "saturated_fat_g": 16.8,
+        "fibre_g": 2.4,
+        "sodium_mg": 320
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725132934",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

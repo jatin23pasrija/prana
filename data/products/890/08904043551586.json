@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043551586",
+  "barcode_printed": "8904043551586",
+  "barcode_format": "EAN-13",
+  "name": "Brown Bread",
+  "brand": "modern",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 244.13,
+        "protein_g": 7.78,
+        "carbohydrate_g": 47.22,
+        "sugars_g": 3.77,
+        "fat_g": 2.68,
+        "saturated_fat_g": 1.31,
+        "fibre_g": 5.38,
+        "sodium_mg": 407.23
+      }
+    }
+  ],
+  "ingredients_raw": "BREAD hi fibre brown Ingredients: Whole Wheat Flour (Atta) (31%), Refined Wheat Flour (Maida) (30%), Sugar, Wheat Bran, Yeast, Gluten, iodized Salt, Edible Vegetable Fat (Interesterified), Preservative (282), Malt Product, Emulsifier (471), Acidity Regulators {341(0), 260), Flour Treatment Agents (510, 1100(i)} and Antioxidant (300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043551586",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

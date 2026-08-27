@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "03948491002912",
+  "barcode_printed": "3948491002912",
+  "barcode_format": "EAN-13",
+  "name": "Chips Schezwan",
+  "brand": "kurkure",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 557,
+        "protein_g": 5.5,
+        "carbohydrate_g": 57.8,
+        "sugars_g": 4.1,
+        "fat_g": 33.7,
+        "saturated_fat_g": 15.2,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 684
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948491002912",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

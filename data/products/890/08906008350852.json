@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906008350852",
+  "barcode_printed": "8906008350852",
+  "barcode_format": "EAN-13",
+  "name": "Health Mix",
+  "brand": "manna",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 675,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Millets & Cereals 82% (Ragi, Bajra, Corn, Jowar, Wheat, Red rice & Barley), Pulses 12 % (Bengal gram & Green gram), Sago, Nuts 2% ( Ground nut, Almond & Cashewnut), Cardamom. Allergen Advice: Contains Wheat, Barley and Nuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906008350852",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

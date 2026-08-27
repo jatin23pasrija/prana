@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262152938",
+  "barcode_printed": "8901262152938",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Spread Hazelnut",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 535,
+        "protein_g": 5.5,
+        "carbohydrate_g": 60,
+        "sugars_g": 55,
+        "fat_g": 31,
+        "saturated_fat_g": 15,
+        "sodium_mg": 3
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, hazelnut paste (13%), butter oil, milk solids, cocoa powder, emulsifier (322).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262152938",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

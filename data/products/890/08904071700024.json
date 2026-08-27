@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071700024",
+  "barcode_printed": "8904071700024",
+  "barcode_format": "EAN-13",
+  "name": "Salt-n-Pepper Banana Chips",
+  "brand": "chheda-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "INGREDIENTS: Banana (60%), Vegetable Oil (Palmolein), Spices (Black Pepper Powder, Coriander Powder, Salt, Mango Powder). INGRÉDIENTS: Banane (60%), huile végétale (palmoléine), épices (poudre de poivre noir,poudre de coriandre, sel, poudre de mangue). مكونات موز (٦٠٪) ، زيت نباتي (نخيل)، بهارات مسحوق) فلفل أسود، مسحوق الكزبرة، الملح، مسحوق المانجو). Allergy Advice: This product is packed in a factory that handles peanuts, nuts, milk, wheat, sesame, soya and mustard. INDIA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071700024",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

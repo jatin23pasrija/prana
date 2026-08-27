@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "gopala-organic-products-india",
+  "name": "Gopala Organic Products India",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/brand/gopala-organic-products-india",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  }
+}

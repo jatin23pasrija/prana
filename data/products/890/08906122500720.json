@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08906122500720",
+  "barcode_printed": "8906122500720",
+  "barcode_format": "EAN-13",
+  "name": "Moong tawa chilla",
+  "brand": "gm-foods",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 349,
+        "protein_g": 23,
+        "carbohydrate_g": 61,
+        "sugars_g": 4,
+        "saturated_fat_g": 0.4,
+        "fibre_g": 13
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906122500720",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

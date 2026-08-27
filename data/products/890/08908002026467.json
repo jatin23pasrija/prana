@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002026467",
+  "barcode_printed": "8908002026467",
+  "barcode_format": "EAN-13",
+  "name": "Jeera Special",
+  "brand": "btw",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 494,
+        "protein_g": 8.26,
+        "carbohydrate_g": 52.02,
+        "sugars_g": 7.8,
+        "fat_g": 28.08,
+        "saturated_fat_g": 13.47,
+        "trans_fat_g": 0.1,
+        "fibre_g": 1.78,
+        "sodium_mg": 357.8
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour, Bakery Shortening, Sugar,Common Salt, Glucose Powder, Milk powder, Custard Powder, Cumin Seeds Raising Agent [503ii)] & Baking Powder [500ii)] CONTAINS ADDED FLAVOUR (C2101 & S3294) (NATURAL IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002026467",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

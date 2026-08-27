@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719101441",
+  "barcode_printed": "8901719101441",
+  "barcode_format": "EAN-13",
+  "name": "Black bourbon crème sandwich",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "sugar, invert sugar syrup, enriched wheat flour, palm oil, cocoa solids, artificial flavours (vanilla and chocolate), caramel colour, leavening (ammonium bicarbonate, sodium bicarbonate), salt, emulsifier (soy lecithin)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719101441",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161391846",
+  "barcode_printed": "8906161391846",
+  "barcode_format": "EAN-13",
+  "name": "Banana Walnut Cake",
+  "brand": "let-s-try",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat Flour (Atta) (24%), Sugar, Edible Vegetable Oil (Refined Sunflower Oil *Egg-Free Cupcake Concentrate [Refined Wheat Flour (Maida), Milk Solids, Starch, Baking Powder, Stabilizers and Emulsifiers (INS 475, INS 415 INS 471, INS 433), Rice Flour, lodised Salt, Wheat Gluten], Glycerin (Humectant - INS 422), Sorbitol (Humectant-INS 420), Corn Flour, Banana Powder (1.6%), Walnuts (1.6%), Skimmed Milk Powder, Acidity Regulator (INS 330), Cake Gel, lodised Salt, Sorbic Acid (INS 200), Potassium Sorbate (INS 202), Banana Flavour, Added Flavour (Artificial Flavouring Substances - Banana).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161391846",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

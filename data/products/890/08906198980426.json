@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906198980426",
+  "barcode_printed": "8906198980426",
+  "barcode_format": "EAN-13",
+  "name": "Coffe Flavor Whey Protein Isolate+Concentrate",
+  "brand": "truebasics",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whey Blend: Whey Protein Isolate + Whey Protein Concentrate (Instantised with Sunflower Lecithin), Whole Milk Powder, Coffee Powder, Natural Flavour, Cocoa Powder, Lactase (B-galactosidase) & Papain",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906198980426",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

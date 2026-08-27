@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020589032",
+  "barcode_printed": "8906020589032",
+  "barcode_format": "EAN-13",
+  "name": "Digestive Wheat Bread",
+  "brand": "id",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 276.54,
+        "protein_g": 8.56,
+        "carbohydrate_g": 55.2,
+        "sugars_g": 4,
+        "fat_g": 3.06,
+        "saturated_fat_g": 0.43,
+        "trans_fat_g": 0,
+        "fibre_g": 7.31,
+        "sodium_mg": 604.25
+      }
+    }
+  ],
+  "ingredients_raw": "WHOLE WHEAT FLOUR (ATTA) (55%), REFINED WHEAT FLOUR (MAIDA)(45%), RO-PURIFIED WATER, SUGAR, GLUTEN, SUNFLOWER OIL, WHEAT BRAN (3%), COMPRESSED YEAST, IODISED SALT, FERMENTED WHEAT FLOUR, MALT, NATURAL IMPROVER, GLUTEN AND APPLE CIDER VINEGAR.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020589032",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

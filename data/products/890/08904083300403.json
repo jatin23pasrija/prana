@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083300403",
+  "barcode_printed": "8904083300403",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Milk Shake",
+  "brand": "milkymist",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 170,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Toned Milk (86%), Sugar, Milk Solids, Cocoa Powder (1.2%), Emulsifier & Stabilizer (INS 471 INS 407, INS 412), Acidity Regulator [INS 339 (ii), Flavor (Nature Identical Flavoring Substances-Chocolate)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083300403",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081921109",
+  "barcode_printed": "8906081921109",
+  "barcode_format": "EAN-13",
+  "name": "Carbamide Forte Salmon Fish Oil",
+  "brand": "carbamide-forte",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 10.55,
+        "protein_g": 0.32,
+        "carbohydrate_g": 0.68,
+        "sugars_g": 0,
+        "fat_g": 1,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Salmon Fish Oil, Ingredient of Capsule Shell (Gelatin), Humectants (INS 420(1) & INS 422), Refined Soybean Oil, Antioxidants (INS 320 & INS 321]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081921109",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202308697",
+  "barcode_printed": "7622202308697",
+  "barcode_format": "EAN-13",
+  "name": "Lotus Caramelized cookie",
+  "brand": "lot",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EDIBLE VEGETABLE OILS (PALM, SUNFLOWER, PALM STEARIN), CANDY SUGAR SYRUP, RAISING AGENT (SODIUM BICARBONATE), SOY FLOUR, IODISED SALT, CINNAMON POWDER",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202308697",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

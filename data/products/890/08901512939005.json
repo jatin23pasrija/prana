@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512939005",
+  "barcode_printed": "8901512939005",
+  "barcode_format": "EAN-13",
+  "name": "Snack Nacho Chips",
+  "brand": "sundrop",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 42,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn (73%), Refined Edible Palmolein Oil {Antioxidant (TBHQ)}, Sugar, Spices and Condiments (Dried Mango Powder (0.6%), Chilli Powder (0.3%), Cumin Powder (0.3%), Coriander Powder (0.2%), Turmeric Powder, Ginger Powder, Asafoetida), lodized Salt, Dehydrated Vegetables (Onion Powder (0.5%), Garlic Powder (0.1%)}, Acidity Regulators (Citric Acid, Malic Acid) & Natural (Chilli) & Nature Identical (Mango) Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512939005",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

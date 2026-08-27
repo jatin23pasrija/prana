@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08907316003966",
+  "barcode_printed": "8907316003966",
+  "barcode_format": "EAN-13",
+  "name": "Ginger garlic paste",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 72,
+        "protein_g": 2,
+        "carbohydrate_g": 16,
+        "sugars_g": 1,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Ginger (34%), Garlic (32%), Water, lodized Salt, Acidity Regulator (INS 260), Stabilizer (INS 415) & Turmeric Powder. May Contain Milk, Soy, Nut, Peanut, Wheat and Sulphite.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907316003966",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

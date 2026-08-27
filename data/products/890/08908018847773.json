@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908018847773",
+  "barcode_printed": "8908018847773",
+  "barcode_format": "EAN-13",
+  "name": "Classic Vanilla",
+  "brand": "the-brooklyn-creamery",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "water, sweeteners (blend [maltitol, stevia (steviol glycoside)]), milk solids, inulin, dietary fiber (oligofructose), stabilizers (401, 410, 412), emulsifiers (471, 477), natural food color (beta-carotene), natural flavoring substances (vanilla), chocolate coating (13.5%) [sweetener (maltitol), edible vegetable oil (palm oil, palm kernel oil), cocoa butter, cocoa mass, whole milk powder, emulsifiers (322, 471), natural identical flavoring substance (vanillin)], edible vegetable oil (coconut)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908018847773",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

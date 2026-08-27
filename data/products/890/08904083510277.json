@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083510277",
+  "barcode_printed": "8904083510277",
+  "barcode_format": "EAN-13",
+  "name": "Organic punjabi chicken curry spice",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 250,
+        "protein_g": 0,
+        "carbohydrate_g": 75,
+        "fat_g": 12.5,
+        "fibre_g": 50,
+        "sodium_mg": 1000
+      }
+    }
+  ],
+  "ingredients_raw": "Coriander*, chilli*, fenugreek*, black pepper*, cinnamon*, dried garlic*, dried ginger*, cumin*, turmeric powder*, clove*, cardamom*, bay leaf*, salt, dried curry leaves*, nutmeg*, mace*.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083510277",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

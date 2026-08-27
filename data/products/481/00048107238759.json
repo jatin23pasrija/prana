@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00048107238759",
+  "barcode_printed": "0048107238759",
+  "barcode_format": "EAN-13",
+  "name": "Pro Performance Weight Gainer double chocolate",
+  "brand": "gnc",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 3000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Maltodextrin, Skimmed Milk Powder, Cocoa powder, Whey Protein Concentrate, Fructooligosaccharides, Mineral Premix (Calcium Phosphate Dibasic, Potassium Dibasic Phosphate, Magnesium Oxide, Zinc Sulphate, Ferrous Sulphate, Cupric Sulphate, Manganese Sulphate, Sodium Molybdate), Calcium Caseinate, Nature Identical Chocolate Flavor, Sweetener (INS 955), Protease, Cellulase, Hemicellulase, Vitamin Premix (Retinyl Acetate, Nicotinamide, D-Pantothenate Calcium, Riboflavin 5'-Phosphate Sodium, Pyridoxine Hydrochloride, Cyanocobalamin, dl-alpha-Tocopheryl Acetate, Thiamine Chloride Hydrochloride, n-pteroyl Glutamic Acid, D-Biotin, Ergocalciferol), Papain, Alpha Amylase, Lipase.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0048107238759",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

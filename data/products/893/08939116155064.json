@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08939116155064",
+  "barcode_printed": "8939116155064",
+  "barcode_format": "EAN-13",
+  "name": "Marine Collagen Orange",
+  "brand": "naturaltein",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Fish Collagen 75%, Orange Powder, Lemon Powder, Vitamin & Mineral Mix Natural Flavouring Substances, Turmeric Extract (Curcumin), Stevia Extract (INS 960), Thaumatin (E 957), Added Natural Flavouring Substances",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939116155064",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

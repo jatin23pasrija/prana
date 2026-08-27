@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063410282",
+  "barcode_printed": "8901063410282",
+  "barcode_format": "EAN-13",
+  "name": "The Laughing Cow Cheese Slices",
+  "brand": "britannia",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 315.4,
+        "energy_kj": 0,
+        "protein_g": 17.2,
+        "carbohydrate_g": 4.3,
+        "sugars_g": 4.2,
+        "fat_g": 25.5,
+        "saturated_fat_g": 16.7,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 1426
+      }
+    }
+  ],
+  "ingredients_raw": "CHEESE, WATER, MILK PRODUCTS (BUTTER, MILK SOLIDS & RENNET CASEIN), EMULSIFIERS (331 (iii) & 339(iii)), ACIDITY REGULATOR (330), VITAMINS AND MINERAL, PRESERVATIVES (200&235), IODIZED SALT, COLOURS (160a(ii) & 160b(i)). (Numbers in brackets as per International Numbering System) CONTAINS MILK. Naturally rich in Protein",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063410282",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

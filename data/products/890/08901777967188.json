@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777967188",
+  "barcode_printed": "8901777967188",
+  "barcode_format": "EAN-13",
+  "name": "Kesar Pista ice cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 144.68,
+        "protein_g": 3.19,
+        "carbohydrate_g": 13.83,
+        "sugars_g": 9.04,
+        "fat_g": 8.51,
+        "saturated_fat_g": 4.26,
+        "fibre_g": 0.53
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777967188",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

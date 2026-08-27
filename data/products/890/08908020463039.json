@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08908020463039",
+  "barcode_printed": "8908020463039",
+  "barcode_format": "EAN-13",
+  "name": "natkhat masala",
+  "brand": "crax",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 82,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 480,
+        "protein_g": 9,
+        "carbohydrate_g": 66,
+        "sugars_g": 5,
+        "fat_g": 20,
+        "saturated_fat_g": 9,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 1360
+      }
+    }
+  ],
+  "ingredients_raw": "Semolina (67%), Edible Vegetable Oil (Refined Palmolein Oil), *Seasoning [Sugar, lodised Salt, Rice Flour, Onion Powder, Chilli, Mango Juice Powder, Hydrolysed Soy Protein, Cumin, Coriander, Garlic Powder Palm Oil, Anticaking Agent (INS 561), Flavour Enhancers (INS 627, INS 631), Spice Extract], Wheat Bran, Flavour(s) (Natural & Nature Identical Flavouring Substances) *Used as part of flavouring agent Contains Wheat and Soy May Contains Milk TRANS FAT FREE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908020463039",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

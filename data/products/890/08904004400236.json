@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004400236",
+  "barcode_printed": "8904004400236",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's Soya sticks",
+  "brand": "haldirams",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Tapioca Starch, Edible Vegetable Oil (Palmolein, Cotton Seed, Corn, Sunflower, Rice Bran), Soya Flour (9%), Split Pulse Urad (Urad Dal) Flour, Mixed Spices (Refined Sugar, lodised Salt, Maltodextrin, Black Salt, Red Chilli Powder, Dried Mango Powder, Onion Powder, Glucose Powder, Preservative (INS 262 i), Coriander Powder, Cumin Powder, Fennel, Whey Powder, Ginger Powder, Garlic Powder, Clove Powder, Yeast Extract, Pipal, Black Pepper, Acidity Regulator (INS 296), Flavour Enhancer (INS 627, INS 631), Turmeric Powder, Anticaking Agent (INS 551), Bay Leaves, Acidity Regulator (INS 330), Colour (INS 160 c), Nutmeg, Capsicum Powder, Cinnamon & Asafoetida), Hydrogenated Vegetable Oil (Vanaspati), Natural Flavouring Substance And Nature Identical Flavouring Substance Allergen: Contains Soy & Milk May Contains Wheat & Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004400236",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

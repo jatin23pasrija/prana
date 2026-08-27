@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906095290079",
+  "barcode_printed": "8906095290079",
+  "barcode_format": "EAN-13",
+  "name": "Instant Rava Pongal Mix",
+  "brand": "adukele",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Rava (50%), Green Gram Dal Flour (24%), Refined Palmoil (6%), Mustard, Cashew, Turmeric, Copra, Hing, Black Pepper, Salt, Sugar, Green Chillis & Curry Leaves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906095290079",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

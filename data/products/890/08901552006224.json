@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552006224",
+  "barcode_printed": "8901552006224",
+  "barcode_format": "EAN-13",
+  "name": "Navratan Korma",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283.49523125,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 178.57,
+        "protein_g": 2.86,
+        "carbohydrate_g": 10.71,
+        "sugars_g": 2.14,
+        "fat_g": 12.86,
+        "saturated_fat_g": 3.57,
+        "fibre_g": 1.43,
+        "sodium_mg": 407.14
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552006224",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

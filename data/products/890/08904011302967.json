@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08904011302967",
+  "barcode_printed": "8904011302967",
+  "barcode_format": "EAN-13",
+  "name": "Aavin Chocolate Health Drink",
+  "brand": "aavin",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "200ml",
+        "quantity": {
+          "value": 200,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 84,
+        "carbohydrate_g": 14.3,
+        "sugars_g": 10,
+        "fat_g": 1.5
+      }
+    }
+  ],
+  "ingredients_raw": "Double Toned Milk, Sugar, Added Artificial Flavouring Substance Net. Qty. : 200 ml. M.R.P.: (Inclusive of all taxes) Date of Mfg.: Batch Ne. Best Before 120 day from date of Manufacture NUTRITIONAL INFOMATION 100ml Contains As Sugar Total Carbohydrates 14.3 gm No Preservative a Tastes best When Caramalized, Ste Proteins 10 gm Fat 3.3 gm 1.5 gm Total Energy 84*Kcal KEEP YOUR CITY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904011302967",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

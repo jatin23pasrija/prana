@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908004691014",
+  "barcode_printed": "8908004691014",
+  "barcode_format": "EAN-13",
+  "name": "Sun Shobha SOYA Chips",
+  "brand": "sun-shobha",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Tapioca Starch (33%), Rice Flour (26%), Uded Dal (3%), Soya Flour (1%), Ede Vegetable Oil (Palmolien) (20%), Iodized Salt, Chilli Powder, Mango Powder. Wood Apple Powder, Sugar, Black Salt Condiments Monosodium Glutamate (E821 CONTAINS ADDED FLAVOUR NATURAL AND NATURE IDENTICAL FLAVORING SUBSTANCES NUTRIONAL VLULES (Approx**) Serv g per Container: 1 Enero ON Amount Per 100 g 605.22 24 30 %RDA Per 100 g*** 26.26% 31-16% 0% 0%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908004691014",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

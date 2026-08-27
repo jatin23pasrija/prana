@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491101813",
+  "barcode_printed": "8901491101813",
+  "barcode_format": "EAN-13",
+  "name": "Lays american cream onion",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 55,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato (83%). Edible Vegetable Oil&quot;. *Seasoning (Sugar, lodised Salt, Milk Solids (1.2%), Spices and Condiments, Maltodextrin, Flavour (Natural and Nature Identical Flavouring Substances), Cheese Powder (0.3%), Hydrolysed Vegetable Protein, Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm, Coconut)). As flavouring agent. To know the specific type of oil used and its saturated fat value, match the symbol or # with the last character of batch number where ◊ denotes Palmolein and # denotes Rice Bran Oil.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491101813",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063026308",
+  "barcode_printed": "8901063026308",
+  "barcode_format": "EAN-13",
+  "name": "brittania nutri choice",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined wheat flour (maida), Refined palm & palmolein oil, Raising agents [503(ii) & 500(ii)]. iodised salt, Milk solids, Yeast, Natural & nature identical flavouring substances, Emulsifier [322(i)], Acidity regulators [330 & 334] and dough conditioner [223]. (numbers in brackets as per international numbering system) contains wheat, Milk, Soy and sulphite. serving no energy protein carboh of wh adde total f satur mone poly trans choles sodiu agui (base",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063026308",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

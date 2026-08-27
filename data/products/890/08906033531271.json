@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033531271",
+  "barcode_printed": "8906033531271",
+  "barcode_format": "EAN-13",
+  "name": "snapin garlic powder",
+  "brand": "snapin",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 381.5,
+        "protein_g": 17,
+        "carbohydrate_g": 67.6,
+        "fat_g": 4.8,
+        "saturated_fat_g": 1.5,
+        "sodium_mg": 77.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033531271",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

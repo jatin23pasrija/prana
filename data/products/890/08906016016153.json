@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906016016153",
+  "barcode_printed": "8906016016153",
+  "barcode_format": "EAN-13",
+  "name": "CHIA SEEDS",
+  "brand": "tulsi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 524,
+        "protein_g": 18,
+        "carbohydrate_g": 29,
+        "sugars_g": 1.6,
+        "fat_g": 42,
+        "saturated_fat_g": 3.7,
+        "fibre_g": 31,
+        "sodium_mg": 30
+      }
+    }
+  ],
+  "ingredients_raw": "Chia Seeds",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906016016153",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

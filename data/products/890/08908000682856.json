@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000682856",
+  "barcode_printed": "8908000682856",
+  "barcode_format": "EAN-13",
+  "name": "English jeera",
+  "brand": "kaycee",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER INGREDIENTS CARBONATED WATER. SUGAR. ACIDITY REGULATOR (330) SALT. SWEETENERS (951. 950) AND PRESERVATIVE(211) CONTAINS PERMITTED NATURAL COLOUR(1506) AND ADDED RAVOUR NATURAL FLAVOURING SUBSTANCES.) CONTAINS NO FRUIT CONTAINS ARTIFICIAL SWEETENERS AND FOR CALORIE CONSCIOUS. THIS CARBONATED WATER CONTAINS AN ADMIXTURE OF ASPARTAME AND ACESULFAME POTASSIUM. NOT RECOMMENDED FOR PHENYLKETONURICS: FOR CHILDREN: PREGNANT AND LACTATING MOTHERS. CONTAIN NON-CALORIC SWEETENER",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000682856",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

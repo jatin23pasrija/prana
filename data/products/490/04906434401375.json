@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "04906434401375",
+  "barcode_printed": "4906434401375",
+  "barcode_format": "EAN-13",
+  "name": "nutri mix",
+  "brand": "little-joys",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 108.27,
+        "protein_g": 6,
+        "carbohydrate_g": 19.6,
+        "sugars_g": 16.14,
+        "fat_g": 0.66,
+        "saturated_fat_g": 0.28,
+        "fibre_g": 1.47,
+        "sodium_mg": 0.03
+      }
+    }
+  ],
+  "ingredients_raw": "Protein Blend (Skim Milk Powder, Milk Permeate Powder, Pea Protein Isolate, Brown Rice Protein Isolate, Almond Powder, Walnut Powder, Moong Dal Powder), Sweetener Blend (Dates Powder, Barley Cereal Extract Jaggery Powder), Cocoa Powder, Fiber Blend (Oats Flour, Chia Seeds Powder, Flaxseed Powder, Rogi & Bajra Flour), Nature Identical Flavour (Chocolate), Algal DHA (Docosahexaenoic Acid), Digestion Blend Probiotics (Lactobacillus acidophilus, Bifidobacterium infantis Bifidobacterium bifidum, Bacillus coagulans, Lactobacillus rhamnosus), Digezyme (a-amylase, Protease, Lipase, Cellulase and Lactose)). Minerals (Calcium (Tribasic Calcium Phosphate), Phosphorous (Potassium Phosphate), Potassium (Potassium Phosphate), Sodium (Sodium Chloride) Magnesium (Magnesium Oxide), Zinc (Zinc Sulphate), Manganese (Manganese Sulphate), lodine (Potassium lodate), Selenium (Sodium Selenate), Chromium (Chromium Chloride)), Vitamins (Vitamin C (Ascorbic Acid), Vitamin E (D-alpha Tocopheryl Acetate), Vitamin B3 (Nicotinamide), Vitamin B5 (Calcium D-Pantothenate), Vitamin B6 (Pyridoxine HC), Vitamin B2 (Riboflavin), Vitamin B1 (Thiamine HCI), Vitamin A (Retinyl Palmitate). Vitamin B9 (Folic Acid), Vitamin K2-7 (Menaquinone-7), Biotin (D-Biotin). Vitamin D3 (Cholecalciferol - Veg Lichen), Vitamin B12 (Cyanocobalamin ALLERGENS: Contains Milk, Nuts, Barley and Oats. Storage: This pack is supposed to be kept sealed. Once the pack has been opened, the contents should be used within 5 weeks. For extra protection continue to keep the contents inside the pack. After use, seal away the pack.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4906434401375",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

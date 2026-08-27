@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725170325",
+  "barcode_printed": "8901725170325",
+  "barcode_format": "EAN-13",
+  "name": "Rajma Masala Red Kidney Beans Curry",
+  "brand": "kitchens-of-india",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 285,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kj": 578,
+        "protein_g": 5.9,
+        "carbohydrate_g": 12.5,
+        "sugars_g": 2.5,
+        "fat_g": 6.2,
+        "saturated_fat_g": 0.7,
+        "sodium_mg": 2540
+      }
+    }
+  ],
+  "ingredients_raw": "Water,tomatoes,onions,red Kidney Beans (25%),sunflower Oil,garlic, Spices, Salt and Ginger. Allergy Information: Manufactured In A Facility That Processes Milk, Peanuts and Tree Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725170325",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

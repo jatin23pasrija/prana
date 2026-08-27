@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901120143115",
+  "barcode_printed": "8901120143115",
+  "barcode_format": "EAN-13",
+  "name": "Sugar Free Natura",
+  "brand": "sugar-free",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.085g",
+        "quantity": {
+          "value": 0.085,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 0.3,
+        "protein_g": 0,
+        "carbohydrate_g": 0.08,
+        "sugars_g": 0.06,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Bulking Agent-Lactose, Sweetener Sucralose, Dispersing Agent-Microcrystalline Cellulose, Stabilizer - Pregelatinized starch, Anticaking Agent - Magnesium stearate, Stabilizer - Polyvinyl pyrrolidone or CO NO TM This is only a Brand Name & Trademark and does not represent its true nature. I Mar Zy Ne So Net Qty: 8.5 g (100 Pellets) MRP Rs: (nd of al taxes) Swahd Ma 9660",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901120143115",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

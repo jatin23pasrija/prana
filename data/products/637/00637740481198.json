@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "00637740481198",
+  "barcode_printed": "0637740481198",
+  "barcode_format": "EAN-13",
+  "name": "Lil'Goodness Milk Chocolate",
+  "brand": "lil-goodness",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 554.2,
+        "protein_g": 7.2,
+        "carbohydrate_g": 57,
+        "sugars_g": 32,
+        "fat_g": 33,
+        "saturated_fat_g": 21.1,
+        "fibre_g": 11.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0637740481198",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

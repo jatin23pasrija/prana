@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "09169176581001",
+  "barcode_printed": "9169176581001",
+  "barcode_format": "EAN-13",
+  "name": "Blutears ultra",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 10,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "polyethylene glycol 400 usp propylene Glycol IP sterile aqueous vehicle base",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9169176581001",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

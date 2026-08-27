@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081001499",
+  "barcode_printed": "8909081001499",
+  "barcode_format": "EAN-13",
+  "name": "Jelimals",
+  "brand": "itc",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 327,
+        "protein_g": 0.2,
+        "carbohydrate_g": 81.5,
+        "sugars_g": 68.8,
+        "fat_g": 0.01,
+        "sodium_mg": 193.8
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, LIQUID GLUCOSE, ACIDITY REGULATORS (INS 330, INS 331], GELLING AGENT (INS 4401, NATURE IDENTICAL FLAVOURING SUBSTANCES, ARTIFICIAL FLAVOURING SUBSTANCES (STRAWBERRY). COLOURS (INS 102, INS 124, INS 110.MS 133).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081001499",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

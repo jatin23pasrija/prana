@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901148256996",
+  "barcode_printed": "8901148256996",
+  "barcode_format": "EAN-13",
+  "name": "Celevida Liv",
+  "brand": "dr-reddy-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whey Protein Isolate, Amino Acids, Milk Solids, Medium Chain Triglycerides (Coconut Oil), Fructose, Soy Protein Isolate, Edible Vegetable Oil (High Oleic Sunflower Oil), Cocoa Powder, Nature Identical Flavouring Substances, Artificial (Chocolate) Flavour, Minerals, Synthetic Food Colour (INS 150d), Stabilizers (INS 466, INS 415, INS 407), Vitamins, Sweeteners (INS 951, INS 950) and Natural Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901148256996",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

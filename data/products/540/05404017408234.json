@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "05404017408234",
+  "barcode_printed": "5404017408234",
+  "barcode_format": "EAN-13",
+  "name": "Iso Ripped Whey Choco Brownie",
+  "brand": "qnt",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 scoop (40 g)",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 146,
+        "protein_g": 32,
+        "carbohydrate_g": 2,
+        "sugars_g": 0.78,
+        "fat_g": 1,
+        "saturated_fat_g": 0.2,
+        "trans_fat_g": 0,
+        "sodium_mg": 52
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5404017408234",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906102430139",
+  "barcode_printed": "8906102430139",
+  "barcode_format": "EAN-13",
+  "name": "True Vitamin",
+  "brand": "neuherbs",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Magnesium oxide, Diluent [INS 460001 N-acetyl-L-cysteine, L-ascorbic acid, Bilberry (Vaccinium 9myrstillus-25% Anthocyanidin) fruit extract, Ginkgo biloba-24% Glycosides leaf extract, Korean ginseng (Panax ginseng-10% Ginsenosides) root extract, Grape (Vitis vinifera-95% Proanthocyanidins) seed extract, Pomegranate (Punica granatum - 40% polyphenols) fruit extract, Disintegrants [INS 468 & Sodium starch glycolate], Stabilizer [INS 1202], Natural colour [INS 171] & Synthetic colour [INS 172 (ii), INS 110 & INS 124], Liquorice (Glycyrrhiza glabra - 20% Glycyrrhizin) root extract, Stabilizer [INS1201], Nicotinamide, Ferrous fumarate, dl-alpha-tocopheryl acetate, Zinc oxide, Coating agent [INS 462], Glidant [INS 553 (iii)), Anti-Sticking agent [INS 470 (iii)],Calcium D-Pantothenate, Anti-Caking agent [INS 551]. Manganese sulphate, Pyridoxine hydrochloride, Riboflavin, Cupric sulphate, Thiamine mononitrate, Retinyl acetate, n-pteroyl-l-glutamic acid, Potassium iodide, Chromium trichloride, Sodium selenate, D-Biotin, Ergocalciferol, Cyanocobalamin and Artificial flavours [Peppermint & Vanilla).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906102430139",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

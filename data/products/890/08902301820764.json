@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902301820764",
+  "barcode_printed": "8902301820764",
+  "barcode_format": "EAN-13",
+  "name": "Concentré de saveurs pour Butter Chicken",
+  "brand": "parampara",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Oignons déshydratés, huile de tournesol (contient antioxydant E320), aïl, épices (9%) (piment chili rouge en poudre, graines de coriandre, graines de fenouil, curcuma, cannelle, cardamome, cumin, gingembre, clous de girofle, noix de muscade, poivre noir), herbes (8%) (feuilles de coriandre, feuilles de laurier, feuilles de fénugrec déshydratés), tomates en poudre (7%), sucre, gingembre, sel, maltodextrine, correcteurs d'acidité: acide acétique, acide citrique) -",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902301820764",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064654079",
+  "barcode_printed": "8906064654079",
+  "barcode_format": "EAN-13",
+  "name": "Crisp Baked Multigrain Flatbread",
+  "brand": "wingreens-farms",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 277,
+        "protein_g": 7,
+        "carbohydrate_g": 44.7,
+        "sugars_g": 0.7,
+        "fat_g": 7.8,
+        "saturated_fat_g": 3.3,
+        "sodium_mg": 400
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064654079",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

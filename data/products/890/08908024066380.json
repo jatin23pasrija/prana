@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08908024066380",
+  "barcode_printed": "8908024066380",
+  "barcode_format": "EAN-13",
+  "name": "Schezwan Noodles",
+  "brand": "kook-by-pluckk",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "82.5 g",
+        "quantity": {
+          "value": 82.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 300.4,
+        "protein_g": 7.6,
+        "carbohydrate_g": 45,
+        "sugars_g": 4.8,
+        "fat_g": 10.4,
+        "saturated_fat_g": 1.5,
+        "trans_fat_g": 0.1,
+        "fibre_g": 4.6,
+        "sodium_mg": 935.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908024066380",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

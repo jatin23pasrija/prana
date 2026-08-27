@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009532158",
+  "barcode_printed": "8906009532158",
+  "barcode_format": "EAN-13",
+  "name": "Max Protein Ultimate",
+  "brand": "rite-bite",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 336,
+        "energy_kj": 1407,
+        "protein_g": 30,
+        "carbohydrate_g": 46.6,
+        "sugars_g": 2.8,
+        "fat_g": 10.6,
+        "saturated_fat_g": 2.8,
+        "trans_fat_g": 0,
+        "fibre_g": 10,
+        "sodium_mg": 125
+      }
+    }
+  ],
+  "ingredients_raw": "Protein Blend (38%) (Soy Nuggets, Whey Protein Concentrate, Calcium Caseinate), Dietary Fiber (17%) (Fructooli - gosacharide), Dark Compound No Added Sugar (12%) (Maltitol, Edible Vegetable Fat (Hydrogenated), Cocoa Solids, Milk Solids. Emulsifier (Soy Lecithin)), Maltitol, Cranberries (7,5%), Rice Bran Oil, Strawberry Preserve (6%) (No Added Su Rolled Oats Humectant (Glycerine), Yongar), Whole Grain uft Powder, Flaxseeds, Emulsifier (Soy Lecithin), Soy Protem Isolate, Binding Agent (Guar Gum), Salt and Citric Acid, Antioxidants (Vitamin C), Added Vitamins, Minerals, Glutamine and Amino Acids. CONTAINS ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOUR(S)) rawberry Flavour Vitamin & Vit E 5ma VitK 13.7 Vit B3 2.7 Vit B9 30 Calcium Seleni 51mg BCAA L-Is Γ",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009532158",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

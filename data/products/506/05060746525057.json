@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "05060746525057",
+  "barcode_printed": "5060746525057",
+  "barcode_format": "EAN-13",
+  "name": "Frosted Ceream Milk Impact Whey",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 384,
+        "protein_g": 75.03,
+        "carbohydrate_g": 7.5,
+        "sugars_g": 5,
+        "fat_g": 6,
+        "saturated_fat_g": 3.66,
+        "trans_fat_g": 0,
+        "sodium_mg": 180
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5060746525057",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777969175",
+  "barcode_printed": "8901777969175",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate",
+  "brand": "vadilal",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk, Cane Sugar, Milk Fat, Non Fat Milk, Water, Cocoa Solids, Emulsifier: Mono & Diglycerides of fatty acids (E471), Stabilizers: Guar Gum (E412), Sodium Carboxymethyl Cellulose (E466), Carrageenan (E407) and Natural Vanilla Flavor, Milk Fat (10.7%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777969175",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

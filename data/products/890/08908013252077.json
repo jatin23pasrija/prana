@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013252077",
+  "barcode_printed": "8908013252077",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy Granola Happy Berries",
+  "brand": "fit-flex",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 449.90693199375,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 453,
+        "protein_g": 5.3,
+        "carbohydrate_g": 75.6,
+        "sugars_g": 25,
+        "fat_g": 14.5,
+        "saturated_fat_g": 8.4,
+        "trans_fat_g": 0,
+        "fibre_g": 7.6,
+        "sodium_mg": 100
+      }
+    }
+  ],
+  "ingredients_raw": "Rolled _Oats_ 33%, Rice Puffs 13%, Multigrain Crispies 11% (_Wheat_, Maize, Rice), Oligofructose (Prebiotic Dietary Fibre) 9.5%, Rice Bran Oil 6.1%, Sugar 4.2%, _Almond_ Flakes 3%, Tender Coconut Powder, Coconut Milk Powder, Candied Fruits (Cranberry 3.7%, Blueberry 3.7%, Strawberry 3%), Common Salt, Acidity Regulators [Sodium Citrate (INS 331)], Humectant [Glycerine from Vegetable Source (INS 422)], Antioxidant [Tocopherol (INS 307)], Nature Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013252077",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414004009",
+  "barcode_printed": "8901414004009",
+  "barcode_format": "EAN-13",
+  "name": "meetha chatpata",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Peanuts (65%), Edible Vegetable Oil (Refined Ricebran Oil, Refined Cottonseed Oil, Refined Palmolein Oil Flour, Corn Starch, Spices and Condiments (Dried Mango Powder, Red Chilli Powder, Cumin Seeds Powder, Coriander Powder Chilli Powder, Dried Ginger Powder, Carom Seeds Powder, Nutmeg Powder, Black Pepper Powder, Cloves Powder, Cinnamon P Cardamom Powder, Gooseberry Powder, Bay Leaves Powder, Mace Powder, Yellow Chilli Powder, White Pepper Powder), lodized Black Salt, Asafoetida, Acidity Regulators [E 296/Malic Acid and E 330/Citric Acid], Contains Added Flavour [Natural and Nature Identical flavouring Substances]. ALLERGEN ALERT: CONTAINS PEANUTS LAJAWAB MIXTURE (Crunchy Spicy Mixture of Chickpea Flour Noodles, Lentils, Peanuts and Corn Flakes) INGREDIENTS: Edible Vegetable Oil (Refined Ricebran Oil, Refined Cottonseed Oil, Refined Palmolein Oil), Chickpea Flour (21.5%), Split Bengal Gram (8.3%), Lentils (7.4%), Mixed Spices (Dried Mango Powder, Red Chilli Powder, Black Pepper Powder, Clove Powder, Cumin Powder, Fennel Powder, Cinnamon Powder, Dried Ginger Powder, Asafoetida), Rice Flakes, Corn Flakes (4.5%), Peanuts (4.5%), Raisins, Maize Flour, Rice Flour, Cashew, lodized Salt, Black Salt, Turmeric Powder, Sugar (Sucrose), Spinach Powder, Carom Seeds, Raising Agent [E 500 (ii)/ Sodium Bicarbonate], Acidity Regulators [E 296/Malic Acid and E 330/Citric Acid], Contains Permitted Natural [E 100/Curcumin and E 141(ii)] and Synthetic Food Colour (E 133/FD&C Blue No.1) and Added Flavour [Nature Identical Flavouring Substances]. ALLERGEN ALERT: CONTAINS PEANUT AND TREE NUT (CASHEW) Meetha Chatpata Crunchy Munchy (Crunchy Spicy Twisted bite snack of Potato and pulses flour) INGREDIENTS: Potato (51.4%). Refined Palmolein Oil, Rice Flour, Spices and Condiments (11.8%) (Dried Mango Powder, Green Chilli Powder, Onion Powder, Cumin Powder, Yellow Chilli Powder, Coriander Powder, Black Pepper, Dried Mint, Turmeric Powder, Yeast Extract, Garlic Powder, Anise Powder), Com Starch, Chickpea Flour (3%). Husked Dew Moth Bean Flour (3%), lodized Salt, Cheese Powder (from Milk), Acidity Regulatos [E 296/Malic Acid and E 330/Citric Acid]. Flavour Enhancer (E 635), Contains Permitted Synthetic Food Colour (E 110/FD&C Yellow No. 6) and Added Flavour [Nature Identical flavouring Substances]. &quot;May have an adverse effect on activity and attention in children Allergy Advice:- For Allergen see ingredients in Bold. May Contain Tree Nuts, Sesame, Soy, Mustard, Celery and Oats. ALLERGEN ALERT: CONTAINS MILK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414004009",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08801073142428",
+  "barcode_printed": "8801073142428",
+  "barcode_format": "EAN-13",
+  "name": "Buldak 2x spicy chicken noodles",
+  "brand": "samyang",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 389,
+        "energy_kj": 1629,
+        "protein_g": 9.3,
+        "carbohydrate_g": 60.7,
+        "sugars_g": 5,
+        "fat_g": 12.1,
+        "saturated_fat_g": 5.7,
+        "fibre_g": 0.7,
+        "sodium_mg": 1000
+      }
+    }
+  ],
+  "ingredients_raw": "NOODLE(76.7%): REFINED WHEAT FLOUR, MODIFIED STARCH (INS 1420), REFINED PALM OIL, WHEAT GLUTEN, SALT, EMULSIFIER (SOY LECITHIN-INS 322), ACIDITY REGULATOR [POTASSIUM CARBONATE (INS 5011), SODIUM CARBONATE (INS 500i), DISODIUM ORTHOPHOSPHATE (INS 339ii)], GUAR GUM (INS 412), RIBOFLAVIN (INS 101), CITRIC ACID (INS 330), GREEN TEA FLAVOUR (NATURE-IDENTICAL) SOUP(22.7%): WATER, SOY SAUCE (SOYABEAN, WATER, SALT, GARLIC, FLAVOUR ENHANCER-DISODIUM 5'-RIBONUCLEOTIDE), WHITE SUGAR, ARTIFICIAL CHICKEN FLAVOUR, CHILLI PEPPER POWDER, RED PEPPER POWDER, CURRY POWDER [CUMIN POWDER, SALT, DEXTROSE, RED PEPPER POWDER, CLOVE POWDER, NUTMEG POWDER, ROSEMARY POWDER, GARLIC POWDER, ONION POWDER, GINGER POWDER, PAPRIKA OLEORESIN (INS 160ci)], ONION, GARLIC, MODIFIED STARCH (INS 1420), CHILLI EXTRACT, BLACK PEPPER POWDER, LACTOBACILLUS FERMENTED POWDER, MONOSODIUM L-GLUTAMATE (INS 621), PAPRIKA POWDER FLAKE(0.6%): ROASTED SESAME, ROASTED SEAWEED CONTAINS ADDED MONOSODIUM L-GLUTAMATE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8801073142428",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

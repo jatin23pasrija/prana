@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08908018726184",
+  "barcode_printed": "8908018726184",
+  "barcode_format": "EAN-13",
+  "name": "Amrut Tea Classic Cookies",
+  "brand": "amrut-tea",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 426,
+        "protein_g": 10.53,
+        "carbohydrate_g": 78.01,
+        "sugars_g": 11.6,
+        "fat_g": 8.47,
+        "fibre_g": 1.2
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Floor, whole Wheat Sugar, Yeast, Cardamom, Fennel, Vanaspati Ghee, Palm Oil, Milk Powder, Custard Powder, Salt,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908018726184",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

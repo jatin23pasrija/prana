@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004411904",
+  "barcode_printed": "8904004411904",
+  "barcode_format": "EAN-13",
+  "name": "Plain bhujia indian snacks",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 580,
+        "protein_g": 12,
+        "carbohydrate_g": 36,
+        "sugars_g": 0,
+        "fat_g": 44,
+        "saturated_fat_g": 20,
+        "trans_fat_g": 0,
+        "fibre_g": 10,
+        "sodium_mg": 780
+      }
+    }
+  ],
+  "ingredients_raw": "Tapary beans (moth dal) flour, vegetable oil (contains one or more of the following: refined palmolein oil & corn oil), chick peas flour, salt, clove powder, black pepper, dried ginger powder, cardamom, bay leaves, nutmeg & cinnamon.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004411904",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

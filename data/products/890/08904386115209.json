@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08904386115209",
+  "barcode_printed": "8904386115209",
+  "barcode_format": "EAN-13",
+  "name": "Mars liptint",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Aqua, Dimethicone, Dimethicone Vinyl, Dimethicone Crosspolymer, Cyclopentasiloxane, Caprylyl Glycol, Cyclohexasiloxane, Polyacrylate Crosspolymer-6,Glycerin, Propylene Glycol, Polyglyceryl-10, Myristate, Phenoxyethanol, Ethylhexylglycerin, Ethylhexylglycerin, Sodium Acrylate/ Sodium Acryloyldimethyl Taurate Copolymer, Parfum, CI 77891, CI 15850, CI 19140 IMPORTED BY: Rome India, 5925/26, Basti Harphool Singh, Sadar Thana Road, Delhi-110006 Importers RC No.- RC/COS-002270 MFD BY/FOR: Zebra Brands Ltd No5, 50 Bonham Strand, Sheung Wan, Hong Kong YOUR FEEDBACK MATTERS Mail: info@marscosmetics.in Ph No: +91 8929492504 COMMODITY-Lip Tint",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904386115209",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

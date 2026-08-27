@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019319552",
+  "barcode_printed": "8908019319552",
+  "barcode_format": "EAN-13",
+  "name": "Ganesh Ruchi Farsana",
+  "brand": "ganesh-ruchi",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Bengal Gram Flour, Edible Vegetable Oil (Palm), Corn Flour, Corn Flakes, Beaten Rice Flakes, gar, lodized Salt, Peanuts, Spices & Condiments (Chilli Powder, Turmeric Powder Dried Mango Powder), Semolina, Lentils, Curry Leaves Ajwain Seeds & Leavening Agent (INS 500(ii)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019319552",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

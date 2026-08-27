@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08901537081666",
+  "barcode_printed": "8901537081666",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Rice Crackers Salt Pepper",
+  "brand": "kari-kari-indigo",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "20 g",
+        "quantity": {
+          "value": 20,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 76,
+        "protein_g": 1.3,
+        "carbohydrate_g": 18,
+        "sugars_g": 0.5,
+        "fat_g": 0.1,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 0.7,
+        "sodium_mg": 183
+      }
+    }
+  ],
+  "ingredients_raw": "1 - 1 gx-1 Q.85 The KARI KARIⓇ Enjoy Kaki No Tane, traditional Japanese rice crackers, that traces its origins to Japan's Niigata province - known for its popular rice variety. These rice crackers are made with traditional Japanese craftsmanship.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901537081666",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906067024503",
+  "barcode_printed": "8906067024503",
+  "barcode_format": "EAN-13",
+  "name": "Whey Gold",
+  "brand": "muscleblaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "36.5 g",
+        "quantity": {
+          "value": 36.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 142.32,
+        "protein_g": 30,
+        "carbohydrate_g": 3.11,
+        "sugars_g": 0.21,
+        "fat_g": 1.12,
+        "saturated_fat_g": 0.64,
+        "sodium_mg": 124.03
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906067024503",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

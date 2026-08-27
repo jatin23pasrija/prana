@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010502973",
+  "barcode_printed": "8906010502973",
+  "barcode_format": "EAN-13",
+  "name": "Papdi gathiya",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 628,
+        "protein_g": 12.5,
+        "carbohydrate_g": 36,
+        "sugars_g": 1,
+        "fat_g": 46.5,
+        "saturated_fat_g": 21,
+        "sodium_mg": 791
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010502973",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081009457",
+  "barcode_printed": "8909081009457",
+  "barcode_format": "EAN-13",
+  "name": "Tedhe Medhe",
+  "brand": "bingo",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 37.4,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "CEREALS AND PULSES MIX (RICE GRITS, DEGERMED CORN GRITS, BENGAL GRAM GRITS, PEA GRITS), &quot;EDIBLE VEGETABLE OIL AND SEASONING (SUGAR, IODIZED SALT, RED CHILLI POWDER (1.6%), MALTODEXTRIN, ONION POWDER, GARLIC POWDER, MILK SOLIDS, TOMATO POWDER, ACIDITY REGULATORS (CITRIC ACID, TARTARIC ACID), NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, HYDROLYZED VEGETABLE PROTEIN, FLAVOUR ENHANCER (635), GINGER POWDER, NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081009457",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

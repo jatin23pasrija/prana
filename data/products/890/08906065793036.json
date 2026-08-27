@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906065793036",
+  "barcode_printed": "8906065793036",
+  "barcode_format": "EAN-13",
+  "name": "Potato Cracker",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato Flakes (26%), Edible Vegetable Oil (Palmolein Oil) (22%), Tapioca Starch (17.6%), Maize Starch (17.6%), Wheat Flour (10%), Potato Starch, iodised Salt, Mixed Spices (Onion, Coriander, Cumin, Garlic, Dry Mango, Chilli, Spice Extracts, Pepper, Ginger, Fenugreek), Sugar, Maltodextrin, Acidity Regulators [INS 330 & INS 450 (i)], Raising Agent [INS 500 (ii).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906065793036",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

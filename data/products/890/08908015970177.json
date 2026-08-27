@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08908015970177",
+  "barcode_printed": "8908015970177",
+  "barcode_format": "EAN-13",
+  "name": "SF Roasted Hazelnut Syrup",
+  "brand": "good-moore",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 3.01,
+        "protein_g": 0,
+        "carbohydrate_g": 0.43,
+        "sugars_g": 0,
+        "fat_g": 0.03,
+        "sodium_mg": 10.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908015970177",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

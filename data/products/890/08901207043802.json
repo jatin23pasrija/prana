@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207043802",
+  "barcode_printed": "8901207043802",
+  "barcode_format": "EAN-13",
+  "name": "Vedic Tea",
+  "brand": "dabur",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 350,
+        "protein_g": 21.5,
+        "carbohydrate_g": 66,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "sodium_mg": 150
+      }
+    }
+  ],
+  "ingredients_raw": "Tea (97.5%), Herbs & Spices (2.5%) (Cardamom, Ginger, Cinnamon, Mulethi, Tulsi, Vidaari, Varahikand, Shatawar, Ashwagandha, Bael chhal, Arani (Agnimonth), Shyonok, Gambhari, Shaalparni, Prishnaparni, Gokshura, Kantkari - shavet, Bruhati, Balla, Mudgaparni, Mashaparni, Karkatasharingi, Bhumyamalaki, Draksha, Jeevanti, Pushkar mool, Haritaki, Guduchi, Kapur-Kachari, Mushtaka, Punarnava, Neel Kamal & Vasa)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207043802",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

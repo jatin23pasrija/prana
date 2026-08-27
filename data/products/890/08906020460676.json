@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020460676",
+  "barcode_printed": "8906020460676",
+  "barcode_format": "EAN-13",
+  "name": "100% Atta Bread",
+  "brand": "harvest-gold",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 247,
+        "protein_g": 10,
+        "carbohydrate_g": 46.57,
+        "sugars_g": 4,
+        "fat_g": 2.27,
+        "fibre_g": 6.38
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta) (62.2%), Sugar, Gluten, Yeast, lodized Salt, Edible Vegetable Oit (Refined Soybean Oil, Refined Palmolein Oil), Milk Solids, Preservatives (282, 200), Food Color (150a), Emulsifier (472e), Acidity Regulators (341(1), 270), Antioxidant (300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020460676",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

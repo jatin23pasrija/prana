@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500610",
+  "barcode_printed": "8906010500610",
+  "barcode_format": "EAN-13",
+  "name": "Chata Pataka Tomato",
+  "brand": "balaji",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "RICE MEAL (42%), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), CORN MEAL (13%), CHICKPEA FLOUR, SUGAR, EDIBLE COMMON SALT, DEHYDRATED VEGETABLE POWDER (TOMATO (0.8%), ONION, GARLIC), CHILLI POWDER, ANTICAKING AGENT (INS 551), EMULSIFIER (INS 414), FLAVOUR ENHANCER (INS 627, INS 631), NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES (TOMATO) PROPRIETARY FOOD NAMKEEN INDIAN SNACKS & SAVOURIES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500610",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08850389100769",
+  "barcode_printed": "8850389100769",
+  "barcode_format": "EAN-13",
+  "name": "MANGO FLAVORED DRINK WITH NATA DE COCO",
+  "brand": "mogu-mogu",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 320,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water 66.62%, Nata De Coco 25%, Sugar 4%, Fructose 4%, Acidity Regulators (Citric Acid, Calcium Lactate), Artificial Flavor (Mango Flavor), Preservative (Sodium Benzoate), Stabilizer (Gellan Gum), Artificial Colors (Tartrazine (FD&C Yellow 5), Sunset Yellow (FD&C Yellow 6)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8850389100769",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

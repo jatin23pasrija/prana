@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901044200284",
+  "barcode_printed": "8901044200284",
+  "barcode_format": "EAN-13",
+  "name": "mapro mixed fruit jam",
+  "brand": "mapro",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 265,
+        "protein_g": 0.1,
+        "carbohydrate_g": 68,
+        "sugars_g": 67,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Mix Fruit Pulp (Papaya Pulp, Guava Pulp, Banana Pulp, Mango Pulp, Pineapple Pulp, Apple Pulp, Orange Juice, Strawberry Pulp) (45%), Water, Acidity Regulator (INS-330), Thickener (INS-440) CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS-122) AND ADDED FLAVOURS - NATURAL, NATURE IDENTICAL& ARTIFICIAL FLAVOURING SUBSTANCES (MIX FRUIT) CONTAINS PERMITTED CLASS II PRESERVATIVE(INS-211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901044200284",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

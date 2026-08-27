@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013746033",
+  "barcode_printed": "8908013746033",
+  "barcode_format": "EAN-13",
+  "name": "Cravova",
+  "brand": "cravova",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100"
+      },
+      "values": {
+        "energy_kcal": 56,
+        "carbohydrate_g": 14,
+        "sugars_g": 13.6,
+        "fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, LEMON JUICE CONCENTRATE 0.70% (EQUIVALENT TO 6% LEMON JUICE), NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES (MOJITO, WATERMELON), PRESERVATIVE (INS 211), ANTIOXIDANT (INS 300), SYNTHETIC FOOD COLOUR (INS 124).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013746033",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

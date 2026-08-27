@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063026162",
+  "barcode_printed": "8901063026162",
+  "barcode_format": "EAN-13",
+  "name": "BRITANNIA nutri SUGAR, FREE",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 463,
+        "protein_g": 10,
+        "carbohydrate_g": 72,
+        "sugars_g": 0.5,
+        "fat_g": 15,
+        "saturated_fat_g": 7,
+        "sodium_mg": 242
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (90%), REFINED PALM & PALMOLEIN OIL, RAISING AGENTS [503(ii) & 500(ii)], IODISED SALT, MILK SOLIDS, YEAST, EMULSIFIER [322(i)], ACIDITY REGULATORS (330 & 334), NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES, DOUGH CONDITIONER (223) AND IMPROVERS [1101(i) & 1100(i)]. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK, SOYA AND SULPHITE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063026162",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

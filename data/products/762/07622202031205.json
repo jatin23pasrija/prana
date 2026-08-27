@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202031205",
+  "barcode_printed": "7622202031205",
+  "barcode_format": "EAN-13",
+  "name": "7622202031205",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Hydrogenated Oils, Cocoa Solids (8% *), Lactose-Rich Deproteinized Whey Permeate Powder, Milk Solids, Refined Wheat Flour (Maida), Emulsifiers (414, 442, 476), Colours (171, 102, 133, 124, 127, 122, 132, 110), Glazing Agent (903), Liquid Glucose, Flavours (Natural, Nature Identical and Artificial (Caramel and Vanilla) Flavouring Substances).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202031205",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

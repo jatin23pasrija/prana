@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200068",
+  "barcode_printed": "8904063200068",
+  "barcode_format": "EAN-13",
+  "name": "Plain Bhujia",
+  "brand": "haldiram-snacks",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Moth bean flour (43%), Vegetable Oil (Cotton Seed, Corn and Palm) (In variable proportion), Chickpeas Flour (12%), Salt and Mix Spices (2%) (Black Pepper Powder, Ginger Powder, Clove Powder and Cardamom Powder). Attention: For Allergen See Ingredient in Bold, this product is made in a facility that processed foods containing Wheat, Peanut, Nuts, Sesame, Soy and Mustard.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200068",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

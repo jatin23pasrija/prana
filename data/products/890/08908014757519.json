@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014757519",
+  "barcode_printed": "8908014757519",
+  "barcode_format": "EAN-13",
+  "name": "Bisi Bele Bath",
+  "brand": "hocco",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (150 g)",
+        "quantity": {
+          "value": 150,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 114.29,
+        "protein_g": 2.64,
+        "carbohydrate_g": 18.62,
+        "sugars_g": 2.35,
+        "fat_g": 3.25,
+        "saturated_fat_g": 1.29,
+        "sodium_mg": 427.51
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014757519",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

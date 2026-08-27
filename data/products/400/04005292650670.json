@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "04005292650670",
+  "barcode_printed": "4005292650670",
+  "barcode_format": "EAN-13",
+  "name": "Impact Mints Watermelon Mints",
+  "brand": "impact-mints",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 14,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 248,
+        "protein_g": 0.3,
+        "carbohydrate_g": 95.7,
+        "sugars_g": 0.3,
+        "fat_g": 0.6,
+        "saturated_fat_g": 0.6,
+        "sodium_mg": 10
+      }
+    }
+  ],
+  "ingredients_raw": "D-sorbitol (INS420), citric acid (INS330), flavourings, anti-caking agent (magnesium salts of fatty acids (INS470)), vegetable oils (coconut, palm), aspartame (INS951), watermelon fruit powder, acesulfame K(INS950). CONTAINS ADDED FLAVOUR (NATURAL & ARTIFICIAL FLAVOURING SUBSTANCES - WATERMELON & PEPPERMINT).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4005292650670",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

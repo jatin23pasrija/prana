@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080334612",
+  "barcode_printed": "8902080334612",
+  "barcode_format": "EAN-13",
+  "name": "EXPO ice 7D Nimbooz MASALA SODA ED FRUIT DRINK FLA",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CEMENTS CARBONATED WATER, SUGAR CONCENTRATED LEMON JUICE (0.8% COS OUR NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES) SEQUESTRANT REGULATOR (330), PRESERVATIVE (202), STABILIZER (445), COLOUR (150) QUALENT TO 5% LEMON JUICE (RECONSTITUTED) 8902080334612 NUTRITIONAL INFORMATIONA SERVE SIZE: 200 ml; 3.8 SERVINGS IN THIS PACK ENERGY PROTEIN PER 100 ml % RDA PER SERVE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080334612",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

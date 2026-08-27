@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000385061",
+  "barcode_printed": "8908000385061",
+  "barcode_format": "EAN-13",
+  "name": "Kadalamavu Mixture",
+  "brand": "dev",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 560,
+        "protein_g": 19.6,
+        "carbohydrate_g": 35,
+        "sugars_g": 7.4,
+        "fat_g": 37.6,
+        "saturated_fat_g": 29.4,
+        "fibre_g": 8.6,
+        "sodium_mg": 840
+      }
+    }
+  ],
+  "ingredients_raw": "Gram Flour, Peanut, Fried Gram Split, Palmolein Oil, Chilli Powder Asafoetida, Salt & Curry Leaves. ALLERGY ADVICE: CONTAINS PEANUT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000385061",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

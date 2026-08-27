@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906024650943",
+  "barcode_printed": "8906024650943",
+  "barcode_format": "EAN-13",
+  "name": "Shantis",
+  "brand": "shanli-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "40 gm gm",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 414.79,
+        "protein_g": 3.44,
+        "carbohydrate_g": 33.44,
+        "sugars_g": 2.8,
+        "fat_g": 2.22,
+        "saturated_fat_g": 0.91,
+        "fibre_g": 2.04,
+        "sodium_mg": 59.2
+      }
+    }
+  ],
+  "ingredients_raw": "โฮล รากิ เฟลกส์ (20%), มัลติเกรน เฟลกส์ (37%), ข้าวฟ่าง, ข้าวฟ่าง, ข้าวฟ่าง, ข้าวโอ๊ตจัมโบ้, ข้าวสาลีทั้งเมล็ด, ข้าวโพดทั้งเมล็ด (25%) (อัลมอนด์, ลูกเกดดำ, เมล็ดฟักทอง, เมล็ดแตงโม, เมล็ดทานตะวัน, เมล็ดงา), น้ำตาลปาล์ม, น้ำผึ้ง, น้ำตาล, เลซิทิน (322), สารต้านอนุมูลอิสระ (INS 320)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906024650943",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

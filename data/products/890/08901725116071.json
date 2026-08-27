@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725116071",
+  "barcode_printed": "8901725116071",
+  "barcode_format": "EAN-13",
+  "name": "All Rounder",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 471,
+        "protein_g": 7.2,
+        "carbohydrate_g": 66.7,
+        "sugars_g": 15.4,
+        "fat_g": 19.5,
+        "saturated_fat_g": 9.6,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Refined Palm Oil, Sugar, Refined Palmolein, Dehydrated Potato tato (4.5 %), Emulsifier (INS 471), Stabilizer (INS 450(0)), and Antioxidants (INS 223, INS 330)], Liquid Glucose, Starch dized Salt, invert Syrup, Milk Solids, Raising Agents [INS 500(1),INS 503(i)], Emulsifiers (INS 3220), INS 471, INS 472e nd Flour Treatment Agents [INS 223, INS1101(0)). ONTAINS ADDED FLAVOUR(S)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725116071",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

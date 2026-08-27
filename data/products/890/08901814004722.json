@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901814004722",
+  "barcode_printed": "8901814004722",
+  "barcode_format": "EAN-13",
+  "name": "Groviva",
+  "brand": "groviva",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Oils (Palm Oil & Soybean Oil), Sucrose, Milk Solids (19.2%), Maltodextrin, Soy Protein Isolate (SUPRO® - 7.45%), Nature-Identical Flavouring Substances (Chocolate), Cocoa Solids, Fibers [Soy Fiber (0.898%) & Polydextrose (1.6%)], Acidity Regulators [INS 331 (iii)], Minerals, Emulsifier [INS 322(i)], DHA Powder (0.47%), Vitamins, Choline Chloride, Probiotics [Lactobacillus acidophilus NCFM (0.01665%) & Bifidobacterium lactis HN019 (0.0555%)], Antioxidant Premix [Antioxidants (INS 304), Rapeseed Oil & Sunflower Oil], L-Carnitine, Inositol & Taurine.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901814004722",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

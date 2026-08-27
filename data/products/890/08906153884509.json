@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08906153884509",
+  "barcode_printed": "8906153884509",
+  "barcode_format": "EAN-13",
+  "name": "Golden Milk Mix",
+  "brand": "two-brothers",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "5 g",
+        "quantity": {
+          "value": 5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 19.53,
+        "protein_g": 0.33,
+        "carbohydrate_g": 3.5,
+        "sugars_g": 0,
+        "fat_g": 0.5,
+        "saturated_fat_g": 0.1,
+        "fibre_g": 1.1,
+        "sodium_mg": 3.7
+      }
+    }
+  ],
+  "ingredients_raw": "Turmeric Powder (40%), Ginger Powder (28%), Black pepper (7%), Cardamom (7%), Fennel seeds (6.6%), Cinnamon (5%), Nutmeg, Big Cardamom (5%), Saffron (0.4%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906153884509",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

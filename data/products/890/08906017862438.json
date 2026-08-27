@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08906017862438",
+  "barcode_printed": "8906017862438",
+  "barcode_format": "EAN-13",
+  "name": "Wafer Chocolate",
+  "brand": "bisk-farm",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 514.97,
+        "protein_g": 7.63,
+        "carbohydrate_g": 60.73,
+        "sugars_g": 32.53,
+        "fat_g": 29.09,
+        "saturated_fat_g": 18.65,
+        "fibre_g": 1.49
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE FAT, DEXTROSE EDIBLE STARCHES, MILK SOLIDS, COCOA POWDER, SALT, EMULSIFIER (322). LEAVENING AGENTS [500(ii), 503 (ii)], FLAVOUR ENHANCER (637), ENZYMES AND ANTIOXIDANT (319) CONTAINS ADDED ARTIFICIAL FLAVOURING SUBSTANCES (MILK, CHOCOLATE, VANILLA) THIS PRODUCT CONTAINS _WHEAT_ & _MILK_ HYPERSENSITIVE INGREDIENTS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906017862438",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

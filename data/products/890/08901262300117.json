@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262300117",
+  "barcode_printed": "8901262300117",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Crackle Ice cream",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 540,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Amul Real Milk. Real Ice Cream. milk chocolate coated cashew chikki (10%) sugar, cashew pieces, milk solids, cocoa butter, cocoa solids, liquid (322,475), stabilizer (414) coa solids, cocoa butter, emulsifiers (471,476, 322), stabilizers (407, 466, 415,412).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262300117",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

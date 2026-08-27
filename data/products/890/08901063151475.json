@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151475",
+  "barcode_printed": "8901063151475",
+  "barcode_format": "EAN-13",
+  "name": "Good day",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "4 cookies (34 g)",
+        "quantity": {
+          "value": 34,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 170,
+        "protein_g": 2,
+        "carbohydrate_g": 23,
+        "sugars_g": 8,
+        "fat_g": 8,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 90
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR, VEGETABLE FAT (PALM), SUGAR, CASHEW BITS (1.8%), INVERT SUGAR, WHOLE MILK POWDER, BUTTER (MILK) (0.7%) RAISING AGENTS (AMMONIUM BICARBONATE & SODIUM BICARBONATE), SALT, EMULSIFIERS (SOY LECITHIN, MONO & DIGLYCERIDES OF FATTY ACIDS (PALM) & DIACETYL TARTARIC ACID ESTERS OF MONO & DIGLYCERIDES (PALM), FLAVOURINGS. CONTAINS WHEAT (GLUTEN), MILK, CASHEW & SOY MANUFACTURED IN A FACILITY THAT ALSO PROCESSES EGG & TREE NUTS (ALMOND, PISTACHIO).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151475",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

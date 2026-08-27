@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "08901747003175",
+  "barcode_printed": "8901747003175",
+  "barcode_format": "EAN-13",
+  "name": "Instant Masala Tea (Unsweetened)",
+  "brand": "wagh-bakri",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (14 g)",
+        "quantity": {
+          "value": 14,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 63.1,
+        "protein_g": 2,
+        "carbohydrate_g": 9,
+        "sugars_g": 3,
+        "fat_g": 2,
+        "saturated_fat_g": 1,
+        "sodium_mg": 35
+      }
+    }
+  ],
+  "ingredients_raw": "Ingredients Dairy Whitener (Milk Solids), Maltodextrin, Instant Tea (13.75%), Masala Flavour (0.938%) (Cardamom, Clove, Black Pepper, Cinnamon, Ginger, Nutmeg & Piper Longum). Contains Milk Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901747003175",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

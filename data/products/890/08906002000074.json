@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002000074",
+  "barcode_printed": "8906002000074",
+  "barcode_format": "EAN-13",
+  "name": "Dr. Oetket",
+  "brand": "dr-oetker",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 565.33,
+        "protein_g": 5.33,
+        "carbohydrate_g": 8.67,
+        "sugars_g": 8,
+        "fat_g": 56.67,
+        "saturated_fat_g": 11.33,
+        "sodium_mg": 805.33
+      }
+    }
+  ],
+  "ingredients_raw": "refined soyabean oil,water, cheese (8%), milk solids,sugar, lemon juice, iodised salt, tomato paste, red chillies 0.8%, acidity regulators (ins260, ins330), emulsifier and stabilizer (ins415),mixed spices, preservatives (ins211, ins202), antioxidant (ins319)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002000074",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

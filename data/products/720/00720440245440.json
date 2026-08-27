@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "00720440245440",
+  "barcode_printed": "0720440245440",
+  "barcode_format": "EAN-13",
+  "name": "Mango Fruit Melts",
+  "brand": "happa",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28 g",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 28,
+        "protein_g": 0.3,
+        "carbohydrate_g": 6.2,
+        "sugars_g": 5.1,
+        "fat_g": 0.2,
+        "saturated_fat_g": 0.08,
+        "fibre_g": 1.04,
+        "sodium_mg": 0.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0720440245440",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08909900155136",
+  "barcode_printed": "8909900155136",
+  "barcode_format": "EAN-13",
+  "name": "Rooted Mints",
+  "brand": "the-green-ritual",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 tea bag"
+      },
+      "values": {
+        "energy_kcal": 1.6,
+        "protein_g": 0,
+        "carbohydrate_g": 0.5,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Ginger root, turmeric, spearmint leaves",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909900155136",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

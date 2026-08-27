@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08904109443107",
+  "barcode_printed": "8904109443107",
+  "barcode_format": "EAN-13",
+  "name": "Patanjali Moong Dal",
+  "brand": "patanjali",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 478,
+        "protein_g": 24.95,
+        "carbohydrate_g": 46.9,
+        "sugars_g": 0,
+        "fat_g": 21.2,
+        "saturated_fat_g": 5.7,
+        "sodium_mg": 908
+      }
+    }
+  ],
+  "ingredients_raw": "Split green Gram (78%), Cotton seed oil, Edible common salt, Acidity regulator (INS 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904109443107",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

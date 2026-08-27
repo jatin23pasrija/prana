@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719104046",
+  "barcode_printed": "8901719104046",
+  "barcode_format": "EAN-13",
+  "name": "Hide & Seek",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 82.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Enriched wheat flour, Sugars (sugar, invert sugar syrup), Chocolate flavoured chips [sugar, hydrogenated vegetable fats (palm kernel oil), dextrose, cocoa solids, emulsifier (soy lecithin) and artificial vanilla flavour], Palm oil, Chocolate chips [sugar, cocoa solids, cocoa butter, dextrose, emulsifier (soy lecithin), artificial vanilla flavour], Leavening [ammonium bicarbonate, sodium bicarbonate], Cocoa solids, Salt, Artificial vanilla flavour, Emulsifier (diacetyl tartaric acid esters of mono and diglycerides). Contains: Wheat, Soy May Contain: Milk, Tree nuts, Oats",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719104046",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

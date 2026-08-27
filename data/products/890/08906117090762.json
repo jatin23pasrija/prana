@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117090762",
+  "barcode_printed": "8906117090762",
+  "barcode_format": "EAN-13",
+  "name": "Rice Popped Chips - Classic Salted",
+  "brand": "brb",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "25g",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 111.8,
+        "energy_kj": 468,
+        "protein_g": 2.7,
+        "carbohydrate_g": 17.6,
+        "sugars_g": 0.2,
+        "fat_g": 3.4,
+        "saturated_fat_g": 0.8,
+        "trans_fat_g": 0,
+        "fibre_g": 1.1,
+        "sodium_mg": 135.1
+      }
+    }
+  ],
+  "ingredients_raw": "RICE, RICE BRAN OIL, PULSES (12.4%), GREEN PEAS (8.2%), IODIZED SALT CONTAINS SOY. MAY CONTAIN TRACES OF MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117090762",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

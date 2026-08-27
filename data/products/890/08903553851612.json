@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08903553851612",
+  "barcode_printed": "8903553851612",
+  "barcode_format": "EAN-13",
+  "name": "Tomato Ketchup",
+  "brand": "temptin",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 140,
+        "protein_g": 1.5,
+        "carbohydrate_g": 32.1,
+        "sugars_g": 27.3,
+        "fat_g": 0.6,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0,
+        "fibre_g": 0.5,
+        "sodium_mg": 760
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Tomato Paste (28°B) 24.7%, Edible Common Salt, Emulsifying & Stabilizing Agent (INS 1422 & INS 415), Acidity Regulator Acetic Acid (INS 260), Onion Powder, Garlic Powder, Mixed Spices (Clove, Cinnamon, Chilli) Preservative (INS 211).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903553851612",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

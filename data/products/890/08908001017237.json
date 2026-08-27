@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001017237",
+  "barcode_printed": "8908001017237",
+  "barcode_format": "EAN-13",
+  "name": "Nacho Crisps Sizzling Jalapeno",
+  "brand": "cornitos",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 482,
+        "protein_g": 7.14,
+        "carbohydrate_g": 67.8,
+        "sugars_g": 3.57,
+        "fat_g": 21.42,
+        "saturated_fat_g": 3.57,
+        "fibre_g": 3.57,
+        "sodium_mg": 834.14
+      }
+    }
+  ],
+  "ingredients_raw": "Corn (70%), Edible Vegetable Oil (Corn Oil), Sugar, lodized Salt, Jalapeno, Onion Powder, Garlic Powder, Ginger, Green Chili, Parsley, Milk Solids (Skim Milk Powder, Whey Powder), Soya Sauce Powder, Acidity Regulator (Malic Acid - INS 296) CONTAINS SOYA AND MILK PRODUCTS CONTAINS ADDED FLAVOURS, NATURAL AND NATURE IDENTICAL (Jalapeno)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001017237",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016793768",
+  "barcode_printed": "8908016793768",
+  "barcode_format": "EAN-13",
+  "name": "Master Chow Instant Noodles",
+  "brand": "master-chow",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 348,
+        "protein_g": 9.1,
+        "carbohydrate_g": 45.7,
+        "sugars_g": 3,
+        "fat_g": 14.3,
+        "saturated_fat_g": 2.3,
+        "sodium_mg": 969
+      }
+    }
+  ],
+  "ingredients_raw": "NOODLES (60%): WHOLEWHEAT FLOUR, REFINED WHEAT FLOUR, RICE BRAN OIL, IODIZED SALT, WHEAT GLUTEN, THICKENER (INS412), ACIDITY REGULATORS [INS501 & INS500(1)]. FLAVOUR SAUCE POUCH (30%): WATER, SOYA SAUCE, GARLIC PASTE CHILLI PASTE, REFINED SUNFLOWER OIL, SUGAR, IODISED SALT, GARLIC POWDER GINGER POWDER, MIXED SPICES & CONDIMENTS, ACIDITY REGULATOR (INS260) AND I+G. VEGETABLE POUCH (5%): DEHYDRATED VEGETABLES (CARROT, CABBAGE AND SPRING ONION). TOPPINGS POUCH (5%): FRIED GARLIC AND ROASTED PEANUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016793768",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069400527",
+  "barcode_printed": "8906069400527",
+  "barcode_format": "EAN-13",
+  "name": "Veeba sandwich spread",
+  "brand": "veeba",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Vegetables* [32.0% SANDW PROPRIE CATEGORY {Tomatoes (22.0%), Cucumber (10.0%), NUTRITION Refined Soyabean Oil, Water, Sugar, Milk 16 Sen Solids, Emulsifiers and Stabilizers Serving Energy Ical (INS1442, INS1450, INS415), lodised Salt, Nutrien Acidity Regulators (INS260, INS330), Spices and Condiments, Preservatives (INS211, INS202), Antioxidant (INS319) and Sequestrant (INS385). Allergen Information: Contains Milk - Get more with Veeba! · For easy recipes Try our other Sandwich Spreads • Carrot & Cucumber Cheese & Chilli Protein Carbohy Total Spa Added Spany Total Fat g Trans Fat Q Cholestero Sodum Dy Per seve average (77",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069400527",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

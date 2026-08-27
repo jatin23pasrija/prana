@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906000921753",
+  "barcode_printed": "8906000921753",
+  "barcode_format": "EAN-13",
+  "name": "Mootichoor Ghee Laddoo",
+  "brand": "daadi-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 393.03,
+        "protein_g": 3.71,
+        "carbohydrate_g": 58.93,
+        "sugars_g": 25.2,
+        "fat_g": 15.83,
+        "saturated_fat_g": 11.35,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 20.29
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Bengal Gram Flour, Ghee (16%), Refined Wheat Flour, Cashew Nuts, Cardamom Powder, Permitted Synthetic Colour (INS 102 & INS 110) & Food Additives (INS 200 & INS 202). Allergen Advice: Contains Wheat and Nuts. May Conations Milk and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906000921753",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393016192",
+  "barcode_printed": "8901393016192",
+  "barcode_format": "EAN-13",
+  "name": "Mentos pure and fresh gum",
+  "brand": "mentos",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 54.6,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 175,
+        "protein_g": 0,
+        "carbohydrate_g": 73,
+        "sugars_g": 0,
+        "fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Polyols (Maltitol, Sorbitol), Gum Base, Thickener (INS 414), Sweetener: Aspartame (INS 951), Humectant (INS 422), Flavours (Green Tea Extract, Spearmint), Emulsifier (INS 322), Antioxidant (INS 321) CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 133, INS 102) AND ADDED FLAVOURS (NATURAL (GREEN TEA EXTRACT), NATURE IDENTICAL & ARTIFICIAL (MINT) FLAVOURING SUBSTANCES THIS CONTAINS ASPARTAME - NOT RECOMMENDED FOR CHILDREN-NO SUGAR ADDED IN THE PRODUCT NOT FOR PHENTERETONURICS Palyals may have laxative effects .",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393016192",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

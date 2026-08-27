@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063281630",
+  "barcode_printed": "8904063281630",
+  "barcode_format": "EAN-13",
+  "name": "Malai Kofta",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 161.97,
+        "protein_g": 3.52,
+        "carbohydrate_g": 6.34,
+        "sugars_g": 2.11,
+        "fat_g": 13.38,
+        "saturated_fat_g": 3.17,
+        "fibre_g": 0.7,
+        "sodium_mg": 436.62
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063281630",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

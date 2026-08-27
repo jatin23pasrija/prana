@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080603006",
+  "barcode_printed": "8906080603006",
+  "barcode_format": "EAN-13",
+  "name": "smoked and roasted mix nuts",
+  "brand": "paperboat",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 594,
+        "protein_g": 19,
+        "carbohydrate_g": 26,
+        "sugars_g": 5.4,
+        "fat_g": 46,
+        "saturated_fat_g": 0,
+        "fibre_g": 7.9,
+        "sodium_mg": 505
+      }
+    }
+  ],
+  "ingredients_raw": "ALMONDS (48%), CASHEWS (48 ARABIC) AND EDIBLE COMMON SALT (HIMALAYAN PINK SALT 1.5%), STABILIZER (GÜM ARABIC) AND CANE SUGAR. Contains Nuts &quot;BEST BEFORE SIX MONTHS FROM MANUFACTURE&quot; WHEN STORED IN COOL, DRY AND HYGIENIC CONDITIONS, KEEP THE PACK AWAY FROM DIRECT SUNLIGHT AND HEAT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080603006",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904145912315",
+  "barcode_printed": "8904145912315",
+  "barcode_format": "EAN-13",
+  "name": "Ensure Diabetes Care Vanilla Delight flavour",
+  "brand": "abbott",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Maltodextrin, calcium caseinate, edible vegetable oils (high oleic sunflower oil, soy oil), fructose, MINERALS** fructo-oligosaccharide (FOS) (4.12%), soy polysaccharide, flavorings (Artificial Flavoring Substances - Vanilla), VITAMINS***, m-inositol, antioxidants (soy lecithin, mixed tocopherols), taurine, L-carnitine, sucralose.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904145912315",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

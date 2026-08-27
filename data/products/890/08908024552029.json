@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08908024552029",
+  "barcode_printed": "8908024552029",
+  "barcode_format": "EAN-13",
+  "name": "The Good Vibe Green Apple Orange",
+  "brand": "the-good-vibe",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 46,
+        "protein_g": 0,
+        "carbohydrate_g": 11.5,
+        "sugars_g": 11.5,
+        "fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Carbonated Water, Sugar, Acidity Regulators (E330,E296,E300), Permitted Class II Preservative (E 211,202), Cloudifier, Permitted Food Grade Colour (E142), Added Flavours (Natural, Nature Identical Flavouring substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908024552029",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

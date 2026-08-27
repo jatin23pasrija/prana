@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021922067",
+  "barcode_printed": "8906021922067",
+  "barcode_format": "EAN-13",
+  "name": "Himalaya honey",
+  "brand": "apis",
+  "category": "honey",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 319,
+        "protein_g": 0.3,
+        "carbohydrate_g": 79.5,
+        "sugars_g": 0.9,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Honey",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021922067",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

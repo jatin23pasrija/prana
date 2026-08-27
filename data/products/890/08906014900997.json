@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906014900997",
+  "barcode_printed": "8906014900997",
+  "barcode_format": "EAN-13",
+  "name": "Corn Flakes",
+  "brand": "kwality",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Corn Grits (90%), Sugar, Iodised Salt, Emulsifier (E322), Malt Extract, Acidity Regulator (E500i), Antioxidant (E320)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906014900997",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

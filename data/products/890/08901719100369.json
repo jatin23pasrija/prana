@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719100369",
+  "barcode_printed": "8901719100369",
+  "barcode_format": "EAN-13",
+  "name": "Parle Bis Hide &seek",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 33,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, CHOCO CHIPS (17.3%) ISUGAR, EDIBLE VEGETABLE FAT (HYDROGENATED OILS), COCOA SOLIDS, DEXTROSE, EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)], REFINED PALM DIL, CHOCOLATE (5.8%) [SUGAR, COCOA SOLIDS, COCOA BUTTER, DEXTROSE EMULSIFIER OF EGETABLE ORIGIN (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES-VANILLAJ. VERT SOGAR SYRUP, RAISING AGENTS (503(1), 500], COCOA SOLIDS, IODISED SALT AND JULSIFIER OF VEGETABLE ORIGIN [472e]. VIAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA) TAINS: WHEAT. SOY MEADE OONOTION MODE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719100369",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

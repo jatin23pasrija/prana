@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906004564710",
+  "barcode_printed": "8906004564710",
+  "barcode_format": "EAN-13",
+  "name": "Piri Piri Chips",
+  "brand": "yellow-diamond",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 551.81,
+        "protein_g": 7.91,
+        "carbohydrate_g": 54.85,
+        "sugars_g": 2.45,
+        "fat_g": 32.41,
+        "saturated_fat_g": 12.79,
+        "trans_fat_g": 0,
+        "fibre_g": 4.54,
+        "sodium_mg": 859.1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906004564710",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

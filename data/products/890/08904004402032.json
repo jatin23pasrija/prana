@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004402032",
+  "barcode_printed": "8904004402032",
+  "barcode_format": "EAN-13",
+  "name": "All In One",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Palmolein Oil, Bengal Gram Flour (Besan) 8.5%, Rice Flakes (6.17%), Tepary Beans, Moth Dal Flour (4.37%), Split Pulse Moong (Moong Dal) (4.32 %), Potato, Groundnut (3.7%), Raisins (3.7%), Split Pulse Bengal Gram (Chana Dal) (3.7%), Red Lentils (Masur Whole) (3.7%), Cashew Nuts, Corn Flakes, Sago, Refined Wheat Flour (Maida), Tapioca Starch, Green Peas, Spinach, Refined Sugar, Iodised Salt, Dried Mango Powder, Red Chilli, Black Pepper, Black Salt, Clove Powder, Acidity Regulator (INS 330), Nutmeg, Bay Leaf, Sesame seed, Cinnamon, Turmeric Powder, Ajwain Powder, Cardamom, Curry Leaves, Asafoetida & Colour (INS 141).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004402032",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

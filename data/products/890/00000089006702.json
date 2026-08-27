@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00000089006702",
+  "barcode_printed": "89006702",
+  "barcode_format": "EAN-8",
+  "name": "Nescafe Classic Pure Coffee Powder",
+  "brand": "nescafe",
+  "category": "coffee",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "••Good to talk $ INfMMATlON powder CONSUMER CARE 363 225 4.4 9% ËP.0Bag2.NewDài.110001 WeCare@in.nestlecom a g 68,2 C 1800103 1947 39,4 13,8 15% @Reg.TrademarkofSociété des Produit Nestlé S.A. NUTRITIONALCOMPASS@ 53.2 2% CLOSE UDTIGHTLYAFTERUSE. Atwaysusead spoon. andhygienic place.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89006702",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207034800",
+  "barcode_printed": "8901207034800",
+  "barcode_format": "EAN-13",
+  "name": "Dabur Organic Honey",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Eur organic honey ingredient organic honey (1009 alegoon 27 servings era-143 real bsp - lammore-br interigerate honeytends to crystallize and canbe reby placing in hot water or sunlight, 300g lot no./ pvd. use by +&gt; #410 37/9) fr",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207034800",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

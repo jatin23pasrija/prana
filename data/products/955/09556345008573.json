@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "09556345008573",
+  "barcode_printed": "9556345008573",
+  "barcode_format": "EAN-13",
+  "name": "مياو مياو مقرمشات بالروبيان 60 جرام",
+  "brand": "miaow-miaow",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat Flour, Non-hydrogenated Palm Oil, Tapioca Starch, Corn Starch, Shrimps Seasoning Powder, Prawn (5%), Sugar, Thickener (Hydroxypropyl Starch/ INS1440), Salt, Baking Powder (Sodium Bicarbonate/ INS500ii, Sodium Acid Pyrophosphate/ INS450i, Calcium Carbonate/ INS170i), Raising Agents (Sodium Bicarbonate/ INS500ii, Ammonium Bicarbonate/ INS503ii), Flavour Enhancers (Monosodium L-Glutamate/ INS621, Disodium 5'-Guanylate/ INS627, Disodium 5'-Inosinate/ INS631, Glycine/ INS640) And Hydrolysed Soybean Protein. Allergen Information: Contains Wheat (Gluten), Soybean, Milk, Crustacean And Fish. Produced in A Facility That Also Produces Product Contains Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9556345008573",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

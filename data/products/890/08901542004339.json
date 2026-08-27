@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901542004339",
+  "barcode_printed": "8901542004339",
+  "barcode_format": "EAN-13",
+  "name": "Recharge Orange Flavour",
+  "brand": "glucon-d",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, GLUCOSE, MINERALS (MAGNESIUM SULPHATE, SODIUM CITRATE, SODIUM CHLORIDE, POTASSIUM CHLORIDE, CALCIUM LACTATE, ZINC GLUCONATE), NATURE IDENTICAL FLAVOURING SUBSTANCES (ORANGE), ACIDITY REGULATOR (INS 330), PRESERVATIVE (INS 202), ANTIOXIDANTS ((INS 300), (INS-307). SWEETENER (INS 955), VITAMINS (VITAMIN B, VITAMIN B, VITAMIN B6).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901542004339",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904045413301",
+  "barcode_printed": "8904045413301",
+  "barcode_format": "EAN-13",
+  "name": "Cough lozenges",
+  "brand": "multani-kuka",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Pudina Satva&quot; (Mentha ervensis) (Lf. Ext.) 5.10 mg. Nilgin Tailam&quot; (Eucalyptus globulus) (Lf. OL) 0.00405 ml. Ext. of: Yasthimadhu (Glycyrrhiza glabra) (RL) 8 mg. Vasaka&quot; (Adhatoda vasica) (LE)4 mg, Tuls&quot; (Ocimum sanctum) (Lf) 4 mg. Ginger (Zingiber officinale) (Rz.) 3mg. Sugar base (Liquid Glucose 1161mg & Sucrose 1755mg), Colour Tartrazine (19140). Flavour: Ginger Oil Lemon Of TL &quot;BPN",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904045413301",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

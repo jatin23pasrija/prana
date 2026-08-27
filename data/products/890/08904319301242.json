@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08904319301242",
+  "barcode_printed": "8904319301242",
+  "barcode_format": "EAN-13",
+  "name": "Panjeeri Ladoo",
+  "brand": "haldirams",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 485,
+        "protein_g": 5,
+        "carbohydrate_g": 70,
+        "sugars_g": 20,
+        "fat_g": 18,
+        "saturated_fat_g": 13,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 15
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904319301242",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009531373",
+  "barcode_printed": "8906009531373",
+  "barcode_format": "EAN-13",
+  "name": "Max Protein",
+  "brand": "rite-it-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 267,
+        "protein_g": 20,
+        "carbohydrate_g": 14.8,
+        "fibre_g": 5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009531373",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

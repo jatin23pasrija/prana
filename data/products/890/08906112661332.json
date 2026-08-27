@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906112661332",
+  "barcode_printed": "8906112661332",
+  "barcode_format": "EAN-13",
+  "name": "Chia Seeds",
+  "brand": "true-elements",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 508.6,
+        "protein_g": 17.1,
+        "carbohydrate_g": 39,
+        "fat_g": 31.5,
+        "saturated_fat_g": 4.8,
+        "fibre_g": 34,
+        "sodium_mg": 10
+      }
+    }
+  ],
+  "ingredients_raw": "Chia Seeds",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906112661332",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

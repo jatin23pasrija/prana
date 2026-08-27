@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902433003738",
+  "barcode_printed": "8902433003738",
+  "barcode_format": "EAN-13",
+  "name": "Galaxy Milk Chocolate with Cookie Crumble",
+  "brand": "galaxy",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk chocolate (90%): Sugar, Milk solids, Cocoa butter, P Cocoa solids, Edible vegetable fats &lt;5% (Sal fat, Palm oil), Emulsifier (322, 476); Cookies (10%): Refined wheat flour T (Maida), Sugar, Edible vegetable fat (Palm oil), Fat reduced cocoa powder, Butter, Skimmed milk powder, Liquid glucose, Raising agents (503(ii), 500(ii)), Salt, Nature identical flavour. CONTAINS COCOA BUTTER EQUIVALENT IN ADDITION TO COCOA BUTTER. Contains Wheat, Milk, Soy. May contain barley, treenuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902433003738",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

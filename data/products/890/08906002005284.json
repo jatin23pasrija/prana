@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002005284",
+  "barcode_printed": "8906002005284",
+  "barcode_format": "EAN-13",
+  "name": "Pizza topping sauce",
+  "brand": "dr-oetker",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 208.6,
+        "energy_kj": 831,
+        "protein_g": 4.5,
+        "carbohydrate_g": 24.1,
+        "sugars_g": 19.3,
+        "fat_g": 10.5,
+        "saturated_fat_g": 1.8,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 1234
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Tomato Paste (26%), Serve Size-30g Pack comans 3 Nutritional Information Sugar, Refined Soyabean Oil, Milk Solids, Energy (kcal) Onions, lodised Salt, Vegetables (2.8%), Mixed Spices, Cheese (1%), Acidity Regulators (INS260, INS330), Preservative (INS211), Herbs, Antioxidant (INS319). CONTAINS MILK. How to Use: Spread Pizza Topping on Pizza base. No need to add further toppings as this All-in-One Topping contains veggies & Cheese. Just sprinkle grated cheese (optional) & bake to enjoy restaurant like Pizza at home.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002005284",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

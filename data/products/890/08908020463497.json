@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908020463497",
+  "barcode_printed": "8908020463497",
+  "barcode_format": "EAN-13",
+  "name": "Crax Veg Biryani",
+  "brand": "crax",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 492,
+        "protein_g": 9.8,
+        "carbohydrate_g": 59,
+        "sugars_g": 5,
+        "fat_g": 24.1,
+        "saturated_fat_g": 13.3,
+        "sodium_mg": 1473
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Edible Vegetable Oil (Refined Palmolein Oil), *Seasoning [Iodised Salt, Sugar, Spices and Condiments, Maltodextrin, Hydrolysed Vegetable Protein, Acidity Regulator (INS 330), Flavour(s) (Natural & Nature Identical Flavouring Substances), Spices Extract, Flavour Enhancers (INS 627, INS 631), Anticaking Agent (INS 551)], Starch (Tapioca & Corn), Raising Agent (INS 500 (ii)), Iodized Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908020463497",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

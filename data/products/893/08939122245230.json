@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08939122245230",
+  "barcode_printed": "8939122245230",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein- Max Pista Kulfi Flavour",
+  "brand": "naturaltein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 384.72,
+        "protein_g": 63.16,
+        "carbohydrate_g": 22.93,
+        "sugars_g": 11.34,
+        "fat_g": 5,
+        "saturated_fat_g": 2.89,
+        "trans_fat_g": 0.1,
+        "fibre_g": 4.62,
+        "sodium_mg": 245.7
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939122245230",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

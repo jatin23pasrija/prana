@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512557001",
+  "barcode_printed": "8901512557001",
+  "barcode_format": "EAN-13",
+  "name": "Nachos Cripsy & Crunchy",
+  "brand": "act-2",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 139,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn (68%), Refined Edible Palmolein Oil Natural Flavour (Chilli), Nature Identical Flavour (Cheese) Antioxidant (TBHQ)), Sugar, Maltodextrin, lodized Salt, Milk Solids (Whey Powder (0.5%)}, Acidity Regul Citric Acid)&Cheese Powder (0.08%). Contains Milk and its products. Image on the front panel is for representation Purpose only. ACT 1 and movie marquee logo are registered trademarks of ConAgra Foods RDM, LLC.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512557001",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

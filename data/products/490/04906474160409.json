@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "04906474160409",
+  "barcode_printed": "4906474160409",
+  "barcode_format": "EAN-13",
+  "name": "Multigrain Bread",
+  "brand": "perfect",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 slices (50 g)",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 137.5,
+        "protein_g": 4.8,
+        "carbohydrate_g": 24.8,
+        "sugars_g": 2.1,
+        "fat_g": 1.31,
+        "saturated_fat_g": 0.26,
+        "fibre_g": 3.7
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4906474160409",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

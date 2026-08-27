@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "00750958739841",
+  "barcode_printed": "0750958739841",
+  "barcode_format": "EAN-13",
+  "name": "Muesli cranberry & blueberry",
+  "brand": "true-elements",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 339,
+        "protein_g": 9.5,
+        "carbohydrate_g": 53.2,
+        "sugars_g": 18.3,
+        "fat_g": 1.83,
+        "saturated_fat_g": 0.69,
+        "fibre_g": 9.75,
+        "sodium_mg": 4.42
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flakes, Rolled Oats, Almonds, Freeze Dried Raisins, Dried Cranberry, Dried Blueberry, Raw Honey, Cane Sorghum, Natural Soy Lecithin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0750958739841",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

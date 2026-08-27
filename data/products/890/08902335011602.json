@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08902335011602",
+  "barcode_printed": "8902335011602",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Wafer Stick",
+  "brand": "bakemate",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28 g",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 130,
+        "protein_g": 1,
+        "carbohydrate_g": 21,
+        "sugars_g": 15,
+        "fat_g": 5,
+        "saturated_fat_g": 2.5,
+        "fibre_g": 0,
+        "sodium_mg": 35
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902335011602",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

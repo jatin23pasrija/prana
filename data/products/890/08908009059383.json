@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009059383",
+  "barcode_printed": "8908009059383",
+  "barcode_format": "EAN-13",
+  "name": "Focaccia Sourdough Bread",
+  "brand": "the-health-factory",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 160,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Chakki Fresh Atta (Whole Wheat Flour), Yeast, Wheat Gluten, Olive Oil (Edible Vegetable Oil), lodised Salt, Cane Sugar, Cultured Wheat Flour, Oregano, Rosemary, Sage, Thyme, Natural Olive Oil Flavour.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009059383",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

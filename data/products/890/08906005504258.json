@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005504258",
+  "barcode_printed": "8906005504258",
+  "barcode_format": "EAN-13",
+  "name": "Bikaji Kaju Kismis Mix",
+  "brand": "bikaji",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Huile Végétale Comestible (Huile De Palmoléine, Huile De Coton), Gramme Vert Cassé (18%), Farine De Gramme, Bâtonnets De Pomme De Terre (5%), Lentilles Entières (5%), Noix De Cajou (5%), Raisins Secs (5%), Graines De Concombre Sèches (4%), Flocons De Riz (3%), Épices Et Condiments Moulus (Sel lodé, Piment Rouge, Curcuma (Colorant Et Épices), Gingembre, Poivre Noir, Cardamome, Clou De Girofle, Poudre D'épinards, Asafoetida, Mangue Sèche, Cannelle, Muscade)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005504258",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

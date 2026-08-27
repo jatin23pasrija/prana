@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906097408311",
+  "barcode_printed": "8906097408311",
+  "barcode_format": "EAN-13",
+  "name": "soya chunks",
+  "brand": "zoff",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 354.14,
+        "protein_g": 53.19,
+        "carbohydrate_g": 33.5,
+        "sugars_g": 7.18,
+        "fat_g": 0.82,
+        "saturated_fat_g": 0.19,
+        "sodium_mg": 8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906097408311",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

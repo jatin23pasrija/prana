@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "08906165788123",
+  "barcode_printed": "8906165788123",
+  "barcode_format": "EAN-13",
+  "name": "Clean Whey Protein Isolate",
+  "brand": "truebasics",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "34 g",
+        "quantity": {
+          "value": 34,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 130.74,
+        "protein_g": 30,
+        "carbohydrate_g": 1.02,
+        "sugars_g": 0.51,
+        "fat_g": 0.78,
+        "saturated_fat_g": 0.56,
+        "sodium_mg": 65.14
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Isolate (Instantised with Lecithin), Natural Flavouring Substance",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906165788123",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

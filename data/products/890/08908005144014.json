@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005144014",
+  "barcode_printed": "8908005144014",
+  "barcode_format": "EAN-13",
+  "name": "Multigain energy bar",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 38,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 bar (35 g)",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 137,
+        "protein_g": 3.8,
+        "carbohydrate_g": 23.5,
+        "sugars_g": 10.8,
+        "fat_g": 4,
+        "saturated_fat_g": 1.2,
+        "trans_fat_g": 0,
+        "fibre_g": 4,
+        "sodium_mg": 38.5
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Grains 36% (Brown Rice, Millets (Saamai, Foxtail). Rolled Oats 15%). Honey 20% Almonds 12%, Dates, Seeds 9% (Sunflower, Chia), Rice Crispies. Belgian Dark Chocolate 6% (Cocoa, Brown Sugar, Cocoa Butter, Soya Lecithin), Peanut Protein Powder. CONTAINS ADDED NATURAL FLAVOUR (Rosemary Extract. Vanilla Extract)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005144014",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

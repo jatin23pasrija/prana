@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "00000019017648",
+  "barcode_printed": "19017648",
+  "barcode_format": "EAN-8",
+  "name": "The Coca Cola Company",
+  "brand": "thumbs-up",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 39,
+        "energy_kj": 163,
+        "protein_g": 0,
+        "carbohydrate_g": 9.7,
+        "sugars_g": 9.5,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (338) CAFFEINE (8.1 mg/100 g), SWEETENER (960), COLOUR (150 d), FLAVOURS (NATURAL, NATURE-IDENTICAL & ARTIFICIAL (COLA) FLAVOURING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/19017648",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

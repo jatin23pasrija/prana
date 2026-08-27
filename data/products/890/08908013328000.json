@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013328000",
+  "barcode_printed": "8908013328000",
+  "barcode_format": "EAN-13",
+  "name": "Choco Almond Cookies",
+  "brand": "open-secret",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 12.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (12.5 g)",
+        "quantity": {
+          "value": 12.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 52.13,
+        "protein_g": 1.39,
+        "carbohydrate_g": 5.25,
+        "fat_g": 3.03
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013328000",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

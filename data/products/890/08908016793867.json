@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016793867",
+  "barcode_printed": "8908016793867",
+  "barcode_format": "EAN-13",
+  "name": "Street Style Momos Chutney",
+  "brand": "master-chow",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (25 g)",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 23.2,
+        "protein_g": 0.5,
+        "carbohydrate_g": 2.3,
+        "fat_g": 1.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016793867",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

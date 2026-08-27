@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063091023",
+  "barcode_printed": "8901063091023",
+  "barcode_format": "EAN-13",
+  "name": "Good Day Harmony",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 513,
+        "protein_g": 7.2,
+        "carbohydrate_g": 64.8,
+        "sugars_g": 21.5,
+        "fat_g": 25,
+        "saturated_fat_g": 11.2,
+        "sodium_mg": 219.46
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, NUTS AND NUT PRODUCT (8%) [CASHEWS, ALMONDS, PISTACHIO & HAZELNUT PASTE), INVERT SUGAR SYRUP, MILK SOLIDS, BUTTER, RAISING AGENTS [503(ii) & 500 (ii))], IODISED SALT, EMULSIFIERS [322(1), 471, 472e) AND FLAVOURS [NATURE IDENTICAL AND ARTIFICIAL (MILK & VANILLA) FLAVOURING SUBSTANCES]@.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063091023",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

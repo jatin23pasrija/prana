@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081002977",
+  "barcode_printed": "8909081002977",
+  "barcode_format": "EAN-13",
+  "name": "Salt & Pepper",
+  "brand": "bingo-popped",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 489,
+        "protein_g": 6.8,
+        "carbohydrate_g": 66.7,
+        "sugars_g": 1.6,
+        "fat_g": 22.1,
+        "saturated_fat_g": 5.1,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 950.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081002977",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901548310403",
+  "barcode_printed": "8901548310403",
+  "barcode_format": "EAN-13",
+  "name": "DoodhShakti",
+  "brand": "nutralite",
+  "category": "butter",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Butter (82.5%), Water, Common Salt, Emulsifiers (INS 471, INS 322), Preservatives (INS 202, INS 200), Acidity Regulator (INS 330), Nature Identical (Butter) Flavouring Substances, Probiotics (L. rhamnosus UALr-06, L. reuteri UALre-16), Starch, Vitamins, Sequestering Agent (INS 385), Antioxidant (INS 319), Natural Colour (INS 160a (ii)). ALLERGENS: CONTAINS MILK AND SOY. Contains probiotics* 10 CFU/g",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901548310403",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

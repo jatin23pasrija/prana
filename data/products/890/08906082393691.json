@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082393691",
+  "barcode_printed": "8906082393691",
+  "barcode_format": "EAN-13",
+  "name": "Tamarind pickle",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 0.96,
+        "protein_g": 3.02,
+        "carbohydrate_g": 11.48,
+        "sugars_g": 10.28,
+        "fat_g": 0.96,
+        "saturated_fat_g": 0,
+        "fibre_g": 3.72,
+        "sodium_mg": 390.84
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082393691",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

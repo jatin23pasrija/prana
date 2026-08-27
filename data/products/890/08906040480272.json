@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906040480272",
+  "barcode_printed": "8906040480272",
+  "barcode_format": "EAN-13",
+  "name": "Sezwan Sticks",
+  "brand": "national",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 563.1,
+        "protein_g": 5.17,
+        "carbohydrate_g": 55.82,
+        "sugars_g": 3.01,
+        "fat_g": 35.46,
+        "saturated_fat_g": 10.41,
+        "fibre_g": 4.16,
+        "sodium_mg": 2043.15
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906040480272",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

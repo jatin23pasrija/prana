@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014004942",
+  "barcode_printed": "8901014004942",
+  "barcode_format": "EAN-13",
+  "name": "Cup Noodles Spiced Chicken",
+  "brand": "nissin",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 55,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), Dehydrated Pieces 3.80% (Chicken, Carrot, French Beans, Cabbage & Curry Leaves), Iodised Salt, Hydrolysed Vegetable Protein Powder (Soya), Mixed Spices 1.49% (Red Chilli, Turmeric, Coriander, Black Pepper, Cumin, Fenugreek, Ginger, Clove, Nutmeg & Green Cardamom), Onion Powder, Sugar, Corn Starch, Maltodextrin, Yeast Extract Powder, Flavour Enhancers (INS 631, INS 627 & INS 620), Milk Solids, Acidity Regulators [INS 500(i), INS 451(i) & INS 330], Nature Identical Flavour, Edible Vegetable Oil (Coconut Oil), Thickener (INS 415) & Antioxidant (INS 319). ALLERGEN INFORMATION: CONTAINS WHEAT, SOY & MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014004942",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

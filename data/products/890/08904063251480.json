@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063251480",
+  "barcode_printed": "8904063251480",
+  "barcode_format": "EAN-13",
+  "name": "Gup Shup Peanuts",
+  "brand": "haldiram-s",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 18,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 561,
+        "protein_g": 12,
+        "carbohydrate_g": 45,
+        "sugars_g": 2.5,
+        "fat_g": 37,
+        "saturated_fat_g": 16,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 1080
+      }
+    }
+  ],
+  "ingredients_raw": "Peanuts (55%), Refined Wheat Flour (Maida), Edible Vegetable Oil (Palmolein, Cotton Seed, Rice Bran), Starch, Spices & Condiments (Red Chilli Powder, Clove Powder, Coriander Powder, Cumin Powder, Black Pepper Powder, Ginger Powder, Mace Powder, Nutmeg Powder, Asafoetida), lodised Salt, Sugar and Acidity Regulator (INS 330) and Natural & Nature Identical Flavouring Substances. *Used as natural flavouring agent. Allergen Information: Contains Gluten & Peanuts. *",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063251480",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

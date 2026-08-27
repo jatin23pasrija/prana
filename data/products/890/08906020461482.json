@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020461482",
+  "barcode_printed": "8906020461482",
+  "barcode_format": "EAN-13",
+  "name": "Crem Treat Strawberry Crem Bun",
+  "brand": "harvest-gold",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Bun (72%): Refined Wheat Flour (Maida), Sugar, Edible Vegetable Fat (Interesterified), Yeast, lodized Salt, Gluten, Soya Flour, Preservative (282), Emulsifier (481(i), Acidity Regulator (260), Flour Treatment Agent (510), Antioxidant (300). Bun Icing (28%): Sugar, Edible Vegetable Fat (Hydrogenated), Candied Fruit (3.6%) (Papaya, Sugar, Acidity Regulator (330), Preservative (202), Food Colour (129)), Water, Refined Palmolein Oil, Humectant (422), Emulsifier (471), Antioxidant (300), Food Colours (129, 124, 110) and Nature-Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020461482",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

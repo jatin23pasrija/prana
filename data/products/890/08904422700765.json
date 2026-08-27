@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904422700765",
+  "barcode_printed": "8904422700765",
+  "barcode_format": "EAN-13",
+  "name": "Patanjali Chyawanprash",
+  "brand": "patanjali",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Each 10 g Contains: Amla Paste (Emblica officinalis, Fr) 5.34 Sup Saccharum officinarum, St.) 2.08g, Ghritam 0.27g, Sesame oil 0.27g, Honey 027 Extra the following-Bilva (Aegle marmelos, Bk.) 45mg, Agnimantha (Premna integrifolia, Bk.) Sing S Dylum indicum, Bk.) 45 g, Kasmarya (Gmelina arborea, Bk.) 45mg, Patala (S saveolens, Bk.) 45 mg, Bala (Sida cordifolia, Rt.) 45mg, Salapani (Desmodium gange ng Prisnipami (Uraria picta, WI. PI.) 45mg, Masapa. Teramnus labialis, WL P chebula, Fr. R.) 45mg, Amrita (Tinospora cordifolia, St.) 45mg, Riddhi (Habenaria intermedia Phylanthus niruri, WI. PI.) 45mg, Draksa (Vitis vinifera, Fr.) 45mg, Jivanti (Leptadenia reticu ing Puskara (Iris germanica, Rt.) 45mg, Aguru (Aquilaria agallocha, Ht.Wd.) 45mg, Abhaya Scatum, Rz.) 45mg, Musta (Cyperus rotundus, Rt. Tr.) 45mg, Punarnava (Boerhaavia diffusa R Neda (Polygonatum cirrhifolium, Rz.) 45mg, Suksmaila (Elettaria cardamomum, F) 45ng Wanyia annua, Fr.) 45mg, Prakshep dravya derived from the following - Vanshlochana Nymphaea stellata, Fl.) 45mg, Candana (Pterocarpus antalinus, Ht.Wd.) 45mg, Vidar P berosa, RL) 45mg, Vrisa (Adhatoda vasica, Rt.) 45mg, Kakoli (Roscoea procera, Rt.) 45mg Ka Caramomum tamala, Lf.) 45 mg, Nagkesara (Mesua ferrea, Fl.) 45 mg janicum, St. Bk.) 45mg, Small Cardamom (Elettaria cardamomum, Fr.) 45mg, Cass dinacia, S.C.) 180mg, Sm Pepper (Piper longum, Fr.) 90mg, Cinnamon bark (Chas Mon:Useful in Rasayan. निर्देश: रसायन में उपयोगी है। Take 1-2 teaspoonful daily or d by phys Physician. Not To be Consumed By Diabetic Patients. Consume within 90 days. L&dry place. Net Quantity: Batch No. Mfg. Date 1 kg ADC 03",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904422700765",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

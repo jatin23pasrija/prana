@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906163832415",
+  "barcode_printed": "8906163832415",
+  "barcode_format": "EAN-13",
+  "name": "Farmley Omani Dates Fard",
+  "brand": "farmley",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 331,
+        "protein_g": 2.8,
+        "carbohydrate_g": 80,
+        "sugars_g": 73,
+        "fat_g": 0.4,
+        "saturated_fat_g": 0,
+        "fibre_g": 7,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Dates",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906163832415",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

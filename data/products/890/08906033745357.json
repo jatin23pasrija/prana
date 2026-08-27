@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033745357",
+  "barcode_printed": "8906033745357",
+  "barcode_format": "EAN-13",
+  "name": "Rich tea biscuits",
+  "brand": "mcvitie-s",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Typical number of per pack: 120 PAR: BISCUITS PVT. LTD. VILLAGE OGLI, YAMUNA (HIMACHAL PRADESH), INDIA. OUR",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033745357",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

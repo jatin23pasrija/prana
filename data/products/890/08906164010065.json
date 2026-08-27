@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906164010065",
+  "barcode_printed": "8906164010065",
+  "barcode_format": "EAN-13",
+  "name": "Lemon Ice Tea",
+  "brand": "good-trip",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 26.28,
+        "energy_kj": 110,
+        "protein_g": 0.38,
+        "carbohydrate_g": 6.19,
+        "sugars_g": 5.54,
+        "fat_g": 0,
+        "sodium_mg": 8.13
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906164010065",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

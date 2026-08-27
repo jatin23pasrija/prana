@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906133312305",
+  "barcode_printed": "8906133312305",
+  "barcode_format": "EAN-13",
+  "name": "butter shortbread biscuit",
+  "brand": "karachi-bakery",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 Biscuit (20 g)",
+        "quantity": {
+          "value": 20,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 110,
+        "protein_g": 1.22,
+        "carbohydrate_g": 11.42,
+        "sugars_g": 1.64,
+        "fat_g": 6.6,
+        "saturated_fat_g": 2.9,
+        "fibre_g": 0.77,
+        "sodium_mg": 8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906133312305",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

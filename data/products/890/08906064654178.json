@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064654178",
+  "barcode_printed": "8906064654178",
+  "barcode_format": "EAN-13",
+  "name": "Naan Chips",
+  "brand": "wingreens",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30 g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 121.1,
+        "protein_g": 2.8,
+        "carbohydrate_g": 18,
+        "sugars_g": 0.9,
+        "fat_g": 4.2,
+        "saturated_fat_g": 0.7,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064654178",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

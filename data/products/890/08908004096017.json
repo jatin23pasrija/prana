@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908004096017",
+  "barcode_printed": "8908004096017",
+  "barcode_format": "EAN-13",
+  "name": "Salted Peanuts",
+  "brand": "panjwani",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 609.62,
+        "protein_g": 25.64,
+        "carbohydrate_g": 19.26,
+        "sugars_g": 0,
+        "fat_g": 47.78,
+        "saturated_fat_g": 7.86,
+        "fibre_g": 17.98,
+        "sodium_mg": 728.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908004096017",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

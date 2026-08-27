@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491002707",
+  "barcode_printed": "8901491002707",
+  "barcode_format": "EAN-13",
+  "name": "Chaat Fills Bhel Chutney Twist",
+  "brand": "kurkure",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 517,
+        "protein_g": 5.1,
+        "carbohydrate_g": 62.8,
+        "sugars_g": 19.1,
+        "fat_g": 27.3,
+        "saturated_fat_g": 13.4,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 490
+      }
+    }
+  ],
+  "ingredients_raw": "Cereal Products (Corn Meal, Rice Meal, Rice Flour Wheat Fibre), Edible Vegetable Oil (Palmolein, Palm Oil), Sugar, Maltodextrin, Milk Solids, *Spices, Condiments & Herb, lodised Salt, Emulsifier (471, 322), Acidity Regulator (334, 330, 296), Tamarind Powder, Flavours (Natural & Nature Identical Flavouring Substances, Color (150d, 160c), Hydrogenated Vegetable Fat, Firming Agent (170i), Tomato Powder (0.1%), Antioxidant (307). As Flavouring Agent; Contains Onion and Garlic Allergen Advice: Contains Wheat, Milk & Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491002707",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

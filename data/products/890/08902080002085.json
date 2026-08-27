@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080002085",
+  "barcode_printed": "8902080002085",
+  "barcode_format": "EAN-13",
+  "name": "Tropicana Orange Delight 180ml",
+  "brand": "tropicana",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 50,
+        "energy_kj": 209,
+        "protein_g": 0.1,
+        "carbohydrate_g": 12.4,
+        "sugars_g": 12,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 34
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, CONCENTRATED ORANGE JUICE (8.2%), SUGAR, ACIDITY REGULATOR (E 330), iodised salt, STABILIZERS (E 440), FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES), COLOUR(E 160a(i)),ORANGE JUICE 45% (RECONSTITUTED) BEVERAGE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080002085",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

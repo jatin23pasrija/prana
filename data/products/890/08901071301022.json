@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071301022",
+  "barcode_printed": "8901071301022",
+  "barcode_format": "EAN-13",
+  "name": "Sofit Soya Milk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 68,
+        "protein_g": 6.4,
+        "carbohydrate_g": 3.6,
+        "sugars_g": 0,
+        "fat_g": 3.2,
+        "saturated_fat_g": 0.36,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071301022",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

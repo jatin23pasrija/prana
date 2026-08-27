@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "spr-g",
+  "name": "Spr G",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/brand/spr-g",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  }
+}

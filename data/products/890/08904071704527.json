@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071704527",
+  "barcode_printed": "8904071704527",
+  "barcode_format": "EAN-13",
+  "name": "Plantain Chips (Yellow Banana Chips)",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 535.71,
+        "protein_g": 3.57,
+        "carbohydrate_g": 64.29,
+        "sugars_g": 0,
+        "fat_g": 28.57,
+        "saturated_fat_g": 10.71,
+        "fibre_g": 3.57,
+        "sodium_mg": 878.57
+      }
+    }
+  ],
+  "ingredients_raw": "Plantain Banana (64%), Edible Vegetable Oil (Palmolein), Rock Salt. INGREDIENTS: Banane plantain (64%), huile végétale comestible (palmoléine), sel gemme. المكونات : موز الموز (٦٤) ، زت نا صالح للأل (النخل) ، ملح صخري ergy Advice Product is packed in a factory that handles Peanuts, Tree Nuts, Milk, Wheat, Sesame, Mustard and Soya. produit est emballé dans une usine qui traite des arachides, es noix, du lait, du blé, du sésame, de la moutarde et du soja. يتم تعبئة هذا المنتج في مصنع يتعامل مع الفول السوداني والمكسرات والحليب والقمح والسمسم والخردل وفول الصويا.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071704527",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08908015676208",
+  "barcode_printed": "8908015676208",
+  "barcode_format": "EAN-13",
+  "name": "Herbed Tari",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 441,
+        "protein_g": 4.37,
+        "carbohydrate_g": 74.8,
+        "sugars_g": 6,
+        "fat_g": 13.8,
+        "saturated_fat_g": 7.68,
+        "fibre_g": 16.55,
+        "sodium_mg": 209
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908015676208",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

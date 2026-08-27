@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005459927",
+  "barcode_printed": "8908005459927",
+  "barcode_format": "EAN-13",
+  "name": "Super Muesli Fruit & Nut",
+  "brand": "nourish-you",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 397.75,
+        "protein_g": 14,
+        "carbohydrate_g": 76.9,
+        "sugars_g": 13.2,
+        "fat_g": 6.79,
+        "saturated_fat_g": 1.3,
+        "fibre_g": 12.58,
+        "sodium_mg": 129.75
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Grains 67.5% (Rolled Oats, Millet Flakes (Jowar, Ragi & Bajra), Brown Rice Flakes, Extruded Quinoa Flakes), Kakvi, Fruits 8.5% (Green Raisins, Black Raisins, Cranberry, Dates, & Apricot), Soy Protein Isolate, Nuts 4.5% (Almonds), Rice Bran Oil, Himalayan Pink Salt, Orange Oil and Natural Antioxidant (Rosemary Extract).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005459927",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906032018834",
+  "barcode_printed": "8906032018834",
+  "barcode_format": "EAN-13",
+  "name": "Soya Mini Chunks",
+  "brand": "nutrela",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "EXPORT PA PACK 220 g/7.76 oz मिनी सोया बड़ी TEXTURED SOY PROTEIN Serving suggestion only Nutrela arted By: Verka food R Intl Ltd By Verka food Ind 1.Ave.Surrey.BC 7:+16045073300 3B1 SOYA MINI CHUNKS Textured Soy Protein / Protéines de Soja Texturées 99% 100% UP TO 52% FAT FREE VEGE - TARIAN PROTEIN *As tested under controlled experimental conditions Images are for representation purpose only",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906032018834",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

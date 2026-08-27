@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725117337",
+  "barcode_printed": "8901725117337",
+  "barcode_format": "EAN-13",
+  "name": "MOM'S MAGIC",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 496,
+        "protein_g": 7.3,
+        "carbohydrate_g": 67.5,
+        "sugars_g": 24,
+        "fat_g": 21.8,
+        "saturated_fat_g": 11.3,
+        "fibre_g": 1.7,
+        "sodium_mg": 236
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR, SUGAR, REFINED PALM OIL, CASHEW NUT (2.9%), INVERT SYRUP, ALMOND (1.5%), RAISING AGENTS [E 500(ii), E 503(ii), E 450 (i)], IODIZED SALT, MILK SOLIDS, BUTTER, EMULSIFERS [E 471, SOY LECITHIN - E 322(i), E472e] AND FLOUR TREATMENT AGENT (E 223), CONTAIN PERMITTED NATURAL COLOURS (E 150 a) AND SYNTHETIC FOOD COLOUR (E 102), AND ADDED FLAVOURS (NATURAL IDENTICAL FLAVOURING SUBSTANCE AND ARTIFICIAL FLAVOURING SUBSTANCE - BUTTER VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725117337",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

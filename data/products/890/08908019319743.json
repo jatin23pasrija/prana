@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019319743",
+  "barcode_printed": "8908019319743",
+  "barcode_format": "EAN-13",
+  "name": "Chakote Kolhapuri Bhadang",
+  "brand": "chakote",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Puffed Rice (Murmura), Peanuts, Sugar Powder, Edible Vegetable Oil (Palm), Garlic Paste, Spices & Condiments (Chilli Powder, Cumin Powder, Turmeric Powder, Garlic Powder), lodized Salt & Curry Leaves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019319743",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

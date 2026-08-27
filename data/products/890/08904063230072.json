@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063230072",
+  "barcode_printed": "8904063230072",
+  "barcode_format": "EAN-13",
+  "name": "Nut Cracker",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 628.57,
+        "protein_g": 22.86,
+        "carbohydrate_g": 20,
+        "sugars_g": 2.86,
+        "fat_g": 51.43,
+        "saturated_fat_g": 11.43,
+        "trans_fat_g": 0,
+        "fibre_g": 8.57,
+        "sodium_mg": 857.14
+      }
+    }
+  ],
+  "ingredients_raw": "Peanuts (69%), chickpeas flour (18%), vegetable oil (palmolein & cotton seed), red chilli powder, salt, corn starch, cumin powder, black pepper powder, ginger powder, cardamom powder, cinnamon powder and citric acid powder (e 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063230072",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

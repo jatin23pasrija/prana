@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08900104644662",
+  "barcode_printed": "8900104644662",
+  "barcode_format": "EAN-13",
+  "name": "Sesame Seeds",
+  "brand": "popular-essentials",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 596,
+        "protein_g": 18.5,
+        "carbohydrate_g": 22.6,
+        "sugars_g": 6.79,
+        "fat_g": 48.2,
+        "saturated_fat_g": 8.86,
+        "fibre_g": 12.89,
+        "sodium_mg": 2.34
+      }
+    }
+  ],
+  "ingredients_raw": "Sesame Seeds",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8900104644662",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

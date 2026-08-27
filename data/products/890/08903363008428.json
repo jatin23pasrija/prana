@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363008428",
+  "barcode_printed": "8903363008428",
+  "barcode_format": "EAN-13",
+  "name": "Royal Toast Toasted Bread",
+  "brand": "royal-toast",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (64.8%), SUGAR, REFINED PALMOLEIN OIL, YEAST, SUJI (1.8%), INVERT SUGAR SYRUP, IODISED SALT, WHEAT GLUTEN, EMULSIFIER (INS 471), FLOUR IMPROVER (INS 11OO, INS 170), WHEAT FIBRE, CARDAMOM SEEDS (0.1%), ANTIOXIDANT (INS 300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363008428",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

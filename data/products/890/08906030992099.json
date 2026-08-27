@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08906030992099",
+  "barcode_printed": "8906030992099",
+  "barcode_format": "EAN-13",
+  "name": "Chach Masala",
+  "brand": "jimri",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 32,
+        "protein_g": 1.4,
+        "carbohydrate_g": 4.2,
+        "sugars_g": 0.1,
+        "fat_g": 1.7,
+        "fibre_g": 3.2,
+        "sodium_mg": 30.4
+      }
+    }
+  ],
+  "ingredients_raw": "Common Salt, Black Salt, Acidity Regulator (E330), Coriander, Cumin, Anti-Caking Agent (E551), Asafoetida, Chilli Powder, Turmeric, Dry Ginger, Black pepper",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906030992099",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

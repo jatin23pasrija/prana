@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906090572217",
+  "barcode_printed": "8906090572217",
+  "barcode_format": "EAN-13",
+  "name": "Too yumm",
+  "brand": "too-yumm",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn 47% Rice Flour (30%), Edible Vegetare Oil (Rice Bran Oil), Seasoning [lodised Salt, Sugar, *Spises & Condiments [Contains Chilli (5%) and Onion], Acidity Regulator (INS 330), Anticaking Agent (INS 551), Dehydrated Herb, Flavour Enhancers (INS 627, INS 631), Antioxidant (INS 300), Natural and Nature Identical Flavouring Substances], Refined Wheat Flour (Maida) (2.5%), Sugar, Potato Powder (1.5%), Tomato Powder (0.8%), Anticaking Agent (INS 170). lodised Salt, Yeast Extract",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906090572217",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

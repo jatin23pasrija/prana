@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063344129",
+  "barcode_printed": "8901063344129",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Sandwich Bread",
+  "brand": "britannia",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 245,
+        "protein_g": 8.3,
+        "carbohydrate_g": 50.7,
+        "sugars_g": 1.5,
+        "fat_g": 2,
+        "saturated_fat_g": 0.6,
+        "fibre_g": 4.4,
+        "sodium_mg": 478.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063344129",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

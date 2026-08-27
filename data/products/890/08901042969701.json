@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042969701",
+  "barcode_printed": "8901042969701",
+  "barcode_format": "EAN-13",
+  "name": "Khatta meetha poha",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 414.88,
+        "protein_g": 7.55,
+        "carbohydrate_g": 73.58,
+        "sugars_g": 13.21,
+        "fat_g": 9.43,
+        "saturated_fat_g": 4.72,
+        "sodium_mg": 792.45
+      }
+    }
+  ],
+  "ingredients_raw": "Rice flakes (64%), Sugar, Interesterified Vegetable fat (Palm oil and Palm kernel oil), Raisins, Peanuts, Salt, Dehydrated Onion flakes, Green chilli, Curry leaves, Dry mango powder, Maltodextrin, Turmeric, Cumin, Mustard, Acidity regulators [Citric acid (E330) & Tartaric acid (E334)], Natural lemon flavour.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042969701",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

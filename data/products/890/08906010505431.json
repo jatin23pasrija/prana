@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010505431",
+  "barcode_printed": "8906010505431",
+  "barcode_format": "EAN-13",
+  "name": "Pop Rings",
+  "brand": "balaji",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 493.83,
+        "protein_g": 7.05,
+        "carbohydrate_g": 67.02,
+        "sugars_g": 0,
+        "fat_g": 21.16,
+        "saturated_fat_g": 10.58,
+        "fibre_g": 0,
+        "sodium_mg": 846.56
+      }
+    }
+  ],
+  "ingredients_raw": "E170(i),E330,E551,E414",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010505431",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

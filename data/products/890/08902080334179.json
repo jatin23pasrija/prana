@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080334179",
+  "barcode_printed": "8902080334179",
+  "barcode_format": "EAN-13",
+  "name": "Nimbooz",
+  "brand": "7up",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 42,
+        "protein_g": 0,
+        "carbohydrate_g": 10.6,
+        "sugars_g": 10.6,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, SUGAR, CONCENTRATED LEMON JUICE (0.7%). ACIDITY REGULATORS (331), 296,330), FLAVOUR (NATURAL FLAVOURING SUBSTANCES), IODISED SALT, STABILIZER (445), PRESERVATIVE (202). EQUIVALENT TO 5% LEON JUICE (RECONSTITUTED) NUTRITIONAL INFO ATIONA Serve Size: 200 ml; 18 Energy Protein FOR MANUFACTURER DETAILS, in this pack SEE FIRST ONE LETTER/TWO Pe% RDA 100 ml Per Serve",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080334179",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

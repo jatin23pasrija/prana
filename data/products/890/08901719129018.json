@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719129018",
+  "barcode_printed": "8901719129018",
+  "barcode_format": "EAN-13",
+  "name": "Marie",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 . (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 451,
+        "protein_g": 7.7,
+        "carbohydrate_g": 77.2,
+        "sugars_g": 20.5,
+        "fat_g": 12.4,
+        "saturated_fat_g": 5.7,
+        "sodium_mg": 231
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719129018",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

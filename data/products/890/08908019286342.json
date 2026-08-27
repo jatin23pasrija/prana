@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019286342",
+  "barcode_printed": "8908019286342",
+  "barcode_format": "EAN-13",
+  "name": "catch sparkling",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (296, 330), PRESERVATIVE (211, 202), ANTIOXIDANT ANTIOXIDANT (300), (300), STABILIZER (440), SWEETENER (960). CONTAINS PERMITTED NATURAL COLOUR (150d) AND ADDED APPLE FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019286342",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

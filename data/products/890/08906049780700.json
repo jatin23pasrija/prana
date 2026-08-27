@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906049780700",
+  "barcode_printed": "8906049780700",
+  "barcode_format": "EAN-13",
+  "name": "Kenty's Badam Flavoured Milk",
+  "brand": "kenty-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Double toned Milk, Sugar, Stabiliser (INS 407) CONTAINS: Added Nature Identical Badam Flavour, Contains Permitted Food Colour (E102)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906049780700",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

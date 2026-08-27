@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063202383",
+  "barcode_printed": "8904063202383",
+  "barcode_format": "EAN-13",
+  "name": "Boondi Masala",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Chickpeas Flour, Refined vegetable oil (Cottonseed andlor Corn), Rice Powder, Tapioca Starch, Salt, Red Chili Powder Turmeric Powder, Mango Powder, Black Pepper Powder, Ginger Powcer, Clove Powder, Cumin Powder, Fenugreek Seed Powder, Coriander Powder, Bay Leaves Powder, Mint Leaves Powder, Cardamom Powder, Acidity regulator Ciric Acid Powder (E 330)] and Anticaking agent ［Siicon dioxide (E551)].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063202383",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

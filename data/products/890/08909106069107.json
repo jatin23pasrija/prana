@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106069107",
+  "barcode_printed": "8909106069107",
+  "barcode_format": "EAN-13",
+  "name": "Kissan Chilli Peanut Thecha Chutney, 100 g Pouch",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Vegetables 40% (green chillies, Freshly peeled garlic . coriander pureel water, Nuts & pulses (peanuts, Roasted bengal gram flour), Refined soyabean oil, Sugar, Iodised salt. spices & condiments (roasted cumin powder, Spice extract, Onion powder ginger powder, Acetic & citric acid, Nature identical flavouring substances, Preservatives (sodium benzoate), Natural food color (chlorophyll). contains peanuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106069107",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

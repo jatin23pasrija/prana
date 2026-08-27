@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512939302",
+  "barcode_printed": "8901512939302",
+  "barcode_format": "EAN-13",
+  "name": "Snacko Honey Roasted Peanuts",
+  "brand": "sundrop",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 597,
+        "protein_g": 23.8,
+        "carbohydrate_g": 23,
+        "sugars_g": 14.5,
+        "fat_g": 46.4,
+        "saturated_fat_g": 8.7,
+        "fibre_g": 3.8,
+        "sodium_mg": 334.1
+      }
+    }
+  ],
+  "ingredients_raw": "Peanuts (76%), Sugars, Liquid Glucose, Refined Edible Palmolein Oil, Honey (1.5%), lodized Salt & Thickener (Guar Gum).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512939302",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

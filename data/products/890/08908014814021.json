@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014814021",
+  "barcode_printed": "8908014814021",
+  "barcode_format": "EAN-13",
+  "name": "premium brown bread",
+  "brand": "mr-bakewell",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 288.8,
+        "protein_g": 3.2,
+        "carbohydrate_g": 55.26,
+        "sugars_g": 6.75,
+        "fat_g": 3.1,
+        "saturated_fat_g": 2.3,
+        "fibre_g": 3.5
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Whole Wheat Flour (Atta), Water, Sugar, Edible Vegetable Oil (Palm Oil), Yeast, lodized Salt, Soya Flour, Gluten, Caramel 150 a, Roasted Malt Flour, Calcium Propionate (INS282), Bread Improver (INS 170(i), 1100(0)), Antioxidant (INS 300) ALLERGEN INFORMATION: Product contains, Gluten & Soya.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014814021",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082571525",
+  "barcode_printed": "8906082571525",
+  "barcode_format": "EAN-13",
+  "name": "Tortilla Wraps",
+  "brand": "cornitos",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 307,
+        "protein_g": 8,
+        "carbohydrate_g": 56.8,
+        "sugars_g": 1,
+        "fat_g": 5.28,
+        "saturated_fat_g": 2.5,
+        "fibre_g": 3
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Water, Refined Vegetable Oils (Palm Oil), Iodized Salt, Raising Agents (INS 500 . INS 4500). Sugar, Acidulant (INS 297), Preservatives (INS 202, INS 282), Emulsifiers & Stabilizers (INS 472 e, INS 471, INS 412), Improvers (INS 170, INS 1100 (m), Edible Fiber, Com Starch, Yeast. CONTAINS PERMITTED CLASS II PRESERVATIVES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082571525",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

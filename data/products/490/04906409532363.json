@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "04906409532363",
+  "barcode_printed": "4906409532363",
+  "barcode_format": "EAN-13",
+  "name": "Max Protein by RiteBite",
+  "brand": "ritebite",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50g",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 173,
+        "protein_g": 10,
+        "carbohydrate_g": 27.8,
+        "sugars_g": 1.5,
+        "fat_g": 5.8,
+        "saturated_fat_g": 1.2,
+        "fibre_g": 5,
+        "sodium_mg": 138
+      }
+    }
+  ],
+  "ingredients_raw": "Protein Blend (30%) Calcium Caseinate, Soy Concentrate), Dietary Fir sacharide, Chicory Root Fiber), Dark Compound (Maltitol, Edible Vegetable Fat (Hydrogenated), C Emulsifier (Soy Lecithin)), Maltitol, Cranberries ( Edible Vegetable Oil (High Oleic Sunflower Oil), S (No Added Sugar), Whole Grain Rolled Oats Humectant (Glycerine), Flaxseeds, Tribasic Calc (Soy Lecithin), Soy Protein Isolate, Binding Agen Acid, Antioxidants (Vitamin C), Added Vitamins CONTAINS ADDED FLAVOURS (NATURAL AND N (Vanilla & Strawberry Flavour)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4906409532363",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

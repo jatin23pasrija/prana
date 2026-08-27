@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552021371",
+  "barcode_printed": "8901552021371",
+  "barcode_format": "EAN-13",
+  "name": "Palak Paneer (Tofu)",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Spinach, Water, Tofu (Soya Paneer (Soya beans, Water, Citric Acid, Salt)), Onions, Sunflower Oil, Garlic, Spring Onion, Melon Seeds, Tomato, Ginger, Coriander, Corn Starch, Salt, Green Chilli, Sugar, Red Chilli Whole, Spices (Coriander, Chilli, Cumin, Bay Leaf, Black Pepper, Cinnamon, Clove, Black Cardamom, Star Anise, Fennel, Dried Ginger, Salt & Caraway), Cumin, Turmeric, Cinnamon, Dried Fenugreek Leaves, Clove, Fennel",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552021371",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

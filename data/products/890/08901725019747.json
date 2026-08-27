@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725019747",
+  "barcode_printed": "8901725019747",
+  "barcode_format": "EAN-13",
+  "name": "Noodles",
+  "brand": "yippee",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Instant Noodles: Maida (Refined Wheat Flour), Refined Palm Oil, Starch, lodized Salt, Emulsifier [Mono and diglycerides of fatty acids (from Palm Oil)], Wheat Gluten, Thickener (INS 466), Acidity Regulators [INS 500 (ii), INS 501(1), INS 330], Stabilizers [INS 339 (i), INS 450(i)]. Seasoning: Instant Noodle Powder (Maida (Refined Wheat Flour), Refined Palm Oil, Starch, lodized Salt, Wheat Gluten), Dehydrated Onion, Spices and Condiments (14.3%) (Dried Garlic, Red Chilli, Dried Ginger, Black Pepper, Spice Oleoresins), lodized Salt, Hydrolyzed Vegetable Protein [Soya Protein Isolate, Maltodextrin], Sugar, Yeast Extract, Soyabean Sauce Powder [Soyabean Sauce, Maltodextrin], Starch, Dehydrated Vegetables (Cabbage, Carrots, Green Chives), Flavour Enhancers (INS 627, INS 631), Acidity regulator (INS 330), Refined Palm oil, Natural Flavours and Natural Flavouring Substances, Anticaking agent (INS 551), Nature Identical Flavouring Substances, Thickener (INS 415). Dehydrated Vegetables (100.0%) (Cabbage, Carrot, Spring Onion, Beans, Zucchini). Contains Wheat, Soy. May Contain Milk Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725019747",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

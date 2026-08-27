@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08909340000003",
+  "barcode_printed": "8909340000003",
+  "barcode_format": "EAN-13",
+  "name": "Protein Pro Vanilla Bean",
+  "brand": "cosmix",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 365.52,
+        "protein_g": 67.2,
+        "carbohydrate_g": 23.8,
+        "sugars_g": 10.3,
+        "fat_g": 2.3,
+        "saturated_fat_g": 0.8,
+        "fibre_g": 8.4,
+        "sodium_mg": 433.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909340000003",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

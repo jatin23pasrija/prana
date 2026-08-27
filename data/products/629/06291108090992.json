@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "06291108090992",
+  "barcode_printed": "6291108090992",
+  "barcode_format": "EAN-13",
+  "name": "Apple juice",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 54,
+        "protein_g": 0,
+        "carbohydrate_g": 13,
+        "sugars_g": 12,
+        "fibre_g": 0.5,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6291108090992",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

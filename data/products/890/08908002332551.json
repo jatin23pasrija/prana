@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002332551",
+  "barcode_printed": "8908002332551",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Bread",
+  "brand": "metro",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 246,
+        "protein_g": 7,
+        "carbohydrate_g": 51,
+        "sugars_g": 3,
+        "fat_g": 1.5,
+        "saturated_fat_g": 0.5
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (65%), Sugar, Yeast, Edible Common Salt, Edible Vegetable Oils. Class II Preservative (282), Acidity Regulator (260), Emulsifier (472e), Soya Flour, Antioxidant (300) And Flour Treatment Agent (510)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002332551",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

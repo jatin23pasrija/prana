@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "05026489484761",
+  "barcode_printed": "5026489484761",
+  "barcode_format": "EAN-13",
+  "name": "Quinoa chips",
+  "brand": "cofresh",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Quinoa Flour (29%), Corn Flour, Rice Flour, Corn Starch, Lentil Flour, Pea Flour, Rapeseed Oil, Sugar, Salt, Chilli & Lime Seasoning (2.5%) (Sugar, Rice Flour, Salt, Dried Bell Pepper , Spices (Cayenne, Cumin), Garlic Powder, Citric Acid, Natural Flavourings, Herb (Parsley), Onion Powder, Natural Colour (E160c)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5026489484761",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207050893",
+  "barcode_printed": "8901207050893",
+  "barcode_format": "EAN-13",
+  "name": "Green Apple",
+  "brand": "real",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Sugar, Apple Juice (22%) (Reconstituted from Apple Juice Concentrate), Acidity Regulators (INS 296, INS 330, INS 334& INS 331)), Flavours (Natural & Nature Identical Flavouring Substances), Iodized Salt, Stabilizer (INS 466), Sweetener (INS 960) & Colours (INS 102 & INS 133).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207050893",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

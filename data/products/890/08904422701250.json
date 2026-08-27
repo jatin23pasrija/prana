@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904422701250",
+  "barcode_printed": "8904422701250",
+  "barcode_format": "EAN-13",
+  "name": "Soya Katori",
+  "brand": "patanjali",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Starch, Rice Bran Oil (18%), Defatted Soya Flour (9%), Spices & Condiments (Nutmeg, Clove, Dry Mango Powder, Coriander, Cumin, Cinnamon, Red Chilli, Red Chilli Extract), lodized salt, Natural & Nature Identical Flavouring Substances, Acidity Regulator (INS 330), Anticaking Agent (INS 551) H Contains Soy & Wheat Storage Condition : Store in cool & dry place. Keep away from direct sunlight. After oneniansfer the content in an airtight container. e is tampered or damaged.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904422701250",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

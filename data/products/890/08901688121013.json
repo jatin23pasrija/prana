@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901688121013",
+  "barcode_printed": "8901688121013",
+  "barcode_format": "EAN-13",
+  "name": "Chicken pops Piri Piri",
+  "brand": "sumeru",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pops (99.1%) {Chicken meat (40%), Texturized soy protein, Bread crumbs {Wheat flour, Dextrose, lodised salt, Preservative [INS 282], Yeast & Acidity regulator [INS 260]}, Batter {Wheat flour, Corn starch, Edible salt & Stabilizers [INS 466, INS 464]}, Spices and condiments, lodised salt}, Masala mix (0.9%) {Acidity regulator [INS 330]}.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901688121013",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

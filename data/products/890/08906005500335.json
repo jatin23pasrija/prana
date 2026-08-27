@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005500335",
+  "barcode_printed": "8906005500335",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Bhujia Tana-Tan",
+  "brand": "bikaji",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 579,
+        "protein_g": 10,
+        "carbohydrate_g": 43,
+        "sugars_g": 3,
+        "fat_g": 40,
+        "saturated_fat_g": 18,
+        "trans_fat_g": 0,
+        "fibre_g": 5,
+        "sodium_mg": 1073
+      }
+    }
+  ],
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Dehydrated Potato Flakes (20%), Gram Flour, Dew Bean Flour (Moth Flour), Potato Starch (4%), Tapioca Starch, Ground Spices & Condiments (Iodised Salt, Dry Mango, Red Chilli, Ginger, Black Pepper, Cardamom, Cumin, Clove, Turmeric (Colouring & Spices), Dehydrated Vegetable Powder (Tomato, Onion, Garlic), Black Salt, Mace, Nutmeg, Cinnamon, Extracts & Oils (Peppermint, Spearmint, Lemon, Red Chilli, Onion, Cumin), Acidity Regulator (INS 296)), Anticaking Agent (INS 551) CONTAINS: ADDED FLAVOURS (NATURAL AND NATURAL IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005500335",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

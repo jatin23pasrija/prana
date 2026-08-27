@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010767918",
+  "barcode_printed": "8908010767918",
+  "barcode_format": "EAN-13",
+  "name": "Voll Pro High Protein Bar",
+  "brand": "voll-sante",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "65 g",
+        "quantity": {
+          "value": 65,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 312.7,
+        "protein_g": 26,
+        "carbohydrate_g": 23.1,
+        "sugars_g": 0,
+        "fat_g": 14.73,
+        "saturated_fat_g": 5.9,
+        "fibre_g": 7.2,
+        "sodium_mg": 54
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010767918",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

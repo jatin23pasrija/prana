@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719703058",
+  "barcode_printed": "8901719703058",
+  "barcode_format": "EAN-13",
+  "name": "Krack Jack Medium Pack",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "T: .6g MRP Rs. 10 0NCLOF ALL TAXES 75 DUCTS PVT CROSSING 6691 8901719 703058 OUR EDIBLE VEGETAB. EOILS A MO E NOIL PALMO SUGAR (179 ii ), 5 il)341 (i) ], INVERT SUGAR SYRUP , EDIBLE COMMON SALT ( 0.9% DENTS WHE NG RAIS NG AGENTSi EA, ACIDITY REGULATORS20,296, EMULSIFE OI-ACETYL TARTARIC ACID ESTERS OF MONO D DI GLYCERIDES OF EOIBLE 9AGETABLE OILSIDOUGH CONDITIONER [ 223 I AND IMPROVER AM YLASE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719703058",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

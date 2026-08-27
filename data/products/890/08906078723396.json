@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906078723396",
+  "barcode_printed": "8906078723396",
+  "barcode_format": "EAN-13",
+  "name": "Gopal Chips Cream and Onion",
+  "brand": "gopal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "POTATO (60%), EDIBLE VEGETABLE OIL (PALMOLEIN OIL), SUGAR, EDIBLE COMMON SALT, MALTODEXTRIN, MILK SOLIDS, CHEESE POWDER (0.1%), ONION POWDER (1.3%), FLAVOUR ENHANCER (INS 627, INS 631), ANTICAKING AGENT (INS 551), NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES (CHEESE & ONION FLAVOURS AND STABILIZER (INS 414). ALLERGEN ADVICE: CONTAINS MILK MAY CONTAINS CEREALS CONTAINING GLUTEN, MILK, TREE NUTS, PEANUTS SESAME SEEDS, MUSTARD SEEDS AND SOYA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906078723396",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

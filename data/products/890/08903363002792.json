@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363002792",
+  "barcode_printed": "8903363002792",
+  "barcode_format": "EAN-13",
+  "name": "Kismis Black - 200g",
+  "brand": "dmart-premia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 377.74,
+        "protein_g": 3.2,
+        "carbohydrate_g": 91.01,
+        "sugars_g": 61.51,
+        "fat_g": 0.1,
+        "saturated_fat_g": 0.06,
+        "trans_fat_g": 0,
+        "sodium_mg": 10.99
+      }
+    }
+  ],
+  "ingredients_raw": "Raisins Black Domingo por Pack 81 Serving Size: 25 c",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363002792",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

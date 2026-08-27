@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063025448",
+  "barcode_printed": "8901063025448",
+  "barcode_format": "EAN-13",
+  "name": "Milk Bikis",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 459,
+        "protein_g": 7.4,
+        "carbohydrate_g": 77.1,
+        "sugars_g": 26,
+        "fat_g": 13.5,
+        "saturated_fat_g": 6.6,
+        "trans_fat_g": 0,
+        "sodium_mg": 298
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (63%), SUGAR, REFINED PALM OIL, MILK PRODUCTS (4%) [SWEETENED CONDENSED PARTLY SKIMMED MILK MILK & MILK SOLIDS], INVERT SUGAR SYRUP, RAISING AGENTS [503(ii) & 500(i)], IODISED SALT, EMULSIFIERS [322(i) & 471], MINERALS**, ARTIFICIAL [MILK & VANILLA] & NATURE IDENTICAL FLAVOURING SUBSTANCES AND VITAMINS*. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063025448",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201679996",
+  "barcode_printed": "7622201679996",
+  "barcode_format": "EAN-13",
+  "name": "hot chocolate",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 379,
+        "protein_g": 6.7,
+        "carbohydrate_g": 85.3,
+        "sugars_g": 70.2,
+        "fat_g": 3.3,
+        "saturated_fat_g": 2,
+        "sodium_mg": 7
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Cocoa Powder (30%), Artificial Vanilla Flavouring Substances Allergen Information: Contains Sulphites",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201679996",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

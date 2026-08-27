@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906097402937",
+  "barcode_printed": "8906097402937",
+  "barcode_format": "EAN-13",
+  "name": "Makhana",
+  "brand": "zoff",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 332,
+        "protein_g": 15,
+        "carbohydrate_g": 64,
+        "sugars_g": 0,
+        "fat_g": 2,
+        "saturated_fat_g": 0.3,
+        "sodium_mg": 15
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Fox Nuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906097402937",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

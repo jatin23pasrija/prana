@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "06917489453125",
+  "barcode_printed": "6917489453125",
+  "barcode_format": "EAN-13",
+  "name": "Fruit mallows",
+  "brand": "bonfire",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 270,
+        "protein_g": 1,
+        "carbohydrate_g": 73.2,
+        "fat_g": 1.3,
+        "saturated_fat_g": 0,
+        "sodium_mg": 86.4
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR,GLUCOSE SYRUP, WATER, DEXTROSE, FOOD GRADE FISH GELATIN CORN STARCH, ARTIFICIAL FRUIT FLAVOURS (STRAWBERRY), ARTIFICIAL COLOURS (INS 127, INS 110, INS 102, INS 133) CONTAINS PERMITTED ARTIFICIAL FOOD COLOUR(S) AND ADDED ARTIFICIAL FLAVOUR(S) fssai A LIC NO: 11523998000124 PROD: 20.06.2025 BBD: 19.06.2027 BATCH NO: 3233 0-3 ENERGY PROTEIN FAT SATURA TRANS F CARBOH Of which ADDED S SODIUM THE RDA SERVING 2000 CALO NUTRITIO NET WEIG BATCH NO PRODUCT EXPIRY DA MANUFAC BONFIRE F ADDRESS: AREA GUAM NOT CONTA STORAGE I DIRECT SUN NOT TO BE 5 PICTURES C PURPOSE OF",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6917489453125",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

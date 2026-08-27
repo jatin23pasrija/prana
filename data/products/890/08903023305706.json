@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08903023305706",
+  "barcode_printed": "8903023305706",
+  "barcode_format": "EAN-13",
+  "name": "surja moong dal mix",
+  "brand": "surja",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 542.1,
+        "protein_g": 22.45,
+        "carbohydrate_g": 37.25,
+        "sugars_g": 1.26,
+        "fat_g": 36.2
+      }
+    }
+  ],
+  "ingredients_raw": "Moong Dal, lodised Salt, Black Salt, Refined Palm Oil, Selected Mix Spices.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903023305706",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

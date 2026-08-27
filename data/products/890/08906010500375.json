@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500375",
+  "barcode_printed": "8906010500375",
+  "barcode_format": "EAN-13",
+  "name": "Tikha Mitha Mix",
+  "brand": "balaji-wafers",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 575,
+        "protein_g": 14.9,
+        "carbohydrate_g": 47,
+        "sugars_g": 8,
+        "fat_g": 34,
+        "saturated_fat_g": 13.3,
+        "trans_fat_g": 0.1,
+        "fibre_g": 18.8,
+        "sodium_mg": 816
+      }
+    }
+  ],
+  "ingredients_raw": "EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN, CORN, COTTONSEED), CHICKPEA FLOUR (17%), **SEASONING (SUGAR, SPICES & CONDIMENTS 4% (CHILLI, CORIANDER, SESAME SEEDS, TURMERIC, BLACK PEPPER, CUMIN, DRY MANGO, Ajwain, BAY LEAVES, CARDAMOM, NUTMEG, MACE, CINNAMON, FENNEL, CURRY LEAVES, GINGER, CLOVE), EDIBLE COMMON SALT, ACIDITY REGULATOR (INS 330), RAISING AGENT (INS 500 (1))), RICE FLAKES (9%), ROASTED PEANUT (7%), CHICKPEA (6%), REFINED WHEAT FLOUR (MAIDA), CORN FLAKES, PEAS, RICE FLOUR. **AS SEASONING AGENT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500375",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

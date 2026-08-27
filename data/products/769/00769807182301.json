@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "00769807182301",
+  "barcode_printed": "0769807182301",
+  "barcode_format": "EAN-13",
+  "name": "Apple Cinnamon Kombucha",
+  "brand": "si-nonna-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 37.33,
+        "protein_g": 0.01,
+        "carbohydrate_g": 9.32,
+        "sugars_g": 4,
+        "fat_g": 0.01,
+        "sodium_mg": 32.65
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0769807182301",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

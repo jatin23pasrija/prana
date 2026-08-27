@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906108640631",
+  "barcode_printed": "8906108640631",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Pickle",
+  "brand": "zaika",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "MANGO PIECES (20%), LIME PIECES (205) WATER, CARROT PIECES (12%), GREEN COLLY PIECES (10%), SALT, MUSTARD OIL, FENUGREEK RED CHILLY POWDER, ACIDITY REGULATOR (INS260 (ACETIC ACID)), TURMERIC POWDER. MUSTARD SEEDS, FENNEL SEEDS, CUMIN BLACK SEEDS & PRESERVATIVE (INS211 (SODIUM BENZOATE))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906108640631",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

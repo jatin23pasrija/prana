@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013338795",
+  "barcode_printed": "8908013338795",
+  "barcode_format": "EAN-13",
+  "name": "SENDHA NAMAK",
+  "brand": "aadar",
+  "category": "salt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 0,
+        "energy_kj": 0,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 34000
+      }
+    }
+  ],
+  "ingredients_raw": "ROCK SALT (SENDHA NAMAK)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013338795",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

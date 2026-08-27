@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904037212356",
+  "barcode_printed": "8904037212356",
+  "barcode_format": "EAN-13",
+  "name": "Coconut Oil",
+  "brand": "fruit-of-the-earth",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Froit of the Earth Coconut Oil is 100% pure and natural. tism he finest handpicked dried coconut (Copra) from the wotd e Malabar Coast of Kerala. There are no additives and chemicat tto ensure its purity. Multiple filtration process produces der di retaining all its natural goodness, freshness and aome Contents: Coconut Oil (Edible Grade) oproimate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904037212356",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

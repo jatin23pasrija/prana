@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906007830904",
+  "barcode_printed": "8906007830904",
+  "barcode_format": "EAN-13",
+  "name": "Original Barbecue Sauce",
+  "brand": "habit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 138.6,
+        "protein_g": 0.83,
+        "carbohydrate_g": 31.99,
+        "sugars_g": 27.29,
+        "fat_g": 0.81,
+        "saturated_fat_g": 0.07,
+        "fibre_g": 1.39,
+        "sodium_mg": 785.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906007830904",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

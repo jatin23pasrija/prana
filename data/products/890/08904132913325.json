@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132913325",
+  "barcode_printed": "8904132913325",
+  "barcode_format": "EAN-13",
+  "name": "Choco Vanilla Creme",
+  "brand": "independence",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 44.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INTERESTERIFIED VEGETABLE FAT, COCOA SOLIDS (2.4%), INVERT SUGAR SYRUP, STARCH, RAISING AGENTS (503(1), 500(i)) IODISED SALT, EMULSIFIERS [322(i), 472e), NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA, CONTAINS WHEAT, SOY. MAY CONTAIN TRACES OF MILK, NUTS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132913325",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

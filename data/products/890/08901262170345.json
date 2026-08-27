@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262170345",
+  "barcode_printed": "8901262170345",
+  "barcode_format": "EAN-13",
+  "name": "Rajbhog King Feast",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk, Sugar, Cashew pieces, Almond pieces, Honey, Saffron, Emulsifier (mono , di-glycerides of fatty acid), Stabilizers (carrageenan, cellulose gum, xanthan gum, guar gum), Tartrazine (synthetic food colour E102), Artificial cardamom, honey , saffron flavours added",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262170345",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

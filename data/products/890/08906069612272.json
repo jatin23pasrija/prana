@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069612272",
+  "barcode_printed": "8906069612272",
+  "barcode_format": "EAN-13",
+  "name": "Jolliz Namkeen Harissa Chilli Potato Chips",
+  "brand": "anand",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 135,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potatoes (88%), Edible Vegetable Oil (Palmolein), Sugar, Iodized Salt, Spices & Condiments (Chilli Powder, Fennel Powder, Coriander), Rice Flour, Dehydrated Vegetables Powder (Garlic Powder, Onion Powder), Acidity Regulator (Ins 330), Hydrolyzed Vegetable Protein (Soya), Refined Vegetable Oil, Anticaking Agent (Ins 551), Flavour Enhancer (Ins 627, Ins 631), Contains Permitted Natural Colour (E / Ins 160c) And Added Flavour – Natural And Nature Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069612272",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

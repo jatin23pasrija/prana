@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "04906440992867",
+  "barcode_printed": "4906440992867",
+  "barcode_format": "EAN-13",
+  "name": "Alo Frut Guava",
+  "brand": "alo-frut",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 52.16,
+        "protein_g": 0,
+        "carbohydrate_g": 10.79,
+        "sugars_g": 9.85,
+        "fat_g": 0,
+        "sodium_mg": 19.12
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Aloevera Juice and Pulp (14%), Guava Pulp (14%) Cane Sugar (10%), Acidity Regulator (INS 330), Stabilizer (INS 440), (INS 414), (INS 419), (INS 445), Preservatives (INS 211), (INS 202), Colour (INS 110), (INS 122) & Nature Identical Flavouring Substances-GUAVA FLAVOUR.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4906440992867",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

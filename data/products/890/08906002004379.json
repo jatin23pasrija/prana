@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002004379",
+  "barcode_printed": "8906002004379",
+  "barcode_format": "EAN-13",
+  "name": "Dr. Oetker Funfoods Veg Mayonnaise",
+  "brand": "dr-oetker",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Soyabean Oil, Water, Sugar, Milk Solids, Iodised Salt, Lemon Juice, Emulsifiers and Stabilizers (INS415, INS1442), Acidity Regulators ( INS330), Preservatives (INS211, INS202), Antioxidant (INS319).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002004379",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

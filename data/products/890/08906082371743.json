@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082371743",
+  "barcode_printed": "8906082371743",
+  "barcode_format": "EAN-13",
+  "name": "Desi Malai Kulfi",
+  "brand": "grameen-kulfi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk and Sugar. STORE AT - 18°C OR BELOW, UNDER HYGIEN Calories Total Fat Saturated Fat Trans Fat Cholesterol Sodium Total Carbohyd Dietary Fibre Total Sugars includes added Protein The %Recommende much a nutrient in a 2,000 calories a day",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082371743",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

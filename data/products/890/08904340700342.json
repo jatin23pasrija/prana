@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904340700342",
+  "barcode_printed": "8904340700342",
+  "barcode_format": "EAN-13",
+  "name": "PASSPASS Pulse",
+  "brand": "passpass",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 190,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SUGAR, LIQUID GLUCOSE, DEXTROSE, CANDY MASALA (4%) [EDIBLE COMMON SALT, SPICES & CONDIMENTS), ACIDITY REGULATORS (INS 330, INS 296, INS 331-), ARTIFICIAL FLAVOURING SUBSTANCES (GUAVA FLAVOUR), COLOUR (INS 129)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904340700342",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

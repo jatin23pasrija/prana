@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901787004088",
+  "barcode_printed": "8901787004088",
+  "barcode_format": "EAN-13",
+  "name": "Banana Chips",
+  "brand": "small-snacks",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 145,
+        "protein_g": 0.6,
+        "carbohydrate_g": 16.3,
+        "sugars_g": 0,
+        "fat_g": 9.4,
+        "saturated_fat_g": 8.1,
+        "trans_fat_g": 0,
+        "fibre_g": 2.2,
+        "sodium_mg": 17
+      }
+    }
+  ],
+  "ingredients_raw": "Banana, lodised Salt, Turmeric Powder, Palmolein Oil",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901787004088",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

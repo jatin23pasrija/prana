@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906165631696",
+  "barcode_printed": "8906165631696",
+  "barcode_format": "EAN-13",
+  "name": "Kreoo Sandwich Cake",
+  "brand": "kreoo",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR CENTRE FILLING (25%) (SUGAR, MILK SOLIDS, DEXTROSE, HYDROGENATED VEGETABLE LSIFIER (INS 322, ARTIFICIAL FLAVOURS-CHOCOLATE AND VANILLA) SUGAR, HUMECTANTS (INS 422), REFINED PALMOLEIN OIL, MILK SOLIDS, COCOA SOLIDS, CAKE GEL, RAISING AGENTS (INS 500(ii), INS 503(ii)), EMULSFIERS (INS 322, INS 475), STABILIZER (INS 415), PRESERVATIVE (INS 202)AND IODISED SALT. CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 150d)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906165631696",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

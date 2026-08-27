@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063142428",
+  "barcode_printed": "8901063142428",
+  "barcode_format": "EAN-13",
+  "name": "Nutri choice Digestive",
+  "brand": "britania",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WHEAT FLOUR (ATTA) (65.5%), REFINED PALM OIL, SUGAR, WHEAT BRAN (2.6%), MALTODEXTRIN, MILK PRODUCTS [MILK SOLIDS & WHEY POWDER], INVERT SUGAR SYRUP, RAISING AGENTS [503(ii) & 500(ii)], IODISED SALT, EMULSIFIERS [322(i) & 471], MALT EXTRACT, NATURE IDENTICAL & ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES AND DOUGH CONDITIONER [223]. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK, SOY, BARLEY AND SULFITE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063142428",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "06936140543340",
+  "barcode_printed": "6936140543340",
+  "barcode_format": "EAN-13",
+  "name": "Satvikveda",
+  "brand": "satvikveda",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28 grams",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 143,
+        "energy_kj": 598,
+        "protein_g": 1.8,
+        "carbohydrate_g": 19.4,
+        "sugars_g": 5.2,
+        "fat_g": 6.3,
+        "saturated_fat_g": 3.3,
+        "sodium_mg": 97
+      }
+    }
+  ],
+  "ingredients_raw": "Millet Flour (Ragi/Finger, Foxtail, Little, Jowar/Sorghum, Barnyard) (28%), Pure Butter (22%), Natural Jaggery, Whole Wheat, Cashews (7%), Rice, Milk, Cinnamon, Salt Allergen Info: Contains Wheat, Cashew & Milk. Processed in a facility that also handles seeds & tree nuts. Storage Advice: Once opened transfer to an air-tight container and use within 1 month. keep in cool and dry place. Vacuum Packed Order Online at Try other cookies also Ragi & Almonds Jowar & Coconut Ragi & Dark Choco Visit our website WWW.SATVIKVEDA.IN for right WWW.SATVIKVEDA.IN health information, food facts, and more. INGREDIENTS &lt; & LOVE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6936140543340",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

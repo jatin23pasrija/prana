@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08908004238332",
+  "barcode_printed": "8908004238332",
+  "barcode_format": "EAN-13",
+  "name": "Plant protein Chocolate Fudge",
+  "brand": "origin-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "40.95 g, no. of servings - (40.95 g)",
+        "quantity": {
+          "value": 40.95,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 159.75,
+        "protein_g": 25,
+        "carbohydrate_g": 8.3,
+        "sugars_g": 0.77,
+        "fat_g": 2.95,
+        "saturated_fat_g": 2.02,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908004238332",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063014411",
+  "barcode_printed": "8901063014411",
+  "barcode_format": "EAN-13",
+  "name": "Vita Marie Gold",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "refined wheat flour, sugar, edible palm oil, milk solids, invert syrup, leavening agents (E500, E503), salt, emulsifier (E322), dough conditioner (E223), yeast, edible common salt, artificial vanilla flavouring substances",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063014411",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

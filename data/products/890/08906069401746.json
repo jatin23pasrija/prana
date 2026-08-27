@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069401746",
+  "barcode_printed": "8906069401746",
+  "barcode_format": "EAN-13",
+  "name": "Eggless Mayonnaise Chef's Special",
+  "brand": "veeba-favourites",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 277.6,
+        "protein_g": 0,
+        "carbohydrate_g": 13.6,
+        "sugars_g": 8.4,
+        "fat_g": 24.8,
+        "saturated_fat_g": 3.98,
+        "sodium_mg": 840
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, REFINED SOYABEAN OIL (24.0%), SYNTHETIC INEGAR (WATER, ACETIC ACID (INS260)], SUGAR, EMULSIFIERS AND STABILIZERS (INS1442, INS1450, INS415), IODISED SALT, SPICES AND CONDIMENTS, ACIDITY REGULATOR (INS330), PRESERVATIVES (INS211, INS202), NATURE-IDENTICAL FLAVOURING SUBSTANCES ANTIOXIDANT (INS319) AND SEQUESTRANT (INS385).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069401746",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

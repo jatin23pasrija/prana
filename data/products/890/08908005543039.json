@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005543039",
+  "barcode_printed": "8908005543039",
+  "barcode_format": "EAN-13",
+  "name": "Nutricharge Kids Nutrition Drink",
+  "brand": "nutricharge",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 373,
+        "protein_g": 23,
+        "carbohydrate_g": 59,
+        "sugars_g": 39.31,
+        "fat_g": 5,
+        "saturated_fat_g": 3.5,
+        "sodium_mg": 571.2
+      }
+    }
+  ],
+  "ingredients_raw": "Sucrose, Soya Protein Isolate (20%), Whole Milk (15%) Powder Cocoa Powder, Malt, Phyllanthus niruri (Ext.), Fructo-Oligosaccharides (FOS-1.0%), Whey Protein Concentrate, Tri Basic Calcium Phosphate, Potassium Chloride, DL-Methionine, Sodium Chloride, Docosahexaenoic Acid (DHA-0.2%), Magnesium Hydroxide, Choline Bitartrate, L-Ascorbic acid, L-Lysine Hydrochloride, Inositol, Ocimum sanctum (Ext.), Bifidobacterium bifidum, Lactobacillus acidophilus, Zine Sulphate, Nicotinamide, Binder (INS 462), Retinyl Acetate, Calcium D Pantothenate, Manganese Sulphate, Pyridoxine Hydrochloride, Riboflavin, Sodium Phosphate, Thiamine hydrochloride, Cinnamomum verum, Origanum majorana, n-pteroyl-l-glutamic acid, Cyanocobalamin, Sodium Molybdate Dihydrate, Potassium Iodide, Sodium Selenite Angydrate, Ergocalciferol and Colour Caramel (INS 150d).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005543039",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

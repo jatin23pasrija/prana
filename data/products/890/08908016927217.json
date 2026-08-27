@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016927217",
+  "barcode_printed": "8908016927217",
+  "barcode_format": "EAN-13",
+  "name": "Japanese Wellnex Marine Collagen",
+  "brand": "yourhappylife",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "10 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 356.4,
+        "protein_g": 89.1,
+        "carbohydrate_g": 0,
+        "fat_g": 0,
+        "sodium_mg": 367.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016927217",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

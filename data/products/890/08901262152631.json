@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262152631",
+  "barcode_printed": "8901262152631",
+  "barcode_format": "EAN-13",
+  "name": "Lassi Pineapple",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "200 ml",
+        "quantity": {
+          "value": 200,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 177,
+        "protein_g": 4.2,
+        "carbohydrate_g": 29,
+        "sugars_g": 29,
+        "fat_g": 4.2,
+        "saturated_fat_g": 2.5,
+        "trans_fat_g": 0,
+        "sodium_mg": 60
+      }
+    }
+  ],
+  "ingredients_raw": "Milk solids, water, sugar, pineapple fruit preparation (3.8%), stabilizer (440), nature identical flavouring substances, active culture, colour [1000(i)]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262152631",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

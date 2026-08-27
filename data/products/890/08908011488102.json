@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908011488102",
+  "barcode_printed": "8908011488102",
+  "barcode_format": "EAN-13",
+  "name": "Ice cream Mix",
+  "brand": "mastani",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Dextrose, Edible Starch, Stabiliser (E-407), Emulsifier (E-401), Colours (E-124) Contains Permitted Synthetic Food Colours & Added Strawberry Flavour(s).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908011488102",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

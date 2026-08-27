@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906023411392",
+  "barcode_printed": "8906023411392",
+  "barcode_format": "EAN-13",
+  "name": "creme bell American bites",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potable Water, Milk Solids, Sugar, Jelly Cubes (4.7%) (Sugar, Liquid Glucose, Orange DEVY Juice, Lime Juice, Raspberry Juice, Citric Acid, Gelling Agents (INS 440), Class II Preservatives, Food Colours (INS 110, 124, 102, 133) and Flavour {Nature-Identical & Artificial Flavouring Substances PLOT (Raspberry, Orange, Lemon)), Pineapple Sauce (3.9%) (Potable Water, Sugar, Liquid Glucose, Stabilizing G Agents (INS 407,412, 466), Food Colour (INS 102) and Flavour (Nature-Identical & Artificial Flavouring Substances (Pineapple)}, Choco Chips (1.5%) (Sugar, Edible Vegetable Oil (Refined Palm Kernel Ou), Milk Solids, Cocoa Solids, Maltodextrin, Emulsifier (INS 322), Salt), Pineapple Fruit (1.5%), Almonds (0.7%). Cashew Nuts (0.7%), Maltodextrin, Emulsifying Agents (INS 433, 471) & Stabilizing Agents (INS 401 407, 412) and Flavour {Nature-Identical & Artificial Flavouring Substances (Vanilla Custard)) Contains Nuts, Milk & Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906023411392",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

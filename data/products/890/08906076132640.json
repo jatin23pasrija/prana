@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076132640",
+  "barcode_printed": "8906076132640",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Loaf",
+  "brand": "the-baker-s-dozen",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta) (52%), Sourdough (3%) (Whole Wheat Flour, Water, Salt), Yeast, Vinegar, Sunflower Oil, Sugar, Fermented Wheat Flour, lodized Salt, Gluten, Flour Treatment Agent (INS 1100 (i)). Allergen Declaration: Contains Wheat & Soy. PROCESSED IN A FACILITY THAT HANDLES KNOWN ALLERGENS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076132640",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

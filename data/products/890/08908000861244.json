@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000861244",
+  "barcode_printed": "8908000861244",
+  "barcode_format": "EAN-13",
+  "name": "gopal chowkdi",
+  "brand": "namkeen",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (57%), EDIBLE VEGETABLE OIL (REFINED PALMOLEIN OIL), CORN STARCH (7.5%), SUGAR, SPICES & CONDIMENTS (DRY MANGO POWDER, CHILLI POWDER), ACIDITY REGULATOR (INS 330), EDIBLE COMMON SALT (BLACK SALT), RAISING AGENT (INS 500(II), INS 500(I)) AND FLOUR TREATMENT AGENT (INS 170(1)). ALLERGEN ADVICE: CONTAINS WHEAT MAY CONTAINS CEREALS CONTAINING GLUTEN, MILK, TREE NUTS, PEANUTS, SESAME SEEDS, MUSTARD SEEDS AND SOYA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000861244",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

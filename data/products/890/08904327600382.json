@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08904327600382",
+  "barcode_printed": "8904327600382",
+  "barcode_format": "EAN-13",
+  "name": "Myfitness Original Peanut Butter (Smooth)",
+  "brand": "myfitness",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 510,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "32.0 g",
+        "quantity": {
+          "value": 32,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 200,
+        "protein_g": 8,
+        "carbohydrate_g": 6,
+        "sugars_g": 3,
+        "fat_g": 16,
+        "saturated_fat_g": 3,
+        "fibre_g": 2,
+        "sodium_mg": 112
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Peanuts, Brown Sugar, Pink Himalayan Salt, Permitted Stabilizing Agent (INS 471)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904327600382",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

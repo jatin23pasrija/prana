@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076132381",
+  "barcode_printed": "8906076132381",
+  "barcode_format": "EAN-13",
+  "name": "Dark Chocolate Cookies",
+  "brand": "the-baker-s-dozen",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 480,
+        "protein_g": 7,
+        "carbohydrate_g": 66,
+        "sugars_g": 29,
+        "fat_g": 21,
+        "saturated_fat_g": 5,
+        "fibre_g": 4,
+        "sodium_mg": 90
+      }
+    }
+  ],
+  "ingredients_raw": "Dark Chocolate (31%), Refined Wheat Flour (Maida), Sugar, Butter, Apple Cider Vinegar, Raising Agent (INS500(ii)). CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAMURING SUBSTANCE (VANILLA)). Allergen Declaration : CONTAINS WHEAT AND MILK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076132381",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

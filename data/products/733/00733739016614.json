@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00733739016614",
+  "barcode_printed": "0733739016614",
+  "barcode_format": "EAN-13",
+  "name": "Ultra Omega-3 Fish Oil",
+  "brand": "now-foods",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Softgel Capsule [bovine gelatin (BSE-free), glycerin, enteric coating (pharmaceutical glaze, ethyl alcohol, ammonium hydroxide, glycerin, sunflower lecithin, medium-chain triglycerides), water] and d-alpha Tocopherol (from sunflower). Contains fish (anchovies, sardines).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0733739016614",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

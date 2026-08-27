@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161391570",
+  "barcode_printed": "8906161391570",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy Party Mix",
+  "brand": "let-s-try",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Edible Vegetable Oil (Refined Groundnut Oil), Chick Peas (30%), Peanuts (20%), Chana Dal (10%), Green Peas (10%), Chickpeas Pulse Flour, Potato, Starch, *Spice and Condiments (Red Chilli Powder, Cumin Powder, White Pepper Powder, Black Pepper Powder, Dried Mango Powder, Cardamom Powder, Clove Powder, Nutmeg Powder, Mace Powder, Star Anise Powder, Mint Powder and Asafoetida), lodised Salt and Acidity Regulator (INS 330). * Used as Natural Flavouring Agent. Allergen Information:Contains Peanut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161391570",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512910608",
+  "barcode_printed": "8901512910608",
+  "barcode_format": "EAN-13",
+  "name": "Milk Multigrain Popz",
+  "brand": "sundrop",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 23,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Multigrain Flour Mix (Rice Meal(41.5%),Wheat Flour (Atta)(0.7%),Oat Meal(0.7%)),Sugar , Edible vegitanle Oil(Palmolein,Palm oil) (TBHQ) , Cocoa Solids (12.4%), Emulsifier ( Lecithin) , Iodized Salt, Raising Agent ( Sodium Bicarbonate) & Natural identical flavour (Vanilla).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512910608",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

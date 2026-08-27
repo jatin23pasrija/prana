@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906137053440",
+  "barcode_printed": "8906137053440",
+  "barcode_format": "EAN-13",
+  "name": "Ghee Cake",
+  "brand": "milma",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined wheat flour (Maida), Sugar, Egg, Edible vegetable oil (Sunflower oil Invert syrup, Humectants (E 420, E 422), Milk solids, Clarified butter, Edible starch, Iodised Salt, Leavening agent (E 500 (ii)), Acidity regulator (E 260), Emulsifiers (E 471, E 477, E 470), Permitted class II preservatives (E 282, E 200, E 202), Nature-Identical flavouring substances (Vanilla and Milk).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906137053440",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

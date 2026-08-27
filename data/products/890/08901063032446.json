@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063032446",
+  "barcode_printed": "8901063032446",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Treat croissant coco cream bauli",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Serving size - 48.5 g, 1 serving, Per 100 g - energy - 451 kcal, protein - 6.3g, carbohydrates - 51.1g, of which total sugar - 20.3g, added sugar - 19.6g, total fat - 24.6g,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063032446",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

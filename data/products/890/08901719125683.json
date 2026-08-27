@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719125683",
+  "barcode_printed": "8901719125683",
+  "barcode_format": "EAN-13",
+  "name": "Full Toss Baked",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "RICE MEAL (55%), CORN MEAL (27%), REFINED PALMOLEIN OIL, SEASONING [SUGAR, ODISE SALT, SPICES & CONDIMENTS (1.6%) (CHILLI, GARLIC),DEHYDRATED ONION, REFINED WHEAT FLOUR (MAIDA), ACIDITY REGULATORS (330,262, 334),CHEESE POWDER, CREAM ANALOGUE, YEAST EXTRACT POWDER, FLAVOUR ENHANCER (631, 627), ANTICAKING AGENT (551), 341 (i) 1,GRAM MEAL(3.5%). CONTAINS ADDED FLAVOURS - NATURAL, NATURE IDENTICAL FLAVOURING SUBSTANCES * USED AS NATURAL FLAVOURING AGENTS CONTAINS: WHEAT & MILK. LACKO (CATEGORY-15.1)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719125683",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

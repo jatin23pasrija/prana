@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00748927065817",
+  "barcode_printed": "0748927065817",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein",
+  "brand": "on",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 383,
+        "energy_kj": 1602,
+        "protein_g": 79,
+        "carbohydrate_g": 10,
+        "sugars_g": 3,
+        "fat_g": 3,
+        "saturated_fat_g": 2,
+        "trans_fat_g": 0,
+        "sodium_mg": 164
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0748927065817",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

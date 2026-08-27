@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "00000000000604",
+  "barcode_printed": "00000604",
+  "barcode_format": "EAN-8",
+  "name": "banana sily yellow",
+  "brand": "weinbrand",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 546,
+        "protein_g": 3.1,
+        "carbohydrate_g": 58.5,
+        "sugars_g": 0,
+        "fat_g": 33.4,
+        "saturated_fat_g": 0,
+        "fibre_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/00000604",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

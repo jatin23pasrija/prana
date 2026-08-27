@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414000827",
+  "barcode_printed": "8901414000827",
+  "barcode_format": "EAN-13",
+  "name": "Navratan mixture",
+  "brand": "bikano",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 590.4,
+        "protein_g": 14.6,
+        "carbohydrate_g": 42.1,
+        "sugars_g": 0,
+        "fat_g": 40.4,
+        "saturated_fat_g": 10.1,
+        "sodium_mg": 600
+      }
+    }
+  ],
+  "ingredients_raw": "Edible Vegetable Oil (Refined Palmolein Oil, Refined Ricebran Oil, Refined Cottonseed Oil), Split Bengal Gram (19.4%), Lentils (18.496), Maize Flour, Peanuts (5.29), Rice Flakes, Spices and Condiments (Red Chilli Powder, Dried Mango Powder, Cumin Powder, Dried Ginger Powder, Black Pepper Powder, Clove Powder, Asafoetida Powder, Cinnamon Powder, Coriander Powder, Green Chilli Powder, Carom Seeds Powder, Nutmeg Powder, Cardamom Powder, Mace Powder, Bay Leaves Powder), Green Peas (2.6%), Cornflakes, Chickpea Flour, Potato Chips, Rice Flour, Chickpeas, lodized Salt, Turmeric Powder, Spinach Powder, Black Salt, Acidity Regulator (E 296), Contains Permitted Natural [E 100 and E141(ii)] and Synthetic Food Colour (E 133/FD&C Blue No.1) and Added Flavour (Nature Identical Flavouring Substances).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414000827",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

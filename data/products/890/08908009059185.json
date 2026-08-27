@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009059185",
+  "barcode_printed": "8908009059185",
+  "barcode_format": "EAN-13",
+  "name": "Zero Maida Whole Wheat Bread",
+  "brand": "the-health-factory",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Fresh Whole Wheat Flour, Yeast, Wheat Gluten, Rice Bran Oil, Cane Sugar, Iodised Salt, Cultured Wheat Flour, Cultured Sweet Potato, Cultured Glucose",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009059185",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

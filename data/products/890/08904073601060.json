@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08904073601060",
+  "barcode_printed": "8904073601060",
+  "barcode_format": "EAN-13",
+  "name": "Guruji Kery Pudina Squash",
+  "brand": "guruji",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 228,
+        "protein_g": 0.47,
+        "carbohydrate_g": 56.55,
+        "sugars_g": 50.43,
+        "fat_g": 0.1,
+        "saturated_fat_g": 0,
+        "sodium_mg": 410.89
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Water, Pulp (Green Mango, Mint& 25%, Black Salt, Acidity Regulator (INS 330), Liquid Glucose And Condiments, Iodized Salt*, Antioxidant (INS 331) COLOURS (INS 102 & INS 133), FLAVOURS-NATURAL FLAVOURING SUBSTANCES (GREEN MANGO&MINT PRESERVATIVES (INS 211 & INS 224) *CONTAINS ADDITIONAL SODIUM/POTASSIUM SALT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904073601060",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

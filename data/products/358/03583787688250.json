@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "03583787688250",
+  "barcode_printed": "3583787688250",
+  "barcode_format": "EAN-13",
+  "name": "Sports Drink Orange Flavour",
+  "brand": "decathlon",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 32,
+        "protein_g": 0,
+        "carbohydrate_g": 8,
+        "sugars_g": 7.7,
+        "fat_g": 0,
+        "sodium_mg": 48
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Apple Juice Concentrate (2%), Acidity Regulators (330&331), Magnesium sulphate (518),Nature identical flavoring substances (Orange), Salt, Preservative (202), Vitamins (E, B6, B1, B12), COLOUR (110) ADDED ORANGE FLAVOUR",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3583787688250",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

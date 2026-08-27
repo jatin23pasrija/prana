@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908018178013",
+  "barcode_printed": "8908018178013",
+  "barcode_format": "EAN-13",
+  "name": "Regular peanut butter",
+  "brand": "cropel",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 630,
+        "protein_g": 26,
+        "carbohydrate_g": 19,
+        "sugars_g": 10,
+        "fat_g": 50,
+        "saturated_fat_g": 19,
+        "fibre_g": 5,
+        "sodium_mg": 295
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted peanut (90%) ugar, (R Edible Vegetable fat (Hydrogenated Soybean Fat), Emulsifier (E471), Salt ALLERGEN INFO: CONTAINS PEANUTS & SOYA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908018178013",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

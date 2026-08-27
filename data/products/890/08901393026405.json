@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393026405",
+  "barcode_printed": "8901393026405",
+  "barcode_format": "EAN-13",
+  "name": "chapai chips bubble gum",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar Boiled Confectionery (75%) : Sugar, Liquid Glucose, Acidity Regulators (INS 330, INS 270, INS 296), Apple Juice (2.8%), Flavour (Nature-Identical), Colours (INS 102, INS 133) Bubble Gum (25%): Sugar, Gum Base, Liquid Glucose, Humectant (INS 422), Dextrose, Flavour (Artificial (Tutti Frutti)), Dehydrated Fruits Powder (Strawberry (0.14%), Watermelon (0.1%), Cherry (0.1%)), Emulsifier (INS 322), Antioxidant (INS 321), Colour (INS 122) Equivalent to 2.3% Fruit Juice MF",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393026405",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

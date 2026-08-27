@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "00031290721818",
+  "barcode_printed": "0031290721818",
+  "barcode_format": "EAN-13",
+  "name": "Milk chocolate",
+  "brand": "godiva",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 533,
+        "protein_g": 8.4,
+        "carbohydrate_g": 55.1,
+        "sugars_g": 54.7,
+        "fat_g": 31,
+        "saturated_fat_g": 19.9,
+        "sodium_mg": 92
+      }
+    }
+  ],
+  "ingredients_raw": "sugar full cream milk powder cocoa butter cocoa mass butter oil emulsifier soy lecithin natural flavouring",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0031290721818",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

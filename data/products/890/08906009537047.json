@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009537047",
+  "barcode_printed": "8906009537047",
+  "barcode_format": "EAN-13",
+  "name": "Max Protein - Coffee Mousse",
+  "brand": "ritebite",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Protein Blend 30% (Soya Protein Isolate, Whey Protein Concentrate), Interesterified vegetable fat - (Coconut and Soya). Sweetening agent (INS 965), Flour Blend (Sorghum Flour (Jowar), Maize Starch, Tapioca Starch). Dietary Fiber (Fructooligosaccharides, Oat Fiber). Sunflower Oil, Coffee Powder, Cocoa Powder. Salt, Raising Agent (INS 500 (ii), (Emulsifiers (INS 322, INS 471)), Protease Enzyme. Contains Nature Identical Flavouring Substances. Allergen Declaration: Contains Soy, Milk & Cereals. Issa Lic.No. 11516013000380 Polyols may have laxative effect Manufactured for and Marketed by: Naturell (India) Pvt. Ltd., Contains Oligofructose: (Dietary Fiber) 7g/100g (A Subsidiary of Zydus Wellness Ltd.) 7&quot; Floor, Sigma, Technology Street. Hiranandani Gardens, Powai, Mumbai - 400 076. Maharashtra. Manufactured by: Little Star Foods Pvt Ltd For Consumer Complaint/Query/Fe Contact Customer Care Executive at Marketed by Address or Call us",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009537047",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

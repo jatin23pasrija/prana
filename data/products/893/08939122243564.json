@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08939122243564",
+  "barcode_printed": "8939122243564",
+  "barcode_format": "EAN-13",
+  "name": "Magnesium Glycinate",
+  "brand": "naturaltein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 g",
+        "quantity": {
+          "value": 1,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 6.07,
+        "protein_g": 0,
+        "carbohydrate_g": 0.51,
+        "fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939122243564",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

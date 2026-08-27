@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08907661013887",
+  "barcode_printed": "8907661013887",
+  "barcode_format": "EAN-13",
+  "name": "Gro",
+  "brand": "gro",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Skimmed Milk Powder, Whey Protein Concentrate (Whey Protein 9.4 %), Maltodextrin, Sugar, Cocoa Powder (5 %), Minerals, Nature-Identical Flavouring Substance (Chocolate), Thickener (INS 466) Direct Add hot Preservative (INS 211), Artificial Flavouring Recommended Substance (Butter Scotch & Vanilla), Vitamins.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907661013887",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

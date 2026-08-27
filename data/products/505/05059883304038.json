@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "05059883304038",
+  "barcode_printed": "5059883304038",
+  "barcode_format": "EAN-13",
+  "name": "Clear Whey Hydrate",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 Scoop (15 g)",
+        "quantity": {
+          "value": 15,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 48.3,
+        "protein_g": 11,
+        "carbohydrate_g": 0.67,
+        "sugars_g": 0.11,
+        "fat_g": 0.03,
+        "saturated_fat_g": 0.02,
+        "trans_fat_g": 0,
+        "sodium_mg": 174
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5059883304038",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

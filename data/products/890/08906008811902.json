@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906008811902",
+  "barcode_printed": "8906008811902",
+  "barcode_format": "EAN-13",
+  "name": "Pro Immunity Multi-source Edible Oil",
+  "brand": "fortune",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 900,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 100,
+        "saturated_fat_g": 28,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Physically Refined Rice Bran Oil (80%), Refined Sunflower Oil (20%), Permitted Antioxidants TBHQ (E-319) & Citric Acid (E-330), Permitted antifoaming agent DMPS (E-900a), Vitamins A & D",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906008811902",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

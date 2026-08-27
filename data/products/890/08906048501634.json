@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906048501634",
+  "barcode_printed": "8906048501634",
+  "barcode_format": "EAN-13",
+  "name": "Protinex Classic Bitter",
+  "brand": "danone",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 354,
+        "protein_g": 34,
+        "carbohydrate_g": 53.3,
+        "sugars_g": 32,
+        "fat_g": 0.5,
+        "saturated_fat_g": 0.42,
+        "sodium_mg": 245
+      }
+    }
+  ],
+  "ingredients_raw": "Peanut protein hydrolysate (56%), Sugar, Malt extract, Maltodextrin, Minerals (Tribasic calcium phosphate, Ferrous gluconate), Vitamins (Choline bitartrate, Ascorbic acid, Niacinamide, dl-alpha Tocopheryl acetate, Riboflavin, Pantothenol, Thiamine mononitrate, Retinyl palmitate, Pyridoxine hydrochloride, Folic acid, Ergocalciferol, Phytomenadione, d-Biotin, Cyanocobalamin), Natural colour (INS 150a), Artificial flavouring substances (chocolate)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906048501634",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

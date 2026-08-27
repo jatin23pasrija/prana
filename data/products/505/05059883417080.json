@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "05059883417080",
+  "barcode_printed": "5059883417080",
+  "barcode_format": "EAN-13",
+  "name": "Impact Whey Protein (Strawberry Cream)",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 387,
+        "protein_g": 75.56,
+        "carbohydrate_g": 7.33,
+        "sugars_g": 4.95,
+        "fat_g": 6.15,
+        "saturated_fat_g": 3.74,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 180.69
+      }
+    }
+  ],
+  "ingredients_raw": "Whey protein concentrate (98.2%) (Emulsifiers: Soy lecithin & Sunflower lecithin), Natural & Artificial Flavours (Strawberry Cream), Natural Colour (Beta Carotene), Sweetener (Sucralose)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5059883417080",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

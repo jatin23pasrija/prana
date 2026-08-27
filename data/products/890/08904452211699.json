@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08904452211699",
+  "barcode_printed": "8904452211699",
+  "barcode_format": "EAN-13",
+  "name": "Vegan Cheese Balls",
+  "brand": "planck-foods",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 493.96,
+        "protein_g": 4.1,
+        "carbohydrate_g": 64.45,
+        "fat_g": 24.4,
+        "saturated_fat_g": 7.5,
+        "fibre_g": 1.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904452211699",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

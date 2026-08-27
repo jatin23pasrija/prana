@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063215291",
+  "barcode_printed": "8904063215291",
+  "barcode_format": "EAN-13",
+  "name": "Chole Kulcha",
+  "brand": "haldirams",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (320 g)",
+        "quantity": {
+          "value": 320,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 740,
+        "protein_g": 18,
+        "carbohydrate_g": 89,
+        "sugars_g": 3,
+        "fat_g": 35,
+        "saturated_fat_g": 6,
+        "trans_fat_g": 0,
+        "fibre_g": 4,
+        "sodium_mg": 1280
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063215291",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

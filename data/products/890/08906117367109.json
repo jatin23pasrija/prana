@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117367109",
+  "barcode_printed": "8906117367109",
+  "barcode_format": "EAN-13",
+  "name": "25g Protein Chocolate Milk",
+  "brand": "country-delight",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Heat Treated (Retort) milk (99.5%), Cocoa Powder (0.3%), Natural Chocolate Flavour (9.2%), Natural Vani Flavour (0.01%), Sweeteners (Monk Fruit Extract (0.015%) & Steviol Gycosides)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117367109",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

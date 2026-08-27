@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088081320",
+  "barcode_printed": "8901088081320",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Butter Creamy",
+  "brand": "saffola",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 850,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Roasted Peanuts (84%), Cane Jaggery Powder (13%), Stabilizer (INS471), Iodised Salt, Natural and Nature-Identical Flavouring Substance.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088081320",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

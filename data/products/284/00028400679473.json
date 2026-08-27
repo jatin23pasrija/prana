@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00028400679473",
+  "barcode_printed": "0028400679473",
+  "barcode_format": "EAN-13",
+  "name": "Doritos & Cheetos Mix",
+  "brand": "doritos",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "ENRICHED CORN MEAL (CORN MEAL, FERROUS SULFATE, NIACIN, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), VEGETABLE OIL (CORN, CANOLA, AND/OR SUNFLOWER OIL), CHEESE SEASONING (WHEY, CHEDDAR CHEESE [MILK, CHEESE CULTURES, SALT, ENZYMES], CANOLA OIL, MALTODEXTRIN [MADE FROM CORN], NATURAL AND ARTIFICIAL FLAVORS, SALT, WHEY PROTEIN CONCENTRATE, MONOSODIUM GLUTAMATE, LACTIC ACID, CITRIC ACID, ARTIFICIAL COLOR [YELLOW 6]), SALT, CORN, CORN STARCH, TOMATO POWDER, LACTOSE, SKIM MILK, ONION POWDER, SUGAR, GARLIC POWDER, DEXTROSE, MALIC ACID, CORN SYRUP SOLIDS, BUTTERMILK, SODIUM ACETATE, ARTIFICIAL COLOR (RED 40, BLUE 1, YELLOW 5), SPICE, DISODIUM INOSINATE, DISODIUM GUANYLATE, ROMANO CHEESE (COW'S MILK, CHEESE CULTURES, SALT, ENZYMES), CORN FLOUR, YELLOW 6 LAKE, YELLOW 5 LAKE, RED 40, POTASSIUM SALT, SODIUM CASEINATE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0028400679473",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

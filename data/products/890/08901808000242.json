@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08901808000242",
+  "barcode_printed": "8901808000242",
+  "barcode_format": "EAN-13",
+  "name": "Custard powder",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 944.44,
+        "protein_g": 5.56,
+        "carbohydrate_g": 55.56,
+        "sugars_g": 0,
+        "fat_g": 5.56,
+        "saturated_fat_g": 0,
+        "fibre_g": 11.11,
+        "sodium_mg": 1722.22
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901808000242",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

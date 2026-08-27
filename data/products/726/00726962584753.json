@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "00726962584753",
+  "barcode_printed": "0726962584753",
+  "barcode_format": "EAN-13",
+  "name": "Ragi Idli & Dosa Batter",
+  "brand": "batter-box",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 135.38,
+        "protein_g": 4.25,
+        "carbohydrate_g": 28.32,
+        "fat_g": 0.3,
+        "sodium_mg": 3.38
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0726962584753",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

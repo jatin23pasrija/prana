@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "02410794010006",
+  "barcode_printed": "2410794010006",
+  "barcode_format": "EAN-13",
+  "name": "Indian Pav",
+  "brand": "lulu",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 310.4,
+        "protein_g": 8.8,
+        "carbohydrate_g": 59.8,
+        "sugars_g": 7.1,
+        "fat_g": 4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/2410794010006",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

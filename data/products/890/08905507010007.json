@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08905507010007",
+  "barcode_printed": "8905507010007",
+  "barcode_format": "EAN-13",
+  "name": "Aloo bhujia 1kg",
+  "brand": "first-crop",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 624.3,
+        "protein_g": 8.7,
+        "carbohydrate_g": 41.4,
+        "sugars_g": 2.2,
+        "fat_g": 47.4,
+        "saturated_fat_g": 12,
+        "fibre_g": 0,
+        "sodium_mg": 835
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905507010007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

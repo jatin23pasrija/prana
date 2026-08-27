@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904307900051",
+  "barcode_printed": "8904307900051",
+  "barcode_format": "EAN-13",
+  "name": "Betadine Lozenges",
+  "brand": "betadine",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 19.2,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "BETADINE TM KEGUNAAN: MEMBAN LOZENGES Betadine Lozenges adalah tablet hisap dengan kandungan Antiseptik yang dapat membantu melegakan tenggorokan. ATURAN PAKAI: Dapat digunakan untuk dewasa dan anak usia diatas 6 tahun. Hisap 1 butir sampai terlarut perlahan di mulut setiap 2-3 jam atau sesuai kebutuhan. Jangan gunakan lebih dari 12 tablet hisap dalam waktu 24 jam. Jika gejala tidak mereda, konsultasikan dengan dokter. KOMPOSISI: Setiap butir mengandung: 0,6 mg Amylmetacresol, 1.2 mg Dybenal, Levomenthol, Sucrose, Liquid Glucose, Anhydrous Citric Acid, Eucalyptus Oil, Colour Indigo Carmine, Colour Brilliant Blue, Purified Water. PERINGATAN: Konsultasikan dengan petugas kesehatan bila Anda memiliki diabetes, hamil, atau sedang menyusui ataupun memiliki alergi terhadap komposisi produk. Jauhkan dari jangkauan anak-anak. 8 9 0",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904307900051",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

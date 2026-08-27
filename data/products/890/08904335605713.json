@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335605713",
+  "barcode_printed": "8904335605713",
+  "barcode_format": "EAN-13",
+  "name": "High Protein Oats",
+  "brand": "yogabar",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Instant Oats (52.7%), Protein Blend (27.6%) (Texturised Soy Protein Flakes, Whey Powder), Dehydrated Fruits, Nuts & Seeds (10%) (Raisins, Sunflower Seeds, Chia Seeds, Pumpkin Seeds, Almonds), Fructo-Oligosaccharide, Rice Bran Oil, Natural Flavour, Himalayan Pink Salt, Beta Carotenes, Steviol Glycosides, Bacillus Coagulans",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335605713",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

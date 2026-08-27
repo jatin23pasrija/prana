@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "00785018139125",
+  "barcode_printed": "0785018139125",
+  "barcode_format": "EAN-13",
+  "name": "Refined Sunflower Oil",
+  "brand": "priya",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 900,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 99.99,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 2,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Sunflower Oil (99.99%), Permitted Anti-Oxidants (INS 319) (0.01%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0785018139125",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

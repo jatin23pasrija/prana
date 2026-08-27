@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552016407",
+  "barcode_printed": "8901552016407",
+  "barcode_format": "EAN-13",
+  "name": "Saag Aloo",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283.49523125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Kartoffeln 28%, Spinat 24%, Zwiebeln, Tomaten, Wasser, Sonnenblumenöl, Kokosmilch, Salz, Knoblauch, Ingwer, grüne Chilipaste, Bengal-Gramm-Mehl, Korianderpulver, Kreuzkümmelpulver, Kreuzkümmelsamen, Gewürze, getrocknete Bockshomkleeblätter, Zucker, Kurkumapulver, SENF.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552016407",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080604751",
+  "barcode_printed": "8906080604751",
+  "barcode_format": "EAN-13",
+  "name": "Swing Coconut Water Drink",
+  "brand": "paper-boat",
+  "category": "water",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 25,
+        "energy_kj": 105,
+        "protein_g": 0,
+        "carbohydrate_g": 6.2,
+        "sugars_g": 6,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 20
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, COCONUT WATER CONCENTRATE (4.3%), SUGAR, MINERAL (POTASSIUM CHLORIDE) NATURE-IDENTICAL FLAVOURING SUBSTANCES, IODISED SALT, PRESERVATIVES (242, 202, 224), ACIDITY REGULATOR (CITRIC ACID) AND ANTIOXIDANT (ASCORBIC ACID).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080604751",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

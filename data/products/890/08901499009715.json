@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499009715",
+  "barcode_printed": "8901499009715",
+  "barcode_format": "EAN-13",
+  "name": "Kelloggs Crunchy Granola Almonds & Cranberries",
+  "brand": "kelloggs",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 460,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 444,
+        "protein_g": 7,
+        "carbohydrate_g": 70.6,
+        "sugars_g": 28,
+        "fat_g": 16,
+        "saturated_fat_g": 5,
+        "trans_fat_g": 0,
+        "fibre_g": 5,
+        "sodium_mg": 300
+      }
+    }
+  ],
+  "ingredients_raw": "Rolled Oats (25.1%), Candied Fruit And Nut (24%^) { Candied Cranberry (15%), Almonds (9%)}, Sugar, Oat Flour (10.7%), Edible Vegetable Oil (Palmolein), Rice (4.2%), Whole Wheat (3.9%), Rice Flour (2.7%), Liquid Glucose, Corn Meal (1.8%), Honey, Cereal Extract, Wheat Bran (0.6%), Refined Wheat Flour (Maida) (0.5%), lodized Salt, Dextrose, Flavours {Nature Identical And Artificial (Cream)), Barley Flour (0.1%), Vitamins, Raising Agent (INS 500ii), Minerals, Antioxidant (INS 320) CONTAINS WHEAT, BARLEY, OATS AND NUT (ALMONDS). MAY CONTAIN SOY AND MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499009715",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

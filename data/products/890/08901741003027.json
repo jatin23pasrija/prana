@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901741003027",
+  "barcode_printed": "8901741003027",
+  "barcode_format": "EAN-13",
+  "name": "Quick Chicken Pizza Instant Noodles",
+  "brand": "wai-wai",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 484.1,
+        "protein_g": 10,
+        "carbohydrate_g": 64,
+        "sugars_g": 2.3,
+        "fat_g": 20.9,
+        "saturated_fat_g": 9.3,
+        "trans_fat_g": 0.2,
+        "fibre_g": 1,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles (with seasonings): Wheat flour, Edible vegetable oil (Palm), lodised salt, Wheat gluten, Softening agent (500ii), Soya sauce, Black pepper, Flavour enhancer (621, 627, 631), Guar gum (412), Acidity regulator (451i), Onion, Calcium Carbonate (170i), Chicken flavour and Caramel (150d) (Carryover from soya sauce). Seasoning (in a separate sachet): lodised salt, Sugar, Garlic, Noodle powder, Maltodextrin (1400), Onion, Flavour enhancer (621.627 631), Cumin, Chives, White pepper, Oregano, Cheese powder, Citric acid (330), Hydrolyzed vegetable protein, Dehydrated vegetables. Soy sauce powder, Paprika (160C), Anticaking agent (551). Yeast extract and Chilli powder. Flavoured Oil: Edible Vegetable oil (Palm Olein) & Onion CONTAINS PERMITTED NATURAL COLOUR (Caramel 150d, Paprika 160c) AND A FLAVOURS (Natural flavours & Natural flavouring substances, Nature identical flavouring substances and Artificial flavouring substances (Chicken). May contain traces of MILK products & MUSTARD products. This package contains added MONOSODIUM GLUTAMATE (not recommended for children under 12 months)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901741003027",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335600695",
+  "barcode_printed": "8904335600695",
+  "barcode_format": "EAN-13",
+  "name": "Dark Chocolate Peanut Butter",
+  "brand": "yoga-bar",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 596,
+        "protein_g": 21,
+        "carbohydrate_g": 32.4,
+        "sugars_g": 8.6,
+        "fat_g": 42.5,
+        "saturated_fat_g": 12.3,
+        "fibre_g": 6.6,
+        "sodium_mg": 22.8
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Peanuts 71%, Dark Chocolate (Cocoa Solids, Cocoa Butter, Cocoa Powder, Sugar, Soy Lecithin & Natural Vanilla), Raw Sugar, Cocoa Powder, Probiotics SEB LBSC (Bacillus Coagulans) *100 million CFU per serving. Contains Added Natural Flavour: Rosemary Extract, Chocolate. Commodity: 04.2.2.5 Nut Butter Proprietary Food. Storage Instructions: Store in a cool, dry, and hygienic place. Do not refrigerate. Allergen Advice: CONTAINS NUTS & SOY LECITHIN.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335600695",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

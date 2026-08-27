@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725118914",
+  "barcode_printed": "8901725118914",
+  "barcode_format": "EAN-13",
+  "name": "Tedhe Medhe",
+  "brand": "bingo",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 546,
+        "protein_g": 5.5,
+        "carbohydrate_g": 57.3,
+        "sugars_g": 1.7,
+        "fat_g": 32.8,
+        "saturated_fat_g": 15.5,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 738.4
+      }
+    }
+  ],
+  "ingredients_raw": "RICE GRITS, REFINED PALMOLEIN, SEASONING REFINED PALMOLEIN, SPICES AND CONDIMENTS, ONION POWDER, 1ODIZED SALT MALTODEXTRIN, BLACK SALT, FLAVOUR ENHANCER (INS 508), NATURE IDENTICAL FLAVOURING SUBSTANCES, TOMATO POWDER, SUGAR, HYDROLYZED VEGETABLE PROTEIN, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES AND GARLIC POWDER (0.1%)), DEGERMED CORN GRITS AND BENGAL GRAM GRITS (3.1%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725118914",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

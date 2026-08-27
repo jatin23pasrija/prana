@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063255013",
+  "barcode_printed": "8904063255013",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram Minute Khana",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 650,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 300,
+        "protein_g": 5.71,
+        "carbohydrate_g": 35.71,
+        "sugars_g": 0,
+        "fat_g": 15.71,
+        "saturated_fat_g": 2.86,
+        "sodium_mg": 528.57
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063255013",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

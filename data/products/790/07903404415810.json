@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07903404415810",
+  "barcode_printed": "7903404415810",
+  "barcode_format": "EAN-13",
+  "name": "Badam flavoured milk",
+  "brand": "jersy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 110,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Double Toned Milk, Sugar, Natural and Synthetic Food colours (INS 150a, INS 102), Artificial Badam) Flavouring Substances, Vitamin A (Retinyl palmitate), Vitamin D2 (Ergocalciferol)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7903404415810",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

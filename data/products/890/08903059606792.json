@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08903059606792",
+  "barcode_printed": "8903059606792",
+  "barcode_format": "EAN-13",
+  "name": "Tur Dal",
+  "brand": "choice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Tur Dal",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903059606792",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

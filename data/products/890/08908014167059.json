@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014167059",
+  "barcode_printed": "8908014167059",
+  "barcode_format": "EAN-13",
+  "name": "Kantha Bomb",
+  "brand": "naagin-indian-hot-sauce",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 230,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 197,
+        "protein_g": 1.31,
+        "carbohydrate_g": 21.9,
+        "sugars_g": 10.81,
+        "fat_g": 11.59,
+        "saturated_fat_g": 2.74,
+        "fibre_g": 0,
+        "sodium_mg": 1077.4
+      }
+    }
+  ],
+  "ingredients_raw": "Purified Water, Chillies (Green Chillies, Kanthari Chillies), Onion, Vegetable Oil (Rice Bran Oil), Celery, Garlic, Vinegar (Water, Acidity Regulator (E260)]. Sugar, Salt, Ginger, Turmeric, Stabilizer (E415), Permitted Class II Preservatives (E211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014167059",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

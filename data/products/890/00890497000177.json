@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "00890497000177",
+  "barcode_printed": "0890497000177",
+  "barcode_format": "EAN-13",
+  "name": "Italian Soft Artisan Roll",
+  "brand": "ace-bakery",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 roll (80 g)",
+        "quantity": {
+          "value": 80,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 240,
+        "energy_kj": 1004,
+        "protein_g": 6,
+        "carbohydrate_g": 39,
+        "sugars_g": 2,
+        "fat_g": 6,
+        "saturated_fat_g": 1,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 390
+      }
+    }
+  ],
+  "ingredients_raw": "Unbleached wheat flour, Water, Sunflo and/or soybean oil, Cane sugar, Salt, Cultured wheat flo Yeast, Ground wheat, Lactic acid, Malted barley flour Enzymes, Rice flour (for dusting). &quot;Order may vary. Contains: Wheat, Barley May contain: Almonds, Eggs, Milk, Pecans, Ingrédients: Farine de blé non blanchie, Eau, Huile de blé de culture, Levure, Blé moulu, Acide lactique, de tournesol et/ou de soya, Sucre de canne, Sel, Farine Farine d'orge maltée, Enzymes, Farine de riz (pour saupoudrer). L'ordre peut varier Sesame seeds, Soy, Walnuts . Genir: Amandes, Eufs, Lait, Pacanes, Contient : Blé, Orge. Gran eSoya, Noix de Grenoble. BRANDS INC. TORONTO FGF BRA CANADA OMERCARE FGFBRANDS.COM TM/MCFGF BRANDS INC. 8202217R3254 600 f @ன்",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0890497000177",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202225512",
+  "barcode_printed": "7622202225512",
+  "barcode_format": "EAN-13",
+  "name": "Original Oreo",
+  "brand": "cadbury",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Fractionated Fat, Palmolein, Invert Sugar, Cocoa Solids (2%) Lening Agents 50g (i), 503(ii), Starch, lodised Salt, Emulsifies Naturetical Flavouring Substances. Allergen Inition Contains Wheat, Sulphite, Soy. May Contain and Barley. T&C apply €40 e 2025/7/18 21:04",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202225512",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

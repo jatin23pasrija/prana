@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725134310",
+  "barcode_printed": "8901725134310",
+  "barcode_format": "EAN-13",
+  "name": "Sunfeast Nice, 75 g",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR (26.4%), REFINED PALM OIL, EDIBLE DESICCATED COCONUT, INVERT SYRUP, MILK SOLIDS, STARCH, RAISING AGENTS [INS 503(ii), INS 500(1), INS 450(i)], COCONUT MILK POWDER, IODIZED SALT, EMULSIFIERS [INS 322(i), INS 471] AND FLOUR TREATMENT AGENT (INS 223). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR(S) (INS 102, INS 124) AND ADDED FLAVOUR(S) (ARTIFICIAL FLAVOURING SUBSTANCES-COCONUT, VANILLA, MILKO CONTAINS WHEAT, MILK SOLIDS, SOYA, NUTS AND SULPHITES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725134310",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

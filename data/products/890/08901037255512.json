@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901037255512",
+  "barcode_printed": "8901037255512",
+  "barcode_format": "EAN-13",
+  "name": "Masala Chai Instant Tea Premix",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 421.43,
+        "protein_g": 10.71,
+        "carbohydrate_g": 78.57,
+        "sugars_g": 71.43,
+        "fat_g": 7.14,
+        "saturated_fat_g": 7.14,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Dairy Whitener (Partly Skimmed Milk Powder & Sugar), Sugar, Tea Extract (7%) & Masala (2.2%) (Cloves, Cardamom, Ginger, Black Pepper, Cinnamon & Nutmeg)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901037255512",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

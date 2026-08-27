@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058844757",
+  "barcode_printed": "8901058844757",
+  "barcode_format": "EAN-13",
+  "name": "Masala Cuppa Noodles",
+  "brand": "nestle",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 443,
+        "protein_g": 8.3,
+        "carbohydrate_g": 59.2,
+        "sugars_g": 3.2,
+        "fat_g": 19.2,
+        "saturated_fat_g": 11.2,
+        "fibre_g": 3.3,
+        "sodium_mg": 1355.8
+      }
+    }
+  ],
+  "ingredients_raw": "Refined wheat flour (Maida), Palm oil, SaL Mineral (Calcium carbonate), Thickeners (41 2 & 508), Humectanl (451 (i)) and Acid'iLy regulators (501 (j), 500(i) & 330). TASTEMAKER: Mixed spices {(32.3%) (Onion (6.B%) Gadic powder, Red chilli powder (3.9%), Cumin powder, Codander powder, Turnieñc powder, Oinger powder, Dehydrated codander baves, Nukneg powder, Aniseed powder, Black pepper powder (0.9%), Dehydrated kasuri niethi baves, enugreek powder, Mace powder, Cbve powder & Green cardamom powder (0.2%)) Sugar, Saft, Nood powder (Refined wheat flour (Maida), Palm oil, Sa Wheat gluten, Mineral (Calcium carbonate), Thickeners (508 & 41 2), Acidity regulators (501(i) & 500(i)) & Humectant (451(i))), Dehydrated carrot flakes (6.4%), Dehydrated tomato paste soLids (Foniato paste, An&aking agent (551) & SaW, Edible starch, Dehydrated Green peas (5.6%), Edib vegetable oil (Palm oil & Corn oil), Thickener (508), Yeast extract, Ravour enhancer (635), Taniañnd powder, Acidity regulator (330), Celery, Milk, Sesame and Soybean.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058844757",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

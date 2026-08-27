@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906000921531",
+  "barcode_printed": "8906000921531",
+  "barcode_format": "EAN-13",
+  "name": "Khakhra",
+  "brand": "daadis",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (18 g)",
+        "quantity": {
+          "value": 18,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 87.11,
+        "protein_g": 1.8,
+        "carbohydrate_g": 11.45,
+        "sugars_g": 1.09,
+        "fat_g": 3.78,
+        "saturated_fat_g": 0.88,
+        "sodium_mg": 187.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906000921531",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202320330",
+  "barcode_printed": "7622202320330",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury 5 Star Oreo",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Center Filling 70%* - Sugar, Hydrogenated Palm Kernel Oil. Liquid Glucose, Milk Solids 11%*, Biscuit 11%*, (Refined Wheat Flour (Maida), Sugar, Fractioned Fat, Cocoa Solids, Liquid Glucose, Starch, Leavening Agents (501(ii), 503(ii), 500(ii)), Iodised Salt, Emulsifier (322), Flavour (Artificial (Vanilla) Flavouring Substance)), Hydrogenated Vegetable Oil, Invert Sugar, Humectant (422), Interesterified Vegetable Fat, Emulsifier (322, 471), Iodized Salt, Flavours (Nature Identical Flavouring Substances): Milk, Chocolate 30%*-Sugar, Cocoa Butter, Milk Solids (4%*), Lactose, Cocoa Solids, Fractioned Fat, Emulsifiers (422, 476), Flavours (Natural, Nature Identical and Artificialn(Vanilla and Caramel) Flavouring Substances),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202320330",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

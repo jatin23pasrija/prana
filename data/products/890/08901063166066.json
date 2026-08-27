@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063166066",
+  "barcode_printed": "8901063166066",
+  "barcode_format": "EAN-13",
+  "name": "Treat Crazy Pineapple",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 516.13,
+        "protein_g": 6.45,
+        "carbohydrate_g": 70.97,
+        "sugars_g": 35.48,
+        "fat_g": 22.58,
+        "saturated_fat_g": 12.9,
+        "fibre_g": 0,
+        "sodium_mg": 206.45
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063166066",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

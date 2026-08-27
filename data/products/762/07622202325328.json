@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202325328",
+  "barcode_printed": "7622202325328",
+  "barcode_format": "EAN-13",
+  "name": "Dairy Milk Bites Hazelnut",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk Chocolate (74%) (Sugar, Milk Solids (16%), Cocoa Butter, Cocoa Solids, Fractionated Fat, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Vanilla Flavouring Substances)), Hazelnuts (23%), Glazing Agent (904), Stabilizers (414, 1400), Sugar, Liquid Glucose.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202325328",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

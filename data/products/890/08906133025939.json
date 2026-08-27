@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906133025939",
+  "barcode_printed": "8906133025939",
+  "barcode_format": "EAN-13",
+  "name": "Malai Kulfi Platinum Plus+ Whey Protein Isolate",
+  "brand": "nakpro",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "34 g",
+        "quantity": {
+          "value": 34,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 126,
+        "protein_g": 28,
+        "carbohydrate_g": 2.88,
+        "fat_g": 0.28,
+        "saturated_fat_g": 0.13,
+        "trans_fat_g": 0,
+        "sodium_mg": 18.86
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906133025939",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

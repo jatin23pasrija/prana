@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009075853",
+  "barcode_printed": "8906009075853",
+  "barcode_format": "EAN-13",
+  "name": "Unibic Swaadesi Navratan Mixture",
+  "brand": "unibic",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 165,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 566.4,
+        "protein_g": 12.4,
+        "carbohydrate_g": 45.2,
+        "sugars_g": 1.3,
+        "fat_g": 36.2,
+        "saturated_fat_g": 11.7,
+        "fibre_g": 5.3,
+        "sodium_mg": 490.3
+      }
+    }
+  ],
+  "ingredients_raw": "‎Gram Flour, Edible Vegetable Oil (Rice Bran Oil, Sunflower Oil & Groundnut Oil), Bengal Gram, Lentil, Rice Flour, Rice Flakes, Peanut, Arrowroot Powder, Corn Flakes, Green Peas, Potato, Spice & Condiments (Spinach Powder, Red Chilli Powder, Kashmiri Chilli Powder, Turmeric Powder, Black Pepper, Ginger Powder, Dry Mango Powder, Clove Powder, Mace Powder, Nutmeg Powder, Cumin Powder, Fenugreek Seeds Powder, Coriander Seeds, Bay Leaf & Cardamom), Iodised Salt & Acidity Regulator (INS 330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009075853",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

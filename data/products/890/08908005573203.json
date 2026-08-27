@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005573203",
+  "barcode_printed": "8908005573203",
+  "barcode_format": "EAN-13",
+  "name": "Aloevera pulp & juice",
+  "brand": "yoga-pulp",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 32.68,
+        "protein_g": 0,
+        "fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Aloevera Pulp & Juice (12%), Lichi Pulp (7%), Cane Sugar (11.50%), Water, Flavor, Acidity Regulator (INS 330), Stabilizer, Class II Preservative (INS 440, INS 224).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005573203",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

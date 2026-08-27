@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595862733",
+  "barcode_printed": "8901595862733",
+  "barcode_format": "EAN-13",
+  "name": "Green chilli sauce",
+  "brand": "ching-s-secret",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "water, green chilli (30%), salt, sugar, thickener (e1422), garlic powder, acidity inal information* 6g a quantity regulator (e296, e260), per serving emulsifying , stabilizing agent container 31 2,2 (e415), spices (cumin powder, 0,1 coriander powder), preservative (e211), contains permitted class ii preservative 0,4 store in a cool, dry and hygienic place, keep refrigerated",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595862733",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

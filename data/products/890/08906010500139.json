@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500139",
+  "barcode_printed": "8906010500139",
+  "barcode_format": "EAN-13",
+  "name": "Balaji Wafers",
+  "brand": "balaji",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "POTATO (87%), EDIBLE VEGETABLE OIL (PALMOLEIN), SUGAR, SPICES & CONDIMENTS 1% (CHILLI, DRY MANGO, CORIANDER, CUMIN, BLACK PEPPER, GINGER, (LOVE), EDIBLE COMMON SALT, BLACK SALT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500139",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

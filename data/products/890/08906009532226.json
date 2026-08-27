@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009532226",
+  "barcode_printed": "8906009532226",
+  "barcode_format": "EAN-13",
+  "name": "MAX PROTEIN CHEESE & JALAPENO",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 481,
+        "protein_g": 16.67,
+        "carbohydrate_g": 49,
+        "sugars_g": 3.17,
+        "fat_g": 23.5,
+        "saturated_fat_g": 4.67,
+        "fibre_g": 6.67,
+        "sodium_mg": 0.83
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009532226",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

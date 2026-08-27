@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901441010011",
+  "barcode_printed": "8901441010011",
+  "barcode_format": "EAN-13",
+  "name": "Papadam au cumin",
+  "brand": "lijjat-papad",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "FARINE DE LENTILLES NOIRES (63,1%), EAU, SEL, AGENT LEVANT: BICARBONATE DE SODIUM, CUMIN HAR (63,1 FERMER SO LINSENMEHL (63,1%), WASSER, ASAF (1,15%), ASE FETIDE, HUILE VEGETALE, ZUTATEN: SALZ, BACKTRIEBMITTEL: STRENGTH gסך 0צ",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901441010011",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

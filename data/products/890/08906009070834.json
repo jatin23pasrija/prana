@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009070834",
+  "barcode_printed": "8906009070834",
+  "barcode_format": "EAN-13",
+  "name": "Unibic cashew badam cookies 500g",
+  "brand": "unibic",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm), Milk Solids, Dry Nuts (1%) (Almond and Cashew), Golden Syrup, Leavening Agents (INS 503 ii, INS 500 ii), Emulsifiers (INS 322 from Soy, INS 472e, INS 435 and INS 471), Iodised Salt, Artificial Flavouring Substances (Saffron, Cashew, Almond & Milk). Allergen Advice: Contains Wheat, Milk, Soy and Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009070834",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

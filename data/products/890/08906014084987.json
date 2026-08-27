@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906014084987",
+  "barcode_printed": "8906014084987",
+  "barcode_format": "EAN-13",
+  "name": "Broken wheat",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 355.56,
+        "protein_g": 15.56,
+        "carbohydrate_g": 71.11,
+        "sugars_g": 0,
+        "fat_g": 1.11,
+        "saturated_fat_g": 0,
+        "fibre_g": 4.44
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906014084987",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

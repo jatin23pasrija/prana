@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063363526",
+  "barcode_printed": "8901063363526",
+  "barcode_format": "EAN-13",
+  "name": "Gobbles fruity fun cake",
+  "brand": "britannia",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, VANASPATI, HUMECTANT (422), FRUIT PRODUCTS (5.4%) (GLAZED FRUITS (PAPAYA CUTS, GAR, PRESERVATIVE (202), COLOUR (124) AND PINEAPPLE CUTS) AND ORANGE PULP), REFINED PALMOLEIN OIL, WHEY PROTEIN CONCENTRATE HIGH MALTOSE SYRUP, FRUCTOOLIGOSACCHARIDES, WHEAT STARCH, EDIBLE MAIZE STARCH, CAKE GEL [EMULSIFIERS (471,477,470) & HUMECTANT (422 PAISING AGENTS (450(vii), 450(1), 500, 341(i)), FLAVOURS (ARTIFICIAL (MIXED FRUIT & CREAMY VANILLA) AND NATURE IDENTICAL FLAVOURING SUBSTANCES, IODIZED SALT, LIQUID GLUCOSE, PRESERVATIVES (202, 282), EMULSIFIER (475), ACIDITY REGULATOR (330), STABILIZER (415), COLOUR (102) Numbers in brackets as per International Numbering System) CONTAINS WHEAT AND MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063363526",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

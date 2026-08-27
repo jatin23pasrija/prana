@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363009692",
+  "barcode_printed": "8903363009692",
+  "barcode_format": "EAN-13",
+  "name": "Cranberries",
+  "brand": "d-mart-premia",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "DRIED CRANBERRIES (86.9%) [CRANBERRIES (51.5%), SUGAR (34.9%), REFINED SUNFLOWER OIL), ANARDANA CHURAN (7.5%) (DRIED POMEGRANATE POWDER, SUGAR, DRIED MANGO POWDER, BLACK PEPPER POWDER, IODISED SALT, ROSE PETALS, ACIDITY REGULATOR (INS 330), BLACK SALT, LONG PEPPER], ANARDANA POWDER (4.8%) [DRIED POMEGRANATE POWDER, SUGAR, CORIANDER POWDER, CUMIN POWDER, DRIED MANGO POWDER, BLACK PEPPER POWDER, IODISED SALT, ROSE PETALS, ACIDITY REGULATOR (INS 330), BLACK SALT, LONG PEPPER], PINK SALT, CAYENNE PEPPER.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363009692",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

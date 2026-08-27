@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902756331891",
+  "barcode_printed": "8902756331891",
+  "barcode_format": "EAN-13",
+  "name": "Yummiez Veg. Cheese Fingers",
+  "brand": "godrej-tyson",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Frozen Vegetables (Potato, Carrot, Peas) (26%), Water, Processed Cheese (7%) {(Milk Solids, Vegetable Fats, Modified Starch, Emulsifiers (INS 452(i), INS 339(iii)), lodized Salt, Preservative (INS 200), Acidity Regulator (INS 3307)}, Bread Crumb (Maida, Yeast, Salt, Dextrose, Preservative (INS 282) & Acidity Regulator (INS 260), Batter (Maida, Corn Starch, Salt, Stabilizer (INS 466) & Raising Agent (INS 500)), Dehydrated Potato, Cheese Powder, lodized Salt. 424 CONTAINS ADDED FLAVOUR - NATURE IDENTICAL FLAVORING SUBSTANCES (CHEESE). Allergy Advice: Contains Wheat and Milk Products. Marketed by: Godrei Tyson Foods Ltd",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902756331891",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

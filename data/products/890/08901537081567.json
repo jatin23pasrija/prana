@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08901537081567",
+  "barcode_printed": "8901537081567",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Rice Crackers",
+  "brand": "pepper-delight",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 pack (15 g)",
+        "quantity": {
+          "value": 15,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 68,
+        "protein_g": 0.9,
+        "carbohydrate_g": 11,
+        "sugars_g": 0.2,
+        "fat_g": 2.1,
+        "saturated_fat_g": 0.2,
+        "fibre_g": 0.1,
+        "sodium_mg": 150
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901537081567",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

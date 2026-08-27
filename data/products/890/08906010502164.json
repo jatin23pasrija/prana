@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010502164",
+  "barcode_printed": "8906010502164",
+  "barcode_format": "EAN-13",
+  "name": "Katak Batak - Chilli Lemon",
+  "brand": "balaji-wafers",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 624,
+        "energy_kj": 2613,
+        "protein_g": 19,
+        "carbohydrate_g": 32,
+        "sugars_g": 8,
+        "fat_g": 45,
+        "saturated_fat_g": 12,
+        "sodium_mg": 690
+      }
+    }
+  ],
+  "ingredients_raw": "Peanut (52%), Wheat Flour (Atta), Corn Starch, Edible Vegetable Oil (Palmolein, Rice Bran), Sugar, Maltodextrin, Edible Common Salt, Chilli Powder (2.0%), Black Salt, Dehydrated Vegetable Powder (Garlic, Onion, Lemon (0.4%)), Hydrolyzed Vegetable Protein (Soya), Acidity Regulator (INS 330), Flavour Enhancer (INS 627, INS 631), Yeast Extract, Oregano, Natural & Nature Identical Flavouring Substances (Chilli, Lemon), Paprika Extract (INS 160C)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010502164",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

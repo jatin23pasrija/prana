@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906065030131",
+  "barcode_printed": "8906065030131",
+  "barcode_format": "EAN-13",
+  "name": "Karachi Biscuits Fruit Almond",
+  "brand": "karachi-bakery",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 6,
+        "carbohydrate_g": 52,
+        "sugars_g": 19,
+        "fat_g": 25,
+        "saturated_fat_g": 11,
+        "fibre_g": 5
+      }
+    }
+  ],
+  "ingredients_raw": "refined wheat, hydrogenated vegetable fat, tooth fruit, sugar, milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906065030131",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005667049",
+  "barcode_printed": "8908005667049",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Makhana",
+  "brand": "mix-box-snacks",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 465,
+        "protein_g": 10.1,
+        "carbohydrate_g": 69,
+        "sugars_g": 2,
+        "fat_g": 16.7,
+        "saturated_fat_g": 1.7,
+        "trans_fat_g": 0,
+        "fibre_g": 2.6
+      }
+    }
+  ],
+  "ingredients_raw": "Makhana/Gorgon Nut, Edible Vegetable Oil, Salt, Maltodextrin, Sugar, Garlic, Spices And Condiments (Chilli, Cinnamon), Onion, Acidity regulator (E330, E296), Anticaking agent (E551), Flavour enhancer (E627, E631), Hydrolysed Vegetables Protien and antioxidant (E319).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005667049",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

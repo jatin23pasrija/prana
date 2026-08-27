@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499011985",
+  "barcode_printed": "8901499011985",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Muesli",
+  "brand": "kellogg-s",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 461,
+        "protein_g": 8,
+        "carbohydrate_g": 67.4,
+        "sugars_g": 27.9,
+        "fat_g": 18.6,
+        "saturated_fat_g": 8.1,
+        "fibre_g": 3.8,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "MULTIGRAIN MIX (43%) {ROLLED OATS (26.1%), RICE FLOUR (6.6%), CORN MEAL (5.5%), REFINED WHEAT FLOUR (MAIDA) (2.2%), WHEAT FLOUR (ATTA) (2.1%), RAGI FLOUR, SORGHUM FLOUR, NUTS, SEEDS & DRY FRUITS (14%^) {ALMONDS(6%), PUMPKIN SEEDS (4%), BLACK RAISINS (4%)}, SUGAR, DARK CHOCOLATE POWDER (12.9%) {SUGAR, COCOA SOLIDS & COCOA BUTTER}, EDIBLE VEGETABLE OIL (PALMOLEIN), CEREAL EXTRACT, COCOA SOLIDS (2%), LIQUID GLUCOSE, IODIZED SALT, MINERALS, FLAVOURS {NATURE IDENTICAL AND ARTIFICIAL (CREAM)}, ANTIOXIDANT (INS 307b), RAISING AGENT (INS 500(ii)), COLOUR (INS 150d), VITAMINS. ALLERGEN DECLARATION: CONTAINS WHEAT, BARLEY, OATS AND NUT (ALMONDS). MAY CONTAIN SOY AND MILK. F T",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499011985",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

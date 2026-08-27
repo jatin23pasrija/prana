@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005720474",
+  "barcode_printed": "8906005720474",
+  "barcode_format": "EAN-13",
+  "name": "Shree ganesh, punjabi chole masala",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 11,
+        "carbohydrate_g": 9,
+        "fat_g": 5,
+        "saturated_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 480
+      }
+    }
+  ],
+  "ingredients_raw": "Coriander, tej patta, nutmeg, colve-leaves, black-pepper, chili, fennel seeds, mustard seeds, pomegranate seeds, cinnamon, colves, v. cardamom, cumin, cardamom - amomum, garlic, mango powder, turmeric, tamarind black salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005720474",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

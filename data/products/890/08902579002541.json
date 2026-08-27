@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579002541",
+  "barcode_printed": "8902579002541",
+  "barcode_format": "EAN-13",
+  "name": "Fizz",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "125"
+      },
+      "values": {
+        "energy_kcal": 51.05,
+        "energy_kj": 214,
+        "protein_g": 0,
+        "carbohydrate_g": 12.76,
+        "sugars_g": 12.71,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 19500
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, SUGAR, CARBONATING AGENT (INS 290 ACIDITY REGULATORS (INS 296, INS 330, INS 3310WL NATURE-IDENTICAL FLAVOURING SUBSTANCES (MALT (FERMENTED HOPL STABILIZER (INS 440), PRESERVATIVE (INS 211), FOOD COLOURS (INS 150d, INS 102), ANTIOXIDANT (INS 300). (INS-INTERNATIONAL NUMBERING SYSTEM)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579002541",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

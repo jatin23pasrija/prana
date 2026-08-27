@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906097597169",
+  "barcode_printed": "8906097597169",
+  "barcode_format": "EAN-13",
+  "name": "Fast & Up Man extend",
+  "brand": "fast-up",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Acidity regulators [INS 330 and INS 500 L-Citrulline DL-Malate, Magnesium carbonate L-Arginine, Stabilizer [INS 1202], Nature Identical flavour (Cola), L-Ornithine hydrochloride, Asparagus densiflorus (Shatavari) extract, Zinc sulphate, Sweetener (INS 955], Nature Identical flavour (Lemon), Natural food colour [INS 150d), Anti-foaming agent (INS 1521], Bacopa monnieri (Brahmi) extract Trigonella foenum-graecum (Fenugreek) (Testofen extract, Anticaking agent [INS 551], Piper nigrum (Black pepper) extract. Recommended usage level: 1 effervescent tablet in a glass of water to be consumed daily. Not to be consumed an empty stomach. THIS CONTAINS SUCRALOSE Warning: DO NOT CONSUME THE TABLET DIRECTLY Not to exceed the recommended daily usage. Storage: Store at a temperature below 25°C in dry placa Product is required to be stored out of reach of NOT FOR MEDICINAL USE. This product is not children. Close the cap tightly after every use. mended to diagnose, treat, cure, or prevent any CONTAIN NON-CALORIC SWEETENER or a varied diet. Marketed by: Aeronutrix Sports Products Pvt. Lid 315 Woodrow, 19 Veera Desai Road Andheri West, Mumbai - 400 053 Issat Lic. No.: 10020022011847 AMER CARE pasta, querien adored back, contact our",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906097597169",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

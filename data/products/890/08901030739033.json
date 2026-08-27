@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030739033",
+  "barcode_printed": "8901030739033",
+  "barcode_format": "EAN-13",
+  "name": "Magnum Brownie",
+  "brand": "kwality-walls",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "62 g",
+        "quantity": {
+          "value": 62,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 214,
+        "protein_g": 3.4,
+        "carbohydrate_g": 19.4,
+        "sugars_g": 16.7,
+        "fat_g": 13.9,
+        "saturated_fat_g": 8.3,
+        "trans_fat_g": 0.13,
+        "fibre_g": 1,
+        "sodium_mg": 49
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030739033",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

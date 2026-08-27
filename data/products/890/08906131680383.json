@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131680383",
+  "barcode_printed": "8906131680383",
+  "barcode_format": "EAN-13",
+  "name": "Millet Pancake Mix Classic",
+  "brand": "slurrp-farm",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Supergrain blend (76%) (jowar flour, foxtail millet flour, oat flour), raw unrefined sugar (15%), banana powder (5%), natural flavour, baking powder, flaxseed powder, raising agent (baking soda) [INS 500(ii), iodised salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131680383",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

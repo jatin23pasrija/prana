@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005723192",
+  "barcode_printed": "8906005723192",
+  "barcode_format": "EAN-13",
+  "name": "Sandwich Masala",
+  "brand": "shri-ganesh",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 14,
+        "carbohydrate_g": 30,
+        "sugars_g": 0,
+        "fat_g": 7,
+        "saturated_fat_g": 3,
+        "fibre_g": 3,
+        "sodium_mg": 2800
+      }
+    }
+  ],
+  "ingredients_raw": "Cumin seeds, black salt, black pepper, cinamon, clove, iodised salt, mango powder",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005723192",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

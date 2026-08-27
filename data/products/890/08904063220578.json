@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063220578",
+  "barcode_printed": "8904063220578",
+  "barcode_format": "EAN-13",
+  "name": "plant based keema paratha",
+  "brand": "haldirams",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Wheat Flour (38%), Water, Vegetable Mix (Onion, Carrot, Ginger Garlic Paste, Green Paste), Tomato Puree (Water, Tornato Paste, Acidity Regulator (E 330)), Textured Soy Protein Concentrate, Refined Palm Oil, Spices & Condiments der Powder, Turmeric Powder, Red Chilli, Cardamom, Cinnamon, Fennel, Spice mix (Cumin, Salt, Ginger, Mud Seeds, Fenugreek Leaves, Black Pepper & Clove), Salt and Sugar",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063220578",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

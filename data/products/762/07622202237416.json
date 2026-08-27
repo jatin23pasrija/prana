@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202237416",
+  "barcode_printed": "7622202237416",
+  "barcode_format": "EAN-13",
+  "name": "Bournvita 13.4g",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "BIOTIN 24%, VITAMIN B2 (RIBOFLAVINJ 15%, PANTOTHENIC ACID) 25%, VITAMIN B6 (PYRIDOXINE) 21%, VITAMIN B9 (FOLIC ACID) 30%, VITAMIN B12 26% 202 1804 CODE: PKD: W51008 AS USE BY: 08/10/2025 05/07/2026 20%, VITAMIN BS Dist. Kolhap &quot;APPROXIMATE VALUES &quot;3serv (Recomme children (7 PRODU satisfied the pack Suggesti Mimba Packaging M Reg. No.: PR STORAGE CON Rs.0.37 M.R.P. Rs. 7 &quot;622202 237416 &gt; Ne",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202237416",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

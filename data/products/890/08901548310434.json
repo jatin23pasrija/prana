@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901548310434",
+  "barcode_printed": "8901548310434",
+  "barcode_format": "EAN-13",
+  "name": "Delivery Nutty Almond Cookies",
+  "brand": "sugar-free",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Oats - Flour & Flakes (30%), Wheat Flour, Sweetener (INS 965(i), INS 960), Bakery Shortening (Vegetable fat - Palm /Palmolein oil and palm kernel oil based), Sweet Almond Bits (5%), Butter, Milk Solids (Skimmed Milk Powder), Fructo oligosaccharides (3%), Raising agents (INS 503(ii), INS 500(ii)), Salt, Emulsifiers (INS 322(i), INS 472e). CONTAINS ADDED NATURE IDENTICAL AND ARTIFICIAL (MILK) FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901548310434",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058015942",
+  "barcode_printed": "8901058015942",
+  "barcode_format": "EAN-13",
+  "name": "Nescafe Sunrise Coffee",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Coffee beans (60%) & Chicory Instant Coffee - Chicory Mixture made from blends of Coffee and Chicory. Coffee 60% Chicory 40%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058015942",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

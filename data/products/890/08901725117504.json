@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725117504",
+  "barcode_printed": "8901725117504",
+  "barcode_format": "EAN-13",
+  "name": "No Rulz Curlz masala",
+  "brand": "bingo",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 496,
+        "protein_g": 6.1,
+        "carbohydrate_g": 64.3,
+        "sugars_g": 3.9,
+        "fat_g": 24.7,
+        "saturated_fat_g": 11.4,
+        "trans_fat_g": 0.01,
+        "sodium_mg": 1136.2
+      }
+    }
+  ],
+  "ingredients_raw": "DEGERMED CORN GRITS AND SEASONING {REFINED PALMOLEIN, *SPICES AND CONDIMENTS, IODIZED SALT, SUGAR, ONION POWDER, MALTODEXTRIN, NATURE IDENTICAL FLAVOURING SUBSTANCES, BLACK SALT, MILK SOLIDS, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, GARLIC POWDER (0.2%) AND HYDROLYZED VEGETABLE PROTEIN}. *USED AS FLAVOURING AGENTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725117504",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

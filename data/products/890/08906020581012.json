@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020581012",
+  "barcode_printed": "8906020581012",
+  "barcode_format": "EAN-13",
+  "name": "Coconut Chutney",
+  "brand": "id",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30 g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 58.23,
+        "protein_g": 0.53,
+        "carbohydrate_g": 3.53,
+        "sugars_g": 0.61,
+        "fat_g": 4.67,
+        "saturated_fat_g": 0.8,
+        "sodium_mg": 91.55
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020581012",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

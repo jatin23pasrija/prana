@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08904150208403",
+  "barcode_printed": "8904150208403",
+  "barcode_format": "EAN-13",
+  "name": "Nutty Gritties Omani Dates",
+  "brand": "nutty-gritties",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "35g",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 101.2,
+        "protein_g": 0.84,
+        "carbohydrate_g": 25.9,
+        "sugars_g": 22.4,
+        "fat_g": 0.14,
+        "saturated_fat_g": 0,
+        "fibre_g": 2.8,
+        "sodium_mg": 0.7
+      }
+    }
+  ],
+  "ingredients_raw": "Dates",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904150208403",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

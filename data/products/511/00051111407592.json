@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "00051111407592",
+  "barcode_printed": "0051111407592",
+  "barcode_format": "EAN-13",
+  "name": "Birthday Cake Protein Oats",
+  "brand": "freaking-protein-oats",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 pouch (77 g)",
+        "quantity": {
+          "value": 77,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 280,
+        "protein_g": 22,
+        "carbohydrate_g": 40,
+        "sugars_g": 3,
+        "fat_g": 6,
+        "saturated_fat_g": 1.5,
+        "fibre_g": 20,
+        "sodium_mg": 200
+      }
+    }
+  ],
+  "ingredients_raw": "WHOLE GRAIN ROLLED OATS, PLANT PROTEIN BLEND (PEA PROTEIN, FAVA BEAN PROTEIN ISOLATE, BROWN RICE PROTEIN CONCENTRATE), CAKE FLAVORING POWDER (SWEET CREAM POWDER, MAPLE SUGAR CRYSTALS), POWDERED ORGANIC DATES, MONK FRUIT EXTRACT, CHIA SEEDS, FLAX SEEDS, CALCIUM, VITAMIN D, IRON, POTASSIUM CONTAINS: DAIRY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0051111407592",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

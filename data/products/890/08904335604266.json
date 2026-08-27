@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335604266",
+  "barcode_printed": "8904335604266",
+  "barcode_format": "EAN-13",
+  "name": "Yogabar Whey Concentrate",
+  "brand": "yogabar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (35 g)",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 134,
+        "protein_g": 27,
+        "carbohydrate_g": 2.3,
+        "sugars_g": 2.2,
+        "fat_g": 1.9,
+        "saturated_fat_g": 0.9,
+        "fibre_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335604266",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

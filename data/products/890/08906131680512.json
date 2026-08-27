@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131680512",
+  "barcode_printed": "8906131680512",
+  "barcode_format": "EAN-13",
+  "name": "Date Powder",
+  "brand": "slurrp-farm",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "100% Arabian dates (dried) Allergen Note: Made in a facility that processes wheat and nuts. May contain trace elements. per g) How It's Made: Date powder is made with pitted, dehydrated Arabian dates that are ground into a fine powder. How To Store: Keep it in a cool, dry place. TRAL Q +91 93183 18000 WhatsApp us for 6",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131680512",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

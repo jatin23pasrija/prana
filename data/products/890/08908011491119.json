@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08908011491119",
+  "barcode_printed": "8908011491119",
+  "barcode_format": "EAN-13",
+  "name": "Walnuts",
+  "brand": "proventus-retail-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 685,
+        "protein_g": 17.31,
+        "carbohydrate_g": 10.36,
+        "fat_g": 63.84,
+        "fibre_g": 6.75,
+        "sodium_mg": 218
+      }
+    }
+  ],
+  "ingredients_raw": "whole walnut",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908011491119",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

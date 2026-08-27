@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906165788581",
+  "barcode_printed": "8906165788581",
+  "barcode_format": "EAN-13",
+  "name": "Biozyme 100% Whey Gold",
+  "brand": "muscleblaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (35 g)",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 135.19,
+        "protein_g": 26,
+        "carbohydrate_g": 4.7,
+        "sugars_g": 0.98,
+        "fat_g": 1.26,
+        "saturated_fat_g": 0.79
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906165788581",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

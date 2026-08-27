@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017778849",
+  "barcode_printed": "8908017778849",
+  "barcode_format": "EAN-13",
+  "name": "Pistachios Roasted & Salted",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 630,
+        "energy_kj": 2638,
+        "protein_g": 21.5,
+        "carbohydrate_g": 18.7,
+        "sugars_g": 6.2,
+        "fat_g": 52.2,
+        "saturated_fat_g": 7.2,
+        "fibre_g": 9.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017778849",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

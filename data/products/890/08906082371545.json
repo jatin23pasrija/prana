@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082371545",
+  "barcode_printed": "8906082371545",
+  "barcode_format": "EAN-13",
+  "name": "Tender Coconut",
+  "brand": "nic",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 ml",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 132,
+        "energy_kj": 553,
+        "protein_g": 3.7,
+        "carbohydrate_g": 13.2,
+        "sugars_g": 5.6,
+        "fat_g": 7.1,
+        "saturated_fat_g": 5.2,
+        "trans_fat_g": 0,
+        "fibre_g": 3.8,
+        "sodium_mg": 52.5
+      }
+    }
+  ],
+  "ingredients_raw": "Milk, Tender Coconut Pulp and Fructose Oligo Saccharide (FOS). Allergen Information: Contains Milk. May Contain Traces of Nuts. Contains Oligofructose. Contains Naturally Occuring Sugars In Milk. NO ADDED SUCROSE. FOS MAY HAVE LAXATIVE EFFECT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082371545",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

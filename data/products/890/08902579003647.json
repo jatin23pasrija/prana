@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579003647",
+  "barcode_printed": "8902579003647",
+  "barcode_format": "EAN-13",
+  "name": "TOFFEE CARAMEL MILK",
+  "brand": "smoodh",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 85,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 88.2,
+        "protein_g": 2.1,
+        "carbohydrate_g": 15.9,
+        "sugars_g": 15,
+        "fat_g": 1.8,
+        "saturated_fat_g": 1.2,
+        "sodium_mg": 31.28
+      }
+    }
+  ],
+  "ingredients_raw": "MILK SOLIDS*, SUGAR, DEXTROSE, FOOD COLOUR (INS 150c) (0.92%), MALT EXTRACT, EMULSIFIERS AND STABILIZERS (INS 460(i), INS 471, INS 466, INS 407, INS 340, INS 452], NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES (CARAMEL, COCOA, TOFFEE, ARTIFICIAL FLAVOURING SUBSTANCE (VANILLA) AND IODISED SALT. *(EQUIVALENT TO 90% M/M DOUBLE TONED MILK)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579003647",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

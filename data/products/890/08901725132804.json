@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725132804",
+  "barcode_printed": "8901725132804",
+  "barcode_format": "EAN-13",
+  "name": "Dark Fantasy Sandwich Crème",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 480,
+        "protein_g": 5.9,
+        "carbohydrate_g": 72.7,
+        "sugars_g": 36.6,
+        "fat_g": 18.4,
+        "saturated_fat_g": 9.1,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725132804",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906070320135",
+  "barcode_printed": "8906070320135",
+  "barcode_format": "EAN-13",
+  "name": "Khatta Meetha",
+  "brand": "haldiram",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "energy_kj": 2092,
+        "protein_g": 10.68,
+        "carbohydrate_g": 38.56,
+        "sugars_g": 3.2,
+        "fat_g": 35.68,
+        "saturated_fat_g": 11.68,
+        "sodium_mg": 620
+      }
+    }
+  ],
+  "ingredients_raw": "Gram Pulses, Lentils, Flaked Rice, Sago, Corn Chips, Peanuts, Edible Vegetable Oil, Curry Leaves, Red Chilli, Sugar, lodised Salt, Spices & Lemon Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906070320135",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151017",
+  "barcode_printed": "8901063151017",
+  "barcode_format": "EAN-13",
+  "name": "BRITANNIA Digestive",
+  "brand": "al-sallan-food-industries-co",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 225,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat flour (33%), whole wheat flour (28%), palm oil, sugar, wheat bran (5%), ammonium bicarbonate & sodium bicarbonate (leavening), high maltose syrup, salt, whole milk powder, invert syrup, malt extract, soya lecithin, sodium stearoyl 2-lactylate & mono and di glycerides of fatty acids (emulsifiers), malic acid and tartaric acid (acidity regulators), artificial flavours (cereal & butter), sodium meta bisulphite (dough conditioner)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151017",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003636146",
+  "barcode_printed": "8908003636146",
+  "barcode_format": "EAN-13",
+  "name": "Tamarind",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 325.12,
+        "carbohydrate_g": 76.33,
+        "sugars_g": 35.61,
+        "fat_g": 0.76,
+        "saturated_fat_g": 0.45,
+        "fibre_g": 6.7,
+        "sodium_mg": 3.21
+      }
+    }
+  ],
+  "ingredients_raw": "Tamarind",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003636146",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016531117",
+  "barcode_printed": "8908016531117",
+  "barcode_format": "EAN-13",
+  "name": "Kailas Bhel Farali Potato Chivda",
+  "brand": "kailas-bhel",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato (54%), Peanuts, Pulverized Sugar, Cashew nuts (5%), Raisins (7%), Desiccated Coconut (4%), Chillies, Edible Vegetable Oil (Refined Palm Oil, Pink Salt, Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016531117",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

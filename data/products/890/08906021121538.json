@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021121538",
+  "barcode_printed": "8906021121538",
+  "barcode_format": "EAN-13",
+  "name": "Gunger pickle",
+  "brand": "aachi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 225,
+        "protein_g": 2.2,
+        "carbohydrate_g": 22.07,
+        "sugars_g": 13,
+        "fat_g": 14.2,
+        "saturated_fat_g": 2.67,
+        "sodium_mg": 5120
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021121538",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

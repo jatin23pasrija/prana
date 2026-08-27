@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906108410333",
+  "barcode_printed": "8906108410333",
+  "barcode_format": "EAN-13",
+  "name": "Ancient grains pancake mix",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 404,
+        "protein_g": 16.22,
+        "carbohydrate_g": 73.93,
+        "sugars_g": 2.1,
+        "fat_g": 4.85,
+        "saturated_fat_g": 0.1,
+        "fibre_g": 12.6,
+        "sodium_mg": 200
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906108410333",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

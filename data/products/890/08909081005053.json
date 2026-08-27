@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081005053",
+  "barcode_printed": "8909081005053",
+  "barcode_format": "EAN-13",
+  "name": "8909081005053",
+  "brand": "dark-fantasy",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 471.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "CHOCO CRÈME (38.0%) {SUGAR, REFINED PALMOLEIN, REFINED PALM OIL, COCOA SOLIDS, EMULSIFIER [LECITHIN (FROM SOYABEAN)], NATURE IDENTICAL FLAVOURING SUBSTANCES (CHOCOLATE), ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)}, MAIDA (REFINED WHEAT FLOUR), HYDROGENATED VEGETABLE OIL, SUGAR, INVERT SYRUP, LIQUID GLUCOSE, RAISING AGENTS [503(ii), 500(ii), 450(i)], COCOA SOLIDS (0.7%), BUTTER, MILK SOLIDS, IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES (*MILK CHOCOLATE), COLOURS (150c, 150d), EMULSIFIERS PKD.: [LECITHIN (FROM SOYABEAN), MONO AND DIGLYCERIDES OF FATTY ACIDS (FROM PALM OIL)], ARTIFICIAL FLAVOURING SUBSTANCES (MILK, VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081005053",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

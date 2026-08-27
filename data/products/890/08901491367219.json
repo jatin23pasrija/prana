@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491367219",
+  "barcode_printed": "8901491367219",
+  "barcode_format": "EAN-13",
+  "name": "kurkure",
+  "brand": "kurkure",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 522,
+        "protein_g": 6,
+        "carbohydrate_g": 56.4,
+        "sugars_g": 1.4,
+        "fat_g": 33.6,
+        "saturated_fat_g": 7.4,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Cereal Products (67%) (Rice Meal (44%), Corn Meal (23%)), Edible Vegetable Oil (Rice Bran Oil, Sesame Oil), *Seasoning Spices & Condiments, lodised Salt, Sugar, Flavour (Natural and Nature Identical Flavouring Substances), Black Salt, Tomato Powder, Acidity Regulators (330, 296, 334), Colour (160c), Maltodextrin), Gram Meal (0.4%). As Flavouring Agent. &quot;Contains Onion and Garlic LERGEN ADVICE: Contains Sulphite.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491367219",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058022216",
+  "barcode_printed": "8901058022216",
+  "barcode_format": "EAN-13",
+  "name": "Veg Atta Noodles",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 435,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles: Wheat flour (Attal (86.2%, Palm oil, lodized salt, Wheat-gluten, Thickeners (508 & 412), Humectants 1451 & 452fill and Acidity regulators 50 8500 (i). Masala &quot;TASTEMAKER®: Mixed Spices (19.5%) (Onion powder, Coriander powder, Red chilli powder, Tamer powder Garlic powder, Cumin powder Aniseed powder nger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder, Nutmeg powder), Hydrolyzed foundnut protein, Wheat flour (Atta) Dehydrated vegetables (13.6%) (Carrot bits (7.3%), Green peas (6.3%]), Toasted onion powder (Onion (10.1%) on oill, Sugar, Starch, Palm oil, fodized salt, Thickener Acidity rulator (330), Flavour enhancer (635), Toasted onion flakes (Onion (0.3%), Corn oil), Cotour (150d), Wheat gluten and Mineral.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058022216",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

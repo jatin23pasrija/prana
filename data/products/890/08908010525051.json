@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010525051",
+  "barcode_printed": "8908010525051",
+  "barcode_format": "EAN-13",
+  "name": "Maruti Whole Wheat Brown Bread",
+  "brand": "maruti",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat Flour (Atta), Refined Wheat Flour (Maida), Sugar, Yeast, lodized Salt, Soya Flour, Corn Flour, Wheat Gluten, Edible Vegetable Palmolein Oil, Calcium Propionate (282), Acidty Regulator (260), Emulsifiers (481, 472), Antioxidant (300), Improvers (1100, 1104,), Vitamin c.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010525051",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

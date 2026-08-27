@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "04021912006023",
+  "barcode_printed": "4021912006023",
+  "barcode_format": "EAN-13",
+  "name": "Der Hanftrunk",
+  "brand": "cannabia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 330,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "eau, malt, orge, sucre, chanvre, houblon",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4021912006023",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08906113491587",
+  "barcode_printed": "8906113491587",
+  "barcode_format": "EAN-13",
+  "name": "Ragi bites Choco Wafers",
+  "brand": "tata-soulful",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "carbohydrate_g": 69,
+        "sugars_g": 30.2,
+        "fat_g": 7.1,
+        "fibre_g": 4.5,
+        "sodium_mg": 205
+      }
+    }
+  ],
+  "ingredients_raw": "MIXED CEREAL FLOURS (38.1%) (WHOLE WHEAT FLOUR (ATTA), MILLETS (16.7%) [JOWAR, RAGI (0.4%)), SUGAR, INTERESTERIFIED VEGETABLE FAT, MILK SOLIDS, REFINED PALM OIL, COCOA POWDER (2.8%), HYDROGENATED VEGETABLE OIL, STARCH, EMULSIFIER [INS 322(i)], FLAVOURING AGENTS [NATURE-IDENTICAL FLAVOURING SUBSTANCES, NATURAL FLAVOURING SUBSTANCES, NATURAL FLAVOUR], IODISED SALT, RAISING AGENTS [INS 500G), INS 503], DRIED BAKER'S YEAST, DOUGH CONDITIONER (INS 223).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906113491587",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

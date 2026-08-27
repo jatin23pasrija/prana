@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "04901412250006",
+  "barcode_printed": "4901412250006",
+  "barcode_format": "EAN-13",
+  "name": "prolyte ors",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Each pack (200 ml) Contains Sodium Chloride IP..........0.52 g Potassium Chloride IP.......0.30 g Sodium Citrate IP...... ....0.58 g Dextrose Anhydrous IP........2.70 g Excipients.... ...q.s. DOSE: The dose should be appropriately adjusted to patient's requirement for maintenance and replacement of fluids.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4901412250006",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725008307",
+  "barcode_printed": "8901725008307",
+  "barcode_format": "EAN-13",
+  "name": "B Natural Select Tender Coconut Water",
+  "brand": "b-natural",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Concentrated Tender Coconut Water (9.2%) [Tender Coconut Water, Preservative (202)]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725008307",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

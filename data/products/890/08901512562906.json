@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512562906",
+  "barcode_printed": "8901512562906",
+  "barcode_format": "EAN-13",
+  "name": "Act II Caramel Bliss",
+  "brand": "act-ii",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 425,
+        "protein_g": 4,
+        "carbohydrate_g": 84,
+        "sugars_g": 37,
+        "fat_g": 9,
+        "saturated_fat_g": 4,
+        "fibre_g": 4,
+        "sodium_mg": 200
+      }
+    }
+  ],
+  "ingredients_raw": "Liquid Glucose, Popped Corn (25.9%), Sugar, Table Butter, Caramel 1 (0.7%), lodized Salt, Raising Agent (Sodium Bicarbonate), Emulsifier (Lecithin), Refined Edible Palmolein Oil (TBHQ), Nature Identical Flavour (Caramel Butter) & Beta Carotene.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512562906",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

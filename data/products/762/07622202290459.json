@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202290459",
+  "barcode_printed": "7622202290459",
+  "barcode_format": "EAN-13",
+  "name": "Dairy Milk Silk Hazelnut",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 566,
+        "protein_g": 8.7,
+        "carbohydrate_g": 51.4,
+        "sugars_g": 46.6,
+        "fat_g": 36.8,
+        "saturated_fat_g": 19.2,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 104
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202290459",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117360988",
+  "barcode_printed": "8906117360988",
+  "barcode_format": "EAN-13",
+  "name": "Country Delight Rava Idli Batter",
+  "brand": "country-delight",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 135,
+        "protein_g": 5.6,
+        "carbohydrate_g": 26.3,
+        "sugars_g": 0.71,
+        "fat_g": 1.02,
+        "saturated_fat_g": 0.68,
+        "sodium_mg": 127.5
+      }
+    }
+  ],
+  "ingredients_raw": "RO Water, Idli Rava (35%), Urad Dal, Fenugreek Seeds, Rock salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117360988",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

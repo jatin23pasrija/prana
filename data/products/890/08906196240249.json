@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906196240249",
+  "barcode_printed": "8906196240249",
+  "barcode_format": "EAN-13",
+  "name": "HRX Vanilla Protein Shake",
+  "brand": "hrx",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (200 ml)",
+        "quantity": {
+          "value": 200,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 195,
+        "protein_g": 25,
+        "carbohydrate_g": 17,
+        "sugars_g": 12,
+        "fat_g": 4,
+        "sodium_mg": 638
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906196240249",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

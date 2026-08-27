@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001056904",
+  "barcode_printed": "8906001056904",
+  "barcode_format": "EAN-13",
+  "name": "Deal Tadka",
+  "brand": "mothers-recipe",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Pigeon Pea (6.5%), Onion, Cottonseed Oil, Yellow Lentil (2.3%), Bengal Gram (2.3%), Garlic, Black Gram Lentil (2%), Red Lentil (2%), Tomato, Ginger, Salt, Ghee (Clarified Butter) (Milk), Green Chilli, Curry Leaf and Spices (Coriander, Cumin, Chilli, Turmeric, Black Pepper, Mustard, Asafoetida). Allergen Information: Contains Milk, Mustard. For allergen see ingredients in bold. May Contain Soy, Sesame, Celery, Almonds, Cashews, Pistachios, Coconut, Peanuts, Wheat, Gluten, Sulphites.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001056904",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "04712211212221",
+  "barcode_printed": "4712211212221",
+  "barcode_format": "EAN-13",
+  "name": "Herbalife Formula 1 Nutrional Shake Mix",
+  "brand": "herbalife",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 376.8,
+        "protein_g": 36,
+        "carbohydrate_g": 42,
+        "sugars_g": 36,
+        "fat_g": 7.2,
+        "saturated_fat_g": 1.6,
+        "fibre_g": 12,
+        "sodium_mg": 492
+      }
+    }
+  ],
+  "ingredients_raw": "Soy Protein Isolate, Sugar, Fructose Powder, Whey Protein Concentrate, Lecithin Powder, Oat Fiber, Stabilizer (Guar gum - INS. 412), Inulin, Bulking Agent [Cellulose Powder - INS. 460 (i)], Soyabean Oil Powder, Com Powder, Calcium Caseinate, Potassium Chloride, Artificial vanilla flavouring substances, Diluent [Dicalcium Phosphate - INS. 341 (i)], Minerals##, Sodium Caseinate, Vitamins&quot;, Psyllium Husk Powder, Zingiber officinale Rhizome Powder, Emulsifier (Glyceryl monostearate - INS 471), Sweetener (Sucralose - INS 955), Stabilizer [Dipotassium hydrogen phosphate-INS 340 (ii)], Papain Powder, Antioxidant (Ascorbyl palmitate - INS 304).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4712211212221",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

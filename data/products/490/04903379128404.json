@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "04903379128404",
+  "barcode_printed": "4903379128404",
+  "barcode_format": "EAN-13",
+  "name": "Royce Potatochip Chocolate Original",
+  "brand": "royce",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 190,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato chip (Potato, Edible vegetable oil (Palm oil, Rice oil), Salt), Sugar, Cocoa butter, Cocoa solids, Milk solids, Emulsifier (Soy lecithin). CONTAINS MILK AND SOY. MAY CONTAIN NUT. Potato chip 40% Manufactured by: ROYCE' CONFECT CO., LTD, 640-15 Bitoe, Tobetsu-cho, Ishikari-gun, Hokkaido 061-3775 Japan Consumer Contact Details: Tel. no.: +91 99200 64464, Email: % % Made in Japan % % % Imported by: Burgundy Hospitality Pvt. Ltd., Raheja Chambers. Linking Road & Main Avenue, Santac EXPIRYDATE 54, India 10SEP 2026 fssai Lic. No. 10012022001145 fat) cent a cool and dry place (25°C or below) S FROM DATE OF MANUFACTURE 26/03/2026 2606 Rs. 1895. 00 (Incl. of all taxes) 210115-D1",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4903379128404",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725134723",
+  "barcode_printed": "8901725134723",
+  "barcode_format": "EAN-13",
+  "name": "Bounce Choco Twist",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 82,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 467,
+        "protein_g": 6.8,
+        "carbohydrate_g": 74.3,
+        "sugars_g": 36.9,
+        "fat_g": 15.9,
+        "saturated_fat_g": 7.8,
+        "trans_fat_g": 0.1
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR, SUGAR, REFINED PALM OIL, INVERT SYRUP, RAISING AGENTS [INS 503(ii), INS 500(ii), INS 450(i)], COCOA SOLIDS (0.5%), EDIBLE COMMON SALT, EMULSIFIERS (INS 322(i), INS 435), MILK SOLIDS AND STARCH. CONTAINS PERMITTED NATURAL COLOUR(S) (INS 150c, INS 150d) AND SYNTHETIC FOOD COLOUR(S) (INS 122 AND ADDED FLAVOUR(S) (NATURE IDENTICAL FLAVOURING SUBSTANCES CHOCOLATE, NUT AND ARTIFICIAL FLAVOURING SUBSTANCES CHOCOLATE, VANILLA MILK)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725134723",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

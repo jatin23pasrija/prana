@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076133289",
+  "barcode_printed": "8906076133289",
+  "barcode_format": "EAN-13",
+  "name": "protein chips Korean Kimchi",
+  "brand": "the-bakers-dozen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Multi Grain Bend (Urad Dal, Jowar, Chickpea,Soya Protein isolate, Tapioca Starch, Rice Bran Oil, Spices and Condiments (Red Chilli Powder, Green Chilli Powder, Cumin, Caraway Seed, Ginger, Nutmeg, Clove, Cinnamon) Dried Vegetable Powder (Garlic & Onion), Soya Sauce Powder, Salt, Citric Acid",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076133289",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010213095",
+  "barcode_printed": "8908010213095",
+  "barcode_format": "EAN-13",
+  "name": "8908010213095",
+  "brand": "makino",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 510,
+        "protein_g": 7,
+        "carbohydrate_g": 64,
+        "sugars_g": 7,
+        "fat_g": 25,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 0,
+        "fibre_g": 7,
+        "sodium_mg": 590
+      }
+    }
+  ],
+  "ingredients_raw": "Com 68%), Edible Vegetable Oil (Palmolein Oil / Corn Oil), PADIa Chilli, Beet Root Powder, Sugar, Salt, Flavouring, Papika Heros & Spices (Garlic & Curry Powder), Anticaking Agent [Tricalcium Phosphate (INS 341iii)]) Silicon Dioxide (INS 551)], Natural Sweetener (Steviol Glycosides (INS 960), 0.01%). CONTAINS ADDED FLAVOURS, NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES (Sweet Chilli Pepper) ALLERGEN: CONTAINS SOYA PRODUCTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010213095",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

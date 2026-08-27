@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08904089993807",
+  "barcode_printed": "8904089993807",
+  "barcode_format": "EAN-13",
+  "name": "Heritage A-One Spiced Buttermilk",
+  "brand": "heritage",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 21.8,
+        "protein_g": 1.2,
+        "carbohydrate_g": 2,
+        "fat_g": 1,
+        "saturated_fat_g": 0.05,
+        "sodium_mg": 205
+      }
+    }
+  ],
+  "ingredients_raw": "Pasteurised Water, Milk Solids (Curd), Edible Common Salt, Black Salt, Spices and condiments.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904089993807",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

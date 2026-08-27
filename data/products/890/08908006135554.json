@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08908006135554",
+  "barcode_printed": "8908006135554",
+  "barcode_format": "EAN-13",
+  "name": "Moraz Pineapple Crush",
+  "brand": "moraz",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 228.46,
+        "protein_g": 0.1,
+        "carbohydrate_g": 60.18,
+        "sugars_g": 48.4,
+        "fat_g": 0.23,
+        "saturated_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, WATER, PINEAPPLE PULP(35%), THICKENER (INS-440), BUFFERING AGENT(INS-331)&ACIDITY REGULATOR(INS-330).CONTAINS PERMITTED SYNHETIC FOOD COLOR(INS-102). CONTAINS NATURAL, NATURE-IDENTICAL, ARTIFICIAL FLAVOURINGSUBSTANCES (PINEAPPLE). CONTAINS PERMITTED CLASS II PRESERVATIVES (INS-224,INS-211).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908006135554",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "00748927066692",
+  "barcode_printed": "0748927066692",
+  "barcode_format": "EAN-13",
+  "name": "Whey",
+  "brand": "gold-standard",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30.4 g",
+        "quantity": {
+          "value": 30.4,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 117,
+        "protein_g": 24,
+        "carbohydrate_g": 3,
+        "fat_g": 1,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "ingredients_raw": "Protein Blend (93%) (Whey Protein Isolate, Whey Protein Concentrate, Hydrolysed Whey Protein) (Emulsifier: INS 3221), Cocoa Powder (Processed With Alkali), Artificial Flavours (Chocolate, Vanilla), Sweetener (INS 950).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0748927066692",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

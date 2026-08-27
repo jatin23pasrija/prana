@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906007612913",
+  "barcode_printed": "8906007612913",
+  "barcode_format": "EAN-13",
+  "name": "Kwality Kreamy Magic",
+  "brand": "kwality",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Water, Sugar, Refined Vegetable (Palm) Oil, Milk Solids, Yeast, lodised Salt, Class II Preservative (INS 282), Acidity Regulator (INS 260), Emulsifier (INS 481), Improvers (INS 170(1), INS 1100) & Antioxidant (INS 300). Nature Identical Permitted Flavour (Strawberry). Ingredients (Cream): Hydrogenated Vegetable (Palm) Fat, Icing Sugar, Strawberry Pulp (6%), Propylene Glycol, Emulsifier (INS 471), Stabilizing Agent (INS 440), Buffering Agent (INS 332), Citric Acid (INS 330), Permitted Class II Preservatives (INS 224, INS 202), Permitted Food Colours (INS 127, INS 122). Nature Identical Permitted Flavour (Strawberry).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906007612913",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

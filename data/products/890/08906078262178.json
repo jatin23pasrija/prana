@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906078262178",
+  "barcode_printed": "8906078262178",
+  "barcode_format": "EAN-13",
+  "name": "Bourbo",
+  "brand": "mrs-bector-s-cremica",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR (30%), EDIBLE VEGETABLE OIL (PALM), COCOA SOLDS (1.8%). MILK SOLIDS. MAIZE STARCH, RAISING AGENTS [INS 503 (ii), INS 500 (ii)], EMULSIFIER (INS 322), IODISED SAL NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (CHOCOLATE, VANILLA), NATURAL COLOUR (INS 150a, INS 150d). CONTAINS WHEAT, MILK, SOY. MAY CONTAINS SULPHITE & NUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906078262178",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

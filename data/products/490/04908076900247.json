@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "04908076900247",
+  "barcode_printed": "4908076900247",
+  "barcode_format": "EAN-13",
+  "name": "High Protein Peanut Butter",
+  "brand": "pintola",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 583,
+        "protein_g": 30,
+        "carbohydrate_g": 27,
+        "sugars_g": 15,
+        "fat_g": 38,
+        "saturated_fat_g": 7,
+        "fibre_g": 6.2,
+        "sodium_mg": 14
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4908076900247",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

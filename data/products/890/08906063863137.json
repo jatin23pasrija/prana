@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906063863137",
+  "barcode_printed": "8906063863137",
+  "barcode_format": "EAN-13",
+  "name": "Mahalakshmi Ritkawali",
+  "brand": "mahalakshmi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 583.5,
+        "protein_g": 9.92,
+        "carbohydrate_g": 37.7,
+        "fat_g": 44.7
+      }
+    }
+  ],
+  "ingredients_raw": "Gram Split Flour, Rice Flakes, Refired Edible Vegetable Oil, Peanuts, Chilli Powder, Turmeric Powder & Iodised Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906063863137",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

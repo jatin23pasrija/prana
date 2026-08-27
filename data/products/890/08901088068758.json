@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088068758",
+  "barcode_printed": "8901088068758",
+  "barcode_format": "EAN-13",
+  "name": "Saffola Masala Veggie Twist Oats",
+  "brand": "saffola",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 38,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 376,
+        "protein_g": 8.8,
+        "carbohydrate_g": 69.2,
+        "sugars_g": 5.1,
+        "fat_g": 9.9,
+        "saturated_fat_g": 3.4,
+        "fibre_g": 12.4,
+        "sodium_mg": 2283
+      }
+    }
+  ],
+  "ingredients_raw": "Bled Oats (73.6%), Maltodextrin, lodised Salt, Dried Vegetables Carot (1.6%). Green Peas (1.15%), French Beans (0.7%), Onion Pader Sugar, Desiccated Coconut Powder, Spice & Condiments 30%) (Chilly. Turmeric, Ginger, Cardamom, Cinnamon, Curry ves Garlic), Milk Solids, Tomato Powder (1.2%), Hydrolysed hrtable Protein, Yeast Extract, Acidity Regulator (INS 330), Rovour Enhancers (INS 631, INS 627), Colour (INS 100), are-identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088068758",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080604300",
+  "barcode_printed": "8906080604300",
+  "barcode_format": "EAN-13",
+  "name": "zero sparkling cranberry lime",
+  "brand": "paper-boat",
+  "category": "water",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, SWEETENERS (968, 955), FLAVOURS (NATURAL AND NATURE - IDENTICAL FLAVOURING SUBSTANCES), ACIDITY REGULATORS (330, 331, PRESERVATIVE (211), IODISED SALT, FOOD COLOURS (129, 122, 133).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080604300",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906088702398",
+  "barcode_printed": "8906088702398",
+  "barcode_format": "EAN-13",
+  "name": "Colombian Brew Coffee 3 in 1 Premix Nutty Hazelnut",
+  "brand": "colombian-brew-coffee",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 91,
+        "protein_g": 1,
+        "carbohydrate_g": 16.5,
+        "sugars_g": 11,
+        "fat_g": 2.1,
+        "saturated_fat_g": 1.9,
+        "fibre_g": 1,
+        "sodium_mg": 18
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids, Sugar, Soluble Coffee Powder, Dried Glucose Syrup, Maltodextrin, Coconut Fat, Flavourings, Stabilizer (INS 339(ii),INS 339(iii),E340), Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906088702398",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

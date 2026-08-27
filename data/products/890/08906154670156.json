@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906154670156",
+  "barcode_printed": "8906154670156",
+  "barcode_format": "EAN-13",
+  "name": "Tomato Pickle",
+  "brand": "kh-pickle",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Tomato Pieces, Edible Common Salt, Rice Bran Oil, Potable Water, Tamarind Extract, Asafoetida Spices & Condiments (chilli Powder Fenugreek Powder, Turmeric Powder, Mustard Seeds) Curry Leaves, Dry Chilli, Block Gram, Bengal Gram Acidity Regulator (INS 260, INS 330, Antioxidant (Ins 319)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906154670156",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

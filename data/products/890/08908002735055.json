@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002735055",
+  "barcode_printed": "8908002735055",
+  "barcode_format": "EAN-13",
+  "name": "Mik bread",
+  "brand": "golden-bite",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 252,
+        "energy_kj": 1055,
+        "protein_g": 7.6,
+        "carbohydrate_g": 52,
+        "sugars_g": 20.5,
+        "fat_g": 1.5,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0.1
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour, Water, Vegetable Oil (Ram), Edible Common Salt, Milk, Class II Preservative (282), Acidity Regular (260), 481(1), Antioxidant (300), Improver (1100).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002735055",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151234214",
+  "barcode_printed": "8906151234214",
+  "barcode_format": "EAN-13",
+  "name": "chickpea popped chips",
+  "brand": "snackible",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 120.87,
+        "protein_g": 3.2,
+        "carbohydrate_g": 21.05,
+        "sugars_g": 1.14,
+        "fat_g": 2.6,
+        "saturated_fat_g": 0.8,
+        "fibre_g": 2.34,
+        "sodium_mg": 299.19
+      }
+    }
+  ],
+  "ingredients_raw": "Chickpeas, rice, potato, starch, maltodextrin, salt, sugar, dehydrated vegetable powder (garlic, onion). spices and spices extract, herbs (oregano), whole milk powder, cheese powder, sodium salt [E262)]. natural and nature identical flavouring substances, acidity regulator (E330), anti-caking agent [E551. E341()], edible vegetable oil (sunflower oil).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151234214",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064651122",
+  "barcode_printed": "8906064651122",
+  "barcode_format": "EAN-13",
+  "name": "Peri Peri Dip",
+  "brand": "win-green-farms",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (35 g)",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 37.6,
+        "protein_g": 1.16,
+        "carbohydrate_g": 3.75,
+        "sugars_g": 1.75,
+        "fat_g": 2,
+        "saturated_fat_g": 1.12,
+        "trans_fat_g": 0,
+        "sodium_mg": 345.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064651122",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

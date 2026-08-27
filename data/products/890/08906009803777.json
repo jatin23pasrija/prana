@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009803777",
+  "barcode_printed": "8906009803777",
+  "barcode_format": "EAN-13",
+  "name": "Waffy - choco flavoured wafer roll",
+  "brand": "dukes",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 470.8,
+        "energy_kj": 1884,
+        "protein_g": 5.4,
+        "carbohydrate_g": 75.7,
+        "sugars_g": 47.1,
+        "fat_g": 16.5,
+        "saturated_fat_g": 7,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 116.1
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, REFINED WHEAT FLOUR, REFINED PALM OIL, COCOA SOLIDS, DEXTROSE, MILK SOLIDS, STARCH, EMULSIFIER (322) AND IODIZED SALT. CONTAINS PERMITTED NATURAL COLOUR (150d) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES-CHOCOLATE AND VANILLA),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009803777",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

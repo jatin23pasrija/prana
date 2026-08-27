@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764092282",
+  "barcode_printed": "8901764092282",
+  "barcode_format": "EAN-13",
+  "name": "Maaza",
+  "brand": "coca-cola",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "INGREDIENTS WATER, MANGO PULP (16.9%) SUGAR, ACIDITY REGULATORS (330, 331(iii)). ANTIOXIDANT (300), PRESERVATIVE (202). COLOUR (110) AND ADDED MANGO FLAVOURS (NATURAL, NATURE-IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764092282",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

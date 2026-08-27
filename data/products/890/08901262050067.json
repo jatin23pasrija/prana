@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262050067",
+  "barcode_printed": "8901262050067",
+  "barcode_format": "EAN-13",
+  "name": "Rosagolla",
+  "brand": "amul",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "57g",
+        "quantity": {
+          "value": 57,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 150,
+        "protein_g": 1,
+        "carbohydrate_g": 27,
+        "sugars_g": 25,
+        "fat_g": 3,
+        "saturated_fat_g": 2,
+        "trans_fat_g": 0,
+        "fibre_g": 1,
+        "sodium_mg": 5
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar Syrup (Sugar, Water), Indian Cottage Cheese (Pasturized Milk, Lactic Acid], Rose Water. Allergen Information; Contains Milk. May contain traces of nuts. Made in a facility that processes food containing other tree-nuts. Made trom mixed milk of Cow and Buffalo in approx. 50:50 proportion.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262050067",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

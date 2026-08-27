@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08907931000401",
+  "barcode_printed": "8907931000401",
+  "barcode_format": "EAN-13",
+  "name": "Garden Veggie Straws Sea salt",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 513.33,
+        "protein_g": 3.33,
+        "carbohydrate_g": 69.33,
+        "sugars_g": 4,
+        "fat_g": 24.67,
+        "saturated_fat_g": 2.33,
+        "sodium_mg": 750
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907931000401",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

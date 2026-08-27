@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009532981",
+  "barcode_printed": "8906009532981",
+  "barcode_format": "EAN-13",
+  "name": "RiteBite Nutrition Bar Nuts & Seeds",
+  "brand": "ritebite",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 110,
+        "protein_g": 4.2,
+        "carbohydrate_g": 20.8,
+        "sugars_g": 1.3,
+        "fat_g": 3.9,
+        "saturated_fat_g": 0.2,
+        "fibre_g": 3.9,
+        "sodium_mg": 55
+      }
+    }
+  ],
+  "ingredients_raw": "Nuts & Seeds Blend (34%) (Almond (7%) Cashew Nuts (3%), Watermelon Seeds (10%), Pumpkin Seeds (8%), Amaranth Seeds, Flaxseeds, Sesame Seeds, Chia Seeds), Cereals (20%) (Whole Grain Rolled Oats (11%), Brown Rice Crispy, Quinoa Crispy, Malitol, Dietary Fiber (10%)(Fructooligosacharide, Chicory Fiber Fiber, Oat Fiber), Black Currants, Edible Vegtable Oil (Hydrogenated) (High Oleic Sunflower Oil), Humectant (Glycerine), Cranberries, Emulsifier (Soy Lecithin), Binding Agent (Guar Gum), Tribasic Calcium Phosphate, Cinnamon Powder, Nutmeg Oleoresins, Salt And Citric Acid, Antioxidant (Vitamin C), Vitamin A, C, E. Contains Added Flavors (Natural And Nature Identical Flavor(S) (Vanilla & Almond Flavour)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009532981",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

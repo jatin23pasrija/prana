@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719301018",
+  "barcode_printed": "8901719301018",
+  "barcode_format": "EAN-13",
+  "name": "Parle G",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "FARRE DE BLÉ. SUCRE. HUiles végétales Comestibles Sirop invertiSEL BICARBONATE d ammonium (E503) LAit écrémé en poudre bicarbonate de soude (E500) Lecithine de soja E 322 | OU ESTERS De mon Et diglycerides et sodium stearoyl-2lactylate E471 et E481 saveur vanille et metabisulfite de sodium E223",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719301018",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

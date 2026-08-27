@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004400977",
+  "barcode_printed": "8904004400977",
+  "barcode_format": "EAN-13",
+  "name": "Indian Snacks Mixture",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 533,
+        "protein_g": 16.03,
+        "carbohydrate_g": 46.44,
+        "sugars_g": 0,
+        "fat_g": 31.49,
+        "saturated_fat_g": 11.39,
+        "fibre_g": 11.83,
+        "sodium_mg": 333.93
+      }
+    }
+  ],
+  "ingredients_raw": "Split Pulse Bengal Gram (Chana Dal), Refined Palmolein Oil, Bengal Gram Flour (Besan) (10%), Red Lentils (Masur Whole) (8%), Groundnut (Peanuts) (7%), Potato, Rice Flakes, Spinach, Iodised Salt, Red Chilli Powder, Acidity Regulator (INS 330), Black Salt, Black Pepper, Pipal, Coriander Powder, Dried Ginger Powder, Clove Powder, Cumin Powder, Nutmeg, Bay Leaf, Turmeric Powder, Dried Mango Powder, Fennel Seed, Cinnamon, Garlic Powder, Hydrolysed Vegetable Protein (Soya), Colour (INS 141) & Asafoetida. Allergen: Contains Peanuts & Soy May Contains Wheat, Almond, Cashew, Milk, Sesame Seed & Mustard Seed",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004400977",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

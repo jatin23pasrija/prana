@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063367319",
+  "barcode_printed": "8901063367319",
+  "barcode_format": "EAN-13",
+  "name": "Maska Chaska",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 38,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED (PALM & PALMOLEIN) OIL, SUGAR, LIQUID GLUCOSE, RAISING AGENTS [503(ii), 341(ii), 500(ii) & 450(i)], BUTTER (1.2%), BLACK SALT, MILK SOLIDS, DEHYDRATED VEGETABLE (CHIVES) (1%), IODISED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCE AND DOUGH CONDITIONER (223).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063367319",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

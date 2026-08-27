@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904109463549",
+  "barcode_printed": "8904109463549",
+  "barcode_format": "EAN-13",
+  "name": "Amla Chatpata Candy",
+  "brand": "patanjali",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Emblica officinalis - 65g, saccharum officinarum - 15.598g, Unaqua sodium chloride - 4.166g, Mangifera indica - 3.125g, Sodii Chloridum - 2.5g, Piper longum - 1.664g, Piper nigrum - 1.664g, Ammonium Chloride - 1.041g, Carum carvi - 0.832g, Cuminum cyminum - 0.832g, Syzygium aromaticum - 0.832g, Zingiber officinale - 0.416g, Citrus medica - 0.416g, Mentha spicata - 0.416g, Myristica fragrans - 0.416g, Cinnamomum zeylanicum - 0.312g, Trachyspermum ammi - 0.312g, Ferula foetida - 0.250g, Myristica fragrans - 0.208g",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904109463549",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

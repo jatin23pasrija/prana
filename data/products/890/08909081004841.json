@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081004841",
+  "barcode_printed": "8909081004841",
+  "barcode_format": "EAN-13",
+  "name": "B Natural",
+  "brand": "b-natural",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 46,
+        "protein_g": 0,
+        "carbohydrate_g": 11.6,
+        "sugars_g": 11.6,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "CONCENTRATE (5%), FLAVOURING ACIDITY REGULATORS [INS 330, INS 331(iii)], NATURE IDENTICAL SUBSTANCES, STABILIZER (INS 466), VITAMIN, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, POLYDEXTROSE (DIETARY FIBER) AND COLOUR (INS 110).^EQUIVALENT TO 10% MANGO RECONSTITUTED PULP. MAY CONTAIN MILK, NUT, SOY AND SULPHITE. SOURCE OF VITAMIN C.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081004841",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

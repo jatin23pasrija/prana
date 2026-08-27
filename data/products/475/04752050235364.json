@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "04752050235364",
+  "barcode_printed": "4752050235364",
+  "barcode_format": "EAN-13",
+  "name": "wild berries ice cream",
+  "brand": "rimi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 213,
+        "protein_g": 3.1,
+        "carbohydrate_g": 29.4,
+        "sugars_g": 23.8,
+        "fat_g": 9.1,
+        "saturated_fat_g": 7.2,
+        "sodium_mg": 59
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4752050235364",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725001902",
+  "barcode_printed": "8901725001902",
+  "barcode_format": "EAN-13",
+  "name": "Phulka Roti",
+  "brand": "aashirvaad",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 360,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 269,
+        "energy_kj": 1125,
+        "protein_g": 8.3,
+        "carbohydrate_g": 46.5,
+        "sugars_g": 5.5,
+        "fat_g": 5.5,
+        "saturated_fat_g": 0.8,
+        "fibre_g": 9.3,
+        "sodium_mg": 320
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR, WATER, REFINED SUNFLOWER OIL, IODIZED SALT, SOYA FLOUR, SKIMMED MILK POWDER, HUMECTANT (E 422), YEAST, PRESERVATIVES (E 282, E 200) AND ACIDITY REGULATOR (E 260). ALLERGEN ADVICE: FOR ALLERGENS, SEE INGREDIENTS IN MANUFACTURED IN A FACILITY THAT ALSO PROCESSES SESAME, MUSTARD, TREE NUTS, AND PEANUTS. BOLD.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725001902",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

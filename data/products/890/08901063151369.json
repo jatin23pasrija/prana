@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151369",
+  "barcode_printed": "8901063151369",
+  "barcode_format": "EAN-13",
+  "name": "Good Day Butter Cookies",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 231,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "wheat flour, sugars [sugar, invert sugar syrup], bakery shortening [palm oil, interesterified fat, sesame oil], butter (2%) (milk), whole milk powder, leavenings (ammonium bicarbonate, sodium bicarbonate), salt, emulsifiers (soy lecithin, mono - and diglycerides of fatty acids, diacetyl tartaric acid esters of mono - and diglycerides), artificial flavours (butter, vanilla , milk), contains: wheat (gluten), milk products, soy, sesame",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151369",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

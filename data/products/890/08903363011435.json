@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363011435",
+  "barcode_printed": "8903363011435",
+  "barcode_format": "EAN-13",
+  "name": "Premia nuts and seeds mix",
+  "brand": "dmart",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 541.42,
+        "energy_kj": 2267,
+        "protein_g": 20.53,
+        "carbohydrate_g": 34.41,
+        "sugars_g": 24.05,
+        "fat_g": 35.74,
+        "saturated_fat_g": 4.85,
+        "sodium_mg": 3.59
+      }
+    }
+  ],
+  "ingredients_raw": "ROASTED PUMPKIN SEEDS (25%), ROASTED SUNFLOWER SEEDS ( (25%), ROASTED ALMONDS (15%), SEEDLESS BLACK RAISINS (15%), SWEETENED DRIED CRANBERRIES (12%) [CRANBERRIES (60%), SUGAR (38%), EDIBLE VEGETABLE OIL (SUNFLOWER OIL)], PISTACHIO KERNELS (5%), SWEETENED DRIED BLUEBERRIES (3%) [BLUEBERRIES (60%), SUGAR (38%), EDIBLE VEGETABLE OIL (SUNFLOWER OIL)].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363011435",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

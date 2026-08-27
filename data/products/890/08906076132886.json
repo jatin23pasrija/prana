@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076132886",
+  "barcode_printed": "8906076132886",
+  "barcode_format": "EAN-13",
+  "name": "Ragi Loaf Bread",
+  "brand": "the-baker-s-dozen",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 240,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Wheat Flour (Atta) (47%), Ragi Flour (5%), Gluten, Sourdough (3%) (Whole Wheat Flour, Water, Salt), Yeast, Vinegar, Sunflower Oil, Sugar, lodized Salt, Fermented Wheat Flour, Flour Treatment Agent (INS 1100 (i)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076132886",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063363779",
+  "barcode_printed": "8901063363779",
+  "barcode_format": "EAN-13",
+  "name": "Britannia cake fruity fun",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 417,
+        "protein_g": 6.1,
+        "carbohydrate_g": 58,
+        "sugars_g": 27.1,
+        "fat_g": 17.8,
+        "saturated_fat_g": 1.5,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 214
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EGGS, HYDROGENATED VEGETABLE OIL & REFINED PALMOLEIN OIL, FRUIT PRODUCTS (7.3%) (GLAZED FRUITS (PAPAYA CUTS, SUGAR, COLOURS (124 & 110), PINEAPPLE CUTS) & ORANGE PULP), HUMECTANTS (422 & 420 HIGH MALTOSE E SYRUP, EDIBLE MAIZE STARCH, PENTA CAKE (RAISING AGENTS 1450, 500m, 341, 341m), EMULSIFIERS (472e, 466, 435, STABILIZER (412) & ACIDITY REGULATOR (330)), RAISING AGENTS [34101, 500m) & 4500), NATURE IDENTICAL & ARTIFICIAL (MIXED FRUIT & VANILLA) FLAVOURING SUBSTANCES, CAKE GEL (EMULSIFIERS AND STABILIZERS (471 & 477) AND HUMECTANT (420), IODISED SALT, INVERT SUGAR SYRUP, PRESERVATIVES (202&282), BAKING POWDER, ACIDITY REGULATOR (330), STABILIZER (415) AND COLOUR (102). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT AND EGGS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063363779",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

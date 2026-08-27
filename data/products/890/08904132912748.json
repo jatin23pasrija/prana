@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132912748",
+  "barcode_printed": "8904132912748",
+  "barcode_format": "EAN-13",
+  "name": "Navaratan mix",
+  "brand": "snactac",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 576,
+        "protein_g": 18.7,
+        "carbohydrate_g": 39.9,
+        "sugars_g": 3.3,
+        "fat_g": 35.1,
+        "saturated_fat_g": 10.9,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 886.5
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED VEGETABLE OIL (COTTONSEED, PALMOLEIN), BENGAL GRAM FLOUR (20%), BENGAL GRAM (18%), RED LENTILS (12%), GROUNDNUT (7%), POTATO CHIPS (3%) RICE FLAKES (3%), iODISED SALT, SPICES & CONDIMENTS, SPINACH POWDER,CONTAINS _GROUNDNUT_.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132912748",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

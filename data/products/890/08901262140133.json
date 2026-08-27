@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262140133",
+  "barcode_printed": "8901262140133",
+  "barcode_format": "EAN-13",
+  "name": "Capsicum",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 26,
+        "protein_g": 1,
+        "carbohydrate_g": 6,
+        "sugars_g": 4.2,
+        "fat_g": 0.3,
+        "fibre_g": 2.1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262140133",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

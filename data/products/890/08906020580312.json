@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020580312",
+  "barcode_printed": "8906020580312",
+  "barcode_format": "EAN-13",
+  "name": "Freshly Frozen Chickoo Pulp",
+  "brand": "id",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 165,
+        "protein_g": 1.24,
+        "carbohydrate_g": 40.01,
+        "sugars_g": 29.89,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 4.11,
+        "sodium_mg": 13.75
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020580312",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

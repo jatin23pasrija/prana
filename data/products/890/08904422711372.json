@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904422711372",
+  "barcode_printed": "8904422711372",
+  "barcode_format": "EAN-13",
+  "name": "Nariyal(Coconut) Biscuit",
+  "brand": "patanjali",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 204,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat flour (Atta) 55.53%, Sugar, Refined palm oil, Invert syrup, Desiccated Coconut powder (1.85%), Milk solids, Raising agents [{INS 503(ii), INS 500(ii), INS 341(i)}], lodized Salt, Honey, Emulsifier INS 322(i), Ghee, Dough Conditioner (INS 223), Natural & Nature identical flavouring substances. ALLERGEN INFORMATION: CONTAINS WHEAT, MILK, SOY, SULPHITE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904422711372",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

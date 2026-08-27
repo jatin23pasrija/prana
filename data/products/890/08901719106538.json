@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719106538",
+  "barcode_printed": "8901719106538",
+  "barcode_format": "EAN-13",
+  "name": "Hide & Seek Cashew Butter",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 510,
+        "protein_g": 6.8,
+        "carbohydrate_g": 66.6,
+        "sugars_g": 21,
+        "fat_g": 24,
+        "saturated_fat_g": 16.5,
+        "trans_fat_g": 0.15
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR​, EDIBLE VEGETABLE OIL (PALM OIL), SUGAR, CASHEW BITS (4%)), INVERT SUGAR SYRUP, BUTTER (2%), MILK SOLIDS, RAISING AGENTS [ 503(ii), 500(ii) ] EDIBLE COMMON SALT, EMULSIFIER [DI-ACETYL TARTARIC ACID ESTERS OF MONO AND DI-GLYCERIDES OF EDIBLE VEGETABLE OILS] AND DOUGH CONDITIONER [223] CONTAINS ADDED FLAVOURS ( ARTIFICIAL FLAVOURING SUBSTANCES - BUTTER AND CASHEW )",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719106538",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

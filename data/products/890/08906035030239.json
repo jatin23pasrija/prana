@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906035030239",
+  "barcode_printed": "8906035030239",
+  "barcode_format": "EAN-13",
+  "name": "Refined Sunflower oil",
+  "brand": "freedom",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 5000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "With Vitamins A,D&E Freedom Refined Sunflower Oil Freedom to eat, Freedom to enjoy. 5Litre The image is for reforence only a source from wwhich the oil is etracted",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906035030239",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

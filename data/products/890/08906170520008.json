@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906170520008",
+  "barcode_printed": "8906170520008",
+  "barcode_format": "EAN-13",
+  "name": "Active Multivitamin Men",
+  "brand": "nutrabay-pro",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Vitamin C (L-Ascorbic acid), Choline, Calcium (as Calcium Carbonate), Magnesium, Potassium, Iron Nicotinamide), Zinc Vitamin E (as d-alpha Tocopherol), Vitamin B5 (as Calcium D-Pantothenate), Manganese, Vitamin B2 (as Riboflavin) Vitamin B6 (as Pyridoxine Hydrochloride), Vitamin B1, Copper, Vitamin A Acetate, Provitamin A (as Beta Carotene), Folic Acid (as N-Pteroy - Glutamic Acid), lodine, Chromium, Molybdenum, Biotin (as D-Biotin) Selenium (as Sodium Selenate), Vitamin B12 (as Cyanocobalamin), Vitamin D2 (as Ergocalciferol - Plant Source), Magnesium Stearate, Tak, Silicon Dioxide, Amorphous, Hydroxypropyl Methylcelluose, Polyethylene Glycol, Castor Oil, and Ethyl Cellulose.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906170520008",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

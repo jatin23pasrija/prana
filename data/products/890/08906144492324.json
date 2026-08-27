@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906144492324",
+  "barcode_printed": "8906144492324",
+  "barcode_format": "EAN-13",
+  "name": "Cold Coffee by Sleepy Owl",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 81,
+        "protein_g": 2.3,
+        "carbohydrate_g": 10.1,
+        "sugars_g": 10.1,
+        "fat_g": 2.2,
+        "saturated_fat_g": 1.4,
+        "sodium_mg": 18.7
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906144492324",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

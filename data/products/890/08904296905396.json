@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08904296905396",
+  "barcode_printed": "8904296905396",
+  "barcode_format": "EAN-13",
+  "name": "Fabsta Digestive Biscuits",
+  "brand": "tata",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 490.7,
+        "protein_g": 7.16,
+        "carbohydrate_g": 66.93,
+        "sugars_g": 15.9,
+        "fat_g": 21.59,
+        "saturated_fat_g": 11.02,
+        "fibre_g": 5.07,
+        "sodium_mg": 20000
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904296905396",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

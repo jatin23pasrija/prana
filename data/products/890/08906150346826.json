@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906150346826",
+  "barcode_printed": "8906150346826",
+  "barcode_format": "EAN-13",
+  "name": "Sea Moss Black Seed Ashwagandha Black Pepper",
+  "brand": "betteralt",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sea Moss extract (10:1), Equivalent to 3000mg Sea moss powder, Black seed extract (10:1), Equivalent to 2000mg of black seed powder, Ashwagandha extract (10:10, Equivalent to 1000mg of Ashwgandha powder, Bladderwrack extract (10:1), Equivalent to 1000mg of Bladderwrack powder, Burdock root extract (10:1), Equivalent to 1000mg of Burdrock root powder, Black pepper extract, Vitamin C, HPMC empty capsule",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906150346826",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

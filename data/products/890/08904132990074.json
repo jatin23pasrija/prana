@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132990074",
+  "barcode_printed": "8904132990074",
+  "barcode_format": "EAN-13",
+  "name": "Mango",
+  "brand": "raskik-gold",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, MANGO CONCENTRA (10%), MANGO PULP (0.2%), ACIDITY REGULATORS(330, 331(iii)), STABILIZERS (440, 415), NATURE IDENTICAL FLAVOURING SUBSTANCES, PRESERVATIVE (211), COLOURS (110, 150d)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132990074",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

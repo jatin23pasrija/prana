@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906019961146",
+  "barcode_printed": "8906019961146",
+  "barcode_format": "EAN-13",
+  "name": "Shortbread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 511,
+        "protein_g": 6,
+        "carbohydrate_g": 63,
+        "sugars_g": 17,
+        "fat_g": 26,
+        "saturated_fat_g": 14,
+        "sodium_mg": 2000
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906019961146",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

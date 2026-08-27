@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005501257",
+  "barcode_printed": "8906005501257",
+  "barcode_format": "EAN-13",
+  "name": "All in one",
+  "brand": "bikani",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein Oil and/or Oil), Gram Flour, Dew Beans Flour (Moth Flour), Peanuts (12%), Split Chickpea (4.5%), Corn Flakes (4.5%), Rice Flakes (4%), Split Green Gram (3.5%), Whole Lentils (3.5%), Cashew (2.5%), Raisins (2%), Potato Sticks (1.5%), Flattened Chick Peas (Chana Press) (1%), Green Peas (0.5%) Tapioca (0.1%), Potato Flakes, Starch, Cucumber Seed, Sesame Seeds, Ground Spices & Condiments (Sugar, lodised Salt, Acidity Regulator (INS 330), Red Chilli, Coriander, Turmeric (Coloring and Spices), Cumin, Fennel Seeds, Ginger, Black Pepper, Cardamom, Clove, Nutmeg, Spinach Powder, Asafoetida, Bishop's Seed, Curry Leaves) CONTAINS: PEANUTS, CASHEW, SESAME",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005501257",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

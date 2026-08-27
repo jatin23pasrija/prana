@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901542004285",
+  "barcode_printed": "8901542004285",
+  "barcode_format": "EAN-13",
+  "name": "Power Play",
+  "brand": "complan",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 160,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk solids (78%), Water, Sweeteners (INS 965 & INS 956), Fructo-oligosaccharides, Cocoa powder (1.2%). Stabilizer (INS 407), Tricalcium phosphate, Acidity regulators (INS 340 & INS 452), Natural & Nature Identical flavoring substances, Edible Common salt, Vitamin D₂,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901542004285",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

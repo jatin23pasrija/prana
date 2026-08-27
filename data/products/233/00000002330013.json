@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "00000002330013",
+  "barcode_printed": "02330013",
+  "barcode_format": "EAN-8",
+  "name": "Fibergo High-Fiber Nutritional Mix",
+  "brand": "amgenex",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "10g",
+        "quantity": {
+          "value": 10,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 28,
+        "protein_g": 0.3,
+        "carbohydrate_g": 4.6,
+        "fat_g": 0,
+        "fibre_g": 4.2
+      }
+    }
+  ],
+  "ingredients_raw": "Oligosaccharides, Wheatgrass Powder, Oil Palm Fiber, Apple Powder, Oat Fiber, Mixed Berries, Spirulina, Guava Powder, and Kiwi Fruit Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/02330013",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

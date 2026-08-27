@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063251961",
+  "barcode_printed": "8904063251961",
+  "barcode_format": "EAN-13",
+  "name": "haldiram snac lite",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato Starch Granules, Edible Vegetable Oil (Palmolein, Cotton Seed, Rice Bran), *Spices and Condiments [Garlic Powder, Red Chilli Powder (0.40%), Black Pepper Powder (0.40%), Cumin Powder (0.26%), Coriander Powder (0.22%), Spices Extract], lodised Salt, Sugar Powder, Maltodextrin and Acidity Regulator (INS33 Natural & Nature Identical Flavouring Substances. ving agent",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063251961",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

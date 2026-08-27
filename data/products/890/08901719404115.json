@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719404115",
+  "barcode_printed": "8901719404115",
+  "barcode_format": "EAN-13",
+  "name": "Happy-happy Chico-chips cookies",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OIL (PALM OIL), CHOCO CHIPS [SUGAR, EDIBLE VEGETABLE FAT, COCOA SOLIDS, EMULSIFIER (LECITHIN OF SOYA ORIGIN AND ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA) 1, COCOA SOLIDS 2.2% INVERT SUGAR SYRUP, RAISING AGENTS [503, 500 ), EDIBLE COMMON SALT EMULSIFIER LECITHIN OF SOYA ORIGINI AND DOUGH CONDITIONER (2231 CONTAINS PERMITTED NATURAL FOOD COLOUR ( 1500 ) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES-CHOCOLATE). HYDROGENATED EDIBLE VEGETABLE FAT USED-CONTAINS TRANS FAT BEST BEFORE NINE MONTHS FROM PACKAGING STORE IN COOL AND DRY PLACE 8 901",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719404115",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

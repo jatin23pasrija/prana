@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902979010559",
+  "barcode_printed": "8902979010559",
+  "barcode_format": "EAN-13",
+  "name": "Belgian Chocolate Milkshake",
+  "brand": "cavin-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 170,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Double toned milk, Sugar, Cocoa solids (1.5%), Flavour (Artificial (Belgian chocolate) Flavouring substances), Stabilizer (INS 412, INS 415, INS 407), Sequestrants (INS 451(i)), Belgian chocolate (0.1%) (Emulsifier (INS 322(i)), Flavour (Natural flavouring substance)), Emulsifier (INS 471). ALLERGEN ADVICE: Contains Milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902979010559",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

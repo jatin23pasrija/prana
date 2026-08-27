@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901652140620",
+  "barcode_printed": "8901652140620",
+  "barcode_format": "EAN-13",
+  "name": "Puff",
+  "brand": "priyagold",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 497,
+        "protein_g": 7.46,
+        "carbohydrate_g": 64.35,
+        "sugars_g": 29,
+        "fat_g": 22.32,
+        "saturated_fat_g": 11.23,
+        "sodium_mg": 162.56
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EDIBLE VEGETABLE OILS (PALM), LEAVENING AGENTS AMMONIUM BICARBONATE (E 503(1), SODIUM BICARBONATE (E500 (i)], LIQUID GLUCOSE MILK SOLIDS (1.5%), IODISED SALT, PERMITTED EMULSIFIERS (LECITHIN (E 322(i)), DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL [E472(e)], ACIDITY REGULATOR [CITRIC ACID (E 330)], DOUGH CONDITIONER [SODIUM METABISULPHITE (E 223). CONTAINS ADDED PERMITTED SYNTHETIC FOOD COLOURS [ERYTHROSINE (E127), CARMOISINE (E122), (FD&C YELLOW-5 TARTRAZINE (E 102), PONCEAU 4R (E-124)] & ADDED ARTIFICIAL FAVOUR (STRAWBERRY) (NUMBERS IN BRACKETS AS PER INTERNATIONAL NUMBERING SYSTEM) THIS BISCUIT CONTAINS WHEAT, MILK, SOY &IORE Si nu",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901652140620",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

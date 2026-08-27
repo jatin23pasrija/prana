@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076131421",
+  "barcode_printed": "8906076131421",
+  "barcode_format": "EAN-13",
+  "name": "Choco chip cake",
+  "brand": "the-baker-s-dozen",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Refined Wheat Flour (Maida), Milk, Sunflower Oil, Cocoa Powder (3.2%), Dark Choco Chips (2.9%), Apple Cider Vinegar, Raising Agent (INS 500 (ii)), lodized Salt, Preservatives (INS 202, INS 282). CONTAINS ADDED ARTIFICIAL FLAVOURING SUBSTANCE (VANILLA). Allergen Declaration: CONTAINS WHEAT, MILK AND SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076131421",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

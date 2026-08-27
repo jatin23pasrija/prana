@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499010483",
+  "barcode_printed": "8901499010483",
+  "barcode_format": "EAN-13",
+  "name": "Kelloggs Muesli",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 240,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Multigrain (66.4%) ,Wheat (24.6%),Corn Grits (15.7%), Rice(10.1%), Rolled Barley (8%), Rolled Oats (8%) ,Candied & Nuts & Dry Fruits & Seed(21%) {Candied Papaya (6%),Candied Cranberry(4%),Raisins(4%),Almonds(4%),Pumpkin Seeds(3%)},Sugar,Cereal Extract,Wheat Bran,Iodized Salt,Vitamins & Minerals,Anti Oxidants(INS 320,INS 307b)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499010483",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

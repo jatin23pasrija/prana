@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "00710859306108",
+  "barcode_printed": "0710859306108",
+  "barcode_format": "EAN-13",
+  "name": "CASHEWS",
+  "brand": "vittal-balaji",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 570,
+        "protein_g": 15,
+        "carbohydrate_g": 33,
+        "sugars_g": 7,
+        "fat_g": 46,
+        "saturated_fat_g": 9,
+        "fibre_g": 5
+      }
+    }
+  ],
+  "ingredients_raw": "Cashew nuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0710859306108",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

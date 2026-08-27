@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106058828",
+  "barcode_printed": "8909106058828",
+  "barcode_format": "EAN-13",
+  "name": "Nark korean Ramen",
+  "brand": "knorr",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 98,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NET WEIGHT: 98 g FOR MRP (INCL. OF ALL TAXES), USP, PKD., USE BY & BATCH NO. SEE SIDE PANEL SINGLE SERVE PACK. PER SERVE: 98 g PRODUCT (NOODLES, SEASONING WITH VEGGIES)+400 ml WATER",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106058828",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

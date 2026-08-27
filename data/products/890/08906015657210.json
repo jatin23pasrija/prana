@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906015657210",
+  "barcode_printed": "8906015657210",
+  "barcode_format": "EAN-13",
+  "name": "khatta mitha sweet S sour",
+  "brand": "bhikharam-chandmal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein Oil), Sugar Powder, Tepary Beans Flour, Gram Pulse, Wheat Flour, Semolina,Gram Pulse Flour, Lentils, Potatoes, Cornflakes, Rice Flakes, Rice Powder, Edible Starch, Peanuts, Spinach, Curry Leaves (Fried), Salt , Fennel Seed, Coriander Seed & Leavening Agent (INS 500(ii)), Acidity Regulatory (INS 330 & INS 296).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906015657210",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

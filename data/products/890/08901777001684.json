@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777001684",
+  "barcode_printed": "8901777001684",
+  "barcode_format": "EAN-13",
+  "name": "Green Peas Mutter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 908,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 99.01,
+        "protein_g": 5.94,
+        "carbohydrate_g": 16.83,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 7.92,
+        "sodium_mg": 49.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777001684",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

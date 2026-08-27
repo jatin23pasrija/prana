@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906097400360",
+  "barcode_printed": "8906097400360",
+  "barcode_format": "EAN-13",
+  "name": "Zoff",
+  "brand": "zoff",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Coriander, Cumin, Red Chilli, Turmeric, Cassia Bark, Garlic flakes, Dry ginger, Fennel, Common Salt, Mustard, Big Cardamom, Onion Flakes, Black Pepper, Clove, Nutmeg, Caraway seeds, Mace, Asafoetida",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906097400360",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

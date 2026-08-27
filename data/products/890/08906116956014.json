@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08906116956014",
+  "barcode_printed": "8906116956014",
+  "barcode_format": "EAN-13",
+  "name": "Cookies And Cream Whey Concentrate",
+  "brand": "fuel-one",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (39 g)",
+        "quantity": {
+          "value": 39,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 150.93,
+        "protein_g": 23.99,
+        "carbohydrate_g": 9.36,
+        "fat_g": 1.91
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906116956014",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

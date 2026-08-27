@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08906036674760",
+  "barcode_printed": "8906036674760",
+  "barcode_format": "EAN-13",
+  "name": "Nandini Godhi Ladoo",
+  "brand": "nandini",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 507,
+        "carbohydrate_g": 69,
+        "sugars_g": 42,
+        "fat_g": 23,
+        "saturated_fat_g": 13.4
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Wheat Flour, Milk Solids, Ghee, Whole Milk Powder, Cashew Nuts and Cardamom",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906036674760",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

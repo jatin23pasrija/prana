@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106034938",
+  "barcode_printed": "8909106034938",
+  "barcode_format": "EAN-13",
+  "name": "Magnum Chocolate Truffle",
+  "brand": "kwality-walls",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 63,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "63g",
+        "quantity": {
+          "value": 63,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 203,
+        "protein_g": 2.9,
+        "carbohydrate_g": 20,
+        "sugars_g": 16.4,
+        "fat_g": 12.5,
+        "saturated_fat_g": 8.1,
+        "trans_fat_g": 0.23,
+        "fibre_g": 1.5,
+        "sodium_mg": 45
+      }
+    }
+  ],
+  "ingredients_raw": "ICE CREAM (50.8%) WATER, COCOA POWDER, MILK SOLIDS, EDIBLE COCONUT OIL, CHOCOLATE, EMULSIFIER (E471), STABILISER (E410)), MILK SOLIDS, SUGAR, COCOA SOLIDS, LIQUID GLUCOSE, EMULSIFIER (E471), STABILISERS (E410, E412, E407), NATURE IDENTICAL FLAVOURING SUBSTANCE. OUTER LAYER (30.2%): BLENDED CHOCOLATE (15.1%) (SUGAR, COCOA BUTTER, COCOA SOLIDS, MILK SOLIDS, EMULSIFIER (E322), VANILLIN), MILK COMPOUND COATING (15.1%) (SUGAR, COCOA SOLIDS, COCOA BUTTER, MILK SOLIDS, COCONUT OIL, EMULSIFIER (E322), VANILLIN). CONTAINS MILK AND SOY. MAY CONTAIN TRACES OF WHEAT AND NUTS. *BLENDED CHOCOLATE IS BELGIAN CHOCOLATE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106034938",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

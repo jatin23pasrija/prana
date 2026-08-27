@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906125471782",
+  "barcode_printed": "8906125471782",
+  "barcode_format": "EAN-13",
+  "name": "Finger Stix",
+  "brand": "star",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 17.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 466.7,
+        "protein_g": 6.91,
+        "carbohydrate_g": 66.56,
+        "sugars_g": 3.1,
+        "fat_g": 19.2,
+        "saturated_fat_g": 8.53,
+        "fibre_g": 2.61,
+        "sodium_mg": 589.8
+      }
+    }
+  ],
+  "ingredients_raw": "Corn Flour, Potato Powder, Refined Palmolein Oil, Sugar, Vegetable Powder (Tomato, Onion, Garlic), Salt, Spice and Condiments (Chilli, Cumin, Cloves, Cinnamon), Flavour Enhancer (INS No. 635), Anticaking Agent (INS No.170(i), INS No. 551 & INS No. 341), Acidity Regulator (INS No. 331, INS No. 334, INS No. 262), Colouring Agent (INS No.160C), Tomato Flavour (Natural & Nature Identical)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906125471782",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

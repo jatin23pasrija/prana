@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004402261",
+  "barcode_printed": "8904004402261",
+  "barcode_format": "EAN-13",
+  "name": "PHALHARI CHIWDA",
+  "brand": "haldiram",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "45g",
+        "quantity": {
+          "value": 45,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 268,
+        "protein_g": 6.4,
+        "carbohydrate_g": 17.1,
+        "sugars_g": 4.5,
+        "fat_g": 18.9,
+        "saturated_fat_g": 3.9,
+        "fibre_g": 2,
+        "sodium_mg": 100.58
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, (Peanuts), Refined Palmolein Oil, Refined Sugar, Rock Salt, Red Chilli, Black Pepper, Poppy Seed, Dried Ginger Powder, Clove Powder, Cumin, Nutmeg, Cardamom & Cinnamon. Groundnut",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004402261",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

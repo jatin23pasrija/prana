@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906127551161",
+  "barcode_printed": "8906127551161",
+  "barcode_format": "EAN-13",
+  "name": "SUPER MUESLI Chocolate",
+  "brand": "alpino",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 410.2,
+        "protein_g": 18,
+        "carbohydrate_g": 69.1,
+        "sugars_g": 13.3,
+        "fat_g": 6.9,
+        "saturated_fat_g": 1,
+        "fibre_g": 16.6,
+        "sodium_mg": 394.2
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flakes (29.1%), Rice Flakes (15.8%), Chocolate Peanut Butter Oats (14.9%), Corn Flakes(14.32%), Cocoa Cookie (9%) (Maida, Sugar, Cocoa Solids (16.5%), Milk Solids, Hydrogenated Vegetable Oil, Palm Kernel Oil, Water, Raising Agent (Baking Powder), Edible Common Salt, Preservatives (INS 282)), Cocoa Powder (5%), Sugar Milk Solids, Almonds (4.8%), Ragi Flakes (1.07%), Sugar, Edible Common Salt, Nature Identical' Flavouring Substances, Antioxidants (Tocopherol).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906127551161",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

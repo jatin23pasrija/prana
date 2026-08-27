@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030543067",
+  "barcode_printed": "8901030543067",
+  "barcode_format": "EAN-13",
+  "name": "Ice cream Butterscotch",
+  "brand": "kwality-wall-s",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Sugar, Butterscotch Confectionery (10.36%) (Sugar, Cashew Nuts, Butter), Palm Oil, Milk Solids, Liquid Glucose, Emulsifier-E471, Vegetable Protein (Soy), Stabilisers (E412, E417, E407, E410), Nature Identical (Cream Caramel) & Artificial (Butterscotch) Flavouring Substances, Food Colour - E102",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030543067",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

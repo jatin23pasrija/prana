@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082370708",
+  "barcode_printed": "8906082370708",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Almonds Ice Cream",
+  "brand": "nic",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 ml",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 173,
+        "protein_g": 5.3,
+        "carbohydrate_g": 14,
+        "sugars_g": 6.1,
+        "fat_g": 10.7,
+        "saturated_fat_g": 5.8,
+        "trans_fat_g": 0,
+        "fibre_g": 4.5,
+        "sodium_mg": 56
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082370708",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

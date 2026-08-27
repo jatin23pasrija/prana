@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202819360",
+  "barcode_printed": "7622202819360",
+  "barcode_format": "EAN-13",
+  "name": "megi",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "10.0 ALL TAXES PESTS AND STRONG ODOUR ORE IN A COOL, DRY & HYGIENIC PLACE TO PROTECT FROM INSECTS, IN THIS PACKET, PLEASE INFORM US, WE WILL REPLACE IT. IF YOU FIND ANY FAULT REGARDING QUALITY OR QUANTITY DO NOT BUYING PACK IF FOUNDI DAMAGED/OPEN. 8 &quot;906010&quot;504984 OTHER",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202819360",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

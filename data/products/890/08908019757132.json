@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019757132",
+  "barcode_printed": "8908019757132",
+  "barcode_format": "EAN-13",
+  "name": "Go Zero Mocha Fudge Brownie",
+  "brand": "go-zero",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk & Milk Solids (Butter, Skimmed Milk Powder), Maltitol, Chocolate Mocha Fudge (10%) [Maltitol, Oligofructose, Water, Low Fat Cream, Cocoa Solids, Coffee (2%)], Sugar-Free Brownie (8%) [Refined Wheat Flour (Maida), Maltitol, Whey Solids, Oligofructose, Corn Starch, Cocoa Powder, Edible Vegetable Oil, Emulsifiers (INS 477, 471), Raising Agents (INS 500(ii), 341(ii)), lodized Salt, Stabilizer (INS 415), Natural Food Colour *** (INS 150d), Nature Identical Chocolate Flavouring Substances), Coffee (1.5%), Permitted Emulsifiers (INS 471,433) and Stabilizers (INS 412, 407, 461), Stevia, Salt. CONTAINS ADDED NATURAL AND NATURE IDENTICAL VANILLA FLAVOURING SUBSTANCES. O GZ OHE O For 'marketed by' and manufactured by' address and FSSAI licence number, please scan the QR code and check the first character of the batch number.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019757132",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

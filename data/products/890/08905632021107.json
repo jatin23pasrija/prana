@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08905632021107",
+  "barcode_printed": "8905632021107",
+  "barcode_format": "EAN-13",
+  "name": "spoton jucie",
+  "brand": "rmha",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Mango pulp, sugar Acidity Regulator(330) Sodium citrate(E331) antioxidant (300) contains permitted class II preservatives (211,E224) Contains permitted synthetic food colours (E 110,E 102) and added flavours (Natural, Nature identical And Artificial flavouring substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905632021107",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

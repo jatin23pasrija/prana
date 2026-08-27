@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063251077",
+  "barcode_printed": "8904063251077",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's Soan Papdi 250g",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 539,
+        "energy_kj": 2353,
+        "protein_g": 7,
+        "carbohydrate_g": 67,
+        "sugars_g": 50,
+        "fat_g": 27,
+        "saturated_fat_g": 10,
+        "trans_fat_g": 0.5,
+        "fibre_g": 2,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Zucchero, olio vegetale (olio di palma) (25%), farina di grano, farina di ceci, cardamomo, mandorle e pistacchio.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063251077",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

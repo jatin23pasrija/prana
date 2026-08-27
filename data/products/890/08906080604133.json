@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080604133",
+  "barcode_printed": "8906080604133",
+  "barcode_format": "EAN-13",
+  "name": "Protein Crunch",
+  "brand": "paper-boat",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 497,
+        "energy_kj": 2079,
+        "protein_g": 16.1,
+        "carbohydrate_g": 20.5,
+        "sugars_g": 5,
+        "fat_g": 39,
+        "saturated_fat_g": 4.1,
+        "trans_fat_g": 0,
+        "fibre_g": 8,
+        "sodium_mg": 797
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080604133",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

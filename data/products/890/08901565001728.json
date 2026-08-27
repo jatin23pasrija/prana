@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901565001728",
+  "barcode_printed": "8901565001728",
+  "barcode_format": "EAN-13",
+  "name": "Piknik Classic Tomato Chilli (fried Indian snack)",
+  "brand": "piknik",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat Flour, Edible Starch, Edible Vegetable Oil, Flour of _Soya_, Corn & Potato, Sugar, Salt, Tomato Powder, Onion Powder, Garlic Powder, Chilli Pewder, Maltodextrin, Acidifying agent (E296, E330), Baking Powder, Ground Spices and Condiments. CONTAINS ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL-TOMATO) Contains _Gluten_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901565001728",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

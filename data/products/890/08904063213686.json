@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063213686",
+  "barcode_printed": "8904063213686",
+  "barcode_format": "EAN-13",
+  "name": "Dal makhani with rice",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 488.89,
+        "protein_g": 13.33,
+        "carbohydrate_g": 57.78,
+        "sugars_g": 6.67,
+        "fat_g": 23.33,
+        "saturated_fat_g": 15.56,
+        "sodium_mg": 1166.67
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063213686",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

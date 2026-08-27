@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08901972062947",
+  "barcode_printed": "8901972062947",
+  "barcode_format": "EAN-13",
+  "name": "Creme 4 Fun",
+  "brand": "dukes",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 6.6,
+        "carbohydrate_g": 74.8,
+        "sugars_g": 30.6,
+        "fat_g": 15.3
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR(MAIDA), SUGAR, REFINED PALM OIL, INVERT SYRUP, I0DIZED SALT, RAISING AGENTS [503(ii), 500(ii)], EMULSIFIERS (322, 471), STARCH, DOUGH CONDITIONER (223), HJMECTANT (422) AND STRAWBERRY FRUIT POWDER(0.002%). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR(127) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA, STRAWBERRY). (Numbers in brackets as per International Numbering System.), ALLERGEN: Contains Wheat, Soya & Sulphites. May Contain Traces of Milk & Tree Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901972062947",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

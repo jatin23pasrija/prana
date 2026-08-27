@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201150419",
+  "barcode_printed": "7622201150419",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury 5 Star",
+  "brand": "mondelez",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "40g",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 210,
+        "protein_g": 3,
+        "carbohydrate_g": 30,
+        "sugars_g": 28,
+        "fat_g": 9,
+        "saturated_fat_g": 5,
+        "fibre_g": 1,
+        "sodium_mg": 30
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Liquid Glucose, Invert Sugar, Milk Solids, Hydrogenated Oil, Cocoa Butter, Cocoa Solids, Fractionated Fat, Lactose-rich Deproteinized Whey Permeate Powder, Emulsifiers (442, 471, 476), Hydrolyzed Vegetable Protein, lodised Salt, Flavours (Natural, Nature Identical and Artificial (Caramel and Vanilla) Flavouring Substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201150419",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

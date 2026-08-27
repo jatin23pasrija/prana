@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00855231007010",
+  "barcode_printed": "0855231007010",
+  "barcode_format": "EAN-13",
+  "name": "L-Carnitine XS 3000 mg Liquid, Blue Razz flavor",
+  "brand": "ronnie-coleman-signature-series",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 473.28,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Purified Water, Citric Acid, Phosphoric Acid, Malic Acid, Sucralose, Natural and Artificial Flavors, Acesulfame-K, Potassium Sorbate, Sodium Benzoate. Allergen Warning: Manufactured in a facility that also manufactures egg, wheat, milk, soy, tree nuts, fish and shellfish.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0855231007010",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

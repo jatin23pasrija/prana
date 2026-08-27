@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014665296",
+  "barcode_printed": "8908014665296",
+  "barcode_format": "EAN-13",
+  "name": "French Yogurt",
+  "brand": "mamie-yova",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pasteurized Milk, Water, Stabilizer (INS 1442), permitted starter cultures, Active permitted starter cultures: (L. delbrueikil subsp. Bulgaricus, S. thermophilus). Contains probiotic cultures: (Bifidobacterium and Lactobacillus acidophilus).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014665296",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552021388",
+  "barcode_printed": "8901552021388",
+  "barcode_format": "EAN-13",
+  "name": "Paneer (tofu) Makhani",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Eau, tomates écrasées (13.6%), tofu (graines de soja, eau, régulateur d'acidité : acide citrique, sel) (13.6%), oignon écrasé, lait de coco, noix de cajou, graines de melon, huile de tournesol, ail écrasé, sel, gingembre écrasé, sucre, piment rouge en poudre, piment rouge, feuille de laurier, clou de girofle, poivre noir, feuilles de fenugrec séchées, cardamome noire, cannelle, macis, cardamome verte en poudre.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552021388",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

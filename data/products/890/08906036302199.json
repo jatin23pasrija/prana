@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906036302199",
+  "barcode_printed": "8906036302199",
+  "barcode_format": "EAN-13",
+  "name": "Karia's peanut chikki",
+  "brand": "karia-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 18,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 540.67,
+        "protein_g": 15.92,
+        "carbohydrate_g": 48.11,
+        "sugars_g": 35.26,
+        "fat_g": 22.29
+      }
+    }
+  ],
+  "ingredients_raw": "PEANUT, JAGGERY AND LIQUID GLUCOSE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906036302199",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

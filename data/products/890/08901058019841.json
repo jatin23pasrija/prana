@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058019841",
+  "barcode_printed": "8901058019841",
+  "barcode_format": "EAN-13",
+  "name": "Nestle Everyday Dairy Whitener",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 tsp"
+      },
+      "values": {
+        "energy_kcal": 19,
+        "protein_g": 0.9,
+        "carbohydrate_g": 2.5,
+        "sugars_g": 1.8,
+        "fat_g": 0.6,
+        "saturated_fat_g": 0.5,
+        "sodium_mg": 16.9
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058019841",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

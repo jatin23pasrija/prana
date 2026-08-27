@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083534099",
+  "barcode_printed": "8904083534099",
+  "barcode_format": "EAN-13",
+  "name": "organic peanut chikki",
+  "brand": "24-mantra-organic",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "protein_g": 9,
+        "carbohydrate_g": 60,
+        "fat_g": 26,
+        "saturated_fat_g": 4,
+        "fibre_g": 5,
+        "sodium_mg": 3
+      }
+    }
+  ],
+  "ingredients_raw": "Peanut, Jaggery and Sugar",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083534099",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

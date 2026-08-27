@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "03948537078321",
+  "barcode_printed": "3948537078321",
+  "barcode_format": "EAN-13",
+  "name": "Daawat Biryani Kit Hyderabadi",
+  "brand": "daawat",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 334,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "RICE - Basmati Rice BIRYANI PASTE - Water, Curd, Edible Vegetable Oil (Sunflower), Onion (Fresh and Dehydrated), Tomato, Edible Common Salt, Green Chilli, Garlic, Ginger, Coriander Leaves, Spices and Condiments (Cardamom, Cumin, Fennel, Cinnamon, Clove, Mace, Bay Leaf, Black Cardamom (0.04%), Nutmeg and Black Pepper), Kewra Water, Rose Water, Flavor Enhancers (INS 627, INS 631), Red Chilli Powder (0.5%), Coriander Seed Powder (0.4%), Turmeric Powder, Spice Extract (Paprika), Flavours - Natural and Nature Identical, Hydrolyzed Vegetable Protein (Soya) and Acidity Regulator (INS 330). WHOLE SPICES - Cinnamon Sticks, Green Cardamom, Bay Leaf, Clove and Black Pepper (0.1%). RAITA SEASONING - Spices and Condiments (Cumin, Chilli, Coriander, Dried Ginger), Maltodextrin (Corn), Natural and Nature Identical Flavouring Substances, Edible Common Salt, Cane Sugar, Dehydrated Garlic, Dehydrated Onion Powder, Black Salt, Hydrolyzed Vegetable Protein (Soya), Dried Mango Powder, Dehydrated Parsley and Anticaking Agent (INS 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948537078321",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

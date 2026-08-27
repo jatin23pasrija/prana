@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901090326051",
+  "barcode_printed": "8901090326051",
+  "barcode_format": "EAN-13",
+  "name": "Coffee Grand Premium",
+  "brand": "tata",
+  "category": "coffee",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 3,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Coffee (98.5%), Nature-Identical Flavouring Substance",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901090326051",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906098790941",
+  "barcode_printed": "8906098790941",
+  "barcode_format": "EAN-13",
+  "name": "Peanut butter crunchy",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 630,
+        "protein_g": 23.2,
+        "carbohydrate_g": 22.8,
+        "sugars_g": 13.6,
+        "fat_g": 49.9,
+        "saturated_fat_g": 9.9,
+        "sodium_mg": 666.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906098790941",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202216749",
+  "barcode_printed": "7622202216749",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury Gems",
+  "brand": "cadbury-is-sold-by-mondelez-international",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 23.7,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Hydrogenated Oils, Milk Solids, Cocoa Solids (8%), Refined Wheat Flour (Maida), Emulsifiers (414, 442, 476), Colours (171, 102, 133, 124, 127, 122, 132, 110), Glazing Agent (903), Liquid Glucose, Cocoa Butter, Flavours (Natural, Nature Identical and Artificial (Caramel and Vanilla) Flavouring Substances). Allergen Information: Contains Milk, Wheat, Sulphites. May Contain Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202216749",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

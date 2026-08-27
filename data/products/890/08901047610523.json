@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901047610523",
+  "barcode_printed": "8901047610523",
+  "barcode_format": "EAN-13",
+  "name": "Kolhapuri masala",
+  "brand": "kohinoor",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "water, onion, tomato, sunflower oil, desiccated coconut powder (2,7%), kolhapuri dry masala, ginger, garlic, tamarind, white sesame seed (sesame seed, salt, red chilli (0,8%) poppy seeds, green coriander, turmeric powder and asafoetida,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901047610523",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

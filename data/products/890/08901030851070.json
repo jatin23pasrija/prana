@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030851070",
+  "barcode_printed": "8901030851070",
+  "barcode_format": "EAN-13",
+  "name": "Kissan Jam",
+  "brand": "kissan",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SUGAR, MIXED FRUIT PULP BLEND-60% (PAPAYA PULP, PEAR PULP, APPLE JUICE, BANANA PULP, PINEAPPLE JUICE, ORANGE JUICE, MANGO PULP, GRAPE JUICE), ACIDITY REGULATOR-E330, THICKENER - E440, IODISED SALT, VITAMINS & MINERAL, PRESERVATIVE E202, NATURAL FLAVOURING SUBSTANCES, FOOD COLOUR-E122.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030851070",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

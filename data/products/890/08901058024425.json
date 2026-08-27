@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058024425",
+  "barcode_printed": "8901058024425",
+  "barcode_format": "EAN-13",
+  "name": "Maggie Double Masala Instant Noodles",
+  "brand": "maggie",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 95,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles: Refined Wheat Flour (Maida), Palm Oil, Iodised Salt, Wheat Gluten, Thickners [508 & 412], Acidity Regulators [501(i) & 500(i)], and Humectant [451(i)] Masala* Tastemaker®: Mixed Spices [26.2g] [Onion Powder, Coriander Powder, Red Chilli Powder, Turmeric Powder, Garlic Powder, Cumin Powder, Aniseed Powder, Ginger Powder, Fenugreek Powder, Black Pepper Powder, Toasted Onion Powder, Clove Powder, Green Cardamom Powder, Nutmeg Powder], Hydrolyzed Groundnut Protein, Refined Wheat Flour (Maida), Sugar, Starch, Palm Oil, Iodised Salt, Thickener [508], Acidity Regulator [330], Flavour Enhancer [635], Colour [150d], Mineral and Wheat Gluten. Allergen Note: Contains Wheat and Nut. May Contain Milk, Oats and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058024425",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

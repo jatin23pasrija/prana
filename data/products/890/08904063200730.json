@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200730",
+  "barcode_printed": "8904063200730",
+  "barcode_format": "EAN-13",
+  "name": "Chilli Chatak Lachha",
+  "brand": "haldiram-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "faport pack nutrition informaton-information / nutrition chilli chatak lachha mutrtional vouchers per 100g nährwerte je 100g nut i/nutrition 100g energy/energie/enegie /energy value l powerhouse fat/graisses/fett/fat/grassi 2255k/",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200730",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

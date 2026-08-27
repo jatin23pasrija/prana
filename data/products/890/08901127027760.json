@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901127027760",
+  "barcode_printed": "8901127027760",
+  "barcode_format": "EAN-13",
+  "name": "Prohance-D Vanilla Flavour",
+  "brand": "prohance-d",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Maltodextrin, Sunflower seed oil (High oleic acid), Calcium caseinate, Whey protein isolate Soy protein isolate, Isomaltulose (6.1%), Fructose, Rapeseed oil - low erucic acid, Fructo-oligosaccharides Gum arabic, Minerals, Inulin, Sunflower seed oil, Antioxidants (Soya lecithin, L-Ascorbic acid, TBHQ! Myo-inositol, Choline bitartrate, Nature-identical flavouring substance, Vitamins, L-Carnitine, Taurine Acidity regulator (Citric acid).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901127027760",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

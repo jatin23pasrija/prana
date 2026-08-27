@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058904024",
+  "barcode_printed": "8901058904024",
+  "barcode_format": "EAN-13",
+  "name": "Milo for Teenage",
+  "brand": "milo",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "25g",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 147,
+        "sugars_g": 19,
+        "fat_g": 1.1,
+        "saturated_fat_g": 0.8,
+        "sodium_mg": 39.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058904024",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

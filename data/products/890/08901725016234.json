@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725016234",
+  "barcode_printed": "8901725016234",
+  "barcode_format": "EAN-13",
+  "name": "Sunfeast Dark Fantasy Bourbon",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "MAIDA REFINED WHEN FLOUR), SUGAR (34.0%), REFINED PALM OIL, COS (INS 75 INS 1904, INS 1291, STARCH, COCOA SOLIDS (2.1%), RAISING AGENTS (INS 503(1), IN), 40) ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA, CHOCOLATE), EMULSIFIERS [MONO AND DIGLYCERIDES OF FATTY ACID, LECITHIN,PLAIN CHOCOLATE (0.1%), IODIZED SALT,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725016234",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063237255",
+  "barcode_printed": "8904063237255",
+  "barcode_format": "EAN-13",
+  "name": "Minute Khana Kadhi Pakoda",
+  "brand": "haldirams-snacks-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.5 pack (150 g)",
+        "quantity": {
+          "value": 150,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 190,
+        "protein_g": 5,
+        "carbohydrate_g": 10,
+        "sugars_g": 3,
+        "fat_g": 14,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 850
+      }
+    }
+  ],
+  "ingredients_raw": "Water, yogurt (20%) bengal gram fleur (6.3%), sunflower oil, butter, onion, salt, green chilli, coriander, red chilli, fenugreek seeds, asafoetida extract, garlic, turmeric powder, mustard seeds and curry leaves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063237255",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080604720",
+  "barcode_printed": "8906080604720",
+  "barcode_format": "EAN-13",
+  "name": "Basil Sabja Seeds Mixed Fruit",
+  "brand": "paper-boat",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, APPLE JUICE CONCENTRATE (1%)#, MANGO PULP CONCENTRATE (1%)#, ORANGE JUICE CONCENTRATE (0.7%)#, ACIDITY REGULATORS [330, 331(iii), 327], BASIL SEEDS (0.3%), FLAVOURS (NATURE-IDENTICAL AND NATURAL FLAVOURING SUBSTANCES), IODISED SALT, GELLING AGENT (418), ANTIOXIDANT (385), PRESERVATIVES (211, 202) AND COLOURS (110, 122). #RECONSTITUTED 13% MIXED FRUIT JUICE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080604720",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

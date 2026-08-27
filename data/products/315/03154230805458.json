@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "03154230805458",
+  "barcode_printed": "3154230805458",
+  "barcode_format": "EAN-13",
+  "name": "HERTA TARTE EN OR Pâte Feuilletée LOT 2+1 OFFERTE",
+  "brand": "herta",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 690,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Farine de BLÉ, Eau, Huiles végétales (palme, colza), GLUTEN de BLÉ, Alcool, Sel, Jus de citron concentré, Levure désactivée. Peut contenir : LAIT, SOJA, MOUTARDE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3154230805458",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

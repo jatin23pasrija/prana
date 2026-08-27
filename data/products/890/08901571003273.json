@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901571003273",
+  "barcode_printed": "8901571003273",
+  "barcode_format": "EAN-13",
+  "name": "Women Horlicks",
+  "brand": "horlics",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cereal Extract(44%), Barley(25%), Wheat(10%), Malted Barley(8%), Wheat Malt(1%), Milk Solids(34%), Corn Solids, Coco Powder, Minerals, Salt , Vegetable Juice Powder, Vitamins ,Artificial Sweetner",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901571003273",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

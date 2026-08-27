@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906130900185",
+  "barcode_printed": "8906130900185",
+  "barcode_format": "EAN-13",
+  "name": "Orion The Ultimate Choco Chip Cookies",
+  "brand": "orion",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 531.2,
+        "energy_kj": 2223,
+        "protein_g": 6,
+        "carbohydrate_g": 59.2,
+        "sugars_g": 26.5,
+        "fat_g": 30,
+        "saturated_fat_g": 17.9,
+        "trans_fat_g": 0.04,
+        "sodium_mg": 152.2
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), CHOCOLATE CHIPS (26%) {SUGAR, (COCOA SOLIDS & COCOA BUTTER) (46.5%), EMULSIFIERS (INS 322, INS 476), NATURAL FLAVOURING SUBSTANCE (VANILLA)}. HYDROGENATED VEGETABLE FAT, LIQUID GLUCOSE, SUGAR, MILK SOLIDS, INVERT SYRUP, COCOA SOLIDS, LEAVENING AGENTS [INS 503(ii), INS 500(ii)], EDIBLE COMMON SALT, EMULSIFIER (INS 322). NATURE IDENTICAL FLAVOURING SUBSTANCES (CHOCOLATE, MILK & VANILLA), ALLERGEN INFORMATION: CONTAINS WHEAT, MILK AND SOY. MAY CONTAIN SULPHITE & NUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906130900185",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

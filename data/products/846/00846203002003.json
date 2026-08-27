@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00846203002003",
+  "barcode_printed": "0846203002003",
+  "barcode_format": "EAN-13",
+  "name": "Chitale Bandhu Potato Shev",
+  "brand": "chitale-bandhu",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato, Refined Groundnut Oil.,Arrowroot Starch, Bengal gram Flour, Iodised Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0846203002003",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

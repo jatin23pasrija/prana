@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "00000019015958",
+  "barcode_printed": "19015958",
+  "barcode_format": "EAN-8",
+  "name": "Veg hakka",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 373.33,
+        "protein_g": 12.67,
+        "carbohydrate_g": 78,
+        "sugars_g": 0,
+        "fat_g": 1,
+        "saturated_fat_g": 0,
+        "sodium_mg": 483.33
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/19015958",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

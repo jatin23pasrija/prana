@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001032124",
+  "barcode_printed": "8908001032124",
+  "barcode_format": "EAN-13",
+  "name": "Multi Grain Bread",
+  "brand": "everyday",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 260,
+        "protein_g": 9,
+        "carbohydrate_g": 47,
+        "sugars_g": 2,
+        "fat_g": 4,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0,
+        "fibre_g": 7
+      }
+    }
+  ],
+  "ingredients_raw": "WHOLE WHEAT FLOUR, LEGUMES AND OIL SEEDS (SOYA FLAKES, SUNFLOWER SEEDS, FLAX, MELON SEEDS. SESAME SEEDS), YEAST, ROLLED OATS, RAGI FLOUR, WHEAT BRAN, SUGAR, SALT, EDIBLE VEGETABLE OIL, WHEAT GRITS, CLASS II PRESERVATIVE (282), EMULSIFIERS (471), IMPROVER (1100), ACIDITY REGULATOR (260), ANTI OXIDANTS (300), FLOUR TREATMENT AGENT (510) :",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001032124",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

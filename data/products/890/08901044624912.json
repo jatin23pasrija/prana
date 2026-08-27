@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901044624912",
+  "barcode_printed": "8901044624912",
+  "barcode_format": "EAN-13",
+  "name": "mapro butterscotch syrup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Toppings SYNTHETIC SYRUP INGREDIENTS: SUGAR, WATER, LIQUID GLUCOSE, THICKENERS (INS-440,INS-415), ACIDITY REGULATOR (INS-330) CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS-102, INS-110), NATURAL COLOUR (INS-150(d)) AND ADDED FLAVOURS - NATURAL, NATU IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (BUTTERSCOTCH) CONTAINS PERMITTED CLASS II PRESERVATIVE (INS-211) Manufactured by: MAPRO FOODS PVT. LTD. 122, Shendurjane, Wai 412 803, Dist. Satara, Maharashtra, Indi STORE IN A COOL, DRY AND HYGIENIC PLACE Nutritional Facts per 100m fsat 330",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901044624912",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

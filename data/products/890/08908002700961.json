@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002700961",
+  "barcode_printed": "8908002700961",
+  "barcode_format": "EAN-13",
+  "name": "Milky Biscuits",
+  "brand": "perrys",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 493.4,
+        "protein_g": 7.4,
+        "carbohydrate_g": 68.7,
+        "sugars_g": 28,
+        "fat_g": 21,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 0.06,
+        "sodium_mg": 220
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR - MAIDA (56%), WHEAT FLOUR - ATTA (10%), SUG AR, INTERESTERIFIED VEGETABLE OIL FAT & REFINED PALM OIL,INVERT SUGAR SYRUP GLUCOSE POWDER, MILK SOLIDS, RAISING AGENTS [INS 500(11),INS 503(11)], EMULSIFIERS (INS 322), (INS 170), (INS 450), IODISED SALT. CONTAINS ADDED FLAVOURS ARTIFICIAL FLAVOURING SUBSTANCES - MILK, VANNILA,CHOCOLATE CONTAINS WHEAT, MILK & SOYA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002700961",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

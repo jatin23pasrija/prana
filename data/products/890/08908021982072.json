@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08908021982072",
+  "barcode_printed": "8908021982072",
+  "barcode_format": "EAN-13",
+  "name": "Bell Fresh Wheat Parota",
+  "brand": "bell-fresh",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 318,
+        "protein_g": 11.54,
+        "carbohydrate_g": 30.12,
+        "sugars_g": 0,
+        "fat_g": 15.92,
+        "saturated_fat_g": 5.63,
+        "fibre_g": 3.17,
+        "sodium_mg": 297.71
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flour (Atta), RO Purified Water, Edible Vegetable Oil, Edible Vegetable Fat and Low Sodium Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908021982072",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

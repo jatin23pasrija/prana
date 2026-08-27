@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414015241",
+  "barcode_printed": "8901414015241",
+  "barcode_format": "EAN-13",
+  "name": "Matar masala",
+  "brand": "bikano",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kj": 1793.68,
+        "protein_g": 19.2,
+        "carbohydrate_g": 56.7,
+        "sugars_g": 0,
+        "fat_g": 13.9,
+        "saturated_fat_g": 3.6,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 836.03
+      }
+    }
+  ],
+  "ingredients_raw": "Green Peas, Edible Vegetable Oil (Palmolein Oil and Ricebran Oil in Varying Proportions), Mixed Spices (Black salt, Dry Mango Powder, Cumin seeds Powder, Coriander Powder, Red Chilly Powder, Yellow Chilly Powder, Dry Ginger Powder, Asafoetida, White Pepper Powder, Green Chilly Powder, Black Pepper Powder), Jodized Salt, Turmeric Powder, Acidity Regulators (E 330, E 296), flavouring. CONTAINS PERMITTED NATURAL [E 100 AND E 141] AND g SYNTHETIC FOOD COLOUR (E133/FD&C BLUE NO.1) घण ४‍ Or Val Allergy Advice: For Allergens see ingredients in Bold May also contain Wheat, Oats, Peanuts, Nuts, Soya, Milk and Sesame. Tiek olia",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414015241",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

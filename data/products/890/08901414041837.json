@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414041837",
+  "barcode_printed": "8901414041837",
+  "barcode_format": "EAN-13",
+  "name": "Mini Samosa",
+  "brand": "bikano",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Рафинированная пшеничная мука, высокоолеиновое масло (рафинированное), бенгальский нут колотый (13%), очищенный зеленый маш (5,6%), йодированная соль, кокосовый порошок (2%), смесь специй, сахар (Сахароза), семена кумина, листья пажитника, черная соль, асафетида. Содержит аллергены: пшеницу, кокос и кунжут. Может содержать следы арахиса, молока, орехов, сои и овса.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414041837",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

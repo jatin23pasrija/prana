@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "05059883365688",
+  "barcode_printed": "5059883365688",
+  "barcode_format": "EAN-13",
+  "name": "Cinnamon Danish Impact Whey",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 382,
+        "protein_g": 73.14,
+        "carbohydrate_g": 8.53,
+        "sugars_g": 4.98,
+        "fat_g": 5.95,
+        "saturated_fat_g": 3.62,
+        "sodium_mg": 180
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5059883365688",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

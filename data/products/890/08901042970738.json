@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042970738",
+  "barcode_printed": "8901042970738",
+  "barcode_format": "EAN-13",
+  "name": "Minute Fresh Idli Batter",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 127,
+        "protein_g": 4.9,
+        "carbohydrate_g": 25,
+        "sugars_g": 0.3,
+        "fat_g": 0.8,
+        "saturated_fat_g": 0.5,
+        "sodium_mg": 428
+      }
+    }
+  ],
+  "ingredients_raw": "RO Purified water, Rice suji, Black gram (13%) and lodised salt. Allergen Advice: May contains Wheat Gluten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042970738",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

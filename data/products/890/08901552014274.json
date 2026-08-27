@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552014274",
+  "barcode_printed": "8901552014274",
+  "barcode_format": "EAN-13",
+  "name": "tandoori naan",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 426,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Zirren KA ORIGINAL INDIAN TASTE Yeast, ournesol, Sel, Surce, Levure, me. 1½ minutes. Serve hot and briques Par: D dl. Estate, Nadiad - 387001,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552014274",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335603412",
+  "barcode_printed": "8904335603412",
+  "barcode_format": "EAN-13",
+  "name": "Super Muesli",
+  "brand": "yoga-bar",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 389,
+        "protein_g": 11.5,
+        "carbohydrate_g": 70,
+        "sugars_g": 3,
+        "fat_g": 8.5,
+        "saturated_fat_g": 1.8,
+        "fibre_g": 7,
+        "sodium_mg": 46.3
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Grains 68% {Rolled Oats, Brown Rice, Millets 20% (Jowar, Ragi, Bajra, Samai)}, Dehydrated Fruits 17% (Raisins, Strawberry Powder, Cranberry, Blackcurrant), Nuts & Seeds 8% (Almond, Pumpkin, Flax, Chia), Dates Syrup, Prebiotic Fibre (Fructo-oligosaccharide), Rice Bran Oil, Himalayan Pink Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335603412",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

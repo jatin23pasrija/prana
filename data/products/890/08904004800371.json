@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004800371",
+  "barcode_printed": "8904004800371",
+  "barcode_format": "EAN-13",
+  "name": "Tasty Nuts",
+  "brand": "haldiram-s",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Groundnut (Peanuts), Refined Palmolein Oil, Bengal Gram Flour (Besan), Maize Starch, Edible Common Salt, Red Chilli, Acidity Regulator (INS 330), Turmeric, Black Salt, Black Pepper, Dried Ginger Powder, Cardamom, Cumin, Cinnamon, Clove, Bay Leaf, Nutmeg & Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004800371",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

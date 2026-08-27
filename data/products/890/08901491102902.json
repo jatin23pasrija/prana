@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491102902",
+  "barcode_printed": "8901491102902",
+  "barcode_format": "EAN-13",
+  "name": "Flirty Tomato Tango",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 29.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 543,
+        "protein_g": 7.1,
+        "carbohydrate_g": 53.2,
+        "sugars_g": 5.1,
+        "fat_g": 33.5,
+        "saturated_fat_g": 13,
+        "sodium_mg": 687
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Sugar, Salt, Tomato Powder (0.8%), ~Spices& Condiments (Red Pepper Powder, Black Pepper Powder, Garlic Powder, Ginger, Clove Powder, Cinnamon Powder), Dextrose, Wheat Fibre.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491102902",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

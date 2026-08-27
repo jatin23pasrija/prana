@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "00726872048994",
+  "barcode_printed": "0726872048994",
+  "barcode_format": "EAN-13",
+  "name": "Pork Puffs",
+  "brand": "solo",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 packet (25 g)",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 118.46,
+        "protein_g": 14.97,
+        "carbohydrate_g": 2.44,
+        "sugars_g": 0.49,
+        "fat_g": 5.42,
+        "trans_fat_g": 0.01,
+        "sodium_mg": 411.67
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0726872048994",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

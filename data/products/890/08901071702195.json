@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071702195",
+  "barcode_printed": "8901071702195",
+  "barcode_format": "EAN-13",
+  "name": "Exotic dark",
+  "brand": "hershey-s",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Liquid Glucose, Cocoa Solids (1) Fruit Pulp (#5.6%) (Papaya (5.3%), Blueberry (0.19 Acai (80.14%). Cocoa Butter, Fractionated Vegetable Fal Stabilizers (440,414,331 (1400), Milk Solids, Acidity Regulator (296), Flavours Nature Identical & Artificial Favouring Substances (Raspberry, Vanilla and Green Apple), Emulsifiers (442,476), lodized Salt, Synthetic Food Colours (122,133,132,102) and Glazing Agent (304) CONTAINS COCOA BUTTER EQUIVALENT/VEGETABLE FAT IN ADDITION TO COCOA BUTTER ALLERGEN INFORMATION: CONTAINS MILK MAY CONTAIN NUT, SOY AND WHEAT. Nutritional Information. If a serve is 15g. Pack contains 7 servings. Approximate Values #. &quot;Based on Recommended daily allowance for an average adult (",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071702195",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

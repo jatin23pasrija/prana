@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906100881643",
+  "barcode_printed": "8906100881643",
+  "barcode_format": "EAN-13",
+  "name": "Masala Jeera Kashmira",
+  "brand": "hajoori",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, CANE SUGAR, IODISED SALT, ACIDITY REGULATOR - CITRIC ACID (E330), PERMITTED CLASS II PRESERVATIVE - SODIUM BENZOATE (E211), CONTAINS PERMITTED FOOD COLOUR - CARAMEL-IV (E150d), AND ADDED NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES OF JEERA (CUMIN) AND SPICES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906100881643",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

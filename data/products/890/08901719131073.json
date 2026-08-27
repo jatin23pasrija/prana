@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719131073",
+  "barcode_printed": "8901719131073",
+  "barcode_format": "EAN-13",
+  "name": "20-20 Nice",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 478,
+        "protein_g": 6.5,
+        "carbohydrate_g": 72.8,
+        "sugars_g": 25.2,
+        "fat_g": 17.9,
+        "saturated_fat_g": 9.6,
+        "sodium_mg": 243
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719131073",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

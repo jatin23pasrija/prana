@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "00890079014158",
+  "barcode_printed": "0890079014158",
+  "barcode_format": "EAN-13",
+  "name": "Macarrão instantâneo sabor pão na chapa",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 458.82,
+        "protein_g": 10.82,
+        "carbohydrate_g": 61.18,
+        "sugars_g": 2,
+        "fat_g": 18.82,
+        "saturated_fat_g": 9.06,
+        "fibre_g": 2,
+        "sodium_mg": 1260
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0890079014158",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

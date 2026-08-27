@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08901972050050",
+  "barcode_printed": "8901972050050",
+  "barcode_format": "EAN-13",
+  "name": "Desire",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "protein_g": 6.29,
+        "carbohydrate_g": 68.29,
+        "sugars_g": 30.86,
+        "fat_g": 22,
+        "saturated_fat_g": 11.14,
+        "fibre_g": 1.43,
+        "sodium_mg": 120
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901972050050",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

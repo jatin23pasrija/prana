@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063281203",
+  "barcode_printed": "8904063281203",
+  "barcode_format": "EAN-13",
+  "name": "Lachcha Paratha",
+  "brand": "haldiram-s",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 360,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Wheat Flour (44%), Water, Refined Vegetable Oil (Cotton Seed and/or Sunflower Oil), Refined Wheat Flour, Skim Milk Powder, Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063281203",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

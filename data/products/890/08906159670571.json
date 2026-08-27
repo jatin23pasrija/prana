@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08906159670571",
+  "barcode_printed": "8906159670571",
+  "barcode_format": "EAN-13",
+  "name": "Dhani Pure Garam Masala",
+  "brand": "dhani-pure",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 420.5,
+        "protein_g": 14.21,
+        "carbohydrate_g": 58.38,
+        "sugars_g": 2.77,
+        "fat_g": 14.46,
+        "sodium_mg": 442.91
+      }
+    }
+  ],
+  "ingredients_raw": "Cumin, Cassia, Dry Ginger, Chillies, Pepper Black, Cloves, Large Cardamom, Cardamom, Star Anise, Cinnamon, Coriander, Iodised Salt (Not Curry Powder) Cassia Bark (Taj) Cinnamon (Dalchini)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906159670571",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

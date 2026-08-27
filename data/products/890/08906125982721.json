@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906125982721",
+  "barcode_printed": "8906125982721",
+  "barcode_format": "EAN-13",
+  "name": "Buttter popcorn",
+  "brand": "4700bc",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (22 g)",
+        "quantity": {
+          "value": 22,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 102,
+        "protein_g": 2.1,
+        "carbohydrate_g": 14.6,
+        "sugars_g": 0.4,
+        "fat_g": 3.9,
+        "saturated_fat_g": 1.1,
+        "fibre_g": 0.8,
+        "sodium_mg": 73.9
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906125982721",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

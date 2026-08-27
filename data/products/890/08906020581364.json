@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020581364",
+  "barcode_printed": "8906020581364",
+  "barcode_format": "EAN-13",
+  "name": "Protein Rich Dosa Batter",
+  "brand": "id",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 800,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50 g",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 88.68,
+        "protein_g": 7.62,
+        "carbohydrate_g": 14.19,
+        "sugars_g": 0,
+        "fat_g": 0.16,
+        "saturated_fat_g": 0.08,
+        "fibre_g": 1.45,
+        "sodium_mg": 81.45
+      }
+    }
+  ],
+  "ingredients_raw": "RO-Purified Water (52%), Rice (27%), Protein Blend (Pea Protein Isolate, Soya Protein Isolate, Brown Rice Protein Isolate) (8.5%), Urad Dal, Rice Rava, Iodised Salt And Fenugreek.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020581364",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

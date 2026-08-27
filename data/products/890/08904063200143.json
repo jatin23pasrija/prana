@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200143",
+  "barcode_printed": "8904063200143",
+  "barcode_format": "EAN-13",
+  "name": "Haldirams Masala Moong Dal 200G",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Haricot mungo (70%), huile végétale (arachide, maïs, graine de coton), sel, poudre de coriandre (1,71%), poudre de cumin (0.61%), poudre de gingembre (0,45%), poudre de poivre noir (0,30%), poudre de nacis (0,24%), poudre de muscade (0,21%), poudre de piment rouge (0,15%), poudre de cardamome (0,12%), poudre de grenade (0,11%), acidifiant: acide citrique. Attention: Ce produit contient des arachidon",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200143",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

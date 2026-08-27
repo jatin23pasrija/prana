@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058902839",
+  "barcode_printed": "8901058902839",
+  "barcode_format": "EAN-13",
+  "name": "Veg Atta Masala Noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 290,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 393,
+        "protein_g": 8,
+        "carbohydrate_g": 63.3,
+        "sugars_g": 2.7,
+        "fat_g": 13,
+        "saturated_fat_g": 7.5,
+        "fibre_g": 4.8,
+        "sodium_mg": 821
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat flour (atta) (85.3%), Palm oil, lodised salt, Thickeners (508, 412), Humectants (451(1), 452(i)) and Acidity regulators (501(i), 500 (i)),Mixed spices (22,5%), (&quot;Roasted spice mix powder (6.6%) (Coriander, Turmeric, Cumin, Aniseed, Black pepper, Fenugreek, Ginger, Green cardamom, Cinnamon, Clove, Nutmeg, Bay leaf & Black cardamom), Onion powder, Garlic powder, Red chilli powder, Red chilli bib, Coriander powder, Turmeric powder, Ginger powder, Aniseed powder, Black pepper powder, Cumin powder, Cumin, fenugreek powder, Capsicum extract, Compounded asafoetida, Star anise powder, Coriander extract & Cumin extract) Dehydrated Vegetables (16.7%) (Carrot bits (8.5%) & Green peas (8.2%)), Toasted onion flakes (Onion (12.4%) & Corn oil), Refined wheat flour (Maida), Sugar, lodised salt, Toasted onion powder (Onion (5.9%) & Corn oil), Thickener (508), Palm oil, Flavour enhancer (635), Yeast extract powder, Dehyciated kasuri methi leaves Starch, Acidity regulator (330), Mineral and Wheat gluten. Contains Wheat. May contains Milk Oats and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058902839",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

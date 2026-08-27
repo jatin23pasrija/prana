@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777328088",
+  "barcode_printed": "8901777328088",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi Chhole",
+  "brand": "vadilal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (142 g)",
+        "quantity": {
+          "value": 142,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 240,
+        "protein_g": 7,
+        "carbohydrate_g": 20,
+        "sugars_g": 4,
+        "fat_g": 15,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 7,
+        "fibre_g": 10,
+        "sodium_mg": 100
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777328088",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

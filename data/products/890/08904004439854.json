@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004439854",
+  "barcode_printed": "8904004439854",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Paratha Stuffed Indian Bread",
+  "brand": "mo-plleez",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato (35%), wheat flour (32%), vegetable oil (contains one or more of the following: refined palmolein oil & corn oil), ginger, lemon juice, salt, edible vegetable fat, mixed spices (salt, dried mango powder, black salt, cumin, coriander seeds, black pepper, pomegranate seeds, mint, red chilli, dried ginger powder, nutmeg, clove & asafoetida), coriander leaves, green chilli, black salt, cumin, red chilli flakes, red chilli powder, garlic, coriander seed, fennel seed & mint leaves powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004439854",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

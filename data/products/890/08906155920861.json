@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906155920861",
+  "barcode_printed": "8906155920861",
+  "barcode_format": "EAN-13",
+  "name": "Masala Cup",
+  "brand": "hadwani-s-gokul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 503,
+        "protein_g": 9,
+        "carbohydrate_g": 59,
+        "sugars_g": 6.5,
+        "fat_g": 25.7,
+        "saturated_fat_g": 12.1,
+        "trans_fat_g": 0,
+        "sodium_mg": 976
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (67%), Edible Vegetable Oil (Palmolein Oil)(23%), Corn Starch (7.5%), Spices & Condiments (Dry Mango Powder, Chilli Powder), Black Salt, Edible Common Salt, Bicarbonate of Soda (INS 500 (ii) & Sodium Carbonate INS 500 (1)), Calcium Carbonate (INS 170). Allergen Declaration : Contain Wheat Gluten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906155920861",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

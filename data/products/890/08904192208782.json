@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904192208782",
+  "barcode_printed": "8904192208782",
+  "barcode_format": "EAN-13",
+  "name": "A2 Set Curd",
+  "brand": "dairy-tales",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Pasteurised A2 Toned Milk, A2 Milk Solids & Active Culture",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904192208782",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

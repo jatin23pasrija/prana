@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006786448",
+  "barcode_printed": "8906006786448",
+  "barcode_format": "EAN-13",
+  "name": "Ginger garlic paste",
+  "brand": "surabhi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 57.09,
+        "protein_g": 1.76,
+        "carbohydrate_g": 12.74,
+        "sugars_g": 0.94,
+        "fat_g": 0.42,
+        "saturated_fat_g": 0.11,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Ginger, Garlic, lodized Salt, Water, Acidity Regulator (INS330, INS260), Stabilizer (INS415), Preservative (INS211) CONTAINS PERMITTED CLASS II PRESERVATIVES (INS211) Allergy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006786448",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

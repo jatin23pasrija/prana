@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08902246003727",
+  "barcode_printed": "8902246003727",
+  "barcode_format": "EAN-13",
+  "name": "Budwiser Magnum",
+  "brand": "budwiser",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 56,
+        "energy_kj": 280,
+        "protein_g": 0.4,
+        "carbohydrate_g": 4,
+        "sugars_g": 0.03,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 4
+      }
+    }
+  ],
+  "ingredients_raw": "QUEULAT CABERNET SAUVIGNON SINGLE VINEYARD GRAN RESERVA This Cabernet Sauvignon comes from a single vineyard, whose origen will always be the grapes from the vines gg in our Trinidad vineyard estate, located in the Maipo vaftag his wine has spent a total of 12 months stored in oak barrels and in the bottle. Queulat has been created especially for gastronomy, inviting you to experience the perfect balance between the wine and a delicious dish. Ideal for accompanying grilled meals seasoned texture like Emmental or Brie. as well as mature VALLE DEL MAIPO Imported by: VyF EUROPA, S.L. Principe de Vergara, 211 70 28002, Madrid (España) CIF: B-87322426 PRODUCED AND BOTTLED BY VINA VENTISQUEBO LTDA SECTORILA ISLA SIN LOTE A LO MIRANDA, DONIHUE-CHILE, WWE OF CHILE/PRODUCT OF CHILE/RED WINE s Sulphites/Fit Suit/Indeholder Satur Sutt/Scat Suffiteja/ Sufit/Scacab Sulfited/Comtém Tide Suftal/Content Sittany/Indeholder Bade/Obsah Содержит сульфиты Lor22143 11:36 Drink Responsibly UK Government recommends adults do not regularly exceed: Men Women 10.1 1.7 UK Units Units 75cl 3-4 units a day 2-3 units a day www.drinkaware.co.uk 7 808725 4.0 487",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902246003727",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

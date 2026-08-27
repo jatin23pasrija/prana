@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904422711303",
+  "barcode_printed": "8904422711303",
+  "barcode_format": "EAN-13",
+  "name": "Aarogya Multi Grain Biscuits",
+  "brand": "patanjali",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 68,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500.7,
+        "protein_g": 7.25,
+        "carbohydrate_g": 68.87,
+        "sugars_g": 25.69,
+        "fat_g": 20.22,
+        "saturated_fat_g": 8.63,
+        "trans_fat_g": 0,
+        "fibre_g": 7.11,
+        "sodium_mg": 263.15
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat flour (Atta) 52.76%, Edible vegetable oil (Palm Oil), Sugar, Invert sugar syrup, Mixed Flours (Barley 1.1%, Water Chestnut 0.55%, Black Gram 0.41%, Jowar 0.27%, Amaranth,Maize 0.21%), Dextrose, Wheat Bran, Sweetened Condensed Milk, Skimmed milk powder, lodized salt, Raising agents (503), 500), Honey, Nature identical & Artificial flavouring substances (Honey & Butter), Emulsifier (INS 322), INS 472e), Dehydrated Vegetable Powder (Tomato Powder 0.14%, Carrot Powder 0.07%), Butter, Dough conditioner (INS 223).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904422711303",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

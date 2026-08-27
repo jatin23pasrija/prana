@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595963355",
+  "barcode_printed": "8901595963355",
+  "barcode_format": "EAN-13",
+  "name": "chings noodles",
+  "brand": "ching-s",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 240,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles: Refined Wheat Flour (Maida), Refined Palm Oil, Iodised Salt, Wheat Gluten, Thickener (INS 508), Stabilizer (INS 451), Acidity Regulator (INS 501 (i)), Raising Agent (INS 500(ii)). Antioxidant (INS 319). Seasoning Mix: Corn Flour, Iodised Salt, Garlic Powder, Sugar, Mixed Spices (9%) [Chilli, Ginger, Pepper], Onion Powder, Dehydrated Vegetables (2.4%) [Carrot, Parsley], Flavour Enhancer (INS 635), Soy Sauce Powder (Soybean, Wheat, Salt), Acidity Regulator (INS 330), Sunflower Oil, Anticaking Agent (INS 551), Tomato Powder, Yeast Extract, Natural Flavouring Substances. ALLERGEN ADVICE: Contains Wheat and Soy. May contain Mustard, Milk & Celery.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595963355",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

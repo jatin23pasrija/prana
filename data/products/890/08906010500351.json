@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500351",
+  "barcode_printed": "8906010500351",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Sev",
+  "brand": "balaji",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "EDIBLE VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWINGS: PALMOLEN RACE BRAN, CORN, COTTONSEED), CHICKPEA FLOUR, POTATO FLAKES (21%), SEASONING MALTODEXTRIN, EDIBLE COMMON SALT, SPICES & CONDIMENTS (ORY MANGO, CUMIN FENNEL CHILL, CORIANDER, CLOVE, TURMERIC, PEPPER CARDAMOM, GINGER), DEHYDRATED VEGETABLE POWDER (MINT 0.2%, GARLIC, TAMARIND), FLAVOUR NATURAL NATURE DENTICAL FLAVOURING SUBSTANCES), ACIDITY REGULATOR (INS-330 INS 2 FLAVOUR ENHANCER (INS 635), ANTICAKING AGENT (INS 551, INS 341 (11))]. RICE FLOUR AS FLAVOURING & SEASONING AGENT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500351",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

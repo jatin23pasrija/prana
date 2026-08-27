@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "00890535631936",
+  "barcode_printed": "0890535631936",
+  "barcode_format": "EAN-13",
+  "name": "This is Food",
+  "brand": "yfood",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 300,
+        "protein_g": 24,
+        "carbohydrate_g": 28,
+        "sugars_g": 3.9,
+        "fat_g": 9.3,
+        "saturated_fat_g": 6.7,
+        "fibre_g": 22
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0890535631936",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

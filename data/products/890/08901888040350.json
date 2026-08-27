@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901888040350",
+  "barcode_printed": "8901888040350",
+  "barcode_format": "EAN-13",
+  "name": "Real fruit power mixed fruit 1ktr tpk",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Concentrated Mixed Fruit Juice (12.03%) [From Apple, Orange, Guava, Apricot, Mango, Banana, Lime, Passion Fruit, Pineapple], Sugar, Acidity Regulator (INS 330), Antioxidant (INS 300), Stabilizer (INS 440), Colours [INS 160 a (ii) & (iii)] and Flavours (Natural & Nature identical Flavouring Substances). THIS CONTAINS 60% MIXED FRUIT JUICE CONTENT. within 5 days",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901888040350",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

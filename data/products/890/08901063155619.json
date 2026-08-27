@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063155619",
+  "barcode_printed": "8901063155619",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Tiger Krunch Chocochips",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NGREDIENTS: REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, CHOCO CHIPS (8%) [SUGAR, EDIBLE VEGETABLE FAT, COCOA SOLIDS, DEXTROSE MULSIFIER (322(i))& NATURAL FLAVOURING SUBSTANCE], INVERT SUGAR SYRUP, COLOURS [150c, 124 & 133], RAISING AGENTS [500(ii) & 503(ii)], COCOA SOLIDS 0.4%), IODISED SALT, EMULSIFIERS [322(i), 471 & 472e], NATURE IDENTICAL (CHOCOLATE) & ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES, MINERAL DOUGH ONDITIONER [223] AND VITAMIN*. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, SOY AND SULPHITE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063155619",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

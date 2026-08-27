@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08906165781995",
+  "barcode_printed": "8906165781995",
+  "barcode_format": "EAN-13",
+  "name": "FuelOne Whey Max",
+  "brand": "fuelone",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 Scoop (36 g)",
+        "quantity": {
+          "value": 36,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 144.9,
+        "protein_g": 27,
+        "carbohydrate_g": 4.61,
+        "fat_g": 2.05
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Concentrate, Whey Protein Isolate, Cocoa Powder, Nature Identical Flavouring Substances, Emulsifier (INS 322 (i)), Sodium Chloride, Proprietary Enzyme Blend, Sweetener (INS 955), Stabilizer (INS 415) & Anticaking Agent (INS 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906165781995",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

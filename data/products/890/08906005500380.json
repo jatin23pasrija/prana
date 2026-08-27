@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005500380",
+  "barcode_printed": "8906005500380",
+  "barcode_format": "EAN-13",
+  "name": "BIKAJI aloo bhujia tana-tan",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil) Dehydrated Potato Flakes (20%) Gram Flour, Dew Bean Flour (Moth Flour) Potato Starch (4%) Tapioca Starch Ground Spices & Condiments (lodised Salt, Dry Mango, Red Chilli, Ginger, Black Pepper, Cardamom, Cumin, Clove, Turmeric) Dehydrated Vegetable Powder (Tomato, Onion, Garlic, Black Salt, Mace, Nutmeg, Cinnamon, Extracts & Oils Peppermint, Spearmint, Lemon, Red Chilli, Onion, Cumin) Acidity Regulator (INS 296) Anticaking Agent (INS 551) CONTAINS: ADDED FLAVOURS (NATURAL AND NATURAL IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005500380",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

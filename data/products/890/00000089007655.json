@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "00000089007655",
+  "barcode_printed": "89007655",
+  "barcode_format": "EAN-8",
+  "name": "Doublemint",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 242,
+        "protein_g": 0,
+        "carbohydrate_g": 97,
+        "sugars_g": 0,
+        "fat_g": 0.8,
+        "saturated_fat_g": 0.8,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89007655",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

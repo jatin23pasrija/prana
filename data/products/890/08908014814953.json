@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014814953",
+  "barcode_printed": "8908014814953",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Bread",
+  "brand": "mr-bakewell",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 238,
+        "protein_g": 11.23,
+        "carbohydrate_g": 39.65,
+        "sugars_g": 3.89,
+        "fat_g": 1.1,
+        "saturated_fat_g": 0.42,
+        "sodium_mg": 428
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour Atta) 100% Water. Wheat Gluten. Yeast, Sunflower Oil, Sugar, lodised Salt, Soya Flour, Preservative (INS 282). Emulsifiers (INS 472e INS 471, INS 481) Antioxidant (INS 300), Enzymes.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014814953",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

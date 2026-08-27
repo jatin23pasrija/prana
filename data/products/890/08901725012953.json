@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725012953",
+  "barcode_printed": "8901725012953",
+  "barcode_format": "EAN-13",
+  "name": "sunfeast Marie light 10 MRP",
+  "brand": "coffee-mate",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR NED PALM OIL INVERT SYRE SED MILK, RISING AGEN ZED SALT, NATURE IDENTICAL CES, FLOUR TREATMENT AGENT ACETYLTARTARIC AND FATTY ACID (FROM REFINED AL FLAVOURING SUBSTANCES OIL AND PALM OIL)). TAINS W MAY CONTAIN NGAL COLOUR Sunfea VITAMINS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725012953",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

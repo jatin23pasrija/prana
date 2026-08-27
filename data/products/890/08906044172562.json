@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906044172562",
+  "barcode_printed": "8906044172562",
+  "barcode_format": "EAN-13",
+  "name": "Scoops Gold Madagascar Vanilla",
+  "brand": "scoops",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 394,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 188.5,
+        "protein_g": 3.6,
+        "carbohydrate_g": 21,
+        "sugars_g": 15,
+        "fat_g": 10
+      }
+    }
+  ],
+  "ingredients_raw": "Milk & Milk Solids, Sugar, Liquid Glucose, Permitted Stabilizing and Emulsifying agents [INS 407,INS 412,INS 410,INS 415,INS 440,INS 466,INS 471,INS 491] CONTAINS ADDED NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906044172562",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

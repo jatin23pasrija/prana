@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004402131",
+  "barcode_printed": "8904004402131",
+  "barcode_format": "EAN-13",
+  "name": "Dry fruit mix",
+  "brand": "haldiram-s",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 538,
+        "protein_g": 17.15,
+        "carbohydrate_g": 44.91,
+        "sugars_g": 8.05,
+        "fat_g": 30.8,
+        "saturated_fat_g": 9.04,
+        "trans_fat_g": 0,
+        "fibre_g": 6.1,
+        "sodium_mg": 350
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Palmolein Oil, Split Pulse Moong (Moong Dal), Potato, Almonds(12.5%), Cashew Nuts (12.5%), Raisins (8%), Bengal Gram Flour (Besan), Spinach, Cucumber Seed, Edible Common Salt, Black Pepper Powder, Dried Mango Powder, Red Chilli Powder, Pipal, Clove Powder, Colour (INS 140(i)), Dried Ginger Powder, Cumin, Bay Leaves, Nutmeg, Cinnamon & Asafoetida. Allergen: Contains Almonds & Cashews May Contains Peanut, Sesame Seed, Milk, Soy, Mustard Seed, Sulphite & Wheat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004402131",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

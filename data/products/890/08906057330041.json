@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906057330041",
+  "barcode_printed": "8906057330041",
+  "barcode_format": "EAN-13",
+  "name": "Dwarkesh Mango Slice",
+  "brand": "dwarkesh",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 374.2,
+        "protein_g": 14.06,
+        "carbohydrate_g": 71.57,
+        "fat_g": 3.52
+      }
+    }
+  ],
+  "ingredients_raw": "Mango Slice",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906057330041",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

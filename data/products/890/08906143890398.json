@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906143890398",
+  "barcode_printed": "8906143890398",
+  "barcode_format": "EAN-13",
+  "name": "The Whole Truth Choco Fruit Crunch Muesli",
+  "brand": "the-whole-truth",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50g",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 224.9,
+        "protein_g": 6,
+        "carbohydrate_g": 34.2,
+        "sugars_g": 10.5,
+        "fat_g": 7.1,
+        "saturated_fat_g": 3,
+        "fibre_g": 5,
+        "sodium_mg": 26.9
+      }
+    }
+  ],
+  "ingredients_raw": "Whole grains (rolled oats, brown rice flakes, ragi flakes) 47%, dried fruits (cranberries, black & golden raisins, dates) 17%, cocoa (cocoa nibs, cocoa butter, cocoa powder) 13%, kakvi 13%, seeds(pumpkin & watermelon seeds) 4%, whole milk powder 3%, almonds. 3%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906143890398",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

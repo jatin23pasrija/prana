@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014665050",
+  "barcode_printed": "8908014665050",
+  "barcode_format": "EAN-13",
+  "name": "Yogurt Drink Mango",
+  "brand": "yopop",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 73.46,
+        "protein_g": 3.59,
+        "carbohydrate_g": 11.4,
+        "sugars_g": 10.91,
+        "fat_g": 1.55,
+        "saturated_fat_g": 0.93,
+        "trans_fat_g": 0,
+        "sodium_mg": 48.83
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014665050",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

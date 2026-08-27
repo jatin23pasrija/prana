@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906074826640",
+  "barcode_printed": "8906074826640",
+  "barcode_format": "EAN-13",
+  "name": "Vegan Pistachio Millet Biscuit",
+  "brand": "karachi-bakery",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 571.43,
+        "protein_g": 7.14,
+        "carbohydrate_g": 53.04,
+        "sugars_g": 20.54,
+        "fat_g": 37.5,
+        "saturated_fat_g": 15.54,
+        "trans_fat_g": 0.1,
+        "fibre_g": 8.93,
+        "sodium_mg": 121.43
+      }
+    }
+  ],
+  "ingredients_raw": "Millet Flour (Sorghum Millet, Finger Millet, Pearl Millet, Foxtail Millet, Little Millet, Barnyard Millet, Proso Millet), Refined Wheat Flour (Maida), Edible Vegetable Fat (Derived from Palm, Soy, Rice), Sugar, Pistachio Bits and Powder, Cashew Bits, Almond Powder. CONTAINS NATURAL PISTACHIO PASTE AND FLAVOUR.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906074826640",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030825545",
+  "barcode_printed": "8901030825545",
+  "barcode_format": "EAN-13",
+  "name": "Horlicks Protein Plus Vanilla Flavour",
+  "brand": "unilever-horlicks",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 374,
+        "energy_kj": 1566,
+        "protein_g": 34,
+        "carbohydrate_g": 52,
+        "sugars_g": 30,
+        "fat_g": 4,
+        "saturated_fat_g": 3,
+        "trans_fat_g": 0.1,
+        "fibre_g": 3,
+        "sodium_mg": 550
+      }
+    }
+  ],
+  "ingredients_raw": "Skimmed Milk Powder [(50%) of which Casein (14%)], Protein Products (21%) [Whey Protein Concentrate (15%), Soy Protein Isolate (6%)], Cereal Extract (Barley, Malted Barley, Millet, Wheat), Edible Vegetable Fat Powder (High Oleic Sunflower oil) [Emulsifier (INS 471), Antioxidant (INS 305)], Dietary Fibre (Wheat Dextrin-Soluble Fibre), Nature Identical Flavouring Substances, Minerals, Vitamins, Non-Caloric Sweetener (INS 960). Allergen Information: Contains Soy, Milk, Wheat and Barley.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030825545",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

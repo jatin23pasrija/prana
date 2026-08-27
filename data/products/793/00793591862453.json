@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00793591862453",
+  "barcode_printed": "0793591862453",
+  "barcode_format": "EAN-13",
+  "name": "Kerala Banana Chips",
+  "brand": "byond-snack",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Raw Banana (72%) Refined Vegetable Oil (Palmolein), lodised Salt, Anticaking agent (E551) and Antioxidant (E319). Contains permitted natural colors & added natural and natural identical flavoring substances. Allergen Declaration: May contain traces of Soy, Milk solids and Mustard. Pack filled with Nitrogen to keep the product fresh.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0793591862453",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

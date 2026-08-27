@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "04796008920049",
+  "barcode_printed": "4796008920049",
+  "barcode_format": "EAN-13",
+  "name": "Real Mixed fruit juice",
+  "brand": "real",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 52,
+        "protein_g": 0.2,
+        "carbohydrate_g": 13.1,
+        "sugars_g": 7.1,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 7
+      }
+    }
+  ],
+  "ingredients_raw": "FHEOTRETH Tetra Pak BISKTS GOOD Réal Belief Something that's good for children should also make them smile. That's why, what your child needs is a unique blend of fruit nutrition and irresistible taste. At Réal, we believe that healthy is happy. NUTRITIONAL FACTS PER 100 ml Energy Protein Carbohydrate (APPROXIMATE)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4796008920049",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

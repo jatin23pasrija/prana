@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010271514",
+  "barcode_printed": "8908010271514",
+  "barcode_format": "EAN-13",
+  "name": "Osmania Biscuit",
+  "brand": "cafe-niloufer",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 r queries, reach out to our (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 539.38,
+        "protein_g": 5.48,
+        "carbohydrate_g": 50.36,
+        "sugars_g": 11.67,
+        "fat_g": 34.78,
+        "saturated_fat_g": 19.83,
+        "fibre_g": 1.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010271514",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

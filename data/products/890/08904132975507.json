@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132975507",
+  "barcode_printed": "8904132975507",
+  "barcode_format": "EAN-13",
+  "name": "Campa Orange Flavour",
+  "brand": "campa",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, SUGAR ACIDITY REGULATOR (330) BLITERS (414, 445) COLORS (110, 122), PRESERVATIVE (211), NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES MARKETED BY: RELIANCE RETAIL LTD. 3RD FLOOR COURT HOUSE LOKMANYA TILAK MARG DHOBI TALAO, MUMBAI, MAHARASHTRA-400002 Issai Lic. No. 10012022001275 NET QUANTITY 500 ml 戲 YOUR CITY CLEAR RECYCLABLE BOTTLE 8 904132 975507 Regn.No. HPSPCB/KN-29/CTO/BOTH/RENEW/RC/2022/6961844(ID-15519) Pkg Mu Mtd By: KRIS FLEXIPACKS(P) LTD..",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132975507",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

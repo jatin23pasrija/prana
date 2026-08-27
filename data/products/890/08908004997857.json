@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908004997857",
+  "barcode_printed": "8908004997857",
+  "barcode_format": "EAN-13",
+  "name": "Smoked Chicken Sausage",
+  "brand": "prasuma",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 192.57,
+        "energy_kj": 806,
+        "protein_g": 14.58,
+        "carbohydrate_g": 4.02,
+        "sugars_g": 0.91,
+        "fat_g": 13.13,
+        "saturated_fat_g": 4.17
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908004997857",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

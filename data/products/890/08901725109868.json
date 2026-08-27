@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725109868",
+  "barcode_printed": "8901725109868",
+  "barcode_format": "EAN-13",
+  "name": "Bingo Mad Angles PIZZA..AAAAH",
+  "brand": "itc",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 36.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "RICE GRITS, SEASONING MIX {REFINED PALMOLEIN, SUGAR, IODIZED SALT. MALTODEXTRIN [PRESERVATIVE (INS 220), HYDROLYZED VEGETABLE PROTEIN, ANTICAKING AGENT (INS 551), EMULSIFIER (INS 414) AND FLAVOR ENHANCERS (INS 627, INS 631)}, REFINED *USED AS FLAVOURING AGENT. FLAVOURING SUBSTANCES AND NATURE IDENTICAL FLAVOURING SUBSTANCESI UKEEN (15.1)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725109868",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

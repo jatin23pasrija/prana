@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207041723",
+  "barcode_printed": "8901207041723",
+  "barcode_format": "EAN-13",
+  "name": "Vita",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Anter pack, ado Anak (Emblica otica) Dried fruit pericarp 3.89g, Brahmi (Bacopa monnieri) Whole Plant 1.93g, Shankha puspi (Convolvulus Pluricaulis) Whole Plant 1.70g, Jyotisamati (Celastrus paniculatus) Seed 1.70g, Yashti (Glycyrrhiza glabra) Stolon and Root 0.66g, Ashvagandha Rost 0 18 Shetava Paragus racemosus) Root 0.13g, Varahi (Dioscorea bulbifera) Rhizome 0.13g, Sukshmalla (Elettaria cardamomum) Fruit 0.13g, Bilva (Aegle marmelos) Root 0.13g, Agnimantha (Clerodendrum phlomidis) Root/Stem bark 0.13g, Syonaka (Oroxylum indicu Peresspermum suaves Root/stem bark 0.13g, Gambhari (Gmelina arborea) RootStem bark 0.13g, Shalaparni (Desmodium gangeticum) Whole Plant 0.13g, Prishniparni (Uraria picta) Whole Plant 0.139, Pippali (Piper longum) Fruit 0.130, Brihati (Solanum indicum) Whole Plant Stensratense) Plan Gokshura (Tribulus terrestris) Fruit 0.13g, Draksha (Vitis vinifera) Dried Fruit 0.13g, Guduchi (Tinospora cordifolia) Stem 0.13g, Bala (Sida cordifolia) Root 0.13g, Pushkaramula (Inula racemosa) Root 0.13g, Mudgaparni (Phaseolus trilobus) Whole Plant us Pun Sandi (Ledenia reticlata) Root 0.13g, Utpala (Nymphaea stellata) Flower 0.13g, Vasa (Adhatoda yasica) Leaves 0.13g, Kakanashika (Martynia annua) Fruit 0.13g, Vidarikand (Pueraria tuberosa) Root tuber 0.065g, Kshira Vidari/Bedarikand (Ipomea digitata) Sub. Re Teams labialis) WhPant 0.13 Karkatshringi (Pistacia integerrima) Galls 0.13g, Tamalak (Phyllanthus niruri) Whole Plant 0.13g, Haritaki (Terminalia chebula) Pericarp 0.13g, Karchura (Curcuma zedoaria) Rhizome 0.13g, Musta (Cyperus rotundus) Rhizome 0.13g, Punara Cour-Carine, Preservative Sodium benzoate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207041723",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

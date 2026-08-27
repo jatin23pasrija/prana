@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016118028",
+  "barcode_printed": "8908016118028",
+  "barcode_format": "EAN-13",
+  "name": "Apple Drink",
+  "brand": "breeo",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, SUGAR, APPLE JUICE CONCENTRATE (19 EQUIVALENT TO 10% APPLE JUICE CONTENT), ANTIOXIDANT (INS 300), ACIDITY REGULATOR (INS 330, INS 331, INS 296, INS 33 STABILIZERS (INS 440, INS 415, INS 466) CONTAINS PERMITTED SYNTHETIC FOOD COLOR (INS 150 D) ADDED FLAVOUR (NATURAL AND NATURAL IDENTICAL FLAVOUR SUBSTANCES), AND PERMITTED CLASS II PRESERVATIVES (INS 202)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016118028",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

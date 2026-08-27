@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901548310021",
+  "barcode_printed": "8901548310021",
+  "barcode_format": "EAN-13",
+  "name": "Dark chocolate",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 474,
+        "protein_g": 4,
+        "carbohydrate_g": 58.55,
+        "sugars_g": 0,
+        "fat_g": 33.33,
+        "saturated_fat_g": 11.95,
+        "fibre_g": 3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901548310021",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

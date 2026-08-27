@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017962354",
+  "barcode_printed": "8908017962354",
+  "barcode_format": "EAN-13",
+  "name": "wicked gud masala noodles",
+  "brand": "wicked-gud",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 67,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (67 g)",
+        "quantity": {
+          "value": 67,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 283.45,
+        "protein_g": 6.74,
+        "carbohydrate_g": 41.3,
+        "sugars_g": 1.34,
+        "fat_g": 10.14,
+        "saturated_fat_g": 4.78,
+        "fibre_g": 9.05,
+        "sodium_mg": 593.82
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017962354",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

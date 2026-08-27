@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500535",
+  "barcode_printed": "8906010500535",
+  "barcode_format": "EAN-13",
+  "name": "Balaji Wafers Chaat Chaska",
+  "brand": "balaji",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 545,
+        "protein_g": 7.4,
+        "carbohydrate_g": 53.5,
+        "sugars_g": 3,
+        "fat_g": 32.2,
+        "saturated_fat_g": 15.3,
+        "trans_fat_g": 0.01,
+        "fibre_g": 6.2,
+        "sodium_mg": 392.8
+      }
+    }
+  ],
+  "ingredients_raw": "Potato (88%), Edible Vegetable Oil (Palmolein), lodized Salt, †Spices & Condiments 0.5% (Cumin, Chilli, Parsley, Ginger, Cinnamon, Black Pepper, Dry Mango), Dehydrated Vegetable Powder (Onion, Garlic), Sugar, Maltodextrin, Flavour Enhancer (INS 627, INS 631), Acidity Regulator (INS 296, INS 330), Anticaking Agent (INS 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500535",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

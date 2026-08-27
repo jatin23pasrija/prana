@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151376",
+  "barcode_printed": "8901063151376",
+  "barcode_format": "EAN-13",
+  "name": "Good day",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 514.71,
+        "protein_g": 5.88,
+        "carbohydrate_g": 67.65,
+        "sugars_g": 23.53,
+        "fat_g": 23.53,
+        "saturated_fat_g": 11.76,
+        "trans_fat_g": 0,
+        "sodium_mg": 235.29
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat flour (55%), sugar, palm oil, butter (4%), skim milk powder (2%), cashew (2%), almond (2%), pistachio (1%), salt, ammonium bicarbonate & sodium bicarbonate (leavening), mono & diglycerides of fatty acids & soya lecithin (emulsifiers), tartrazine (fd & c yellow no. 5) (artificial colour) and artificial flavours (almond & vanilla).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151376",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

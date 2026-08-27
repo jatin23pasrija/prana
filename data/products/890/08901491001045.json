@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491001045",
+  "barcode_printed": "8901491001045",
+  "barcode_format": "EAN-13",
+  "name": "Spanish Tomato Tango Flavour",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 73.7,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 525,
+        "energy_kj": 2273,
+        "protein_g": 6.4,
+        "carbohydrate_g": 53.1,
+        "sugars_g": 5.6,
+        "fat_g": 31.9,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 659
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Palmolein, Rice Bran Oil), *Seasoning (Sugar, lodised Salt, Maltodextrin, Flavour (Natural & Nature Identical Flavouring Substances), Spices & Condiments, Tomato Powder (0.6%), Hydrolysed Vegetable Protein, Wheat Fibre, Dextrose, Edible Vegetable Oil (Coconut Oil), Flavour Enhancers (627, 631)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491001045",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

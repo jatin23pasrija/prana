@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08901044570561",
+  "barcode_printed": "8901044570561",
+  "barcode_format": "EAN-13",
+  "name": "Mapro Lemon Barley Water",
+  "brand": "mapro",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 196,
+        "protein_g": 0.72,
+        "carbohydrate_g": 48.96,
+        "sugars_g": 43.15,
+        "fat_g": 0.12,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, LEMON JUICE (25%), BARLEY EXTRACT (6%), WATER, ACIDITY REGULATOR (CITRIC ACID), PRESERVATIVE (INS-224)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901044570561",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

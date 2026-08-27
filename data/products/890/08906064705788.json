@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064705788",
+  "barcode_printed": "8906064705788",
+  "barcode_format": "EAN-13",
+  "name": "Plum Cake",
+  "brand": "malabar-delights",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 393,
+        "protein_g": 4.7,
+        "carbohydrate_g": 51.3,
+        "sugars_g": 35.6,
+        "fat_g": 18.8,
+        "saturated_fat_g": 0,
+        "fibre_g": 9,
+        "sodium_mg": 79
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064705788",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

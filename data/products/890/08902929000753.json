@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08902929000753",
+  "barcode_printed": "8902929000753",
+  "barcode_format": "EAN-13",
+  "name": "raaj",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Quality Guarantee We give Great care that the Contents of this Product recommend transfer of product to an airtight container, If reaches you in perfect condition, Once opened we you have any complaints about this product, please return the packet and content to the address below stating when and where purchased, and we will refund the Money, Keep in a dry place and away from heat and direct Sunlight, GARANTIE Wir geben grosse Sorgfalt, dass der Inhalt dieses Produkts, Sie in einem perfekten Zustand erreicht, Wir empfehlen, den Inhalt dieses Beutels, nach dem Öffnen, in einem luftdichten Behälter aufzubewahren, Bei Inhaltsbeschwerden, wird Ihnen das Geld zurückerstattet an dem Ort, wo Sie das Produkt bezogen haben, Trocken lagern und vor Wärme schützen, HINWEIS Obwohl alle notwendigen Vorsichtsmassnahmen, um die Steine, Stiele und Kerne zu entfernen, gemacht worden sind, besteht die Gefahr auf einige verbliebenen, सुखी जगह पर रखे ओर सुरज की रोसनी से दूर रखे। Foreign Produce, Herkunftsland: Ausland Best Before End: Mindestens haltbar bis Ende:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902929000753",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08904406345401",
+  "barcode_printed": "8904406345401",
+  "barcode_format": "EAN-13",
+  "name": "Ice cream sandwich",
+  "brand": "frenchdairy",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 260,
+        "protein_g": 3.1,
+        "carbohydrate_g": 28,
+        "sugars_g": 23,
+        "fat_g": 6.5
+      }
+    }
+  ],
+  "ingredients_raw": "Inner Layer: Frozen Dessert, Water, Milk/milk Solids, Vegetable Fat, Sugar, Liquid Glucose, Cookies, Permitted EmulsifiersE47, E466, E415, E412, E407, E406, Stabilizers, Permitted Synthetic Food Colors & Added Artificial Flavoring Substance Outer Layer: Cookies",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904406345401",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064917501",
+  "barcode_printed": "8906064917501",
+  "barcode_format": "EAN-13",
+  "name": "Dried Cranberry",
+  "brand": "candor-foods",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole dried cranberries sugar and edible vegetable oil (sunflower oil). allergy information: packed andles nut, Soy, Sulph untry of origin ed in b",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064917501",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

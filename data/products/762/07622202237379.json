@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202237379",
+  "barcode_printed": "7622202237379",
+  "barcode_format": "EAN-13",
+  "name": "Dairy Milk Lolly",
+  "brand": "makson-pharmaceutical",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Liquid Glucose, Sugar, Milk Chocolate (12%) (Sugar, Cocoa Butter, Milk Solids (2.3%*), Cocoa Solids, Emulsifiers (442, 476), Flavours (Natural, Natura Identical and Artificial (Caramel, Vanilla) Flavouring Substance)) Hydrogenated Vegetable Oils, Milk Solids, Humectin (422), Emulsifiers (471), Stabilizer (414), lodised salt, Artificial (Vanilla) Flavouring Substance Allergen formation: Contains Milk and Sulphites. ay contain Wheat M.R.P.Rs.5.00 (incl. of all taxes) Rs. 0.68 per g Net Wt 749",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202237379",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

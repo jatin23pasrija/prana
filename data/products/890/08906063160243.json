@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906063160243",
+  "barcode_printed": "8906063160243",
+  "barcode_format": "EAN-13",
+  "name": "Bhel",
+  "brand": "ganesh",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Serving Size Ambut Per Serving Calories Gram Flour, Puffed Rice, Refined Vegetable Oil (Palmolein), Corn Flakes, Salt, Red Chilli Powder, Sugar, Black Salt, Turmeric, Alkaline Salt, Ajwain, Sesame Seed, Aniseed, Curry Leaves, Acidity Regulator (E330) Imlee Chutney Ingredients: Sugar, Water, Jaggery, Tamarind, Spices, Total Fat 13.969 CONTAINS PERMITTED CLASSII PRESERVATIVE SODIUM BENZOATE (E211) Green Chutney Ingredients: Green Chilli, Mint Leaves, Ginger, Salt, Lemon Juice, Citric Acid (E330) CONTAINS PERMITTED CLASSII PRESERVATIVE SODIUM BENZOATE (E211) Trockene Bhel-Zutaten: Grammmehl, Puffreis, raffiniertes Pflanzenöl (Palmolein), Cornflakes, Salz, rotes Chilipulver, Zucker, schwarzes Salz, Kurkuma, basisches Salz, Ajowan, Sesamsamen, Alisamen, Curryblätter, Säureregulator (E330) Zutaten für das Imlee-Chutney: Zucker, Wasser, Jaggery, Tamarinde, Gewürze, ENTHÄLT ZUGELASSENES KONSERVIERUNGSMITTEL DER KLASSE II NATRIUMBENZOAT (E211) Gri Saturated Fat 1439 Trans Fat 0.00 Cholesterol 0.00mg Sodium 1314 mg Total Carbohydrate 38. Dietary F3.60 Total Sugar 14.50g Includes 11g Acted Sugar Protein 3.51g Vitamin D 0.00 mcg Calcium 0.00mg Iron 0.00 g Potassium 0.00mg *The % Daily Value (Delu contributes to a daily diet 2000 cab PRODUCT OF INDIA/PRODUKT AUS NO NUTRITION FACTI NAHRWERTANGABE About 4 Serving Per Package Energy/Energi/Energi Gesamt Fett/ إجمالى الار Per",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906063160243",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

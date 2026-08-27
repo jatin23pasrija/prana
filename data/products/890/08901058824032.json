@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058824032",
+  "barcode_printed": "8901058824032",
+  "barcode_format": "EAN-13",
+  "name": "Noodle Masala Spicy Noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Maggi 2 Minute Noodles Masala ln Iredients: hloodles: Wheat Flour, Palm Oil, Salt, Wheat Gluten, Calcium Carbonate, Potassium Chloride, Stabilisers (Potassium Carbonate, Sodium Carbonate), Humectant (Pentasodium Triphosphate), Thickener (Guar Gum). Flavour Sachet: Ground Noodjest (Wheat), Salt, Sugar, MixedSpiccs (Coriander Seed, Red Chilli Pepper, Turmeric, Cumin, Aniseed, Fenugreek, Ginger, Black Pepper, Cardamom, Nutmog, Clovo), Hydrolysed Peanut Proteint Onion, corn Starch,l Garfic, Palm Oil, Acid (Citric Acid), Potassi n chloridq Flavour Enhancer (Disodium ctcotide)l %iour« (Sulphito Ammonia Caramel), nstabiliser (Sodium Bicarbonate). 4See Nood(es ingredients 12t.Mayctonta)ijHllkandSoyat Société des Produits NeseJK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058824032",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

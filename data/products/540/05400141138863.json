@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "05400141138863",
+  "barcode_printed": "5400141138863",
+  "barcode_format": "EAN-13",
+  "name": "Mélange de bonbons",
+  "brand": "boni",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Confiserie fantaisie Gommes tendres huilées Sirop de glucose, sucre, eau, gélatine de porc, acidifiant (E330), maltodextrine, arômes (citron, orange, fraise, pomme, poire, cola), colorants (E100, É120, E141 E150d, E160e), huiles végétales (palmiste, coco), agents d'enrobage (E901, E903)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5400141138863",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

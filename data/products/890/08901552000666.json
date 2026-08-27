@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552000666",
+  "barcode_printed": "8901552000666",
+  "barcode_format": "EAN-13",
+  "name": "Lime Pickle Mild",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "citron vert, huile de tournesol, sel, graines de moutarde, correcteur d’acidité E260, poudre piment rouge, fenugrec, poudre de curcuma, poudre de coriandre, poudre de cumin, asafoetida",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552000666",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

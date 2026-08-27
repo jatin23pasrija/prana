@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042956015",
+  "barcode_printed": "8901042956015",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Vegetable Curry",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (150 g)",
+        "quantity": {
+          "value": 150,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 115.92,
+        "protein_g": 3.6,
+        "carbohydrate_g": 8.6,
+        "sugars_g": 3.8,
+        "fat_g": 7.5,
+        "saturated_fat_g": 1.7,
+        "trans_fat_g": 0.1,
+        "fibre_g": 5.1,
+        "sodium_mg": 740
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042956015",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

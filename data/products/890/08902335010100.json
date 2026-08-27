@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08902335010100",
+  "barcode_printed": "8902335010100",
+  "barcode_format": "EAN-13",
+  "name": "Cream Rich",
+  "brand": "ankit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 453,
+        "carbohydrate_g": 78,
+        "sugars_g": 42,
+        "fat_g": 13
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR, SUGAR, EDIBLE VEGETARLE OIL, SUGAR SOLUTION, EDIBLE STARCH, SALT, RAISING AGENTS [500(ii),503(I. EMULSIFIERS (322.471), AND DOUGH CONDITICER (Z CONTAINS PERMITTED SYNTHETIC FOOD COLOUR ( ODED ARTIFICIAL FALVOUR (CHOCOLATE). INGREDIENTS: FARINE DE BLE, SUCRE, HUILE VÉGÉTALE COMESTIBLE, SOLUTION DE SUCRE, L'AMIDON COMESTIBLE, SEL, POUDRES À LEVER [500 (i), 503 (), ÉMULSIFIANTS (322471). ET CONDITIONNEUR DE PATE (223). CONTIENT PERMISE COULEUR ALIMENTAIRES SYNTHÉTIQUES (150D) AJOUTÉE FALVOUR ARTIFICIELLE (CHOCOLAT). INGREDIENTES: FARINHA DE TRIGO, ACICAR, ÓLEO VEGETAL COMESTÍVEL, ACÚCAR LÍQUIDO, AMIDO COMESTÍVEL, SAL, LEVEDURAS (500 (i), 503 ()], EMULSIONANTES (322 E CONDICIONADOR DA MASSA (223). COR DE ALIMENTOS CONTÉM PERMITIDO SINTÉTICO (15OD) ADICIONADO FALVOUR ARTIFICIAL (CHOCOLATE). INGREDIENTES: HARINA DE TRIGO, AZUCAR ACEITE VEGETAL COMESTIBLE, AZÚCAR LÍQUIDO. ALMIDÓN COMESTIBLE, SAL, GASIFICANTES [500 (), 503 (i), EMULGENTE 24n). TACONDICIONADOR DE LA PASTA (223). COLOR CONTIENE PERMITIDO COMIDA SINTÉTICA (150D) AGREGADOS FALVOUR ARTIFICIAL (CHOCOLATE). 322, 471) a l.(500 (ii), 503 (ii)} gc l,ssu a Lil,Sll Jala ill eb S a sill ilall (150d) i c Lib (223 C Nmbers in bracketd as per Inlemational Numbering System)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902335010100",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

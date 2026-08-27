@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904304365853",
+  "barcode_printed": "8904304365853",
+  "barcode_format": "EAN-13",
+  "name": "CRANBERRY BEER (Non-alcoholic)",
+  "brand": "coolberg",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, SUGAR, BARLEY MALT, ACIDITY REGULATOR (INS 330), HERBS (QUILLAJA EXTRACT INS 999), PERMITTED CLASS II PRESERVATIVES (INS 211) PERMITTED NATURAL FOOD COLOUR (INS 150d) AND ADDED FLAVOURS (NATURAL, NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES CRANBERRY)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904304365853",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906075000476",
+  "barcode_printed": "8906075000476",
+  "barcode_format": "EAN-13",
+  "name": "Rusk (with Fruit)",
+  "brand": "atul-bakery",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "5 pieces (40 g)",
+        "quantity": {
+          "value": 40,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 184,
+        "protein_g": 4,
+        "carbohydrate_g": 28,
+        "sugars_g": 6,
+        "fat_g": 6,
+        "saturated_fat_g": 3,
+        "fibre_g": 1.2,
+        "sodium_mg": 0.04
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906075000476",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08908025188043",
+  "barcode_printed": "8908025188043",
+  "barcode_format": "EAN-13",
+  "name": "Triple Chocolate Ice-cream Cake",
+  "brand": "get-a-way",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (79 g)",
+        "quantity": {
+          "value": 79,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 198.5,
+        "protein_g": 3.8,
+        "carbohydrate_g": 28.4,
+        "sugars_g": 17.4,
+        "fat_g": 7.8,
+        "saturated_fat_g": 6,
+        "trans_fat_g": 0.04,
+        "sodium_mg": 243.6
+      }
+    }
+  ],
+  "ingredients_raw": "Triple Chocolate Ice Cream Cake Water, Dark Compound Chocolate (Sugar. Hydrogenated Vegetable Fat. Cocoa Solids, Hydrogenated Vegetable Oil Maltodextrin Emulsifiers (INS 492 INS 322, INS 478). lodized Salt) Premix (Chocolate Sponge): Refined Wheat Flour, Sugar, Milk Solids. Cocoa Solids, Refined Vegetable Oil (Sunflower), Baking Powder. Starch, Sall. Emulsifiers and Stabilizers (INS 471. INS 475. INS 477 & INS 415) Non Dairy Whipping Cream: Water, Sugar, Hydrogenated Paim Kernel Oil Cocoa Butter Substitute, Stabilizers (INS 475. INS 471. INS 461. INS 491. Soy Protein, Sodium Caseinate. INS 415. INS 412. INS 339(0), lodized Salt). Dextrose, Sorbitol, Emulsifier (INS 433) Non Dairy Cooking Cream Water. Hydrogenated Palm Kernel OIL. Liquid Glucose, Milk Solids. Stabilizers (INS 471, INS 481, INS 1450 INS 415. INS 412), Sodium Caseinate. Acidity Regulators (INS 331 (ii). INS 3390), Methocel K4M. Xanthum Gurn Milk Solids, Fructooligosaccharides. Coes Solids, Refined Sugar. Erythritol (INS 968), Maltodextrin (INS 1400), Butter. Stabilisers and Emulsifiers (INS 471 INS 412. INS 466, INS 407) Crystal Ace Rapeseed Oil. Emulsifiers (E477, E471, E322), Antioxidant (E304(i)) Edible Golden Balls Dextrose Corn Starch, Sugar, Confectioners Glaze Gum Arabic. Carnauba Wax, Synthetic Foods Colours (INS 102, INS 171). Propylene Glycol Esters of Fatty Acids(INS 477). CONTAINS PERMITTED NATURAL COLOUR(S) AND ADDED FLAVOUR (VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908025188043",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002482481",
+  "barcode_printed": "8906002482481",
+  "barcode_format": "EAN-13",
+  "name": "Snickers",
+  "brand": "mars",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk chocolate (36.5%): Sugar, Milk solids, Cocoa butter. Cocoa solids, Edible vegetable fats &lt;5% (Sal fat, Palm oil), Dextrose, Emulsifier (322); Centre filling (63.5%): Liquid glucose, Peanuts (18%), Sugar, Fractionated vegetable fat, Milk solids, lodized salt, Cocoa butter, Cocoa solids, Edible vegetable fats &lt;5% (Sal fat, Palm oil), Dextrose, Emulsifier (322). CONTAINS COCOA BUTTER EQUIVALENT IN ADDITION TO COCOA BUTTER. Contains Peanuts, Milk & Soy. May contain Treenuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002482481",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020491656",
+  "barcode_printed": "8906020491656",
+  "barcode_format": "EAN-13",
+  "name": "Motichur Laddoo",
+  "brand": "lal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 383,
+        "protein_g": 1,
+        "carbohydrate_g": 62,
+        "sugars_g": 50,
+        "fat_g": 15,
+        "saturated_fat_g": 7,
+        "trans_fat_g": 0,
+        "sodium_mg": 13
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Bengal Gram Flour (Besan), Edible Vegetable Oil (Palmolein), Refined Wheat Flour (Maida), Edible Vgetable Fat (Palm Oil, Palm Kernel Oil), Preservatives (INS 202, INS 200) and Synthetic Food Colours (INS 110, INS 102) Allergen Information: Contains Wheat. Made in a facility that processes Peanuts, Tree Nuts, Milk, Wheat and Sesame.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020491656",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

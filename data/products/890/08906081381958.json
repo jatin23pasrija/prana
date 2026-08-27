@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081381958",
+  "barcode_printed": "8906081381958",
+  "barcode_format": "EAN-13",
+  "name": "Jackfruit chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 428.57,
+        "protein_g": 7.14,
+        "carbohydrate_g": 78.57,
+        "sugars_g": 0,
+        "fat_g": 10.71,
+        "saturated_fat_g": 0,
+        "fibre_g": 17.86,
+        "sodium_mg": 178.57
+      }
+    }
+  ],
+  "ingredients_raw": "dehydrated jackfruit (89 % ) , refined peanut oil, salt ingredients: dried jackfruit (89%), salt-safe peanut oil, د علم بان ۷۰۰۰۸۹ زيت الفول السوداني المكررة ملح , contains peanut oil, contains peanut oil, allergy advice: manufactured in a facility that processes tree nuts, soy, wheat, allergen information: product manufactured in a workshop te peanuts, soybeans, wheat ܪܢܢ ܘܬܡܢ ܐܐܠܠܘܟ ܕܐ ܦܨܢ س هند في مصنع يقوم بمعالجة المكسرات الضويا",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081381958",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

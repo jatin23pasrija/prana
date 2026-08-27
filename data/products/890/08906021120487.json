@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021120487",
+  "barcode_printed": "8906021120487",
+  "barcode_format": "EAN-13",
+  "name": "Chicken Curry Masala",
+  "brand": "aachi",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 51,
+        "protein_g": 1.89,
+        "carbohydrate_g": 7.29,
+        "sugars_g": 0.11,
+        "fat_g": 1.57,
+        "saturated_fat_g": 0.16,
+        "fibre_g": 3.6,
+        "sodium_mg": 297.54
+      }
+    }
+  ],
+  "ingredients_raw": "Coriander, Chilli, Turmeric, Pepper, Cumin, Salt, Cloves, Cinnamon, Cardamom, Garlic, Dry Ginger, Onion, Methi, _Mustard_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021120487",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "07108326644922",
+  "barcode_printed": "7108326644922",
+  "barcode_format": "EAN-13",
+  "name": "Pumpkin & Lentil Soup",
+  "brand": "organic-roots",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 180,
+        "protein_g": 6,
+        "carbohydrate_g": 23,
+        "sugars_g": 3,
+        "fat_g": 6,
+        "saturated_fat_g": 1,
+        "fibre_g": 6,
+        "sodium_mg": 440
+      }
+    }
+  ],
+  "ingredients_raw": "Red Masoor (Red Lentils), Kaddoo (Pumpkin), Onion, Tomato, Ginger, Garlic, Black Pepper, Chilli Powder, Turmeric Powder, Spinach Leaves, Salt, Cold Pressed Sunflower Oil, Parsley.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7108326644922",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

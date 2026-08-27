@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491380010",
+  "barcode_printed": "8901491380010",
+  "barcode_format": "EAN-13",
+  "name": "Solid Masti Masala",
+  "brand": "kurkure",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Gram Pulse flour, Edible vegetable oil (Cotton Seed, Corn, Palmolein, Ground Nut and Rice Bran) Gram Pulse (9%), Lentil (9%), Peanuts (6%), Rice Flakes (5%), Potatoes, Tepary Beans Four, Iodised Salt, Blac Sat Powder, Spinach Powder, Rice Powder, Edible Sarch *Spices & Condiments (Red Chill Powder, Turmeric powder Mango Powder, Black Pepper Powder, Ginger Powder Clove Powder, Mace Powder, Nutmeg Powder, Cumin Powder Fenugreek Seeds Powder, Coriander Powder, Bay leaves Powder, Mint Leaves Powder, Cardamom Powder, Asafoedq Powder), Acidty Regulator (ins330), Anticaking Agert (ins551) and Synthetic Food Colour (INS 133) &quot;Used as natural flavouring substances Allergern Information: Contains Peanuts",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491380010",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

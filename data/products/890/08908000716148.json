@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000716148",
+  "barcode_printed": "8908000716148",
+  "barcode_format": "EAN-13",
+  "name": "Rajhans Sweet Lassi",
+  "brand": "rajhans",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 105,
+        "protein_g": 2.2,
+        "carbohydrate_g": 22,
+        "sugars_g": 22,
+        "fat_g": 3,
+        "saturated_fat_g": 1.4,
+        "fibre_g": 0,
+        "sodium_mg": 40
+      }
+    }
+  ],
+  "ingredients_raw": "Toned Milk Dahi, Water and Sugar,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000716148",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

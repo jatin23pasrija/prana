@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777605066",
+  "barcode_printed": "8901777605066",
+  "barcode_format": "EAN-13",
+  "name": "Dry fruit cookies",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 450,
+        "protein_g": 6.67,
+        "carbohydrate_g": 53.33,
+        "sugars_g": 23.33,
+        "fat_g": 23.33,
+        "saturated_fat_g": 13.33,
+        "fibre_g": 6.67
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777605066",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063155282",
+  "barcode_printed": "8901063155282",
+  "barcode_format": "EAN-13",
+  "name": "Tiger Krunch Chocochips",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 438,
+        "protein_g": 6,
+        "carbohydrate_g": 72,
+        "sugars_g": 30,
+        "fat_g": 19,
+        "saturated_fat_g": 8
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OIL (PALM), CHOCO CHIPS (8%) [SUGAR, EDIBLE HYDROGENATED VEGETABLE OIL, COCOA SOLIDS, EMULSIFIER (322) AND ADDED FLAVOUR (VANILLIN)], INVERT SYRUP, COCOA SOLIDS (1.6%), RAISING AGENTS [503(ii), 500(ii)], IODISED SALT, EMULSIFIERS (322, 471, 472e), FERROUS SALT, DOUGH CONDITIONER (223) AND VITAMIN. CONTAINS PERMITTED NATURAL AND SYNTHETIC FOOD COLOURS (150c, 133 & 124) AND ADDED FLAVOURS [ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA& CHOCOLATE)1",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063155282",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

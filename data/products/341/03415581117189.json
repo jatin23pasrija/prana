@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "03415581117189",
+  "barcode_printed": "3415581117189",
+  "barcode_format": "EAN-13",
+  "name": "Caramel Biscuit & Cream Ice Cream",
+  "brand": "haagen-dazs",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 392,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 285,
+        "energy_kj": 1189,
+        "protein_g": 4.5,
+        "carbohydrate_g": 25.1,
+        "sugars_g": 18.9,
+        "fat_g": 18.5,
+        "saturated_fat_g": 11.4,
+        "trans_fat_g": 0.4,
+        "sodium_mg": 142
+      }
+    }
+  ],
+  "ingredients_raw": "Caramel Ice Cream (89%) (Cream (35.4%), Caramel Base (24.0%) (Water, Dried Glucose Syrup, Milk, Sugar, Wheat Glucose Syrup, Salt, Natural Flavouring Substance: Vanilla), Condensed Skimmed Milk, Sugar, Water, Egg Yolk), Biscuit Pieces (11%) (Refined Wheat, Flour, Sugar, Edible Vegetable Oil (Coconut Oil), Edible Vegetable Oil (Rapeseed Oil), Icing Sugar, Concentrated Butter, Candy Sugar, Raising Agent (Sodium Bicarbonate), Emulsifier (Soy Lecithin), Salt, Cinnamon Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3415581117189",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

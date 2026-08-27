@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "08908011491133",
+  "barcode_printed": "8908011491133",
+  "barcode_format": "EAN-13",
+  "name": "Cashews",
+  "brand": "provmini",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 18,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "16g",
+        "quantity": {
+          "value": 16,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 115.2,
+        "protein_g": 3.3,
+        "sugars_g": 1.1,
+        "fat_g": 9.4,
+        "saturated_fat_g": 2.2,
+        "fibre_g": 0.6,
+        "sodium_mg": 73
+      }
+    }
+  ],
+  "ingredients_raw": "Cashew",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908011491133",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

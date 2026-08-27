@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009806062",
+  "barcode_printed": "8908009806062",
+  "barcode_format": "EAN-13",
+  "name": "PMV Malvita",
+  "brand": "pmv",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 349,
+        "protein_g": 11.5,
+        "carbohydrate_g": 73.5,
+        "sugars_g": 48.25,
+        "fat_g": 6,
+        "saturated_fat_g": 4.72,
+        "sodium_mg": 440
+      }
+    }
+  ],
+  "ingredients_raw": "Malt Extract, Milk Solids, Sugar, Cocoa Solids, Artificial flavouring substances (Chocolate Flavour), Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009806062",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

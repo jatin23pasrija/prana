@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004401615",
+  "barcode_printed": "8904004401615",
+  "barcode_format": "EAN-13",
+  "name": "Kashmiri dalmouth",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 514,
+        "protein_g": 14.6,
+        "carbohydrate_g": 49.12,
+        "sugars_g": 0,
+        "fat_g": 28.74,
+        "saturated_fat_g": 10.34,
+        "sodium_mg": 499
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004401615",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

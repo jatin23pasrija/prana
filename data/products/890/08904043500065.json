@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043500065",
+  "barcode_printed": "8904043500065",
+  "barcode_format": "EAN-13",
+  "name": "Brown Bread",
+  "brand": "modern",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Atta, Gluten, Sugar, Yeast, Salt (Iodised), Edible Vegetable Oil, Preservative-232 & 341 (i), Malt Products, Soya Flour, Emulsifier-481(i), Acidity Regulator-263, Antioxidant-300, Milk solids and Improver-1100.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043500065",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

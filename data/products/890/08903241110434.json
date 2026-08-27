@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08903241110434",
+  "barcode_printed": "8903241110434",
+  "barcode_format": "EAN-13",
+  "name": "Kolhapuri Thecha",
+  "brand": "pravin",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 116,
+        "protein_g": 5.3,
+        "carbohydrate_g": 19,
+        "sugars_g": 3.9,
+        "fat_g": 1.8,
+        "saturated_fat_g": 0.6,
+        "sodium_mg": 2641
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Garlic, Red Chilli (18%), lodised Salt, Cotton Seed Oil, Lime Juice, Cumin, Acidity Regulator - Acetic Acid (E260), Preservative - Sodium Benzoate (E211).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903241110434",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

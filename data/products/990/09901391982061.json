@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "09901391982061",
+  "barcode_printed": "9901391982061",
+  "barcode_format": "EAN-13",
+  "name": "lays maxx macho chilli flavour",
+  "brand": "lay-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Lay's is the Registered Trademark of PepsiCo, Inc. Lay's MAXX is-a Registered Trademark of PepsiCo, Inc. INGREDIENTS: Potato, Edible Vegetable Oil (Palmolein Oil, Rice Bran Oil), Sugar, *Spices",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9901391982061",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

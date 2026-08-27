@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001028772",
+  "barcode_printed": "8906001028772",
+  "barcode_format": "EAN-13",
+  "name": "Classic cold Coffee",
+  "brand": "avvatar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cow's Milk, Water, Milk Protein concentrate, Prebiotic Inulin, Coffee powder, Stabilizer (INS 460 (i), INS 466, INS 471, INS 407, INS 418), Emulsifier (INS 340, INS 452(i), INS 331(iii), Iodised salt, Monk Fruit concentrate, Steviol glycosides (INS 960), Antioxidant (INS 320)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001028772",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906164500061",
+  "barcode_printed": "8906164500061",
+  "barcode_format": "EAN-13",
+  "name": "Rustic Belt Butter Salt Biscuits",
+  "brand": "rustic-belt",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 502,
+        "protein_g": 5.7,
+        "carbohydrate_g": 64.1,
+        "fat_g": 24.8
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE FATS & OIL, BUTTER, MILK PRODUCTS, AMUL BUTTER, SALT, BAKING POWDER, ADDED ARTIFICIAL FLAVOURS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906164500061",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

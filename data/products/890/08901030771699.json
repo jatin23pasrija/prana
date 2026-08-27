@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030771699",
+  "barcode_printed": "8901030771699",
+  "barcode_format": "EAN-13",
+  "name": "cornetto oreo disc",
+  "brand": "kwality-walls",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 72,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Compound Coating (21.95%) (Sugar, Palm Kernel Oil, Palm oil, Cocoa Solids, Coconut Oil, Emulsifier - E322, CONTAINS ADDED ARTIFICIAL CHOCOLATE AND VANILLA FLAVOURING SUBSTANCES), Wafer Biscuit Cone (14.63%) (Refined Wheat Flour (Maida), Sugar, Cocoa Powder, Palm Oil, Emulsifier - E322, Iodised Salt, CONTAINS ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE), Oreo Biscuit - Crushed (10.98%) (Refined Wheat Flour (Maida), Sugar, Palmolein, Invert Syrup, Cocoa Solids (3%*), Leavening Agents (E500(ii), E503(ii)), Edible Salt, Emulsifier (E322) and CONTAINS ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES), Sugar, Palm Oil, Milk Solids, Liquid Glucose, Vegetable Protein (Soy), Emulsifier - E471, Stabilisers - E410, E412, E407.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030771699",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

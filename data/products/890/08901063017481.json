@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063017481",
+  "barcode_printed": "8901063017481",
+  "barcode_format": "EAN-13",
+  "name": "50-50 Maska Chaska",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 502,
+        "protein_g": 7,
+        "carbohydrate_g": 60,
+        "sugars_g": 10,
+        "fat_g": 26,
+        "saturated_fat_g": 13,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 1082
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM&PALMOLEIN OIL, SUGAR, LIQUID GLUCOSE, RAISING AGENTS ([503(1), 341(1), 500(1) & 450( BUTTER (1.2%), BLACK SALT, MILK SOLIDS, DEHYDRATED VEGETABLE (CHIVES) (1%), iodised SALT, NATURE IDENTICAL FLAVOURING SUBSTANCE, DOUGH CONDITIONER (223) AND IMPROVER[1101(0).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063017481",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

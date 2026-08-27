@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063325609",
+  "barcode_printed": "8901063325609",
+  "barcode_format": "EAN-13",
+  "name": "Toastea premium rusk",
+  "brand": "britannia",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 433,
+        "protein_g": 9,
+        "carbohydrate_g": 80.7,
+        "sugars_g": 23,
+        "fat_g": 8.3,
+        "saturated_fat_g": 3.9,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 222
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (71), SUGAR REFINED PALM AND PALMOLEIN OIL, SEMOLINA (SUJI) (1.8%), YEAST, INVERT SUGAR SYRUP, VITAL GLUTEN, 1ODISED SALT, IMPROVERS (11000), 1102, 11041, SPICES-0.19% (GREEN CARDAMOM SEEDS& ITS OIL), WHEAT FIBRE, EMULSIFIER BLEND (481(), 471, 472e] AND ANTIOXIDANT (300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063325609",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

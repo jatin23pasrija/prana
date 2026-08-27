@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058020281",
+  "barcode_printed": "8901058020281",
+  "barcode_format": "EAN-13",
+  "name": "Munch Brownie Max",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 450,
+        "protein_g": 5.1,
+        "carbohydrate_g": 52.6,
+        "sugars_g": 34.3,
+        "fat_g": 24.3,
+        "saturated_fat_g": 24,
+        "trans_fat_g": 0.05,
+        "sodium_mg": 68.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058020281",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

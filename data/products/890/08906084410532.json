@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906084410532",
+  "barcode_printed": "8906084410532",
+  "barcode_format": "EAN-13",
+  "name": "Mom fried rice",
+  "brand": "mankind",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 145,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 330,
+        "energy_kj": 1380.7,
+        "protein_g": 9,
+        "carbohydrate_g": 49,
+        "sugars_g": 8,
+        "fat_g": 11,
+        "saturated_fat_g": 2,
+        "fibre_g": 4,
+        "sodium_mg": 1240
+      }
+    }
+  ],
+  "ingredients_raw": "Energy Fried Rice (62%): Rice (69%), Edible Vegetable Oil (Refined Sunflower Oil), Salt, Garlic, Onion, Soya Sauce Powder, Dehydrated Vegetables (Carrot, Spring Onion), Spices and Condiments (Red Chilli Powder, Ginger Powder, Black Pepper Powder), Flavour Enhancers (INST 627, INS 631), Sugar, Acidity Regulator (INS 330), Anticaking Agent (INS 551), Natural & Nature Identical Flavour. Schezwan Gravy (38%): Chilli, Water, Edible Vegetable Oil (Sunflower), Garlic, Veg Paste [Tomato, Water, Sugar, Vegetable Pulp (Carrot, Beetroot), Fruit Pulp (Apple, Pear), Salt, Acidity Regulator (INS 260), Thickeners (INS 401, INS 415), Onion Powder, Garlic Powder, Red Chilli Powder, Spice and Condiments], Sugar, Veg Broth Powder [Salt Sauce Powder, Yeast Extract, Flavour Enhancers (INS 627, INS 631) Maltodextrin, Dextrose, Dehydrated Onion, Sugar, Corn Starch, Soy Anticaking Agent (INS 551), Dehydrated Garlic, Edible Vegetable Oil Refined Soyabean Oil), Spice and Condiments], Ginger, Coriander, Sherwan Pepper, Starch, Green Chilli, Acidity Regulator (INS 260) ALLERGEN ADVICE Contains Wheat & Soy. Manufactured in a facility that processes Tree ST Peanuts, Sesame Choles Sodium Satg Total",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906084410532",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

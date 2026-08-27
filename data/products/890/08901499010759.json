@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499010759",
+  "barcode_printed": "8901499010759",
+  "barcode_format": "EAN-13",
+  "name": "Kellogg's Multigrain Chocos Chhota Laddoo",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 391,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wholegrain Flour Mix (46.7%) {Wheat Flour (Atta) (36.3%), Ragi Flour (5.2%), Sorghum (Jowar) Flour (5.2%)}, Sugar, CORN MEAL, Refined Wheat Flour (MAIDA), COCOA SOLIDS (5.2%), MINERALS, CEREAL EXTRACT, IOLIZED SALT, COLOUR (INS 150d), FLAVOURS NATURE IDENTICAL&ARTIFICIAL (CREAM)), VITAMINS, ANTIOXIDANT (INS 307b).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499010759",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

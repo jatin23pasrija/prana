@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006720190",
+  "barcode_printed": "8906006720190",
+  "barcode_format": "EAN-13",
+  "name": "Lion DesertKing Dates",
+  "brand": "lion",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 340,
+        "protein_g": 2.21,
+        "carbohydrate_g": 81.6,
+        "sugars_g": 68.3,
+        "fat_g": 0.58,
+        "fibre_g": 5.12,
+        "sodium_mg": 21
+      }
+    }
+  ],
+  "ingredients_raw": "Wet Dates",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006720190",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

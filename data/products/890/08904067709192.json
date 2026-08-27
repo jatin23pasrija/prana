@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08904067709192",
+  "barcode_printed": "8904067709192",
+  "barcode_format": "EAN-13",
+  "name": "Till laddu",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 533.33,
+        "protein_g": 10,
+        "carbohydrate_g": 53.33,
+        "sugars_g": 36.67,
+        "fat_g": 30,
+        "saturated_fat_g": 3.33,
+        "fibre_g": 6.67,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904067709192",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

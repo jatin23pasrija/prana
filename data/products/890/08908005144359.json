@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005144359",
+  "barcode_printed": "8908005144359",
+  "barcode_format": "EAN-13",
+  "name": "Breakfast protein bar",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Grains 20% (Rolled Oats 10%, Brown Rice, Foxtail millet 6%, Quinoa 4%), Seeds 17% (Sunflower, Sesame, Flax, Watermelon, Pumpkin, Chia), Honey, Prebiotic fibre (Fructo-oligosaccharide), Nuts (Almonds 7%, Peanuts), Rice crisps, Soy crisps, Dried Cranberry, Dried Blueberry 2%, Banana & Strawberry puree. Apple fibre, Gum Acacia, Himalayan pink salt. CONTAINS ADDED NATURAL FLAVOUR (Rosemary extract, Blueberry extract)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005144359",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

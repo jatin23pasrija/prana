@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003249087",
+  "barcode_printed": "8908003249087",
+  "barcode_format": "EAN-13",
+  "name": "Slim Milk",
+  "brand": "akshayakalpa",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 33,
+        "protein_g": 3.45,
+        "carbohydrate_g": 4.35,
+        "sugars_g": 4.35,
+        "fat_g": 0.2,
+        "sodium_mg": 38.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003249087",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

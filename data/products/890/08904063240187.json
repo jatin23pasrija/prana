@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063240187",
+  "barcode_printed": "8904063240187",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Bhujia",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 21.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato (44%), Edible Vegetable Oil (Cotton Seed, Corn, Palmolein, Ground Nut and Rice Bran), Gram Pulse Flour, Rice Flour, Iodised Salt, Edible starch, Spices & Condiments (Coriander Powder, Cumin Powder, Mango Powder, Garlic Powder, Onion Powder, Lemon Powder, Ginger Powder, Red Chilli Powder, Mace Powder, Nutmeg Powder, Turmeric Powder, Mint Leaves Powder), Acidity Regulator (INS 330), Anticaking Agent (INS 551), Flavour Enhancers (INS 627 & INS 631) and Natural & Nature Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063240187",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030000829",
+  "barcode_printed": "8901030000829",
+  "barcode_format": "EAN-13",
+  "name": "Dalda ghee ikg",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "DOUBLE REFINED PALM OLEIN AND ITS FRACTIONS, ANTIOXIDANTS (BHA/BHT), VITAMINS A &D, FORTIFIED WITH VITAMINS A 25 IU AND D 2 IU PER g. Allergen statement: The product may contain soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030000829",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

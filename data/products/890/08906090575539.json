@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906090575539",
+  "barcode_printed": "8906090575539",
+  "barcode_format": "EAN-13",
+  "name": "Too Yumm! K-Bomb Ramen",
+  "brand": "too-yumm",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Noodles: Refined Wheat Flour, Edible Vegetable Oil (Rice Bran Oil), Iodized Salt, Wheat Gluten, Starch, Gelling Agent (INS 508), Sequestrant (INS 451(1)). Thickener (INS 412), Acidity Regulators (INS 501) INS 500 (i)) Seasoning Mix: lodized sa, Maltodextrin, Sugar, *Spices and Condiments Contains Onion, Garlic, Chilli and Pepper), Natu and Nature Identical Flavouring Substances, Hydrolysed Vegetable Protein, Fermented Soya Sauce Powder, Flavour Enhancers (INS 627, INS 631), Acidity Regulator (INS 330), Thickener (INS 412). Yeast Extract, Anticaking Agent (INS 551) and Natural Colour (INS 150d) *Used as natural flavouring agent Sarnish: Soya Granules. Dehydrated Vegetables",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906090575539",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

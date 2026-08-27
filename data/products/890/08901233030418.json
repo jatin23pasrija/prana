@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901233030418",
+  "barcode_printed": "8901233030418",
+  "barcode_format": "EAN-13",
+  "name": "Bournvita",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cereal Extract 51%* (Barley, Wheat), Sugar, Cocoa Solids, Caramel colour (150c), Liquid Glucose, Protein Isolate, Maltodextrin, Milk Solids, Vitamins, Emulsifiers (322, 471), Raising Agent (500(ii)), Minerals, Edible Salt. CONTAINS PERMITTED NATURAL COLOUR (150c) AND ADDED FLAVOUR (ARTIFICIAL (ETHYL VANILLIN) FLAVOURING SUBSTANCES) Allergen information: Contains Milk, Wheat, Barley, Sulfites. ON, ATE, 12 STORAGE CONDITIONS: STORE IN A COOL, HYGIENIC & DRY PLACE. BEST BEFORE 12 MONTHS FROM PACKAGING INSTRUCTIONS FOR USE: Add 2-heaped teaspoons (20 g*) of Bournvita to a cup of hot or cold milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901233030418",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

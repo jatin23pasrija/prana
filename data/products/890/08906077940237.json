@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906077940237",
+  "barcode_printed": "8906077940237",
+  "barcode_format": "EAN-13",
+  "name": "Original Kaima Dates",
+  "brand": "amal-al-khair",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 285,
+        "protein_g": 1.61,
+        "carbohydrate_g": 63.77,
+        "fat_g": 0.54,
+        "fibre_g": 1.54,
+        "sodium_mg": 17
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906077940237",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

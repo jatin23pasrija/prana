@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904397200765",
+  "barcode_printed": "8904397200765",
+  "barcode_format": "EAN-13",
+  "name": "Crazy nuts",
+  "brand": "khushi",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "English (12%), Bengal Gram Split (12%), Gram whole (9%), Peas (6%), Red Lentils (11%), Peanuts (6%), nt Leaves (0.5%), Cummin Powder (1%), Black Pepper (1%), ined Palmolein Oil (27%), Red chili Powder (6%), Sugar (1%), nger (0.5%), Compounded Asafoetida (1%), Black Salt (3%). Dry Mango Powder (2%) & Salt (1%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904397200765",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

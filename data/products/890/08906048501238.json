@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906048501238",
+  "barcode_printed": "8906048501238",
+  "barcode_format": "EAN-13",
+  "name": "Aptamil Gold Stage 3 Follow-up Formula Powder (From 12 Months Onwards)",
+  "brand": "aptamil",
+  "category": "baby-food",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 498,
+        "energy_kj": 2085,
+        "protein_g": 15.5,
+        "carbohydrate_g": 55,
+        "sugars_g": 42.3,
+        "fat_g": 24,
+        "saturated_fat_g": 14,
+        "trans_fat_g": 0.7,
+        "sodium_mg": 115
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids, Demineralized Whey and Whey Solids, Edible Vegetable Oils (Corn Oil and Canola Oil), Minerals*, Docosahexaenoic Acid Powder-0.76% (Schizochytrium sp.oil), Arachidonic Acid Powder-0.64% (Mortierella Alpina Oil), Choline, Emulsifier (Soy Lecithin), Acidity Regulator (Sodium Hydroxide), Nucleotides Premix-0.027%, Vitamins*, Antioxidant (Mixed Tocopherols),Taurine, L-Carnitine, Inositol, Beta Carotene. Ingredients of the product when prepared in accordance with the directions on the label: Water, Milk Solids, Demineralized Whey and Whey Solids, Edible Vegetable Oils (Corn Oil and Canola Oil), Minerals*, Docosahexaenoic Acid Powder (Schizochytrium sp.oil), Arachidonic Acid Powder (Mortierella Alpina Oil), Choline, Emulsifier (Soya Lecithin), Acidity Regulator (Sodium Hydroxide), Nucleotides Premix, Vitamins, Antioxidant (Mixed Tocopherols), Taurine, L-Carnitine, Inositol, Beta Carotene.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906048501238",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725119195",
+  "barcode_printed": "8901725119195",
+  "barcode_format": "EAN-13",
+  "name": "Yippee! noodles mood masala",
+  "brand": "sunfeast",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Instant Noodles: Refined Wheat Flour (Maida), Refined Palm Oil, lodized Salt, Wheat Gluten, Thickeners (INS 508, INS 412), Stabilizers [INS 170(i), INS 339(1), INS 450 (iii) and INS 452(1)] and Acidity Regulators [INS 501(i), INS 500(i) and INS 330]. Seasoning: Main Masala Mix: Spices and Condiments (22.3%) [Garlic, Red Chilli (3.1%), Coriander (2.1%), Aniseed, Ginger, Cumin, Black Pepper, Cassia, Cardamom, Nutmeg and Clove], Onion Powder, Instant Noodle Powder {Refined Wheat Flour (Maida), Refined Palm Oil, lodized Salt and Wheat Gluten), lodized Salt, Sugar, Hydrolyzed Vegetable Protein, Maltodextrín, Fat powder, Flavour Enhancers (INS 627, INS 631), Starch, Yeast Extract, Natural Flavours and Natural Flavouring Substances, Nature Identical Flavouring Substances, Dairy Whitener (Milk Solids, Sugar), Anticaking Agent (INS 551), Acidity Regulator (INS 330) and Refined Sunflower Oil. Mood Masala Mix: Spices and Condiments (25.4%) [Garlic, Red Chilli (3.8%), Ginger, Coriander (2.0%), Black Pepper, Aniseed, Cumin, Cassia and Cardamom], Onion Powder, Sugar, Instant Noodle Powder (Refined Wheat Flour (Maida), Refined Palm Oil, lodized Salt and Wheat Gluten), lodized Salt, Dairy Whitener (Milk Solids, Sugar), Hydrolyzed Vegetable Protein, Starch, Fat Powder, Maltodextrin, Flavour Enhancers (INS 627, INS 631), Nature Identical Flavouring Substances, Yeast Extract, Anticaking Agent (INS 551), Natural Flavours and Natural Flavouring Substances and Acidity Regulator (INS 330). Contains Wheat, Soy, Milk, Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725119195",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

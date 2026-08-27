@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005618634",
+  "barcode_printed": "8906005618634",
+  "barcode_format": "EAN-13",
+  "name": "Mini Swiss Roll",
+  "brand": "winkies",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 371.58,
+        "protein_g": 4.78,
+        "carbohydrate_g": 66.45,
+        "sugars_g": 43.15,
+        "fat_g": 9.58,
+        "saturated_fat_g": 2.47,
+        "trans_fat_g": 0.06,
+        "sodium_mg": 122.97
+      }
+    }
+  ],
+  "ingredients_raw": "CAKE (68%): REFINED WHEAT FLOUR (MAIDA), EGGS, SUGAR, WATER, INVERT SYRUP, LIQUID GLUCOSE, DEXTROSE, CAKE GEL(INS 471, INS 477, INS 1520, INS 422), HUMECTANT (INS 422), PALMOLEIN, MILK SOLIDS, EMULSIFIERS (INS 477, INS 471, INS 322, INS 304 (ii)), RAISING AGENTS {INS 450 (i), INS 500 (ii)), PALM OIL, EDIBLE COMMON SALT, FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA), ACIDITY REGULATOR (INS 260), PRESERVATIVES (INS 200, INS 282), STABILIZER(INS 412), CORN FLOUR. FILLING (32%): RED FRUIT PREPARATION (50%) [GLUCOSE-FRUCTOSE SYRUP, SUGAR, STRAWBERRY PUREE (16%), RASPBERRY PUREE (7%), RED CURRANT PUREE (7%), GELLING AGENT(INS 440(11)), ACIDITY REGULATOR(INS 330), CONCENTRATED BLACK CARROT JUICE], BAKERY SHORTENING, LIQUID GLUCOSE, DEXTROSE, SUGAR, INVERT SYRUP, HUMECTANT (INS 422), CAKE GEL(INS 471, INS 477, INS 1520, INS 422), EDIBLE COMMON SALT, PRESERVATIVE (INS 282, INS 200), ACIDITY REGULATOR(INS 296), FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA), COLOUR (INS 150c). (Numbers in brackets as per International Numbering System). CONTAINS WHEAT, MILK, SOY AND EGG INGREDIENTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005618634",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

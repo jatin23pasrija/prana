@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08903023270752",
+  "barcode_printed": "8903023270752",
+  "barcode_format": "EAN-13",
+  "name": "More Atta Bread",
+  "brand": "more",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 274,
+        "protein_g": 9.2,
+        "carbohydrate_g": 54,
+        "sugars_g": 4.5,
+        "fat_g": 2.4,
+        "saturated_fat_g": 1.8,
+        "sodium_mg": 377
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour, Sugar, Yeast, lodised Salt, Refined Palmolein Oil, Soya Flour, Emulsifier(INS 476,471 481(1) Preservative (INS 282), Antioxidant (INS 300), Improver (INS 1100), Acidity Regulator (INS 260)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903023270752",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

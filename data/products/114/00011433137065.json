@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "00011433137065",
+  "barcode_printed": "0011433137065",
+  "barcode_format": "EAN-13",
+  "name": "Momo Dumplings Chicken Curry",
+  "brand": "deep-indian-kitchen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 221,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 tbsp chutney (192 g)",
+        "quantity": {
+          "value": 192,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 170,
+        "protein_g": 9,
+        "carbohydrate_g": 24,
+        "sugars_g": 3,
+        "fat_g": 4,
+        "saturated_fat_g": 1.5,
+        "trans_fat_g": 0,
+        "fibre_g": 3,
+        "sodium_mg": 620
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0011433137065",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

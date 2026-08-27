@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020461758",
+  "barcode_printed": "8906020461758",
+  "barcode_format": "EAN-13",
+  "name": "Baker’s Loaf Oatmeal Bread",
+  "brand": "harvest-gold",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 259.75,
+        "protein_g": 9.07,
+        "carbohydrate_g": 49.32,
+        "sugars_g": 5.73,
+        "fat_g": 2.91,
+        "saturated_fat_g": 0.43,
+        "fibre_g": 6.85,
+        "sodium_mg": 439.37
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020461758",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

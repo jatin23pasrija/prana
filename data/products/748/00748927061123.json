@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "00748927061123",
+  "barcode_printed": "0748927061123",
+  "barcode_format": "EAN-13",
+  "name": "ON 100% Gold Standard Whey Chocolate Peanut Butter",
+  "brand": "optimum-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "33 g",
+        "quantity": {
+          "value": 33,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 130,
+        "protein_g": 24,
+        "carbohydrate_g": 5,
+        "sugars_g": 2,
+        "fat_g": 1.5,
+        "saturated_fat_g": 0.5,
+        "trans_fat_g": 0,
+        "sodium_mg": 210
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0748927061123",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

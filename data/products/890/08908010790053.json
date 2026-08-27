@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010790053",
+  "barcode_printed": "8908010790053",
+  "barcode_format": "EAN-13",
+  "name": "Auric Shilajit Godl",
+  "brand": "auric",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Shuddha Shilajit (Asphaltum punjabianum) Exd. 999.8 mg, Swarn Bhasm (Gold {Aurum}) Metal 0.2 mg",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010790053",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

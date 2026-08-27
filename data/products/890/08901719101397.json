@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719101397",
+  "barcode_printed": "8901719101397",
+  "barcode_format": "EAN-13",
+  "name": "Hide & Seek Black Bourbon Creme Sandwich - Vanilla",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "L back home! family, relive art of Gujarat lavors brough festivities, tr Garvi Gujara the finest prepared Gujara flavo Gar PARLE PLATINA EMBALLAGE POUR EXPORTATION EXPORT PACK HIDE & SEEK Black, Noir Bourbon ARTIFICIALLY FLAVOURED CREAM SANDWICH COOKIES BISCUITS SANDWICHS CREME ARTIFICIELLEMENT AROMATISES VANILLA/VANILLE NET WT./POIDS NET: 100 g/3.5 oz REC S S HIL 6-15 oll is 20 UMA BAKING MOLEINE RAF GREDIENTS:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719101397",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

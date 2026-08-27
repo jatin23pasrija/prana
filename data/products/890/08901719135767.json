@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719135767",
+  "barcode_printed": "8901719135767",
+  "barcode_format": "EAN-13",
+  "name": "Parle-G ROYALE",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (61%), SUGAR REFINED PALM OIL, INVERT SUGAR SYRUP* [SUGAR, CITRIC ACID], RAISING AGENTS [503(ii), 500(ii)], MILK SOLIDS, IODISED SALT, EMULSIFIER OF VEGETABLE ORIGIN [472e] AND FLOUR TREATMENT AGENT [1101(ii)] CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA) (D-GLUCOSE, LEVULOSE) CONTAINS: WHEAT, MILK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719135767",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

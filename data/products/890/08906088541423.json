@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906088541423",
+  "barcode_printed": "8906088541423",
+  "barcode_format": "EAN-13",
+  "name": "White eggs",
+  "brand": "nandu-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50 g",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 74.74,
+        "protein_g": 6.08,
+        "carbohydrate_g": 1.42,
+        "sugars_g": 0,
+        "fat_g": 2.89,
+        "saturated_fat_g": 2.11,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Eggs",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906088541423",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

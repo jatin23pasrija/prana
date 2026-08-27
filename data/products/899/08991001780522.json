@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08991001780522",
+  "barcode_printed": "8991001780522",
+  "barcode_format": "EAN-13",
+  "name": "Delfi Twister Choco Wafer Roll With Chocolate Cream",
+  "brand": "delfi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 320,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Refined Wheat Flour (Maida) (29%), Edible Vegetable Oil, Cocoa Powder (7%), Skimmed Milk Powder, Whey Powder, Emulsifier (E322), Salt, Flavour. CONTAINS ADDED NATURE IDENTICAL FLAVOURING SUBSTANCE (VANILLIN)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8991001780522",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725018016",
+  "barcode_printed": "8901725018016",
+  "barcode_format": "EAN-13",
+  "name": "Yippee noodles (snack pack)",
+  "brand": "sunfeast",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Instant Noodles: Maida (Refined Wheat Flour)(78.7%), *Edible Vegetable Oil, Iodized Salt, Wheat Gluten (0.4%), Thickeners (502, 412), Acidity Regulators (501), Stabilizer [339(i)]. Seasoning: Masala Mix: Dehydrated Vegetables [Beans (9.5%), Carrot (7.1%), Onion (4.6%), Cabbage (3.8%)], Instant Noodle Powder (Maida (Refined Wheat Flour)(15.9%), *Edible Vegetable Oil, Iodized Salt, Wheat Gluten (0.07%)], Spices and Condiments [Garlic (17.6%)], Coriander, Cumin, Dried Ginger, Chilliies, Aniseed, Fenugreek, Black Pepper, Cardamom, Nutmeg, Caraway, Cinnamon, Cloves, Tumeric], Sugar, Iodized Salt, Hydrolyzed Vegetable Protein (Deflated Soya, Maltodextrin), Natural Flavours and Natural Flavouring Substances, Yeast Extract, Acidity Regulator (330), Nature Identical Flavouring Substances, Flavour Enhancer (635).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725018016",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

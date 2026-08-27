@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069404877",
+  "barcode_printed": "8906069404877",
+  "barcode_format": "EAN-13",
+  "name": "Tandoori Pizza Pasta Sauce",
+  "brand": "veeba",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (15 g)",
+        "quantity": {
+          "value": 15,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 27,
+        "protein_g": 0.4,
+        "carbohydrate_g": 2.4,
+        "sugars_g": 1.6,
+        "fat_g": 1.7,
+        "saturated_fat_g": 0.3,
+        "sodium_mg": 225
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069404877",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

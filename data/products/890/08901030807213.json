@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030807213",
+  "barcode_printed": "8901030807213",
+  "barcode_format": "EAN-13",
+  "name": "Horlicks classic malt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 377,
+        "protein_g": 11,
+        "carbohydrate_g": 79,
+        "sugars_g": 13.5,
+        "fat_g": 2,
+        "saturated_fat_g": 0,
+        "sodium_mg": 1000
+      }
+    }
+  ],
+  "ingredients_raw": "taxes) pkd,: batch no,: ,00, pko: 10 /20,, 201018dbph 19:14) 00-04 - ssj-shpl-1000 yene 1001 1030 807213&gt; save in com nosih 30 - 2 x 500 g packs qty/100 g approx known functions of nutrients nutrients calcium 741 mg vitamin d 9,3mcg phosphorus 280 mg magnesium youdneeds healthy bones t mised in the uoudunsu ap ode nutrients wven that children healthy muscles protein 450mg and their function potassium net , sharper hoe who did not iron 148 mg healthy vitamin c vitamin a 741 mcg pool lodine 139 mcg vitamin b6 vitamin b12 folic acid 370 mcg carbohydrate of which sugar (sucrose) 3,7 mg brain development and its function 13,5 g fat vitamin b1 vitamin b2 2g energy and its metabolism niacin biotin pantothenic acid energy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030807213",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

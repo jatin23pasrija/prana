@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042957517",
+  "barcode_printed": "8901042957517",
+  "barcode_format": "EAN-13",
+  "name": "Dal Makhani",
+  "brand": "mtr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Blackgram Splits, Tomato Puree, Onion, Red Kidney bean, Vegetable Oil (made from the combination of oils such as sunflower, rice bran, soybean, palm & sesame), Butter Milk, Bengalgram splits, salt, greenchilli, garlic paste, greengram, ginger paste, red chilli, cumin powder, coriander powder, fenusgreek leaves. Contains Milk, milk product, soybeans,sesame.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042957517",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

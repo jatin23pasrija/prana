@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033745050",
+  "barcode_printed": "8906033745050",
+  "barcode_format": "EAN-13",
+  "name": "Mcvities Butter Cookie 68 GR.",
+  "brand": "mcvities",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 68,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Farine de _froment_, sucre, huile végétale (palme (antioxydant E319)), _beurre_ 3 %, sirop de sucre partiellement inverti, fécule de maïs, poudres à lever (bicarbonate d'ammonium, bicarbonate de sodium, pyrophosphate acide de sodium,), carbonate de calcium (1 %), lait écrémé en poudre, sel, monostéarate de glycérol, lécithine de _soja_), arômes artificiels (_beurre_, vanille), antioxydant (métabisulfite de sodium).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033745050",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

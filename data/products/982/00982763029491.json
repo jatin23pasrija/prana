@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "00982763029491",
+  "barcode_printed": "0982763029491",
+  "barcode_format": "EAN-13",
+  "name": "DATE & WALNUT CAKE",
+  "brand": "cake-mania",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 324,
+        "protein_g": 6,
+        "carbohydrate_g": 63,
+        "sugars_g": 30,
+        "fat_g": 11,
+        "saturated_fat_g": 2,
+        "sodium_mg": 695
+      }
+    }
+  ],
+  "ingredients_raw": "Flour, Edible veg fat, Sugar, Egg. Baking Powder, Baking Soda, Milk solids, Emulsifier, Dates, Walnut, contain added butter and other flavours, Permitted preservative (INS 211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0982763029491",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

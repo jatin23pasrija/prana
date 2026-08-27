@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906016413792",
+  "barcode_printed": "8906016413792",
+  "barcode_format": "EAN-13",
+  "name": "Badam Flavoured Milk",
+  "brand": "godrej-jersey",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 185,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 82.7,
+        "energy_kj": 346,
+        "protein_g": 3.4,
+        "carbohydrate_g": 13.9,
+        "sugars_g": 13.9,
+        "fat_g": 1.5,
+        "saturated_fat_g": 1.1,
+        "sodium_mg": 48.3
+      }
+    }
+  ],
+  "ingredients_raw": "Double Toned Milk, Sugar, Natural and Synthetic Food colours (INS 150a, INS 102), Flavour (Badam), Vitamin A (Retinyl palmitate), Vitamin D2 (Ergocalciferol)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906016413792",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

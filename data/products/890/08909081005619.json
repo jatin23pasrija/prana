@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081005619",
+  "barcode_printed": "8909081005619",
+  "barcode_format": "EAN-13",
+  "name": "Bingo Mad Angles Mystery Pickle",
+  "brand": "bingo",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CEREALS AND PULSE MIX {RICE GRITS, DEGERMED CORN GRITS, BENGAL GRAM GRITS AND PEA GRITS), *EDIBLE VEGETABLE OIL, SUGAR, IODIZED SALT, #SPICES AND CONDIMENTS, ACIDITY REGULATOR (CITRIC ACID), NATURE IDENTICAL FLAVOURING SUBSTANCES, CITRUS AURANTIFOLIA JUICE POWDER, FRUCTOSE, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES AND FLAVOUR ENHANCER (635).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081005619",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

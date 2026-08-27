@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08904089322508",
+  "barcode_printed": "8904089322508",
+  "barcode_format": "EAN-13",
+  "name": "Jumbo Raspberry Dolly",
+  "brand": "havmor",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "70 ml",
+        "quantity": {
+          "value": 70,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 114.5,
+        "protein_g": 1.5,
+        "carbohydrate_g": 17.9,
+        "sugars_g": 17.8,
+        "fat_g": 4.1,
+        "saturated_fat_g": 2.7,
+        "sodium_mg": 26.7
+      }
+    }
+  ],
+  "ingredients_raw": "JUMBO RASPBERRY DOLLY-Ice Cream. Ingredients: Outer Layer - Raspberry Flavored Syrup (60%): Added Water, Sugar, Liquid Glucose, Acidity gulator (INS 330), Stabilizers (INS 412, INS 407, INS 440), Artificial (Raspberry) Flavoring Substances, Synthetic Food Colours (INS 122). Inner Layer-Ice Cream (40%): Added Water, Milk Solids, Sugar, Emulsifiers (INS 471, INS 433) and Stabilizers (INS 466, INS 412, INS 407a, INS 415, INS 410). Food Allergen: Contains Milk. May Contain Wheat, Nut and Soy. Tk13",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904089322508",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

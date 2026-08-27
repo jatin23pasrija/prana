@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414000285",
+  "barcode_printed": "8901414000285",
+  "barcode_format": "EAN-13",
+  "name": "Bikano khatta meetha 500g(20)",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Edible Vegetable Oil (Refined Palmolein Oil, Refined Rice Bran Oil, Refined Cottonseed Oil), Rice Flakes (20%), Sugar (Sucrose), Chickpea Flour (14.8%), Peanuts (7.3%), Dried Green Peas, Lentils (3.8%), Sago, Maize Flour, Split Bengal Gram, Mixed Spices, Rice Flour, lodized Salt, Turmeric, Carom Seeds, Black Salt, Acidity Regulator (E 330), Raising Agent [E 500 (ii)]. ALLERGEN ALERT: CONTAINS: PEANUTS May Contain Wheat, Milk, Nuts, Sesame, Soy and Oats.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414000285",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

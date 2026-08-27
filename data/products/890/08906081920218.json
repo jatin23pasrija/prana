@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081920218",
+  "barcode_printed": "8906081920218",
+  "barcode_format": "EAN-13",
+  "name": "Multi Collagen Complex Type I, Ii, Iii, V & X + Piper Nigrum Extract",
+  "brand": "carbamide-forte",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "3g",
+        "quantity": {
+          "value": 3,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "protein_g": 5.8,
+        "carbohydrate_g": 0.1,
+        "sugars_g": 0,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 8
+      }
+    }
+  ],
+  "ingredients_raw": "Hydrolyzed Collagen Complex (Hydrolyzed Bovine Collagen, Hydrolyzed Chicken Bone Broth Collagen, Hydrolyzed Fish Collagen, Hydrolyzed Egg Shell Membrane Collagen), Anticaking Agent (INS 460 (i)), Thickener (INS 464), Emulsifier (INS 466), Antifoaming Agent (INS 452(i)), Permitted Natural Food Colour (INS 172 (ii)), Potassium Sorbate (INS 202)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081920218",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

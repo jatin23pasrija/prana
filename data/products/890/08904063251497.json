@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063251497",
+  "barcode_printed": "8904063251497",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram Gup shup 200g",
+  "brand": "haldiram-s",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 561,
+        "protein_g": 12,
+        "carbohydrate_g": 45,
+        "sugars_g": 2.5,
+        "fat_g": 37,
+        "saturated_fat_g": 16,
+        "sodium_mg": 1080
+      }
+    }
+  ],
+  "ingredients_raw": "Peanut (55%), wheat flour (16%), starch, sugar, rice powder, vegetable oil (palmolein), salt, red chilli powder, coriander powder, Kimin powder, black pepper, ginger powder, garlic powder, cinnamon powder, mace powder, nutmeg powder, asafoetida (wheat), acidity regulator (citric acid powder E330) and paprika (E 160 C)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063251497",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

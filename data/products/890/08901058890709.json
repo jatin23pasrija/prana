@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058890709",
+  "barcode_printed": "8901058890709",
+  "barcode_format": "EAN-13",
+  "name": "maggie masala chuppa noodles",
+  "brand": "nestle",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 387.23,
+        "protein_g": 7.09,
+        "carbohydrate_g": 52.48,
+        "sugars_g": 3.26,
+        "fat_g": 17.16,
+        "saturated_fat_g": 12.2,
+        "fibre_g": 2.98,
+        "sodium_mg": 944.26
+      }
+    }
+  ],
+  "ingredients_raw": "NOODLES: Refined wheat flour (Maida), Palm oil, lodized salt, Thickeners (412 & 500), Humectant (451)). Acidity Regulators (501). 500) & 330). TASTEMAKER: Mixed spices (18.42), Dehydrated vegetables (14) Carrot fakes (7.5). Green peas (6.92). Sugar, Starch, lodized salt, Nature i ical flavouring substances, Tomato paste (5.62), Toasted onion flakes (4.72), Red wheat flour Maida), Roasted garlic flakes, Thickeners (508 & 415), Onion powder 2.82), Palm oil Herbs, Natural flavouring substance, Yeast extract powder, Flavour enhancer (639) Tamarind powder, Acidity Regulator (330) and Wheat gluten. Contains Wheat May contains Milk, Oats & Soy. 602 01/00",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058890709",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906107171044",
+  "barcode_printed": "8906107171044",
+  "barcode_format": "EAN-13",
+  "name": "Signature Lamb Burger Patty",
+  "brand": "meatigo",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "120 g",
+        "quantity": {
+          "value": 120,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 225.4,
+        "protein_g": 20.23,
+        "carbohydrate_g": 4.9,
+        "sugars_g": 0,
+        "fat_g": 13.87,
+        "saturated_fat_g": 4.86,
+        "trans_fat_g": 1.04,
+        "sodium_mg": 494.79
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906107171044",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

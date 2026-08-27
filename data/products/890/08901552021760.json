@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552021760",
+  "barcode_printed": "8901552021760",
+  "barcode_format": "EAN-13",
+  "name": "Butter chicken sauce",
+  "brand": "truly-indian",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 285,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Zwiebeln, Wasser, Kokosnussmilch (Wasser, Kokosnussextrakt), Tomatenmark, Sonnenblumenöl, Ingwer, Zucker, Knoblauch, Salz, _Cashewnüsse_, Melonensamen, Maisstärke, grüne Chili, Kreuzkümmelpulver, Gewürze, Korianderblätter, getrocknete Bockshornkleeblätter, Säuerungsmittel: Citronensäure",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552021760",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

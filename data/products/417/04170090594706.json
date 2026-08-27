@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "04170090594706",
+  "barcode_printed": "4170090594706",
+  "barcode_format": "EAN-13",
+  "name": "coca powder",
+  "brand": "fruitoman-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 429,
+        "protein_g": 21.93,
+        "carbohydrate_g": 54.86,
+        "sugars_g": 1.16,
+        "fat_g": 13.56,
+        "saturated_fat_g": 7.14,
+        "fibre_g": 25.85,
+        "sodium_mg": 26.42
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4170090594706",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151141345",
+  "barcode_printed": "8906151141345",
+  "barcode_format": "EAN-13",
+  "name": "Tata 1mg Omega 3 Capsules",
+  "brand": "tata-1mg",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Fish Oil, Methacrylic Acid, Capsule shell ingredient (Gelatin), Purified water, Humectants [INS 422 & INS 420 (ii)], Foam stabilizer [INS 1505], Preservative [INS 218], Artificial flavouring substance (Ethyl Vanillin).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151141345",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

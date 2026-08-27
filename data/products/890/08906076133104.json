@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076133104",
+  "barcode_printed": "8906076133104",
+  "barcode_format": "EAN-13",
+  "name": "Chapati zero maida",
+  "brand": "the-baker-s-dozen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "mts: Whole Wheat Flour (Atta) (56%), er, Sunflower Oil, Fermented Wheat Flour, uten, Antioxidant (INS300). ration: CONTAINS WHEAT & GLUTEN. TAIN SOY. ED IN A FACILITY THAT HANDLES KNOWN ALLERGENS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076133104",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

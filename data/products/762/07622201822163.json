@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201822163",
+  "barcode_printed": "7622201822163",
+  "barcode_format": "EAN-13",
+  "name": "Dairy milk",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 55,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 532,
+        "energy_kj": 2227,
+        "protein_g": 7.8,
+        "carbohydrate_g": 60.4,
+        "sugars_g": 57,
+        "fat_g": 29.2,
+        "saturated_fat_g": 19.6,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 129
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Milk Solids (23%*), Cocoa Butter, Cocoa Solids, Emulsifiers (442, 476), Flavouring Substances (Natural, Nature Identical and Artificial (Vanilla)). Allergen Information: Contains Milk. May Contain Tree Nuts, Wheat, Barley and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201822163",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

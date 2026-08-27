@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08996001305706",
+  "barcode_printed": "8996001305706",
+  "barcode_format": "EAN-13",
+  "name": "Mayora Malkist Chocolate Crackers",
+  "brand": "malkist",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 72,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour, Sugar (21.6%), Edible Vegetable Oil (Palmolein Oil)-(contains BHA Antioxidant), Milk Solids (6.5%), Cocoa Powder (5.2%), Glucose Syrup, Cashew Nut (2.33%), Tapioca Starch, Raising Agents (INS 503 (i), INS 500 Baker's Yeast, Colour (INS150d), lodised Salt, Malt Extract, Emulsifier (Soy Lecithin INS 322 (i)), Butter, Artificial Flavour (Chocolate), Vitamin Premix (B1, B2, B6, B12). Allergen information: Contains Wheat, Milk, Soy, Tree Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8996001305706",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

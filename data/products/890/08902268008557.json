@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08902268008557",
+  "barcode_printed": "8902268008557",
+  "barcode_format": "EAN-13",
+  "name": "marco bisc",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "INAL colate chip cookies CHAMPS Me hardate Hemed Maind When low (Cuoten) Super Nogateie O (olm Kerndl, Comtehs MUERITIONAL IMFORMATION MACA IMFORMATION ALIMENTAIRE TYPIQUE Per/Por/ Pour 100 g Per/Por/Pour serving/servica/ servir (30 g) MN Fder Coe A imduher 22 Cea tem foverings (W, Chocolete, Witer), Viesaverive (Sodium TE Conteins Ailerge W MSeve May Conen fre Nus Sp-tngrediemes 10% Golletes, 30% Rollono dcakane, Honna de tige ida (CMte, Arbce, AeO veyad (dmendie de yoln Contiona ontorderte (1810), Jerobe Com Cene (14 F1906 Agentes de CMN (903 ()4500 (),40 (), Sa, kepesente, Lache besnatade Imdainente (972 (ecMn be S, Aomeliomt (oche, Chouete, Monteqo), Comarvorte Contiene Mergenion ge Aache Se Puede Comena Nuecey De Arveol Po-ngrediemes : 70% De Energy/Valor Energétic6/Energie (X) Protein /Proteinas/P1otéines (9) 1994 598 6,5 2,0 Glycaernic Carbohydrate /Carboidratos glikémicos /Glucides glycérniques (a) 73,0 21,9 of which total sugat de que Açúcares Totais donl Sucres Totaux (O fotal Fat/fotal de Gordura/Total Graisses (",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902268008557",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

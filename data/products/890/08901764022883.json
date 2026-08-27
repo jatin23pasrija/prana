@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764022883",
+  "barcode_printed": "8901764022883",
+  "barcode_format": "EAN-13",
+  "name": "Orange Flavoured",
+  "brand": "fanta",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (330, 331 (iii)), PRESERVATIVE (211), PERMITTED NATURAL COLOUR (160a (iii)), PERMITTED ARTIFICIAL FLAVOURS (ORANGE), CONTAINS ADDED FLAVOUR (NATURE-IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764022883",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

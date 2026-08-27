@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063242029",
+  "barcode_printed": "8901063242029",
+  "barcode_format": "EAN-13",
+  "name": "BRITANNIA Jimjam",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 92,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR. SUGAR (25%) VEGETABLE OIL(PALM) &YEGETABLE FAT PAIM! SESAME) IVERT SUGAR SYRUP, DEXTROSE. SKIM MILK POWDER & SWEET CONDENSED MILK CORN STARCH MANTO DEXTRIN FRUT PRODUCTS 7%) APPLE NUICE CONCENTRATE PEAM MUICE CNCENTRATEN RANANA RMARY SALTERMASS RAROYAHCTCHI MONSTANARK SYCERIDES OFFATIYAGIDS PALMIN LEAVENING ACEMIS AMMONUM BICARBONATER SORNUM BCARRONATE ARTRICAL RAYOUR NAIA BUTER & MXED FRUT, ACDPY REGULATORSICIRIC ACID. SODIUM CHTRATE GELLINGAGENT (PECTIN).ARTIFICAL COLOUR FD &CRED 40) (ALLURARED CONTAINS: WHEAT (GLUTEN, SESAME MILK PRODUCTS, SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063242029",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

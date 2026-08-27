@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005144632",
+  "barcode_printed": "8908005144632",
+  "barcode_format": "EAN-13",
+  "name": "Muesli dark chocolate cranberry",
+  "brand": "yoga-bar",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole Grains 66% {Rolled Oats, Rice Flakes, Quinoa Flakes), Dark Chocolate Paste 12% (Sugar, Edible Vegetable Fat, Cocoa Solids, Soy Lecithi &Natural Flavours), Seeds & Nuts 10.8% (Chia. Flax. Almond, Pumpkin). Dehydrated Fruits 6.5% (Raisins. Cranberry 2.5%). Dates Syrup. Cocoa Powder. Rice Br Oil, Natural Flavours, Jaggery Syrup. Cocoa Mass. Himalayan",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005144632",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

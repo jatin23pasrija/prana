@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725198442",
+  "barcode_printed": "8901725198442",
+  "barcode_format": "EAN-13",
+  "name": "Mad Angles Chaat Masti",
+  "brand": "bingo",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kj": 542,
+        "protein_g": 7.3,
+        "carbohydrate_g": 58.8,
+        "sugars_g": 5.3,
+        "fat_g": 30.8,
+        "saturated_fat_g": 14.2,
+        "trans_fat_g": 0.1
+      }
+    }
+  ],
+  "ingredients_raw": "RICE GRITS,SEASONING MIX (REFINED PALMOLEIN, REFINED SUGAR CONDIMENTS, IODISED SALT, WHEAT FLOUR, BLACK SALT, TOMATO POWDER (0.3 POWDER (0.2%), ACIDITY REGULATORS (INS 296, INS 334, INS 330), HYDROLYZED PROTEIN, ANTICAKING AGENT (INS 551) & FLAVOUR ENHANCERS (INS 627) REFINED PALMOLEIN, CORN GRITS, GRAM GRITS AND ACIDITY REGULATOR (INS 500[ii]) USED AS NATURAL FLAVOURING AGENT CONTAINS ADDED FLAVOUR(S) (NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725198442",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725119201",
+  "barcode_printed": "8901725119201",
+  "barcode_format": "EAN-13",
+  "name": "yippee!",
+  "brand": "sunfeast",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 488,
+        "protein_g": 9.6,
+        "carbohydrate_g": 62.5,
+        "sugars_g": 3.6,
+        "fat_g": 18.6,
+        "saturated_fat_g": 9.6,
+        "fibre_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725119201",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

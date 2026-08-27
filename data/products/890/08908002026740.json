@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002026740",
+  "barcode_printed": "8908002026740",
+  "barcode_format": "EAN-13",
+  "name": "Kaju Mixture",
+  "brand": "btw",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Husked Green Gram. Edible Vegetable Oil (Refined Cotton Seed Oil & Refined Palmolein Oil), Potatoes, Cashew, Lentil, Husked Gram, Rice Flakes, Rice Flour, Spinach, Spices & Condiments (Iodized Salt, Clove, Black Pepper, Mace, Nutmeg, Cinnamon) and Citric Acid (E330) as Acidity Regulator.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002026740",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

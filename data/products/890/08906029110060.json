@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08906029110060",
+  "barcode_printed": "8906029110060",
+  "barcode_format": "EAN-13",
+  "name": "Browny Whole Wheat Bread",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 248.4,
+        "protein_g": 12.7,
+        "carbohydrate_g": 48,
+        "fat_g": 0.7,
+        "saturated_fat_g": 0.2,
+        "fibre_g": 7.98
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour (atta) Water, Refined Wheat Flour (Maida), Wheat Gluten, Sov Flour, Yeast, lodised Salt, Vegetable Oils, Permitted Class II Preservatives (I.N.S. 281, 280), Flour Treatment (I.N.S. 510, 923, 1100), Antioxidant (I.N.S.300), Emulsifier (I.N.S. 412, 481)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906029110060",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

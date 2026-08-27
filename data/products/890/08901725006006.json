@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725006006",
+  "barcode_printed": "8901725006006",
+  "barcode_format": "EAN-13",
+  "name": "Sunfeast yeppi noodles",
+  "brand": "sunfeast",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 448,
+        "protein_g": 9.6,
+        "carbohydrate_g": 62.5,
+        "sugars_g": 3.6,
+        "fat_g": 18.6,
+        "saturated_fat_g": 9.6,
+        "sodium_mg": 1485.3
+      }
+    }
+  ],
+  "ingredients_raw": "Instant Noodles: Refined Wheat Flour (Maida), Refined Palm Oil, lodized Salt, Wheat Gluten, Thickeners (INS 508, INS 412), Stabilizers [INS 170(i), INS 339(ii), INS 450(iii) and INS 45200)) and Acidity Regulators [INS 501(i), INS 500(i) and INS 330]. Seasoning: Main Masala Mix: Spices and Condiments (22.3%) [Garlic, Red Chilli (3.1%), Coriander (2.1%), Aniseed, Ginger, Cumin, Black Pepper, Cassia, Cardamom, Nutmeg and Clove], Onion Powder, Instant Noodle Powder (Refined Wheat Flour (Maida), Refined Palm Oil, lodized Salt and Wheat Gluten), lodized Salt, Sugar, Hydrolyzed Vegetable Protein, Maltodextrin, Fat Powder, Flavour Enhancers (INS 627, INS 631), Starch, Yeast Extract, Natural Flavours and Natural Flavouring Substances, Nature Identical Flavouring Substances, Dairy Whitener (Milk Solids, Sugar), Anticaking Agent (INS 551), Acidity Regulator (INS 330) and Refined Sunflower Oil. Mood Masala Mix: Spices and Condiments (25.4%) [Garlic, Red Chilli (3.8%), Ginger, Coriander (2.0%), Black Pepper, Aniseed, Cumin, Cassia and Cardamom), Onion Powder, Sugar, Instant Noodle Powder (Refined Wheat Flour (Maida), Refined Palm Oil, lodized Salt and Wheat Gluten), lodized Salt Dairy Whitener (Milk Solids, Sugar), Hydrolyzed Vegetable Protein, Starch, Fat Powder, Maltodextrin, Flavour Enhancers (INS 627, INS 631) Na ture identical Flavouring Substances, Yeast Extract, Anticaking Agent (INS 551), Natural Flavours and Natural Flavouring Substances and Acidity Regulator (INS 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725006006",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

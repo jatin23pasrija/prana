@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201712617",
+  "barcode_printed": "7622201712617",
+  "barcode_format": "EAN-13",
+  "name": "Chocobakes choco chip",
+  "brand": "cadbury",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 167,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), MILK CHOCOLATE CHIPS (23%)-[SUGAR, COCOA BUTTER, MILK SOLIDS (4%), COCOA SOLIDS, DEXTROSE, EMULSIFIERS (442), FLAVOURS (NATURAL, NATURE IDENTICAL AND ARTIFICIAL (VANILLA & CARAMEL) FLAVOURING SUBSTANCES)] SUGAR, PALMOLEIN, COCOA SOLIDS INVERT SUGAR, RAISING AGENTS (503(ii), 500(ii), 450(i)), IODISED SALT, EMULSIFIER (322), FLAVOURS (NATURAL & ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES). ALLERGEN INFORMATION: CONTAINS MILK, WHEAT, SOY NAY CONTAIN TREENUTS, BARLEY. ING DER PACKAGE: 10°",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201712617",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

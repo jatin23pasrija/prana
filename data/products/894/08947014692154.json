@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08947014692154",
+  "barcode_printed": "8947014692154",
+  "barcode_format": "EAN-13",
+  "name": "Wow! Thupka Chicken",
+  "brand": "wow",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "NOODLES Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), Iodized Salt, Wheat Gluten, Thickener INS 412), Humectant (INS 451(i)}, Acidity Regulator (INS 500(ii), INS 501(i)) Antioxidant (INS 319 SEASONING: Spice Mix-33.33% (Turmeric, Red Chilli, Iodised Salt, Black Pepper), Freeze Dried Chicken-13% Dehydrated Vegetable-10% (Cabbage, Carrots, Beans), Dehydrated Onion Powder - 7.5%, Dehydrated Garlic Powder, Hydrolyzed Vegetable Protein, Yeast Powder, Maize Starch, Flavour Enhancer (INS 627, INS 631, INS 6351, Ele der-3.5%, Refined Wheat Flour (Maida), Modified Starch, Soya Powder, Celery, Refined Palm Oil Vegetable Oil Sunflower Oil), Anticaking Agent (INS 551), Acidity Regulator (INS 330), Thickener (INS 415 s&Condiments, Antioxidants (INS 319), Permitted Natural Color (INS 160C). FLAVORED CHILLI OIL: Edible Vegetable Oil (Sunflower Oil), Red Chilli, Nature Identical Flavouring Substance (Butter Flavour).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8947014692154",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

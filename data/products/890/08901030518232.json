@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030518232",
+  "barcode_printed": "8901030518232",
+  "barcode_format": "EAN-13",
+  "name": "Cup-a-Soup Sweet Corn Veg",
+  "brand": "knorr",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 12,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Potato Starch, &quot;Dehydrated Vegetables (Corn (7.5%). Carrot Flakes (5%), Leeks (0.5%)), Maltodextrin, lodised Salt, Hydrolyzed Vegetable Protein, Thickener-415, Natural (Garlic), Nature Identical and Artificial (Com) Flavouring substances, Hydrogenated Palm Oil, Spices and Condiments, Flavour Enhancer-627&631, Anticaking Agent - 551",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030518232",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

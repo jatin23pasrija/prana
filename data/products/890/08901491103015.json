@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491103015",
+  "barcode_printed": "8901491103015",
+  "barcode_format": "EAN-13",
+  "name": "Tomato",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 18,
+        "protein_g": 0.9,
+        "carbohydrate_g": 3.9,
+        "sugars_g": 2.6,
+        "fat_g": 0.2,
+        "fibre_g": 1.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491103015",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

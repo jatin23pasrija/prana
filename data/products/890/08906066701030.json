@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "gtin": "08906066701030",
+  "barcode_printed": "8906066701030",
+  "barcode_format": "EAN-13",
+  "name": "Sharp Jalapeno and Cream Cheese",
+  "brand": "kettle-studio",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 113,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28 g",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 158,
+        "energy_kj": 662,
+        "protein_g": 1.5,
+        "carbohydrate_g": 17,
+        "sugars_g": 0.7,
+        "fat_g": 8.6,
+        "saturated_fat_g": 2.7,
+        "trans_fat_g": 0,
+        "fibre_g": 1.1,
+        "sodium_mg": 157
+      }
+    }
+  ],
+  "ingredients_raw": "Fresh Potatoes, Vegetable Oils (Sunflower Oil, Palmolein Oil, Cotton Seed Oil), Sugar, lodized Salt, Rice Powder, Milk Solids (Skimmed Milk, Sucrose), Spices & Condiments, Corn Starch, Ghee, Anticaking Agent (E551), Dehydrated Herbs, Acidity Regulator (E270), Maltodextrin, Cheese, Flavour Enhancers (E627, E631), Antioxidants (E300, E319). CONTAINS ADDED NATURAL (CHEESE) AND NATURE IDENTICAL FLAVOURING (JALAPENO) SUBSTANCES. Alergen Advisory: Contains Milk Solids. Produced in factory which dies Peanuts, Soya, Wheat, Sesame & other Nuts on separate machines",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906066701030",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

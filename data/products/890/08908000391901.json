@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000391901",
+  "barcode_printed": "8908000391901",
+  "barcode_format": "EAN-13",
+  "name": "WheaFree Pistachio ACookies",
+  "brand": "fssai",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 cookie (24 g)",
+        "quantity": {
+          "value": 24,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 120,
+        "protein_g": 2,
+        "carbohydrate_g": 13,
+        "sugars_g": 5,
+        "fat_g": 7,
+        "saturated_fat_g": 3.5,
+        "fibre_g": 1,
+        "sodium_mg": 5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000391901",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

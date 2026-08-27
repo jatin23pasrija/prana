@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058905441",
+  "barcode_printed": "8901058905441",
+  "barcode_format": "EAN-13",
+  "name": "Maggi 2-minute noodles Special Masala",
+  "brand": "nestle",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 393,
+        "protein_g": 9.6,
+        "carbohydrate_g": 60.3,
+        "sugars_g": 2.3,
+        "fat_g": 13.1,
+        "saturated_fat_g": 7.7,
+        "trans_fat_g": 0.13,
+        "fibre_g": 2.3,
+        "sodium_mg": 939.3
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles: Refined wheat flour (Maida), Palm oil, Wheat gluten, lodized salt, Thickeners (508 & 412), Acidity regulators (501(i) & 500 (i)) and Humectant (451()). Masala *TASTEMAKER® Mixed spices (35.2%) (&quot;Roasted spice powder (9.3%) (Coriander, Turmeric, Cumin, Aniseed, Black pepper, Fenugreek, Ginger, Green cardamom, Cinnamon, Clove, Nutmeg, Bay leaf and Black cardamom), Red chilli powder, Onion powder, Garlic powder, Black pepper powder, Coriander powder, Cumin powder, Turmeric powder, Ginger powder, Aniseed powder, Fenugreek powder, Capsicum extract, Compounded asafoetida, Star Anise powder, Coriander extract and Cumin extract), Sugar, lodized salt, Onion, Refined wheat flour (Maida), Thickener (508), Flavour enhancer (635), Yeast extract powder, Starch, Palm oil, Dehydrated kasuri methi leaves, Acidity regulator (330), Mineral, Corn oil and Wheat gluten. Contains Wheat. May contains Milk, Mustard & Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058905441",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

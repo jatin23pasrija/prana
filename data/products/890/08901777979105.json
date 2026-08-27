@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777979105",
+  "barcode_printed": "8901777979105",
+  "barcode_format": "EAN-13",
+  "name": "Vadilal Gourmet Ice cream",
+  "brand": "vadilal",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Milk Solids, Sugar, Chocolate (7.5%) [Sugar, Cocoa Solids, Cocoa Butter, Emulsifier (322,476), Artificial (Vanilla) Flavouring Substances] Cocoa Solids, Dextrose, Emulsifier (471), Stabilisers (412 466 407). Synthetic Food Colours (110, 124, 133). Artificial (Vanilla) Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777979105",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725198336",
+  "barcode_printed": "8901725198336",
+  "barcode_format": "EAN-13",
+  "name": "MAD ANGLES",
+  "brand": "itc",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 533,
+        "protein_g": 5.8,
+        "carbohydrate_g": 57.4,
+        "sugars_g": 6,
+        "fat_g": 31.8,
+        "saturated_fat_g": 14.3,
+        "sodium_mg": 765.4
+      }
+    }
+  ],
+  "ingredients_raw": "Rice grits, Seasoning mix [Refined palmolein, Refined sugar, #Spices & condiments, Iodised salt, Wheat flour, Black salt, Tomato powder (0.3%), Jaggery powder (0.2%), Acidity regulators (INS 296, INS 334, INS 330), Hydrolyzed Vegetable Protein, Anticaking agent (INS 551) & Flavour enhancers (INS 627, INS 631)], Refined palmolein, Corn grits, Gram grits and Acidity regulator (INS 500(ii)). #Used as Natural Flavouring agent.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725198336",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

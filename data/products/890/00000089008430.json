@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "00000089008430",
+  "barcode_printed": "89008430",
+  "barcode_format": "EAN-8",
+  "name": "Nescafe Iced Latte",
+  "brand": "nescafe",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 88,
+        "protein_g": 3,
+        "carbohydrate_g": 12.1,
+        "sugars_g": 8.5,
+        "fat_g": 3.1,
+        "saturated_fat_g": 2.4,
+        "fibre_g": 0,
+        "sodium_mg": 32.9
+      }
+    }
+  ],
+  "ingredients_raw": "Toned milk (87%), Sugar, Coffee (0.7%), Acidity regulator (340), Nature-Identical flavoring substances and Stabilizer (407). Contains Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89008430",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

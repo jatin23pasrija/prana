@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08905950003465",
+  "barcode_printed": "8905950003465",
+  "barcode_format": "EAN-13",
+  "name": "Bikaneri Bhujia",
+  "brand": "bikaji",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Dew Bean Flour (Moth Flour) (45%), Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Gram Flour (9%), Ground Spices and Condiments (lodised Salt, Red Chilli, Ginger, Black Pepper, Cardamom, Clove, Nutmeg)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905950003465",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

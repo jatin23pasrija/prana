@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033421916",
+  "barcode_printed": "8906033421916",
+  "barcode_format": "EAN-13",
+  "name": "Rusk Elaichi",
+  "brand": "kanha",
+  "category": "rusk",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour [Maida) (61%)], Sugar (27%), Edible Vegetable Fat & Oil [(7%) (Hydrogenated Palm Oil, Interesterified Fat, Sesame Oil, Vitamin A], Semolina, Yeast, Custard Powder, Skimmed Milk Powder, Edible Common Salt (Iodized Salt), Gluten, Bread Improver [Soya Flour, Starch, Antioxidant (INS300), Flour Improvers (INS 923, INS 1100), Emulsifier (INS 471(i), INS 481(i)), Ammonium Chloride], Preservative [Propylene Glycol (INS 1520), TBHQ (INS 319), Citric Acid (INS 330)], Spice & Condiment [Cardamom Seeds (0.2%) & Its Oil (0.5%)], Acidity Regulator (INS 260) & Antioxidant (INS 300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033421916",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

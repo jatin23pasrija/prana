@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010504625",
+  "barcode_printed": "8906010504625",
+  "barcode_format": "EAN-13",
+  "name": "8906010504625",
+  "brand": "gippi",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "550 BAI ASCHEIN, IL RATED VEG SEASONINE TO COMMON SALT SUGAR ARN MEAL (63 (CONTAINS ONE OR MORE OF THE FOLLOWINGS MALTODI UNORTED VEGETABLE PER UN GARLIC, TOMATO CHILL IDENTICAL FLAVOURING SURED VEGETABLE PROTEIN (SOYA) FLANTICA NATURAL & NATURE EMULSIFIER (INS 471, INS 470), MILK SOLIDS (0.1%), PAPRIKA EXTRACT (INS 1600), FLAVOUR ENHANCER (INS 627, INS 631, (NS 621) ACIDITY REGULATOR (INS 330, INS 296, INS 334|| **AS FLAVOURING & SEASONING AGENT GLUTAMATE THE TORNADO FLAMIN' CHILLI MASALA CONTAINS ADDED MONSUM G NOT RECOMMENDED FOR INFANTS BELOW 12 MONTHS AND PRENOMEN. READY-TO-EAT SAVOURIES | PROPRIETARY FOOD | INDIAN SNACKS & SAVOURES NAMKEEN ALLERGEN ADVICE: CONTAINS SOY & MILK SOLIDS PRODUCT OF INDIA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010504625",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

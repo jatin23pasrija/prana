@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08907931000449",
+  "barcode_printed": "8907931000449",
+  "barcode_format": "EAN-13",
+  "name": "Garden Veggie Straws",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 148.8,
+        "protein_g": 0.9,
+        "carbohydrate_g": 20.8,
+        "sugars_g": 1,
+        "fat_g": 6.1,
+        "saturated_fat_g": 1.4,
+        "fibre_g": 0.1,
+        "sodium_mg": 225
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907931000449",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

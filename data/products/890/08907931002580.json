@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08907931002580",
+  "barcode_printed": "8907931002580",
+  "barcode_format": "EAN-13",
+  "name": "Straws tomato basil",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 481,
+        "protein_g": 3,
+        "carbohydrate_g": 69,
+        "sugars_g": 3.33,
+        "fat_g": 21.33,
+        "saturated_fat_g": 5,
+        "sodium_mg": 494
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907931002580",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

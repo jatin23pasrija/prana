@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262071864",
+  "barcode_printed": "8901262071864",
+  "barcode_format": "EAN-13",
+  "name": "99% Cacao Ultimate Dark Chocolate",
+  "brand": "amul",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 552,
+        "protein_g": 14.7,
+        "carbohydrate_g": 28.4,
+        "sugars_g": 1.2,
+        "fat_g": 40.8,
+        "saturated_fat_g": 23.1,
+        "sodium_mg": 60
+      }
+    }
+  ],
+  "ingredients_raw": "Cocoa solids, emulsifiers (322,476). Nutritional Information 12 servings per container CACAO ULTIMATE DARK CHOCOLATE Serving size 10 g Amount per 100 g % RDA* Energy (kcal) 522 3% Total Fat (g) 40.8 6% Saturated Fat (g) 23.1 10% Trans Fat (g) 0.0 0% Cholesterol (mg) 0 Carbohydrate (g) 28.4 Total Sugars (g) 1.2 Added Sugars (g) 0.0 0% Protein (g) 14.7 Sodium (mg) 60 0% #RDA stands for Recommended Dietary Allowance per serving * Average values Chocolate Indulgence It's the pinnacle of dark chocolate that Contains 99% cacao sourced from some of the finest cocoa producing regions of the world. This is pure bliss for the true chocolate connoisseur. Manufactured by: Kaira District Co-operative Milk Producers' Union Ltd., Anand 388 001, Gujarat, India. At Food Complex Mogar, Mogar-388 340, India. Lic. No. 10014021001010. Marketed by: Gujarat Co-operative Milk Marketing Federation Ltd., Anand - 388 001, Gujarat, India. Website: www.amul.com fssai Lic. No. 10012021000071 We appreciate your feedback. Contact our Customer Care Executive at: 1800 258 3333 (Toll free) [6 AM-9PM] customercare@amul.coop 2 GCMMF Ltd., Anand - 388 001 Follow us on: f/amul.coop, @amul coop, famul india To know more about AMUL, please point your device here. Net Weight: 125 g STORE IN COOL, DRY AND HYGIENIC PLACE. AFTER OPENING, REFRIGERATE AND USE THE CONTENT WITHIN 2 MONTHS OR EXPIRY DATE, WHICHEVER IS EARLIER. Important: Temperature and humidity shocks may cause white layer without affecting quality of product for consumption. For MRP (incl. of all taxes), Date of Packaging (Pkd.) & Expiry (Exp.), Batch No. (BN), see below. #160.00 Fkd. 08 MAY/2 EXP 07 MAY 2 BN. :KIL1283 Amul The Taste of Ledia 8 901262 071864",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262071864",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

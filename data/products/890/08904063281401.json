@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063281401",
+  "barcode_printed": "8904063281401",
+  "barcode_format": "EAN-13",
+  "name": "Kaju Katli",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 340,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 pieces (24 g)",
+        "quantity": {
+          "value": 24,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 114.48,
+        "protein_g": 2.5,
+        "carbohydrate_g": 13.5,
+        "sugars_g": 10.9,
+        "fat_g": 5.6,
+        "saturated_fat_g": 1.2,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "cashew nuts (52%), sugar and water, contains nuts components, this product is made in a facility that processes foods containing peanuts, tree nuts, milk , wheat, thawing options 1 room temperature remove tray from freezer and leave at room temperature for approximately 50-60 minutes or more for the required softness, www refreez do not ********* 2 refrigerator/overnight remove tray from freezer and place in refrigerator overnight after ******* thawing",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063281401",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

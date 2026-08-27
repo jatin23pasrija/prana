@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906090574556",
+  "barcode_printed": "8906090574556",
+  "barcode_format": "EAN-13",
+  "name": "Too Yumm! Namkeen - All In One",
+  "brand": "too-yumm",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Edible Vegetable Oil (Rice Bran), Gram Flour (13.6%), Rice Flake (11.8%), Corn Flakes (9.9%), Seasoning (Sugar, Iodised Salt, &quot;Spices & Condiments [Fennel (5.5%)], Acidity Regulator (INS 330). Natural And Nature Identical Flavouring Substance Anticaking Agent (INS 551)}, Peanuts (6.5%), Starch, Rice Flo (4.3%), Split Bengal Gram (3.7%), Pea Flour (3.3%), Flattened Bengal Gram (2.5%), Lentil (1.9%), Cashew Nuts (0.9%), Raisins (0.8%), Turmeric Powder, Split Green Gram (0.5%), Coriander Seeds (0.4%), Iodised Salt, Sago (0.2%), Red Chilli Powder,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906090574556",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

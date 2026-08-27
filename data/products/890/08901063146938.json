@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063146938",
+  "barcode_printed": "8901063146938",
+  "barcode_format": "EAN-13",
+  "name": "Winkin' Cow Bourbon Shake",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "DOUBLE TONED MILK, WATER, SUGAR, COCOA SOLIDS (1.4%), EMULSIFIERS & STABILIZERS (471, 412, 407, 415&418), BISCUIT (0.3%) [COLOURS (150, 1500, 122, 110, 133 & 102), RAISING AGENTS (500(ii) & 503), NATURE IDENTICAL & ARTIFICIAL VANILLA CHOCOLATE MILK&MILKY COCOA) FLAVOURING SUBSTANCES AND EMULSIFIERS 1471 $220, FLAVOURS (NATURE IDENTICAL (CHOCOLATE) AND ARTIFICIAL (VANILLA) FLAVOURING ACIDITY REGULATORS (340(ii), 340 & 452(1) AND IODIZED SALT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063146938",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

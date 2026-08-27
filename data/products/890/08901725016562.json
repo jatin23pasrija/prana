@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725016562",
+  "barcode_printed": "8901725016562",
+  "barcode_format": "EAN-13",
+  "name": "Sunfeast 5-grain Digestive",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 800,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 474,
+        "protein_g": 7.9,
+        "carbohydrate_g": 68.4,
+        "sugars_g": 20.7,
+        "fat_g": 20.4,
+        "saturated_fat_g": 9.8,
+        "fibre_g": 7.4,
+        "sodium_mg": 267.6
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (37.8%), REFINED PALM OIL, JOWAR FLOUR (13.87 %), SUGAR, WHEAT BRAN (5.88%), INVERT SYRUP, RAGI FLOUR (2.1%), LIQUID GLUCOSE, MILK SOLIDS, CORN FLAKES (0.97%), RAISING AGENTS (INS 503, INS 500(ii)), IODIZED SALT, ROLLED OATS (0.42%), EMULSIFIERS [LECITHIN (FROM SOYABEAN), MOND-AND DI-GLYCERIDES OF FATTY ACIDS (FROM PALM OIL), DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL (FROM REFINED SUNFLOWER AND PALM OIL)), NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, ARTIFICIAL FLAVOURING SUBSTANCES (MILK, MALT, VANILLA) AND NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725016562",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00016000122536",
+  "barcode_printed": "0016000122536",
+  "barcode_format": "EAN-13",
+  "name": "Cinnamon Toast Crunch Cereal",
+  "brand": "general-mills",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "whole grain wheat, sugar, rice flour, canola oil, fructose, maltodextrin, dextrose, salt, cinnamon, trisodium phosphate, soy lecithin, caramel color, bht added to preserve freshness, vitamins and minerals: calcium carbonate, iron and zinc (mineral nutrients), vitamin c (sodium ascorbate), a b vitamin (niacinamide), vitamin b6 (pyridoxine hydrochloride), vitamin b2 (riboflavin), vitamin b1 (thiamin mononitrate), vitamin a (palmitate), a b vitamin (folic acid), vitamin b12, vitamin d3,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0016000122536",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

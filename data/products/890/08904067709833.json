@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904067709833",
+  "barcode_printed": "8904067709833",
+  "barcode_format": "EAN-13",
+  "name": "Thai Sweet Chilli Roasted Peanuts",
+  "brand": "jabsons",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Peanuts (86%), Refined Cotton Seed Oil, Sugar, lodized Salt, Onion, Spices & Condiments (Chilli, Pepper), Acidity Regulators (Citric Acid, Malic Acid), Garlic, Maltodextrin, Hydrolysed Vegetable Protein (Soya), Yeast Extract, Anticaking Agent (Silicon Dioxide), Anti-oxidant (Ascorbic Acid).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904067709833",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

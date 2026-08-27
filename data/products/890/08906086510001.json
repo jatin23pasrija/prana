@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906086510001",
+  "barcode_printed": "8906086510001",
+  "barcode_format": "EAN-13",
+  "name": "WOW laddus",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 526.32,
+        "protein_g": 7.89,
+        "carbohydrate_g": 26.32,
+        "sugars_g": 26.32,
+        "fat_g": 34.21,
+        "saturated_fat_g": 18.42,
+        "fibre_g": 10.53
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906086510001",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

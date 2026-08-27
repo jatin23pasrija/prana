@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906130900536",
+  "barcode_printed": "8906130900536",
+  "barcode_format": "EAN-13",
+  "name": "Mexican Lime Corn Turtle Chips",
+  "brand": "orion",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "CORN FLOUR (60%), EDIBLE VEGETABLE OIL (PALMOLEIN OIL & RAPESEED OIL), SEASONING [EDIBLE COMMON SALT, MALTODEXTRIN, SUGAR, RICE FLOUR, SPICES & CONDIMENTS (CHILLL (0.5%)), HYDROLYZED SOY PROTEIN, ONION POWDER, ACIDITY REGULATOR (INS 330 & INS 296), NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES, EDIBLE VEGETABLE OIL (PALM), TOMATO SOLIDS, FLAVOUR ENHANCER (INS 627 &INS 631), ANTICAKING AGENT (INS 551), GARLIC POWDER, THICKENING AGENT (INS 414), NATURAL COLOUR (INS 150c), LEMON & LIME OIL (0.01%)), RAISING AGENT (INS 500)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906130900536",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

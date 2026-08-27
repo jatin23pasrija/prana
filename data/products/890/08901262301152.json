@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262301152",
+  "barcode_printed": "8901262301152",
+  "barcode_format": "EAN-13",
+  "name": "Aamras Kulfi",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Innerlayer-Mango Kulfi (76%) Milk solids, sugar, alphonso mango pulp (8%), emulsifiers (435, 471), stabilizers (407, 412), artificial flavouring substances (mango), colours (102,110); Outer layer Mango flavored coating (24%): Coconut oil, sugar, atk solids, emulsifier (322), artificial flavouring substances (mango), natural colours 160b) Alerten Information: Contains milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262301152",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08900504108849",
+  "barcode_printed": "8900504108849",
+  "barcode_format": "EAN-13",
+  "name": "Krispi Çubuk",
+  "brand": "ulker",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Wheat flour, palm fat, whey powder, inve sugar syrup, sugar, cheese powder (2,6% salt, raising agents (sodium hydroge carbonate, disodium diphosphate), flavouring (contain gluten and milk), emulsifi (lecithins) (contain soy). May contain traces of egg, sesame, peanuts and nuts Enerji ve Besin Oğeleri 1 porsiyon için (15 g) 100",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8900504108849",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

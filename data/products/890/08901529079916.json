@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901529079916",
+  "barcode_printed": "8901529079916",
+  "barcode_format": "EAN-13",
+  "name": "H. Nandan Hindostaanse boemboe broodje kip kerrie",
+  "brand": "h-nandan",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Uien, knoflook, zonnebloemolie, zout, korianderzaad, kurkuma, komijnzaad, MOSTERDZAAD, fenegriekzaad, zwarte peper, gember, venkelzaad, nigellazaad, chilipoeder, tomatenpoeder, conserveermiddel: E202, E211. Allergenen: Kan selderij en sesam bevatten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901529079916",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

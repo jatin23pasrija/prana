@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906162071310",
+  "barcode_printed": "8906162071310",
+  "barcode_format": "EAN-13",
+  "name": "Khara / Chekkalu",
+  "brand": "almond-house",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "63 g",
+        "quantity": {
+          "value": 63,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 220,
+        "protein_g": 2.7,
+        "carbohydrate_g": 30,
+        "sugars_g": 0,
+        "fat_g": 9.8,
+        "saturated_fat_g": 3.5,
+        "trans_fat_g": 0,
+        "fibre_g": 2.2,
+        "sodium_mg": 133
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Flour, Ginger Refined Groundnut Oil, Clarified Butter Sesame Seed, Tapioca, Roasted Gram, Onion",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906162071310",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001384045",
+  "barcode_printed": "8906001384045",
+  "barcode_format": "EAN-13",
+  "name": "แครกเกอร์รสดั้งเดิม",
+  "brand": "creamica",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 227,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28 g",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 130,
+        "energy_kj": 543.92,
+        "protein_g": 2,
+        "carbohydrate_g": 19,
+        "sugars_g": 3,
+        "fat_g": 5,
+        "saturated_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 250
+      }
+    }
+  ],
+  "ingredients_raw": "แป้งสาลี 66.84% น้ำมันปาล์ม 17.03% น้ำตาล 7.74% เกลือบริโภคเสริมไอโอดีน 2.33% น้ำเชื่อม 1.60% วัตถุเจือปนอาหาร (INS 270, INS 330, INS 341(i), INS 471, INS 500ii, INS 503, INS 1100(i) แต่งกลิ่นสังเคราะห์ วัตถุปรุงแต่งรสอาหาร (เอมไซม์พาเพน)วัตถุกันเสีย (โซเดียมเมทาไบซัลไฟต์)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001384045",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

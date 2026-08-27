@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "00850016323637",
+  "barcode_printed": "0850016323637",
+  "barcode_format": "EAN-13",
+  "name": "nutrition shake",
+  "brand": "else-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 236,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "236ml",
+        "quantity": {
+          "value": 236,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kj": 250,
+        "protein_g": 9,
+        "carbohydrate_g": 25,
+        "sugars_g": 5,
+        "fat_g": 13,
+        "saturated_fat_g": 1,
+        "fibre_g": 3,
+        "sodium_mg": 80
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Almond Butter, Buckwheat Flour. Less than 2% of: Sugar, Tapiocal Maltodextrin, Cocoa powder, Natural flavors, Sunflower Lecithin, Calcium Carbonate, Sodium Citrate Dihydrate, Potassium Chloride, Tricalcium Phosphate, Vitamin A Acetate, Cholecalciferol (D3), Vitamin E Acetate, Phylloquinone (K1), Thiamine Mononitrate (B1), Riboflavin (B2), Niacinamide (B3), Pantothenic Acid (B5), Pyridoxine Hydrochloride (B6), Biotin (B8), Folic Acid (B9), Cyanocobalamin (B12), Sodium Ascorbate (C), Ferric Pyrophosphate, Zinc Sulfate, Choline Bitartrate, Inositol, Sodium Selenate, Potassium lodide. Contains Tree Nuts (Almonds) X",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0850016323637",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

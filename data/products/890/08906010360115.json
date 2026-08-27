@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010360115",
+  "barcode_printed": "8906010360115",
+  "barcode_format": "EAN-13",
+  "name": "grb pure ghee",
+  "category": "butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk Fat Nutrition Facts Serving size 1 tbsp (14g) 32.5 Servings per container Calories Amount per Serving Total Sugars Og Dietary Fiber Og Sodium Org Total Carbohydrate Og Cholesterol 28mg Trans Fat Og Total Fat 14g Saturated Fat 9g % Daily value* 126 18% 45% 33333 Includes Og Added Sugars 0% Protein Og Iron 0mg Potassium Omg Calcium Omg Vitamin D 0mcg &quot;The % Daily Value (DV) tells you how much rent in a serving of food contributes to a dally 2,000 calories a day is used for geral nutrition advice Lot No: 4121224 MFD: Use by: 10.04.2025 BROUCHER TRI YOU BY B TY LTD 8 906010 360115 DOWNS. UIC 3201 com.au Keep your city clean",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010360115",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

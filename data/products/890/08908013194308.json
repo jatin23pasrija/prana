@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08908013194308",
+  "barcode_printed": "8908013194308",
+  "barcode_format": "EAN-13",
+  "name": "Cuban Watermelon Mojito",
+  "brand": "borecha",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 15,
+        "protein_g": 0.08,
+        "carbohydrate_g": 3.66,
+        "sugars_g": 3,
+        "fat_g": 0.2,
+        "fibre_g": 0.66,
+        "sodium_mg": 0.63
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908013194308",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

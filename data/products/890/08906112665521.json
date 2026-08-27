@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906112665521",
+  "barcode_printed": "8906112665521",
+  "barcode_format": "EAN-13",
+  "name": "Dark Chocolate Muesli",
+  "brand": "true-elements",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 389.4,
+        "protein_g": 12.4,
+        "carbohydrate_g": 72.7,
+        "sugars_g": 9.1,
+        "fat_g": 5.4,
+        "saturated_fat_g": 1.1,
+        "trans_fat_g": 0,
+        "fibre_g": 8.9,
+        "sodium_mg": 60.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906112665521",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

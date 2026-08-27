@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906084560022",
+  "barcode_printed": "8906084560022",
+  "barcode_format": "EAN-13",
+  "name": "Ragi with oats biscuits",
+  "brand": "vaidya-s",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 463.83,
+        "protein_g": 6.13,
+        "carbohydrate_g": 64.31,
+        "sugars_g": 3.13,
+        "fat_g": 20.23,
+        "saturated_fat_g": 0,
+        "fibre_g": 6.86
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906084560022",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

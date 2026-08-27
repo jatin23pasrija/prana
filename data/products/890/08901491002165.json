@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491002165",
+  "barcode_printed": "8901491002165",
+  "barcode_format": "EAN-13",
+  "name": "Potato Chips",
+  "brand": "lay-s-gourmet",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 507,
+        "protein_g": 7.6,
+        "carbohydrate_g": 61.2,
+        "sugars_g": 3.6,
+        "fat_g": 25.8,
+        "saturated_fat_g": 11.6,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 622
+      }
+    }
+  ],
+  "ingredients_raw": "Potato Edible Vegetable Oil (Palmolein Oil), Seasoning Sugar, Iodised Salt *Spices & Condiments. Salt Substitute (Potassium Chloride), Milk Solids (Whey Powder, Cheese Powder, Skim Milk Powder), Acidity Regulators (330, 327, 325). Flavour (Natural and Nature identical Flavouring Substances), Edible Vegetable Oil (Sunflower oil), Anticaking Agent (551) Favour Enhancer (627,631). Colour (160c). *As flavouring agent Contains Garlic ALLERGEN ADVICE: Contains Milk, Wheat, Rye, Barley, Buckwheat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491002165",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

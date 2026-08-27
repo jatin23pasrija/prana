@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499008244",
+  "barcode_printed": "8901499008244",
+  "barcode_format": "EAN-13",
+  "name": "Chocos Moons & Stars",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 28.6,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat Solids (54.2%) Wheat Flour (29.6%), Wheat Flour (24 mole Sugar, Corn Flour, Cocoa Solids (5.6%), Minerals Malt Extract, Edible Vegetable Oil (Palmolein) iodized Salt, Colour (INS 150d), Vitamins Antioxidant (INS 320). CONTAINS PERMITTED NATURAL COLOUR ADDED FLAVOURS (NATURE IDENTICAL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499008244",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

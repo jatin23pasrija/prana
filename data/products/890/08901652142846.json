@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901652142846",
+  "barcode_printed": "8901652142846",
+  "barcode_format": "EAN-13",
+  "name": "Cheese Cracker Gold",
+  "brand": "priyagold",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED VEGETABLE OILS (PALM & PALMOLEIN), SUGAR, LIQUID GLUCOSE, IODISED COMMON SALT, BUTTER (2%), PROCESSED CHEESE (1%) PERMITTED EMULSIFIERS [LECITHIN (E322(i)), DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL [E472 LEAVENING AGENTS AMMONIUM BICARBONATE (E503), SODIUM BICARBONATE (E500X)]. ACID SALT [SODIUM ACID PYROPHOSPHATE (80(0))]. DOUGH CONDITIONER (SODIUM METABISULPHITE (E223) DOUGH IMPROVERS AMYLASES (E1100(1)), FROTEASES (EN))]. CONTAINS PERMITTED SYNTHETIC COLOURS (TARTRAZINE (E102), ALLURA RED AC (E129)] AND ADDED ARTIFICIAL SYSTEM)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901652142846",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

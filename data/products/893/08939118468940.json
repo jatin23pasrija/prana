@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08939118468940",
+  "barcode_printed": "8939118468940",
+  "barcode_format": "EAN-13",
+  "name": "Nutrition Time",
+  "brand": "naturaltein",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 395.2,
+        "protein_g": 30.5,
+        "carbohydrate_g": 48.46,
+        "sugars_g": 15.86,
+        "fat_g": 7.88,
+        "saturated_fat_g": 2.58,
+        "trans_fat_g": 0,
+        "fibre_g": 10.02,
+        "sodium_mg": 157.38
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939118468940",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

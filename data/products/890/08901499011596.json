@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499011596",
+  "barcode_printed": "8901499011596",
+  "barcode_format": "EAN-13",
+  "name": "Pro Muesli",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 385,
+        "protein_g": 14,
+        "carbohydrate_g": 74.4,
+        "sugars_g": 20,
+        "fat_g": 5,
+        "saturated_fat_g": 1,
+        "sodium_mg": 180
+      }
+    }
+  ],
+  "ingredients_raw": "Multigrain (62.9%) Mix {Wheat (24.9%), Corn Grits (13.1%), Rice (8.4%), Rolled Barley (5%), Rolled Oats (5%), Ragi Millet Flour (2.6%), Moon Dal Flour (2%), Rice Flour, Corn Meal, Refined Wheat Flour (Maida)}, Seeds (8%), Pumpkin Seeds (4%), Flax Seeds (3%), Chia Seeds (8%), Candied & Dry Fruits (11%) {Candied Papaya (3%), Candied Cranberry (3%), Raisin (5%)}, Sugar, Soy Protein Isolate (6%), Cereal Extract, Wheat Bran, Iodized Salt, Viatmins, Colour (INS 140), Flavour {Artifical (Coconut)}, Antioxidants (INS 320, INS 307b) And Minerals.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499011596",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

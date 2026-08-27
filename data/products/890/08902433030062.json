@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902433030062",
+  "barcode_printed": "8902433030062",
+  "barcode_format": "EAN-13",
+  "name": "Snickers Strawberry Flavor",
+  "brand": "snickers",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "CONT INDIA GETABLE MARSAV OKSH LIMITED. PLY MALAYSIA SD SINGAPORE PTE. LTD., A 979 KING'S ROAD, QUARRY BAY, HONG KONG, CHMA TAIKOO PLACE 8902433 030062&quot;&gt; BEST BEFO 招 STU OTHER 소비기한:읽",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902433030062",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

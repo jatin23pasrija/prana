@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005506979",
+  "barcode_printed": "8906005506979",
+  "barcode_format": "EAN-13",
+  "name": "potato chips",
+  "brand": "bikaji",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 559,
+        "protein_g": 7,
+        "carbohydrate_g": 52,
+        "sugars_g": 1,
+        "fat_g": 36,
+        "saturated_fat_g": 14,
+        "fibre_g": 4,
+        "sodium_mg": 1100
+      }
+    }
+  ],
+  "ingredients_raw": "Potatoes (65%), Edible Vegetable Oil (Palmolein Oil and/or Cottonseed Oil), lodised Salt (1.5%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005506979",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

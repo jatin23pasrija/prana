@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906098831286",
+  "barcode_printed": "8906098831286",
+  "barcode_format": "EAN-13",
+  "name": "wayback moong cheese n herbs",
+  "brand": "wayback",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 392.1,
+        "protein_g": 10.8,
+        "carbohydrate_g": 78.7,
+        "sugars_g": 7.3,
+        "fat_g": 4.18,
+        "saturated_fat_g": 2.5,
+        "fibre_g": 9.5,
+        "sodium_mg": 387
+      }
+    }
+  ],
+  "ingredients_raw": "Green Lentils (Moong) 66%, Brown Rice, Gram Flour, Cheese 6%, Edible Vegetable Oil (Rice Bran Oil), Seasoning {lodized Salt, Chili, Clove, Black Pepper, Ginger Powder, Garlic, Onion, Turmeric powder, Herbs 0.5% (Parsley, Thyme & Rosemary) and Spices & Condiments Acidity Regulator (INS 330), Corn Starch, Anticaking Agents (INS 551, INS 170), Stabilizer (INS 414), Flavour Enhancers (INS 627, INS 631).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906098831286",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

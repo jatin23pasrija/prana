@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063004139",
+  "barcode_printed": "8901063004139",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Good day Chocolate Cookies 400g",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 512,
+        "protein_g": 6.1,
+        "carbohydrate_g": 68,
+        "sugars_g": 33.4,
+        "fat_g": 24,
+        "saturated_fat_g": 14.1,
+        "sodium_mg": 204
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, DARK CHOCOLATE CHIPS (13%) SUGAR COCOA SOLIDS, COCOA BUTTER, DEXTROSE, EMULSIFIER [322(i)] AND NATURE IDENTICAL FLAVOURING SUBSTANCES, DAK CHOCOCHIPS (5.8%) [SUGAR, HYDROGENATED VEGETABLE FAT, COCOA SOLIDS, DEXTROSE, EMULSIFIER [22] A NATURE IDENTICAL FLAVOURING SUBSTANCES], MILK CHOCOCHIPS (5.8%) [SUGAR, HYDROGENATED VEGETABLE FAT, MIK SOLIDS, COCOA SOLIDS, EMULSIFIER [322(i)] AND NATURAL FLAVOURING SUBSTANCES], INVERT SUGAR SYRUP, W SOLIDS, RAISING AGENTS [503 (ii), 500(ii)], COCOA SOLIDS (0.4%), IODISED SALT, EMULSIFIERS [322(i), 471 & 472 COLOUR (150c) AND NATURE IDENTICAL & ARTIFICIAL (MILKY COCOA AND VANILLIN) FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063004139",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

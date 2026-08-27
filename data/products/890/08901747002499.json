@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08901747002499",
+  "barcode_printed": "8901747002499",
+  "barcode_format": "EAN-13",
+  "name": "Instant Elaichi Tea",
+  "brand": "wagh-bakari",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "14 g",
+        "quantity": {
+          "value": 14,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 60,
+        "protein_g": 1.08,
+        "carbohydrate_g": 11.85,
+        "sugars_g": 7.18,
+        "fat_g": 0.94,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "sodium_mg": 23.82
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Milk Solids, Instant Tea (6.5%), Maltodextrin & Natural Flavouring Substance (Cardamom). Contains Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901747002499",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

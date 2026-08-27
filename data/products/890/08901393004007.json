@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393004007",
+  "barcode_printed": "8901393004007",
+  "barcode_format": "EAN-13",
+  "name": "HappyDent Wave",
+  "brand": "perfetti",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 14.7,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Gum Base, Liquid Glucose, Thickeners (INS 1405, INS 466), Flavours (Natural & Nature-Identical Flavouring Substances), Humectants (INS 422, INS 1518), Dextrose, Emulsifiers (INS 473, INS 322), Glazing Agents (INS 903, INS 904, INS 901), Sweetener: Aspartame (INS 951), Antioxidant (INS 321), Acidity Regulator (INS 330), Colours (INS 102, INS 133) Contains Soy NET QUANTITY: 14.7 g PERFETTI van Melle MRP (incl. of all taxes): 10.00 (0.68 per g) BATCH No., MFD. & BEST BEFORE: SEE BOTTOM SEAL CONTAIN NON-CALORIC SWEETENER (i) This contains Aspartame. (ii) Not recommended for phenylketonurics; for children suffering from seizure disorders; pregnant or lactating women",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393004007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

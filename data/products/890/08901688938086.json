@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901688938086",
+  "barcode_printed": "8901688938086",
+  "barcode_format": "EAN-13",
+  "name": "Vegetable burget patty",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 142.7,
+        "protein_g": 1.6,
+        "carbohydrate_g": 24.8,
+        "sugars_g": 0,
+        "fat_g": 26.37,
+        "saturated_fat_g": 0.38,
+        "sodium_mg": 495.7
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901688938086",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

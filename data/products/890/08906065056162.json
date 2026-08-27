@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906065056162",
+  "barcode_printed": "8906065056162",
+  "barcode_format": "EAN-13",
+  "name": "Nimbu Bhujiya",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Palmolein), Gram Pulse Flour, Edible Starch, Rice Powder, lodised Salt, Sugar Powder, *Spices & Condiments (Lemon Powder (0.40%), Tomato Powder, Red Chilli Powder, Mango Powder, Cumin Powder, Coriander Powder, Onion Powder, Garlic Powder), Acidity Regulator (INS 330), Flavour Enhancers (INS 627 & 631), Anticaking Agent (INS 551) and Natural & Nature Identical Flavouring Substances. *Used as natural flavouring substances",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906065056162",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "00000024998796",
+  "barcode_printed": "24998796",
+  "barcode_format": "EAN-8",
+  "name": "Classic salted chips",
+  "brand": "swagath",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 555.46,
+        "protein_g": 6.21,
+        "carbohydrate_g": 51.43,
+        "sugars_g": 1.66,
+        "fat_g": 36.1,
+        "saturated_fat_g": 16.83,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, edible vegetable oil, edible common salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/24998796",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

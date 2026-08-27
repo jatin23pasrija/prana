@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08904052503804",
+  "barcode_printed": "8904052503804",
+  "barcode_format": "EAN-13",
+  "name": "Dinshaw's Butterscotch",
+  "brand": "dinshaw-s",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 221,
+        "protein_g": 3.7,
+        "carbohydrate_g": 31.7,
+        "sugars_g": 18,
+        "fat_g": 8.8,
+        "saturated_fat_g": 5.7,
+        "sodium_mg": 41
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Milk Solids, Sugar, Cashew Crunch (10%) -[Sugar, Cashew, Butter], Liquid Glucose, Emulsifiers (471, 433), Stabilisers (412,466, 407). CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (102, 110, 133, 122, 132) AND ADDED FLAVOURS (NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES-BUTTERSCOTCH, CARAMEL TOFFEE).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904052503804",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

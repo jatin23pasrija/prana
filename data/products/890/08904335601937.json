@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335601937",
+  "barcode_printed": "8904335601937",
+  "barcode_format": "EAN-13",
+  "name": "Yoga bar 20g protein oats+",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 323,
+        "protein_g": 23.5,
+        "carbohydrate_g": 48,
+        "sugars_g": 14.7,
+        "fat_g": 7.2,
+        "saturated_fat_g": 1.7,
+        "trans_fat_g": 0,
+        "fibre_g": 14,
+        "sodium_mg": 80.3
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Grains 55.7% (Oats), Texturized Soy Protein, Fructo-Oligosaccharides, Cocoa Powders 7%, Dehydrated Fruits, Nuts & Seeds (Green Raisins, Almond 1%, Chia), Natural Flavours, Rice Bran Oil, Himalayan Pink Salt, Probiotics (Bacillus Coagulans SNZ 1969, 500 million CFU per serving), Steviol Glycosides. Commodity: 13.6 Food Supplements lergen Advice: CONTAINS OATS, SOY, NUTS. Processed on chinery in a plant that also processes tree nuts, soy, and dairy ucts. MEDICINAL USE. TIC FOOD NS NATURALLY OCCURRING SUGARS. CONTAINS STEVIOL GLYCOSIDES Suggestion: 1-2 servings recommended per day. Instructions:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335601937",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

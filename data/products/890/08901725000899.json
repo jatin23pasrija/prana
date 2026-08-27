@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725000899",
+  "barcode_printed": "8901725000899",
+  "barcode_format": "EAN-13",
+  "name": "Multi -Millet Mix",
+  "brand": "aashirvaad",
+  "category": "flour",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "(JOWAR) Sorghum FLOUR (40%), (NAVANE) Foxtail Millet FLOUR (20%), (BAJRA) pearl millet FLOUR (16.7%), (RAGI) finger millet FLOUR (16.7%), QUINOA FLOUR (6.6%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725000899",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

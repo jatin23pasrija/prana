@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201442828",
+  "barcode_printed": "7622201442828",
+  "barcode_format": "EAN-13",
+  "name": "Chocobakes",
+  "brand": "cadbury",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 126,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 465,
+        "protein_g": 3.9,
+        "carbohydrate_g": 63.7,
+        "sugars_g": 41.1,
+        "fat_g": 21.9,
+        "saturated_fat_g": 14.1,
+        "trans_fat_g": 0.1
+      }
+    }
+  ],
+  "ingredients_raw": "Cake (45%*) - (Refined Wheat Flour (Maida), Sugar, Humectants (420 (ii), 422, 1520), Palmolein, Liquid Glucose, Milk Solids, Cocoa Solids, Starch, Emulsifiers (322, 475, 471, 491), Raising Agent (500(i),450(1), 341()), lodised Salt, Flavours (Natural Flavour, Nature Identical Flavouring Substances), Preservative (202), Stabilizer (415)); Chocolayer (29%*)-(Sugar, Hydrogenated Vegetable Oils, Lactose-Rich Deproteinized Whey Permeate Powder, Cocoa Solids, Emulsifiers (442, 476)), Flavours (Nature Identical, Artificial (Vanilla and Caramel) Flavouring Substances); Filling (26%*) - (Sugar, Fractionated Fat, Liquid Glucose, Humectant (422, 1520), Water, Emulsifiers (322, 475, 471, 491), Cocoa Solids, Flavours (Natural flavour, Nature Identical Flavouring Substances), lodised Salt, Preservative (202)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201442828",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016363008",
+  "barcode_printed": "8908016363008",
+  "barcode_format": "EAN-13",
+  "name": "what's up eye health zeaxanthin & lutein gummies",
+  "brand": "what-s-up",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 354.67,
+        "protein_g": 0.09,
+        "carbohydrate_g": 81.36,
+        "sugars_g": 66.53,
+        "sodium_mg": 25.8
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Binding Agent (Liquid Glucose), Gelling Agent (INS 440), Acidity Regulator (INS 330), Lutein, D-Alpha Tocopherol, Ginkgo Biloba Extract, Zeaxanthin, Retinyl Palmitate, Stabilizer (INS 458), Emulsifier (INS 331 (1)), Permitted Food Color (INS 162), Flavour (Natural Mixed Fruit).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016363008",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

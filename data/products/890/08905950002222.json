@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08905950002222",
+  "barcode_printed": "8905950002222",
+  "barcode_format": "EAN-13",
+  "name": "Soan Papdi",
+  "brand": "bikaji",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 piece (50 g)",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 263,
+        "protein_g": 3,
+        "carbohydrate_g": 33,
+        "sugars_g": 20,
+        "fat_g": 13,
+        "saturated_fat_g": 9,
+        "trans_fat_g": 0,
+        "fibre_g": 1,
+        "sodium_mg": 4
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Clarified Butter (Milk Fat) (Desi Ghee), Refined Wheat Flour, Gram Flour, Almonds, Pistachio, Cardamom Powder CONTAINS: MILK, WHEAT, ALMOND, PISTACHIO ALLERGEN ADVICE: This product is made in a facility that processes food containing peanut, treenut, soy, milk, cereals containing gluten, sesame, mustard, and sulphites.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905950002222",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

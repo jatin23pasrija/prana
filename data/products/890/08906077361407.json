@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906077361407",
+  "barcode_printed": "8906077361407",
+  "barcode_format": "EAN-13",
+  "name": "jaimin navratna mix",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Chickpea Flour (27%), Palmolein Oil, Rice Flakes (9%), Sugar, PEANUT Seeds (7%), Red Lentils (6%), Raisins (SULPHITE), Split Gram, Spinach Leaves Paste, CASHEW Nuts, Salt, Semolina (WHEAT), Red Chilli Powder (0.5%), Turmeric Powder, Black Salt, Mango Powder, Citric Acid (E330), Arrowroot Powder, Raising Agent (E500(ii)), Carom Seeds, Asafoetida, Cumin Powder, Coriander Powder, Mint Powder, Black Pepper Powder, White Pepper Powder, Ginger Powder, Antioxidant (E319). DUTCH Ingrediënten: Kikkererwtenmeel (27%), Palmoleïneolie, Rijstvlokken (9%), Suiker, PINDA Zaden (7%), Rode Linzen (6%), Rozijnen (SULFIET), Gespleten Gram, Spinazieblaadjespasta, CASHEW Noten, Zout, Griesmeel (TARWE), Rode Chilipoeder (0.5%), Kurkumapoeder, noader Gitroen Zuur (E330), Pijlwortel Poeder, Allergy Advice: For aller containing gluten, see Ing BOLD. May Contain SESAME, MILK, MUSTA Storage Conditions: A store in an air-tight com freshness. PACKAGED IN A PROT &quot;PROPRIET For MRP (Incl Best Before see MRP:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906077361407",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

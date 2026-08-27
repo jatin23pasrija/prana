@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08907083111024",
+  "barcode_printed": "8907083111024",
+  "barcode_format": "EAN-13",
+  "name": "Snack Factory Makhana Popped Fox Nuts",
+  "brand": "snack-factory-inc",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 14,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 511,
+        "protein_g": 7.66,
+        "carbohydrate_g": 60.9,
+        "sugars_g": 4.2,
+        "fat_g": 26.25,
+        "saturated_fat_g": 11.42,
+        "trans_fat_g": 0,
+        "sodium_mg": 512.48
+      }
+    }
+  ],
+  "ingredients_raw": "MAKHANA (POPPED GORGON NUT) (72%), REFINED PALMOLEIN OIL, SALT, SPICES & CONDIMENTS (FENNEL, CHILLI, FENUGREEK, CUMIN TURMERIC AND THYME) (1.8%), SUGAR, OLIVE OIL (1%) ACIDITY REGULATORS (INS 262 (i), INS 296, INS 330, IN 334), DRIED MANGO (AMCHUR) (0.5%), ANTICAKING AGENT (INS 551), THICKENER (INS 1450), STABILIZING AGENTS (INS 471, INS 433), MODIFIED STARCH (INS 1404) AND ADDED FLAVOUR (NATURE IDENTIC FLAVOURING SUBSTANCE - MANGO PICKLE).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907083111024",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131681854",
+  "barcode_printed": "8906131681854",
+  "barcode_format": "EAN-13",
+  "name": "Fusilli Protein Pasta",
+  "brand": "mille",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 370.6,
+        "energy_kj": 1552,
+        "protein_g": 21.7,
+        "carbohydrate_g": 61.1,
+        "sugars_g": 6,
+        "fat_g": 4.3,
+        "saturated_fat_g": 0.6,
+        "trans_fat_g": 0,
+        "fibre_g": 9.1,
+        "sodium_mg": 120.2
+      }
+    }
+  ],
+  "ingredients_raw": "Protein Blend (Bengal Gram Flour, Pea Protein) (65%), Tapioca Starch (18%), Brown Rice Flour (13%), Psyllium Powder, Guar Gum (INS 412), Xanthan Gum (INS 415) Allergen Advice: Made in a facility that processes wheat. May contain trace elements.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131681854",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

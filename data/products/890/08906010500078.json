@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500078",
+  "barcode_printed": "8906010500078",
+  "barcode_format": "EAN-13",
+  "name": "Balaji Farali Chivda",
+  "brand": "balaji-namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "POTATO (75%) ROASTED PEANUT (12%), EDIBLE VEGETABLE OIL, SUGAR, ROCK SALT, SPICES & CONDIMENTS (CHILLI, TURMERIC, DRY MANGO, CLOVE, CAROM SEED, CARDAMOM NUTMEG, MACE, BAY LEAVES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500078",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

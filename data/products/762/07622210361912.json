@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "07622210361912",
+  "barcode_printed": "7622210361912",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury Dairy Milk Roast Almond Chocolate bar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 15,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "15g",
+        "quantity": {
+          "value": 15,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 81,
+        "energy_kj": 0,
+        "protein_g": 1.3,
+        "carbohydrate_g": 8.5,
+        "sugars_g": 7.8,
+        "fat_g": 4.8,
+        "saturated_fat_g": 2.4,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, MILK SOLIDS (23%). ALMONDS (12%), COCOA MASS (11X). COCOA BUTTER, NON-HYDROGENATED VEGETABLE FAT (PALM SHEA ILL EMULSIFIERS (SOVA LECITHIN DNS 322001. PGPR (INS (76), NATURE IDENTICAL VAN FLATOUR NATURAL AND ARTIFICIAL MINED ON FR FOOD ADDITIVES ARE OF PLANT AND SYNTHETIC ORIGINS. ALLERGEN INFORMATION: CONTAINS KILK, ALMONDS, SOYA HA WHEAT, OTHER TREE NUTS. RAMUAN: GULA, PEPEJAL SUSU (23%), BADAM (12%). JISIN KOKO (11%), MENTEGA KORO. TEMAN SA TERHIDROGEN (KELAPA SAWIT SHEA ILLIPE), PENGEMULSI (LESITIN SOYA (INS 322]. POLIGLISEROL ESTER TERINTERESTER ASID RISINGLE PERISA ADITIF MAKANAN ADALAH DARIPADA SUMBER TUMBUHAN DAN SINTETIK, MAKLUMAT ALERGEN: MENGANDUNGI SUSU, BADAN MUNGKIN MENGANDUNGI KACANG TANAN, GANDUM, KEKACANG LAIN.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622210361912",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

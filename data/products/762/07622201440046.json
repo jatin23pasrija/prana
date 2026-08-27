@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201440046",
+  "barcode_printed": "7622201440046",
+  "barcode_format": "EAN-13",
+  "name": "dairy milk",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 12,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 572,
+        "protein_g": 5.6,
+        "carbohydrate_g": 64.2,
+        "sugars_g": 61,
+        "fat_g": 27.9,
+        "saturated_fat_g": 18.7,
+        "fibre_g": 0,
+        "sodium_mg": 92.3
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Cocoa Butter, Milk Solids (19%), Cocoa Solids, Emulsifiers (442,476), Flavours Natural, Nature Identical and Artificial (Caramel and Vanilla) Flavouring Substances) Allergen Information: Contains Milk, Sulphite May Contain Tree Nuts, Wheat, Barley and Soy Serving size: 12 g; No. of servings per package: 1. N Protein 6.8 g. Carbohydrate 62.6 g, Total Sugars 58 18.6 g Trans Fat 0.0 g, Cholesterol 18.6 mg Sodiun 12 %, Total Fat 5%, Saturated Fat 10%Trans fat Recommended Dietary Allowance requirement for average adult per day PRODUCT QUALITY' If you are not satisfied with the product quality retain the package & call 1800 22 7080/email at suggestions@mdizindia.com/write to Mumbai address on pack SUPPORTS SUSTAINABLY SOURCED COCOA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201440046",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

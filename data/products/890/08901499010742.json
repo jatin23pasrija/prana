@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499010742",
+  "barcode_printed": "8901499010742",
+  "barcode_format": "EAN-13",
+  "name": "Chocos Crunchy Bites",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 375,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (41%), SUGAR, CORN MEAL, WHEAT BRAN, CHOCO CRÈME (5.2%) {SUGAR, EDIBLE VEGETABLE OIL (PALM KERNEL OIL), COCOA SOLIDS, EMULSIFIER (INS 476)), INVERT SYRUP, IODIZED SALT, FLAVOURS (NATURE IDENTICAL & ARTIFICIAL (MARSHMALLOW & VANILLA)), COCOA SOLIDS (0.3%), MINERALS, COLOUR (INS 150d), VITAMINS, ANTIOXIDANT (INS 320). ALLERGEN DECLARATION: CONTAINS WHEAT. MAY CONTAIN SOY, MILK, OATS, BARLEY & NUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499010742",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

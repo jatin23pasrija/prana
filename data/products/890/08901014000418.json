@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014000418",
+  "barcode_printed": "8901014000418",
+  "barcode_format": "EAN-13",
+  "name": "Geki Spicy Korean Ramen",
+  "brand": "nissin-geki",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 476.95,
+        "protein_g": 6.78,
+        "carbohydrate_g": 67.96,
+        "sugars_g": 4.54,
+        "fat_g": 19.04,
+        "saturated_fat_g": 8.19,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 1876.31
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014000418",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

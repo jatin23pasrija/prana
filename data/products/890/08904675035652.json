@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904675035652",
+  "barcode_printed": "8904675035652",
+  "barcode_format": "EAN-13",
+  "name": "Ciocolata",
+  "brand": "katy",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Zahăr, grăsime de palmier, unt de cacao&quot;, zer praf (din lapte), masă de cacao&quot;, lapte praf integral, lapte praf degresat, cacao cu continut redus de grăsime&quot;, pastă de alune de pădure 1%, emulsifianți: lecitine, poliricinoleat de poliglicerin, grăsime din lapte, arome. &quot;Certificat Rainforest Alliance. Mai multe pe: ra.org. Produsul poate conţine soia, cereale care conţin gluten, arahide şi alte fructe cu coajă lemnoasă. RO: Distribuitor: Kaufland România SCS, str. Barbu Văcărescu, nr. 120-144, Sector 2, 020284 Bucureşti, România. MD: Importator/Distribuitor: Kaufland SRL, str. Sfatul Țării, nr. 29, Chişinău, MD-2012, Republica Moldova. BG Млечен шоколад с пълнеж с вкус на лешник (50%). Млечен шоколад: съдържа минимум 30% какаова маса. Съставки: захар, растителна мазнина (палмова), какаово масло˚, суроватка на прах (от мляко), какаова маса“, пълномаслено мляка на прах, обезмаслено мляко на прах, нискомаслено какао на прах&quot;, паста от лешници 1%, емулгатори лецитини, полиглицерол полирицинолеат, млечна мазнина, ароматизанти. Najbolje upotrijebiti do kraja:/LOT:/ A se consuma, de preferinţă înainte de sfarsitut:/LOT: / Годен за употреба до края на:/LOT: *Сертифицирано Rainforest Alliance. Повече на ra.org. Продуктът може да съдържа соя, зърнени култури съдържащи глутен, фъстъци и други ядки. Neto količina / Cantitate 100 ge notǎHOTO KORKHOCTRO 5 22 05.2027 LCHE PAP",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904675035652",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

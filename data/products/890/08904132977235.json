@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132977235",
+  "barcode_printed": "8904132977235",
+  "barcode_format": "EAN-13",
+  "name": "Independence Chocolate Flavoured Milkshake",
+  "brand": "independence",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 101,
+        "protein_g": 2.8,
+        "carbohydrate_g": 16.5,
+        "sugars_g": 16.5,
+        "fat_g": 2.7,
+        "saturated_fat_g": 1.7,
+        "sodium_mg": 33
+      }
+    }
+  ],
+  "ingredients_raw": "DOUBLE TONED MILK (79%), SUGAR, WATER, COCOA SOLIDS (1.5%), EMULSIFIERS&STABILIZERS (471,412,407,415), ACIDITY REGULATORS (340 (ii), 340 (ii), 452(i), IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132977235",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

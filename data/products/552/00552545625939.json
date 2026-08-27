@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00552545625939",
+  "barcode_printed": "0552545625939",
+  "barcode_format": "EAN-13",
+  "name": "Bournville Cranberry",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 78,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Cocoa Butter (24%*), Cocoa Solids (18%*), Dried Sweetened Cranberries (11%) (Cranberries, Sugar), Almonds (7%*), Milk Solids, Emulsifiers (442, 476), Flavours (Natural and Nature Identical Flavouring Substances). Allergen Information: Contains Milk, Almonds. May Contain Other Tree Nuts, Soy. #50% dark refers to 50% Cocoa Solids in the chocolate mass",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0552545625939",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

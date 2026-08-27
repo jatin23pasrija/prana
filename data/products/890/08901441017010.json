@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901441017010",
+  "barcode_printed": "8901441017010",
+  "barcode_format": "EAN-13",
+  "name": "panjab masala papad",
+  "brand": "lijjat",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "zutaten urid-mehl, urid flour, asafoetida (seasoning), black pepper, salt, asafoetida (gewü schwarzer pfeff salz, backtriebmi sodium bikarbo pflanzenöl, raising agent: sodium bicarbonate, edible vegetable oil, ingredienser ingredien linsemel, asafoetida (krydderi), sort peber, salt, natron, vegetabilsk olie, farina urid pou asafetida (res in polvere, pepe sale, bicarbon sodio, olio veg commestibl storage : cool dry and away from sunlig",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901441017010",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

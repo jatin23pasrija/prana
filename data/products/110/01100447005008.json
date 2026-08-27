@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "01100447005008",
+  "barcode_printed": "1100447005008",
+  "barcode_format": "EAN-13",
+  "name": "Iranian Bread",
+  "brand": "mesto-bakery",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "all purpose flour, lukewarm water, instant yeast, salt, sugar, olive oil",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/1100447005008",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

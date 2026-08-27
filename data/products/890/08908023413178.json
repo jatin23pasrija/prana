@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908023413178",
+  "barcode_printed": "8908023413178",
+  "barcode_format": "EAN-13",
+  "name": "Ragi Mini Cookies",
+  "brand": "natible",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Ragi Flour, Oats Flour, Almond Meal, Raw Jaggery, Kokum Butter, Sesame Seeds, Natural Vanilla Extract, Himalayan Rock Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908023413178",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

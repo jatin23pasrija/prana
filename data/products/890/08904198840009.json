@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08904198840009",
+  "barcode_printed": "8904198840009",
+  "barcode_format": "EAN-13",
+  "name": "Euro surati nankhatai",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 547.62,
+        "protein_g": 8.1,
+        "carbohydrate_g": 52.38,
+        "sugars_g": 20.48,
+        "fat_g": 33.81,
+        "saturated_fat_g": 20.48,
+        "sodium_mg": 85.71
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904198840009",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

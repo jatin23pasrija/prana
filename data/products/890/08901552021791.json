@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552021791",
+  "barcode_printed": "8901552021791",
+  "barcode_format": "EAN-13",
+  "name": "Korma Sauce",
+  "brand": "truly-indian",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 285,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wasser, Zwiebeln, Kokosnussmilch 12% (Wasser, Kokosnussextrakt), Tomatenmark, Sonnenblumenöl, Kokosraspeln 3,5%, Knoblauch, Ingwer, _Cashewnüsse_, Salz, Maisstärke, grüne Chili, Melonensamen, Gewürze, getrocknete Bockshornkleeblätter, Säuerungsmittel: Citronensäure; Korianderblätter, Kurkumapulver, Kardamompulver, Farbstoff: Kurkumin",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552021791",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

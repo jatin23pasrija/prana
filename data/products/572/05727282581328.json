@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "05727282581328",
+  "barcode_printed": "5727282581328",
+  "barcode_format": "EAN-13",
+  "name": "Papacream X Rhea Kapoor Hazelnut Cold Coffee",
+  "brand": "papacream-x-rhea-kapoor",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 183.86,
+        "carbohydrate_g": 19.7,
+        "sugars_g": 10.67,
+        "fat_g": 10.12,
+        "saturated_fat_g": 6.5
+      }
+    }
+  ],
+  "ingredients_raw": "Millsolie tank, Cream, Skim mill powder), sugar, hazelnut (10%), glucose coopermitted emulsifier (477,471) and stabilizers (412,410). CONTAINS ADDED NATURAL FLAVOURING SUNSTANCES BEST BEFORE 18 MONTHS OF MANUFACTURE WHEN STORED AT - 18°C OR BELOW (see lid for MFD date, batohit to MRP) MFD BY: Prabha Dairy Industries. 1, Khetany distoal Estate, Sonapur Lane, Kurla West, Mumbai 400070 Issat Lic. No. 11518007000184 MKTD BY: LSC Enterprises Pvt Ltd, Gala No 22 Khetani Industrial Estate LBS Marg, Kurla West, Mumbai 400070 Issat Lic. No. 11518007000048 INCASE OF SUGGESTIONS: CALL US AT +918591092160 | Visit us at www.papacream.com PLEASE WRITE TO US ON marketing@papacream.co",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5727282581328",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

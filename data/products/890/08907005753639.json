@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08907005753639",
+  "barcode_printed": "8907005753639",
+  "barcode_format": "EAN-13",
+  "name": "Red Cow Pasta Penne",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Energy Value 370.6kcal (9.3%) Potein Carbohydrate 11.5g 78g Total Sugars 0.5g Added Sugar Total Fat 0.0g(0.0%) Saturated Fat 1.4g (1%) ans Fat 0.3g (0.7%) 0.0g (0.0%) Cholesterol 0.0mg Sodium 4.6mg (0.1%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907005753639",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

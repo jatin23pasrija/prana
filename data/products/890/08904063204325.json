@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063204325",
+  "barcode_printed": "8904063204325",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's Bhujia",
+  "brand": "haldiram",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 460,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 581,
+        "energy_kj": 2430,
+        "protein_g": 20,
+        "carbohydrate_g": 39.5,
+        "sugars_g": 3.9,
+        "fat_g": 40.8,
+        "saturated_fat_g": 10.4,
+        "fibre_g": 5
+      }
+    }
+  ],
+  "ingredients_raw": "Tepary Beans Flour, Edible Vegetable Oil (Cotton Seed, Corn & Palmolein Oil), Gram Pulse Flour, Edible Common Salt Powder, Spices& Condiments (Red Chilli Powder, Black Pepper Powder, Ginger Clove Powder, Mace Powder, Nutmeg Powder and Cardamom Powder).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063204325",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

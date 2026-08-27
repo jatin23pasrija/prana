@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906054210940",
+  "barcode_printed": "8906054210940",
+  "barcode_format": "EAN-13",
+  "name": "Khakhra Whole wheat Crisps",
+  "brand": "shantag",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Wheat Flour (Atta) (78%), Edible Vegetable Oil (Palmolein) (17%), Pink Salt, Fenugreek Leaves, Red Chilli Powder (1%), Turmeric Powder. ZUTATEN: Weizenvallkornmehl (Atta) (78%), Huile Végétale Comestible (Palmoléine) (17%), Rosa Salz, Bockshornklee Blätter, Rotes Chillpulver (1%), Kurkumapulver. IMPORTANT Odours, Sunlig WICHTIG: An Insekten, Sch الشمس والغبار. المكونات طحين قمح كامل (عطا) (۷۸٪) ، زيت نباتي صالح للأكل (بالمولين) (۱۷٪)، الملح الوردي أوراق حلبة مسحوق فلفل حار أحمر (۱)) مسحوق كركم. CONTAINS: Wheat/ ENTHALT: Weizen/: ALLERGEN ADVICE: This product was processed on Machinery that also processes Wheat, Peanuts, Tree Nuts, Soy and Sesame Seeds. RATSCHLÄGE ZU ALLERGENEN: Dieses produkt wurde auf Maschinen verarbeitet, die auch Weizen, Erdnüsse, Baumnüsse, Soja und Sesam verarbeiten. نصيحة مسببات حساسية هذا المنتج معالج بألة تعالج أيضاً قمح، فول سوداني مكسرات، صويا وبذور سليم. ► Apply Ghee (Clarified Butter), Spices, Sugar as per taste. Tastes good with Indian Chai, Pickles, Curd (Yogurt), Green Chutney or Garlic Chutney. &quot;Enlarged ima *Das vergröße &quot;Do not buy t &quot;Kaufen Sie d 0% Trans Fat & Pholastoral Vacuum Por Fr",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906054210940",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

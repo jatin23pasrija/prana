@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904084100736",
+  "barcode_printed": "8904084100736",
+  "barcode_format": "EAN-13",
+  "name": "Aloe Vera Juice 750ML (aloe Supplement)",
+  "brand": "vaani-foods",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "100% NATURAL Albe vera (Barbadensis) Gel (ITL), Stabilizer QS fœtaidspermitted Class Il Preservatives (E-202, E-211). Net Contents : 750 ml. Batch No. Date of Expiry : Dictary Supplement Not For Medicinal Cse - Juice Contains Nutritious Fibers settled at bottom - Shake Well Before Use.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904084100736",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002579413",
+  "barcode_printed": "8908002579413",
+  "barcode_format": "EAN-13",
+  "name": "Cardamom Chai",
+  "brand": "chai-point",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 14,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "14g",
+        "quantity": {
+          "value": 14,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 61.11,
+        "protein_g": 1.97,
+        "carbohydrate_g": 9.69,
+        "sugars_g": 6.09,
+        "fat_g": 1.6
+      }
+    }
+  ],
+  "ingredients_raw": "Tea",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002579413",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

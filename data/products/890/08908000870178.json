@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000870178",
+  "barcode_printed": "8908000870178",
+  "barcode_format": "EAN-13",
+  "name": "Dry Fruit Samosa",
+  "brand": "jaimin",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "White Flour (WHEAT), Palmolein Oil, Sugar, Chickpea Flour, Raisins (SULPHITES) (4%), CASHEW NUTS (3%), Salt, Asafoetida, Coriander Powder, Cumin Seeds, Red Chilli Powder (0.6%), SESAME Seeds, Cinnamon Powder, Ground Clove, Black Pepper Powder, Ground Star Anise, Ground Mace, Black Cardamom Powder, Ginger Powder, Ground Bay Leaf, Mango Powder, Carom Seeds, Fennel Seeds, Green Cardamom Powder, Long Pepper Powder, Mint Powder, Acid (E330), White Pepper Powder, Turmeric Powder, Antioxidant (E319).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000870178",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

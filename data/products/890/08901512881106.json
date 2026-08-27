@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512881106",
+  "barcode_printed": "8901512881106",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Butter Regular",
+  "brand": "sundrop",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 462,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 647,
+        "protein_g": 26.8,
+        "carbohydrate_g": 15.2,
+        "sugars_g": 11.7,
+        "fat_g": 55,
+        "saturated_fat_g": 14.8,
+        "trans_fat_g": 0,
+        "fibre_g": 7.8,
+        "sodium_mg": 215
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Peanuts (90.8%), Sugar, Hydrogenated Vegetable Oil, Refined Edible Groundnut Oil & Iodized Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512881106",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

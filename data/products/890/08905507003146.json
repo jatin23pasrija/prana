@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "08905507003146",
+  "barcode_printed": "8905507003146",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Pickle",
+  "brand": "imli-tree",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "10g",
+        "quantity": {
+          "value": 10,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 10,
+        "protein_g": 0.2,
+        "carbohydrate_g": 0.8,
+        "sugars_g": 0.1,
+        "fat_g": 0.7,
+        "saturated_fat_g": 0.05,
+        "sodium_mg": 480.1
+      }
+    }
+  ],
+  "ingredients_raw": "Fruit & Vegetable (65%)[Mango (22%), Carrot (20%), Lime (11%) Green Chilli], Brine, Iodized Salt, Edible Vegetable Oil (Mustard Oil), Spices & Condiments (7.2%) Mustard Seeds, Fenugreek, Turmeric, Red Chill Powder (2%), Fennel (1.5%), Nigella Seed, Coriander & Bishop seed, Asafoetida, Acidity Regulator (INS 260) & Preservative (INS 211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905507003146",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

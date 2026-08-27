@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063029279",
+  "barcode_printed": "8901063029279",
+  "barcode_format": "EAN-13",
+  "name": "Jimjam",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 138,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 483,
+        "protein_g": 5,
+        "carbohydrate_g": 73,
+        "sugars_g": 33.5,
+        "fat_g": 19,
+        "saturated_fat_g": 9.5,
+        "sodium_mg": 214
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR (24%), REFINED PALM OIL & INTERESTERIFIED VEGETABLE FAT, INVERT SUGAR SYRUP, DEXTROSE, MILK PRODUCTS (MILK SOLIDS & SWEETENED CONDENSED MILK), EDIBLE MAIZE STARCH, MALTODEXTRIN, FRUIT PRODUCTS (0.7%) (APPLE JUICE CONCENTRATE, BANANA POWDER & PLUM JUICE CONCENTRATE), IODISED SALT, EMULSIFIERS [322(i)& 471), RAISING AGENTS (503(ii) & 500(ii)], NATURE IDENTICAL AND ARTIFICIAL (MIXED FRUIT, VANILLA & BUTTER) FLAVOURING SUBSTANCES, ACIDITY REGULATORS [330 & 331 (iii)], GELLING AGENT (440) AND COLOUR (122)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063029279",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

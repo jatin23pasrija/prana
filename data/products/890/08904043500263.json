@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043500263",
+  "barcode_printed": "8904043500263",
+  "barcode_format": "EAN-13",
+  "name": "Baker's Loaf High Protein Bread",
+  "brand": "bimbo",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole Wheat (Atta)(51.2%), Protein Mix (7.7%) (Wheat gluten, wilk powder, Soya protein isolate, Brown Rice Protein Pea Protein, Emulsifiers (481(i), 472e), Antioxidant (300), Stabilizers (412)). Gluten, Sugar, Yeast, Edible Vegetable Oil (Refined Soyabean Oil), Iodized Salt, Milk Solid (0.51%), Preservatives (282, 200), Acdity Regulators (270, 330, 297), Emulsifier (471), Malt Product, Natural Flavouring substances, Antioxidant (300)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043500263",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

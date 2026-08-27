@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005103059",
+  "barcode_printed": "8908005103059",
+  "barcode_format": "EAN-13",
+  "name": "Moong punjabi papad",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 614.81,
+        "protein_g": 14.04,
+        "carbohydrate_g": 33.26,
+        "fat_g": 47.7,
+        "saturated_fat_g": 14.81,
+        "fibre_g": 5.89
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005103059",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

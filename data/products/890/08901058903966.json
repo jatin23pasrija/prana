@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058903966",
+  "barcode_printed": "8901058903966",
+  "barcode_format": "EAN-13",
+  "name": "Milkybar Moosha",
+  "brand": "nestle",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 38,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 426,
+        "energy_kj": 1784,
+        "protein_g": 3.8,
+        "carbohydrate_g": 65.5,
+        "sugars_g": 49.2,
+        "fat_g": 16.8,
+        "saturated_fat_g": 13.6,
+        "trans_fat_g": 0.07,
+        "sodium_mg": 86.4
+      }
+    }
+  ],
+  "ingredients_raw": "Nougat + Caramel (70%) (Sugar, Liquid glucose, Hydrogenated vegetable fats, Malt extract, *Milk solids (3.7%), Emulsifiers (471 and Soya Lecithin), Acidity regulator (330), Stabilizer (501), lodized salt, Nature - Identical flavouring substances and Artificial (Vanilla) flavouring substances) and MILKYBAR^ Coating (30%) (*Milk solids (10.6%), Sugar, Hydrogenated vegetable fats, Fractionated vegetable fat, Emulsifier (Soya lecithin) and Nature-Identical flavouring substances). Contains Barley, Milk, Sesame, Soy and Wheat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058903966",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

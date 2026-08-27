@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069405119",
+  "barcode_printed": "8906069405119",
+  "barcode_format": "EAN-13",
+  "name": "Cheesy Melt Garlic",
+  "brand": "veeba",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 396.65,
+        "protein_g": 2.65,
+        "carbohydrate_g": 12.7,
+        "sugars_g": 5.5,
+        "fat_g": 37.25,
+        "saturated_fat_g": 6.5,
+        "sodium_mg": 1000
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069405119",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

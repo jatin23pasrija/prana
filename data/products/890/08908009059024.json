@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009059024",
+  "barcode_printed": "8908009059024",
+  "barcode_format": "EAN-13",
+  "name": "Protein Bread",
+  "brand": "the-health-factory",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 264.66,
+        "protein_g": 20.79,
+        "carbohydrate_g": 41.46,
+        "sugars_g": 4.36,
+        "fat_g": 1.74,
+        "saturated_fat_g": 0.19,
+        "sodium_mg": 520.83
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour, Protein Blend (Whey Protein Concentrate, Rice Protein Isolate, Pea Protein Isolate, Soya Protein Isolate), Wheat Gluten, Milk Solids, Yeast, Rice Bran Oil (Edible Vegetable Oil), Iodised Salt, Cane Sugar, Cultured Wheat Flour. I",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009059024",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064657476",
+  "barcode_printed": "8906064657476",
+  "barcode_format": "EAN-13",
+  "name": "Peri Peri Seasoning",
+  "brand": "wingreens-farms",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 222.81,
+        "energy_kj": 933,
+        "protein_g": 7.03,
+        "carbohydrate_g": 37.87,
+        "sugars_g": 13.07,
+        "fat_g": 4.8,
+        "saturated_fat_g": 0.63,
+        "trans_fat_g": 0.03,
+        "sodium_mg": 40
+      }
+    }
+  ],
+  "ingredients_raw": "Rock Salt, Dehydrated Vegetable Powder (Garlic, Onion), Tamarind Powder, Spices and Condiments (Red Chilli (7%), Black Pepper, Cumin), Sugar, Dehydrated Herbs (Oregano, Parsley), Thickener (INS 1442), Anticaking Agent (INS 551), Soy Sauce Powder (Wheat, Soy), Acidity Regulator (INS 330), Edible Vegetable Oil (Soybean).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064657476",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

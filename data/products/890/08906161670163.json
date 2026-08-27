@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906161670163",
+  "barcode_printed": "8906161670163",
+  "barcode_format": "EAN-13",
+  "name": "Loyka Almond Brittle Dates",
+  "brand": "loyka",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 121.08,
+        "protein_g": 2.57,
+        "carbohydrate_g": 13.46,
+        "sugars_g": 10.41,
+        "fat_g": 6.33,
+        "saturated_fat_g": 1.99,
+        "sodium_mg": 12.63
+      }
+    }
+  ],
+  "ingredients_raw": "Dates, Almonds, Choco covering [Hydrogenated Palm Kernel oil, Cocoa Solids, Emulsifiers (INS 322), Salt.) Contains Nature identical Flavour (Vanilla).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906161670163",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

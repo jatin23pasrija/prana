@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033741465",
+  "barcode_printed": "8906033741465",
+  "barcode_format": "EAN-13",
+  "name": "mcvitites 959 g",
+  "brand": "mcvitie-s",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 959.1,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 475,
+        "protein_g": 7.8,
+        "carbohydrate_g": 69.8,
+        "sugars_g": 17.6,
+        "fat_g": 18.2,
+        "saturated_fat_g": 8.8,
+        "fibre_g": 6.4,
+        "sodium_mg": 523
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (50.5%), Wheat Flour (Atta) (18.3%), Edible Vegetable Oil(Palm Sugar, Wheat Bran(3.1%)), Invert Sugar Syrup. Raising Agents [INS 500 (ii), INS 503 (ii), INS 450(i)], lodised Salt, Malt Extract, Emulsifiers (INS 322, INS 472e). Acidity Regulator (INS 296), Dough Conditioner. (INS 223)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033741465",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

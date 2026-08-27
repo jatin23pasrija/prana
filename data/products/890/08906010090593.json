@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010090593",
+  "barcode_printed": "8906010090593",
+  "barcode_format": "EAN-13",
+  "name": "Natural Cheddar slices",
+  "brand": "d-lecta",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 391.6,
+        "protein_g": 23.69,
+        "carbohydrate_g": 7,
+        "sugars_g": 0,
+        "fat_g": 29.84,
+        "saturated_fat_g": 20.74,
+        "sodium_mg": 0.33
+      }
+    }
+  ],
+  "ingredients_raw": "Pasteurized Cow's Milk, Pasteurized Skim Milk, lodised Salt, Stabilizer (INS 509), Microbial Culture & Microbial Rennet",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010090593",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

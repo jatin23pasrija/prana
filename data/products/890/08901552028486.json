@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552028486",
+  "barcode_printed": "8901552028486",
+  "barcode_format": "EAN-13",
+  "name": "Plant Based Lamb Curry",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 cup (141.5 g)",
+        "quantity": {
+          "value": 141.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 210,
+        "protein_g": 10,
+        "carbohydrate_g": 12,
+        "fat_g": 13,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552028486",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

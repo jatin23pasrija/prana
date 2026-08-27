@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "00004444444390",
+  "barcode_printed": "0004444444390",
+  "barcode_format": "EAN-13",
+  "name": "Honey Corn Flakes",
+  "brand": "eatrite",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 380,
+        "protein_g": 6,
+        "carbohydrate_g": 87.8,
+        "sugars_g": 34.5,
+        "fat_g": 0.7,
+        "saturated_fat_g": 0.12,
+        "fibre_g": 1.5
+      }
+    }
+  ],
+  "ingredients_raw": "Corn grits (72%), Sugar(10%), Malt Extract, Honey (5.7%), Iodized salt, Nature-Identical Flavouring substance (Honey), Antioxidant (INS320), Emulsifier(INS 322)(i)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0004444444390",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

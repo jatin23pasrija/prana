@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004416817",
+  "barcode_printed": "8904004416817",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's Indian Sweets - Dodha Burfee",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "3 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 390,
+        "protein_g": 7.68,
+        "carbohydrate_g": 59.36,
+        "sugars_g": 20.64,
+        "fat_g": 13.25,
+        "saturated_fat_g": 6.6,
+        "fibre_g": 1.1,
+        "sodium_mg": 14
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004416817",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

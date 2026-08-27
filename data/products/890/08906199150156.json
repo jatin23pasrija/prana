@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906199150156",
+  "barcode_printed": "8906199150156",
+  "barcode_format": "EAN-13",
+  "name": "Jeera",
+  "brand": "sip-crush",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Carbonated Water, Sugar, Iodised Salt, Acidity Regulator (E330), Natural & Nature-Identical Flavouring Substances (Cumin), Permitted Natural Food Colour (E150d), Preservative (E211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906199150156",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

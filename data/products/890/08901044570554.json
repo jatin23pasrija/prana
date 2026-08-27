@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08901044570554",
+  "barcode_printed": "8901044570554",
+  "barcode_format": "EAN-13",
+  "name": "Orange Squash",
+  "brand": "mapro",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 226,
+        "protein_g": 0.03,
+        "carbohydrate_g": 56.47,
+        "sugars_g": 56.31,
+        "fat_g": 0,
+        "sodium_mg": 12.94
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, ange Juice (27%), Water, Liquid Glucose, Acidity Regulator (Citric Acid), lodised Salt, Preservative (INS-224) Contains Permitted Synthetic Food Colours (Ins-110, Ins-122) & Added Flavours-natural, Nature Identical & Artificial Flavouring Substances (Orange)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901044570554",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

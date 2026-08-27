@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00834266007202",
+  "barcode_printed": "0834266007202",
+  "barcode_format": "EAN-13",
+  "name": "SYNTHA-6 Ultra Premium Protein Matrix, Chocolate Milkshake",
+  "brand": "bio-engineered-supplements-nutrition",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2270,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "lecithin, salt, cellulose gum, acesulfame potassium, sucralose, papain, bromelain, t gedients: protein matrix comprised ewhey protein concentrate, whey fotein isolate, calcium caseinate, micellar casein, milk protein isolate, egg albumen, glutamine peptides), sunflower creamer (sunflower oil, corn syrup solids, sodium caseinate, mono - and diglycerides, dipotassium phosphate, tricalcium phosphate, soy lecithin, tocopherols), polydextrose, cocoa (processed with alkali), natural and artificial fla vor, mct powder (medium chain triglycerides, nonfat dry milk, disodium phosphate, silicon dioxide),",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0834266007202",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

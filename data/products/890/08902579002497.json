@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579002497",
+  "barcode_printed": "8902579002497",
+  "barcode_format": "EAN-13",
+  "name": "SMOODH CHOCLATE FLAVORED MILK",
+  "brand": "smoodh",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 83.8,
+        "protein_g": 2.3,
+        "carbohydrate_g": 14.6,
+        "sugars_g": 13.7,
+        "fat_g": 1.8,
+        "saturated_fat_g": 1.2,
+        "sodium_mg": 67.8
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, DOUBLE TONED MILK (40%), SUGAR, WHEY POWDER, MILK SOLIDS, COCOA SOLIDS (1%), MALT EXTRACT, EMULSIFIERS AND STABILIZERS [INS 460(1), INS 471, INS 466, INS 407. INS 340, INS 452], NATURE IDENTICAL FLAVOURING SUBSTANCE (CHOCOLATE) AND IODISED SALT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579002497",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

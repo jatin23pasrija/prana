@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058901511",
+  "barcode_printed": "8901058901511",
+  "barcode_format": "EAN-13",
+  "name": "2-minute Noodles Masala",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (48 g)",
+        "quantity": {
+          "value": 48,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 204.96,
+        "protein_g": 3.84,
+        "carbohydrate_g": 30.48,
+        "sugars_g": 1.06,
+        "fat_g": 7.54,
+        "saturated_fat_g": 3.26,
+        "fibre_g": 1.73,
+        "sodium_mg": 225.02
+      }
+    }
+  ],
+  "ingredients_raw": "refined wheat flour, palm oil, calcium carbonate, potassium chloride, sodium phosphate, potassium carbonate, sodium carbonate, guar gum",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058901511",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08903754303057",
+  "barcode_printed": "8903754303057",
+  "barcode_format": "EAN-13",
+  "name": "Gluco+ Lemony Zing",
+  "brand": "gluco",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Refined Sugar, &quot;Glucose (2.6%), Apple Juice Concentrate (1.5%) Acidity Regulators (INS 330, INS 331 (ii)), Nature-Identical Flavouring Substances, Iodized Salt, Mineral, Preservative (INS 202), Non-Caloric Sweetener (INS 960)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903754303057",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

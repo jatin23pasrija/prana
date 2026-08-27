@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393020557",
+  "barcode_printed": "8901393020557",
+  "barcode_format": "EAN-13",
+  "name": "Tubes mini",
+  "brand": "chupa-chups",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "sugar, glucose syrup, wheat flour, invert sugar, acids (malic acid (e296), citric acid (e330)), maltodextrin, hydrogenated coconut oil, acidity regulator (sodium malates (e350)), natural identical strawberry, apple and orange flavours and artificial pineapple flavour, humectant (glycerol (e422)), thickener (xanthan gum (e415)), colours (riboflavin (e101), carmine (e120), brilliant blue fcf (e133), beta-carotene (e160a)), allergens: contains wheat, it may cause hypersensitivity,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393020557",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

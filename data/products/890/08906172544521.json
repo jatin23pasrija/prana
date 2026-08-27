@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906172544521",
+  "barcode_printed": "8906172544521",
+  "barcode_format": "EAN-13",
+  "name": "Baked Strawberry Cheesecake Icecream",
+  "brand": "huber-holly",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 ml",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 146.1,
+        "protein_g": 2.5,
+        "carbohydrate_g": 16.9,
+        "sugars_g": 13.7,
+        "fat_g": 7.9,
+        "saturated_fat_g": 4.9,
+        "trans_fat_g": 0.04,
+        "sodium_mg": 48.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906172544521",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

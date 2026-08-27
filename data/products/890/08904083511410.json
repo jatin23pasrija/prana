@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083511410",
+  "barcode_printed": "8904083511410",
+  "barcode_format": "EAN-13",
+  "name": "Organic sonamasuri brown rice",
+  "brand": "24-mantra",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.25 cup (45 g)",
+        "quantity": {
+          "value": 45,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 150,
+        "energy_kj": 628,
+        "protein_g": 8,
+        "carbohydrate_g": 35,
+        "fat_g": 0.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083511410",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

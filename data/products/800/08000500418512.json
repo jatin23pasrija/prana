@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08000500418512",
+  "barcode_printed": "8000500418512",
+  "barcode_format": "EAN-13",
+  "name": "Schokobons crispy",
+  "brand": "ferrero",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22.4,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Zucker, pflanzliches Fett (Palme), _Milchschokolade_ (18%), (Zucker, _Kakaobutter_, _Milchpulver_, Kakaomasse, Emulgatoren: Lecithine [_Soja_ / Sonnenblume], Aroma: natürliches identisches Vanillin), _Magermilchpulver_, _Weizenmehl_, fettreduziertes Kakaopulver, _Weizenstärke_, _Molkenproteine_, Pflanzenöl (Sonnenblume), Triebmittel (Ammoniumbicarbonat, Natriumbicarbonat), Emulgatoren (Lecithine [_Soja_/Sonnenblume]), _Gerstenmalzextrakt_, Aroma (natürliches identisches Vanillin, natürliche identische Haselnuss)), Salz. Gesamtmilchbestandteile: 16,5% Gesamtkakao: 10%. Feststoffe in Milchschokolade: Kakao 34,9%, Kakaobutter 30,3%, Milchfettfrei 15,9%, Milchfett 5,8%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8000500418512",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

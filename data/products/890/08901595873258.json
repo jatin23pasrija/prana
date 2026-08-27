@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595873258",
+  "barcode_printed": "8901595873258",
+  "barcode_format": "EAN-13",
+  "name": "Smith & Jones Ginger Garlic Paste",
+  "brand": "smith-and-jones",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Ginger, Garlic, Lodised salt, Acidity regulators (ins 260, Ins 330), Thickener ns 415), Preservatives (ins 211, Ins 202). for mfg unit details read first letter of batch no, And see below mfg by: (a) lic no, 11523999000362 (f) lic no, 10013022001948 (p) lic no, 10012064000055 (n) lic. no, 10018062000413 fssat lic. no, 1001302 for any com care execut c18001084 care@t store in a cool, Dry keep refrigera do not consume if for sale in india, Www, Capitalfoods smith & jones is t capital foods pvt. net quantit",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595873258",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

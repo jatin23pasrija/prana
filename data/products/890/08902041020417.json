@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08902041020417",
+  "barcode_printed": "8902041020417",
+  "barcode_format": "EAN-13",
+  "name": "Creamy Water Biscuits",
+  "brand": "pickwick",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 495.47,
+        "energy_kj": 0,
+        "protein_g": 5.24,
+        "carbohydrate_g": 71.93,
+        "sugars_g": 37.18,
+        "fat_g": 20.75,
+        "saturated_fat_g": 11.63,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Refined wheat flour (Maida), Edible vegetable hydrogenated oil, Cocoa Solids (4%), Emulsifier (INS 322), lodized salt, Leavening agent [INS 500 (ii)] CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 102, 110 & 133) AND ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCE - VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902041020417",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

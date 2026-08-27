@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019882209",
+  "barcode_printed": "8908019882209",
+  "barcode_format": "EAN-13",
+  "name": "Tapioca Crisps",
+  "brand": "dobra",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 oo (20 g)",
+        "quantity": {
+          "value": 20,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 103,
+        "energy_kj": 431,
+        "protein_g": 0,
+        "carbohydrate_g": 13.1,
+        "fat_g": 5.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019882209",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

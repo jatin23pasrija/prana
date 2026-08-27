@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069403054",
+  "barcode_printed": "8906069403054",
+  "barcode_format": "EAN-13",
+  "name": "Veeba pazta sauce",
+  "brand": "veeba",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Tomato Paste (36.0%), Onions (12.0%), Garlic (4.0%), Sugar, Water, Refined Soyabean Oil, iodised Salt, Acidity Regulators INS260, Regulators INS330, Spices and Condiments, Herbs (0.5%), Stabilizer (INS415) and Preservative (INS211).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069403054",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

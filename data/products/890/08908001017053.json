@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001017053",
+  "barcode_printed": "8908001017053",
+  "barcode_format": "EAN-13",
+  "name": "Sizzlin Jalapeno Nacho Crisps",
+  "brand": "cornitos",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 33,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "28g",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "protein_g": 2,
+        "carbohydrate_g": 19,
+        "sugars_g": 1,
+        "fat_g": 6,
+        "fibre_g": 1,
+        "sodium_mg": 230.63
+      }
+    }
+  ],
+  "ingredients_raw": "Corn (70%), Edible Vegetable Oil (Corn Oil), Sugar, Iodized Salt, Jalapeno, Onion Powder, Garlic Powder, Ginger, Green Chili, Parsley, _Milk_ Solids (Skim Milk Powder, Whey Powder), Soya Sauce Powder, Acidity Regulator (Malic Acid - INS 296)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001017053",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00857339005509",
+  "barcode_printed": "0857339005509",
+  "barcode_format": "EAN-13",
+  "name": "rusk",
+  "brand": "parliament",
+  "category": "rusk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Farine de blé (72 %), Sucre, Graisse végétale Consommable (contient un ou plus d'huile de palme, huile de graines de coton ou de l'huile de sésame), Semoule, Levure, Sirop inverti, Solide du lait (1,1 %), beurre (0,8 %), sel, cardamome (0,2%), blé de fibre, monoglycérides d'acides gras (agent émulsifiant E471), Amylase-alpha antifongique (enzyme), et acide ascorbique (Antioxydant E300) Contient les saveurs ajoutées (substances aromatisantes naturels et identiques à la nature (huile de cardamome))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0857339005509",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

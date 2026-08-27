@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08904057301566",
+  "barcode_printed": "8904057301566",
+  "barcode_format": "EAN-13",
+  "name": "Double Chocolate Flavoured Ice Cream",
+  "brand": "arun-icecream",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "84g",
+        "quantity": {
+          "value": 84,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kj": 280,
+        "protein_g": 4,
+        "carbohydrate_g": 33,
+        "sugars_g": 33,
+        "fat_g": 15,
+        "saturated_fat_g": 8,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904057301566",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000097933",
+  "barcode_printed": "8908000097933",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy Muesli",
+  "brand": "gaia",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 418.68,
+        "protein_g": 12.13,
+        "carbohydrate_g": 78.32,
+        "sugars_g": 14.2,
+        "fat_g": 6.32,
+        "saturated_fat_g": 0.66,
+        "trans_fat_g": 0,
+        "fibre_g": 7.25,
+        "sodium_mg": 117.1
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flakes (51.85%), Corn Flakes (15.18%), Rolled Oats (14.26%), Invert Sugar Syrup (7.06%), Almond, Green Raisins, Black Raisins, Honey, Liquid Glucose, Honey Powder, Antioxidant (E310)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000097933",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

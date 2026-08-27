@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906033740871",
+  "barcode_printed": "8906033740871",
+  "barcode_format": "EAN-13",
+  "name": "Digestive mini",
+  "brand": "mcvities",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 32.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "refined wheat flour (43.5%), edible vegetable oil (palm oil), wheat flour (15.2%), sugar, raising agents (ins 500(ii), ins 503(ii)), invert syrup, salt, malt extract, emulsifier (ins 322), dough conditioner (ins 223)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906033740871",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

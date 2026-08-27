@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906186410010",
+  "barcode_printed": "8906186410010",
+  "barcode_format": "EAN-13",
+  "name": "Mukhvas",
+  "brand": "namaskar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Badishep (Fennel Seeds), Dhana Dal (Roasted Split Coriander), Teel (Sesame Seeds), Shepa (Dill Seeds), Gunj Pala (Abrus Leaf), Jeshthamadh (Licorice), Black Salt, Sugar, Vegetable Ghee, Thandak (Menthol) And Added Flavours.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906186410010",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

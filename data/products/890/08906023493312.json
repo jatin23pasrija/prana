@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08906023493312",
+  "barcode_printed": "8906023493312",
+  "barcode_format": "EAN-13",
+  "name": "Organic Caveman bakkit foxtail millet",
+  "brand": "cave-man",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 541.92,
+        "energy_kj": 2269,
+        "protein_g": 5.73,
+        "carbohydrate_g": 59.82,
+        "sugars_g": 21,
+        "fat_g": 31.08,
+        "saturated_fat_g": 17.07,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Foxtail Millet (29.49%), Organic Butter (29.49%), Organic Nuts (8.42%), Organic Sugar, Organic Sorghum, Milk Powder, Salt, Soya Lecithin & Baking powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906023493312",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

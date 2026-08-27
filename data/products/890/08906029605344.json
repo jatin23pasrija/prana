@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906029605344",
+  "barcode_printed": "8906029605344",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Chapati",
+  "brand": "ammamma-s",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 270,
+        "protein_g": 11.39,
+        "carbohydrate_g": 51.98,
+        "sugars_g": 0.3,
+        "fat_g": 1.66,
+        "saturated_fat_g": 1.2,
+        "sodium_mg": 588
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour (100%), RO Purified Water, Refined Palmolein Oil, Iodised Salt, sugar, Emulsifier (E471, E481),Preservatjves (E202,E282)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906029605344",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

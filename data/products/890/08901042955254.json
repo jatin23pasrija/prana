@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901042955254",
+  "barcode_printed": "8901042955254",
+  "barcode_format": "EAN-13",
+  "name": "MTR Puliogare Paste",
+  "brand": "mtr-foods-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 518,
+        "protein_g": 4.8,
+        "carbohydrate_g": 23.5,
+        "sugars_g": 17.4,
+        "fat_g": 45,
+        "saturated_fat_g": 21,
+        "sodium_mg": 3210
+      }
+    }
+  ],
+  "ingredients_raw": "Refined palmolein oil, Mixed spices, Tamarind concentrate (13%), Sugar, lodised salt, Peanut (5.8%), Coconut products (2.6%) [Dry coconut (Copra) & Desiccated coconut), Curry Leaves (Fresh leaves & Dry powder), Black sesame (1.8%), Jaggery (1.4%), Black gram splits, Bengal gram splits, Acidity regulators (INS 260 & INS 334) and Preservative (INS 210). Allergen Advice: Contains Nut. May contains Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901042955254",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

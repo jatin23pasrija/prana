@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014814120",
+  "barcode_printed": "8908014814120",
+  "barcode_format": "EAN-13",
+  "name": "Hotdog bun",
+  "brand": "mr-bakewell",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 160,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 314,
+        "protein_g": 7.4,
+        "carbohydrate_g": 59.25,
+        "sugars_g": 7.41,
+        "fat_g": 5.58,
+        "saturated_fat_g": 2.78,
+        "fibre_g": 1.35,
+        "sodium_mg": 318.5
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) Water, Sugar, Yeast, Refined Palm Oil, lodized Salt, Flour Improver Emulsifiers, DATEM (INS472e), Calcium Propionate (INS282), Gluten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014814120",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009536675",
+  "barcode_printed": "8906009536675",
+  "barcode_format": "EAN-13",
+  "name": "Date et almond bar",
+  "brand": "max-protein",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Date Paste (21%), Protein Blend (20%) (Whey Protein Concentrate, Soy Nuggets, Calcium Case, Emulsifiers (INS 492, INS 322(1) - Soy Lecithin)), Date Syrup (11%), Dietary Fiber (Wheat Fiber), Cocower Humectant (Glycerine). Emulsifier (INS 471, INS 322 (1) - Soy Lecithin), Salt, Antioxidant (Rosemary Extract CONTAINS ADDED FLAVOUR (NATURAL & NATURE IDENTICAL FLAVOUR) (Vanilla Flavour)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009536675",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

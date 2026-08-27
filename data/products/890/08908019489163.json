@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019489163",
+  "barcode_printed": "8908019489163",
+  "barcode_format": "EAN-13",
+  "name": "Dindigul biryani paste",
+  "brand": "cookd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Masala Paste: Onion (32%), Water, Refined Sunflower Oil, Tomato (11%), Curd (7%), Ginger, Garlic, lodized Salt, Spices (Red Chilli, Cinnamon, Star Anise, Clove, Cardamom, Black Pepper, Bay Leaf, Stone Flower), Green Chilli, Mint Leaves, Coriander Leaves, Lime Juice. Oil: Spice Extracts, Refined Sunflower Oil, Mono & Diglycerides of Fatty Acid (INS 471).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019489163",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

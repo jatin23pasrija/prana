@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "08904090903758",
+  "barcode_printed": "8904090903758",
+  "barcode_format": "EAN-13",
+  "name": "Corn Mixture",
+  "brand": "rajam-snacks",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 484.43,
+        "protein_g": 8.43,
+        "carbohydrate_g": 46.28,
+        "fat_g": 29.51,
+        "sodium_mg": 901.68
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904090903758",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

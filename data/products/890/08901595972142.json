@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595972142",
+  "barcode_printed": "8901595972142",
+  "barcode_format": "EAN-13",
+  "name": "Veg Manchurian masala",
+  "brand": "ching-s-secret",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn Flour, lodised Salt, Dehydrated Garlic, Sugar, Onion Powder, Soy Sauce Powder (Soybean, Wheat, Salt), Mixed Spices (2%) [Ginger, Cumin, Coriander, Chilli, Pepper], Natural Colour (INS 150d), Flavour Enhancer (INS 635), Sunflower Oil, Anticaking Agent (INS 551), Thickening & Stabilizing Agent (INS 415), Acidity Regulator (INS 260), Natural Flavouring Substances. ALLERGEN ADVICE: CONTAINS WHEAT AND SOY. May contain Peanuts, Tree Nuts, Sesame Seeds, Mustard and Milk (dairy products).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595972142",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

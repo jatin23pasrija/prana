@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "05023659210830",
+  "barcode_printed": "5023659210830",
+  "barcode_format": "EAN-13",
+  "name": "Sun Vita Blended Vegetable Oil",
+  "brand": "sun-vita",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "70% specially refined palm olein, 30% sunflower oil, anti-foaming agent (e900) 0.5ppm",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5023659210830",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

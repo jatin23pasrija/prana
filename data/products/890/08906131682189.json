@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131682189",
+  "barcode_printed": "8906131682189",
+  "barcode_format": "EAN-13",
+  "name": "Mille Jowar Puff",
+  "brand": "mille",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 438.3,
+        "protein_g": 6.7,
+        "carbohydrate_g": 61.4,
+        "sugars_g": 2.7,
+        "fat_g": 18.6,
+        "saturated_fat_g": 3.6,
+        "fibre_g": 3.8,
+        "sodium_mg": 1016.1
+      }
+    }
+  ],
+  "ingredients_raw": "Puff 88%: Supergrain Blend (Jowar, Foxtail Millet, Corn, Rice)(72%), Rice Bran Oil (16%). Seasoning 12%: Vegetables and Spices (Onion, Garlic, Tomato, Chilli, Amchur, Tamarind), Salt, Natural and Nature Identical Flavours, Raw Sugar, Acidity Regulators (INS330, INS296, INS334), Potassium Chloride - Salt Substitute (INS 508). Rosemary Extract - Antioxidant (INS 392).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131682189",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512929303",
+  "barcode_printed": "8901512929303",
+  "barcode_format": "EAN-13",
+  "name": "Sour cream & cheese",
+  "brand": "act-2",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Popcorn Sachet: Popping Com (61.6%), Refined Edible Palmolein Oil (TBHQ) and lodized Salt Sour Cream & Cheese Seasoning Sachet: Sugar, Spices & Condiments (Onion Powder, Black Pepper, Turmeric Extract, Chilli Extract), lodized Salt, Maltodextrin, Milk Solids (0.7%), Edible Vegetable Fat (Vanaspati), Natural Flavour, Nature Identical Flavour, Dried Glucose Syrup, Flavour Enhancer (Disodium Ribonucleotides), Acidity Regulators (Lactic Acid, Citric Acid, Trisodium Citrate), Anticaking Agent (Silicon Dioxide), Stabilizers (Disodium Orthophosphate, Dipotassium Orthophosphate, Carrageenan), Dextrose, Emulsifier (Mono and Diglycerides of Fatty Acids), Cheese Solids (0.007%), Edible Vegetable Oil (Palm). Contains Milk, Sulphites and their products",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512929303",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

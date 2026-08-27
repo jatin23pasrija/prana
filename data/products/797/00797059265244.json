@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00797059265244",
+  "barcode_printed": "0797059265244",
+  "barcode_format": "EAN-13",
+  "name": "Nourcery Pizza Pista Seasoning",
+  "brand": "nourcery",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Red Chilli, Oregano, Thyme, Lemon, Paprika, Salt, Onion, Garlic Powder, Black Pepper, Cayenne Pepper",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0797059265244",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "gtin": "08906135091079",
+  "barcode_printed": "8906135091079",
+  "barcode_format": "EAN-13",
+  "name": "Himalaya Honey",
+  "brand": "apis",
+  "category": "honey",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "21g",
+        "quantity": {
+          "value": 21,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 66.88,
+        "protein_g": 0.06,
+        "carbohydrate_g": 16.66,
+        "sugars_g": 16.66,
+        "fat_g": 0,
+        "sodium_mg": 0.55
+      }
+    }
+  ],
+  "ingredients_raw": "Honey",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906135091079",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

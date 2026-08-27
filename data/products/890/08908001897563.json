@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001897563",
+  "barcode_printed": "8908001897563",
+  "barcode_format": "EAN-13",
+  "name": "Korniszony delikatesowe z przyprawami",
+  "brand": "hugo-reitzel",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 190,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Ogórki, woda, cukier, sól, ocet spirytusowy, papryka 0,57%, _gorczyca_ 0,29%, cebula, koper 0,14%, czarny pieprz 0,09%, aromat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001897563",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

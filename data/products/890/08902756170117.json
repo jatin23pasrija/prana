@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08902756170117",
+  "barcode_printed": "8902756170117",
+  "barcode_format": "EAN-13",
+  "name": "Chicken Chilli Sausages",
+  "brand": "godrej",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 159.23,
+        "energy_kj": 667,
+        "protein_g": 18.54,
+        "carbohydrate_g": 2.78,
+        "sugars_g": 0.5,
+        "fat_g": 7.95,
+        "saturated_fat_g": 2.41,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 464.99
+      }
+    }
+  ],
+  "ingredients_raw": "Chicken Meat (79.22%), Water, Onion, Soy Protein Products, Salt, Wheat Fiber, Garlic Paste, Ginger Paste, Spices & Condiments (Chilli - 0.36%), Starch ( INS 1420), Texturizer NS 451(i)), Colour Fixative (INS 250). Hergen Advice: Contains Soy and Wheat. May contain Egg, Milk & Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902756170117",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

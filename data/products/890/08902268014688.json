@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08902268014688",
+  "barcode_printed": "8902268014688",
+  "barcode_format": "EAN-13",
+  "name": "anmol swiss roll",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat flour (Maida) (20%), Sugar, Eggs, Invert Syrup, Edible vegetable fat (Hydrogenated oils) & Refined Palmolein oil, Humectants (INS 422, INS 420, INS 1520), Starch, HMCS, Emulsifiers [INS 471, INS 475, INS 472e, INS 477, INS 491, INS 470(i), INS 322], Milk Solids, lodised Salt, Class II Preservatives (INS 200, INS 202), Acidity Regulators (INS 330, INS 260), Stabilizer (INS 415), Colour (INS 122)& Nature Identical & Artificial Flavouring Substances Strawberry & Vanilla) Allergen Declaration: Contains Wheat, Milk, Soya & Eggs Energy (kcal) Carbohydrates (g) Protein (g) Total Sugars (g) Added Sugars (g) *Percent RDA value",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902268014688",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262220965",
+  "barcode_printed": "8901262220965",
+  "barcode_format": "EAN-13",
+  "name": "Amul Pizza Margherita",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 210,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 245,
+        "energy_kj": 1025,
+        "protein_g": 12.5,
+        "carbohydrate_g": 29.5,
+        "sugars_g": 6.4,
+        "fat_g": 8.5,
+        "saturated_fat_g": 5,
+        "fibre_g": 0,
+        "sodium_mg": 730
+      }
+    }
+  ],
+  "ingredients_raw": "Toppings (54%): Cheese (milk solids, iodized salt, microbial rennet, active culture), pizza sauce [water, tomato paste, sugar, spices & condiments (2%), milk solids, iodized salt, acidity regulator (260) and stabilizer (401)]. Base (46%): Bread [refined wheat flour, water, yeast, palm oil, milk solids, sugar, iodized salt, preservative (282), improver (soya flour, corn starch, anticaking agent (170), antioxidant (300), flour treatment agent (1100)}, emulsifier (481)). Allergen Information: Contains milk, wheat, soy. Contains one sachet each of Oregano Seasonings (1g) & Crushed Chilli Flakes (1g). KEEP FROZEN AT-18°C OR BELOW IN DEEP-FREEZER OF YOUR REFRIGERATOR. DO NOT BUY THE PACKET IF FOUND OPENED OR DAMAGED. METHOD OF PREPARATION: Before baking the pizza, ensure that the pizza is thawed properly by any of the two methods: A P S Ca #R A 1. Put the deep frozen pizza in the lower compartment of the fridge (above the veg. basket) overnight. 2. Keep the deep frozen In both the above cases, check whether the pizza has softened completely by piercing with a knife or a clean toothpick which go Once thawed bake immediately, do not re-freeze. Do not microwave. A. Electric Oven 1. Preheat the oven to 250°C. 2. Place the pizza in the oven and cook for 8-10 minutes, until the crust becomes golden brown. C. Tava (Frying Pan) 1. Preheat the tava for 2 minutes on a low flame. 2. Place the pizza on the grill and cover with a lid. 3. Cook for 8-10 minutes on a low flame until the crust becomes golden brown. B. Gas Oven 1. Preheat the oven to 250°C. 2. Place the pizza in the oven Suggested garnishing: To garnish the pizza, use ingred red capsicum slices, yellow caps marinated paneer dices, fresh co Sprinkle Oregano/Chilli Seasoning as per the taste & cut into slices and serv Marketed by: Gujarat Co-operative Milk Marketing Federation Ltd., Anand - 388 001, India. Website: www.amul.com We appreciate your feedback. Contact our Customer Care Executive at: 1800 258 3333 (Toll free) [6 AM - 9 PM]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262220965",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

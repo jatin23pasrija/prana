@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904221697679",
+  "barcode_printed": "8904221697679",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein DRC",
+  "brand": "as-it-is-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "36 g",
+        "quantity": {
+          "value": 36,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 135,
+        "protein_g": 27,
+        "carbohydrate_g": 4.6,
+        "sugars_g": 0,
+        "fat_g": 1,
+        "saturated_fat_g": 0.6,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904221697679",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

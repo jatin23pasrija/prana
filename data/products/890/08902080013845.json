@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080013845",
+  "barcode_printed": "8902080013845",
+  "barcode_format": "EAN-13",
+  "name": "Tropicana CRANBERRY",
+  "brand": "tropicana",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 43,
+        "protein_g": 0,
+        "carbohydrate_g": 10.8,
+        "sugars_g": 10.5,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 26
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, SUGAR, &quot;CONCENTRATED JUICES (CRANBERRY (1.6%), APPLE (1.5% ), RED GRAPE (1.1%), POMEGRANATE), FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES), IODISED SALT ACIDITY REGULATOR (296), SWEETENER (960a). 31% FRUIT JUICE OF CRANBERRY, APPLE, RED GRAPE & POMEGRANATE IN RECONSTITUTED BEVERAGE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080013845",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

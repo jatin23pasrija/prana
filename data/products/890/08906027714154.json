@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08906027714154",
+  "barcode_printed": "8906027714154",
+  "barcode_format": "EAN-13",
+  "name": "Paneer",
+  "brand": "govind",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 318,
+        "protein_g": 16.2,
+        "carbohydrate_g": 7.36,
+        "sugars_g": 7.36,
+        "fat_g": 24.84,
+        "saturated_fat_g": 16.02,
+        "trans_fat_g": 0,
+        "sodium_mg": 96.43
+      }
+    }
+  ],
+  "ingredients_raw": "Standardized Milk, Citric Acid (INS 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906027714154",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

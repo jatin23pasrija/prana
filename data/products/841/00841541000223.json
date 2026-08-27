@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "00841541000223",
+  "barcode_printed": "0841541000223",
+  "barcode_format": "EAN-13",
+  "name": "Boisson soja",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 41,
+        "protein_g": 1.9,
+        "carbohydrate_g": 2.8,
+        "sugars_g": 1.95,
+        "fat_g": 0.8,
+        "saturated_fat_g": 0.3,
+        "fibre_g": 0.4,
+        "sodium_mg": 60
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0841541000223",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

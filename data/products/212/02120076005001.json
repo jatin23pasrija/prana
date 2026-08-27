@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "02120076005001",
+  "barcode_printed": "2120076005001",
+  "barcode_format": "EAN-13",
+  "name": "California Almonds",
+  "brand": "lulu",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 609,
+        "protein_g": 18.41,
+        "carbohydrate_g": 21,
+        "sugars_g": 2.23,
+        "fat_g": 58,
+        "saturated_fat_g": 4.86,
+        "fibre_g": 13.06,
+        "sodium_mg": 15
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/2120076005001",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

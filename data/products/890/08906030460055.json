@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906030460055",
+  "barcode_printed": "8906030460055",
+  "barcode_format": "EAN-13",
+  "name": "White Sliced Bread",
+  "brand": "moreish",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 255,
+        "protein_g": 6.8,
+        "carbohydrate_g": 51,
+        "sugars_g": 2.43,
+        "fat_g": 1.9,
+        "saturated_fat_g": 0.55,
+        "sodium_mg": 516
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Yeast, lodised Salt, Soya Flour, Vegetable Oil (Refined Palmolien Oil), Preservatives (282), Acidity Regulator (260), Flour Treatment Agent (1100), Improvers [1100(i), 1104), Antioxidant (300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906030460055",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

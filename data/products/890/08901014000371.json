@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014000371",
+  "barcode_printed": "8901014000371",
+  "barcode_format": "EAN-13",
+  "name": "Geki Hot & Spicy Korean Cheese",
+  "brand": "nissin",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NOODLES (80.00%): Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), Tapioca Starch, lodised Salt, Acidity Regulators [INS 451(i) & INS 500(i)], Turmeric Powder, Thickener (INS 412)& Antioxidant (INS 319). SEASONING MIX (12.50%): Sugar, Skimmed Milk Powder, Cheese Powder, Garlic Powder, Hydrolysed Vegetable Protein Powder (Soya), lodised Salt, Flavours (Natural & Nature Identical), Yeast Extract Powder, Onion Powder, Flavour Enhancers (INS 631 & INS 627), Mixed Spices (Ginger, Black Pepper, Red Chilli, Cumin & Turmeric), Acidity Regulator (INS 330). Oleoresin Capsicum & Anticaking Agent (INS 551). SEASONING OIL (7.50%): Edible Vegetable Oil (Palmolein, Soya Bean Oil & Chilli Seed Oil), Colour [INS 160c(i)]&Oleoresin Rosemary. ALLERGEN INFORMATION: CONTAINS WHEAT SOY & MILK. Mid. by: INDO NISSIN FOODS PVT. LTD., No.1102, 11th Floor, Raheja Towers, West Wing fssai MG Road, Bengaluru-560001, Kamalaka Lic.No. 10013043000622 Mid. at: Refer to the panel below (Ror O) after PKD R191 Kms. NH-8,Delhi-Jaipur Road, Village-Deodhai, Tehsil Bawal Be123 401. Haryana. Lic.No. 10012064000056 sing Park Khordha Industrial No 10015032000243 2. Drain out the water. THER",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014000371",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491502030",
+  "barcode_printed": "8901491502030",
+  "barcode_format": "EAN-13",
+  "name": "Lay's American Style Cream & Onion Flavour",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 12.3,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Palmolein, Sunflower Oil), 'Seasoning (Sugar, iodised Salt, Milk Solids, ^Spices & Condiments, Maltodextrin, Flavour (Natural and Nature Identical Flavouring Substances), Cheese Powder, Hydrolysed Vegetable Protein, Flavour Enhancers (627, 631), Edible Vegetable Oil (Palm, Coconut), Anticaking Agent (551)).Contains Onion ALLERGEN ADVICE: Contains _Soy_, _Milk_ May Contain _Sulphite_ 'As flavouring agent ,^Contsins onion",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491502030",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

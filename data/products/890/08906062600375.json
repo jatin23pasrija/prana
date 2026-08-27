@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906062600375",
+  "barcode_printed": "8906062600375",
+  "barcode_format": "EAN-13",
+  "name": "e-Millet cookies",
+  "brand": "moon-foods",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 505.6,
+        "protein_g": 5.3,
+        "carbohydrate_g": 63.5,
+        "fat_g": 23.5,
+        "fibre_g": 0.37
+      }
+    }
+  ],
+  "ingredients_raw": "Finger Millet Flour, Atta, Cane Sugar, Vegetable Oils & Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906062600375",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

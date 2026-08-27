@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08939121486832",
+  "barcode_printed": "8939121486832",
+  "barcode_format": "EAN-13",
+  "name": "Nourish Protein Bar Choco Almond",
+  "brand": "nofuss",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "60 g",
+        "quantity": {
+          "value": 60,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 251.03,
+        "protein_g": 20.07,
+        "carbohydrate_g": 23.09,
+        "sugars_g": 10.08,
+        "fat_g": 10.19,
+        "saturated_fat_g": 1.69,
+        "fibre_g": 6.4,
+        "sodium_mg": 43.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939121486832",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

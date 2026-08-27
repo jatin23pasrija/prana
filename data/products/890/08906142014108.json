@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906142014108",
+  "barcode_printed": "8906142014108",
+  "barcode_format": "EAN-13",
+  "name": "Bhel Mix",
+  "brand": "telugu-foods",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 433,
+        "protein_g": 7,
+        "carbohydrate_g": 22,
+        "sugars_g": 2,
+        "fat_g": 33,
+        "saturated_fat_g": 11,
+        "sodium_mg": 400
+      }
+    }
+  ],
+  "ingredients_raw": "Puffed Rice (20 %), Flattened Rice, Refined Peanut Oll, Chickpea, Rice Flour, Peanut, Salt, Chilli Powder, Turmeric Powder, Cumin Powder, Coriander Powder, Curry Leaves, Black Salt, Black Pepper, Cardamom, Ajwain, Clove, Cinnamon, Sugar, Cornflakes. Contains: Peanut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906142014108",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

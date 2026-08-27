@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901786101009",
+  "barcode_printed": "8901786101009",
+  "barcode_format": "EAN-13",
+  "name": "Everest garam Masala",
+  "brand": "everest",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "•Coriander Chilli Cumin •Cassia Leaf Black Pepper • Cassia Bark (Tai) • Clove • Black Cardamom Star anise . Fennel Dried Ginger • ● Salt Caraway May Contain: Mustard Ingrédients : •Coriandre Piment •Cumin Feuille Cassia Poivre noir • Ecorce Cassia (Taj) • Gousse Cardamome Noir Étoile Anise ● Fenouil Gingembre Séché • Sel • Carvi Peut Contenir de la : Moutarde المكونات • كزبرة . فلفل حار كمون • ورقة قرفة صينية . فلفل أسود . لحاء قرفة صينية (تاج) . قرنفل • هال أسود. يانسون نجمي شمرة زنجبيل مجفف • ملح . وكراوية قد تحتوي على : خردل Scan for Recipes 回味回",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901786101009",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

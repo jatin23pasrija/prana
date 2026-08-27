@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906127551086",
+  "barcode_printed": "8906127551086",
+  "barcode_format": "EAN-13",
+  "name": "Alpino Super Oats Chocolate",
+  "brand": "alpino",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "ROLLED JUMBO OATS (51.6%) NATURAL PEANUT BUTTER (22%)[PEANUTS] PROTEIN BLEND (15.2%) [TEXTURIZED SOYA PROTEIN &SOYA NUGGETS] DRY FRUITS & NUTS (6.0%) [ALMOND SLICE, RAISINS, SUNFLOWER SEEDS] COCOA POWDER (5.0%) MONK FRUIT POWDER. SWEETENER STEVIA POWDER] ANTIOXIDANT [ROSEMARY EXTRACT]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906127551086",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906156360260",
+  "barcode_printed": "8906156360260",
+  "barcode_format": "EAN-13",
+  "name": "Papdi Gathiya",
+  "brand": "eatera",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Gram Flour (67%), Edible Vegetable Oil (Palmolein Oil), lodized Salt, Raising Agent (INS 500 (i)), Asafoetida Powder ALLERGY ADVICE: May contains soy, nut, wheat, milk. manpar Road Khanpar RAT. Protein NUTRITIONAL INFORMATION* Per 100g %Daily Value of RDA^ PER 20g Energy 651.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906156360260",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

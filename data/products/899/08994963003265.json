@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08994963003265",
+  "barcode_printed": "8994963003265",
+  "barcode_format": "EAN-13",
+  "name": "Instant noodles chicken flavour",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles: Refined wheat flour (Maida), Edible vegetable oil Refined palm oil (Contains antioxidant INS 319)), Salt, Acidity regulators (INS 4521, INS 501, INS 500i), Thickener (INS 412), Colour (INS 1011). Seasoning Powder: Salt, Flavour enhancers (INS 621, INS $31, INS 627), Sugar, Artificial chicken flavour, White pepper, Garlic, Anticaking agent (INS 551), Ginger. Dried Chili Powder ALLERGY ADVICE: CONTAINS WHEAT AND SOY MAY CONTAINS CRUSTACEAN, FISH, EGG, DAIRY THE SEASONING POWDER CONTAINS ADDED MONOSODIUM GLUTAMATE NOT RECOMMENDED FOR INFANTS BELOW 12 MONTHS AND PREGNANT WOMEN",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8994963003265",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

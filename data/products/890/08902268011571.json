@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08902268011571",
+  "barcode_printed": "8902268011571",
+  "barcode_format": "EAN-13",
+  "name": "Anmol Hit & Run Choco Chip Cookies",
+  "brand": "anmol",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 487,
+        "protein_g": 6,
+        "carbohydrate_g": 72.6,
+        "sugars_g": 28.8,
+        "fat_g": 19.1,
+        "saturated_fat_g": 11.5
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR MAIDA SUGAR, EDIBLE VEGETABLE OIL (PALM), CHOCO CHIPS (7%) SUGAR, EDIBLE VEGETABLE FAT (HYDROGENATED, COCOA SOLIDS, DEXTROSE & EMULSIFIER (INS 322), INVERT SYRUP, STARCH, RAISING AGENTS (INS 500(ii), INS 503], COCOA SOLIDS, EDIBLE COMMON SALT, EMULSIFIERS [INS 322, INS 471]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902268011571",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500511",
+  "barcode_printed": "8906010500511",
+  "barcode_format": "EAN-13",
+  "name": "Chataka Pataka",
+  "brand": "balaji",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 514,
+        "protein_g": 7,
+        "carbohydrate_g": 63.3,
+        "sugars_g": 2,
+        "fat_g": 24.8,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 0.2,
+        "fibre_g": 4.8,
+        "sodium_mg": 868
+      }
+    }
+  ],
+  "ingredients_raw": "RICE MEAL (43%), EDIBLE VEGETABLE OIL (CONTAINS ONE OR MORE OF THE FOLLOWINGS: PALMOLEIN, RICE BRAN, CORN, COTTONSEED), CORN MEAL (13%), CHICKPEA FLOUR, **SEASONING [EDIBLE COMMON SALT, SPICES & CONDIMENTS 2% (CUMIN, CHILLI, BLACK PEPPER, DRY MANGO), DEHYDRATED VEGETABLE POWDER (ONION, GARLIC), SUGAR, ACIDITY REGULATOR (INS 330), ANTICAKING AGENT (INS 551), FLAVOUR ENHANCER (INS 627, INS 631), FLAVOUR (NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES), PAPRIKA EXTRACT (INS 160C)]. **AS FLAVOURING & SEASONING AGENT NAMKEEN READY-TO-EAT SAVOURIES | PROPRIETARY FOOD | INDIAN SNACKS & SAVOURIES PRODUCT OF INDIA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500511",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

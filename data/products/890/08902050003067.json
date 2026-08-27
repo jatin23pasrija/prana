@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08902050003067",
+  "barcode_printed": "8902050003067",
+  "barcode_format": "EAN-13",
+  "name": "Potato Chiwada",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 565,
+        "protein_g": 9.6,
+        "carbohydrate_g": 39.2,
+        "sugars_g": 17.92,
+        "fat_g": 44.08,
+        "saturated_fat_g": 7.68,
+        "sodium_mg": 444
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902050003067",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

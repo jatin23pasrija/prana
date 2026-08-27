@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063146952",
+  "barcode_printed": "8901063146952",
+  "barcode_format": "EAN-13",
+  "name": "Winkin Cow Strawberry",
+  "brand": "winkin-cow",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 185,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Toned milk, sugar, water, stabilizers (471, 412, 407, 415), nature identical (strawberry) and natural flavouring substances, acidity regulators (340(iii), 340(ii), 452(i)), iodized salt and colour (127)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063146952",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

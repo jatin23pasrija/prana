@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901571011759",
+  "barcode_printed": "8901571011759",
+  "barcode_format": "EAN-13",
+  "name": "centrum women",
+  "brand": "centrum",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Minerals, Vitamins, Diluent [460(1), Maltodextrin], Disintegrant (466), Carriers (1518, 462), Binding agent (1201), Coating agent (464, 1203, 462), Sodium hyaluronate, Stabilizer, Antisticking agent (470)(iii)], Thickeners [553 (ii), 412], Synthetic Colours (132,124), Medium chain triglycerides, Antioxidants (320,321)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901571011759",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

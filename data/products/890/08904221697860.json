@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904221697860",
+  "barcode_printed": "8904221697860",
+  "barcode_format": "EAN-13",
+  "name": "As It Is Whey Protein",
+  "brand": "atom",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 135,
+        "energy_kj": 565,
+        "protein_g": 27,
+        "carbohydrate_g": 4.7,
+        "sugars_g": 0,
+        "fat_g": 1,
+        "saturated_fat_g": 0.6,
+        "trans_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Concentrate, Whey Protein Isolate, Cocoa Powder, Artificial Flavour, Probiotic Blend, DigeZyme, Lecithin, Sucralose. WARNING: Not intended for use by pregnant or lactating women. If you are on any medication, consult your doctor before use. Avoid this if you are allergic. Discontinue use and consult your doctor or healthcare professional if any adverse condition occurs. CONTAINS NON-CALORIC SWEETENER FOR CALORIE CONSCIOUS CONTAINS SUCRALOSE ALLERGEN INFORMATION: CONTAINS MILK & MILK PRODUCT, MANUFACTURED IN A FACILITY THAT ALSO PROCESS SOY PRODUCTS. STORAGE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904221697860",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

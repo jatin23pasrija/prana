@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00841541001206",
+  "barcode_printed": "0841541001206",
+  "barcode_format": "EAN-13",
+  "name": "almond fresh",
+  "brand": "so-good-india",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "For more recipes & information, visit: www.lhf.co.in INGREDIENTS: Water, Almond (2.6 %), Minerals (Calcium Phosphate Tribasic (INS 341), Sodium Bicarbonate (INS 500)), Emulsifier (INS 322), Salt Stabiliser (INS 418) and Vitamins (Ascorbic Acid Niacinamide, Calcium Pantothenate, Riboflavin, Pyridoxine hydrochloride, Thiamine Mononitrate, Vitamin A Acetate (250CWS), Folic Acid Cyanocobalamine, Ergocalciferaol). All ingredients are of non-animal origin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0841541001206",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

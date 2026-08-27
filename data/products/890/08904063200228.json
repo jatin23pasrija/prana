@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200228",
+  "barcode_printed": "8904063200228",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram Ghatia",
+  "brand": "haldiram-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Chickpeas Pulse Flour (62%), Vegetable Oil (Palm), Salt, Cumin and Leavening Agent E500 (ii). Attention: For Allergen See Ingredient in Bold, this product is made in a facility that processed foods containing Wheat, Peanut, Nuts, Sesame, Soy and Mustard. Kichererbsenmehlnudeln",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200228",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

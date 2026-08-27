@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202023545",
+  "barcode_printed": "7622202023545",
+  "barcode_format": "EAN-13",
+  "name": "Fuse",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Centre Filling 72% - Peanuts (25%), Sugar, Interesterified Vegetable Fat, Liquid Glucose, Milk Solids, Hydrogenated Vegetable Oil, Cocoa Solids, Invert Sugar, Humectant (422), lodised Salt, Emulsifiers (322, 471), Flavours (Nature Identical and Artificial (Vanilla) Flavouring Substances); Milk Chocolate 28%-Sugar, Cocoa Butter, Milk Solids (4%), Lactose, Cocoa Solids, Fractionated Fat, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Vanilla and Caramel) Flavouring Substances).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202023545",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

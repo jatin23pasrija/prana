@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906088860425",
+  "barcode_printed": "8906088860425",
+  "barcode_format": "EAN-13",
+  "name": "current noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "FORE 12 MONTHS FROM THE DATE OF PACKAGING INGREDIENTS OF NOODLES: Wheat Flour, Vegetable Oil, Wheat Gluten, Modified Tapioca Starch, Salt, Acidity Regulators [500(ii) & 501 (ii)], Stabilisers [466 & 452(ii)] and Riboflavin (101). INGREDIENTS OF SEASONING: Salt, Garlic Powder, Hydrolysed Vegetable Protein (HVP), Soya Sauce Powder, Sugar, Red Chilli, Pepper, Black Pepper, Maltodextrin (1400), Chicken Flavour, Flavour Enhancers (621, 627 & 631), Food Acid (296), Paprica (160c) and Other Natural Herbs & Spices. INGREDIENTS OF DEHYDRATED VEGETABLES: Carrot, Cabbage, Green Peas, Red Chilli Flakes, Chives, Seaweed and Sesame Seed. INGREDIENTS OF PASTE: Refined Vegetable Oil, Chilli Powder, Paprica (160c) and Other Spices. STORING ADVICE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906088860425",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

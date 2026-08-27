@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001388319",
+  "barcode_printed": "8906001388319",
+  "barcode_format": "EAN-13",
+  "name": "Bread",
+  "brand": "english-oven",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Yeast, Edible Vegetable Oil (Rice Bran), Iodized Salt, Soya Flour, Wheat Gluten, Class II Preservative (282), Emulsifiers [471, 472e, 481], Improvers [170 (1), 510, 923, 1100].e Acidity Regulator (260) and Antioxidant (300)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001388319",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

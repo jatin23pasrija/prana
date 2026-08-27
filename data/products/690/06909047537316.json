@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "06909047537316",
+  "barcode_printed": "6909047537316",
+  "barcode_format": "EAN-13",
+  "name": "Peanut butter Chikki",
+  "brand": "roleks",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Roasted Peanuts, Jaggery, Sugar, Liquid Glucose",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6909047537316",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001375986",
+  "barcode_printed": "8908001375986",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Coconut Cookies",
+  "brand": "nourish-irganics",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 495.3,
+        "protein_g": 7.99,
+        "carbohydrate_g": 65.93,
+        "sugars_g": 23.84,
+        "fat_g": 22.18,
+        "saturated_fat_g": 11.31,
+        "fibre_g": 8.44,
+        "sodium_mg": 207.58
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001375986",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

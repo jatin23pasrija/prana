@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906080603518",
+  "barcode_printed": "8906080603518",
+  "barcode_format": "EAN-13",
+  "name": "Paper boat Zero Sparkling Coffee",
+  "brand": "paper-boat",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 ml",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 0,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "fat_g": 0,
+        "sodium_mg": 21
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER, SWEETENERS (968, 955), FLAVOURS (NATURE-IDENTICAL AND NATURAL FLAVOURING SUBSTANCES), ACIDITY REGULATORS (330, 331 (iii)), COFFEE BEAN EXTRACT (0.1%), CAFFEINE (25mg/100ml), PRESERVATIVE (211). PEPING CONTAINS NON-CALORIC",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906080603518",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

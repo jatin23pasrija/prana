@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512562807",
+  "barcode_printed": "8901512562807",
+  "barcode_format": "EAN-13",
+  "name": "Butter flavour popcorn",
+  "brand": "act-2",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Popped Corn (88.7%), Refined Edible Palmolein Oil (Antioxidant (TBHQ)), lodized Salt, Nature Identical Flavour (Butter), Table Butter (0.07%) & Colour (Beta Carotene).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512562807",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

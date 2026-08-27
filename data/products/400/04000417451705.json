@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "04000417451705",
+  "barcode_printed": "4000417451705",
+  "barcode_format": "EAN-13",
+  "name": "Ritter Sport Mini Mix 18er Beutel",
+  "brand": "ritter-sport",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 549,
+        "protein_g": 6.9,
+        "carbohydrate_g": 53,
+        "sugars_g": 50,
+        "fat_g": 34,
+        "saturated_fat_g": 18,
+        "sodium_mg": 84
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4000417451705",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

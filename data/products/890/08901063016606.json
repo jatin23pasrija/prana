@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063016606",
+  "barcode_printed": "8901063016606",
+  "barcode_format": "EAN-13",
+  "name": "50-50 sweet and salt",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR, EDIBLE VEGETABLE OIL (PALM), SUGAR 0% RAISING AGENTS [503(i), 500(i)], INVERT SYRUP, 10DISED SALT (0.8 % ) , YEAST, ACINTY REGULATORS [270, 341 (i), 330], EMULSIFIER (472e), DOUGH CONDITIONER (2231 AND IMPROVERS [1101 (1), 1101 (i), 1100(1)] (Numbers in brackets as per International Numbering System) CONTAINS ADDED FLAVOURS [NATURE IDENTICAL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063016606",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

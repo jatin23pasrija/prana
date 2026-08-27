@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906173701442",
+  "barcode_printed": "8906173701442",
+  "barcode_format": "EAN-13",
+  "name": "clear protein",
+  "brand": "bigmuscles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 scoops (30 g)",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 120,
+        "protein_g": 24.23,
+        "carbohydrate_g": 4.61,
+        "sugars_g": 2.31,
+        "fat_g": 0.58,
+        "saturated_fat_g": 0.38,
+        "trans_fat_g": 0,
+        "sodium_mg": 196.16
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906173701442",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

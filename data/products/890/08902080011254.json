@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080011254",
+  "barcode_printed": "8902080011254",
+  "barcode_format": "EAN-13",
+  "name": "Mango delight",
+  "brand": "pepsico",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 61,
+        "protein_g": 0.2,
+        "carbohydrate_g": 15,
+        "sugars_g": 15,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 2
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, *CONCENTRATED MANGO PULP AND ALPHONSO MANGO PULP (20%), SUGAR, ACIDITY REGULATOR (330). CONTAINS PERMITTED NATURAL COLOUR (160a()) AND ADDED FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080011254",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

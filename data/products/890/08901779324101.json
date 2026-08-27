@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08901779324101",
+  "barcode_printed": "8901779324101",
+  "barcode_format": "EAN-13",
+  "name": "saras",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 320,
+        "protein_g": 6,
+        "carbohydrate_g": 32,
+        "sugars_g": 6,
+        "fat_g": 18,
+        "saturated_fat_g": 12,
+        "fibre_g": 4,
+        "sodium_mg": 1280
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901779324101",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

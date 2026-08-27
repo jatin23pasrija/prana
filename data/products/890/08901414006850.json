@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414006850",
+  "barcode_printed": "8901414006850",
+  "barcode_format": "EAN-13",
+  "name": "Bikano diet mixture",
+  "brand": "bikano",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 501.9,
+        "protein_g": 7,
+        "carbohydrate_g": 60.2,
+        "sugars_g": 6.3,
+        "fat_g": 25.9,
+        "saturated_fat_g": 12.4,
+        "sodium_mg": 1020
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Flakes (37.2%), Edible Vegetable Oil (Refined Palmolein Oil, Refined Ricebran Oil, Acidity Cottonseed Oil), Husked Bengal Gram (28.49%), Corn Flakes (6.8%), Mixed Spices Powder, Turmeric Powder, Yellow Chilli Powder, Hydrolyzed Vegetable Protein, er), Maltodextrin, lodized Salt, Black Salt, Curry Leaves (0.2%), Mint Leaves, Acidity Regulator (E330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414006850",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

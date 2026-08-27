@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901648021537",
+  "barcode_printed": "8901648021537",
+  "barcode_format": "EAN-13",
+  "name": "Classic Curd",
+  "brand": "mother-diary",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Toned Milk Water, Milk Solids and Active Lactic Culture 100 g & Per Serve & ROL Energy: 62 lical (3.1% RDA); Protein: g Carbohydrate: 5 Total Surgars: 5gr Added Sugars: 0.0 g (0% RDA);Total Fat 3 g (4.5% RDA); Saturated Fat: 2.1 g (9.5% RDA); Cholesterol: mg Cacium: 168 mg Sodium: 47.6 mg (2.4% RDA) Serving Sa: 100 g Number of Servings in the Pack 2 Provides Calcium Goor for strong Bones and Teeth Supes Proteins Hey maintain active life and growth P Tasty and Delicious Everybody loves it! NET QUANTITY: He Digestion Supports digestive system in gut PT 200 g $ PS RECYCLABLE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901648021537",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

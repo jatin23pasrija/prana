@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014000470",
+  "barcode_printed": "8901014000470",
+  "barcode_format": "EAN-13",
+  "name": "niisin",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "NOODLES (80.00%): Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), Tapioca Starch, lodised Sait, Acidity Regulators [INS 451(i) & INS 500(i)], Turmeric Powder, Thickener (INS 412) & Antioxidant (INS 319). SEASONING MIX (12.50%): Sugar, Hydrolysed Vegetable Protein Powder (Soya), Soya Sauce Powder, Garlic Powder, lodised Salt, Mixed Spices 4.5% (Red Chilli, Ginger, Cumin, Black Pepper, Turmeric & Coriander), Acidity Regulators (INS 330 & INS 260), Onion Powder, Flavour Enhancers (INS 631&INS 627), Natural Flavour, Red Chilli Flakes, Dehydrated Spring Onion, Tomato Powder, Oleoresin Capsicum & Anticaking Agent (INS 551) SEASONING OIL (7.50%): Edible Vegetable Oil (Palmolein, Soya Bean Oil & Chilli Seed Oil), Colour [INS 160c(i)] & Oleoresin Rosemary ALLERGEN INFORMATION: CONTAINS WHEAT & SOY. MAY CONTAIN MILK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014000470",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906091520095",
+  "barcode_printed": "8906091520095",
+  "barcode_format": "EAN-13",
+  "name": "Chicken Seekh Tandoori",
+  "brand": "sardar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 185.99,
+        "protein_g": 14.88,
+        "carbohydrate_g": 11.12,
+        "sugars_g": 0.68,
+        "fat_g": 9.11,
+        "fibre_g": 1.13,
+        "sodium_mg": 1020
+      }
+    }
+  ],
+  "ingredients_raw": "CHICKEN B/L, VEGETABLES, WATER, TVP, SPICES, SALT, ISOLATE SOYA PROTEIN, VITAMIN C (E 300), STPP (E 451).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906091520095",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

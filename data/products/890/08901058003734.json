@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058003734",
+  "barcode_printed": "8901058003734",
+  "barcode_format": "EAN-13",
+  "name": "Maggie korean noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (90 g)",
+        "quantity": {
+          "value": 90,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 289,
+        "protein_g": 7.4,
+        "carbohydrate_g": 37.4,
+        "sugars_g": 2.9,
+        "fat_g": 12.2,
+        "saturated_fat_g": 6.8,
+        "trans_fat_g": 0.13
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058003734",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

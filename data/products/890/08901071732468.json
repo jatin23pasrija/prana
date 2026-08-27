@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071732468",
+  "barcode_printed": "8901071732468",
+  "barcode_format": "EAN-13",
+  "name": "Milkshake vanilla Ice cream flavor",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Milk Solids (#11%), Sugar, Mineral (Calcium carbonate), Emulsifiers (460(i),466, 471), Flavours (Artificial (Vanilla Ice cream & Vanilla) and Nature Identical Flavouring Substances), Stabilizers (415, 407), Sequestrant (339(ii)), Mineral (Zinc Sulphate), Vitamin E (Acetate), Vitamin A (Acetate), Vitamin D2 (Ergocalciferol), Vitamin B1 (Thiamine Chloride Hydrochloride), Vitamin B2 (Riboflavin) and lodized Salt ALLERGEN INFORMATION: CONTAINS MILK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071732468",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725132859",
+  "barcode_printed": "8901725132859",
+  "barcode_format": "EAN-13",
+  "name": "Dark Fantasy",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 504,
+        "protein_g": 5.7,
+        "carbohydrate_g": 63.9,
+        "sugars_g": 37.6,
+        "fat_g": 25,
+        "saturated_fat_g": 11.4,
+        "trans_fat_g": 0.1
+      }
+    }
+  ],
+  "ingredients_raw": "choco _creme_ (38%) [sugar, refined palm oil, refined palmolein, cocoa solids, antioxidant (ins 322(i)). contains added flavour(s) (nature identical flavouring substances chocolate and artificial flavouring substances ethyl vanillin)], _wheat_ flour, hydrogenated vegetable oil, sugar, invert syrup, liquid glucose, raising agents (ins 503(0),ins 500(ii), ins 450(i), cocoa solids (0.7%), _butter_, _milk_ solids, edible common salt and emulsifiers (ins 3220), ins 471) contains permitted natural colour(s) (ins 150c, ins 150d) and added flavour(s) (nature identical flavouring substances-chocolate and artificial flavouring substances vanilla, _milk_)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725132859",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

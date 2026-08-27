@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906050631091",
+  "barcode_printed": "8906050631091",
+  "barcode_format": "EAN-13",
+  "name": "Relite Chanachur Khatta Meetha",
+  "brand": "relite",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "10g",
+        "quantity": {
+          "value": 10,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 61.12,
+        "protein_g": 1.86,
+        "carbohydrate_g": 3.23,
+        "sugars_g": 0.4,
+        "fat_g": 3.98,
+        "fibre_g": 0.3,
+        "sodium_mg": 40
+      }
+    }
+  ],
+  "ingredients_raw": "Besan, Pulses, Nuts, Salt, Spices & Super Refined Vegetable Oil.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906050631091",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

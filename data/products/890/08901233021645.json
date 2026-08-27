@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08901233021645",
+  "barcode_printed": "8901233021645",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury bournville premium chocolate",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 31,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 543.75,
+        "protein_g": 5.5,
+        "carbohydrate_g": 55.1,
+        "sugars_g": 45.1,
+        "fat_g": 35,
+        "saturated_fat_g": 23.4
+      }
+    }
+  ],
+  "ingredients_raw": "sugar, cocoa solids (40%), cocoa butter (10%,quot,), milk solids, emulstiers (442, 476), lactose, contains added flavour (natural and nature ident cal flavouring substances) allergen information: contains milk marufactured on equipment that also processes products containing treenuts wid, by, mondelez india foods private limited, unit no, 2001 20 floor, tower-3 (wing c), hrat is farmace centre, parel, mumbai - 400 013, for mig unit ,ddress, read the first character of the code and see below: lic, no, 10 lie, no, 100 - at 1, pokhran road, thane-400 606, 1 - at: induri, talegaon, dabhade - 410 507, lis, no, 100",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901233021645",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

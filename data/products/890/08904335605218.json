@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335605218",
+  "barcode_printed": "8904335605218",
+  "barcode_format": "EAN-13",
+  "name": "Coffee Flavour Plant Protein",
+  "brand": "yogabar",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Protein Isolate Blend 75.7% (Pea Protein and Rice Protein), Coconut Milk Powder, Coffee Powder 10%, Natural Flavor & Flavoring Substances, Monk Fruit Powder &lt;1%, Himalayan Pink Salt, Thickener (Xanthan Gum, Acacia Gum), Digestive Herb Blend 0.04% (Ginger. Fennel, Cumin, Fenugreek).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335605218",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906120100830",
+  "barcode_printed": "8906120100830",
+  "barcode_format": "EAN-13",
+  "name": "Farmley Makhana Peri Peri",
+  "brand": "farmley",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 77,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Foxnut (Makhana), Olive Oil, Spices & Condiments (Red Chilli Powder, Cumin, Carom Seeds, Onion Powder, Garlic Powder), lodised Salt, Black Salt, Sugar, Acidity Regulators (Citric Acid, Malic Acid), Corn Starch, Anticaking Agent (INS 551), Colour (Paprika Extract), Flavour Enhancer (INS 635).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906120100830",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

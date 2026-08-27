@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901047912795",
+  "barcode_printed": "8901047912795",
+  "barcode_format": "EAN-13",
+  "name": "Kenyan Style Chevdo",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato (30%), Cottonseed Oil, Rice Flakes (21%), Chili Powder, Dried Mango Powder, Turmeric Powder, Ginger Powder, Clove Powder, Black Pepper Powder, Black Cardamom Powder, Long Powder, Cumin Powder, Mace Powder, Asafoetida Powder, Pepper Bay leaf Powder, Salt, Sugar, Black Salt Powder, Acidity Regulator (E330) & Curry Leaves], CASHEW NUTS (3%) & PEANUTS (3%). Conaining gluten",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901047912795",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

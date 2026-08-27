@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491990080",
+  "barcode_printed": "8901491990080",
+  "barcode_format": "EAN-13",
+  "name": "Doritos Nacho Cheese Flavours",
+  "brand": "pepsico",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 505,
+        "protein_g": 6.4,
+        "carbohydrate_g": 63.8,
+        "sugars_g": 4.3,
+        "fat_g": 24.9,
+        "saturated_fat_g": 11.6,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 759.97
+      }
+    }
+  ],
+  "ingredients_raw": "Corn (77%),Edible Vegetable Oil (Palmolein Oil), Milk Solids (3.1%) (Whey Powder, Cheese Powder, Skimmed Milk Powder), Wheat Flour, Salt, *Spices & Condiments (Onion Powder, Spice Extract, Pepper Powder, Chilli Powder, Garlic Powder), Tomato Powder, Sugar, Citric Acid (INS 330) CONTAINS ADDED FLAVOURS (NATURAL AND ARTIFICIAL (BUTTER) FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491990080",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

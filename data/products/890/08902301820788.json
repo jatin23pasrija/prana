@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902301820788",
+  "barcode_printed": "8902301820788",
+  "barcode_format": "EAN-13",
+  "name": "Concentré de saveurs aux épices pour agneau rogan josh",
+  "brand": "parampara",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Les conseils du chef : Remplacez l'agneau par des blancs de poulet émincés : réduisez la quantité d'eau de moitié et le temps de cuisson à 20mn. élange au gingembre (6%) et à la coriandre (6%) pour agneau Rogan Josh. oignons déshydratés, huile de tournesol (contient antioxydant: E320)/ ail, tomates en poudre, herbes (7%) (feuilles de coriandre, feuilles de laurier, feuilles de IUgrec déshydratées), gingembre, sel, épices (5%) (poudre de piment rouge, graines de coriandre, graines de fenouil, curcuma, cannelle, cardamome, cumin, gingembre, clous girofle, noix de muscade), maltodextrine, piment vert, régulateurs d'acidité: acide acétique, acide citrique.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902301820788",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

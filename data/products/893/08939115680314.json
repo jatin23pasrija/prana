@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08939115680314",
+  "barcode_printed": "8939115680314",
+  "barcode_format": "EAN-13",
+  "name": "RO RE Energy Drink",
+  "brand": "ro-re",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 46,
+        "protein_g": 0,
+        "carbohydrate_g": 10.9,
+        "sugars_g": 10.9,
+        "fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Carbonated Water, Sugar, (Citric acid), Carbon Dioxide, Acidity Regulator (INS 331, INS 300), Class || Preservative (INS 211) , permitted natural colours (INS E150, INS 102), and flavour (natural identical flavouring substances) Niacin (B3), Pantothenic Acid (B5), B2, B6, B12)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939115680314",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725018696",
+  "barcode_printed": "8901725018696",
+  "barcode_format": "EAN-13",
+  "name": "Bingo Mad Angles Red Alert",
+  "brand": "bingo",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "RICE GRITS, SEASONING {REFINED PALMOLEN, SUGAR, FLAVOURING SUBSTANCES, ACIDITY REGULATORS (IN 330, 260,334, 1ODIZED SALT, 'SPICES AND CONDIMENTS, NATURE IDENTICAL 296), DEHYDRATED GARLIC, DEHYDRATED ONION, ARAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, FLAVOUR ENHANCER (INS 635), REFINED SUNFLOWER OIL), REFINED PALMOLEIN, DEGERMED CORN GRITS, AND BENGAL GRAM GRITS. USED AS FLAVOURING AGENTS. CONTAINS BARLEY. MAY CONTAIN WHEAT, MILK AND SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725018696",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

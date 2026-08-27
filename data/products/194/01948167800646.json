@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "01948167800646",
+  "barcode_printed": "1948167800646",
+  "barcode_format": "EAN-13",
+  "name": "Prolife probiotic buttermilk",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (120 g)",
+        "quantity": {
+          "value": 120,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 24,
+        "energy_kj": 100,
+        "protein_g": 2,
+        "carbohydrate_g": 2,
+        "fat_g": 0.8,
+        "saturated_fat_g": 0.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/1948167800646",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

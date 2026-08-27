@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005502636",
+  "barcode_printed": "8906005502636",
+  "barcode_format": "EAN-13",
+  "name": "Anjeer Dry Fruit",
+  "brand": "bikaji",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 430,
+        "protein_g": 10,
+        "carbohydrate_g": 60,
+        "sugars_g": 35,
+        "fat_g": 20,
+        "saturated_fat_g": 10,
+        "fibre_g": 15,
+        "sodium_mg": 65
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005502636",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

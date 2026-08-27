@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020461116",
+  "barcode_printed": "8906020461116",
+  "barcode_format": "EAN-13",
+  "name": "Rolez Danish Bun",
+  "brand": "harvest-gold",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Desiccated Coconut, Glazed Fruit [Papaya, Sugar, Acidity Regulator (330), Preservative (211), Food Color (129)], Edible Vegetable Fat (Margarine), Yeast, lodized Salt, Gluten, Preservative (282) and Nature-Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020461116",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08000500410974",
+  "barcode_printed": "8000500410974",
+  "barcode_format": "EAN-13",
+  "name": "Tic tac strawberry",
+  "brand": "tic-tac",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SUGAR, MALTODEXTRIN, ACIDITY REGULATORS (INS 330, INS 296, INS 334), THICKENER (INS 414), RICE STARCH, FLAVOURS (NATURAL FLAVOURS AND FLAVOURING SUBSTANCES, NATURE-IDENTICAL FLAVOURING SUBSTANCES), ANTICAKING AGENT (INS 4700), POWDERED STRAWBERRY, POWDERED LEMON JUICE, GLAZING AGENT (INS 903), SYNTHETIC FOOD COLOUR (INS 122).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8000500410974",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

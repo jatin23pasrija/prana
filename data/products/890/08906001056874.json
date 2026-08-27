@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001056874",
+  "barcode_printed": "8906001056874",
+  "barcode_format": "EAN-13",
+  "name": "Palak Paneer Cottage Cheese in Spinach Sauce - Just Heat and Eat",
+  "brand": "mothers-recipe",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kj": 373,
+        "protein_g": 5,
+        "carbohydrate_g": 6,
+        "sugars_g": 2,
+        "fat_g": 5,
+        "saturated_fat_g": 1,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 372.87
+      }
+    }
+  ],
+  "ingredients_raw": "Spinach (62 %), Paneer (Indian Cottage Cheese) (20 %), Onion, Cottonseed Oil, Garlic, Fresh Cream, Ginger, Tomato, Salt, Maize Starch, Green Chili and Spices (Cumin, Coriander, Turmeric, Black Pepper). Allergen Information: Contains Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001056874",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

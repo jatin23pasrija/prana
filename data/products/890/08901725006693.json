@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725006693",
+  "barcode_printed": "8901725006693",
+  "barcode_format": "EAN-13",
+  "name": "Besan",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 111,
+        "energy_kj": 465,
+        "protein_g": 6.8,
+        "carbohydrate_g": 18.6,
+        "sugars_g": 0,
+        "fat_g": 1.7,
+        "saturated_fat_g": 0.24,
+        "fibre_g": 2.8,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Bengal gram",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725006693",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

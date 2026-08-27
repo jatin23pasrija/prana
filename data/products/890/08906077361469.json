@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906077361469",
+  "barcode_printed": "8906077361469",
+  "barcode_format": "EAN-13",
+  "name": "Jeera Khari",
+  "brand": "jaimin",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (74%), Hydrogenated Vegetable Shortening, Salt, Cumin Seeds, Emulsifier-Mono and Di - Glycerides of Fatty Acids (E 471) & Antioxidant - Ascorbic Acid (E 300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906077361469",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

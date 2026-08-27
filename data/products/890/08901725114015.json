@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725114015",
+  "barcode_printed": "8901725114015",
+  "barcode_format": "EAN-13",
+  "name": "Aashirvaad Instant Khatta Meetha Poha",
+  "brand": "aashirvaad",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 397,
+        "protein_g": 7.2,
+        "carbohydrate_g": 72.6,
+        "sugars_g": 11,
+        "fat_g": 9.3,
+        "saturated_fat_g": 4,
+        "sodium_mg": 1363.2
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Flakes (62.2%), Sugar (7.6%), Refined Palm Oil, Peanut (5.6%), Raisin, lodized Salt, Dehydrated Onion (2.3%), Green Chilli Paste (1.8%), Dehydrated Potato, Spices and Condiments, Curry Leaves (0.5%), Coriander Leaves (0.5%), Proso Millet (0.5%), Foxtail Millet (0.5%), Barnyard Millet (0.5%), Kodo Millet (0.5%), Quinoa (0.5%),Dried Mango Powder (0.4%) Acidity Regulator (INS 296) and Antioxidant (INS 300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725114015",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

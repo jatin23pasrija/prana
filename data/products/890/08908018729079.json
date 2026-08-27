@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908018729079",
+  "barcode_printed": "8908018729079",
+  "barcode_format": "EAN-13",
+  "name": "Suchali's Artisan Multigrain Sandwich bread",
+  "brand": "suchali-s",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 264.32,
+        "protein_g": 10.34,
+        "carbohydrate_g": 48.09,
+        "sugars_g": 3.28,
+        "fat_g": 3.4,
+        "saturated_fat_g": 1.82,
+        "sodium_mg": 487.45
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour, White Flour, Yeast, Water, Butter, Milk, Melon Seeds, Flax Seeds, Chia Seeds, White Sesame Seeds, Oats, Salt, Sugar",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908018729079",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

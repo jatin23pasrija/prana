@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063201157",
+  "barcode_printed": "8904063201157",
+  "barcode_format": "EAN-13",
+  "name": "Chips - Pudina Treat",
+  "brand": "haldiram-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 528.3,
+        "protein_g": 7.6,
+        "carbohydrate_g": 55.6,
+        "sugars_g": 1,
+        "fat_g": 30.6,
+        "saturated_fat_g": 14.9,
+        "sodium_mg": 1299.9
+      }
+    }
+  ],
+  "ingredients_raw": "Potatoes (89%), Edible Vegetable Oil (Palmolein, Cotton Seed, Rice Bran), *Spices & Condiments [Garlic Powder, Coriander Powder, Cumin Powder, Cinnamon Powder, Turmeric Powder, Black Pepper Powder, Fenugreek Powder, Nutmeg Powder, Ginger Powder, Cardamom Powder, Amomum Seeds Powder, Cassia Powder, Fennel Powder, Orion Powder, Mace Powder, Asafoetida Powder, Amchur Powder, Tamarind Powder, Mint Leaves Powder (0.7%), Mustard Seed Powder], lodised Salt, Maltodextrin, Kidity Regulator (INS 330), Mint Leaves Extract, Natural & Nature Identical Flavouring Substances. *Used as Natural Flavouring Agent.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063201157",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

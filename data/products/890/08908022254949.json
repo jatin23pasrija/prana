@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08908022254949",
+  "barcode_printed": "8908022254949",
+  "barcode_format": "EAN-13",
+  "name": "Kulfi Caramel Protein Milk Shake",
+  "brand": "phab",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (200 ml)",
+        "quantity": {
+          "value": 200,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 90,
+        "protein_g": 10,
+        "carbohydrate_g": 13.9,
+        "sugars_g": 7.7,
+        "fat_g": 0.6,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 5,
+        "sodium_mg": 163.9
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908022254949",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

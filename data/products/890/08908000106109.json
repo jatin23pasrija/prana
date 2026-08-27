@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000106109",
+  "barcode_printed": "8908000106109",
+  "barcode_format": "EAN-13",
+  "name": "Tamarind Concentrate",
+  "brand": "indira-s-taste-and-goodness",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (10 g)",
+        "quantity": {
+          "value": 10,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 28,
+        "protein_g": 0.2,
+        "carbohydrate_g": 6.6,
+        "sugars_g": 0.3,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 0.14,
+        "sodium_mg": 3.7
+      }
+    }
+  ],
+  "ingredients_raw": "tamarind , water (for process) net weight: 150g mfd, date: use by: % batch no,: mrp: (incl, of all taxes) april-18-202 - april-17-2025 23b1078/7 manufactured , packed by: indira food pvt, ltd,, unit #5, lakshmi industrial estate, sy no, 10/1, kanakanagar, yelachenahalli, kanakapura road, bengaluru-560 078, for feedback/complaint, please write to us at the given address or call % m: 91 99002 60367 e splitz@indiatoda,in customer care executive, p: 91 90300 25137/38 w: www,indirafoods,in product % 3% nt in lories ि fee of india indira foods poorna santrupti",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000106109",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

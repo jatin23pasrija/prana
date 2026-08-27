@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08902167000089",
+  "barcode_printed": "8902167000089",
+  "barcode_format": "EAN-13",
+  "name": "Chana Masala",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Koriander, Getrocknete Mango, Salz, Chili, Kreuzkümmel, Melone, Granatapfelsame Ingwer, Schwarzes Salz, Schwarzer Pfeffer, Bockshornkleeblätter, Zimtstange, Minze, Kardamo Gewürznelken, Muskatnuss, Kümmel, Macisblüte, Grüner Kardamom Allergie-Hinweis: Kann Senfenthalten Kann Spuren von Schwefeldioxid und Sulfiten enthalten PRÉPARATION POUR PLAT DE POIS CHICHE rédients : Coriandre, mangue déshydratée, sel, piment rouge, cumin, poudre de melon brod graines de grenade, gingembre déshydraté, sel noir, poivre noir, feuilles de fenugrec, cannelle de menthe, cardamome noire, clous de girofle, noix de muscade, carvi, macis, cardamome Or: Raut contenir de la moutarde",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902167000089",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

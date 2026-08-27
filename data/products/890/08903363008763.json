@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363008763",
+  "barcode_printed": "8903363008763",
+  "barcode_format": "EAN-13",
+  "name": "Homechef tomato ketchup",
+  "brand": "home-chef",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, TOMATO PASTE (28%), IODIZED SALT, ACIDITY REGULATOR (INS 260), STABILIZERS (INS 1422, INS 415), SPICES AND CONDIMENTS (ONION POWDER, GARLIC POWDER AND MIXED SPICES), PRESERVATIVE (INS 211) AND PAPRIKA OLEORESIN (INS 160c (i)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363008763",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

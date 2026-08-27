@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725103651",
+  "barcode_printed": "8901725103651",
+  "barcode_format": "EAN-13",
+  "name": "fabelle dark chocolate",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "35.0 laluk, Bengaluru 38.2 Lic. No. 10012043000081 0.08 (H) ITC Ltd, No. 37, JL Nehru Road, Kolkata 22.5 700071 AT Food Unit-Il, Plot No. 1, Sector 11, IE, Ranipur, Sidcul, Haridwar-249 403 Lic. No.10017012000402 Rural of which sugar(g Fat (g Trans fat (g) Saturated fat (g) Approximate Values Ingredients: Dark chocolate shell (65%) [Cane sugar, Cocoa solids (29.2%), Cocoa butter (9.9%), Emulsifiers (INS 322(), INS 476), lodised sea salt and Artificial flavour Vanillal",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725103651",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

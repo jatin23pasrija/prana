@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08904320007034",
+  "barcode_printed": "8904320007034",
+  "barcode_format": "EAN-13",
+  "name": "honey",
+  "brand": "disano",
+  "category": "honey",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 326,
+        "protein_g": 0,
+        "carbohydrate_g": 81.5,
+        "sugars_g": 78.4,
+        "fat_g": 0,
+        "sodium_mg": 8.1
+      }
+    }
+  ],
+  "ingredients_raw": "Honey (100%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904320007034",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00000009122574",
+  "barcode_printed": "09122574",
+  "barcode_format": "EAN-8",
+  "name": "saunf",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "more CHOICE We know how proud you feel when your family savours a meal with as much enthusiasm as you make it. Which is why we ensure that every pack has only the cleanest and highestquality staples. Ir's part of our promise to give yoe Qualiy that makes you proud. Store ider coal and dry condition. After opening the pacs, kee he contents in an air tight container to presery a MARKETED PLEASE CHECK FOR PROMOTIONAL OFFERS IF ANY Lic Na. 10012022001022 8903023266934 MR R 430 KED ON 06 07.2018 FORE :02 01201 fectured",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/09122574",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

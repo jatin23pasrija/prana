@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030846304",
+  "barcode_printed": "8901030846304",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury Crackle",
+  "brand": "hindustan-unilever-limited",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 420,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "60g",
+        "quantity": {
+          "value": 60,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 155,
+        "protein_g": 2.3,
+        "carbohydrate_g": 19.2,
+        "sugars_g": 16.6,
+        "fat_g": 7.7,
+        "saturated_fat_g": 4.5,
+        "fibre_g": 0.6,
+        "sodium_mg": 36.58
+      }
+    }
+  ],
+  "ingredients_raw": "Chocolate, Liquid Glucose, Cocoa Solids, Paim Oil, Milk Solids, Maltodextrin, Emulsifier E Stabilizers (E412, E410). CONTAINS PERMITTED NATURAL COLOUR-E150d AND SYNTHETIC FOOD ADDED FLAVOUR (NATURAL, NATURE IDENTICAL AND ARTIFICIAL (VANILLA) FLAVOURING NGREDIENTS: Water, Chocolate Confectionery (14.6%) [Water, Sugar, Condensed mik, Dhucolate Coated Butterscotch Confectionery (10.1%) [Outer Layer (Milk Chocolate): Cadbury Dairy Sugar, Milk Solids, Cocoa Butter, Cocoa Solids, Emulsifiers (E442, E476). CONTAINS COLOURS-E122, E133, E102 AND ADDED ARTIFICIAL VANILLA FLAVOURING SUBSTANCE Su IESTANCES) (Allergen information: Contains Milk.), Cocoa Butter, Glazing Agent E Sabilizers (E1400, E414), Emulsifier (E476) & Preservative (E202), Inner Layer (Buttersenten Confectionery): Sugar, Salted Butter, Cashew Nuts, lodised Salt], Palm Oil, Milk Solids. Linud Gucose, Cocoa Solids, Emulsifier (E471), Vegetable Protein (Soy), Stabilisers - E412. E410, EAIT. Contains Milk Solids, Soy & Cashew Nuts. May Contain Traces of Other Treenuts. NTANS PERMITTED NATURAL COLOUR - E150d AND SYNTHETIC FOOD COLOURS-E122, E102. E133 AND ADED PLAVOUR-NLATURE IDENTICAL (CHOCOLATE) AND ARTIFICIAL (VANILLA & MILK) FLAVOURING SUBSTARIDCES CONTAINS 10.2% EDIBLE VEGETABLE OIL AND VEGETABLE PROTEIN PRODUCT ForTe presentative puurposes onty CRACKLE are trademarks of Mondeléz International",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030846304",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

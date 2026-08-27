@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207028809",
+  "barcode_printed": "8901207028809",
+  "barcode_format": "EAN-13",
+  "name": "Brahmi Amla Hair Oil",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Mineral Oil 85.5%, Vegetable Oils including Brahmi Amla Extract 13% Perfume, Almond Oil, Vitamin E Acetate, Antioxidant-TBHQ, CI 47000, 061565,026100, Benzyl alcohol, Amyl Cinnamal, Citronellol, Coumarin, Geraniol, d-Limonene, Linalcol",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207028809",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

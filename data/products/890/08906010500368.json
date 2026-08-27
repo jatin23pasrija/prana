@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500368",
+  "barcode_printed": "8906010500368",
+  "barcode_format": "EAN-13",
+  "name": "Tikha Mitha Mix",
+  "brand": "balaji-namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 468,
+        "protein_g": 12.1,
+        "carbohydrate_g": 65,
+        "sugars_g": 12.3,
+        "fat_g": 17.7
+      }
+    }
+  ],
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein), Chickpea Flour (18%), Green Peas (12%), Rice Flakes (11%), Roasted Peanut (9%), Chickpea Splits (7%), Sugar(7%), Corn Flakes (6%), Rice Flour, Spices & Condiments 5% (Chilli Powder. Sesame Seeds, Curry Leaves, Coriander Powder, Turmeric Powder, Fennel Powder, Dry Mango Powder, Black Pepper, Cumin Powder, Carom Seed, Ginger Powder, Clove Powder, Cinnamon, Cardamom, Nutmeg, Mace, Bay Leaves), lodized Salt, Acidity Regulator (INS 330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500368",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

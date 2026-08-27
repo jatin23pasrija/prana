@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363008275",
+  "barcode_printed": "8903363008275",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Yellow Chana",
+  "brand": "dmart-premia",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Marked By: Avenue Supermarts Ltd. (ASL), Anjaneya Ltd., Orchard Avenue, Opp. Hiranandani ndation School, Powai, Mumbai-400076, Maharashtra. fssat Lic. No. 10018022008191 For Feedback/Suggestions, Please Contact Consumer are Executive At 'Marketed By' Address Email suggestion@dmartindia.com Phon No.: 022-71230555 dients: Roasted Gram, Edible Common Salt & Turmeric (No. of Servings per Pack = 4 ]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363008275",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

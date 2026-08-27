@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904422712119",
+  "barcode_printed": "8904422712119",
+  "barcode_format": "EAN-13",
+  "name": "Groundnut Oil",
+  "brand": "patanjali",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Groundnut Oil, Antioxidant (INS 319), Antifoaming Agent (INS 900a), Vitamin A (25 IU Per Gram) & Vitamin D (4.5 IU Per Gram)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904422712119",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

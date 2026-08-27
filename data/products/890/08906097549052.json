@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906097549052",
+  "barcode_printed": "8906097549052",
+  "barcode_format": "EAN-13",
+  "name": "truffle selection, orange",
+  "brand": "sapphire",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 440,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 546,
+        "protein_g": 7.8,
+        "carbohydrate_g": 59,
+        "sugars_g": 58,
+        "fat_g": 31,
+        "saturated_fat_g": 18,
+        "trans_fat_g": 0,
+        "sodium_mg": 132
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Refined Hydrogenated Vegetable Fat (Palm), Milk Solids, Maltodextrin, Cocoa Powder, Emulsifiers (INS 322, INS 476), Edible Common Salt, Food Color, Flavors. CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (SUNSET YELLOW-INS 110) AND ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCE - ORANGE, ARTIFICIAL FLAVOURING SUBSTANCE - MILK).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906097549052",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

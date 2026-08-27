@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719130144",
+  "barcode_printed": "8901719130144",
+  "barcode_format": "EAN-13",
+  "name": "Parle Hide & Seek Cookies",
+  "brand": "parle-biscuits-pvt-ltd",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 412.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, CHOCO CHIPS (17.3%) ISUGAR, EDIBLE VEGETABLE FAT (HYDROGENATED OILS), COCOA SOLIDS, DEXTROSE, EMULSIFIER (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)], REFINED PALM OIL, CHOCOLATE (5.8%) ISUGAR, COCOA SOLIDS, COCOA BUTTER, DEXTROSE, EMULSIFIER (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA], INVERT SUGAR SYRUP, RAISING AGENTS (508(1), 500], COCOA SOLIDS, IODISED SALT, ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES AND EMULSIFIER OF VEGETABLE ORIGIN (472e]. CONTAINS: WHEAT, SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719130144",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

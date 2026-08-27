@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063371057",
+  "barcode_printed": "8901063371057",
+  "barcode_format": "EAN-13",
+  "name": "marie gold",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (73%), SUGAR, of which Total Sugars-21.2g, Added Sugars the Lot/Batch No. printed on the pack REFINED PALM OIL, INVERT SUGAR SYRUP, MILK PRODUCTS (MILK Total Fat-10.6g/[2], Saturated fatty acids-5 SOLIDS&SWEETENED CONDENSED PARTLY SKIMMED MILK), RAISING AGENTS [503(ii) & 500(ii)], IODISED SALT, MINERALS** ARTIFICIAL (MILK & VANILLA) & NATURE IDENTICAL FLAVOURING SUBSTANCES, EMULSIFIER (472e), DOUGH CONDITIONER (223), VITAMINS AND COLOUR (150d). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SULPHITE. For - Contact: Ph.: unsaturated fatty acids-4g, Poly unsaturated Trans fatty acids-Og/[0], Cholesterol-Omg, Sa Calcium** 150mg, lodine** 21mcg, Iron 2. Vitamin B10.2mg, Vitamin B2*-0.3mg, Vitan Pantothenic acid⭑-0.8mg. Vitamin 860.3mg, Vitamin B12*-0.4mcg, Fol Allowance of",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063371057",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

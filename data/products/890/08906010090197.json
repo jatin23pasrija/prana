@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010090197",
+  "barcode_printed": "8906010090197",
+  "barcode_format": "EAN-13",
+  "name": "Dlecta Natural Cheddar",
+  "brand": "dlecta",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 387.26,
+        "energy_kj": 1621,
+        "protein_g": 23.66,
+        "carbohydrate_g": 6.78,
+        "sugars_g": 0,
+        "fat_g": 29.5,
+        "saturated_fat_g": 15.61,
+        "trans_fat_g": 0.61,
+        "sodium_mg": 0.33
+      }
+    }
+  ],
+  "ingredients_raw": "PASTEURIZED MILK, PAST STABILIZER (INS 509), MICROBIAL CULTU CONTAINS NO ADDED FLAVOUR&NO A CONTAINS MILK SURFACE TREATED STORED REFRIGERATED AT BETWEEN 2 USE WITHIN 3 DAYS OF OPENING MANUFACTURED & MARKETED BY DLEC SURVEY NO. 148/1&148/2, VILLAGE UMBRE TALUKA: KHALAPUR, DIST-RAIGAD-410200 MAHARASHTRA, INDIA. I WEB: WWW.d FOR SUGGESTIONS/COMPLAINTS PLEAS CONSUMER CARE EXECUTIVE AT MARKET EMAIL: consumercare@dlecta.com TEL: 022 42313090 CPCB REG. NO. BO-03-000-08-AAACC2407/22 BATCH NO.: LEROLOLATED ON THE BASS 200 ENERGY FOR AN AVERAGE ADULT MRP INCL OF ALL TAXES USP g DATE OF PACKAGING: 8 906010 090197 2 USE BY: - NN 1 F",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010090197",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

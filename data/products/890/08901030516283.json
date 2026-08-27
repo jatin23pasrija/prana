@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030516283",
+  "barcode_printed": "8901030516283",
+  "barcode_format": "EAN-13",
+  "name": "Sweet corn vegetable soup",
+  "brand": "knorr",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 44,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 9.09,
+        "protein_g": 9.09,
+        "carbohydrate_g": 69.09,
+        "sugars_g": 22.73,
+        "fat_g": 9.09,
+        "saturated_fat_g": 0,
+        "sodium_mg": 4936.36
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030516283",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

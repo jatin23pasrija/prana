@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552021364",
+  "barcode_printed": "8901552021364",
+  "barcode_format": "EAN-13",
+  "name": "Ashoka Matar Paneer (tofu)",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": ".' Eau, Pois Verts, Soja Paneer (Tofu (les graines de soja, Eau, acide citrique, Sel)), Oignon, lait de coco, Huile De Tournesol, Noix De Cajou, L'ail, Pâte De Tomates, Gingembre, Sel, Poudre De Piment Rouge, Amidon de maïs, Piment Vert, Cumin, Piment Rouge Entier, Coriandre, Curcuma, Feuilles De Fenugrec Séchées.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552021364",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009918048",
+  "barcode_printed": "8908009918048",
+  "barcode_format": "EAN-13",
+  "name": "Protein & Herbs",
+  "brand": "oziva",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 381.61,
+        "protein_g": 69.7,
+        "carbohydrate_g": 16.42,
+        "sugars_g": 4.67,
+        "fat_g": 5.37,
+        "saturated_fat_g": 3.27,
+        "fibre_g": 4.56,
+        "sodium_mg": 145.36
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009918048",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

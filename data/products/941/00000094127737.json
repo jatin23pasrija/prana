@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "00000094127737",
+  "barcode_printed": "94127737",
+  "barcode_format": "EAN-8",
+  "name": "Hershey's chocolate flavored syrup",
+  "brand": "hershey",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 276.5,
+        "protein_g": 1.27,
+        "carbohydrate_g": 66.6,
+        "sugars_g": 63.7,
+        "fat_g": 0.56,
+        "saturated_fat_g": 0.5,
+        "sodium_mg": 72.7
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Water, Invert Sugar, Liquid Glucose, Cocoa Solids (5%), Natural Food Colour (150a), Malt Extract, Oligofructose, Thickener (415), Preservative (202), Edible Common Salt and Flavours (Nature Identical and Artificial (Vanilla) Flavouring Substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/94127737",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058006285",
+  "barcode_printed": "8901058006285",
+  "barcode_format": "EAN-13",
+  "name": "Instant noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 364,
+        "energy_kj": 1524,
+        "protein_g": 8.2,
+        "carbohydrate_g": 59.6,
+        "sugars_g": 1.8,
+        "fat_g": 12.5,
+        "saturated_fat_g": 8.2,
+        "trans_fat_g": 0.13,
+        "sodium_mg": 1028.3
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles of refined wheat flour (Maida), Palm oil, lodized salt, Wheat gluten, Tumenc Find out more If a se NUT INF Ene C Thickeners (2), Acidity regulators (501 (i) & 500 (i)) and Humectant (451 (i)). Pr TASTEMAKER: Mixed spices (25.6%) (Onion powder, Coriander powder, Ginger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder, Red chilli powder, Garlic powder, Cumin powder, Aniseed powder, der & Nutmeg powder), Refined wheat flour (Maida), Hydrolysed groundnut protein, Palm oil, Starch, lodized salt, Thickener (508), Flavour enhancer (635), Toasted flakes, Acidity regulator (330), Colour (150d), Mineral and Wheat gluten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058006285",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

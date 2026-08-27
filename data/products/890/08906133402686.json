@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906133402686",
+  "barcode_printed": "8906133402686",
+  "barcode_format": "EAN-13",
+  "name": "Little Joys Eye Health Gummies",
+  "brand": "little-joys",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Fructooligosaccharides (FOS) Dietary fibre, Proprietary Fruits and vegetables antioxidant blend (strawberry powder, orange juice powder, spinach powder & carrot powder), Pectin (E440), Acidity Regulator (E330), Flaxseed DHA (Docosahexaenoic acid), Lutemax® 2020 (Lutein & Zeaxanthin), Vitamin A (Retinyl palmitate), Vitamin C (L-Ascorbic acid), Vitamin E (D-alpha tocopherols), Zinc (Zinc citrate dihydrate), Amla extract, Black carrot extract, Natural Strawberry flavour, Guar Gum, Maize Starch.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906133402686",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

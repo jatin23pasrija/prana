@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009192035",
+  "barcode_printed": "8908009192035",
+  "barcode_format": "EAN-13",
+  "name": "Indira's Ragi Masala Idli",
+  "brand": "indira-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 407.5,
+        "protein_g": 8.75,
+        "carbohydrate_g": 61.25,
+        "sugars_g": 0.75,
+        "fat_g": 14.5,
+        "saturated_fat_g": 2.25,
+        "fibre_g": 2.25,
+        "sodium_mg": 1075
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009192035",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

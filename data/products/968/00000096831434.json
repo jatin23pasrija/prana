@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "00000096831434",
+  "barcode_printed": "96831434",
+  "barcode_format": "EAN-8",
+  "name": "Continental This is Caramel coffee",
+  "brand": "continental-coffee-limited",
+  "category": "coffee",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 22,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 92.3,
+        "protein_g": 0.79,
+        "carbohydrate_g": 15.3,
+        "sugars_g": 11.6,
+        "fat_g": 3,
+        "saturated_fat_g": 3,
+        "fibre_g": 1.5,
+        "sodium_mg": 63.91
+      }
+    }
+  ],
+  "ingredients_raw": "Coffee creamer [Glucose syrup, Hydrogenated vegetable fat, Sodium caseinate (Milk Protein), Emuisifier (471), Stabilizer (340( 331 452) Anti-caking agent (551), Dairy Flavour), Sugar, Instant Coffee (718%) & Salt. CONTAINS ADDED FLAVOURS (NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCE) Ingredients after reconstitution: Water, Coffee creamer [Glucose syrup, Hydrogenated vegetable fat, Sodium Caseinate (Milk Protein), Emulsfer(471), Sttabilizer340.337.452), Anti-caking agent 551), Dairy Flavour), Sugar, Instant Coffee & Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/96831434",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

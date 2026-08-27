@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08801043054768",
+  "barcode_printed": "8801043054768",
+  "barcode_format": "EAN-13",
+  "name": "Shin Kimchi",
+  "brand": "nongshim",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "NOODLES: WHEAT FLOUR, STARCHES (WHEAT), VEGETABLE OIL (CONTAINS ANTIOXIDANT (307b)), S MINERAL SALTS (501, 500, 339), EMULSIFIER (322, SC SOY SAUCE (SOY, WHEAT, SALT), SWEETENER (420), COLOUR (101). SOUP BASE: SALT, MALTODEXTRIN, SUGAR, FLAVOUR ENHANCERS (621, 627, 631), HYDROLYSED VEGETABLE PROTEIN (SOY, WHEAT), YEAST EXTRACT, STARCHES (WHEAT), SOY, THICKENERS (412, 414), FOOD ACID (330), GLUCOSE, VEGETABLE OILS (SOY), COLOUR (150c), SOY SAUCE (SOY, WHEAT, SALT), EMULSIFIER (322, SOY), GARLIC. FLAKES: DRIED VEGETABLES, DRIED KIMCHI (1%, VEGETABLES, SALT). CONTAINS: WHEAT, GLUTEN, SOY. MAY CONTAIN CRUSTACEAN, MOLLUSC, EGG, FISH, PEANUT, MILK, TREE NUTS AND SESAME.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8801043054768",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

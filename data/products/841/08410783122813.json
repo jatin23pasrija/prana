@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08410783122813",
+  "barcode_printed": "8410783122813",
+  "barcode_format": "EAN-13",
+  "name": "Chorizo Barbecue",
+  "brand": "noel",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Viande et graisse de porc, eau, paprika, sel, maltodextrine, dextrose, ail, antioxydant (E316), noix de muscade, conservateurs (E250, E252), origan.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8410783122813",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901047619267",
+  "barcode_printed": "8901047619267",
+  "barcode_format": "EAN-13",
+  "name": "Coconut moilee",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 375,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "COOKING SAUCE SINCE *** 1981 KOHINOOR kenalan COCONUT MOILEE AROMATIC RICH COCONUT SAUCE WITH TOMATO, CORIANDER AND TAMARIND JUST ADD SEAFOOD 375ge SFR SERVE SERVING W VEGE Fat Each 125g serving contains Saturates Sugars Salt 12.0g 6.6g 4.4g 0.91a Energy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901047619267",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

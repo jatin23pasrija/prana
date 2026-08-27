@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08850291100499",
+  "barcode_printed": "8850291100499",
+  "barcode_format": "EAN-13",
+  "name": "Party Snack",
+  "brand": "tong-garden",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30 g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 150,
+        "protein_g": 6,
+        "carbohydrate_g": 15,
+        "sugars_g": 2,
+        "fat_g": 7,
+        "saturated_fat_g": 2,
+        "fibre_g": 3,
+        "sodium_mg": 140
+      }
+    }
+  ],
+  "ingredients_raw": "nɔjnišiñu, party snack ถั่วอบผสมแป้งกรอบ (ตรา ทองการ์เด้น) inredients: green peas, peanuts, wheat flour, broad beans, palm olein gldinous rice flour, sugar, iodised salt, seasoning (contains garlic, pat chil cumin, turmeric, non dairy creamer, soybean, shallot), garlic, sest seeds, chili powder, pepper, artificial colour [tartrazine (e102), brilliant b fcf (e133), sunset yellow fcf (e110)], natural colour [curcumin (e10 annato (e160b)], packaging gas [nitrogen (e941)] ประกอบที่สำคัญ: ถั่วลันเตาเขียว 29%, ถั่วลิสง 22%, แป้งสาลี 16%, ถ้่วปากอ้า háula 5%, uüvinoinüaɔ 4%, tnana 3,5%, nãolalañu 2%, uvuşusa เอง กระเทียม, พริกไทย, พริก, ยี่หร่า, ขมิ้น, ครีมเทียม, ถั่วเหลือง หัวหอม) 1,5 l,run 1%, ušn 0,5%, wšnina 0,5%, đabiast:í (ins 102, ins 133, n (ins 100(0), ins 160b(0)], ñnuridoalunmsiñušnunonns (ins 941 y information: this product contains peanuts, tree n eans, gluten(wheat) and sesame seeds, processed in a d also process sulnh er may conta",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8850291100499",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904145912469",
+  "barcode_printed": "8904145912469",
+  "barcode_format": "EAN-13",
+  "name": "PediaSure Chocolate Flavour",
+  "brand": "abbot",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 375,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SKIM MILK POWDER, SUCROSE, EDIBLE VEGETABLE OIL (SOY OIL, HIGH OLEIC SUNFLOWER OIL), MALTODEXTRIN, COCOA POWDER (3.2%), FRUCTO-OLIGOSACCHARIDE (FOS) (1.9%), COLOR (CARAMEL III POWDER), MEDIUM CHAIN TRIGLYCERIDE (MCT) OIL, FLAVORING(S) (NATURAL, NATURE IDENTICAL AND ARTIFICIAL FLAVORING SUBSTANCES - CHOCOLATE), L-ARGININE HCI, MINERALS, CASEIN HYDROLYSATE (0.34%), VITAMINS&quot;, M-INOSITOL, TAURINE, L-CARNITINE, LACTOBACILLUS ACIDOPHILUS (0.001%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904145912469",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

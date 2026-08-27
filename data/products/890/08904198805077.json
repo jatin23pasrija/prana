@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904198805077",
+  "barcode_printed": "8904198805077",
+  "barcode_format": "EAN-13",
+  "name": "Euro Farali Chiwda Mitha",
+  "brand": "euro",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potatoes (69%), Refined Palmolein Oil, Peanuts (15%), Sugar, Cumin Seeds - Powder, Dried Mango Powder, Rock Salt, Chilli Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904198805077",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

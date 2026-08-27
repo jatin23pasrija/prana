@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071705448",
+  "barcode_printed": "8901071705448",
+  "barcode_format": "EAN-13",
+  "name": "Hershey's Genuine Syrup Chocolate Flavor",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "protein_g": 0.6,
+        "carbohydrate_g": 19.2,
+        "sugars_g": 13.2,
+        "fat_g": 0.6,
+        "saturated_fat_g": 0.1,
+        "trans_fat_g": 0,
+        "sodium_mg": 21.8
+      }
+    }
+  ],
+  "ingredients_raw": "sugar, water, invert sugar, liquid glucose, cocoa powder (4%), natural food color (150a), cocoa solids (2%), malt extract, thickener (INS 415), preservative (202), iodized salt, natural identical flavoring substances (vanilla)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071705448",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

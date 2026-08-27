@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005610683",
+  "barcode_printed": "8906005610683",
+  "barcode_format": "EAN-13",
+  "name": "Marble Cake Sliced",
+  "brand": "winkies",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 395.91,
+        "protein_g": 4.87,
+        "carbohydrate_g": 63.98,
+        "sugars_g": 35.96,
+        "fat_g": 13.39,
+        "saturated_fat_g": 7.39,
+        "trans_fat_g": 0.65
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flour, Eggs, Sugar, Edible/Hydrogenated Vegetable Oils, Humectants (422,420), Water, Invert Syrup, Cocoa Solids, Butter, Emulsifiers (471, 491, 1520), Raising Agent [500 (ii)] & Baking Powder, Edible Common Salt, Class II Preservative (200), Acidity Regulator (330), Stabilizer (415). Contains Permitted Natural Colour(s) (150d) and Flavour(s) [Artificial Flavouring Substances (Chocolate and Vanilla)]. Hydrogenated vegetable fat used – contains trans fats.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005610683",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

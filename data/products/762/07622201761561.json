@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201761561",
+  "barcode_printed": "7622201761561",
+  "barcode_format": "EAN-13",
+  "name": "Dairy Milk Silk Fruit & Nut",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 137,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 532,
+        "energy_kj": 2227,
+        "protein_g": 7.8,
+        "carbohydrate_g": 58.1,
+        "sugars_g": 50.9,
+        "fat_g": 30.4,
+        "saturated_fat_g": 18.7,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 104
+      }
+    }
+  ],
+  "ingredients_raw": "Composite Chocolate gredients: Sugar, Milk Solids (20%), Cocoa Butter, Cocoa Solids, Raisins (9%), Cashew Nuts (5%),Apricot Kernels (3%), Emulsifiers (E 442,E 476),Natural Flavouring Substances,Nature Identical Flavouring Substances,Artificial Flavouring Substances(Vanilla). _Contains Milk,Cashew Nut.May Contain Wheat, Barley, Soy ,Other Tree Nuts_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201761561",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

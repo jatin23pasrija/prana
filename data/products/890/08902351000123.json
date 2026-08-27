@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08902351000123",
+  "barcode_printed": "8902351000123",
+  "barcode_format": "EAN-13",
+  "name": "Sobisco Desire Strawberry Cream",
+  "brand": "sobisco",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 18,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 83.93,
+        "protein_g": 0.85,
+        "carbohydrate_g": 9.4,
+        "sugars_g": 4.43,
+        "fat_g": 4.77,
+        "saturated_fat_g": 1.54,
+        "sodium_mg": 110
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (26.07%), SUGAR, HYDROGENATED TABLE OIL/REFINED PALMOLEIN OIL, EGG LIQUID, WATER, HUMECTANTS (E420,E422), HMCS, MILK SOLIDS, INVERT SYRUP, EMULSIFIERS (E471, E477), BAKING POWDER, CORN STARCH, SALT, RAISING AGENT (E503), CLASS II PRESERVATIVES (E200, E319), ACIDITY REGULATOR (E330) & STABILIZER (E415). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (E122) AND ADDED ARTIFICIAL FLAVOURS (STRAWBERRY & VANILLA).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902351000123",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

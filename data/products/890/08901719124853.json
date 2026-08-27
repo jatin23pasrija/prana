@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719124853",
+  "barcode_printed": "8901719124853",
+  "barcode_format": "EAN-13",
+  "name": "PARLE HIDE AND SEEK",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 Biscuit Pack (2 Cookies) (25 g)",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 130.5,
+        "protein_g": 1.3,
+        "carbohydrate_g": 16.27,
+        "sugars_g": 7.9,
+        "fat_g": 6.68,
+        "saturated_fat_g": 3.98,
+        "sodium_mg": 48.25
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719124853",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

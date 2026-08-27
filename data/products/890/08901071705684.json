@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071705684",
+  "barcode_printed": "8901071705684",
+  "barcode_format": "EAN-13",
+  "name": "Hershey's Special Dark Chocolate Bar",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 535,
+        "protein_g": 5,
+        "carbohydrate_g": 62,
+        "sugars_g": 52.3,
+        "fat_g": 29.7,
+        "saturated_fat_g": 18,
+        "trans_fat_g": 0.2,
+        "sodium_mg": 14.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071705684",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

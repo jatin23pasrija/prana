@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058847482",
+  "barcode_printed": "8901058847482",
+  "barcode_format": "EAN-13",
+  "name": "Maggie Pazzta Chese Macaroni",
+  "brand": "maggi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 351,
+        "energy_kj": 1470,
+        "protein_g": 11.5,
+        "carbohydrate_g": 68.3,
+        "sugars_g": 2.5,
+        "fat_g": 3.5,
+        "saturated_fat_g": 1.7,
+        "sodium_mg": 538.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058847482",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

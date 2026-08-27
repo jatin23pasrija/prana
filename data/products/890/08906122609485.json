@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906122609485",
+  "barcode_printed": "8906122609485",
+  "barcode_format": "EAN-13",
+  "name": "Harsh Waffela",
+  "brand": "harsh",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SUGAR, REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, MALTODEXTRIN, REFINED PALM KERNEL OIL, STARCH, EMULSIFIER (INS 322(i)), NATURE CAL FLAVOURING SUBSTANCES (ORANGE), IODIZED SALT, RAISING AGENT [INS 500(ii)], CONDITIONER (INS 223), COLOUR (110) AND ACIDITY REGULATOR (INS 296).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906122609485",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

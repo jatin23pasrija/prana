@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906119721602",
+  "barcode_printed": "8906119721602",
+  "barcode_format": "EAN-13",
+  "name": "IMPACT WHEY PROTEIN",
+  "brand": "osoaa",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (48 g)",
+        "quantity": {
+          "value": 48,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 177.55,
+        "protein_g": 24.24,
+        "carbohydrate_g": 16.1,
+        "sugars_g": 13.16,
+        "fat_g": 1.79,
+        "saturated_fat_g": 0.58,
+        "trans_fat_g": 0.02,
+        "sodium_mg": 7.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906119721602",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906107173642",
+  "barcode_printed": "8906107173642",
+  "barcode_format": "EAN-13",
+  "name": "Veg Supreme Pizza Minis",
+  "brand": "prasuma",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 226.49,
+        "protein_g": 10.64,
+        "carbohydrate_g": 19.95,
+        "sugars_g": 0.8,
+        "fat_g": 11.57,
+        "saturated_fat_g": 6.1,
+        "trans_fat_g": 0.02,
+        "sodium_mg": 887.1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906107173642",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

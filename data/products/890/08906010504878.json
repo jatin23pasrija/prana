@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010504878",
+  "barcode_printed": "8906010504878",
+  "barcode_format": "EAN-13",
+  "name": "Khichiya Papad",
+  "brand": "balaji-wafers",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 397,
+        "protein_g": 4.4,
+        "carbohydrate_g": 87.2,
+        "sugars_g": 1.4,
+        "fat_g": 2.9,
+        "saturated_fat_g": 1,
+        "fibre_g": 2.1,
+        "sodium_mg": 1280
+      }
+    }
+  ],
+  "ingredients_raw": "RICE FLOUR (97%), EDIBLE COMMON SALT, INS 500(II), CUMIN SEEDS (0.05%), INS 330",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010504878",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

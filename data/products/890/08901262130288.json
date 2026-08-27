@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262130288",
+  "barcode_printed": "8901262130288",
+  "barcode_format": "EAN-13",
+  "name": "Amul Pro",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Malt Extract, Sugar, Parialy Skimmed Milk Powder, Whey Powder, Carame., Cocoa (Processed with Alkai), Emusifiers (Soy Locithin, Mono & Di-Gyceicdes Of Fally Acie) Baking Soda, Nataral & Natareidentical Flavors, Beet Juice Powder, DHA, Salt. Allergen Information: Contains Milk & Soy. Made in a facility that processes food containing tec-nuts, wheat, peanuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262130288",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

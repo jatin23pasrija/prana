@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08906143621275",
+  "barcode_printed": "8906143621275",
+  "barcode_format": "EAN-13",
+  "name": "Barley Ladoo",
+  "brand": "prolicious",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 501.6,
+        "protein_g": 21.8,
+        "carbohydrate_g": 48.6,
+        "fat_g": 27.4,
+        "saturated_fat_g": 20.6,
+        "fibre_g": 13.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906143621275",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

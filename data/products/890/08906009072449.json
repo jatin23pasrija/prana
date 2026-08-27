@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009072449",
+  "barcode_printed": "8906009072449",
+  "barcode_format": "EAN-13",
+  "name": "Snappers Cream n'Onion",
+  "brand": "unibic",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Refined Oil (Paim and Palmolein), Sugar, Dehydrated Potato Flakes [Potato (6%), Emulsifier (E 471). Stabilizer E 450 i), Antioxidants (E 223, E 330)], Seasoning Powder [Sugar, lodized Salt, Milk Solids, Onion Powder, Dehydrated Herbs, Cheese Powder, Spices and Condiments, Acidity Regulator (E330), Yeast Extract, Flavour Enhancers (E 627, E 631)). Liquid Glucose, Starch, lodized Salt, Invert Syrup, Milk Solids. Raising Agents (E 500 ii, E 503 ii). Emulsifiers (E 322 from Soya, E 471), Flour Treatment Agents [E 223, E 1101 (i)]. CONTAINS ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009072449",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

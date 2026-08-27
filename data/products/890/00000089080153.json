@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00000089080153",
+  "barcode_printed": "89080153",
+  "barcode_format": "EAN-8",
+  "name": "Maggi masala magic",
+  "brand": "maggi",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 6,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Mixed spices (38.7%) (Red chilli powder (7%), Onion powder Cumin powder (5.2%), Garlic powder Coriander powder, Capsicum extract, Turmeric powder (3.5%), Aniseed (1.4%), Black pepper powder (0.9%), Fenugreek powder (0.7%), Ginger powder, Clove powder (0.3%), Green cardamom powder (0.3%), Nutmeg powder (0.3%). Coriander extract & Cumin extract) Salt Sugar Flavour enhancer (635), Palm oil, Edible starch, Balm Acidity regulator (330), Minerals&quot;, Caramel salt mix (Salt, Colour (150d) & Palm oil) and Vitamin A.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89080153",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

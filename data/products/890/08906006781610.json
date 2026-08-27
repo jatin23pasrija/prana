@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906006781610",
+  "barcode_printed": "8906006781610",
+  "barcode_format": "EAN-13",
+  "name": "Red Chilli Sauce",
+  "brand": "winn",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Sugar, Liquid Glucose, Iodized Salt, Garlic, Red Chill Acidity Regulator (INS260), Emulsifying & Stabilizing Agent (INS1422, INS415), Garlic Powder, Ginger Powder, Spices & Condiments, Preservative (INS211) CONTAINS PERMITTED CLASS II PRESERVATIVE (INS211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906006781610",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

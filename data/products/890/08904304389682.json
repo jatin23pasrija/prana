@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904304389682",
+  "barcode_printed": "8904304389682",
+  "barcode_format": "EAN-13",
+  "name": "Idly/dosa quinoa batter",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 47,
+        "protein_g": 1.75,
+        "carbohydrate_g": 7.02,
+        "sugars_g": 0,
+        "fat_g": 0.39,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 1.2,
+        "sodium_mg": 470
+      }
+    }
+  ],
+  "ingredients_raw": "Quinoa, rice, urad dhall (lentil), rice flakes, salt and water.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904304389682",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

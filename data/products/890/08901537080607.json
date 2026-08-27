@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901537080607",
+  "barcode_printed": "8901537080607",
+  "barcode_format": "EAN-13",
+  "name": "Devayya Sona Masoori",
+  "brand": "devaaya",
+  "category": "rice",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "45"
+      },
+      "values": {
+        "energy_kcal": 169.36,
+        "protein_g": 3.84,
+        "carbohydrate_g": 33.99,
+        "fat_g": 1.19,
+        "fibre_g": 3.65,
+        "sodium_mg": 1336
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901537080607",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

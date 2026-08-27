@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "gtin": "00890237000047",
+  "barcode_printed": "0890237000047",
+  "barcode_format": "EAN-13",
+  "name": "Cuajada hondureña",
+  "brand": "la-cremosita",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 70,
+        "protein_g": 5,
+        "carbohydrate_g": 1,
+        "fat_g": 5,
+        "saturated_fat_g": 3.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0890237000047",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

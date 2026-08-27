@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08904145911370",
+  "barcode_printed": "8904145911370",
+  "barcode_format": "EAN-13",
+  "name": "Ensur diabetes 200 g",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "POWDER (PER 100 G) THIS PACK CONTAINS ABOUT 4 SERVES. % RDA PER SERVETA ENERGY PROTEIN",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904145911370",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08904192221095",
+  "barcode_printed": "8904192221095",
+  "barcode_format": "EAN-13",
+  "name": "Garlic Mixture",
+  "brand": "think-snack",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 595,
+        "protein_g": 11.9,
+        "carbohydrate_g": 39.8,
+        "sugars_g": 0.5,
+        "fat_g": 43.1,
+        "saturated_fat_g": 5.1,
+        "fibre_g": 1.8,
+        "sodium_mg": 856
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904192221095",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

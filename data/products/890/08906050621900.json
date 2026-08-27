@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906050621900",
+  "barcode_printed": "8906050621900",
+  "barcode_format": "EAN-13",
+  "name": "Ginger garlic paste",
+  "brand": "la-soon",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 61,
+        "energy_kj": 255,
+        "protein_g": 1,
+        "carbohydrate_g": 12.5,
+        "sugars_g": 0,
+        "fat_g": 0.2,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Fresh Garlic (65%), Fresh Ginger (35%), Water, Salt, Acetic Acid & Citric Acid (Acidity Regulator, E260 & E330), Xanthan Gum (Stabilizing & Emulsifying Agent, E415). Sodium Benzoate (Preservative, E211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906050621900",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

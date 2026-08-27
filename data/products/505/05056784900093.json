@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "05056784900093",
+  "barcode_printed": "5056784900093",
+  "barcode_format": "EAN-13",
+  "name": "Orange Dreamsicle",
+  "brand": "monster",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, SUCROSE, GLUCOSE SYRUP, ACID (CITRIC ACID), TAURINE (0.4%), ACIDITY REGULATOR (SODIUM CITRATES), FLAVOURINGS, PANAX GINSENG ROOT EXTRACT (0.08%), PRESERVATIVES (POTASSIUM SORBATE, SODIUM BENZOATE), L-CARNITINE L-TARTRATE (0.04%), CAFFEINE (0.03%), SWEETENERS (SUCRALOSE STEVIOL GLYCOSIDES FROM STEVIA), VITAMINS (B3, B6, B2, B12), SODIUM CHLORIDE, INOSITOL, GUARANA SEED EXTRACT (0.002%), COLOURS (E 110, E129), MALTODEXTRIN.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5056784900093",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

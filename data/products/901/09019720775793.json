@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "09019720775793",
+  "barcode_printed": "9019720775793",
+  "barcode_format": "EAN-13",
+  "name": "Rolled Oats",
+  "brand": "qualinut",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 409,
+        "protein_g": 11.3,
+        "carbohydrate_g": 67.4,
+        "sugars_g": 2,
+        "fat_g": 10.5,
+        "saturated_fat_g": 2,
+        "fibre_g": 10,
+        "sodium_mg": 9.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9019720775793",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

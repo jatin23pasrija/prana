@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063162426",
+  "barcode_printed": "8901063162426",
+  "barcode_format": "EAN-13",
+  "name": "Marie gold",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 73,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 445,
+        "energy_kj": 1863,
+        "protein_g": 8.4,
+        "carbohydrate_g": 78.9,
+        "sugars_g": 21.9,
+        "fat_g": 10.7,
+        "saturated_fat_g": 5.2,
+        "fibre_g": 0,
+        "sodium_mg": 320
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (73%), SUGAR, REFINED PALM OIL, INVERT SUGAR STRUP, MILK PRODUCTS [MILK SOLIDS & SWEETENED CONDENSED PARTLY SKIMMED MILK], RAISING AGENTS [503 (ii) & 500 (ii)], IODIZED SALT, NATURE IDENTICAL & ARTIFICIAL (MILK & VANILLA) FLAVOURING SUBSTANCES, EMULSIFIER (472e), CALCIUM SALT, DOUGH CONDITIONER (223), VITAMINS, FERROUS SALT, COLOUR (150D) AND POTASSIUN IODATE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063162426",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

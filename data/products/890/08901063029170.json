@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063029170",
+  "barcode_printed": "8901063029170",
+  "barcode_format": "EAN-13",
+  "name": "Treat Jimjam",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 483,
+        "protein_g": 5,
+        "carbohydrate_g": 73,
+        "sugars_g": 33.5,
+        "fat_g": 19,
+        "saturated_fat_g": 9.5,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063029170",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

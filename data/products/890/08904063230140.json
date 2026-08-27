@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063230140",
+  "barcode_printed": "8904063230140",
+  "barcode_format": "EAN-13",
+  "name": "Khatta Meetha",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Chickpeas Flour (30%), Vegetable Oil (Cotton Seed, Corn and Palmolein), Peanuts (8%), Rice Flakes (8%), Starch (Sago) (7%), Sugar Powder (5%), Green Peas (4%), Chickpeas Pulse (3%), Puy Lentil (2%), Salt, Mango Powder, Turmeric Powder, Cumin Powder,Ginger Powder, Black Pepper Powder, Acidity Regulator [Citric Acid Powder (E 330), Sodium Bicarbonate (E.500(ii))] and Anticaking agent [Silicon dioxide (E551)]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063230140",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

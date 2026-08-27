@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202216916",
+  "barcode_printed": "7622202216916",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury Chocobakes 17gm",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 17,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cake (45%*)-Refined Wheat Flour (Maida), Sugar, Humectants (420 (ii), 422, 1520), Palm Olein, Liquid Glucose, Milk Solids, Cocoa Solids, Starch, Emulsifiers (322, 475, 471, 491), Raising Agent (500 (i), 450 (i), 341 (i), lodised Salt, Flavours (Natural Flavour, Nature Identical Flavouring Substances), Preservative (202), Stabilizer (415)); Chocolayer (29%*) - Sugar, Hydrogenated Vegetable Oils, Milk Solids, Cocoa Solids, Emulsifiers (442, 476)), Flavours (Nature Identical, Artificial (Vanilla and Caramel) Flavouring Substances); Filling (26%*) - (Sugar, Fractionated Fat, Liquid Glucose, Humectant (422, 1520), Water, Emulsifiers (322, 475, 471,491), Cocoa Solids, Flavours (Natural flavour, Nature Identical Flavouring Substances), lodised Salt, Preservative (202)). Allergen Information: Contains Milk, Wheat, Sulphites and Soy. Private Limited, Serving size:17 g*, No of serving per package: 1* P-Mfd By: Parson and Survey No.225 Area, Harohalli,Kar Ramanagara, Kan Doe lo",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202216916",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

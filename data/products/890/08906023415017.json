@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906023415017",
+  "barcode_printed": "8906023415017",
+  "barcode_format": "EAN-13",
+  "name": "Choco Vanilla",
+  "brand": "cream-bell",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 65,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 246,
+        "protein_g": 2.9,
+        "carbohydrate_g": 20,
+        "sugars_g": 15.2,
+        "fat_g": 17.1,
+        "saturated_fat_g": 13.5,
+        "trans_fat_g": 0.14
+      }
+    }
+  ],
+  "ingredients_raw": "Inner Layer (71%): Water, Sugar, Milk Solids, Edible Vegetable Oil (Refined Palm Kemel Oil), Maltodextrin, Permitted Emulsifying Agents (433, 471) & Stabilzing Agents (407, 410,412, 466) Outer Layer (29%): Choco Covering {Edible Vegetable Oil (Refined Palm Kermel Oil), Sugar, Hydrogenated Vegetable Fat, Cocoa Solids} ADDED NATURE IDENTICAL AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES FROZEN DESSERT CONTAINS EDIBLE VEGETABLE OIL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906023415017",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

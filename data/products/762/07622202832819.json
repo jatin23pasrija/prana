@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202832819",
+  "barcode_printed": "7622202832819",
+  "barcode_format": "EAN-13",
+  "name": "Celebrations",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Edible Vegetable Oil (Palm Oil), Wheat Flour, Cocoa Solids, Milk Solids, Maltodextrin, Invert Syrup, Raising Agents (503(ii), 500(ii)), Salt, Emulsifiers (322, 471, 476), Invertase, Artificial Flavouring Substances (Vanilla, Chocolate)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202832819",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

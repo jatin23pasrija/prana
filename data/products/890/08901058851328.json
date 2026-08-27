@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058851328",
+  "barcode_printed": "8901058851328",
+  "barcode_format": "EAN-13",
+  "name": "Maggi 2 Minutes Noodles Masala",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Humectant (45) Masala TASTEMAKER: Hydrolysed groundnut (peanut) protein, Mixed spices ((23.6%) (Dehydrated onion, Coriander powder, Red chilli powder (3%), Turmeric powder, Dried garlic (2.5%), Cumin powder, Aniseed powder, Fenugreek powder, Ginger powder, Black pepper powder (0.4%), Clove powder (0.1%), Green cardamom powder (0.1%) & Nutmeg powder)}, Noodle powder {Refined wheat flour (Maida), Palm oil, Salt, Wheat gluten, Acidity regulators (500(i), 501 (i) & 170(i)), Thickeners (508 & 412) and Humectant (4514) Sugar, Edible starch, Palm oil, Thickener (508), Caramel salt mix (Salt, Colour (150d) & Palm oil), Acidity regulators (330 & 500), Salt, Flavour enhancer (635) and Mineral (Ferric pyrophosphate).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058851328",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

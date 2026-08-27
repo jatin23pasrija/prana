@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08904055907739",
+  "barcode_printed": "8904055907739",
+  "barcode_format": "EAN-13",
+  "name": "Grilled Chicken Burger Patty",
+  "brand": "meatzza",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 181.74,
+        "protein_g": 15.48,
+        "carbohydrate_g": 14.79,
+        "sugars_g": 0,
+        "fat_g": 6.74,
+        "saturated_fat_g": 1.93,
+        "fibre_g": 0,
+        "sodium_mg": 716.49
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904055907739",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08908025722056",
+  "barcode_printed": "8908025722056",
+  "barcode_format": "EAN-13",
+  "name": "Bharat Dal Chana Whole",
+  "brand": "bharat-dal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 378,
+        "protein_g": 20,
+        "carbohydrate_g": 63,
+        "fat_g": 6,
+        "fibre_g": 12
+      }
+    }
+  ],
+  "ingredients_raw": "Chana",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908025722056",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

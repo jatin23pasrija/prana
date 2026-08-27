@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076131612",
+  "barcode_printed": "8906076131612",
+  "barcode_format": "EAN-13",
+  "name": "Baker's Dozen Fresh Orange Cake",
+  "brand": "baker-s-dozen",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Orange Juice (21%,) [Water, Sugar, Orange Concentrate (20.40%), Orange Pulp (0.5%)^, Vitamin C and Flavour (Natural Flavouring Substances)], Sunflower Oil, Condensed Milk, Apple Cider Vinegar, Orange Peel Candy (1%), Baking. Powder, Raising Agent (INS 500 (ii)), lodized Salt, Preservatives (INS 202, INS 282).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076131612",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

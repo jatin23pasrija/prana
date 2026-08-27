@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579002299",
+  "barcode_printed": "8902579002299",
+  "barcode_format": "EAN-13",
+  "name": "Smoodh chocolate",
+  "brand": "parle-agro",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, DOUBLE TONED MILK (40%), SUGAR, WHEY POWDER, MILK SOLIDS, COCOA SOLIDS (1%), MALT EXTRACT, EMULSIFIERS AND STABILIZERS [INS 460(1), INS 471, INS 466, INS 407, INS 340, INS 452], NATURE IDENTICAL FLAVOURING SUBSTANCE (CHOCOLATE) AND IODISED SALT. (INS-INTERNATIONAL NUMBERING SYSTEM) ALLERGEN INFORMATION: CONTAINS MILK, BARLEY, WHEAT AND MILLET: NÚTRITIONAL INFORMATION (TYPICAL VALUES) PER SERVE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579002299",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

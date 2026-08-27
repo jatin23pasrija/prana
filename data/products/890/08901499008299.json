@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499008299",
+  "barcode_printed": "8901499008299",
+  "barcode_format": "EAN-13",
+  "name": "Corn Flakes Original",
+  "brand": "kellogg",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 378,
+        "protein_g": 6.7,
+        "carbohydrate_g": 86.9,
+        "sugars_g": 9.2,
+        "fat_g": 1,
+        "saturated_fat_g": 0.6,
+        "fibre_g": 2.5
+      }
+    }
+  ],
+  "ingredients_raw": "Corn Grits (87.7%), Sugar, Cereal Extract, lodized Salt, Vitamins, Minerals and Antioxidant (INS 320 CONTAINS GLUTEN. MAY CONTAIN TRACES OF TREENUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499008299",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908020710089",
+  "barcode_printed": "8908020710089",
+  "barcode_format": "EAN-13",
+  "name": "Wholy Wholegrain Hazelnut Fudge Cake",
+  "brand": "wholy",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 175.3,
+        "protein_g": 2.3,
+        "carbohydrate_g": 22.1,
+        "sugars_g": 8,
+        "fat_g": 7.6,
+        "saturated_fat_g": 1.6,
+        "fibre_g": 4.4
+      }
+    }
+  ],
+  "ingredients_raw": "Cake: atta (whole wheat flour), prebiotic fiber (fructooligosaccharides), edible vegetable oil (sunflower), dark compound no added sugar (ma edible vegetable oil, cocoa solids, emulsifier (soy lecithin), vanillin), cocoa solids 6%, milk solids, hazelnuts, brown rice syrup, corn syrup, erythritol, vegetable glycerin, modified starch (INS 1422), plant based emulsifier (INS 471, INS 477), baking powder, salt chocolate hazelnut filling: hazelnuts, jaggery, edible vegetable fat, edible vegetable oil, cocoa solids, emulsifier (soy lecithin), vanillin",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908020710089",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

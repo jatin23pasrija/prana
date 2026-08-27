@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043551326",
+  "barcode_printed": "8904043551326",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Chapathi (Indian Bread)",
+  "brand": "modern",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 255,
+        "energy_kj": 1068,
+        "protein_g": 8.4,
+        "carbohydrate_g": 42,
+        "sugars_g": 0.25,
+        "fat_g": 5.9,
+        "saturated_fat_g": 1.8,
+        "fibre_g": 6.1,
+        "sodium_mg": 438
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta 64.4%), Edible Vegetable Oil (Refined Sunflower Oil), lodized Salt, Wheat Bran, Preservatives (282, 200), Acidity Regulator (260) and Yeast.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043551326",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

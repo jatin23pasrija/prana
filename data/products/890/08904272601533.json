@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904272601533",
+  "barcode_printed": "8904272601533",
+  "barcode_format": "EAN-13",
+  "name": "Storia sugarcane 750ml pet",
+  "brand": "storia",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugarcane Juice(99%) , Lemon Juice Concentrate[(0.1%)(equivalent to 1% Lemon Juice)], Salt, Stabilizer(INS 440).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904272601533",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

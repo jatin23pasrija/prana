@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906100280293",
+  "barcode_printed": "8906100280293",
+  "barcode_format": "EAN-13",
+  "name": "Shresta Bansi Rawa",
+  "brand": "shresta",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 339.62,
+        "protein_g": 13.3,
+        "carbohydrate_g": 73.5,
+        "fat_g": 1.2,
+        "fibre_g": 3.9,
+        "sodium_mg": 1
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906100280293",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

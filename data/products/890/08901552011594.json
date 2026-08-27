@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552011594",
+  "barcode_printed": "8901552011594",
+  "barcode_format": "EAN-13",
+  "name": "Baigan Bharta",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283.49523125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Aubergine (39.5%), oignon, tomate concassée (18.6%), huile de tournesol, tomate écrasée (2.5%), feuilles de coriandre, piment vert, coriandre en poudre, sel, ail, graines de cumin, amidon de maïs, piment rouge en poudre, curcuma en poudre, sucre.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552011594",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

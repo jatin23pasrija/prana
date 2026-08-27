@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016314383",
+  "barcode_printed": "8908016314383",
+  "barcode_format": "EAN-13",
+  "name": "Suji rusk",
+  "brand": "sunder",
+  "category": "rusk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Refined Palmolein Oil, Semolina (Suji) (7%), Yeast, Skimed Milk Powder (0.7%) Vital Gluten, Cardamom Seeds, Iodised Salt and Permitted Improvers [1100(1), 1102, 1104 ].Wheat Fiber, Antioxidant (300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016314383",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030535093",
+  "barcode_printed": "8901030535093",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Fruit Jam",
+  "brand": "kissan-is-sold-by-hindustan-unilever-limited",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "20 g",
+        "quantity": {
+          "value": 20,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 57,
+        "protein_g": 0.1,
+        "carbohydrate_g": 14.2,
+        "sugars_g": 13.6,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 0.1,
+        "sodium_mg": 3.9
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, MIXED FRUIT PULP BLEND-46% (BANANA PULP, PAPAYA PULP, PEAR PULP, APPLE JUICE PINEAPPLE JUICE, ORANGE JUICE, MANGO PULP, GRAPE JUICE), THICKENER-440, ACIDITY REGULATOR-330, PRESERVATIVE-202, VITAMIN B3. CONTAINS PERMITTED SYNTHETIC FOOD COLOUR - 122 AND ADDED FLAVOURS-1 ARTIFICIAL RASPBERRY, PINEAPPLE AND STRAWBERRY FLAVOURING SUBSTANCES. CONTAINS PERMITTED CLASS III PRESERVATIVE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030535093",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

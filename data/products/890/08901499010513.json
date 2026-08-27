@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499010513",
+  "barcode_printed": "8901499010513",
+  "barcode_format": "EAN-13",
+  "name": "Muesli Fruit, Nut & Seeds",
+  "brand": "kellogg-s",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "multigrain (66.4%) (wheat (24.6%), corn grits (15.7%) rice (10.1%), rolled barley (8 %), rolled oats (8%)), candied & dry fruits, nut & seed (21%) (candied papaya (6%), candied cranberry (4%), Raisins (4%), almonds (4%), pumpkin Seeds (3%), sugar. Cereal Extract, wheat bran, lodized Salt, vitamins, Flavour (Artificial (Coconut)), Minerals and Antioxidants (INS 320, INS 307b)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499010513",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262170093",
+  "barcode_printed": "8901262170093",
+  "barcode_format": "EAN-13",
+  "name": "Amul Butterscotch Bliss",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk solids, sugar, cashew chikki (12%) (sugar, cashew pieces, liquid glucose, ghee), emulsifier (471), stabilizers (407, 412,466,415), artificial flavouring substances (butterscotch), colour (102).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262170093",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

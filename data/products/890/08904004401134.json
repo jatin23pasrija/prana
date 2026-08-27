@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004401134",
+  "barcode_printed": "8904004401134",
+  "barcode_format": "EAN-13",
+  "name": "Haldiram's Khatta Sweet and Salty mix",
+  "brand": "haldiram",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Rice Flakes (22%), Bengal Gram Flour (Besan) (21%/ Split Pulse Bengal Gram (Chana Dal) (7%), Groundnut (Peanuts) (5%), Sago (4%), Refined Sugar (4%), Red Lentils (Masur Whole) (2.5%), Green Peas (2%), Iodised Salt, Blac Red Chilli, Acidity Regulator & Antioxidant (E 330) and Turmeric. Allergy Advice : Contains Peanut May Contain Tree nuts, Gluten, Sesame Seed, Milk, Soya & Mustard Seed",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004401134",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

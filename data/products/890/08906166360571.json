@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906166360571",
+  "barcode_printed": "8906166360571",
+  "barcode_format": "EAN-13",
+  "name": "un-junked* whole cashews",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "100% Cashew Kernels",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906166360571",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

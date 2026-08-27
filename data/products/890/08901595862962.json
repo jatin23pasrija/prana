@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595862962",
+  "barcode_printed": "8901595862962",
+  "barcode_format": "EAN-13",
+  "name": "Schezwan Chutney",
+  "brand": "ching-s-secret",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Sunflower Oil, Sugar, Ginger, Salt, Chilli, Garlic, Onion, Corn Starch, Flavour Enhancer (E635), Thickener (E1422), Acidity Regulator (E260), Spices (Whte Pepper, Schezwan Pepper), Preservatives (E202, E211). Celery, Soy Sauce Powder (Soybean, Wheat, Salt).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595862962",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

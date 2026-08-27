@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906142778024",
+  "barcode_printed": "8906142778024",
+  "barcode_format": "EAN-13",
+  "name": "BOLAS CASHEW NUTS",
+  "brand": "bolas",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 570,
+        "protein_g": 18.27,
+        "carbohydrate_g": 30.19,
+        "sugars_g": 5.91,
+        "fat_g": 43.85,
+        "saturated_fat_g": 7.78,
+        "fibre_g": 3.3,
+        "sodium_mg": 12
+      }
+    }
+  ],
+  "ingredients_raw": "Cashew",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906142778024",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

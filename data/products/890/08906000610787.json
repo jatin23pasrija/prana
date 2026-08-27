@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906000610787",
+  "barcode_printed": "8906000610787",
+  "barcode_format": "EAN-13",
+  "name": "McCain Chilli Garlic Potato Bites",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 174.4,
+        "energy_kj": 729.68,
+        "protein_g": 3,
+        "carbohydrate_g": 23.5,
+        "sugars_g": 0.5,
+        "fat_g": 7.6,
+        "saturated_fat_g": 3.65,
+        "fibre_g": 0,
+        "sodium_mg": 432
+      }
+    }
+  ],
+  "ingredients_raw": "Chilli Gar Ingred tato Biles: Vegetable Product (Frozen) (1.25%) ato (84%), Palmolein Oil, Garlic Paste (Water Garlic Salt, Starch, Acidity Regulator [INS 260), Maize Flakes lodized Salt, Onion Powder, Red Chilli Flakes Starch, Potato F (0.37%) May Contain Wheat, Milk and Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906000610787",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

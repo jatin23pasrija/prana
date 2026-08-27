@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004401943",
+  "barcode_printed": "8904004401943",
+  "barcode_format": "EAN-13",
+  "name": "Corn Flakes Mixture",
+  "brand": "haldiram-s",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn flakes, Refined palmolein oil, Potato, Cashew, Chick peas flour, Peanuts, Raisins, Refined sugar, Spinach, Iodised salt, Ani (fennel) seed, Curry leaves, Sesame seed, Red chilli, Citric acid (E 330), Black salt, Black pepper, Dried ginger powder, Clove, Cumin, Cardamom, Nutmeg, Bay leaves, Cinnamon, Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004401943",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

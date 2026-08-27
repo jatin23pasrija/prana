@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005729897",
+  "barcode_printed": "8906005729897",
+  "barcode_format": "EAN-13",
+  "name": "Chill Coriander Khakhara",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 492.78,
+        "protein_g": 11.11,
+        "carbohydrate_g": 61.11,
+        "sugars_g": 0,
+        "fat_g": 21.67,
+        "saturated_fat_g": 10.5,
+        "fibre_g": 5.56,
+        "sodium_mg": 277.78
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005729897",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

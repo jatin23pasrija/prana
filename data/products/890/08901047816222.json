@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901047816222",
+  "barcode_printed": "8901047816222",
+  "barcode_format": "EAN-13",
+  "name": "CHANA MASALA",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "For a full list of products and other recipe ideas, please visi Water, Chickpea (19.93%), Onion (6.43%), Tomato Paste (3.49%), Sunflower Oil, Salt, Ginger (0.79%), Coriander Leaves (0.70%), Cumin, Garlic, Mango Powder, Coriander Powder (0.28%), Turmeric Powder (0.28%), Red Chilli Powder, Mix Spice Powder, Dried Fenugreek Leaves, Cinnamon, Bay Leaf, White Pepper Powder and Clove. May also contain Peanuts Nuts Wheat C",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901047816222",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

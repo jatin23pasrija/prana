@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719107870",
+  "barcode_printed": "8901719107870",
+  "barcode_format": "EAN-13",
+  "name": "Choco rolls",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 12.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 522,
+        "protein_g": 4.6,
+        "carbohydrate_g": 65.9,
+        "sugars_g": 37,
+        "fat_g": 26.7,
+        "saturated_fat_g": 12.6,
+        "sodium_mg": 98
+      }
+    }
+  ],
+  "ingredients_raw": "CHOCO CRÈME (40%) [ SUGAR, REFINED OILS (PALMOLEIN, PALM OIL), COCOA SOLIDS, EMULSIFIER OF VEGETABLE ORIGIN (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA), REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, COCOA SOLIDS, IONISED SALT, RAISING AGENTS (500 (ii), 503 (ii)], AND EMULSIFIER OF VEGETABLE ORIGIN (472e). CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA). CONTAINS:WHEAT, SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719107870",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001658607",
+  "barcode_printed": "8908001658607",
+  "barcode_format": "EAN-13",
+  "name": "O'ceans Strawberry And Lime Flavour Fruit Drink",
+  "brand": "o-cean",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 42,
+        "protein_g": 0.5,
+        "carbohydrate_g": 10,
+        "sugars_g": 10,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001658607",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

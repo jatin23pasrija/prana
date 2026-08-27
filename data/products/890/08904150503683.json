@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08904150503683",
+  "barcode_printed": "8904150503683",
+  "barcode_format": "EAN-13",
+  "name": "Pillsbury Choco Molten Lava Cake",
+  "brand": "pillsbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kj": 8
+      }
+    }
+  ],
+  "ingredients_raw": "sugar ,refined wheat flour (maida) bakery shortening [edible vegetable oil(palm sesome)],cocoa powder(5%) milk solids,iodized salt,nature identical flavouring substance - vanilla nature identical flavouring substance - chocalted and stabilizer (INS 415)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904150503683",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

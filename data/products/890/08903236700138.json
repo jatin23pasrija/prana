@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08903236700138",
+  "barcode_printed": "8903236700138",
+  "barcode_format": "EAN-13",
+  "name": "No Nonsense Plant Protein Indonesian Cacao",
+  "brand": "cosmix",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 Scoop (38 g)",
+        "quantity": {
+          "value": 38,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 146.55,
+        "protein_g": 23.5,
+        "carbohydrate_g": 10.56,
+        "sugars_g": 3.29,
+        "fat_g": 0.74,
+        "saturated_fat_g": 0.49,
+        "fibre_g": 3.64,
+        "sodium_mg": 130.94
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903236700138",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

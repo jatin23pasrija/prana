@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904300200042",
+  "barcode_printed": "8904300200042",
+  "barcode_format": "EAN-13",
+  "name": "Mario Cardamon Rusk",
+  "brand": "trdp-happy-world-pvt-ltd",
+  "category": "rusk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "RAFFINIERTES WEIZENMEHL, ZUCKER, PFLANZENÖL (RAFFINIERTES PALMÖL), GRIEB (WEIZEN), HEFE, MILCHFESTSTOFFE, INVERTSIRUP, SALZ, GEWÜRZ (KARDAMOM UND SEIN ÖL), WEIZENFASER, EMULGATOR (MONOGLYCERIDE) VON FETTSÄUREN, MONODIGLYCERIDEN VON FETTSÄUREN UND NATRIUMSTEAROYLLACTYLAT), ANTIOXIDATIONSMITTELN (ASCORBINSÄURE) UND MEHLBEHANDLUNGSMITTELN (AMYLASEN). KANN _NÜSSE_ UND _ERDNÜSSE_ ENTHALTEN .",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904300200042",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

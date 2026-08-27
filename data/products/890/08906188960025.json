@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906188960025",
+  "barcode_printed": "8906188960025",
+  "barcode_format": "EAN-13",
+  "name": "Choco Chip Cookies",
+  "brand": "unibic",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 67.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Choco Chips (22%) [Sugar, Edible Vegetable Fat, Cocoa Solids, Dextrose, Emulsifiers (INS 322 from Soy, INS 476), Nature Identical & Artificial Flavouring Substances (Vanilla, Chocolate)], Edible Vegetable Oil (Palm), Desiccated Coconut Powder, Milk Solids, Butter, Leavening Agents (INS 500 ii, INS 503 ii), lodised Salt, Emulsifier (INS 322 from Soy), Natural, Nature Identical & Artificial Flavouring Substances (Butter, Vanillin, Chocolate). Allergen Advice: Contains Wheat, Milk and Soy. May contain traces of Nut",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906188960025",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

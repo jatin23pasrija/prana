@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030818660",
+  "barcode_printed": "8901030818660",
+  "barcode_format": "EAN-13",
+  "name": "Boost",
+  "brand": "hindustan-unilever-limited",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cereal extract (49%) [Barley, Wheat, Millet), Malted Barley (Extracted solids) (21%), Sugar, Wheat Flour (Atta) (6.5%) Milk Solids (6%), Minerals, Wheat gluten, Natural Colour (INS 150 Acidity Regulators (INS 501, INS 500(ii)], Edible lodized Salt, Cocoa powder Vitamins, Soy Protein Isolate (0.28%), Nature-identical flavouring substances CONTAINS PERMITTED NATURAL COLOUR AND ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES). 500100 Tengah +Based on an independent study conducted in 2009, the number of shuttles completed by Boost consuming children (aged 7-105 increased by 25% compared to 8% increase in children who consumed endurance. Study published in J Nutr. 141:2017-2023, 2011 fortified chocolate beverage, in a 20 m shuttle test measuring we A Boost is a nourishing beverage to be consumed as a part of your daily diet and exercise plan. PET",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030818660",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

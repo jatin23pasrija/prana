@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "09311770612722",
+  "barcode_printed": "9311770612722",
+  "barcode_format": "EAN-13",
+  "name": "High Strength Magnesium Glycinate & Citrate",
+  "brand": "swisse",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 Scoop (3.75 g)",
+        "quantity": {
+          "value": 3.75,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 12.01,
+        "protein_g": 0.77,
+        "carbohydrate_g": 2.18,
+        "fat_g": 0,
+        "sodium_mg": 1.09
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9311770612722",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

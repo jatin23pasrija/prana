@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414016415",
+  "barcode_printed": "8901414016415",
+  "barcode_format": "EAN-13",
+  "name": "all time mixture",
+  "brand": "bikano",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 537.9,
+        "protein_g": 13,
+        "carbohydrate_g": 46.5,
+        "sugars_g": 5.8,
+        "fat_g": 33.1,
+        "saturated_fat_g": 12.7,
+        "fibre_g": 0,
+        "sodium_mg": 764
+      }
+    }
+  ],
+  "ingredients_raw": "Edible Vegetable Oil (Refined Palmolein Oil, Refined Ricebran Oil, Refined Cottonseed Oil), Chickpea Flour (21%), Rice Flakes (13.9%) , Cornflakes (13.5%), Peanuts (9.5%), Sugar (Sucrose), Rice Flour, Split Bengal Gram, Curry Leaves, Husked Dew Moth Bean Flour, lodized Salt, Carom Seeds, Red Chilli Powder, Turmeric, Yellow Chilli Powder, Black Salt, Raising Agent.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414016415",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

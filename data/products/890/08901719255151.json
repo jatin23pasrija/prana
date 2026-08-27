@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719255151",
+  "barcode_printed": "8901719255151",
+  "barcode_format": "EAN-13",
+  "name": "Parle-G Original Gluco Biscuits",
+  "brand": "parle-g",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR (67%), SUGAR, EDIBLE VEGETABLE OIL (PALM OIL), INVERT SUGAR SYRUP [SUGAR, CITRIC ACID], RAISING AGENTS [ 503 ( ii ), 500 (ii) ], IODISED SALT, MILK SOLIDS (0.6%), EMULSIFIER [ DI-ACETYL TARTARIC ACID ESTERS OF MONO AND DI-GLYCERIDES OF EDIBLE VEGETABLE OILS] AND IMPROVER [PAPAIN 1101 (II)). CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES-VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719255151",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

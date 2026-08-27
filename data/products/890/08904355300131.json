@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08904355300131",
+  "barcode_printed": "8904355300131",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy appetite with a touch and aroma of coming seeds",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 410,
+        "protein_g": 7.34,
+        "carbohydrate_g": 76.68,
+        "sugars_g": 1.1,
+        "fat_g": 8.62,
+        "saturated_fat_g": 3.7,
+        "fibre_g": 3.46,
+        "sodium_mg": 352
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904355300131",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

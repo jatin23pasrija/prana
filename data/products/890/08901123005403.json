@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "08901123005403",
+  "barcode_printed": "8901123005403",
+  "barcode_format": "EAN-13",
+  "name": "Lotto Choco Pie With Rich Marshmallow",
+  "brand": "lotte",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 336,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (28 g)",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 121.65,
+        "protein_g": 1.1,
+        "carbohydrate_g": 18.5,
+        "sugars_g": 10.4,
+        "fat_g": 4.8,
+        "saturated_fat_g": 3.6,
+        "sodium_mg": 214
+      }
+    }
+  ],
+  "ingredients_raw": "CHOCO COVERING (25%) [SUGAR, HYDROGENATED VEGETABLE FAT (PALM), COCOA SOLIDS, MILK SOLIDS, EMULSIFIERS (322,476), ARTIFICIAL FLAVOUR (VANILLA)], WHEAT FLOUR (MAIDA), SUGAR, LIQUID GLUCOSE, INTERESTERIFIED & HYDROGENATED VEGETABLE FAT (PALM), HUMECTANTS(420, 422), RAISING AGENTS 1500(ii), 503(ii)]. MILK SOLIDS, DEXTROSE, PRESERVATIVES (202, 281), 1ODISED SALT, STABILIZERS (407, 406, 440, 401, 461, 415), ACIDITY REGULATOR 1341(i)] AND ARTIFICIAL FLAVOUR (MILK). cal diet)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901123005403",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

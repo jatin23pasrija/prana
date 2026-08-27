@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08904258703312",
+  "barcode_printed": "8904258703312",
+  "barcode_format": "EAN-13",
+  "name": "Iced Green Tea",
+  "brand": "raw-pressery",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "200 ml",
+        "quantity": {
+          "value": 200,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 21.1,
+        "protein_g": 0,
+        "carbohydrate_g": 5.3,
+        "sugars_g": 4.97,
+        "fat_g": 0,
+        "sodium_mg": 2.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904258703312",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906105470071",
+  "barcode_printed": "8906105470071",
+  "barcode_format": "EAN-13",
+  "name": "Dates Syrup",
+  "brand": "kimia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 312.26,
+        "protein_g": 1.39,
+        "carbohydrate_g": 76.45,
+        "fat_g": 0,
+        "fibre_g": 5.97,
+        "sodium_mg": 39.69
+      }
+    }
+  ],
+  "ingredients_raw": "Natural Dates (Khajoor)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906105470071",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

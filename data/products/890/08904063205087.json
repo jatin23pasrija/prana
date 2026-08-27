@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063205087",
+  "barcode_printed": "8904063205087",
+  "barcode_format": "EAN-13",
+  "name": "Masala Lachcha Paratha",
+  "brand": "haldiram-s",
+  "category": "milk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 360,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 1.67,
+        "protein_g": 8.33,
+        "carbohydrate_g": 41.67,
+        "sugars_g": 0,
+        "fat_g": 16.67,
+        "saturated_fat_g": 1.67,
+        "fibre_g": 3.33,
+        "sodium_mg": 433.33
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour (65%), Refined Sunflower Oil, Water, Vegetable Oil (Contains one or moreo of following: Sesame Oil, Soybean Oil, Palm Oil, Corn Oil), Salt, Red Chilli Powder and Acidity regulators (Sodium Bicarbonate (E500(ii). CONTAINS WHEAT, MILK, SESAME AND SOY COMPONENTS MANUFACTURED IN FACILITY THAT PROCESSES FOOD CONTAINING PEANUT & TREENUT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063205087",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

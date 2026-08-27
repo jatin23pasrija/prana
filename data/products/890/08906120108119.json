@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906120108119",
+  "barcode_printed": "8906120108119",
+  "barcode_format": "EAN-13",
+  "name": "Makhana Cream and Onion",
+  "brand": "farmley",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 543.98,
+        "protein_g": 7.92,
+        "carbohydrate_g": 51.98,
+        "sugars_g": 6.42,
+        "fat_g": 22.3,
+        "saturated_fat_g": 11.8,
+        "fibre_g": 11.89,
+        "sodium_mg": 240
+      }
+    }
+  ],
+  "ingredients_raw": "Fox Nut (Makhana), Palmolein Oil, Spices and Condiments (Yellow Chilli, Onion (2%), Parsley), Salt, Sugar, Acidity Regulator (INS 296), Flavour Enhancer (INS 635). CONTAINS ADDED FLAVOURS - NATURAL AND NATURE IDENTICAL (CREAM & ONION), FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906120108119",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

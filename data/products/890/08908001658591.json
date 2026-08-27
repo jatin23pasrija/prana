@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001658591",
+  "barcode_printed": "8908001658591",
+  "barcode_format": "EAN-13",
+  "name": "o'cean fruit drink",
+  "brand": "o-cean",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, DI Apple Juice Concentrate 1.8% (Equivalent to 12% DI-Apple Juice) Sugar, Glucose, Minerals (E 329, E 508), Acidity Regulator (E 330, E 331), Nature Identical Flavouring Substances (Pineapple Flavour), Permitted Class I Preservative (E 202). Vitamin C, Vitamins (B3, B5, B7). CONTAINS ADDED PINEAPPLE FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001658591",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

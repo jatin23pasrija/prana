@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "09909011145155",
+  "barcode_printed": "9909011145155",
+  "barcode_format": "EAN-13",
+  "name": "Pro-Pl Protein for Pregnancy & Lactation",
+  "brand": "pro-pl",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sunes, Whey Protein concentrate, Skimmed milk powder, Maltodextrin, Inulin (Dietary fibre), DHA rich algal oil powder, Soy protein isolate, Malt extract, Nature identical vanilla flavour, Minerals, DHA rich algal oil powder, Vitamins, Natural saffron.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9909011145155",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

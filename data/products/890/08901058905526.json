@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058905526",
+  "barcode_printed": "8901058905526",
+  "barcode_format": "EAN-13",
+  "name": "Nestle NAN Excellapro",
+  "brand": "nestle",
+  "category": "baby-food",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 491,
+        "protein_g": 10.7,
+        "carbohydrate_g": 58.6,
+        "sugars_g": 44.5,
+        "fat_g": 24,
+        "saturated_fat_g": 13,
+        "sodium_mg": 99
+      }
+    }
+  ],
+  "ingredients_raw": "Milk solids, Demineralised whey, Soyabean oil, Minerals, Low erucic rapeseed oil, High oleic sunflower oil, Coconut oil, Sunflower oil, Emulsifier (Soya lecithin), Human Milk Oligosaccharides' (2'Fucosyllactose (2'FL) and Lacto-N-Neotetraose (LNnT), Choline bitartrate, Arachidonic acid (ARA) from Mortierella alpina oil, Docosahexaenoic acid (DHA) from Schizochytrium sp. oil, Vitamins, Amino acid (L-Phenylalanine), Probiotic Limasilactobacillus reuter), Taurine, Acidity regulators (Citric acid and Potassium hydroxide), Nucleotides, Carnitine and Packaging gases (Carbon dioxide and Nitrogen).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058905526",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

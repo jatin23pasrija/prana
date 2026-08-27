@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "00748927967913",
+  "barcode_printed": "0748927967913",
+  "barcode_format": "EAN-13",
+  "name": "Whey",
+  "brand": "optimum-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 152,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 sachet (30.4 g)",
+        "quantity": {
+          "value": 30.4,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 116,
+        "protein_g": 24,
+        "carbohydrate_g": 3,
+        "sugars_g": 0.9,
+        "fat_g": 0.9,
+        "saturated_fat_g": 0.61,
+        "trans_fat_g": 0,
+        "sodium_mg": 50
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0748927967913",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

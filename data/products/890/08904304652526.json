@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08904304652526",
+  "barcode_printed": "8904304652526",
+  "barcode_format": "EAN-13",
+  "name": "Whole Wheat Lavash",
+  "brand": "roshan-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 289.97,
+        "protein_g": 8.02,
+        "carbohydrate_g": 50.95,
+        "sugars_g": 6.09,
+        "fat_g": 6.01
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat flour, whole wheat flour, sugar, salt, til seeds, black till seeds, flax seeds,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904304652526",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

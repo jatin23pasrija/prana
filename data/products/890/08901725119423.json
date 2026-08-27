@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725119423",
+  "barcode_printed": "8901725119423",
+  "barcode_format": "EAN-13",
+  "name": "Moms magic Cashew & Almonds",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 197,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 459,
+        "energy_kj": 2089,
+        "protein_g": 7.9,
+        "carbohydrate_g": 67.2,
+        "sugars_g": 22.7,
+        "fat_g": 22.1,
+        "saturated_fat_g": 0.06
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INVERT SYRUP, CASHEW NUT AGENTS INS ALMOND BUTTER (0.3%), EMULSIFIERS [INS 471, INS 322(1), INS 472e) AND FLOUR TREATMENT AGENT (INS 223). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR(S) (INS 102) AND ADDED FLAVOUR(S) (NATURE IDENTICAL FLAVOURING SUBSTANCES AND ARTIFICIAL FLAVOURING SUBSTANCES BUTTER, VANILLA) CONTAINS _WHEAT_, _MILK SOLIDS_, _SOYA_, _NUTS_AND _SULPHITES_.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725119423",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

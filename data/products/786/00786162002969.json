@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00786162002969",
+  "barcode_printed": "0786162002969",
+  "barcode_format": "EAN-13",
+  "name": "acai blueberry pomegranate nutrient enhanced water beverage",
+  "brand": "vitamin-water",
+  "category": "water",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Reverse osmosis water, less than 0.5% of: vitamins A, C, B3, B5, B6, B12 (beta-carotene, ascorbic acid, niacinamide, calcium pantothenate, pyridoxine hydrochloride, cyanocobalamin), fruit and vegetable juices (for color), natural flavors, citric acid, stevia leaf extract, electrolytes (calcium and magnesium lactates and potassium phosphate), monk fruit extract, sodium selenate, manganese citrate.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0786162002969",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

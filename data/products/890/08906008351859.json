@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906008351859",
+  "barcode_printed": "8906008351859",
+  "barcode_format": "EAN-13",
+  "name": "Millet Khichdi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 38.18,
+        "protein_g": 10.91,
+        "carbohydrate_g": 65.45,
+        "sugars_g": 1.82,
+        "fat_g": 9.09,
+        "saturated_fat_g": 6.36,
+        "sodium_mg": 2054.55
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906008351859",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021122627",
+  "barcode_printed": "8906021122627",
+  "barcode_format": "EAN-13",
+  "name": "Aachi Sambhar Powder",
+  "brand": "aachi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 405,
+        "protein_g": 14.7,
+        "carbohydrate_g": 56.6,
+        "sugars_g": 1,
+        "fat_g": 13.4,
+        "saturated_fat_g": 1.4,
+        "sodium_mg": 2129
+      }
+    }
+  ],
+  "ingredients_raw": "Spice Content - 70% (Coriander, Red Chilli Powder, Black Pepper, Cumin, Turmeric Powder, Mustard, Fenugreek, Compounded Asafoetida, Dry Ginger, Curry Leaves), Toor Dhal, Gram Dhal, Rice and Salt - 5.5%.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021122627",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

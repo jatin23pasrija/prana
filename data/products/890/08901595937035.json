@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595937035",
+  "barcode_printed": "8901595937035",
+  "barcode_format": "EAN-13",
+  "name": "Ching’s Veg Hakka Noodles",
+  "brand": "ching-s-secret",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (46.6 g)",
+        "quantity": {
+          "value": 46.6,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 173,
+        "protein_g": 5.2,
+        "carbohydrate_g": 37.5,
+        "sugars_g": 0,
+        "fat_g": 0.2,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 4,
+        "sodium_mg": 258
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat flour (96%), wheat gluten, salt, edible vegetable oil, acidity regulator (sodium carbonate, sodium carbonate anhydrous, sodium polyphosphate, disodium hydrogen phosphate, tripolyphosphate), emulsifying agents (E452(i), E451(i), E471, E339(iii)), raising agent (sodium pyrophosphate, potassium carbonate, sodium bicarbonate (E500(ii)))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595937035",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

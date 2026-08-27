@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "05059883476452",
+  "barcode_printed": "5059883476452",
+  "barcode_format": "EAN-13",
+  "name": "Impact Whey Protein Chocolate Brownie",
+  "brand": "my-protein",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 384,
+        "protein_g": 66.2,
+        "carbohydrate_g": 15.62,
+        "sugars_g": 0,
+        "fat_g": 6.3,
+        "saturated_fat_g": 3.66,
+        "trans_fat_g": 1.1,
+        "sodium_mg": 97
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5059883476452",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

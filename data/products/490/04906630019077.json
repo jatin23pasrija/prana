@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "04906630019077",
+  "barcode_printed": "4906630019077",
+  "barcode_format": "EAN-13",
+  "name": "Patanjali corn flakes",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 5.14,
+        "carbohydrate_g": 89.1,
+        "sugars_g": 10.23,
+        "fat_g": 0.85,
+        "saturated_fat_g": 0.23
+      }
+    }
+  ],
+  "ingredients_raw": "Corn 91%, sugar, lodized salt, malt extract",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4906630019077",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

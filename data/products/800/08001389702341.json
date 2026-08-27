@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08001389702341",
+  "barcode_printed": "8001389702341",
+  "barcode_format": "EAN-13",
+  "name": "Jambo Mixed Fruit Jam",
+  "brand": "jambo",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Mixed Fruit Pulp (45%) (Apple, Banana, Pineapple, Papaya Strawberry), Thickener (INS 440), Acidity Regulator (INS 330, INS 331(1))- CONTAINS PERMITTED NATURAL, NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES (PINEAPPLE, STRAWBERRY & MIXFRUIT). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 122) CONTAINS PERMITTED CLASS II PRESERVATIVE (INS 202, INS 211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8001389702341",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

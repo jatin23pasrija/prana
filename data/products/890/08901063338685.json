@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063338685",
+  "barcode_printed": "8901063338685",
+  "barcode_format": "EAN-13",
+  "name": "Brown bread",
+  "brand": "britannia",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "FLOURS (WHEAT FLOUR (ATTA) (32%), REFINED WHEAT FLOUR (MAIDA), WATER, YEAST, SUGAR, VITAL GLUTEN, IODISED SALT, REFINED PALMOLEIN OIL, COLOUR (150a), PRESERVATIVE (282), EMULSIFIER (472e), IMPROVER [1100(i), ACIDITY REGULATOR (260), AND FLOUR TREATMENT AGENT (510), VITAMINS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063338685",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

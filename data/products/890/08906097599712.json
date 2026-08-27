@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906097599712",
+  "barcode_printed": "8906097599712",
+  "barcode_format": "EAN-13",
+  "name": "Reload Instant Electrolytes",
+  "brand": "fast-up",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Acidity regulator (INS 330), Anticaking agent [INS 421), Sodium bicarbonate, Potassium chloride, Acidity regulator [INS 296], Natural Lime & Lemon flavour, Sodium carbonate, Magnesium carbonate, Ascorbic acid (Vitamin C), Calcium carbonate, Anticaking agent (552),, Sweetener [INS 955], Stabilzer [INSS 1201], Anticaking agent [INS 551] ,Cyanocobalamin (Vitamin B12).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906097599712",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

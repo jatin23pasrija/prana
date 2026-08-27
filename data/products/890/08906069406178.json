@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069406178",
+  "barcode_printed": "8906069406178",
+  "barcode_format": "EAN-13",
+  "name": "wok tok instant noodles masala",
+  "brand": "wok-tok",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 92.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "hgredients PROPRIETARY FOOD - NON-EMULSFD SAICE CI ucose, Refined Soyabean O. odsed s s 9, cooking Butter, Suga, Athy fegator dhNS260, Nsa r aeS, Stabilzer NS415 and Pee ETALE MEK Ct t46ONL Cge 46 Aryn letomot hygenic cplae and Srt n 2SEE OL POTTOM AMAP& 6T 0TY 8259 VR Censuneri",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069406178",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

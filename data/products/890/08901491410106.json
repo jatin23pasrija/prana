@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491410106",
+  "barcode_printed": "8901491410106",
+  "barcode_format": "EAN-13",
+  "name": "Uncle Chiprs",
+  "brand": "10-rs",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 24,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Palmolein), &quot;Seasoning (Sugar, lodised Salt, &quot;Spices and Condiments, Acidity Regulators (330, 334, 296), Maltodextrin, Edible Starch, Salt Substitute (Potassium Chloride), Milk Solids, Anticaking Agents (551,470), Flavour Enhancers (631, 627), Color (150d), Flavour (Natural and Nature Identical Flavouring Substances), Modified Starch (1450)). *As flavouring agent. &quot;Contains Onion ALLERGEN ADVICE: Contains Milk .co.in/en-IN/live/story/uncle-chipps",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491410106",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063201164",
+  "barcode_printed": "8904063201164",
+  "barcode_format": "EAN-13",
+  "name": "Chips",
+  "brand": "haldiram-snacks-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 13,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 520.1,
+        "protein_g": 7.7,
+        "carbohydrate_g": 57.2,
+        "sugars_g": 4,
+        "fat_g": 28.9,
+        "saturated_fat_g": 13.8,
+        "sodium_mg": 750.3
+      }
+    }
+  ],
+  "ingredients_raw": "Potatoes (89%), Edible Vegetable Oil (Palmolein, Cotton Seed, Rice Bran), *Spices & Condiments [Red Chilli Powder (0.25%), Garlic Powder (0.10%), Black Pepper Powder (0.10%), Cloves Powder, Big Cardamom Powder, Onion Powder, Spices Extract], Sugar Powder, lodised Salt, Tomato Powder (2%), Dextrose, Maltodextrin, Yeast Extract Powder, Acidity Regulator (INS 330), Natural & Nature Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063201164",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

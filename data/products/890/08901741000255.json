@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901741000255",
+  "barcode_printed": "8901741000255",
+  "barcode_format": "EAN-13",
+  "name": "Quick veg",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 484.1,
+        "protein_g": 10,
+        "carbohydrate_g": 64,
+        "sugars_g": 2.5,
+        "fat_g": 20.9,
+        "saturated_fat_g": 9.3,
+        "fibre_g": 1.2,
+        "sodium_mg": 1200
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles: Wheat Flour, Edible Vegetable Oil (Palm), lodised Sait, Flavor Enhancer (621), Soy Sauce [Caramel (E1500) Chili Sauce, Tomato Sauce. Wheat Gluten, Onion, Acidity Parators (E170 E330, E4511, E500ii), Thickener (412), black Pepper. Seasoning: lodised Salt, Chili, Maltodextrin (E1400), Garlic, Sugar, Flavor Enhancers (E621, E627, E631), Black Pepper, Curry Powder, Black Salt Spices Concuments Acidit: Deculatore (5296 £330, E331), Soy Sauce Powd",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901741000255",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

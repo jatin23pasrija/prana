@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906026600465",
+  "barcode_printed": "8906026600465",
+  "barcode_format": "EAN-13",
+  "name": "Acai vibe",
+  "brand": "rio",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 40,
+        "protein_g": 0,
+        "carbohydrate_g": 10,
+        "sugars_g": 10,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 14500
+      }
+    }
+  ],
+  "ingredients_raw": "PURIFIED WATER, SUGAR, APPLE JUICE (7%), MIX BERRY JUICE (5%), CARBON DIOXIDE (INS290), ACIDITY REGULATORS (INS296, INS330 & INS331), VITAMINS, PERMITTED CLASS II PRESERVATIVE (INS211) CONTAINS PERMITTED SYNTHETIC COLOURS (INS133 & INS122). CONTAINS PERMITTED NATURE IDENTICAL FLAVOUR (ACAI BERRY)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906026600465",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

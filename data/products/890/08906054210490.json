@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906054210490",
+  "barcode_printed": "8906054210490",
+  "barcode_format": "EAN-13",
+  "name": "Jazzy jeera",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 487,
+        "protein_g": 9.7,
+        "carbohydrate_g": 63,
+        "sugars_g": 5,
+        "fat_g": 21.9,
+        "saturated_fat_g": 9.9,
+        "fibre_g": 9.8,
+        "sodium_mg": 1114.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906054210490",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

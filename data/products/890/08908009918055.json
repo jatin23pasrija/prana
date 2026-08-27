@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009918055",
+  "barcode_printed": "8908009918055",
+  "barcode_format": "EAN-13",
+  "name": "Oziva Protein & Herbs",
+  "brand": "oziva",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 392.45,
+        "protein_g": 69.7,
+        "carbohydrate_g": 17,
+        "sugars_g": 4.81,
+        "fat_g": 6.25,
+        "saturated_fat_g": 4.18,
+        "fibre_g": 4.25,
+        "sodium_mg": 149.38
+      }
+    }
+  ],
+  "ingredients_raw": "Ultrafiltered Whey Protein Concentrate (84.70%), Cross Flow Filtered Whey Isolate (1.00%), Alkalized Cocoa (5.50%), Vitamins & Minerals Blend (2.55%), Added Natural & Nature - Identical Flavouring Substances (Chocolate others), Herbs Blond [Shatavari Root Extract (0.94%), Flax Seed Extract (0.31%), Green Tea Powder (0.22%), Tulsi Leaf Extract (0.16%), Cinnamon Bark Extract (0.09%), Curcumin Extract (0.06%)], Carica Papaya (Standardised for Papain) (0.30%), Pineapple Stem (Standardised for Bromelain) (0.30%), Xanthan Gum [Thickener (INS 415)], Natural Sweetener [Stevia (INS 960)].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009918055",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

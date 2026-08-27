@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906000921555",
+  "barcode_printed": "8906000921555",
+  "barcode_format": "EAN-13",
+  "name": "Daadi's Peri Peri Khakhra",
+  "brand": "daadi-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Wheat flour (Atta) (76.77%). Edible Vegetable Oil (Rice Bran), lodized Salt, Periperi Seasoning [(4.03%)- Starch, Salt, Sugar Powder, Spices And Condiments (Chilli Powder, Dehydrated Garlic Powder, Onion Powder, Oregano Powder), Acidity Regulator (INS-330), Palm Fat, Flavour Enhancer, (INS - 627/367) Anticaking Agent (INS-551), Antioxidant (INS-319), Contains Nature Identical and Artificial Periperi, Garlic and Lemon Flavouring Substances.]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906000921555",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

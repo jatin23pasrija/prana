@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080011612",
+  "barcode_printed": "8902080011612",
+  "barcode_format": "EAN-13",
+  "name": "Pomegranate Delight",
+  "brand": "tropicana",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 47,
+        "carbohydrate_g": 11.8,
+        "sugars_g": 11.4,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 53.85
+      }
+    }
+  ],
+  "ingredients_raw": "water, sugar, ';concentrated fruit juices [concentrated pomegranate juice ('3.4%), concentrated apple juice (1.1%), concentrated red grape juice (0.7%), concentrated aronia berry juice], acidity regulator (330), iodised salt, stabilizers (466, 440), sweetener (960). contains added flavour (natural and nature identical flavouring substances).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080011612",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

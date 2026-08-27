@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906188960186",
+  "barcode_printed": "8906188960186",
+  "barcode_format": "EAN-13",
+  "name": "UNIBIC Wafer RICH CHOCOLATE",
+  "brand": "unibic",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cream (65%) - Sugar, Edible Vegetable Oil (Palm) & Edible Vegetable Fat (Interesterified Fat), Dextrose, Cocoa Powder, Milk Solids, Emulsifier (INS 322 from Soy), Food Colour (INS 150d), Nature Identical and Artificial Flavouring Substances (Chocolate & Ethyl Vanillin), lodised Salt, Maltodextrin. Wafer Sheet - Whole Wheat Flour (Atta), Cocoa Powder, Maize Starch Powder, Edible Vegetable Oil (Palm Olein), lodised Salt, Emulsifier (INS 322 from Soy), Raising Agents (INS 500 ii, INS 450 i), Food Colour (INS 150 d), Improver (INS 1101 i). Allergen Advice: Contains Wheat, Milk and Soy. May contain traces of Nut.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906188960186",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030735349",
+  "barcode_printed": "8901030735349",
+  "barcode_format": "EAN-13",
+  "name": "Fruit & Nut",
+  "brand": "kwality-wall-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "FROZEN DESSERT: (Water, Sugar, Condensed Milk, Palm Oil, Liquid Glucose, Maltodextrin, (Hazelnut) Flavouring Substance, Food Colours - E102, E122, E110, Cocoa Solids, Emulsifier E471, Stabilisers (E410, E412), Artificial Aimonds (1.6%), Liquid Glucose, Emulsifier - E471, Vegetable Protein E133, E143), Palm Oil, Milk Solids, Cashew Nuts (3.2%), Raisins (3.2%), (Soy), Stabilisers (E412, E417, E407, E410), Nature Identical Flavouring Substance, Food Colour-E102, E110. CONTAINS MILK, SOY & NUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030735349",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

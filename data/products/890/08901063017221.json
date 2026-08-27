@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063017221",
+  "barcode_printed": "8901063017221",
+  "barcode_format": "EAN-13",
+  "name": "Brittania Maska chaska",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 502,
+        "protein_g": 7,
+        "carbohydrate_g": 60,
+        "sugars_g": 10,
+        "fat_g": 26,
+        "saturated_fat_g": 13,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (PALM), SUGAR, LIQUID GLUCOSE, RAISING AGENTS [503(ii), 500(ii), 450(i)], BUTTER (1.2%), BLACK SALT, MILK SOLIDS, EDIBLE VEGETABLE PRODUCT (1%), IODISED SALT, ACIDITY REGULATOR [341(ii)], DOUGH CONDITIONER (223) AND IMPROVER [1101(0)1. CONTAINS ADDED FLAVOUR [ARTIFICIAL FLAVOURING SUBSTANCE (BUTTER)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063017221",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

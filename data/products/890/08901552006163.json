@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552006163",
+  "barcode_printed": "8901552006163",
+  "barcode_format": "EAN-13",
+  "name": "Surti Undhiu",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283.49523125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Papdi Lilva (Indian Bean Seeds), Potato, Sunflower Oil, Papdi (Indian Beans), Sweet Potato, Brinjal, Banana, Violet Yam, Coriander Leaf, Sugar, Garlic Fresh, Ginger, Green Chili. Chick Pea Flour, Salt, Coconut Shredded, Fenugreek Leaves, Coriander Powder, Cumin Powder, Sesame Seeds, Spices (Black Pepper, Cinnamon, Clove, Coriander, Cardamom) Chilies, Cumin, Nutmeg, Bay Leaf), Chili Powder, Turmeric Powder, Carom.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552006163",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

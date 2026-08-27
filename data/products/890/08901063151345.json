@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151345",
+  "barcode_printed": "8901063151345",
+  "barcode_format": "EAN-13",
+  "name": "Good day",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Flour (wheat), sugars (sugar, invert sugar), pistachio (0.65%), whole milk powder, butter (milk) (0.6%), vegetable fat (palm), almond (1.2%), cashew bits (0.6%), ammonium bicarbonate, sodium bicarbonate, salt, soy lecithin, artificial flavours (milk, almond, vanilla), beta carotene, diacetyle tartaric acid esters of mono , diglycerides (palm)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151345",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

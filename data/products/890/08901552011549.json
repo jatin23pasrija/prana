@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552011549",
+  "barcode_printed": "8901552011549",
+  "barcode_format": "EAN-13",
+  "name": "Bombay Biryani",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283.49523125,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 186.1,
+        "energy_kj": 778.6,
+        "protein_g": 2.1,
+        "carbohydrate_g": 20,
+        "sugars_g": 0,
+        "fat_g": 4.2,
+        "saturated_fat_g": 0.7,
+        "sodium_mg": 343
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Basmati Rice, Onions, Vegetables (Potatoes, Carrots, Cauliflower, Green Peas, French Beans), Tomato, Sunflower Oil, Salt, Garlic, Coriander Leaves, Ginger, Mint Leaves, Spices (Black Pepper, Black Cardamom, Green Cardamom, Mace, Cumin Powder, Clove Powder, Bay Leaf, Cinnamon Powder, Star Anise, Fennel, Dried Ginger, Salt & Caraway), Green Chilli, Turmeric Powder, Cumin Powder, Coriander Powder, Red Chilli Powder, Cinnamon, Black Pepper, Bay Leaf, Cumin Whole, Green Cardamom Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552011549",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

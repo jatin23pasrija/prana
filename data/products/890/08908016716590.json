@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08908016716590",
+  "barcode_printed": "8908016716590",
+  "barcode_format": "EAN-13",
+  "name": "Protien Bar - Fudge",
+  "brand": "fuelled",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1.0 portion (55.0 g)",
+        "quantity": {
+          "value": 55,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 206,
+        "protein_g": 15,
+        "carbohydrate_g": 21,
+        "sugars_g": 2,
+        "fat_g": 10,
+        "saturated_fat_g": 3,
+        "fibre_g": 14,
+        "sodium_mg": 34
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908016716590",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

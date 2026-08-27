@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08906114851540",
+  "barcode_printed": "8906114851540",
+  "barcode_format": "EAN-13",
+  "name": "Energy and focus",
+  "brand": "neuro",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 7.1,
+        "protein_g": 0.09,
+        "carbohydrate_g": 1.06,
+        "sugars_g": 0,
+        "fat_g": 0.28,
+        "sodium_mg": 0.03
+      }
+    }
+  ],
+  "ingredients_raw": "Caffeine 40mg,L-theanine 60mg,Vitamin B6 (Pyridox ine hydrochloride) 0.7mg ,Vitamin B12 (Cyanocobalamin) 2.2μg,INS 420(i),Gum base,INS953, magnesium stearate(INS470),INS 955,INS 960,INS 551,INS 133",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906114851540",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

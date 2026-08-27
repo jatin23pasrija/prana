@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08935235302785",
+  "barcode_printed": "8935235302785",
+  "barcode_format": "EAN-13",
+  "name": "Dowee Donut Strawberry",
+  "brand": "rebisco",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 28,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 130,
+        "protein_g": 1,
+        "carbohydrate_g": 16,
+        "sugars_g": 9,
+        "fat_g": 7,
+        "saturated_fat_g": 3.5,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 70
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Eggs, Vegetable Oil (Palm), Sugar, Glucose Syrup, Humectants (Sorbitol (E420ii) (3.8%), Glycerine (E422)), Water, Skimmed Milk Powder, Soya Flour, Mono & Diglycerides (E471) as Emulsifying Agent, Leavening Agents (Sodium Acid Pyrophosphate (E450i), Sodium Bicarbonate (E500ii)), Iodized Salt, Preservatives (Potassium Sorbate (E202), Sorbic Acid (E200)), Artificial Flavors (Milk, Vanilla), Xanthan Gum (E415) as Stabilizer. Coating: Sugar, Non-Hydrogenated Vegetable Fat (Palm Kernel), Skimmed Milk Powder, Dextrose Powder, Artificial Colors (Titanium Dioxide (E171), FD&C Red#40 Lake (Allura Red Lake) (E129)). Emulsifying Agent (Soya Lecithin (E322i)), Sorbic Acid (E200) as Preservative, Artificial Vanillin Flavor. Filling: Glucose Syrup, Water, Sugar, Sorbitol (E420ii) (6.4%) as Humectant, Pectin (E440) as Thickener, Citric Acid (E330) as Acidulant, Artificial Strawberry Flavor, Potassium Sorbate (E202) as Preservative, Caramel Color (E150d) as Natural Color, FD&C Red#40 (Allura Red) (E129) as Artificial Color. String: Sugar, Non-Hydrogenated Vegetable Fat (Palm Kernel), Whey Powder, Emulsifying Agent (Soya Lecithin (E322i)). FD&C Red#40 Lake (Allura Red Lake) (E129) as Artificial Color.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8935235302785",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

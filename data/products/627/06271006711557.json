@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "06271006711557",
+  "barcode_printed": "6271006711557",
+  "barcode_format": "EAN-13",
+  "name": "White Meat Tuna With Chili",
+  "brand": "alwazzan",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "160 g",
+        "quantity": {
+          "value": 160,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 111,
+        "protein_g": 24,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 1.36,
+        "saturated_fat_g": 0.19,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 424
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6271006711557",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071359108",
+  "barcode_printed": "8901071359108",
+  "barcode_format": "EAN-13",
+  "name": "Sofit Soya Drink Vanilla Flavour 1ltr",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SOYABEANS(13.6%), SUGAR, MINERAL (TRICALCIUM PHOSPHATE), EMULSIFIER (460(i),466), OLIGOFRUCTOSE (DIETARY FIBRE) (0.25%), ACIDITY REGULATOR (500 ii), FLAVOURS (NATURE IDENTICAL FLAVORING SUBSTANCES), EDIBLE COMMON SALT, VITAMIN E (ACETATE), VITAMIN A (ACETATE), VITAMIN B1 (THIAMINE MONONITRATE), VITAMIN B2 (RIBOFLAVIN) AND VITAMIN B12 (CYANOCOBALAMIN). ALLERGEN INFORMATION: CONTAINS SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071359108",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

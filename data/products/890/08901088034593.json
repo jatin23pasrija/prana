@@ -1,0 +1,79 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088034593",
+  "barcode_printed": "8901088034593",
+  "barcode_format": "EAN-13",
+  "name": "SAFOLA ACTIVE - MULTI-SOURCE EDIBLE OIL",
+  "brand": "saffola",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "10g",
+        "quantity": {
+          "value": 10,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 90,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 10,
+        "saturated_fat_g": 2.2,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "PHYSICALLY REFINED RICE BRAN OIL, REFINED SOYA BEAN OIL, ANTIOXIDANTS (INS 319, 330), VITAMINS, ANTI FOAMING AGENT (INS 900a).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088034593",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

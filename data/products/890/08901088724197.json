@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088724197",
+  "barcode_printed": "8901088724197",
+  "barcode_format": "EAN-13",
+  "name": "Munchiez Ragi Chips",
+  "brand": "saffola",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 489,
+        "protein_g": 5.5,
+        "carbohydrate_g": 61.1,
+        "sugars_g": 7.4,
+        "fat_g": 25.5,
+        "saturated_fat_g": 6.2,
+        "fibre_g": 3.4,
+        "sodium_mg": 890
+      }
+    }
+  ],
+  "ingredients_raw": "CEREAL PRODUCT (60.1%) [RAGI FLOUR (24.8%) CORN MEAL, RICE FLOUR), EDIBLE VEGETABLE OIL (REFINED RICE BRAN OIL), STARCH, SUGAR, - SPICES AND CONDIMENTS, IODISED SALT, STABILIZERS [INS 170(i)], DEHYDRATED MANGO POWDER, MALTODEXTRIN, MILK SOLIDS, DEXTROSE, RAISING AGENT [INS 500 (ii)], FLAVOUR (NATURAL AND NATURE-IDENTICAL FLAVOURING SUBSTANCE, HYDROLYSED VEGETABLE PROTEIN, ACIDITY REGULATORS [INS 330, INS 262(ii)], FLAVOUR ENHANCER (INS 627, 631), YEAST EXTRACT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088724197",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

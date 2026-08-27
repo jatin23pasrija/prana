@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08904534657841",
+  "barcode_printed": "8904534657841",
+  "barcode_format": "EAN-13",
+  "name": "Malabar parota",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "sugars_g": 0.2,
+        "fat_g": 10.1,
+        "saturated_fat_g": 7.02
+      }
+    }
+  ],
+  "ingredients_raw": "wheat flour, cholesterol free oil,RO & UV water and iodised Salt,no artificial, colouring agent added",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904534657841",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

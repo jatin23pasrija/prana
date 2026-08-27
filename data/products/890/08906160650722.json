@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906160650722",
+  "barcode_printed": "8906160650722",
+  "barcode_format": "EAN-13",
+  "name": "Mr Makhana (Black Salt)",
+  "brand": "mr-makhana",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 357.6,
+        "energy_kj": 1497,
+        "protein_g": 7.1,
+        "carbohydrate_g": 39.9,
+        "sugars_g": 0.49,
+        "fat_g": 18.4,
+        "saturated_fat_g": 3,
+        "fibre_g": 3.7,
+        "sodium_mg": 196.1
+      }
+    }
+  ],
+  "ingredients_raw": "Makhana (Fox Nuts) 70%, Olive Oil, Seasoning (Malto-Dextrin, Black Salt).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906160650722",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

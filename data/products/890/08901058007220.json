@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058007220",
+  "barcode_printed": "8901058007220",
+  "barcode_format": "EAN-13",
+  "name": "Maggie masala magic",
+  "brand": "maggi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 166,
+        "protein_g": 4.2,
+        "carbohydrate_g": 30.7,
+        "sugars_g": 13.5,
+        "fat_g": 2.9,
+        "saturated_fat_g": 1.4,
+        "trans_fat_g": 0.04,
+        "fibre_g": 9.1,
+        "sodium_mg": 10916
+      }
+    }
+  ],
+  "ingredients_raw": "Wo MI For the KRIDIENTS: Mixed spices, (35.3%) M Rossed Spice powder (17.5%) (Cumin, oriander, Turmeric, Aniseed, Black epper, Fenugreek, Ginger, Clove, Green ardamom powder, Nutmeg), Red chilli owder, Dehydrated onion, Dried garlic, US apsicum extract, Coriander extract, umin extract), lodized salt, Sugar, arch, Flavour enhancer (635), Thickener 08), Palm oil, Acidity regulator (330), atural flavouring substance, Mineral, c) i olour (150d) B) G) D) H)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058007220",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

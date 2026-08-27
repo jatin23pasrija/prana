@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010361235",
+  "barcode_printed": "8906010361235",
+  "barcode_format": "EAN-13",
+  "name": "Rice Kodubale",
+  "brand": "town-bus",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rice Flour (42%). Refined Palmofein Oil, Refined Wheat Flour (9%), Green Chill, Coconut Milk, Semolina, Salt, Sesame, Cumin, Ginger and Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010361235",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

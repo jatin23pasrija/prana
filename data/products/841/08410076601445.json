@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08410076601445",
+  "barcode_printed": "8410076601445",
+  "barcode_format": "EAN-13",
+  "name": "Nature valley crunchy",
+  "brand": "nature-valley",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Avoine complète (56%), sucre, huile de tournesol, beurre de cacahuètes (8%) (cacahuète, sel), morceaux de cacahuètes (2%), mélasse, miel. sel, poudre à lever: bicarbonate de sodium; émulsifiant: lécithine de tournesol.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8410076601445",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

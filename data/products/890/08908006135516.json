@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08908006135516",
+  "barcode_printed": "8908006135516",
+  "barcode_format": "EAN-13",
+  "name": "Moraz Strawberry Crush",
+  "brand": "moraz",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 224,
+        "protein_g": 0.95,
+        "carbohydrate_g": 58.04,
+        "sugars_g": 45.03,
+        "fat_g": 0.06
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR,WATER,STRAWBERRY PULP(28%), THICKENER(INS-440) ACIDITY REGULATOR(INS-330)& CONTAINS PERMITTED CLASS II PRESERVATIVES(INS-224,INS-211) CONTAINS PERMITTED FOOD COLOR (INS-122,INS-127). CONTAINS NATURAL NATURE - IDENTICAL ARTIFICIAL FLAVOURING SUBSTANCES(STRAWBERRY).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908006135516",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201758639",
+  "barcode_printed": "7622201758639",
+  "barcode_format": "EAN-13",
+  "name": "Perk",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 512,
+        "protein_g": 3.7,
+        "carbohydrate_g": 67.9,
+        "sugars_g": 44.9,
+        "fat_g": 25.4,
+        "saturated_fat_g": 20,
+        "trans_fat_g": 0.2,
+        "sodium_mg": 99
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Interesterified Vegetable Fat, Refined Wheat Flour (Maida), Lactose-Rich Deproteinized Whey Permeate Powder, Starch, Cocoa Solids (5%), Palmolein, Emulsiffers (442, 322, 476), lodised Salt, Yeast, Flavours (Natural, Natural identical and Artificial (Caramel and Vanilla) Flavouring Substances), Raising Agent (500(i)), Improver (1101(i)) Allergen Information: Contains Milk, Wheat, Soy, Sulphites. May Contain Barley.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201758639",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

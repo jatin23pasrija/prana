@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08906019630059",
+  "barcode_printed": "8906019630059",
+  "barcode_format": "EAN-13",
+  "name": "Noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 371.6,
+        "protein_g": 11.92,
+        "carbohydrate_g": 79.81,
+        "sugars_g": 1.48,
+        "fat_g": 0.52,
+        "saturated_fat_g": 0.27,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906019630059",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

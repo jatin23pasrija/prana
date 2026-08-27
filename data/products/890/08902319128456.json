@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902319128456",
+  "barcode_printed": "8902319128456",
+  "barcode_format": "EAN-13",
+  "name": "Bitter drops",
+  "brand": "arth",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Momordica charantia (Karela) fruit powder, Berberis aristata (Daru haridra) stem powder, Centratherum anthelminticum (Kali jeeri) seed powder. Taraxacum officinale (Dugdh pheni) whole plant powder, Artemisia absinthium (Chauhar) whole plant powder, Angelica glauca (Nishachara) root powder. Andrographis paniculata (Kalmegh) whole plant powder, Achillea millefolium (Biranjsifa) leaf powder, Zingiber officinale (Shunthi) rhizome powder, Elettaria cardamomum (Ela) seed powder, Curcuma longa (Haridra) rhizome powder. Curcuma zedoaria (Kachur) rhizome powder, Foeniculum vulgare (Saunt) fruit powder, Carum carvi (Kala Jeera) fruit powder. Preservative (Apple Cider Vinegar), Preservative (Sodium Benzoate), Preservative (Potassium Sorbate), Diluent (Ethanol). Diluent (Purified water).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902319128456",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

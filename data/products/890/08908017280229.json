@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017280229",
+  "barcode_printed": "8908017280229",
+  "barcode_format": "EAN-13",
+  "name": "Mango Drink",
+  "brand": "squeeze",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, SUGAR, MANGO PULP ACIDITY REGULATOR (E330, E331), NATURAL& NATURE-IDENTICAL FLAVOURING SUBSTANCES (MANGO), STABILIZER (E412, E466, E415), PRESERVATIVE (E202), PERMITTED SYNTHETIC FOOD COLOUR (E110).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017280229",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

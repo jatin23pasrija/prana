@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009523013",
+  "barcode_printed": "8908009523013",
+  "barcode_format": "EAN-13",
+  "name": "Badam Flavoured Milk",
+  "brand": "rango",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 109,
+        "protein_g": 3.9,
+        "carbohydrate_g": 18.05,
+        "sugars_g": 16.2,
+        "fat_g": 3.2,
+        "saturated_fat_g": 2,
+        "trans_fat_g": 0,
+        "sodium_mg": 60
+      }
+    }
+  ],
+  "ingredients_raw": "Toned milk (82%), Badam bits (0.6%), potable water, Milk solids Sugar, Emulsifier(INS 471), Stabilizers (INS 418, INS 407, INS 415), lodized Salt, Acidity Regulators (INS 340 (ii), 340 (iii),452(i) Contains Permitted Synthetic Food Colours (Ins 102, Ins 110) And Added Flavours (Natural Flavors And Nature Identical Flavouring Substance) (Badam)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009523013",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08904022932214",
+  "barcode_printed": "8904022932214",
+  "barcode_format": "EAN-13",
+  "name": "Wholewheat Brown Bread",
+  "brand": "la-americana-gourmet",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 287,
+        "protein_g": 10.7,
+        "carbohydrate_g": 51.39,
+        "sugars_g": 2.46,
+        "fat_g": 2.51,
+        "saturated_fat_g": 0.42,
+        "fibre_g": 8.11,
+        "sodium_mg": 508
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour - Atta (53.0%), Water, Yeast, Jaggery (2.1%), Cold Pressed Sunflower Oil, Pink Salt (1.0%) and Fermented Whole Wheat Flour (Atta).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904022932214",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

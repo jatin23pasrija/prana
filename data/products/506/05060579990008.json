@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "05060579990008",
+  "barcode_printed": "5060579990008",
+  "barcode_format": "EAN-13",
+  "name": "Curry Paste",
+  "brand": "mighty-spice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 471,
+        "protein_g": 6.6,
+        "carbohydrate_g": 55.8,
+        "sugars_g": 7.7,
+        "fat_g": 24.5,
+        "saturated_fat_g": 2.2,
+        "fibre_g": 3.8,
+        "sodium_mg": 2900
+      }
+    }
+  ],
+  "ingredients_raw": "Dehydrated Onion (15%), Sunflower Oil (15%), Tomato (15%), Garlic (12%), Coriander Leaves (9%), Sugar (9%), Ginger, Salt, Coriander Seeds, Fennel Seeds, Red Chilli Powder, Green Cardamom, Mixed Ground Spices, Acidity Regulator (Acetic Acid).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5060579990008",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

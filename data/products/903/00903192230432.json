@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "00903192230432",
+  "barcode_printed": "0903192230432",
+  "barcode_format": "EAN-13",
+  "name": "5:15pm Pistachio Kunafa Cholotate",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk chocolate (sugar, Cocoa mass, Cocoa butter, Skimmed milk powder, Hydrogenated vegetable fat, Milk fat, Milk solids, Emulsifier (ins 322 (ii)). emulsifier (ins 492), Emulsifier (bns 476), Roasted kunafa (wheat flour, Vegetable fat (palm). sugar, Glucose, Butter ghee, Corn starch, Edible common salt), Pistachio, White chocolate (sugar, Hydrogenated vegetable fat, Milk solids, Anhydrous milk fat, Emulsifier (ins 322 (i)/(322()) & nature identical flavouring substances - vanilin]), Colour (chlorophy) & natural & nature identical flavouring substances (pistachio & vanillin).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0903192230432",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

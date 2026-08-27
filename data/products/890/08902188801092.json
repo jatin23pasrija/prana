@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08902188801092",
+  "barcode_printed": "8902188801092",
+  "barcode_format": "EAN-13",
+  "name": "chilli powder",
+  "brand": "ramdev",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 435.01,
+        "protein_g": 14.12,
+        "carbohydrate_g": 51.14,
+        "sugars_g": 6.89,
+        "fat_g": 19.33,
+        "saturated_fat_g": 2.86,
+        "fibre_g": 31.07,
+        "sodium_mg": 401
+      }
+    }
+  ],
+  "ingredients_raw": "Chilli powder, Refined palmolein edible oil.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902188801092",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

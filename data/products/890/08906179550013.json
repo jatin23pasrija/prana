@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906179550013",
+  "barcode_printed": "8906179550013",
+  "barcode_format": "EAN-13",
+  "name": "Purohit Tikha Masala Mamra",
+  "brand": "purohit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Puffed Rice(85%), Edible Palm Oil (12%), Iodized Salt, Sugar, Red Chilli Powder, Turmeric Powder, Garam Masala, Asafoetida, Curry Leaves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906179550013",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

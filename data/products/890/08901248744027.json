@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901248744027",
+  "barcode_printed": "8901248744027",
+  "barcode_format": "EAN-13",
+  "name": "Zandu Chyawanplus",
+  "brand": "zandu",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Each 100 g is prepared from: Extract derived from Clerodendrum phlomidis Linn. (RT), Aegle marmelos Com. (ST.BK), Gmeling arborea Linn. (STBK), Side cordifolia Linn. (WH.PL.), Leptadenia reticulata W&A. (RT.), Teramus labialis Spreng. (WH. PL.), Vigna trilobata (Linn.) Verdc. (WH. PL.), Stereospermum chelonoides LE) DC. (STBK), Uraria picta Desv. (WH.PL.), Boerhaavia diffusa Linn. (WH.PL.), Desmodium gangeticum DC. (WH. PL.), Hedychium spicatum Ham. ex Smith (RZ.), Oroxylum indicum Vent (RT) 0.16g each, Terminalia arjuna W. & A. (ST. BK.) 0.40g, Bacopa monnieri (Linn.) Wettst. (WH PL) 0.80g, Solanum anguivi Lam. (WH. PL.) 0.04g, Terminalia chebula Retz. (FR.) 0.4g, Tribulus terrestris Linn. (FR.) 0.04g, Tinospora cordifolia (Willd.) Miers. (ST.) 0.1 g, Phyllanthus fratemus Webst. (RT/ST/LF) 0.01g, Celastrus paniculatus Willd. (SD.) 0.35g, Martynia annua Limm. (SD) 0.01 Withania somnifera Dunal. (RT 0.8g, Solanum surattense Burm. f. (WH. PL) 0.04 Asparagus racemosus Wild. (TUB. RT.) 0.8g, Cyperus rotundus Linn. (RZ) 0.4g, Dioscorea bulbilera Um (RZ) 0.8g, Convolvulus pluricaulis Choisy (WH PL.) 0.80g, Pistacia chinensia Burgo 0.01g Nymphaea stellata Willd. (FL) 0.01g, Adhatoda vasica Nees (LF) 0.5g, Pueraria tuberosa DC. (UB) 0.18g, Glycyrrhiza glabra Linn. (P 2.4g. Powders of Bambusa arundinacia Wild SC) Dotg, Cinnamomum cassia Blume (5. BK.) 0.2g, Mesua ferrea Linn. (INFL) 0.12 Commemomum tamala (Buch.-Ham.) Nees & Eberm. (LF) 0.5g, Amomum subulatum Roxb./Elellaria demomum (Lin Maton (FR.) 0.5g, Syzygium aromaticum (Linn.) Mem. & L.M. Perry (FL. BUD 2ig Piper longum Linn. (FR.) 0.55g, Abhraka Bhasma, Muktasukti Bhasma, Svama Maske Bhasma Yasada Bhasma 0.10g each, Emblica officinalis Gaertn. (FR.- Pishti) 24.0g, Sarkara 66.0g Madhu (Honey) 0.95g, Crocus sativus Linn. (STY. & STG.) 0.01g, Varka of Chandi 5.5 mg Warka of Sona 0.0305 mg, Almond Oil 0.0375g, Water q.s. Preservatives used: Methyl Paraben Ng, Propyl Paraben 0.03g, Sodium Benzoate 0.25g. A च्यवनप्र याददाशत 5 Memory enhancers nkhapushpi 尖",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901248744027",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

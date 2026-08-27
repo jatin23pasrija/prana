@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393019117",
+  "barcode_printed": "8901393019117",
+  "barcode_format": "EAN-13",
+  "name": "Happydent wave sugarfree",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 17,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "polyols (maltitol, xylitol (7%), sorbitol), gum base, humectant (ins 422), thickeners (ins 1405, ins 1412, ins 415 , ins 466), flavours {natural, nature-identical and artificial (mint) flavouring substances}, sweetener (ins 951), emulsifiers (ins 322, ins 473), glazing agents (ins 903, ins 901, ins 904) antioxidant (ins 321), colours (ins 102, ins 133)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393019117",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

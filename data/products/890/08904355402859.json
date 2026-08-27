@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904355402859",
+  "barcode_printed": "8904355402859",
+  "barcode_format": "EAN-13",
+  "name": "Apollo Life Vitamin B-12 Tablets",
+  "brand": "apollo-life",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Methylcobalamin,Excipients",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904355402859",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

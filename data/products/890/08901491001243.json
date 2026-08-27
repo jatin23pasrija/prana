@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491001243",
+  "barcode_printed": "8901491001243",
+  "barcode_format": "EAN-13",
+  "name": "Oats with Flavour Mix",
+  "brand": "quaker",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rolled Oats. Homestyle Masala Flavour Mix (3 sachets) - *Seasoning (lodised Salt, Sugar, *Spices & Condiments, Maize Flour, Tomato Powder, Flavour (Natural & Nature Identical Flavouring Substances), Acidity Regulators (330, 296), Anticaking Agent (551), Flavour Enhancer (635)). 6% 4% 0% 1921 mg 47% &quot;Approximate Values 8% ROLLED OATS AND SEASONING Tangy Tomato Flavour Mix (1 sachet) - Seasoning (Sugar, lodised Salt, Maltodextrin, *Spices & Condiments, Flavour (Natural & Nature Identical Flavouring Substances), Hydrolysed Vegetable Protein, Tomato Powder, Flavour Enhancers (627 631), Anticaking Agent (551), Edible vegetable Oil (Palm, Sunflower), Stabiliser (414), Antioxidant (320)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491001243",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

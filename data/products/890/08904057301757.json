@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904057301757",
+  "barcode_printed": "8904057301757",
+  "barcode_format": "EAN-13",
+  "name": "Red Velvet Flavoured Ice Cream",
+  "brand": "arun-ice-cream",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 79,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Ice Cream (67%): (Milk Solids, Sugar, Water, Cocoa Solids, Liquid Glucose, Emulsifiers (471, 477), Stabilizers (412, 410), Nature-Identical Flavoring Substance & Color (129)). Spraying & Toppings (18%): Cocoa Flavored Confectionery (Edible Vegetable Oils (Coconut Oil & Palm Kernel Oil), Sugar, Maltodextrin, Milk Solids, Cocoa Solids, Emulsifier (322) & Artificial (Vanilla) Flavoring Substances) & Cookie Crumble (Humectant (422), Raising Agent (503(ii), 500(ii)), Acidity Regulator (450(i), 330), Emulsifier (322) & Nature-Identical Flavoring Substances). Wafer Cone (15%): (Water, Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm Kernel Oil), Emulsifier (322), Nature-Identical Flavoring Substances & Colors (129, 162)). Allergen Information: Contains Milk & Wheat. Manufactured in the same facility which processes Nuts, Oats & Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904057301757",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

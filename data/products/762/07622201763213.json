@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201763213",
+  "barcode_printed": "7622201763213",
+  "barcode_format": "EAN-13",
+  "name": "Silk Oreo Red Velvet",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 130,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk Chocolate (50%*) - Sugar, Milk Solids (13 %*), Cocoa Butter, Cocoa Solids, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances); Centre (50%*) - Fractionated Fat, Sugar, Biscuit 13%* (Refined Wheat Flour (Maida), Sugar, Palmolein, Color (162), Invert Sugar, Cocoa Solids, Leavening Agents (500(ii), 503 (ii)), lodised Salt, Emulsifier (322), Flavours (Artificial (Vanilla) Flavouring Substances)), Milk Solids, Lactose-Rich Deproteinized Whey Permeate Powder, Flavours (Natural and Artificial (Vanilla) Flavouring Substances), Emulsifier (442). Allergen Information: Contains Milk, Wheat and Soy. May Contain Barley.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201763213",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

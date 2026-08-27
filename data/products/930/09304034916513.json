@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "09304034916513",
+  "barcode_printed": "9304034916513",
+  "barcode_format": "EAN-13",
+  "name": "Specialty Hot Chocolate - Junior Dark 50% Cacao",
+  "brand": "mork-cacao-artisans-of-melbourne",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (25 g)",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 98,
+        "protein_g": 2.5,
+        "carbohydrate_g": 14.2,
+        "sugars_g": 11.7,
+        "fat_g": 2.9,
+        "saturated_fat_g": 1.8,
+        "sodium_mg": 20
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9304034916513",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

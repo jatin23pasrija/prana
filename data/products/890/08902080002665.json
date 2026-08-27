@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080002665",
+  "barcode_printed": "8902080002665",
+  "barcode_format": "EAN-13",
+  "name": "Tropicana Frutz",
+  "brand": "tropicana",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, SUGAR, CONCENTRATED MIXED FRUIT JUICE 25% (FROM APPLE, MANGO, GUAVA, ORANGE, BANANA, APRICOT, PEACH), ACIDITY REGULATORS (330, 3310), STABILIZER (466, 649) FLAVOUR (NATURAL AND NATURE IDENTICA FLAVOURING SUBSTANCES), PRESERVATIVE (297) COLOUR (1608(0)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080002665",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

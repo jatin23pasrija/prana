@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901233020624",
+  "barcode_printed": "8901233020624",
+  "barcode_format": "EAN-13",
+  "name": "Dairy Milk - Home Treats",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Energy kcal 523 Protein g 8.1 Carbohydrate g 60.5 (of which sugar) g 57.4 Fat g 29.0 (of which Saturated Fat) g 17.6 Trans Fat g 0.1 Sodium mg 152 Fibre g 2.1",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901233020624",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

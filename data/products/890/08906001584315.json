@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001584315",
+  "barcode_printed": "8906001584315",
+  "barcode_format": "EAN-13",
+  "name": "Cream 4 fun",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 466.67,
+        "protein_g": 6.67,
+        "carbohydrate_g": 76.67,
+        "sugars_g": 36.67,
+        "fat_g": 15,
+        "saturated_fat_g": 6.67,
+        "fibre_g": 3.33,
+        "sodium_mg": 133.33
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001584315",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058858358",
+  "barcode_printed": "8901058858358",
+  "barcode_format": "EAN-13",
+  "name": "Multigrain fillows nesplus",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 405,
+        "protein_g": 5.6,
+        "carbohydrate_g": 66.5,
+        "sugars_g": 23.9,
+        "fat_g": 13,
+        "saturated_fat_g": 5,
+        "sodium_mg": 53.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058858358",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

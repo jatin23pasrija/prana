@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904327600931",
+  "barcode_printed": "8904327600931",
+  "barcode_format": "EAN-13",
+  "name": "Myfitness Chocolate peanut butter",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 510,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 615.63,
+        "protein_g": 25,
+        "carbohydrate_g": 18.75,
+        "sugars_g": 9.38,
+        "fat_g": 46.88,
+        "saturated_fat_g": 9.38,
+        "fibre_g": 6.25,
+        "sodium_mg": 346.88
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904327600931",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

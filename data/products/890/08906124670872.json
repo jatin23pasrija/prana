@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906124670872",
+  "barcode_printed": "8906124670872",
+  "barcode_format": "EAN-13",
+  "name": "Geks Era Black Currant Pulp & Juice",
+  "brand": "geks-era",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 78.59,
+        "protein_g": 1.48,
+        "carbohydrate_g": 10.89,
+        "fat_g": 2.19
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Reconstituted Black currant juice 6%, Aloe Vera Juice & Pulp (5%), Acidity Regulator (E 330, E 331, E 296), Class II Preservatives (E 202, E 211), Stabilizer (E 418) Contains Permitted Synthetic Food Colour (E127, E 133) and Added Nature Identical Flavouring Substances (Black Currant)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906124670872",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904022915835",
+  "barcode_printed": "8904022915835",
+  "barcode_format": "EAN-13",
+  "name": "Bourbon Chocolate Biscuits",
+  "brand": "holland-park",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 475,
+        "protein_g": 5.8,
+        "carbohydrate_g": 72.3,
+        "sugars_g": 38.4,
+        "fat_g": 17.8,
+        "saturated_fat_g": 10,
+        "trans_fat_g": 0,
+        "fibre_g": 1.5,
+        "sodium_mg": 147
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904022915835",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

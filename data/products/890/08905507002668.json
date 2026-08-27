@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08905507002668",
+  "barcode_printed": "8905507002668",
+  "barcode_format": "EAN-13",
+  "name": "Cream n onion potato chips",
+  "brand": "firstcrop",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato (56.1%), Refined Palmolein Oil, Sugar (Sucrose), Milk Solids (2.5), Onion Powder (1%), Parsley, lodized Salt, White Pepper Powder Contain Added Flavour (Natural and Nature Iden - tical Flavouring Substances). ALLERGEN ALERT: CONTAINS MILK ALLERGEN Advice: This product is processed in a facility that also processes Nuts, Soy, Milk, Peanuts, Wheat Oats, Mustard, Celery, Oats and Sesame.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905507002668",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

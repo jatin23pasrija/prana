@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058029949",
+  "barcode_printed": "8901058029949",
+  "barcode_format": "EAN-13",
+  "name": "Milkybar",
+  "brand": "nestle",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 24.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk solids (35%), Sugar, Hydrogenated vegetable fats, Fractionated vegetable fat, Emulsifier (Soya lecithin) and Nature-Identical flavouring substance. Allergen Note: Contains Milk, soy and Sesame. May Contain Oats, Wheat, Nut and Barley.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058029949",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

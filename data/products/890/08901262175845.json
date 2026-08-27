@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262175845",
+  "barcode_printed": "8901262175845",
+  "barcode_format": "EAN-13",
+  "name": "Icecream",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 174,
+        "energy_kj": 0,
+        "protein_g": 3.4,
+        "carbohydrate_g": 15.5,
+        "sugars_g": 13.9,
+        "fat_g": 11,
+        "saturated_fat_g": 5.1,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262175845",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "05607780026234",
+  "barcode_printed": "5607780026234",
+  "barcode_format": "EAN-13",
+  "name": "Protein Chocolate",
+  "brand": "prozis",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 535,
+        "protein_g": 27,
+        "carbohydrate_g": 27,
+        "sugars_g": 9.9,
+        "fat_g": 38,
+        "saturated_fat_g": 23,
+        "fibre_g": 2.1,
+        "sodium_mg": 126
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5607780026234",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058003079",
+  "barcode_printed": "8901058003079",
+  "barcode_format": "EAN-13",
+  "name": "Maggi cheesy Tomato",
+  "brand": "maggi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 339,
+        "energy_kj": 1419,
+        "protein_g": 10.3,
+        "carbohydrate_g": 69.8,
+        "sugars_g": 7.6,
+        "fat_g": 2.1,
+        "saturated_fat_g": 1.4,
+        "fibre_g": 4.2,
+        "sodium_mg": 1218
+      }
+    }
+  ],
+  "ingredients_raw": "MA ##MACARONI (PASTA) Semolina (100%) [from Wheat]. CHEESY TOMATO *TASTEMAKER® Milk and sugar blend mix (Milk solids & Sugar), Sugar, Dehydrated tomato paste solids {Tomato paste (13.7%), Anticaking agent (551) & lodised salt), lodised salt, Mixed spices (Dehydrated onion, Dried garlic, Roasted garlic, Cumin powder, Red chilli, Capsicum extract, Black pepper, Coriander extract & Cumin extract), Dehydrated Green bell pepper (7.1%), Maltodextrin, Edible starch, Cheese powder (Cheese (3%) & Maltodextrin), Potato flakes (Potato, Margarine, lodised salt, Emulsifier (471) & Turmeric), Palm oil, Thickener (508), Flavour enhancer (635), Oregano bits and Acidity regulator (296).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058003079",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

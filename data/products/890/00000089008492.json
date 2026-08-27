@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00000089008492",
+  "barcode_printed": "89008492",
+  "barcode_format": "EAN-8",
+  "name": "Milkybar",
+  "brand": "nestle",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 10,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Westie SA, Avenue Nestlé 55, Sugar, Liquid glucose, Milk solids (16%), Hydrogenated vegetable fats, Fractionated vegetable fat, Emulsifier (Soya lecithin), Color (162), Artificial (Strawberry and Vanillal flavouring substances, Stabilizer (501), Acidity regulator (330) and Nature-Identical flavouring substance. Allergen Note: Contains Soy, Wheat, Milk and Sesame. May Contains Barley. For MED-USE BY-Lot No: See under the sea",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/89008492",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

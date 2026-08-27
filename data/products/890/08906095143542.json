@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906095143542",
+  "barcode_printed": "8906095143542",
+  "barcode_format": "EAN-13",
+  "name": "Plant Based Vegan D3",
+  "brand": "unived",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Medium-Chain Triglycerides (70%) 120mg, Vitashine™ 20mg as Cholecalciferol from Lichen OTHER INGREDIENT HPMC Vegetarian Capsule CONTAINS COCONUT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906095143542",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

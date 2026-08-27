@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058003017",
+  "barcode_printed": "8901058003017",
+  "barcode_format": "EAN-13",
+  "name": "Pazzta Masala Penne",
+  "brand": "maggi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 69.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 279,
+        "energy_kj": 1168,
+        "protein_g": 8.9,
+        "carbohydrate_g": 58,
+        "sugars_g": 6.9,
+        "fat_g": 2,
+        "saturated_fat_g": 1.5,
+        "fibre_g": 3.5,
+        "sodium_mg": 803
+      }
+    }
+  ],
+  "ingredients_raw": "Semolina (Wheat) (100%). MASALA #TASTEMAKER® ● Creative visualization. Refer pack for more details Mixed spices (21.7%) (Dehydrated onion, Toasted onion flakes, Coriander powder, Roasted garlic flake Aniseed powder, Turmeric powder, Dehydrated coriander leaves, Cumin powder, Garlic powder, Red chilli powder, Black pepper powder, Fenugreek powder, Ginger powder, Capsicum extract, Clove powde Green cardamom powder, Nutmeg powder, Coriander extract and Cumin extract), Milk solids, Sugar lodized salt, Starch, Dehydrated Green peas (67%), Flavour enhancer (635), Palm oil, Yeast extract powder, Thickener (508), Colour (150d) and Acidity regulator (330). Contains Wheat & Milk. May contains Mustard & Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058003017",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

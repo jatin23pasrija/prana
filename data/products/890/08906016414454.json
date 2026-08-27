@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906016414454",
+  "barcode_printed": "8906016414454",
+  "barcode_format": "EAN-13",
+  "name": "Spicy Buttermilk",
+  "brand": "godrej",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 23.4,
+        "protein_g": 1.1,
+        "carbohydrate_g": 1.6,
+        "sugars_g": 1.3,
+        "fat_g": 1.4,
+        "saturated_fat_g": 1.1,
+        "sodium_mg": 298
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Milk solids, Common salt, Spices & Condiments",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906016414454",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

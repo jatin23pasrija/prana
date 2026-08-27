@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063029255",
+  "barcode_printed": "8901063029255",
+  "barcode_format": "EAN-13",
+  "name": "Jimjam 57g (57)",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 57,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR (24%), REFINED PALM OIL & INTERESTERIFIED VEGETABLE FAT, INVERT SUGAR SYRUP, DEXTROSE, MILK PRODUCTS (MILK SOLIDS & SWEETENED CONDENSED MILK), EDIBLE MAIZE STARCH, MALTODEXTRIN, FRUIT PRODUCTS (0.7%) (APPLE JUICE CONCENTRATE, BANANA POWDER & PLUM JUICE CONCENTRATE), IODISED SALT, EMULSIFIERS [322(i) & 471], RAISING AGENTS [503(ii) & 500(ii)], NATURE IDENTICAL AND ARTIFICIAL (MIXED FRUIT, VANILLA & BUTTER) FLAVOURING SUBSTANCES, ACIDITY REGULATORS (330 & 331), GELLING AGENT (440) AND COLOUR (122). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK AND SOYA. ydrate-73g, of which Total 31 Total Fat-19g/141 no unsaturated fatty acids-7.29 fss Lic. No. 10015 100120260N For Mfg unit address & Lic. No. read the last two characters of CWALIOR 474005, MADHYA PRADESH Lic. No. the &quot;Lot No. and see address panel. 06-1.8. MANGHARAM FOODS 01129",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063029255",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

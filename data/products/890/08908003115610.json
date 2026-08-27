@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003115610",
+  "barcode_printed": "8908003115610",
+  "barcode_format": "EAN-13",
+  "name": "Chai Biscuit",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 396.89332375000004,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 473.68,
+        "protein_g": 7.02,
+        "carbohydrate_g": 57.89,
+        "sugars_g": 8.77,
+        "fat_g": 22.81,
+        "saturated_fat_g": 16,
+        "fibre_g": 5.26,
+        "sodium_mg": 631.58
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Interesterified Vegetable Fat (Rice Bran Oil, Palmoliein Oil, Seasame Oil/ Til Oil), Sugar, Skimmed Milk Powder (Source from Cow Milk), lodised Salt. Contains no Artificial Flavors and Colors Contains: Wheat, Milk, Sesame. Allergy Advice: May also contain Peanuts, Treenuts, Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003115610",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908012692157",
+  "barcode_printed": "8908012692157",
+  "barcode_format": "EAN-13",
+  "name": "Melatonin",
+  "brand": "melts",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Pullulan, Sunflower Lecithin, Plant Cellulose, Natural Lavender Flavor, Monk Fruit Extract",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908012692157",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

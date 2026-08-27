@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906055100011",
+  "barcode_printed": "8906055100011",
+  "barcode_format": "EAN-13",
+  "name": "Rajdhani besan 1 kg",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "chana dal nutritional facts appreximate values per 100g of besan (an dry basis) protein fat min 23,8% max, 5,2% total dietary fibre carbohydrates energy max, 9,4% max יבד trans fat gluten content cholesterol 370,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906055100011",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904064640122",
+  "barcode_printed": "8904064640122",
+  "barcode_format": "EAN-13",
+  "name": "Murukku",
+  "brand": "udaya",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 110,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Farine deffé, sésame, sel, cumin, iërtitiEi Zutaten: Weizenmehl, Sesam, Selz, kümmelt Pfeffet, rote, (Ïiù}linkenmeit! Ingredienti: farina di grano, di sesamot salet cumino\\ïëi$peperonctni li Ingredienser : Yetemiôl, sesam, solt, spisKummifl,ïëìïîtrrid chili} Ingrediënten : torwebloem, sesome, lout",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904064640122",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

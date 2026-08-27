@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906107930214",
+  "barcode_printed": "8906107930214",
+  "barcode_format": "EAN-13",
+  "name": "chat-patt fry noodles",
+  "brand": "c-top",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 517,
+        "protein_g": 8.8,
+        "carbohydrate_g": 58.6,
+        "sugars_g": 5.9,
+        "fat_g": 27.6,
+        "saturated_fat_g": 12.6,
+        "sodium_mg": 307.2
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Edible Vegetable Oil (Palmolein Oil), Edible Starch, Rice Flour, lodized Salt, Sugar, Chilli Powder, Dried Mango Powder, Black Salt, Maltodextrin, Acidity Regulator (INS 330), Flavour Enhancers (INS 627, INS 631), Anticaking Agent (INS 551), Ground Spices & Condiments (Black Pepper, Clove, Cardamom, Cumin, Nutmeg & Cinnamon in Powder Form) CONTAINS ADDED FLAVOURS - NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES - TOP *** - TOP *** C-TOP C-TOP C-10P &quot;C-TOP Chat-Patt&quot; is registered trade mark. All rights reserved. Imitation of Packaging Graphics is a Punishable Offence. Please Keep Your C realme P1 5G 27mm f/1.8 1/20s ISO6400 CUROP",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906107930214",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

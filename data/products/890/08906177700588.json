@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906177700588",
+  "barcode_printed": "8906177700588",
+  "barcode_format": "EAN-13",
+  "name": "Apple Cider Vinegar",
+  "brand": "one-pro",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Acidity Regulator (INS 500 NS 330), Apple Cider Vinegar (6% Acetic Acid), Dextrose Anhydrous, Diluent (Maltodextrin),Pomegranate (Punica granatum) Fruit Extract, Nature Identical Flavor Green Apple, Preservative (INS 211). Binding Agent,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906177700588",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

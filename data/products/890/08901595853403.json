@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595853403",
+  "barcode_printed": "8901595853403",
+  "barcode_format": "EAN-13",
+  "name": "Veg Hakka Noodles",
+  "brand": "chings-secret",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 373.33,
+        "protein_g": 12,
+        "carbohydrate_g": 80.67,
+        "sugars_g": 0,
+        "fat_g": 1,
+        "saturated_fat_g": 0,
+        "sodium_mg": 489.71
+      }
+    }
+  ],
+  "ingredients_raw": "Refined wheat flour (96%), wheat gluten, iodized salt, raising agents (INS 500(i), INS(ii), thickening and stabilizing agents (INS 451 (i), INS 339 (ii), INS 412), Acidity Regulators (INS 450 (iii), INS 501 (i))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595853403",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

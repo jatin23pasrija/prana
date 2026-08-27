@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08901393018134",
+  "barcode_printed": "8901393018134",
+  "barcode_format": "EAN-13",
+  "name": "Chupa Chups Bites Multi Colour",
+  "brand": "chupa-chups",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 61.6,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 366.5,
+        "protein_g": 2.5,
+        "carbohydrate_g": 81.2,
+        "fat_g": 2.5
+      }
+    }
+  ],
+  "ingredients_raw": "CHUPA CHUPS SGUR BITES MIXED FRUIT FIAVOUR CHEWY TOFFEE Ingredients: Liquid Glucose, Sugar, Wheat Flour Refined Ma. Invert Sugar, Hydrogenated Vegetable Oil, Acidity Regulators (INS 296, INS 330). CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 102, INS 133, INS 110, INS 122) AND ADDED NATURE - IDENTICAL FLAVOURING SUBSTANCES (MIXED FRUIT) CONTAINS GLUTEN Nutritional Information n# (nor 100m). L",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901393018134",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

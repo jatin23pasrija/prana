@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906078720289",
+  "barcode_printed": "8906078720289",
+  "barcode_format": "EAN-13",
+  "name": "Masala Sev Murmura",
+  "brand": "gopal-namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 569,
+        "protein_g": 9,
+        "carbohydrate_g": 48,
+        "sugars_g": 4,
+        "fat_g": 37.9,
+        "saturated_fat_g": 17.5,
+        "trans_fat_g": 0,
+        "sodium_mg": 521.2
+      }
+    }
+  ],
+  "ingredients_raw": "PUFFED RICE (32%), GRAM FLOUR (26%), EDIBLE VEGETABLE OIL (PALMOLEIN OIL) (35%), SPICES & CONDIMENTS (RED CHILLI POWDER (3%), GARLIC (2%)) AND EDIBLE COMMON SALT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906078720289",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

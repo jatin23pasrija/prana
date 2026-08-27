@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901782000726",
+  "barcode_printed": "8901782000726",
+  "barcode_format": "EAN-13",
+  "name": "Millet Muesli chocolate and cranberry",
+  "brand": "ei8ht-am",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 375,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Millets (Ragi-Finger Millet, Jowar-Soghum, Bajra - Pearl Millet, Little Millet, Kodo & Foxtail), Dark Chocolate, Cereal (Quinoa, Jumbo Oats, Brown Rice), Dry Fruits and Nuts (Sliced Cranberry, Raisins, Sliced Almonds), Seeds (Pumpkin, Chia, Flax), Soya Flakes, Date Syrup, Jaggery Powder, Rice Bran Oil, Dark Chocolate Flavour, Pink Salt, Antioxidant INS 307b, Added Natural or Nature Identical Flavouring Substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901782000726",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

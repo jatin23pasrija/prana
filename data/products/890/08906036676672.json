@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906036676672",
+  "barcode_printed": "8906036676672",
+  "barcode_format": "EAN-13",
+  "name": "Nandini badam milk",
+  "brand": "nandini",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Ingrede: Milk Solids (Toned Milk), Sugar, Sabilizers (INS 407, INS 4600, INS 466, INS 331) Sinthetic Food Colours (INS 102, INS 110), Nature Identical &Artificial flavours (Badam, Cardamom) Allergen Advice: Contains Mik",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906036676672",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

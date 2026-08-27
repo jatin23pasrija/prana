@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08991749000005",
+  "barcode_printed": "8991749000005",
+  "barcode_format": "EAN-13",
+  "name": "KOPI KENANGA",
+  "brand": "kopi-kenangan",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "220 ml",
+        "quantity": {
+          "value": 220,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 56,
+        "protein_g": 0,
+        "carbohydrate_g": 14,
+        "sugars_g": 9,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 65
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Instant Coffee (1.4%), Acidity Regulator, Synthetic Flavor.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8991749000005",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

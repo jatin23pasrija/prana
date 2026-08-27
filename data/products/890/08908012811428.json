@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08908012811428",
+  "barcode_printed": "8908012811428",
+  "barcode_format": "EAN-13",
+  "name": "Belgian Dark Chocolate",
+  "brand": "minus30",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 173.53,
+        "protein_g": 4.8,
+        "carbohydrate_g": 23.03,
+        "sugars_g": 14.49,
+        "fat_g": 7.8,
+        "saturated_fat_g": 5.15,
+        "trans_fat_g": 0.09,
+        "sodium_mg": 68.65
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908012811428",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

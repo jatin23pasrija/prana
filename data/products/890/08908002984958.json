@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002984958",
+  "barcode_printed": "8908002984958",
+  "barcode_format": "EAN-13",
+  "name": "Tata soulfull millet muesli",
+  "brand": "tata",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rolled Oats (26.1%), Millets (20.2%) [Jowar (10.2%), Ragi Wheat Fl (17.62%), Corn Flakes (6%), Sweetened Dried Cranberry (4.98%), Black Raisins (4.7%), Refined Sugar, Rice Flour (4.2%), Dehydrated Papaya (3.2%), Almonds (3%), Invert Syrup Honey, Malt Extract, Refined Rice Bran Oil, Emulsifier [INS 322], Strawberry Powder, Colo [INS 162], Anticaking Agent [INS 170(i)], Antioxidants [INS 307b]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002984958",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

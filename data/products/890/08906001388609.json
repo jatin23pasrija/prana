@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001388609",
+  "barcode_printed": "8906001388609",
+  "barcode_format": "EAN-13",
+  "name": "Brown Sliced Brown Bread",
+  "brand": "english-oven",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR [ATTA (50%)], REFINED WHEAT FLOUR [MAIDA (50%)], WATER, YEAST, SUGAR, IODIZED SALT, WHEAT GLUTEN, EDIBLE BRAN VEGETABLE OIL (PALM), CLASS II PRESERVATIVE (282), MALT POWDER, WHEAT IMPROVERS [170 (i), 510, 923, 1100], ACIDITY REGULATOR (260), EMULSIFIERS [471, 472e, 481 (i)] AND ANTIOXIDANT (300)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001388609",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

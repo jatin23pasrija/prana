@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491003704",
+  "barcode_printed": "8901491003704",
+  "barcode_format": "EAN-13",
+  "name": "Puff Balls Pudina Punch Flavour",
+  "brand": "kurkure",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "protein_g": 6.8,
+        "carbohydrate_g": 65.7,
+        "sugars_g": 1.8,
+        "fat_g": 23.4,
+        "saturated_fat_g": 10.1,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 416
+      }
+    }
+  ],
+  "ingredients_raw": "Cereal Products (Corn Meal (57%), Rice Meal, Wheat Fibre), Edible Vegetable Oil (Palmolein), *Seasoning (Maltodextrin, ~Spices and Condiments, Black Salt, lodized Salt, Acidity Regulators (330, 334), Sugar, Flavour (Natural and Nature Identical Flavouring Substances), Flavour Enhancer (635), Edible Vegetable Oil (Sunflower), Anticaking Agent (551)), Gram Meal, Firming Agent (170i), Emulsifier(471).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491003704",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

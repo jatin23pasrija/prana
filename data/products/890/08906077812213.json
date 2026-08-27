@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906077812213",
+  "barcode_printed": "8906077812213",
+  "barcode_format": "EAN-13",
+  "name": "Munico Millet+ Probiotic Drink",
+  "brand": "munico",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "300"
+      },
+      "values": {
+        "energy_kcal": 14,
+        "energy_kj": 18,
+        "protein_g": 0.3,
+        "carbohydrate_g": 1.7,
+        "sugars_g": 0,
+        "fat_g": 0.7,
+        "saturated_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Foxtail Millet, Live Bacteria Culture, Lime, Mango Ginger, Ginger, Salt, Cumin Powder, Green Chilli",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906077812213",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

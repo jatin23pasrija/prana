@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904073310511",
+  "barcode_printed": "8904073310511",
+  "barcode_format": "EAN-13",
+  "name": "Cooked Shrimp",
+  "brand": "star-feast",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 95,
+        "protein_g": 21.43,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 1.19,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 229.62
+      }
+    }
+  ],
+  "ingredients_raw": "Shrimp, salt, sodium tripolyphosphate (to retain moisture)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904073310511",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906066993879",
+  "barcode_printed": "8906066993879",
+  "barcode_format": "EAN-13",
+  "name": "Masala Roasted Chana",
+  "brand": "bam-bam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 343.38,
+        "protein_g": 21.43,
+        "carbohydrate_g": 54.83,
+        "fat_g": 4.26
+      }
+    }
+  ],
+  "ingredients_raw": "ROASTED BENGA GRAM, BLACK SALT, VEGETABLE OIL, MANGO SUNRICE. CORIANDER POWDER, JEERAVAN MASALA. COMPOUND ASAFOETIDA, ACIDITY REGULAR (INS-330) ETC.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906066993879",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

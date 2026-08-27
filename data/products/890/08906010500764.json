@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010500764",
+  "barcode_printed": "8906010500764",
+  "barcode_format": "EAN-13",
+  "name": "balaji wafers chataka pataka",
+  "brand": "balaji",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 514,
+        "energy_kj": 2152,
+        "protein_g": 7,
+        "carbohydrate_g": 63.3,
+        "sugars_g": 2,
+        "fat_g": 25,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 347.2
+      }
+    }
+  ],
+  "ingredients_raw": "RICE MEAL (43%), EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), CORN MEAL (3%), CHICKPEA FLOUR, EDIBLE COMMON SALT, SPICES & CONDIMENTS 2% (CUMIN, CHILLI BLACK PEPPER, DRY MANGO), DEHYDRATED VEGETABLE POWDER (ONION, GARLIC) SUGAR, ACIDITY REGULATOR (INS 330), ANTICAKING AGENT (INS 551), FLAVOUR ENHANCER (INS 627, INS 631), NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES (GARLIC, BLACK PEPPER), PAPRIKA EXTRACT (INS 160C)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010500764",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

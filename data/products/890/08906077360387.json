@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906077360387",
+  "barcode_printed": "8906077360387",
+  "barcode_format": "EAN-13",
+  "name": "Jamngari Gathiya",
+  "brand": "jaimin",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 28.35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Chickpea Flour (60%), Refined Palmolein Oil, Black Pepper, Salt, Asafoetida, Sodium Bicarbonate (INS 500(ii), Cumin Seeds, Black Salt & Antioxidant - TBHQ (INS 319). TBNO Ingrediënten : Kikkererwtenmeel (60%), Geraffineerde Palmoleïne-olie, Zwarte Peper, Zout, 500 (ii), t DUTCH Asafoetida, Natriumbicarbonaat (INS C Komijnzaad, Zwart Zout en Antioxidant - TBHQ (INS 319). FRENCH Ingrédients : Farine de Pois Chiches (60%), Huile de Palmoléine Raffinée, Poivre Noir, Sel, Asafoetida, Bicarbonate de Sodium (INS 500 (ii), Graines de Cumin, Sel Pou Cu TBHQ (NS 314 (60%), Acertes Palmoleinöl, Schwarzer Pfeffer, Salz, Warzes Salz und Antioxidans-TBHQ (INS 319). ANISH Ingredientes Asatetida, S: Harina de Garbanzo (60%), Comino,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906077360387",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

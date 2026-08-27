@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906057903092",
+  "barcode_printed": "8906057903092",
+  "barcode_format": "EAN-13",
+  "name": "Mixed Pickle (in oil)",
+  "brand": "century-dugar-s",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Mango pieces, Lime pieces, Salt, Edible Vegetable Oil, Carrot pieces, Chilli pieces, Red chilli powder, Fenugreek, Ginger pieces, Turmeric, Asafoetida, Acidity regulator (INS260), Preservative (INS211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906057903092",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

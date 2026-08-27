@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058009439",
+  "barcode_printed": "8901058009439",
+  "barcode_format": "EAN-13",
+  "name": "munch",
+  "brand": "nestle",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Refined Wheat flour (Maida), Hydrogenated vegetable fats, Fractionated vegetable fat Milk solids, Cocoa solids (3.8%), Emulsifier (Soya lecithin and 476), Raising agent (500) Yeast, iodized salt, Flour treatment agent (516), Artificial (Vanilla) flavouring substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058009439",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

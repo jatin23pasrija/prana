@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906040480265",
+  "barcode_printed": "8906040480265",
+  "barcode_format": "EAN-13",
+  "name": "Tomato Sticks",
+  "brand": "national",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 553.49,
+        "protein_g": 5.46,
+        "carbohydrate_g": 57.2,
+        "sugars_g": 5.11,
+        "fat_g": 33.65,
+        "saturated_fat_g": 3.53,
+        "fibre_g": 4.53,
+        "sodium_mg": 1627.03
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906040480265",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

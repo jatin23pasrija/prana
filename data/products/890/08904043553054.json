@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043553054",
+  "barcode_printed": "8904043553054",
+  "barcode_format": "EAN-13",
+  "name": "Milk Plus Bread",
+  "brand": "modern",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 272,
+        "protein_g": 7.4,
+        "carbohydrate_g": 56,
+        "fat_g": 2.05,
+        "saturated_fat_g": 1.4
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida). Sugar, Milk Solids (34%), Yeast, lodized Salt. Edible Vegetable Fat (Interestenfied), Gluten, Soya Flour,preservatives (282, 200), Flour Treatment Agents (341(iIi)) 510, 1100 1100(i)), Stabilizer (170(0)), Emulsifier (481(i)) Acidity Regulator (260) and Antioxidant (300). (Numbers referred above are as per International Numbering System) Contains Wheat, Milk and Soya.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043553054",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

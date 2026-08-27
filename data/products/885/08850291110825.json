@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08850291110825",
+  "barcode_printed": "8850291110825",
+  "barcode_format": "EAN-13",
+  "name": "Roasted pumpkin kernels",
+  "brand": "tong-garden",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "30g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "protein_g": 11,
+        "carbohydrate_g": 3,
+        "sugars_g": 1,
+        "fat_g": 14,
+        "fibre_g": 1,
+        "sodium_mg": 71.12
+      }
+    }
+  ],
+  "ingredients_raw": "Pumpkin Kernels, lodised Salt, Packaging gas (Nitrogen (E941)) Vitamin D Calcium Iron Potassium Vitamin A Vitamin B1 Vitamin B2 Vitamin C Manganese Magnesium Copper Phosphorus Vitamin E 0mc 10 mg 23 m 220 m Allergy Information: Processed in a facility that also process sulphites, peanuts, gluten(wheat), dairy, soybeans, sesame seeds and other tree nuts. May contains traces and shell pieces of nuts, sulphites, peanuts, gluten(wheat), dairy, soybeans, sesame seeds and other tree nuts. If you are not completely satisfied with our products, we gladly replace your purchase. Please send this package and product to: 0.1 m 0.1m 12m 180 m 0.4 m 340 m 1.3 m *The % Daily Value(DV) tel a serving of food contribute a day is used for general na Manufactured in Thailand by: TONG GARDEN CO., LTD. 8 Moo1, Lamlukka. Lamlukka, Pathumthani 12150, Thailand lel: +66 2150 1888 Fax: +66 2159 8383 An ISO 22000, GMP & HACCP Certified Company M.R.P.:Rs.2 (Inclusive.of al Packing Date.: Best Before.: Batch No.: Vasna lyava, Sanand Viramgam Highway, 4. Saland, Dist Albmedabad, Gujarat, India 382170 PROPRIETARY FOC (READY TO EAT SAI Email: customer@tonggarden.com",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8850291110825",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

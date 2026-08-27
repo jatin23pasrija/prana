@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262173483",
+  "barcode_printed": "8901262173483",
+  "barcode_format": "EAN-13",
+  "name": "Amul Fruit 'N' Nut Fantasy",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 540,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "54 g",
+        "quantity": {
+          "value": 54,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 226,
+        "protein_g": 4,
+        "carbohydrate_g": 23.6,
+        "sugars_g": 22.3,
+        "fat_g": 13.6,
+        "saturated_fat_g": 7.6,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 49
+      }
+    }
+  ],
+  "ingredients_raw": "Milk solids, sugar, orange jelly,bmikk chocolate chips, cashew pieces, raisins, emulsifier 471, stabilizers (407,412,466,415), artificial flavouring, colours (102,110)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262173483",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

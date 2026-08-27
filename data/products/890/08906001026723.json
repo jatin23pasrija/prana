@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001026723",
+  "barcode_printed": "8906001026723",
+  "barcode_format": "EAN-13",
+  "name": "Protein wafer bar coffee",
+  "brand": "avvatar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 433,
+        "protein_g": 25,
+        "carbohydrate_g": 36,
+        "sugars_g": 0,
+        "fat_g": 21,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 0.1,
+        "fibre_g": 5,
+        "sodium_mg": 86
+      }
+    }
+  ],
+  "ingredients_raw": "Protein blend (Whey protein isolate, Whey protein concentrate), Hydrogenated vegetable fat, Maltitol (965), Refined wheat flour, Milk solids, Maize starch, Emulsifiers [322(i),(476)], Coffee powder, Cocoa solids, lodized salt, Raising agent [500(ii)], Nature identical flavor(Coffee).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001026723",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

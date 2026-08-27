@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "05999884034469",
+  "barcode_printed": "5999884034469",
+  "barcode_format": "EAN-13",
+  "name": "HELL",
+  "brand": "hell",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "(BA) Bezalkohoho pazano piće se froidorid), Vitamin B2 (riboflavin) pide sa okusom om tuttifrutti, as kofeinom i sa dodanim vitaminima, Pasterizirano. Sastojci: vode, Seter, kiselina munaka tamin B3 (nikothamid), pantotenska kiselina vitamin B5 (kalcijum D-pantothenate), Vitamin B6 (pirido d opkald (min. 0,3%); taurin (0,38%); regulator kiselosti (natrijevi citrati); kofein (0,03%); aroma; Soja (amonijak karamela, vitamini min B12 (clanokobalamin) VISOKI SADRZAJ KOFEINA. Ne preporučuje se za djecu, djecu, vonio (kofein: 32 mg/100 ml). Jedna limenka sadrži približnu količinu kofeina kao jedna sojice espressente dan mjesec godina) pogledajte dno limenke. Cuvati na hladnom i suhom mjestu. jestu. Proizvod na kofein diabetičars Najbolje upotrijebis HELL ENERGY Magyarország Kf Madarska. Proizvedeno u Madarskoj. UVOZNIK TOISTRIBUTER ZABX SPAN Andrispy of 128, H-1062 Bug 798 49, 330, (EB) Bebida no 4988 1000 Sarajevo, BA. Tel. +387 3 carbonatada, sabor tutti-frutti, con cafeína, con vitaminas añadidas, Pasteurizada.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5999884034469",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

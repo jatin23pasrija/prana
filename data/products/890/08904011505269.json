@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08904011505269",
+  "barcode_printed": "8904011505269",
+  "barcode_format": "EAN-13",
+  "name": "flour",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "rice cake mix zutaten: reispuliver, schwarz gra ج : | are manufactured des produits qui contiennent du guten, کی ج فم ۲ i ک } method of preparation: mix 1 ½ cup (300 ml) of water and 1 cup (200 g) of d horse idli mix in a mixie for 1 minute to make a lumo fe batter, keep aside for 10 - 12 hours at room temperature, adt salt to taste and pour the batter into idli steamer and maker delicious idli, (fermentation period may vary according to the room temperature (25°c)), this packet is sufficient for makiu approximately 60 idlis, 1% đa (300ml) aagsajo 1 ag (200ml) wmnicd aanošni mayall alainu baldm alanlulat 00) almš ansloajs},, 10-12 aamleojð manufactured by : maniilas food tech pvt, ltd,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904011505269",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

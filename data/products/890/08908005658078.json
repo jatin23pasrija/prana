@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005658078",
+  "barcode_printed": "8908005658078",
+  "barcode_format": "EAN-13",
+  "name": "osam misti dahi",
+  "brand": "osam",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Th HET CONTENT (When packed): 80 gms For MRP in Jharkhand (JH), Bihar (BR) & Other State (OS) Batch No. & use-by-date see seal Lid CUSTOMER CARE No.: 7070894555 Email: customercare@osamdairy.com Website: www.osamdairy.com FOR BEST RESULT, STORE CONTINUOSLY UNDER REFRIGERATION BELOW 6°C UNTIL USE-BY-DATE KEEP YOUR CITY CLEAN",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005658078",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

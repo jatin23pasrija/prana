@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "00841970010466",
+  "barcode_printed": "0841970010466",
+  "barcode_format": "EAN-13",
+  "name": "Basmati rice and kadhi pakoda",
+  "brand": "neesa",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "0.5 pack (275 g)",
+        "quantity": {
+          "value": 275,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 410,
+        "protein_g": 11,
+        "carbohydrate_g": 51,
+        "sugars_g": 2,
+        "fat_g": 18,
+        "saturated_fat_g": 7,
+        "fibre_g": 10,
+        "sodium_mg": 900
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0841970010466",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021120432",
+  "barcode_printed": "8906021120432",
+  "barcode_format": "EAN-13",
+  "name": "Aachi Chicken 65 Masala",
+  "brand": "aachi",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Red Chilli Powder, Cinnamon, Ctovest Gariict Ginger, Salt and Cardamom. Ingrédients: Poudre de piment rouge, Cannelle, Clous de girofle, Ail, Gingembre, Sel et Cardamome. Allergen Advice: May contain Gulten, Soya. Sesamet Milk Products, l/ustard,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021120432",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

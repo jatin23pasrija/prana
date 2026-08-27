@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00688397896972",
+  "barcode_printed": "0688397896972",
+  "barcode_format": "EAN-13",
+  "name": "Classic Tofu",
+  "brand": "health-on-plants",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 174,
+        "protein_g": 20.6,
+        "carbohydrate_g": 3.2,
+        "fat_g": 8.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0688397896972",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

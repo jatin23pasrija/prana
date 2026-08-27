@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906130901038",
+  "barcode_printed": "8906130901038",
+  "barcode_format": "EAN-13",
+  "name": "K Snack Rings Kimchi Flavour",
+  "brand": "orion",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 507.96,
+        "energy_kj": 2125,
+        "protein_g": 7.99,
+        "carbohydrate_g": 56,
+        "sugars_g": 8.5,
+        "fat_g": 28.3,
+        "saturated_fat_g": 13.8,
+        "sodium_mg": 1014.45
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906130901038",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

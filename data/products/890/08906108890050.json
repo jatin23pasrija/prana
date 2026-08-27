@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906108890050",
+  "barcode_printed": "8906108890050",
+  "barcode_format": "EAN-13",
+  "name": "Desi Popz Tangy Imli",
+  "brand": "go-desi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 32,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 369.4,
+        "protein_g": 1.6,
+        "carbohydrate_g": 87.1,
+        "sugars_g": 64.2,
+        "fat_g": 1.6,
+        "fibre_g": 0.57
+      }
+    }
+  ],
+  "ingredients_raw": "Jaggery, Tamarind, Edible Salt, Cumin Powder, Curry Leaves Powder,Chilli Powder, Refined sunflower oil, Acacia Gum (INS 414)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906108890050",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

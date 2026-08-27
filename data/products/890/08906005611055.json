@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005611055",
+  "barcode_printed": "8906005611055",
+  "barcode_format": "EAN-13",
+  "name": "cream delite",
+  "brand": "winkies",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 15,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 363.5,
+        "energy_kj": 0,
+        "protein_g": 4.8,
+        "carbohydrate_g": 72.7,
+        "sugars_g": 32.6,
+        "fat_g": 5.9,
+        "saturated_fat_g": 3.7,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 218.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005611055",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

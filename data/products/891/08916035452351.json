@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08916035452351",
+  "barcode_printed": "8916035452351",
+  "barcode_format": "EAN-13",
+  "name": "organic apple cider vinegar",
+  "brand": "bold-fit",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "*Typical Approximate Value. The Product being natural the Certified Organic Apple Juice Fermented to 4% Acidity, Once opened, please refrigerate and consume within 4 months. Keep the lid tightly closed and store in a cool dry CONTAINS NO ADDED SUGAR, NO ARTIFICIAL COLOUR, NO ARTIFICIAL PRESERVATIVES, NO ADDITIVES OR FLAVOUR place, away from direct sunlight. OACV03AUG 08/2023 01/2025 *799.00 (0.79 per ml) S MKUFACTURED FOR & MARKETED BY BUNG BRANDS PRIVATE LIMITED Viss, Me No. 42, Jayanagar, My Sub I Block foy ******* ATENA No. 080 23702806 werowolaritin Issal 100 AG 21.4 5 4.8 m 26.2 m 7.15 ms 14.35 mg 4.65 mg",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8916035452351",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

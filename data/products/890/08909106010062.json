@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106010062",
+  "barcode_printed": "8909106010062",
+  "barcode_format": "EAN-13",
+  "name": "Brooke Bond Red Label Masala Tea Premix",
+  "brand": "brooke-bond",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 387,
+        "protein_g": 7.4,
+        "carbohydrate_g": 77.4,
+        "sugars_g": 65.1,
+        "fat_g": 5.3,
+        "saturated_fat_g": 3.5,
+        "fibre_g": 0,
+        "sodium_mg": 1
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Dairy Whitener, Maltodextrin, Instant Tea Powder (Tea Extract), Natural Flavor (Masala)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106010062",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

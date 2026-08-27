@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030960451",
+  "barcode_printed": "8901030960451",
+  "barcode_format": "EAN-13",
+  "name": "Horlicks Mothers Plus",
+  "brand": "horlicks",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 351,
+        "protein_g": 22,
+        "carbohydrate_g": 58.5,
+        "sugars_g": 35,
+        "fat_g": 5,
+        "saturated_fat_g": 1.8,
+        "fibre_g": 8,
+        "sodium_mg": 500
+      }
+    }
+  ],
+  "ingredients_raw": "Milk Solids (75%), Dietary Fibre (Wheat Dextrin), Edible Fat powder [High Oleic Sunflower Oil, Corn Solids, Sodium Caseinate, Emulsifier (INS 471), Antioxidant (INS 305)], Cereal Extract, Minerals, Vitamins, Docosahexaenoic Acid (DHA) powder from Schizochytrium sp. (0.51%), Edible Vegetable Oil (Palm Kernel oil), Natural Flavour, Nature Identical flavouring substances, Natural Colour [INS 100(i)],",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030960451",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

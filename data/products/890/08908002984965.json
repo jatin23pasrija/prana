@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002984965",
+  "barcode_printed": "8908002984965",
+  "barcode_format": "EAN-13",
+  "name": "Millet muesli",
+  "brand": "tata-soulfoul",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 390,
+        "protein_g": 11.5,
+        "carbohydrate_g": 59.6,
+        "sugars_g": 3.9,
+        "fat_g": 11.7,
+        "saturated_fat_g": 2.9,
+        "fibre_g": 7.9,
+        "sodium_mg": 65
+      }
+    }
+  ],
+  "ingredients_raw": "Rolled Oats (33.6%), Millets(20.2%) [Jowar(10.2%), Ragi(10%)], Brown Rice Fakes (15%), Seeds(12%) [Flax(8%), Chia(2%), Pumpkin(2%)], Corn Flakes (5%), Black Raisins (4%), Almonds (3%), Rice Flour(4.2%), Rice Bran Oil, Chia Seeds, Anticaking Agent [INS 170(i)] , Natural Flavour, Antioxidant [INS(307(b), INS 320], Acidity Regulator[INS 330].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002984965",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

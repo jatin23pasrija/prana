@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901233028651",
+  "barcode_printed": "8901233028651",
+  "barcode_format": "EAN-13",
+  "name": "Nutties",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 506,
+        "protein_g": 5.1,
+        "carbohydrate_g": 67.2,
+        "sugars_g": 61.7,
+        "fat_g": 24.5,
+        "saturated_fat_g": 12.9,
+        "fibre_g": 1.2,
+        "sodium_mg": 111
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Milk Solids, Cashew nuts (11%*), Cocoa butter, Cocoa solids, Emulsifiers (442, 476), Stabilizers (1400, 414), Edible salt, Glazing agent (904), Almonds. CONTAINS ADDED FLAVOUR (NATURAL, NATURE IDENTICAL AND ARTIFICIAL (ETHYL VANILLIN) FLAVOURING SUBSTANCES) Allergen Information: Contains Milk, Cashewnuts, Almonds, Sulphites",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901233028651",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

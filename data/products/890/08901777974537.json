@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777974537",
+  "barcode_printed": "8901777974537",
+  "barcode_format": "EAN-13",
+  "name": "Mango kulfi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 225,
+        "protein_g": 3.75,
+        "carbohydrate_g": 23.75,
+        "sugars_g": 13.75,
+        "fat_g": 12.5,
+        "saturated_fat_g": 7.5,
+        "fibre_g": 0,
+        "sodium_mg": 81.25
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777974537",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

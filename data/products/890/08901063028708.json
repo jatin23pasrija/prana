@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063028708",
+  "barcode_printed": "8901063028708",
+  "barcode_format": "EAN-13",
+  "name": "Britannia nutri choice",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour, Refined Palm & Palmolein Oil, Raising Agents (503(ii) & 500(ii)), Iodised Salt, Milk Solids, Yeast, Natural & Nature Identical Flavouring Substances, Emulsifier (322(i)), Acidity Regulators (330 & 334), Dough Conditioner (223)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063028708",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

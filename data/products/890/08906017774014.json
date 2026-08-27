@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08906017774014",
+  "barcode_printed": "8906017774014",
+  "barcode_format": "EAN-13",
+  "name": "Thandaai Masala Powder",
+  "brand": "ashok",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 410.55,
+        "protein_g": 5.34,
+        "carbohydrate_g": 84.81,
+        "sugars_g": 59.79,
+        "fat_g": 5.55
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, NUTS AND SEEDS 11% (ALMOND, SUNFLOWER SEED, FOX NUT, POPPY SEED, PISTACHIO). SPICES 10.2% (ANISEED, BLACK PEPPER, SMALL CARDAMOM, WHITE PEPPER, TURMERIC) SKIMMED MILK POWDER, CORN FLOUR, MUNAKKA, ANJEER, MALTODEXTRINE, SAFFRON (KESAR) & ROSE EXTRACT, THICKENING AGENT (INS 466, INS 412) ANTIOXIDENT (INS 320), CONTAINS PERMITTED NATURAL COLOUR (INS100) AND SYNTHETIC FOOD COLOUR(S) (INS 102, INS 110) AND ADDED FLAVOUR(S) CONTAINS CLASS-11 PRESERVATIVE (INS 282)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906017774014",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

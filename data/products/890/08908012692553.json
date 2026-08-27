@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08908012692553",
+  "barcode_printed": "8908012692553",
+  "barcode_format": "EAN-13",
+  "name": "Daily fibre | pina colada",
+  "brand": "wellbeing-nutrietion",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 servings (8 g)",
+        "quantity": {
+          "value": 8,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 29.25,
+        "protein_g": 0.03,
+        "carbohydrate_g": 7.16,
+        "sugars_g": 0.14,
+        "fat_g": 0.06,
+        "fibre_g": 7.02,
+        "sodium_mg": 22.98
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908012692553",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

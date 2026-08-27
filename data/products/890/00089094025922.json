@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "00089094025922",
+  "barcode_printed": "0089094025922",
+  "barcode_format": "EAN-13",
+  "name": "Dutch Chocolate",
+  "brand": "isopure",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "32 g",
+        "quantity": {
+          "value": 32,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 119,
+        "protein_g": 25,
+        "carbohydrate_g": 2,
+        "sugars_g": 0,
+        "fat_g": 1,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "sodium_mg": 153
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0089094025922",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

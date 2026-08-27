@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725117481",
+  "barcode_printed": "8901725117481",
+  "barcode_format": "EAN-13",
+  "name": "Bingo Cheese Curlz",
+  "brand": "bi-go",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 16,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "DEGERMED CORN GRITS AND SEASONING {REFINED PALMOLEIN, SUGAR, IODIZED SALT, MILK SOLIDS, ONION POWDER, #SPICES AND CONDIMENTS, CHEESE POWDER, NATURE IDENTICAL FLAVOURING SUBSTANCES, REFINED WHEAT FLOUR (MAIDA), NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, GARLIC POWDER AND FLAVOUR ENHANCER (INS 508)}. *USED AS FLAVOURING AGENTS. CONTAINS MILK, WHEAT | MAY CONTAINS SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725117481",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

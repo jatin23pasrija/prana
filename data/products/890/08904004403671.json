@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004403671",
+  "barcode_printed": "8904004403671",
+  "barcode_format": "EAN-13",
+  "name": "TASTY NUTS Shing Bhujia",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Groundnuts (Peanuts)(66%), Edible Vegetable Oil (Palmolein, Cotton Seed, Corn, Sunflower, Rice Bran), Bengal Gram Flour (Besan), Maize Starch, Iodised Salt, Red Chilli, Acidity Regulator (INS 330), Turmeric, Black Salt,Black Pepper, Dried Ginger Powder, Cardamom, Cumin, Cinnamon, Clove, Bay Leaf, Nutmeg & Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004403671",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

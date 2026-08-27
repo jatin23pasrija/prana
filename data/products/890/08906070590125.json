@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906070590125",
+  "barcode_printed": "8906070590125",
+  "barcode_format": "EAN-13",
+  "name": "Fresca Apple",
+  "brand": "fresca",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Apple Juice Concentrate (4%), Sugar, Acidity Regulators (INS 296 & 330), Antioxidant (INS 300) & CLASS II PRESERVATIVES (INS 211 & INS 224). ADDED FLAVOUR, (NATURAL & NATURE-IDENTICAL CONTAINS ADDED FOOD COLOUR (INS 150a) & FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906070590125",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

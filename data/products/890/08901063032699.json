@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063032699",
+  "barcode_printed": "8901063032699",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Treat Strawberry flavoured Waffers",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 55,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) INTERESTERIFIED VEGETABLE FAT SUGAR REFINED COCONUT OIL MILK SOLIDS COLOUR (127) EMULSIFIER [322(i)] WHEAT FIBRE IODISED SALT RAISING AGENT [500(ii)] ACIDITY REGULATOR (330) BRITANNIA NATURE IDENTICAL FLAVOURING SUBSTANCE (STRAWBERRY) MALTODEXTRIN AND IMPROVER [1101(1)] SHELF LIFE 6 MONTHS fssat Lie No 1001503001129",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063032699",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

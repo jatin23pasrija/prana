@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063231765",
+  "barcode_printed": "8904063231765",
+  "barcode_format": "EAN-13",
+  "name": "Punjabi Tadka",
+  "brand": "haldiram",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 570.7,
+        "protein_g": 11.5,
+        "carbohydrate_g": 45.7,
+        "sugars_g": 3.4,
+        "fat_g": 38,
+        "saturated_fat_g": 16.6,
+        "trans_fat_g": 0.2,
+        "fibre_g": 6.7,
+        "sodium_mg": 1468.1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063231765",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

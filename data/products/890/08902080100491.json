@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080100491",
+  "barcode_printed": "8902080100491",
+  "barcode_format": "EAN-13",
+  "name": "Sting energy",
+  "brand": "pepsico-inc",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Carbonated Water, Sugar, Acidity regulators (330, 331), Sequesterants (452(i), 385), Taurine, Caffeine (0.03%), Preservatives (211, 202), Sweeteners (955, 950), Inositol, Vitamins Premix. CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (129) AND ADDED FLAVOUR (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080100491",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

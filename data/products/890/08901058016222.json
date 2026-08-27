@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058016222",
+  "barcode_printed": "8901058016222",
+  "barcode_format": "EAN-13",
+  "name": "Pichkoo RICH TOMATO KETCHUP",
+  "brand": "maggi",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Tomato paste (24.5%), Sugar, lodized salt, Thickeners (E1422 & E415), Acidity regulator (260), Dehydrated onion, Dried garlic, Preservative (211) and Mixed spices. Allergen Note: May contain Wheat, Milk and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058016222",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

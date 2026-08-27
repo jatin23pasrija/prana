@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906088215454",
+  "barcode_printed": "8906088215454",
+  "barcode_format": "EAN-13",
+  "name": "Ludhiana wala Butter Chicken Gravy Mix",
+  "brand": "orika",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Spices and Herbs (Onion, Garlic, Coriander, Cumin, Ginger, Red Chilli, Green Cardamom, Black Pepper, Bay Leaf, Mint, Star Anise, Black Cardamom, Turmeric, Cinnamon, Nutmeg, Mace, Clove, White Pepper), Cashew, Sugar, Whole Milk Powder, Salt (8%), Dehydrated Fruit & Vegetable (Tomato, Kasuri Methi), Refined Wheat Flour, Corn Starch, Rice Bran Oil, Oleoresins Orika's Butter Chicken Top-Up Sachet; Net Weight: 1g Ingredients: Red Chilli, Cumin, Black Pepper, Natural Flavour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906088215454",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

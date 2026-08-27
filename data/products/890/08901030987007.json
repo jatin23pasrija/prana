@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030987007",
+  "barcode_printed": "8901030987007",
+  "barcode_format": "EAN-13",
+  "name": "Knorr Schezwan Sauce 200 g",
+  "brand": "knorr",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Vegetables&quot; (Garlic - 9%, Onion 1%), Sugar, Soyabean Oil, lodised Salt, Chillies 4.4%, Soybean Sauce, Acidity Regulator - 260, Stabilisers 1422, 415, Spices & Condiments, Firvour Enhancers - E627 & E631, Natural Colour - 1501, Preservative-211, Natural Flavouring substance. Contains Soya and Gluten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030987007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

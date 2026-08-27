@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906116959930",
+  "barcode_printed": "8906116959930",
+  "barcode_format": "EAN-13",
+  "name": "WrathX Pre Workout, Cola Frost, Muscle Blaze",
+  "brand": "muscle-blaze",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "17 g",
+        "quantity": {
+          "value": 17,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 7.35,
+        "protein_g": 0,
+        "carbohydrate_g": 1.65,
+        "sugars_g": 0.31,
+        "fat_g": 0.08,
+        "sodium_mg": 7.31
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906116959930",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

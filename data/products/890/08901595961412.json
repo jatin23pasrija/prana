@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595961412",
+  "barcode_printed": "8901595961412",
+  "barcode_format": "EAN-13",
+  "name": "Hot and sour soup",
+  "brand": "ching-s-secret",
+  "category": "soup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 55,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn Starch, Dehydrated Vegetables 18% (carrot, cabbage, garlic), Salt, Sugar, Dehydrated Mushrooms (8%), Dried Glucose Syrup, Disodium 5' Guanylate, Disodium 5'- Inosinate (Flavour Enhancers, E627, E631), Soy Sauce Powder (soybean, wheat, salt), Onion Powder, Caramel (Natural Colour, E150d), Chilli Powder (1%), Acetic Acid (Acidity Regulator, E260), Xanthan Gum (Thickener, E415), Silicon Dioxide (Anticaking Agent, E551), Sunflower Oil, Pepper Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595961412",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001017084",
+  "barcode_printed": "8908001017084",
+  "barcode_format": "EAN-13",
+  "name": "cornitos nacho crisps",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Corn (70%), Edible Vegetable Oil (Corn Oil), Sugar, lodized Salt, Spices & Condiments (1.5%) (Coriander, Chill, Onion, Garlic, Cumin, Cardamom, Pepper, Cinnamon, Bay Leaf, Ajwain, Clove, Turmeric, Ginger), Com Starch, Soya Sauce Powder, Pomegranate Seed Powder, Yeast Extract Powder, Anticaking Agent (INS 551) CONTAIN SOYA AND SOYA PRODUCTS CONTAINS ADDED FLAVOURS, NATURAL AND NATURE IDENTICAL (MINT, SMOKE)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001017084",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

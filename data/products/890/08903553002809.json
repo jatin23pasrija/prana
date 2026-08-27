@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08903553002809",
+  "barcode_printed": "8903553002809",
+  "barcode_format": "EAN-13",
+  "name": "Tempting Tomato Ketchup",
+  "brand": "temptin",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, SUGAR, TOMATO PASTE (28°B) 24.7%, EDIBLE COMMON SALT, ACIDITY REGULATOR ACETIC ACID (INS 260), EMULSIFYING & STABILIZING AGENT (INS 1422 & INS 415), ONION POWDER, GARLIC POWDER, MIXED SPICES (CLOVE, CINNAMON, CHILLI) PRESERVATIVE SODIUM BENZOATE (INS 211). CONTAINS PERMITTED CLASS II PRESERVATIVE (INS 211). TOMATO KETCHUP NUTRITIONAL INFORMATION A L N SLU D PER (100g) - PER SERVE 1 Tbsp (15g) % RDA PER SERVE ENERGY VALUE (kcal) 150 02 f",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903553002809",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071700888",
+  "barcode_printed": "8904071700888",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Poha Chivda",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 170,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 452,
+        "protein_g": 10.3,
+        "carbohydrate_g": 70,
+        "sugars_g": 6.6,
+        "fat_g": 14.5,
+        "saturated_fat_g": 5.4
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071700888",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

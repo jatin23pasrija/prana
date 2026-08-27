@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063142015",
+  "barcode_printed": "8901063142015",
+  "barcode_format": "EAN-13",
+  "name": "Nutri Choice",
+  "brand": "britannia-digestive",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR (63%), REFINED PALM OIL, SUGAR, WHEAT BRAN (4.7%), LIQUID GLUCOSE, MILK SOLIDS, MALTODEXTRIN, RAISING AGENTS (INS 500, INS 503), IODISED SALT, EMULSIFIERS (INS 322, INS 471, INS 472c), MALT EXTRACT AND DOUGH CONDITIONER (INS 223). CONTAINS WHEAT, MILK, SOYA, BARLEY AND SULPHITE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063142015",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

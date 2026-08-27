@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "00960995603894",
+  "barcode_printed": "0960995603894",
+  "barcode_format": "EAN-13",
+  "name": "Cold Coffee Protein Shake",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (250 g)",
+        "quantity": {
+          "value": 250,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 220,
+        "protein_g": 26,
+        "carbohydrate_g": 26.3,
+        "sugars_g": 13.3,
+        "fat_g": 1.2,
+        "saturated_fat_g": 0.8,
+        "sodium_mg": 125
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0960995603894",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

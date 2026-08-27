@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201431594",
+  "barcode_printed": "7622201431594",
+  "barcode_format": "EAN-13",
+  "name": "Oreo Cream Biscuit",
+  "brand": "cadbury",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 483,
+        "protein_g": 5.3,
+        "carbohydrate_g": 71.4,
+        "sugars_g": 38,
+        "fat_g": 19.7,
+        "saturated_fat_g": 9.8,
+        "fibre_g": 0,
+        "sodium_mg": 420
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Fat, Palmolein, Cocoa Solids (3%*), Invert Sugar, Leavening Agents [500(ii), 503(ii)], lodised Salt, Emulsifier (322). CONTAINS ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES). Allergen information: Contains Wheat. May Contain Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201431594",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

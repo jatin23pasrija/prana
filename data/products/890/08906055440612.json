@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906055440612",
+  "barcode_printed": "8906055440612",
+  "barcode_format": "EAN-13",
+  "name": "Organic Jaggery Powder",
+  "brand": "organic-tattva",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "10 g",
+        "quantity": {
+          "value": 10,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 38.56,
+        "protein_g": 0.02,
+        "carbohydrate_g": 9.35,
+        "sugars_g": 8.49,
+        "fat_g": 0.1,
+        "saturated_fat_g": 0.05,
+        "trans_fat_g": 0.01,
+        "fibre_g": 0.08,
+        "sodium_mg": 2.98
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906055440612",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

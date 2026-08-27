@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059635069",
+  "barcode_printed": "8906059635069",
+  "barcode_format": "EAN-13",
+  "name": "Greek yogurt wild raspberry",
+  "brand": "epigamia",
+  "category": "yogurt",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Greek yogurt (pasteurized double toned milk, milk solids, permitted starter cultures), processed raspberry pulp(raspberry puree, sugar, water, pectin (INS 440), malic acid (INS 296)). Total Fruit Content : 11%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059635069",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

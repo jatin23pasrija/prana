@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725119843",
+  "barcode_printed": "8901725119843",
+  "barcode_format": "EAN-13",
+  "name": "BINGO! Hashtag Cream & Onion",
+  "brand": "itc-limited",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 21.9,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato (59.5%), Refined Palmolein and Seasoning (Onion Powder (1.9%), Sugar, Iodized Salt, Maltodextrin, Dehydrated Parsley Leaves, Natural Flavouring Substances and Nature Identical Flavouring Substances and Black Pepper). Contains Soy, Milk. May Contain Wheat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725119843",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

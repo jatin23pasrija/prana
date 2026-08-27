@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202290633",
+  "barcode_printed": "7622202290633",
+  "barcode_format": "EAN-13",
+  "name": "Dairy milk silk bubbly",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Milk Solids (25%), Cocoa Butter, Cocoa Solids, Emulsifiers (4,470) Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances) Allergen Information: Contains Milk. May Contain Wheat and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202290633",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

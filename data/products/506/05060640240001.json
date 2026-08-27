@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "05060640240001",
+  "barcode_printed": "5060640240001",
+  "barcode_format": "EAN-13",
+  "name": "Bix",
+  "brand": "nettlebed-creamery",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 408,
+        "protein_g": 14.9,
+        "carbohydrate_g": 1.8,
+        "fat_g": 37.9,
+        "saturated_fat_g": 21.5,
+        "sodium_mg": 5862
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5060640240001",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

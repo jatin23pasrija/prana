@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063142114",
+  "barcode_printed": "8901063142114",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Nutri Choice Oats",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 478,
+        "energy_kj": 1999.95,
+        "protein_g": 8,
+        "carbohydrate_g": 68.5,
+        "sugars_g": 19.5,
+        "fat_g": 21,
+        "saturated_fat_g": 8.6,
+        "fibre_g": 8.4,
+        "sodium_mg": 154
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR (ATTA) (41.7%), SUGAR, REFINED PALM OIL, ROLLED DATS (14.3%), ALMONDS (5%), LIQUID GLUCOSE, WHEAT BRAN (2.4%), MALTODEXTRIN, RAISING AGENTS [500(ii), 503(ii) & 450(i)], MILK SOLIDS (1.6%), INVERT SUGAR SYRUP, DATS FIBRE (0.8%), EMULSIFIERS [322(i), 471 & 472e], FLAVOURS [ARTIFICIAL (MILK & BUTTER), NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES], IODISED SALT AND COLOUR (150d). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, OATS, NUTS, MILK AND SOYA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063142114",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

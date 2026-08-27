@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063256805",
+  "barcode_printed": "8904063256805",
+  "barcode_format": "EAN-13",
+  "name": "Idli",
+  "brand": "haldirams",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 285,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Rice (35%), Urad Dal (Split Matpe Beans) 16% and Salt. COCONUT CHUTNEY INGREDIENTS: Water, Fresh Coconut (23%), Roasted Chana Dal (Split Bengal Gram), Coriander Leaves, Refined Sunflower Oil, Salt, Urad Dal (Split Matpe Beans), Fresh Ginger, Mustard Seeds, Curry Leaves, Green Chilli and Red Chilli. CONTAINS COCONUT AND MUSTARD COMPONENTS. This product is made in a facility that processes foods containing Peanuts, Tree Nuts, Milk & Wheat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063256805",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

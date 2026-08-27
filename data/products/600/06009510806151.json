@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "06009510806151",
+  "barcode_printed": "6009510806151",
+  "barcode_format": "EAN-13",
+  "name": "classic salted chips",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 100,
+        "protein_g": 1.25,
+        "carbohydrate_g": 9.38,
+        "sugars_g": 0.63,
+        "fat_g": 6.25,
+        "saturated_fat_g": 0.94,
+        "fibre_g": 0.63,
+        "sodium_mg": 106.25
+      }
+    }
+  ],
+  "ingredients_raw": "Potatoes,Vegetable Oil,Salt,Maltodextrin,Spices,Sugar,Onion Powder,Mango Powder,Garlic Powder,Tomato Powder,Citric Acid,Paprika Extract,Yeast Extract,Natural Flavour",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6009510806151",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

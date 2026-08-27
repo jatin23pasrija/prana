@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901037010913",
+  "barcode_printed": "8901037010913",
+  "barcode_format": "EAN-13",
+  "name": "cardamom-saffron chai",
+  "brand": "girnar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 14,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "14g",
+        "quantity": {
+          "value": 14,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 59.17,
+        "protein_g": 1.55,
+        "carbohydrate_g": 10.84,
+        "sugars_g": 7.25,
+        "fat_g": 1.07,
+        "saturated_fat_g": 0.43
+      }
+    }
+  ],
+  "ingredients_raw": "INSTANT TEA PREMIX WITH GIRNAR CARDAMOM & SAFFRON 100% Vegetarian Content: Instant Tea Premix with Cardamom&Saffron PROPRIETARY FOOD-14.1.5 Mixes for Coffee& Tea Beverages Ingredients: Dairy Whitener (Partly Skimmed Milk Powder& Sugar),Sugar, Tea Extract, Cardamom(0.8%)& Saffron(0.1%) Ingredients After reconstitution: Partly Skimmed Milk,Sugar, Tea,Cardamom &Saffron.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901037010913",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

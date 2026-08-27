@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906137330008",
+  "barcode_printed": "8906137330008",
+  "barcode_format": "EAN-13",
+  "name": "Potato chips",
+  "brand": "good-to-great",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 11.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potato (65%), Refined palmolein Oil (34%), lodised Salt (1%) Processed in a facility that handles Peanut, Treenut, Soya, Gluten and Milk READY TO EAT SAVORIES (18.2) NET QTY.: DATE OF MFG: DATE OF EXP: BATCH NO.: Unit Sale Price: 11.5g 16:32 23/03/2025 20/07/2025 GK2303D 05 Rs. 0.4g MRP (Inclusive of all taxes): 5 Keep away from direct sunlight and heat. Do not buy the pack if found tampered. Manufacturer's Details, see cool and hygienic place. wo characters of batch numb Pkg. Material Mfd R first",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906137330008",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

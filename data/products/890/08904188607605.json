@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904188607605",
+  "barcode_printed": "8904188607605",
+  "barcode_format": "EAN-13",
+  "name": "Split Mung With Skin",
+  "brand": "saurabhi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50 gm (50 g)",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 193.59,
+        "protein_g": 14,
+        "carbohydrate_g": 32.5,
+        "sugars_g": 0.5,
+        "fat_g": 0.8,
+        "saturated_fat_g": 0.3,
+        "sodium_mg": 5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904188607605",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

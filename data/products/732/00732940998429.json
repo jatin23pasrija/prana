@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "00732940998429",
+  "barcode_printed": "0732940998429",
+  "barcode_format": "EAN-13",
+  "name": "Mango Flavoured Greek Yogurt",
+  "brand": "agapi",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 94,
+        "protein_g": 7.5,
+        "carbohydrate_g": 12.6,
+        "fat_g": 1.57,
+        "saturated_fat_g": 0.98,
+        "sodium_mg": 26
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0732940998429",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719103520",
+  "barcode_printed": "8901719103520",
+  "barcode_format": "EAN-13",
+  "name": "Cheeselings - Classic",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 492,
+        "energy_kj": 2047,
+        "protein_g": 8.8,
+        "carbohydrate_g": 67.7,
+        "sugars_g": 3.3,
+        "fat_g": 20.7,
+        "saturated_fat_g": 9.6
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR, EDIBLE VEGETABLE OILS, SUGAR, SALT 2.8% CHEESE 1.8%, YEAST, RAISING AGENTS [503 (#), BAKING POWDER), INVERT SUGAR SYRUP, SPICES & CONDIMENTS (MUSTARD POWDER), ACIDITY REGULATORS LACTIC ACID, MALIC ACID, EMULSIFIER (DI-ACETYL TARTARIC ACID ESTERS OF MONO AND DIGLYCERIDES OF EDIBLE VEGETABLE OILS], DOUGH CONDITIONER [223] AND IMPROVER (AMYLASES & OTHER ENZYMES (PAPAIN-1101)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719103520",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

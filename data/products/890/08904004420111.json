@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004420111",
+  "barcode_printed": "8904004420111",
+  "barcode_format": "EAN-13",
+  "name": "Soya Sticks",
+  "brand": "haldiram-s",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 564,
+        "protein_g": 7.46,
+        "carbohydrate_g": 45,
+        "sugars_g": 1.86,
+        "fat_g": 38.21,
+        "saturated_fat_g": 18.56,
+        "trans_fat_g": 0,
+        "fibre_g": 5.25,
+        "sodium_mg": 629
+      }
+    }
+  ],
+  "ingredients_raw": "Tapioca Starch, Refined Palmolein Oil, Soya Flour (9%), Split Pulse Urad (Urad Dal) Flour, Mixed Spices (Refined Sugar, Edible Common Salt, Maltodextrin, Black Salt, Red Chilli Powder, Dried Mango Powder, Onion Powder, Glucose Powder, Preservative (INS 262i), Coriander Powder, Cumin Powder, Fennel, Whey Powder, Ginger Powder, Garlic Powder, Clove Powder, Yeast Extract, Pipal, Black Pepper, Acidity Regulator (INS 296), Flavour Enhancer (INS 627, INS 631), Turmeric Powder, Anticaking Agent (INS 551), Bay Leaf, Acidity Regulator (INS 330), Colour (INS 160c), Nutmeg, Capsicum Powder, Cinnamon, Asafoetida), Hydrogenated Vegetable Oil (Vanaspati), Natural Flavouring Substance And Nature Identical Flavouring Substance",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004420111",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

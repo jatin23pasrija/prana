@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063136465",
+  "barcode_printed": "8901063136465",
+  "barcode_format": "EAN-13",
+  "name": "Milk Rusk Biscuits",
+  "brand": "britannia-industries-ltd",
+  "category": "rusk",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WHEAT FLOUR (72%), SUGAR, VEGETABLE FAT (CONTAINS ONE OR MORE OF PALM OIL OR SESAME OIL), MILK & SKIM MILK POWDER (4%), YEAST, BUTTER (MILK) (1.5%). DRY GLUTEN (WHEAT), SALT, FUNGAL ALPHA AMYLASE (ENZYME), MONO AND DIGLYCERIDES OF FATTY ACIDS AND SODIUM STEAROYL 2-LACTYLATE (EMULSIFIERS). CONTAINS: WHEAT, MILK, MILK PRODUCTS AND SESAME MAY CONTAIN PEANUTS, TREE NUTS AND SULPHITES INGREDIENTS: FARINE DE BLÉ (72%), SUCRE, HUILES VÉGÉTALES (CONTIENT UNE OU PLUSIEURS PARMIS HUILE DE PALME OU DE HUILE DE SÉSAME), LAIT ET LAIT ÉCRÉMÉ EN POUDRE (4%), LEVURE, BEURRE (LAIT) (1.5%), GLUTEN SEC (BLE), SEL, ALPHA-AMYLASE FONGIQUE (ENZYME), MONO ET DIGLYCERIDES D'ACIDES GRAS ET SODIUM STEAROYL 2 LACTYLATE (EMULSIFIANT). CONTIENT: BLE, LAIT, PRODUITS LAITIERS ET SÉSAME PEUT CONTENIR ARACHIDES, NOIX ET SULFITES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063136465",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

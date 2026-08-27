@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904008100705",
+  "barcode_printed": "8904008100705",
+  "barcode_format": "EAN-13",
+  "name": "Grape Fruit Bar",
+  "brand": "naturo",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 7,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Fruit Pulp 70% (Grape 42.05%, Apple 27.95%), Sugar, Thickener (INS 440), Acidity regulator (INS 524, INS 330). Contains Added Nature Identical Flavouring substance (Grape).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904008100705",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

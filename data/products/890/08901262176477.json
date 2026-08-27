@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262176477",
+  "barcode_printed": "8901262176477",
+  "barcode_format": "EAN-13",
+  "name": "Mawa Malai Kulfi",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 162,
+        "protein_g": 2.3,
+        "carbohydrate_g": 12.3,
+        "sugars_g": 12,
+        "fat_g": 11.8,
+        "saturated_fat_g": 7.8,
+        "trans_fat_g": 0.2,
+        "sodium_mg": 30
+      }
+    }
+  ],
+  "ingredients_raw": "Inner Layer - Kulfi (77%). Milk solids, sugar, permitted emulsifiers (435, 471), stabilizers (407, 412), artificial flavouring substances (kulfi, condensed milk, cardamom), colours (122,133,102). Outer Layer - Coating (23%): Coconut oil, sugar, milk solids, cashew pieces (2%), emulsifier (322). Allergen Information: Contains milk, nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262176477",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

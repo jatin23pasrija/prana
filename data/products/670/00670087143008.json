@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "00670087143008",
+  "barcode_printed": "0670087143008",
+  "barcode_format": "EAN-13",
+  "name": "Buffalo Jerky (Kerala Fry)",
+  "brand": "doki",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 196.94,
+        "protein_g": 29.38,
+        "carbohydrate_g": 6.08,
+        "sugars_g": 1.5,
+        "fat_g": 6.07,
+        "sodium_mg": 504
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0670087143008",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

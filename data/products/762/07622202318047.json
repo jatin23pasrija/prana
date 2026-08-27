@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202318047",
+  "barcode_printed": "7622202318047",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury 5Star",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 33,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Liquid Glucose, Milk Solids, Invert Sugar, Hydrogenated Oil, Cocoa Solids, Cocoa Butter, Fractionated Fat, Emulsifiers (442, 471, 476), Hydrolyzed Vegetable Protein, Iodised Salt, Flavours (Natural, Nature Identical and Artificial Milk, Caramel and Vanilla) Flavouring Substances).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202318047",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

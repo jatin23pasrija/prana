@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719110740",
+  "barcode_printed": "8901719110740",
+  "barcode_format": "EAN-13",
+  "name": "bhujiya",
+  "brand": "chatkins",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 595,
+        "protein_g": 14,
+        "carbohydrate_g": 42.5,
+        "sugars_g": 0,
+        "fat_g": 41,
+        "saturated_fat_g": 10.4,
+        "fibre_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "MOTH DAL FLOUR, REFINED OIL BESAN, IODISED SALT, SPICES & CONDIMENTS, GINGER POWDER, BLACK PEPPER POWDER, CORIANDER SEEDS, FENINEL, CLOVE POWDER, CARDAMOM POWDER, MACE POWDER, CINNAMON POWDER)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719110740",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

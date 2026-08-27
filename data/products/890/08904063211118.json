@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063211118",
+  "barcode_printed": "8904063211118",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Tikku",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 420,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Potatoes (82%), Refined Cotton Seed Oil, Arrowroot Powder, Split Yellow Lentils, Green peas, Salt, Split Chickpea, Spices (Coriander, Cumin, Red Chilli Powder, Mango Powder, Black Pepper, Turmeric), Fresh Ginger, Green Chilli, Cashew, Black Salt and Coriander Leaves. KHATTI MEETHI CHUTNEY INGREDIENTS: Sugar (50%), Water, Dried Mango Slices, Salt, Red Chilli Powder, Ginger Powder and Spices (Coriander, Cumin, Black Pepper, Cardamom, Clove, Cinnamon). PUDINA CHUTNEY INGREDIENTS: Coriander Leaves (34%), Water, Mint Leaves, Green Chilli, Peanuts, Cashews, Salt, Black Salt, Cumin and Fresh Lime Juice.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063211118",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

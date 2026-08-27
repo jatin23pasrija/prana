@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020461239",
+  "barcode_printed": "8906020461239",
+  "barcode_format": "EAN-13",
+  "name": "Crem Treat",
+  "brand": "bimbo",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 357.1,
+        "protein_g": 5.1,
+        "carbohydrate_g": 67.7,
+        "sugars_g": 21,
+        "fat_g": 7.3,
+        "saturated_fat_g": 3.96,
+        "fibre_g": 1.3,
+        "sodium_mg": 302
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020461239",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

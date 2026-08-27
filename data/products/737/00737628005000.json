@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00737628005000",
+  "barcode_printed": "0737628005000",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Satay Sauce Medium Spicy",
+  "brand": "asian-creations",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 227,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "water, coconut milk, sugar, soybean oil, peanut, white sesame seed, tamarind paste (tamarind, water), spices (including chili pepper), salt, modified tapioca starch, shallot, garlic, lemongrass, citric acid and kaffir lime,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0737628005000",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

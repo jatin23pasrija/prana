@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "00941458000290",
+  "barcode_printed": "0941458000290",
+  "barcode_format": "EAN-13",
+  "name": "2-minute Noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "70g",
+        "quantity": {
+          "value": 70,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 310,
+        "protein_g": 6,
+        "carbohydrate_g": 44,
+        "sugars_g": 2,
+        "fat_g": 13,
+        "saturated_fat_g": 6,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 470
+      }
+    }
+  ],
+  "ingredients_raw": "refined wheat flour, palm oil, iodised salt, wheat gluten, potassium chloride, guar gum, potassium carbonate, sodium bicarbonate, sodium tripolyphosphate, onion powder, coriander powder, turmeric powder, red chili powder, garlic powder, cumin powder, aniseed powder, ginger powder, fenugreek powder, black pepper powder, clove powder, green cardamom powder, nutmeg powder, hydrolysed groundnut protein, sugar, palm oil, starch, iodised salt, potassium chloride, disodium ribonucleotides, toasted onion flakes, acidity regulator, citric acid, caramel color, mineral, wheat gluten",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0941458000290",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

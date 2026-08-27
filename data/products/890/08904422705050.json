@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904422705050",
+  "barcode_printed": "8904422705050",
+  "barcode_format": "EAN-13",
+  "name": "Patanjali 7Grain Biscuit Digestive",
+  "brand": "patanjali",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 477.37,
+        "protein_g": 8.81,
+        "carbohydrate_g": 59.11,
+        "sugars_g": 20.7,
+        "fat_g": 21.45,
+        "saturated_fat_g": 10.16,
+        "fibre_g": 6.32,
+        "sodium_mg": 140
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat flour (Atta - 42.8%), Edible vegetable oil (Refined Palm oil), Sugar Multi grain flour (18.7%) {Ragi, Wheat bran, Oats, Corn flakes, Rice, Jowar, Bengal gram} Invert sugar syrup, Raising agent (INS 500(ii), INS 503(ii)), lodized salt, Malt extract, Nature identical & Artificial flavouring substances ( Vanilla & Honey), Acidity regulator [INS 296, INS 334, INS 450(i)), Flour Treatment agent (INS 223)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904422705050",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

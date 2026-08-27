@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08906141780684",
+  "barcode_printed": "8906141780684",
+  "barcode_format": "EAN-13",
+  "name": "Zero Sugar Millet Oatmeal Cookies",
+  "brand": "artinci",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2 cookies (16 g)",
+        "quantity": {
+          "value": 16,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 64,
+        "protein_g": 0,
+        "carbohydrate_g": 7,
+        "sugars_g": 0,
+        "fat_g": 5,
+        "saturated_fat_g": 3,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 13
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906141780684",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

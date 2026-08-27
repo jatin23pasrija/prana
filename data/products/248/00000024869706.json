@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "00000024869706",
+  "barcode_printed": "24869706",
+  "barcode_format": "EAN-8",
+  "name": "1to3 Noodles",
+  "brand": "shri-raja-industries",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 10.4,
+        "carbohydrate_g": 63.4,
+        "sugars_g": 3.1,
+        "fat_g": 17,
+        "saturated_fat_g": 9.9,
+        "fibre_g": 6.3,
+        "sodium_mg": 2133.6
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/24869706",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08908018729666",
+  "barcode_printed": "8908018729666",
+  "barcode_format": "EAN-13",
+  "name": "Whole wheat sourdough bread",
+  "brand": "suchalis",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 233.39,
+        "protein_g": 9.03,
+        "carbohydrate_g": 46.46,
+        "sugars_g": 3.1,
+        "fat_g": 1.27,
+        "saturated_fat_g": 0.83,
+        "fibre_g": 8.91,
+        "sodium_mg": 529.64
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908018729666",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08903363002181",
+  "barcode_printed": "8903363002181",
+  "barcode_format": "EAN-13",
+  "name": "Methi",
+  "brand": "dmart-premia",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 333.4,
+        "protein_g": 26.2,
+        "carbohydrate_g": 44.1,
+        "sugars_g": 0.55,
+        "fat_g": 5.8,
+        "saturated_fat_g": 0.77,
+        "trans_fat_g": 0,
+        "sodium_mg": 40.2
+      }
+    }
+  ],
+  "ingredients_raw": "Fenugreek Seed",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903363002181",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

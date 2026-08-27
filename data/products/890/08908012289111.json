@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908012289111",
+  "barcode_printed": "8908012289111",
+  "barcode_format": "EAN-13",
+  "name": "Protein Powder",
+  "brand": "naturamore",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sucrose, Whey Protein Concentrate 14.3%, Soy Protein Isolate 13.5%, Malt Extract,Maltodextrin, Micronutrient Premix Minerals (Calcium Phosphate Tribasic, Choline Bitartrate, Sodium Citrate, Zinc Sulphate, Manganese Sulphate, Vitamins (Ascorbic Acid, BL-Aloha Tocopheryl Acetate, Nicotinamide, Retinyl Acetate, Ergocalciferol, Cyanocobalamin, Thiamine Mononitrate, Riboflavin, Phylloquinone, D-Biotin, Rice Protein Isolate 26 Pea Protein Isolate 1%, Omega 3 DHA 0.3%-Algal source, Stabilizer, Brahmi Extract 0.15% Ashwagandha Extract 0.12%, Colostrum Powder 0.1%.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908012289111",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

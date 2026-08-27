@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901548310205",
+  "barcode_printed": "8901548310205",
+  "barcode_format": "EAN-13",
+  "name": "Complan Strawberry Flavor",
+  "brand": "complan",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "maltodextrin, 23% skimmed milk powder, sucrose, vegetable oil powder, emulsifier (471), anti-caking agent (551), minerals (calcium phosphate, potassium phosphate, zinc sulphate, copper sulphate, potassium iodide, ferric pyrophosphate), flavour identical strawberry flavour, beetroot colour, vitamins (vitamin a acetate, vitamin e acetate, niacinamide, calcium-d-pantothenate, pyridoxine hydrochloride, thiamine mononitrate, riboflavin, vitamin d3, vitamin b12, folic acid)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901548310205",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

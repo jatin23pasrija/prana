@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08994963003272",
+  "barcode_printed": "8994963003272",
+  "barcode_format": "EAN-13",
+  "name": "Instant Noodles Special Chicken Flavour",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 455,
+        "protein_g": 11,
+        "carbohydrate_g": 62,
+        "sugars_g": 3,
+        "fat_g": 18,
+        "saturated_fat_g": 9,
+        "sodium_mg": 75
+      }
+    }
+  ],
+  "ingredients_raw": "Noodles: Refined wheat flour (Melda), Edible vegetabit uit Thefined palm oil Contains anticxid INS 319)), Salt, Acidity regulators (INS 452i, NS 5011, INS 5001), Thickener (INS 412), Colour (INS 1011). Seasoning Powder: Salt, Flavour enhancers (INS 621, INS 631, INS 627), Sugar, Artifici chicken flavour, White pepper, Celery, Garlic. Seasoning Oil: Edible vegetable oil (Refined palm oil (Contains antioxidant INS 319)), Shallot. Dried Chili Powder ALLERGY ADVICE: CONTAINS WHEAT AND SOY MAY CONTAINS PEANUTS, CRUSTACEAN, FISH, EGG, TREE NUT, DAIRY THE SEASONING POWDER CONTAINS ADDED MONOSODIUM GLUTAMATE NOT RECOMMENDED FOR INFANTS BELOW 12 MONTHS AND PREGNANT WOMEN",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8994963003272",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

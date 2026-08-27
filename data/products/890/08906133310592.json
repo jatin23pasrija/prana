@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906133310592",
+  "barcode_printed": "8906133310592",
+  "barcode_format": "EAN-13",
+  "name": "Almond Bon Bon",
+  "brand": "karachi-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 528,
+        "protein_g": 4.52,
+        "carbohydrate_g": 64.55,
+        "sugars_g": 36.73,
+        "fat_g": 28.03,
+        "saturated_fat_g": 23.55,
+        "fibre_g": 4.73
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Edible Vegetable Fat Mik Solids, Cocoa Solids, Cocoa Butter, Puffed Rice Crispy, Almond, Emulsifiers - INS 322 & INS 476, Natural Flavouring",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906133310592",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

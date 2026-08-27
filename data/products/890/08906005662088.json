@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005662088",
+  "barcode_printed": "8906005662088",
+  "barcode_format": "EAN-13",
+  "name": "narasus",
+  "brand": "narasu-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "u's na jaras since 1926 insta strong instant coffee-chicory mixture coffee 70% chicory 30% keep the container air tight, fssai lic no:10012042000442 6 6208 8 0 0 0 6| 8",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005662088",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

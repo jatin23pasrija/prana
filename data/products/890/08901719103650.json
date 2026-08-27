@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719103650",
+  "barcode_printed": "8901719103650",
+  "barcode_format": "EAN-13",
+  "name": "parle magix orange",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, 10DISED SALT, RAISING AGENTS (503 (i), 500 (ii)), STARCH AND EMULSIFIER OF VEGETABLE ORIGIN (SOYA LECITHIN). CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (129,110] AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES-ORANGE). BESTBORE SIX MONTHS FROM PACKAGING CONMER CARE CELL PA PRODUCTS PVT. LTD. NTH LEVEL CROSSING OF FAT 8 901719|l 103650 Woured Sandwich Biscuits",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719103650",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335603894",
+  "barcode_printed": "8904335603894",
+  "barcode_format": "EAN-13",
+  "name": "Protein shake cold coffee",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk Solids(86.6%),Milk Protein Concentrate(7.9%),Sweeteners (Maltitol,Steviol glycosides), Soluble Coffee Powder(045), Nature-ldentical Flavouring Substances, Natural Flavours and Natural Flavouring Substances, Acidity Regulator(Trisodium orthophosphate), Stabilizer (Carragenan).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335603894",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

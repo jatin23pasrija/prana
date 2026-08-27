@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08906171950019",
+  "barcode_printed": "8906171950019",
+  "barcode_format": "EAN-13",
+  "name": "Soya Chips",
+  "brand": "chauhan-foods",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "energy_kj": 2093,
+        "protein_g": 9,
+        "carbohydrate_g": 60,
+        "sugars_g": 4,
+        "fat_g": 25,
+        "saturated_fat_g": 11,
+        "fibre_g": 4,
+        "sodium_mg": 510
+      }
+    }
+  ],
+  "ingredients_raw": "SOYA FLOUR (DEFATTED), UDAD DAL FLOUR, RICE FLOUR, EDIBLE STARCH, IODIZED SALT, CONDIMENTS, SPICES, CITRIC ACID, EDIBLE OIL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906171950019",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

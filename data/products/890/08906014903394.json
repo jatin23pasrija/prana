@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906014903394",
+  "barcode_printed": "8906014903394",
+  "barcode_format": "EAN-13",
+  "name": "Kwality Choco Flakes",
+  "brand": "kwality",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Wheat Flour (Atta) 42%, Sugar (22%), Cocoa Solids (5.5%), Wheat Bran (4%), Anticaking Agent (INS 170i), Iodised Salt, Vitamin Premix, and Antioxidant (INS 320). CONTAINS PERMITTED NATURAL COLOUR (INS 150d) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCE-CHOCOLATE, VANILLA) ALLERGENS CONTAINS GLUTEN (WHEAT), MAY CONTAIN TRACES OF TREE NUTS. CTIONS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906014903394",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

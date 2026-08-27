@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132983519",
+  "barcode_printed": "8904132983519",
+  "barcode_format": "EAN-13",
+  "name": "Filter Coffy",
+  "brand": "ravalgon",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SUGAR, LIQUID GLUCOSE, HYDROGENATED VEGETABLE ON MILK SOLIDS, SWEETENED CONDENSED MILK, COFFEE-CHICORY MIXTURE (0.8%) 70% COFFEE & 30% CHICORY], IODIZED SALT, EMULSIFIER (322 (i)), NATURE IDENTICAL AND ARTIFICIAL (COFFEE) FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132983519",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

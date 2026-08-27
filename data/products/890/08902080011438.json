@@ -1,0 +1,70 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080011438",
+  "barcode_printed": "8902080011438",
+  "barcode_format": "EAN-13",
+  "name": "Orange Delight",
+  "brand": "tropicana",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 50,
+        "protein_g": 0.1,
+        "carbohydrate_g": 12.4,
+        "sugars_g": 12,
+        "sodium_mg": 34.54
+      }
+    }
+  ],
+  "ingredients_raw": "WATER, &quot;CONCENTRATED ORANGE JUICE (8.2%), SUGAR, ACIDITY REGULATOR (330), IODISED SALT, STABILIZER (440). CONTAINS PERMITTED NATURAL COLOUR (160a (i)) AND ADDED FLAVOUR (NATURAL FLAVOURING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080011438",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

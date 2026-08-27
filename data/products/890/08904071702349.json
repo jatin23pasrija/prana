@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071702349",
+  "barcode_printed": "8904071702349",
+  "barcode_format": "EAN-13",
+  "name": "Mix Farsan",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 590,
+        "protein_g": 13.6,
+        "carbohydrate_g": 38.7,
+        "sugars_g": 3.3,
+        "fat_g": 42.3,
+        "saturated_fat_g": 19,
+        "fibre_g": 7.4,
+        "sodium_mg": 100
+      }
+    }
+  ],
+  "ingredients_raw": "Gram Flour, Palm Oil, Bengal Gram, Edible Starch, Red Chilli Powder, Bishops Weed, Curry Leaves, Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071702349",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

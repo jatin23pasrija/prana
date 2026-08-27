@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906104971388",
+  "barcode_printed": "8906104971388",
+  "barcode_format": "EAN-13",
+  "name": "10 DAYS FAT BURNER",
+  "brand": "healthoxide",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Garcinia Cambogia fruit extract, Green tea leaf extract, Garcinia indica fruit extract, Zingiber officiate rhizome extract, Curcuma rhizome root extract, Piper Longum, Hartaki and fennel seed",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906104971388",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

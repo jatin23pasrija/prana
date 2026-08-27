@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719123139",
+  "barcode_printed": "8901719123139",
+  "barcode_format": "EAN-13",
+  "name": "Hide&seek bisc",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 479,
+        "protein_g": 5.9,
+        "carbohydrate_g": 73.3,
+        "fat_g": 18,
+        "saturated_fat_g": 9.3
+      }
+    }
+  ],
+  "ingredients_raw": "wheat flour, Chocolate (23%) [Sugar, Cocoa solids cocoa butter, Dextrose, Emulsifier (LECITHIN OF SOYA ORIGIN) And added flavour ( Artificial flavoring substances - Vanilla) ] , Sugar, edible oil (palm oil) , invert sugar syrup, raising agents , cocoa solids , iodised salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719123139",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262153645",
+  "barcode_printed": "8901262153645",
+  "barcode_format": "EAN-13",
+  "name": "Half and Half Cream",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 162,
+        "protein_g": 2.5,
+        "carbohydrate_g": 4.2,
+        "sugars_g": 4.2,
+        "fat_g": 15,
+        "saturated_fat_g": 9,
+        "trans_fat_g": 0,
+        "sodium_mg": 19
+      }
+    }
+  ],
+  "ingredients_raw": "Milk solids, water, emulsifiers [4600), 464, 471, 472b, 472e].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262153645",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

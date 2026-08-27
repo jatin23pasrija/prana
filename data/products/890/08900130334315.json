@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08900130334315",
+  "barcode_printed": "8900130334315",
+  "barcode_format": "EAN-13",
+  "name": "2 Galettes sarrasin jambon emmental",
+  "brand": "picard",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Eau, farine de sarrasin 17,3%, emmental français râpé 15,6% (contient LAIT), jambon cuit supérieur 14,3% [jambon de porc (origine : France*), eau, sel, dextrose, gélatine G de porc, bouillon (blette, acérola, carotte), ferments], farine de BLÉ 8,2% (GLUTEN), crème fraîche liquide (LAIT), OEUF entier 5,2% (liquide, pasteurisé), lactose (LAIT), amidon de riz, sel, huile de tournesol, piment de Cayenne, poivre. *Issue d'animaux nés, élevés, abattus et transformés en France. Peut contenir des traces de : crustacés, poissons, soja, fruits à coque, céleri, moutarde, sésame, mollusques",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8900130334315",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

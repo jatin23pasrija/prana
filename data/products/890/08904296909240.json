@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904296909240",
+  "barcode_printed": "8904296909240",
+  "barcode_format": "EAN-13",
+  "name": "Fabsta Honey",
+  "brand": "fabsta",
+  "category": "honey",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 333.32,
+        "energy_kj": 1396,
+        "protein_g": 0,
+        "carbohydrate_g": 83.33,
+        "sugars_g": 79.62,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 8.61
+      }
+    }
+  ],
+  "ingredients_raw": "Honey",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904296909240",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

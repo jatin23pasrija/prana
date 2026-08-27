@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088074063",
+  "barcode_printed": "8901088074063",
+  "barcode_format": "EAN-13",
+  "name": "Roasted Makhana",
+  "brand": "munchiez",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 507,
+        "protein_g": 7.1,
+        "carbohydrate_g": 62,
+        "sugars_g": 6,
+        "fat_g": 26,
+        "saturated_fat_g": 6.3,
+        "fibre_g": 2,
+        "sodium_mg": 904
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Makhana (Fox Nut) (58%), Edible Vegetable Oil (Refined Rice Bran Oil), Sugar, Maltodextrin, Iodised Salt, ~Spices and Condiments, Milk Solids, Flavour (Natural and Nature Identical Flavouring Substance), Flavour Enhancer (INS 627, INS 631), Cheese powder (0.05%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088074063",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

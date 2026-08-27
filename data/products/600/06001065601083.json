@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "06001065601083",
+  "barcode_printed": "6001065601083",
+  "barcode_format": "EAN-13",
+  "name": "DAIRY MILK BISCUIT",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "sugar, full cream milk powder, shortcake biscuit (18%) [wheat flour (gluten), sugar, salt, vegetable fat (palm fruit), corn flour, invert sugar syrup, raising agent (sodium bicarbonate), flavourings], cocoa mass, cocoa butter, vegetable fats [palm fruit, sunflower seed, shea nut, illipe seed, sal seed (soya) (citric acid)], whey permeate (cow's milk), whey powder (cow's milk), emulsifiers (e442, e476, e322-soya), flavourings, contains: cow's milk, wheat (gluten), soya, may contain: treenuts ingre (18%) [fi (fruits de poudre à pâte de c palme, g d'illipe, lactoser vache), contie peute",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6001065601083",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

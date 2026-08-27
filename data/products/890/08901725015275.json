@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725015275",
+  "barcode_printed": "8901725015275",
+  "barcode_format": "EAN-13",
+  "name": "Dark Fantasy",
+  "brand": "sunfeast-is-sold-by-itc-limited",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 69,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 507,
+        "protein_g": 7.3,
+        "carbohydrate_g": 61.1,
+        "sugars_g": 35.7,
+        "fat_g": 27.3,
+        "saturated_fat_g": 12.7,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 181.5
+      }
+    }
+  ],
+  "ingredients_raw": "CHOCO CRÈME (38.0%) (SUGAR, REFINED PALMOLEIN, REFINED PALM OIL, COCOA SOLIDS, EMULSIFIER [LECITHIN (FROM SOYABEAN)], NATURE IDENTICAL FLAVOURING SUBSTANCES (CHOCOLATE), ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)), MAIDA (REFINED WHEAT FLOUR), HYDROGENATED VEGETABLE OIL, SUGAR, INVERT SYRUP, LIQUID GLUCOSE, RAISING AGENTS [INS 503(ii), INS 500(ii), INS 450(i)], COCOA SOLIDS (0.7%), BUTTER, MILK SOLIDS, IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES (MILK CHOCOLATE), COLOURS (INS 150c, INS 150d), EMULSIFIERS [LECITHIN (FROM SOYABEAN), MONO AND DIGLYCERIDES OF FATTY ACIDS (FROM PALM OIL)], ARTIFICIAL FLAVOURING SUBSTANCES (MILK, VANILLA). CONTAINS WHEAT, MILK, SOY. MAY CONTAIN NUT, SULPHITE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725015275",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

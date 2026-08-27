@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "00701098216310",
+  "barcode_printed": "0701098216310",
+  "barcode_format": "EAN-13",
+  "name": "Soya milk powder",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 461,
+        "protein_g": 49,
+        "carbohydrate_g": 22.3,
+        "sugars_g": 0,
+        "fat_g": 18.7,
+        "saturated_fat_g": 0,
+        "fibre_g": 21.4,
+        "sodium_mg": 471
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0701098216310",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

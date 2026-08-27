@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081012235",
+  "barcode_printed": "8909081012235",
+  "barcode_format": "EAN-13",
+  "name": "Supermilk Biscuits",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 37.7,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "MAIDA REFINED WHEAT FLOUR) (57.4%), SUGAR, REFINED PALM OIL, SWE CONDENSED COW MILK 30% INVERT SYRUP, IODIZED SALT, RAISING AGENTS [500(ii), 503 (ii)], MILK (0.36%) (OF WHICH 02% DOMESTIC COW MILK), EMULSIFIERS [MONO AND DIGLYCERIDES OF FATT FLAVORING SUBSTANCES (MILK. VANILLA), NATURE IDENTICAL FLAVOURING SUBSTANCES FROM PALM OIL), LECITHIN (FROM SOYABEAN)], NON DAIRY CREAMER (0.2%), MINERALS, A RATENT AGENT (223), VITAMINS. CONTAINS WHEAT, MILK, SOY, SULPHITE. MAY CONTAIN NUT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081012235",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

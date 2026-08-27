@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020460010",
+  "barcode_printed": "8906020460010",
+  "barcode_format": "EAN-13",
+  "name": "Harvest Gold White Bread",
+  "brand": "harvest-gold",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 700,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 244.76,
+        "protein_g": 7.57,
+        "carbohydrate_g": 51.46,
+        "sugars_g": 4.04,
+        "fat_g": 0.96,
+        "saturated_fat_g": 0.19,
+        "fibre_g": 2,
+        "sodium_mg": 504.84
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (64.9%), Sugar, Yeast, lodized Salt, Gluten, Preservatives (282, 200), Soya Flour, Edible Vegetable Oil (Refined Soyabean Oil, Refined Palmolein Oil), Emulsifiers (481 (i), 472e, 415), Acidity Regulators (270, 297), Antioxidant (300), Flour Treatment Agent (516).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020460010",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

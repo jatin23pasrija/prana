@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725133979",
+  "barcode_printed": "8901725133979",
+  "barcode_format": "EAN-13",
+  "name": "Sunfeast Dark Fantasy Bourbon, Classic Biscuit",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "MARKETED BY ITC LTD, 37, J. L. NEHRU ROAD, KOLKATA - 700 07 MFD. BY: •06) ITC LTD.-ITCLID COODS DIVISION DLOT NO. 1, S 0312 Pkg.Mtrl.Mfd. By Jupiter Laminators Pvt. Ltd. Regn. No. HSPCB/Consent/:3131218215ONCTO8497192 REFINED WHEAT FLOUR (MAIDA), SUGAR (32.5%), REFINED PALM OIL, COLOURS (150a, INS 150C, INS 150d, INS 129), SI COCO OHEN MILIOLIDS, RAISING AGENTS [INS 503(ii), INS 500(ii), INS 450(i)], ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA, CHOCOLATE), SIFIERS) HINERIDES OF FATTY ACIDS (FROM PALM OIL), LECITHIN (FROM SOYABEAN)], PLAIN CHOCOLATE (0.1%) {SUGAR, C0COA SOLI, COCOA AES LECITHIN (FROM SOYABEAN), POLYGLYCEROL ESTERS OF INTERESTERIFIED RICINOLEIC ACID (FROM CASTOR BEAN)] ANDANKIAL FLA MES VANILLA), IODIZED SALT AND NATURE IDENTICAL FLAVOURING SUBSTANCES (CHOCOLATE) SWHEAT, MILK, SOY. MAY CONTAINS NUTS, SULPHITES NOTMAL INFORMATION (APPROX. VALUES): PER 100 g (% RDA PER SERVE); ENERGY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725133979",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

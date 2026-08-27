@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030966033",
+  "barcode_printed": "8901030966033",
+  "barcode_format": "EAN-13",
+  "name": "Bru Cold Coffee Hazelnut",
+  "brand": "bru",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 230,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "230ml",
+        "quantity": {
+          "value": 230,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 212,
+        "protein_g": 8.7,
+        "sugars_g": 26.7,
+        "saturated_fat_g": 3.6,
+        "fibre_g": 0.2,
+        "sodium_mg": 105
+      }
+    }
+  ],
+  "ingredients_raw": "DOUBLE TONED MILK (79%), SUGAR, MILK SOLIDS, COFFEE (1%), STABILIZERS (INS 460 INS 466&INS 407), ACIDITY REGULATOR (INS 340 (ii) & FLAVOURS (NATURE IDENTICAL FLAVOURING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030966033",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

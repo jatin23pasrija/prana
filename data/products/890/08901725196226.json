@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725196226",
+  "barcode_printed": "8901725196226",
+  "barcode_format": "EAN-13",
+  "name": "Bingo! Tedhe Medhe Masala Tadka",
+  "brand": "bingo",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "RICE GRITS, REFINED PALMOLEIN, SEASONING MIX (REFINED PALMOLEIN SPICES & CONDIMENTS, ONION (1.8%), 1ODISED SALT, MALTODEXTRIN, BLACK SALT, ACIDITY REGULATORS (INS 296, INS 330, INS 334), TOMATO POWDER [TOMATO PASTE, ANTICAKING AGENT (INS 551)], REFINED SUGAR, HYDROLYZED VEGETABLE PROTEIN, GARLIC, ANTICAKING AGENT (INS 551), FLAVOUR ENHANCERS (INS 627, INS 631) AND ANTIOXIDANT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725196226",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

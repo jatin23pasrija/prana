@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00769503843094",
+  "barcode_printed": "0769503843094",
+  "barcode_format": "EAN-13",
+  "name": "Black forest ice cream pastry",
+  "brand": "getaway",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "BLACK FOREST ICE CREAM PASTRY Top and Bottom Layer(51%): Chocolate Cake (Refined Wheat Flour, Sweeteners (E965(i), E955, E950), Refined Vegetable Oil, Milk Solids, Cocoa Solids, Starch, Baking Powder, Permitted Emulsifying Agents (INS 475, INS 477), Stabilizing Agents (INS 417, INS 415), Acidity Regulator (E330), Antioxidant (E320, E310), Salt, Anticaking Agent (E554)) Middle Layer (Ice Cream 40%): Milk and Milk Solids, Maltitol, Fructooligosaccharides, Cocoa Solids, Permitted Emulsifying (E471) and Stabilizing (E407, E410, E412) Agents, Stevia. Toppings: Chocolate (9%) (Maltitol (INS 965(i), Cocoa Butter, Cocoa Solids, Emulsifiers (INS 491, INS 322(i), INS 476)) CONTAINS PERMITTED NATURAL COLOUR(S) AND ADDED FLAVOUR(S) Allergens: Contains Milk, Contains Wheat and May Contain Soy. MADE IN A FACILITY THAT ALSO PROCESSES NUTS Polyols may have laxative effect.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0769503843094",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

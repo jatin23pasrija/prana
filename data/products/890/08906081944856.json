@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081944856",
+  "barcode_printed": "8906081944856",
+  "barcode_format": "EAN-13",
+  "name": "Meishi Gochujang Chilli Sauce",
+  "brand": "meishi",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 175,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 128,
+        "protein_g": 2,
+        "carbohydrate_g": 27.1,
+        "sugars_g": 23.1,
+        "fat_g": 1.3,
+        "saturated_fat_g": 0.2,
+        "sodium_mg": 1718
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Fructose Syrup, Miso (Soybeans, Rice, Salt), Chilli, Tomato, Salt, Soy Sauce, Modified Tapioca Starch, Yeast Extract, Colour (Paprika Extract), Acidity Regulator (Acetic Acid), Stabilizer (Xanthan Gum)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081944856",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

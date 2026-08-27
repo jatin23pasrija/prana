@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719123085",
+  "barcode_printed": "8901719123085",
+  "barcode_format": "EAN-13",
+  "name": "Black Bourbon",
+  "brand": "parle-platina",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 470,
+        "protein_g": 5.2,
+        "carbohydrate_g": 75.7,
+        "sugars_g": 42.8,
+        "fat_g": 16.3,
+        "saturated_fat_g": 8.3,
+        "sodium_mg": 173
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR*, REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, COCOA SOLIDS (7.5%), INVERT SUGAR SYRUP, IODISED SALT, RAISING AGENTS [503 (ii), 500 (ii)] AND EMULSIFIER OF VEGETABLE ORIGIN [SOY LECITHIN ]. CONTAINS PERMITTED NATURAL COLOUR [150d] AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES CHOCOLATE, VANILLA ). *INCLUDING 2% AS SPRINKLED SUGAR CONTAINS: WHEAT AND SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719123085",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

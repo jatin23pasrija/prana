@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005506924",
+  "barcode_printed": "8906005506924",
+  "barcode_format": "EAN-13",
+  "name": "bikaji sub-kuch namkeen",
+  "brand": "bikaji",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 519,
+        "energy_kj": 2171,
+        "protein_g": 17,
+        "carbohydrate_g": 47,
+        "sugars_g": 3,
+        "fat_g": 29,
+        "saturated_fat_g": 12,
+        "trans_fat_g": 0,
+        "fibre_g": 9,
+        "sodium_mg": 394.8
+      }
+    }
+  ],
+  "ingredients_raw": "Edible Vegetable (Palmolein Oil, Cottonseed Oil), Split Chickpea (30%), Whole Lentils (12%), Peanuts (7%), Dried Potato Stice (4%), Rice Flakes (3%), Gram Flour, Dew Bean Flour (Moth Flour), Tapioca Starch, Dehydrated Potato Flakes, lodised Salt, Ground Spices Condiments (Red Chilli, Turmeric (Colouring & Spice), Cumin, Ginger, Black Pepper, Cardamom, Clove, Dry Spinach Powder, Cinnamon, Mace, Nutmeg, Asafoetida, Acidity Regulator (INS 330)) CONTAINS: PEANUT NET WEIG ME ER: 48g 22NOV2024 D24K7802 21MAY2025 520/ USP 0.42/9 KAJI FOODS ENT 3-577 78-57 Extension), dik AI LIC. No. 100 AMPAR OVEN B-4B, Jaladhula rah 711302, W SAI LIC. No. 10 ETUNT FOOD F 268, Vasar hataka KAJI FOODS INT No. 137, 224 zamadartola, Ka SAI LIC. No. INDHYAWA A, Muzaffar M/S RAADH m Rampur SAI LIC. N DADIJI SN 8, Arai, D CAI LIC. AL BARE han Ah SAIC SN FOR ple",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005506924",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

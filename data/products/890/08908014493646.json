@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014493646",
+  "barcode_printed": "8908014493646",
+  "barcode_format": "EAN-13",
+  "name": "Kerala Whole Wheat Paratha",
+  "brand": "rusingo",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 piece (80 g)",
+        "quantity": {
+          "value": 80,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 220,
+        "protein_g": 5,
+        "carbohydrate_g": 29,
+        "sugars_g": 0,
+        "fat_g": 10,
+        "saturated_fat_g": 2,
+        "trans_fat_g": 0,
+        "fibre_g": 4,
+        "sodium_mg": 200
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014493646",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

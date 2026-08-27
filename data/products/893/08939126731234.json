@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08939126731234",
+  "barcode_printed": "8939126731234",
+  "barcode_format": "EAN-13",
+  "name": "Vinral-Z",
+  "brand": "vinral-z",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Sugar, Dextrose, Acidity regulator NS 330) Potassium Chloride (INS E508), Sodium Chloride, Vitamin C (NS 300), Sodium Citrate (INS 331 (i)], Permitted Class II Preservative (INS 202) (INS E211) , PERMITTED SYNTHETIC FOOD COLOUR (INS 110) SAVNICE & ARTIFICIAL FLAVOURING SUBSTANCES) ADDED ORANGE FLAVOURS (NATURAL FLAVOURING",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8939126731234",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

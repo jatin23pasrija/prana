@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080104048",
+  "barcode_printed": "8902080104048",
+  "barcode_format": "EAN-13",
+  "name": "Pepsi",
+  "brand": "pepsi",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "LEMAR PEPSi CARBONATED WATER (SWEETENED CARBONATED WATER) INGREDIENTS: CARBONATED WATER, SUGAR, ACIDITY REGULATOR (338), CAFFEINE, STABILITI CONTAINS PERMITTED NATURAL COLOUR (150d) AND ADDED FLAVOUR (NATURAL FLAVOURING SUBSTANCES) &quot;CONTAINS CAFFEINE&quot; Nutritional information Per 100ml (Approx ), Energy dalco IQuideline Daly Amount (2000 kcal diet) &quot;Approx",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080104048",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

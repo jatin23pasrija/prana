@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552023719",
+  "barcode_printed": "8901552023719",
+  "barcode_format": "EAN-13",
+  "name": "Jumbo Punjabi Samosa",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 253.33,
+        "protein_g": 5.33,
+        "carbohydrate_g": 32,
+        "sugars_g": 0,
+        "fat_g": 10.67,
+        "saturated_fat_g": 0,
+        "sodium_mg": 426.67
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552023719",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

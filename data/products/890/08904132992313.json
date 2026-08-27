@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132992313",
+  "barcode_printed": "8904132992313",
+  "barcode_format": "EAN-13",
+  "name": "Campa Cola",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2000,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 42,
+        "carbohydrate_g": 10.6,
+        "sugars_g": 10.6,
+        "sodium_mg": 10
+      }
+    }
+  ],
+  "ingredients_raw": "CARBONATED WATER SUGAR, ACIDITY REGULATORS (338, 331(iii)), CAFFEINE (9.4 mg/100ml), COLOR (150d), PRESERVATIVE (211) NATURAL FLAVOURING SUBSTANCES",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132992313",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

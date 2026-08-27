@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725013882",
+  "barcode_printed": "8901725013882",
+  "barcode_format": "EAN-13",
+  "name": "Super Millets Cookies",
+  "brand": "sunfeast-farmlite",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 496,
+        "protein_g": 6.2,
+        "carbohydrate_g": 56.7,
+        "sugars_g": 21,
+        "fat_g": 27.9,
+        "saturated_fat_g": 15.1,
+        "fibre_g": 3.2,
+        "sodium_mg": 470.1
+      }
+    }
+  ],
+  "ingredients_raw": "JOWAR FLOUR (38.2%), SUGAR, HYDROGENATED VEGETABLE OIL, REFINED PALM OIL, RAGI FLOUR (5.0%), CASHEW BITS, MILK SOLIDS, OLIGOFRUCTOSE, INVERT SYRUP, RAISING AGENTS [INS 500), INS 503), IODIZED SALT, EMULSIFIERS [LECITHIN (FROM SOYABEAN), MONO AND DI-GLYCERIDES OF FATTY ACIDS (FROM PALM OIL), DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL (FROM REFINED PALM OIL AND SUNFLOWER OIL)], NATURE SUBSTANCES, BUTTER, STABILIZER (INS 415), MALTODEXTRIN AND MINERAL. IDENTICAL FLAVOURING CONTAINS MILK, SOY, NUT. MAY CONTAIN SULPHITE, WHEAT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725013882",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

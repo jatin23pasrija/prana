@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725101381",
+  "barcode_printed": "8901725101381",
+  "barcode_format": "EAN-13",
+  "name": "Dark Fantasy Choco Fills",
+  "brand": "sunfeast",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CHOCO CRÈME (38%) (SUGAR, REFINED PALMOLEIN, REFINED PALM OIL, COCOA SOLIDS (5.3%), EMULSIFIER [LECITHIN (FROM SOYABEAN)], NATURE IDENTICAL FLAVOURING SUBSTANCES - CHOCOLATE AND ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA}, REFINED WHEAT FLOUR (MAIDA), HYDROGENATED VEGETABLE OILS, SUGAR, INVERT SYRUP, LIQUID GLUCOSE, RAISING AGENTS [INS 503(ii), INS 500(ii), INS 450(i)], COCOA SOLIDS (0.7%), BUTTER, MILK SOLIDS, IODIZED SALT AND EMULSIFIERS [LECITHIN (FROM SOYABEAN), MONO - AND DI-GLYCERIDES OF FATTY ACIDS (FROM PALM OIL)]. CONTAINS PERMITTED NATURAL COLOUR(S) (INS 150d, INS 150c) AND ADDED FLAVOUR(S) (NATURE IDENTICAL FLAVOURING SUBSTANCES - CHOCOLATE AND ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA, MILK) CONTAINS WHEAT, MILK SOLIDS AND SOYA. MAY CONTAIN TRACES OF NUTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725101381",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906044542815",
+  "barcode_printed": "8906044542815",
+  "barcode_format": "EAN-13",
+  "name": "Healthfarm Nitrawhey protein",
+  "brand": "healthfarm",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "50 g",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 168.5,
+        "protein_g": 34,
+        "carbohydrate_g": 5.85,
+        "fat_g": 1.53,
+        "saturated_fat_g": 0.78
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906044542815",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

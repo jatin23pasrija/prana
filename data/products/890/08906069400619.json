@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069400619",
+  "barcode_printed": "8906069400619",
+  "barcode_format": "EAN-13",
+  "name": "veeba white pasta dressing",
+  "brand": "veeba",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 285,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 254.19,
+        "protein_g": 2.92,
+        "carbohydrate_g": 11.96,
+        "sugars_g": 4.85,
+        "fat_g": 21.63,
+        "saturated_fat_g": 3.64,
+        "trans_fat_g": 0.1
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Refined Soyabean Oil (20.0%), Synthetic Vinegar [Water, Acetic Acid (INS260)], Milk Solids, Permitted Emulsifiers and Stabilizers (INS1442, INS1450, INS415), Sugar, lodised Salt, Cheese (2.0%), Spices and Condiments, Herbs, Permitted Preservatives (INS211, INS202), Permitted Acidity Regulator (INS330), Permitted Antioxidant (INS319) and Permitted Sequestrant (INS385) CONTAINS ADDED FLAVOUR (NATURE-IDENTICAL Lic. FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069400619",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

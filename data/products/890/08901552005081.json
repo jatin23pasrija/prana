@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552005081",
+  "barcode_printed": "8901552005081",
+  "barcode_format": "EAN-13",
+  "name": "Shashi Rajma",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283.49523125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wasser, rote Bohnen (20%), Zwiebeln, Sonnenblumenöl, Tomatenmark, Ingwer, Knoblauch, Salz, Gewürze (Anistar, Schwarz Kardamom, schwarzer Pfeffer, Kümmel, Cassia, Chili, Nelken, Salz, Koriander, Kreuzkümmel, Dry Ginger, Fenchelsamen), Chilipulver, Kreuzkümmel.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552005081",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063092501",
+  "barcode_printed": "8901063092501",
+  "barcode_format": "EAN-13",
+  "name": "BRITANN Good day 600 g",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 500,
+        "energy_kj": 2068,
+        "protein_g": 6.8,
+        "carbohydrate_g": 69.5,
+        "sugars_g": 20.8,
+        "fat_g": 21.7,
+        "saturated_fat_g": 11,
+        "fibre_g": 0,
+        "sodium_mg": 246
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EDIBLE VEGETABLE OIL (PALM), BUTTER (29%), INVERT SYRUP, MILK SOLIDS RAISING AGENTS (5(130), 500%)), ODISED SALT AND EMULSIFIERS [322, 471, 472e) CONTAINS ADDED FLAVOURS INATURAL NATURE IDENTICAL AND ARTIFICIAL (BUTTER, VANILLA & MILK) FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063092501",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

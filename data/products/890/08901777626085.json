@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777626085",
+  "barcode_printed": "8901777626085",
+  "barcode_format": "EAN-13",
+  "name": "Overload veggie pizza",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 193.55,
+        "protein_g": 8.06,
+        "carbohydrate_g": 24.19,
+        "sugars_g": 4.03,
+        "fat_g": 7.26,
+        "saturated_fat_g": 3.23,
+        "fibre_g": 4.84,
+        "sodium_mg": 619.35
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777626085",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

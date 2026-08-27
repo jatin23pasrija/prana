@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08904287001014",
+  "barcode_printed": "8904287001014",
+  "barcode_format": "EAN-13",
+  "name": "Bambino Nutraawell Vermicelli",
+  "brand": "bambino",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 85,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 361,
+        "protein_g": 10.5,
+        "carbohydrate_g": 77.5,
+        "sugars_g": 2,
+        "fat_g": 1,
+        "saturated_fat_g": 0.2,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Hard Wheat Semolina/Rawa, Vitamins and Minerals Premix [Vitamin B3 (as Niacinamide), Iron (as Ferrous Sulphate), Zinc (as Zinc Sulphate), Vitamin B2 (Riboflavin), Vitamin B1 (as Thiamine Mononitrate), Vitamin B9 (Folic Acid) & Vitamin B12 (Cyanocobalamin)]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904287001014",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

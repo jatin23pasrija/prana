@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201762353",
+  "barcode_printed": "7622201762353",
+  "barcode_format": "EAN-13",
+  "name": "Cocoa",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 346,
+        "protein_g": 24,
+        "carbohydrate_g": 52,
+        "sugars_g": 1.7,
+        "fat_g": 12,
+        "saturated_fat_g": 6.7,
+        "sodium_mg": 21
+      }
+    }
+  ],
+  "ingredients_raw": "Cocoa Powder (99.98%), Flavours Natural and Artificial (Vanilla) Flavouring Substances",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201762353",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

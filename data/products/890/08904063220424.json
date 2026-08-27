@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063220424",
+  "barcode_printed": "8904063220424",
+  "barcode_format": "EAN-13",
+  "name": "Takatak Chatpata Masala",
+  "brand": "haldiram-s",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 543,
+        "protein_g": 7,
+        "carbohydrate_g": 50,
+        "sugars_g": 0.5,
+        "fat_g": 35,
+        "saturated_fat_g": 17,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 827
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Meal, Edible Vegetable Oil (Palmolein Oil, Cotton Seed, Rice Bran), Corn Meal (23%), Gram Meal, &quot;Spices and Condiments (Red Chilli Powder (0.8%), Raw Mango Powder, Coriander Powder (0.25%), Cumin Powder, Garlic Powder, Anise Powder (0.1%), Black Pepper Powder, (0.01%), Nutmeg Powder, Cinnamon Powder, Onion Powder, Spices Extract), lodised Salt, Whey Powder, Maltodextrin, Dextrose, Sugar Powder, Acidity Regulators (INS 296 & INS 330), Natural and Nature Identical Flavouring Substances. *Used as natural flavouring agent",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063220424",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "00890237000870",
+  "barcode_printed": "0890237000870",
+  "barcode_format": "EAN-13",
+  "name": "Pupusas Queso con Loroco",
+  "brand": "mi-canton",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 221.24,
+        "protein_g": 9.73,
+        "carbohydrate_g": 24.78,
+        "fat_g": 10.62,
+        "saturated_fat_g": 1.77,
+        "fibre_g": 4.42
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0890237000870",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

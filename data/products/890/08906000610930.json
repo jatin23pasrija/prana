@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906000610930",
+  "barcode_printed": "8906000610930",
+  "barcode_format": "EAN-13",
+  "name": "veggiee fingers",
+  "brand": "mccain",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 175,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "vegetable70%(potato,corn,carrot,peas),bread crumb,iodised salt,Maida,yeast,ins282,ins466,ins300,riceflakes,corn flour,spices and condiments, parsley",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906000610930",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

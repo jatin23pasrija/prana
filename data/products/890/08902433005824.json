@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08902433005824",
+  "barcode_printed": "8902433005824",
+  "barcode_format": "EAN-13",
+  "name": "SNICKERS BERRY WH",
+  "brand": "snickers",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 492,
+        "protein_g": 8.67,
+        "carbohydrate_g": 57.69,
+        "sugars_g": 52.34,
+        "fat_g": 25.18,
+        "saturated_fat_g": 10.47,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 214
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902433005824",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

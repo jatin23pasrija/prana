@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906152260885",
+  "barcode_printed": "8906152260885",
+  "barcode_format": "EAN-13",
+  "name": "Marie go round",
+  "brand": "sunder",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 74,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Refined Palm Oil, Sugar, Invert Syrup, Raising Agents [INS 500(ii), INS 503(ii)], Todised Salt, Milk Solids, Emulsifiers [INS 322, INS 472e (Plant Origin)], Flour Treatment Agent [INS 223, INS 1100(i)] 20 15.60% & Colours (INS 150d, INS e102). Contains Added Flavour [Nature Identical and Artificial Flavouring Substances - Vanilla & Milk]. 7702420 7220 10.9 6% 5.2 9% ed Fat (g) 4.4 d Fat (g) 1.2 Contains Wheat, Milk Solids 0% and Soy. 9) 365 7%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906152260885",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

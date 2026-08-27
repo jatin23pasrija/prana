@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08901014002412",
+  "barcode_printed": "8901014002412",
+  "barcode_format": "EAN-13",
+  "name": "Top Ramen chilli",
+  "brand": "nissin",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 366.86,
+        "protein_g": 7.89,
+        "carbohydrate_g": 42.73,
+        "sugars_g": 2.43,
+        "fat_g": 17.04,
+        "saturated_fat_g": 8.57,
+        "trans_fat_g": 0.1,
+        "fibre_g": 0,
+        "sodium_mg": 1553.02
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901014002412",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

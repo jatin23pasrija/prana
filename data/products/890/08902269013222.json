@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08902269013222",
+  "barcode_printed": "8902269013222",
+  "barcode_format": "EAN-13",
+  "name": "Ondem Ondansetron Oral Solution lP",
+  "brand": "alkem",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Ondansetron Hydrochloride",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902269013222",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

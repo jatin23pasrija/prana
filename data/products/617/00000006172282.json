@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "00000006172282",
+  "barcode_printed": "06172282",
+  "barcode_format": "EAN-8",
+  "name": "Schezwan classic chutney",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 156,
+        "protein_g": 1.5,
+        "carbohydrate_g": 18.3,
+        "sugars_g": 12.6,
+        "fat_g": 8.8,
+        "saturated_fat_g": 0.9,
+        "trans_fat_g": 0,
+        "fibre_g": 2.3,
+        "sodium_mg": 3520
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Refined Sunflower Oil, lodized Salt, Onion, Tomato Paste, Garlic, Chilli (2%), Thickener (INS 1422), Corn Starch, Yeast Extract, Flavour Enhancer (INS 635), Soya Sauce Powder [Anticaking Agent (INS 551)], Ginger, Paprika Oleoresin, Acidity Regulator (INS 260), Flavours Natural Flavouring Substances), Spices (White Pepper (0.1%) & Celery Seed Powder), Stabilizer (INS 415), Sichuan Pepper Powder, Preservative (INS 211) and Colour (INS 150d).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/06172282",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

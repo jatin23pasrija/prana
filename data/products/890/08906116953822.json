@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08906116953822",
+  "barcode_printed": "8906116953822",
+  "barcode_format": "EAN-13",
+  "name": "Multivitamins",
+  "brand": "truebasics",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 tablet (1.14 g)",
+        "quantity": {
+          "value": 1.14,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 0,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "fat_g": 0,
+        "sodium_mg": 8.68
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906116953822",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

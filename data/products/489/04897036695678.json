@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "04897036695678",
+  "barcode_printed": "4897036695678",
+  "barcode_format": "EAN-13",
+  "name": "Monster Energy Pipeline Punch",
+  "brand": "monster-energy",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATE WATER, SUCROSE, GLUCOSE, ACIDITY REGULATORS (CITRIC ACID, SON CITRATE), TAURINE (400 mg/100 ml), NATURE-IDENTICAL MIXED FRUIT FLAMI PRESERVATIVES (POTASSIUM SORBATE, SODIUM BENZOATE), CAFFENED 100 ml (300 ppm), SWEETENER (SUCRALOSE), VITAMINS (B3, B2, B INOSITOL (2 mg/100 ml), COLOURS (ALLURA RED AC, TARTRAZINE, NUTR INFORMATION PER 1 SERVING IN 1 CONTAINER (350 ml): ENERGY 125 6% RDA), PROTEIN 0 g (0% RDA), CARBOHYDRATE 31 g, TOTAL SUGARS ADDED SUGARS 31 g (61% RDA), TOTAL FAT 0 g (0% RDA), CHOLESTER Omg (0% RDA), SODIUM 51 mg (3% RDA), VITAMIN B2 2.9 mg, 83) 8.8 mg, VITAMIN B6 1.2 mg, VITAMIN B12 0.52 μg THIS CONTAINS SUCRALOSE FOR MANIE SEE THE FIRST",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4897036695678",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725100063",
+  "barcode_printed": "8901725100063",
+  "barcode_format": "EAN-13",
+  "name": "B Natural apple juice 1ltr tpk",
+  "brand": "itc",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 49,
+        "protein_g": 0,
+        "carbohydrate_g": 12.64,
+        "sugars_g": 11.9,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "fibre_g": 0.74,
+        "sodium_mg": 4.9
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Apple Juice (15%), Sugar, Polydextrose (Dietary Fiber) (0.95%), Acidity Regulator (INS 296), Nature Identical Flavouring Substances, Vitamins, Stabilizers (INS 415, INS 466), Colour (INS 150d) and Natural Flavours and Natural Flavouring Substances. May Contain Milk, Nut and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725100063",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

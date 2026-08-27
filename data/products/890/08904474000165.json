@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904474000165",
+  "barcode_printed": "8904474000165",
+  "barcode_format": "EAN-13",
+  "name": "Wholewheat Bran Bread",
+  "brand": "la-americana",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 300.5,
+        "protein_g": 12.5,
+        "carbohydrate_g": 52.15,
+        "sugars_g": 2.55,
+        "fat_g": 2.55,
+        "saturated_fat_g": 0.42,
+        "trans_fat_g": 0,
+        "fibre_g": 9.5,
+        "sodium_mg": 488
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Wheat Flour - Atta (50.60% ), Water, Yeast, Jaggery (2.00%), Cold Pressed Sunflower Oil, Bran (2.53%), Pink Salt (1.30%) and Fermented Whole Wheat Flour.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904474000165",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

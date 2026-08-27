@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719107092",
+  "barcode_printed": "8901719107092",
+  "barcode_format": "EAN-13",
+  "name": "Cheeslings Classic",
+  "brand": "monaco",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 507,
+        "protein_g": 8.4,
+        "carbohydrate_g": 65.2,
+        "sugars_g": 3.3,
+        "fat_g": 23.6
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat Flour, Edible Vegetable Oils (Palmolein Oil, Palm Oil), Sugar, Edible Common Salt, Cheese 1.8%, Yeast, Raising Agents, Invert Sugar Syrup, Spices and Condiments (Mustard Powder), Acidity Regulators, Emuslifier, Dough Conditioner, Added Flavours (Artificial Flavouring Substances -Black Pepper, Capsicum and Cheese)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719107092",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

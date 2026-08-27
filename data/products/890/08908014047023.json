@@ -1,0 +1,80 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014047023",
+  "barcode_printed": "8908014047023",
+  "barcode_format": "EAN-13",
+  "name": "Smoked Cheese",
+  "brand": "soft-spot",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "25g",
+        "quantity": {
+          "value": 25,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 72,
+        "protein_g": 0.4,
+        "carbohydrate_g": 3.3,
+        "sugars_g": 0,
+        "fat_g": 6.3,
+        "saturated_fat_g": 4.8,
+        "fibre_g": 0,
+        "sodium_mg": 178
+      }
+    }
+  ],
+  "ingredients_raw": "Water, potato starch, coconut oil, cashews, corn starch, salt, vegan flavours, carrageenan, nutritional yeast, lactic acid, annatto",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014047023",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

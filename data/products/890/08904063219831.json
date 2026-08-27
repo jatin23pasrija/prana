@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063219831",
+  "barcode_printed": "8904063219831",
+  "barcode_format": "EAN-13",
+  "name": "Beetroot Kebab",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Beetroot (56%), Potato, Ginger, Green Chilli, Coriander (Green), Salt, Barley Flour, Peanut, Corn Flour, Cumin Seeds, Bread Crumbs (Wheat Flour, Rice Bran Oil, Salt, Dried Yeast, Sugar), Spices and Condiments (Red Chilli, Dry Mango Powder, Cumin, Coriander, Turmeric, Black Pepper, Cardamom, Fenugreek, Cinnamon, Nutmeg), Refined Vegetable Oil (Cotton Seed Oil). Contains: Peanut, Wheat, Gluten. This product is made in a facility that processes food containing Peanut, Milk, Mustard, Soya, and Celery components.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063219831",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

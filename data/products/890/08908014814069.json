@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014814069",
+  "barcode_printed": "8908014814069",
+  "barcode_format": "EAN-13",
+  "name": "garlic bread",
+  "brand": "mr-bakewell",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 302,
+        "protein_g": 8.74,
+        "carbohydrate_g": 58,
+        "sugars_g": 10.1,
+        "fat_g": 3.9,
+        "saturated_fat_g": 0.95,
+        "fibre_g": 0.38,
+        "sodium_mg": 318
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Refined Palm Oil and Palm Olein, Yeast, lodized Salt, Garlic, Gluten, Class Il Preservatives (INS 282), Improver (Emulsifier (INS 472e) Antioxidant (INS 300)], Acidity Regulator (INS 260)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014814069",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

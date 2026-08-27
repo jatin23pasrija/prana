@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063016613",
+  "barcode_printed": "8901063016613",
+  "barcode_format": "EAN-13",
+  "name": "Britannia 50 50 SWEET & SALTY",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 487,
+        "protein_g": 7,
+        "carbohydrate_g": 72,
+        "sugars_g": 19.5,
+        "fat_g": 19,
+        "saturated_fat_g": 9,
+        "sodium_mg": 446
+      }
+    }
+  ],
+  "ingredients_raw": "72g Mono unsoturated tarty ads g 19.5g Carbahydrates Of which Sugars Protein Fat Saturated fatty acids Poly unsaturated fatty acids Irans fath dls Cholesteraf Eneryy Omg",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063016613",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

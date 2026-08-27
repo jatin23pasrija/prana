@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901044600930",
+  "barcode_printed": "8901044600930",
+  "barcode_format": "EAN-13",
+  "name": "Rose Sharbat",
+  "brand": "mapro",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "SUGAR, WATER, ROSE PETALS (2%), ACIDITY REGULATOR (CITRIC ACID), PRESERVATIVE (INS-211) CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS-122) & ADDED FLAVOURS - NATURAL, NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES (ROSE)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901044600930",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

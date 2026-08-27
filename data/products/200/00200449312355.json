@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00200449312355",
+  "barcode_printed": "0200449312355",
+  "barcode_format": "EAN-13",
+  "name": "Kolhapuri Cookies",
+  "brand": "chakote",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour Maida), Hydrogenated Vegetable Oil, Sugar, Semolina, Liquid Glucose, Milk Solids, lodized Salt, Ghee Emulsifiers (INS 450(i), INS 471, INS 472e), Spices (Cardamom Powder, Cardamom Oil) & Raising Agent (INS 500(ii)). ALLERGENS: CONTAINS GLUTEN, MILK",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0200449312355",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

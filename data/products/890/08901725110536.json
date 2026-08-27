@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725110536",
+  "barcode_printed": "8901725110536",
+  "barcode_format": "EAN-13",
+  "name": "Ready To Cook Chapati",
+  "brand": "aashirvaad",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 250,
+        "protein_g": 8.3,
+        "carbohydrate_g": 46.5,
+        "sugars_g": 5.1,
+        "fat_g": 5.5,
+        "saturated_fat_g": 0.8,
+        "fibre_g": 9.3,
+        "sodium_mg": 324
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725110536",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

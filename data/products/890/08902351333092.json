@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902351333092",
+  "barcode_printed": "8902351333092",
+  "barcode_format": "EAN-13",
+  "name": "Sobisco Desire Chocolate Cake Filled with Chocolate Cream",
+  "brand": "sobisco",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 18,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR(25.34%), SUGAR, HYDROGENATED VEGETABLE OIL/ REFINED PALMOLEIN OIL, EGG LIQUID, WATER, HUMECTANTS (E420, E422), HMCS, MILK SOLIDS, CHOCO PASTE, EMULSIFIERS (E471, E477) BAKING POWDER, COCOA POWDER, INVERT SYRUP, CORN STARCH,RAISING AGENT (E5O3), SALT, CLASS II PRESERVATIVES (E200, E319), ACIDITY REGULATOR (E330) & STABILIZER (E415),CONTAINS PERMITTED SYNTHETIC FOOD FLAVOUR (150d) AND ADDED ARTIFICIAL FLAVOUR (CHOCOLATE).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902351333092",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

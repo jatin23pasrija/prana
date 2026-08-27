@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014841041",
+  "barcode_printed": "8908014841041",
+  "barcode_format": "EAN-13",
+  "name": "Fresh Cheese",
+  "brand": "spotted-cow-fromagerie",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 232,
+        "protein_g": 13.58,
+        "carbohydrate_g": 3.58,
+        "fat_g": 18.18,
+        "saturated_fat_g": 13.46,
+        "sodium_mg": 8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014841041",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

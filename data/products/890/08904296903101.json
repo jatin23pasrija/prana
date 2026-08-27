@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08904296903101",
+  "barcode_printed": "8904296903101",
+  "barcode_format": "EAN-13",
+  "name": "Lemon pickle",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 146.77,
+        "protein_g": 1.88,
+        "carbohydrate_g": 8.33,
+        "sugars_g": 1.6,
+        "fat_g": 11.77,
+        "saturated_fat_g": 3.08,
+        "sodium_mg": 4155.19
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904296903101",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

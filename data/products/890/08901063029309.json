@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063029309",
+  "barcode_printed": "8901063029309",
+  "barcode_format": "EAN-13",
+  "name": "Jimjam Pops",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 503,
+        "protein_g": 5.1,
+        "carbohydrate_g": 70.7,
+        "sugars_g": 36.7,
+        "fat_g": 22.2,
+        "saturated_fat_g": 12.4,
+        "sodium_mg": 195
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL & INTERESTERIFIED VEGETABLE FAT, INVERT SUGAR SYRUP, MILK SOLIDS, EDIBLE MAIZE STARCH, FRUIT PRODUCTS (1%) (APPLE JUICE CONCENTRATE BANANA POWDER, PLUM JUICE CONCENTRATE), EMULSIFIERS [322(i) & 471), IODISED SALT, ARTIFICIAL (VANILLA, RASPBERRY, PINEAPPLE, APRICOT) & NATURE IDENTICAL FLAVOURING SUBSTANCES, ACIDITY REGULATORS [330& 331(iii), GELLING AGENT (440), RAISING AGENTS (500(ii) & 503(ii)] AND COLOUR (122).CONTAINS WHEAT, MILK & SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063029309",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595963409",
+  "barcode_printed": "8901595963409",
+  "barcode_format": "EAN-13",
+  "name": "Singapore curry",
+  "brand": "capital-foods-ltd",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles (_Wheat_ Flour, Palmolein Oil, Salt, Potassium Chloride (E508), _Wheat_ _Gluten_, Sodium Polyphosphate (E452i), Guar Gum (E412), Potassium Carbonate (E501i), Sodium Hydrogen Carbonate (E500ii)); Seasoning Mix (Mixed Spices 22% (Coriander, Turmeric, Chili Powder, Fennel, Cumin, Asafoetida, Fenugreek, Ginger, _Mustard_, Star Anise), Sugar, Mixed Vegetables 20% (Carrot, French Beans, Cabbage), Salt, Noodle Powder (_Wheat_ Flour, Palmolein Oil, Salt, Potassium Chloride (E508), _Wheat_ _Gluten_, Sodium Polyphosphate (E452i), Guar Gum (E412), Potassium Carbonate (E501i), Sodium Hydrogen Carbonate (E500ii)), Tomato Powder, Onion, _Soy_ Sauce Powder (_soybean_, _wheat_, salt), Disodium 5'Guanylate (E627), Disodium 5'Inosinate (E631), Garlic, Silicon Dioxide(E551), Citric Acid (E330), Sodium Bicarbonate(E500ii), Dehydrated Curry Leaves, Parsley, Sunflower Oil)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595963409",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

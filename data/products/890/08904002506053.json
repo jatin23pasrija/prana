@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08904002506053",
+  "barcode_printed": "8904002506053",
+  "barcode_format": "EAN-13",
+  "name": "Toned Milk Curd",
+  "brand": "masqati",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (100 g)",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 67,
+        "protein_g": 3.45,
+        "carbohydrate_g": 5.8,
+        "sugars_g": 2.8,
+        "fat_g": 3,
+        "saturated_fat_g": 2.19,
+        "trans_fat_g": 0,
+        "sodium_mg": 55
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904002506053",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

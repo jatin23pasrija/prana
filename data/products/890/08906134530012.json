@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906134530012",
+  "barcode_printed": "8906134530012",
+  "barcode_format": "EAN-13",
+  "name": "Oats Original Unsweetened",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 43,
+        "protein_g": 1.15,
+        "carbohydrate_g": 7.25,
+        "sugars_g": 4.2,
+        "fat_g": 1.05,
+        "saturated_fat_g": 0.15,
+        "fibre_g": 0.65,
+        "sodium_mg": 44.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906134530012",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

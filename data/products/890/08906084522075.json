@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906084522075",
+  "barcode_printed": "8906084522075",
+  "barcode_format": "EAN-13",
+  "name": "A2 Milk Drink Dry Fruit",
+  "brand": "desi-farms",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Low fat Milk (&gt;96%), Sugar (&lt;2%), Dry Fruits (1.5%) (Almond & Cashew), Milk Solids, Natural Flavoring Substances, Stabilizers (INS 407, INS 418) & Emulsifiers (INS 471) Allergen Information: Contains Milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906084522075",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

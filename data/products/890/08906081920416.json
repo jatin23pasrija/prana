@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08906081920416",
+  "barcode_printed": "8906081920416",
+  "barcode_format": "EAN-13",
+  "name": "Triple Strength Fish Oil",
+  "brand": "carbamide-forte",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2300mg",
+        "quantity": {
+          "value": 2.3000000000000003,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 14,
+        "protein_g": 0.33,
+        "carbohydrate_g": 0,
+        "sugars_g": 0,
+        "fat_g": 1.4,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Fish Oil, Ingredient of Capsule Shell (Gelatin), Humectants [INS420 (i) & INS 4221, Refined Soybean Oil, Antioxidants [INS 320 & INS 3211 CONTAINS PERMITTED NATURAL FLAVOUR (CITRUS LEMON).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906081920416",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

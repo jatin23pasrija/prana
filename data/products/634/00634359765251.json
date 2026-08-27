@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "00634359765251",
+  "barcode_printed": "0634359765251",
+  "barcode_format": "EAN-13",
+  "name": "Vegan Protein Powder",
+  "brand": "genetic-nutrition",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "34 g",
+        "quantity": {
+          "value": 34,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 137.39,
+        "protein_g": 24,
+        "carbohydrate_g": 4.52,
+        "sugars_g": 0.45,
+        "fat_g": 2.59,
+        "saturated_fat_g": 1.08,
+        "sodium_mg": 12.01
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0634359765251",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

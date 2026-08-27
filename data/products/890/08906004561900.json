@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08906004561900",
+  "barcode_printed": "8906004561900",
+  "barcode_format": "EAN-13",
+  "name": "Wheels Chatpata Masala Flavour",
+  "brand": "yellow-diamond",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 485.9,
+        "protein_g": 7.2,
+        "carbohydrate_g": 65.6,
+        "sugars_g": 4.2,
+        "fat_g": 21.59,
+        "saturated_fat_g": 10.6,
+        "sodium_mg": 1267.4
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour {Maida (53.5%)}, Edible Vegetable Oil (Palmolein Oil), Starch (7.8%), Suga lodised Salt, Dehydrated Vegetable Powder (Onion Powder Garlic Powder, Tamarind Powder), *Spice & Condiments {Dry Mango Powder, Cumin Powder, Ginger Powder (0.35%), Chilli Powder (0.3%), Black Pepper Powder (0.05%)}, Acidity Regulator (INS 330, INS 296, INS 334) Colour (INS 160c), Flavour (Natural & Nature Identical Flavouring Substances) & Anti Caking Agent (INS 551) *Used as natural flavouring agent. Contains: Wheat May Contains Soy, Nut & Milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906004561900",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

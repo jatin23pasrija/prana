@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202820946",
+  "barcode_printed": "7622202820946",
+  "barcode_format": "EAN-13",
+  "name": "Tang Instant Drink Mix",
+  "brand": "tang",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 17.2,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Acidity Regulator (330), Orange Fruit Powder (0.9%), Colours (171, 110, 102), Vitamins, Anticaking Agent (341), Stabilizers (415,466), Natural Flavouring Substances, Sweetener (955), Iodised Salt, Mineral (Zinc Sulphate).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202820946",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

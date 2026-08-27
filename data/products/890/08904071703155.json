@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071703155",
+  "barcode_printed": "8904071703155",
+  "barcode_format": "EAN-13",
+  "name": "Moong dal",
+  "brand": "chheda-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 32,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "94g",
+        "quantity": {
+          "value": 94,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 450,
+        "carbohydrate_g": 50,
+        "sugars_g": 0,
+        "fat_g": 18,
+        "saturated_fat_g": 8,
+        "fibre_g": 10,
+        "sodium_mg": 220
+      }
+    }
+  ],
+  "ingredients_raw": "Decorticated Split Green Gram 72 %, Palm Oil 27 %, Salt 1%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071703155",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

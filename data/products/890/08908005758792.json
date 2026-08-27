@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005758792",
+  "barcode_printed": "8908005758792",
+  "barcode_format": "EAN-13",
+  "name": "Chai karak",
+  "brand": "senso",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 80,
+        "protein_g": 1.5,
+        "carbohydrate_g": 15.7,
+        "sugars_g": 10,
+        "fat_g": 1.4,
+        "saturated_fat_g": 0.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005758792",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

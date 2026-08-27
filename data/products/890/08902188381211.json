@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902188381211",
+  "barcode_printed": "8902188381211",
+  "barcode_format": "EAN-13",
+  "name": "Semolina",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 376,
+        "protein_g": 10.87,
+        "carbohydrate_g": 78.26,
+        "sugars_g": 0,
+        "fat_g": 2.17,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "fibre_g": 2.2,
+        "sodium_mg": 22
+      }
+    }
+  ],
+  "ingredients_raw": "(semolina)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902188381211",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

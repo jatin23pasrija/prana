@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019552096",
+  "barcode_printed": "8908019552096",
+  "barcode_format": "EAN-13",
+  "name": "Waffle Crisps double choco",
+  "brand": "the-belgian-waffle-co",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 85,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Refined Sugar, Dark Choco compound 23% (Sugar, Edible Vegetable fat(Hydrogenated Oils), Cocoa Solids and Emulsifiers (INS492,INS322(i)), Edible Vegetable Oil(Palm Kernel oil), Milk Solids, Cocoa Solids, lodised Salt, Leavening Agents (INS 500(ii)), Emulsifier(INS 322(ii)), and Nature Identical Flavouring Substances(Vanilla).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019552096",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

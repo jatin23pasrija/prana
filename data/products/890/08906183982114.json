@@ -1,0 +1,69 @@
+{
+  "schema_version": 1,
+  "gtin": "08906183982114",
+  "barcode_printed": "8906183982114",
+  "barcode_format": "EAN-13",
+  "name": "Pro Concentrate Whey Rose",
+  "brand": "beast-life",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 924,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "33 g",
+        "quantity": {
+          "value": 33,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 128.54,
+        "protein_g": 24.37,
+        "carbohydrate_g": 2.86,
+        "sugars_g": 1.2,
+        "fat_g": 2.86,
+        "saturated_fat_g": 1.31,
+        "sodium_mg": 53.48
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906183982114",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

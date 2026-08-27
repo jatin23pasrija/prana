@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "03266140061852",
+  "barcode_printed": "3266140061852",
+  "barcode_format": "EAN-13",
+  "name": "Raviolis aux tomates confites et romarain",
+  "brand": "saint-jean",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 272,
+        "protein_g": 9.8,
+        "carbohydrate_g": 41,
+        "sugars_g": 3.6,
+        "fat_g": 7.1,
+        "saturated_fat_g": 2.4,
+        "sodium_mg": 600
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3266140061852",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071702196",
+  "barcode_printed": "8904071702196",
+  "barcode_format": "EAN-13",
+  "name": "Banana chips",
+  "brand": "chheda-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Banana 79 %, Palm Oil 20%, Salt IS INGRÉDIENTS: Banane 79% Huile de palme 20%, Sel 1% المكونات: موز ٧٩٪ ، زيت نخيل ٠٢٠ ملح %١ N",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071702196",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

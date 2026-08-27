@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088884174",
+  "barcode_printed": "8901088884174",
+  "barcode_format": "EAN-13",
+  "name": "Soya Mini Chunks",
+  "brand": "saffola",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 312,
+        "protein_g": 53,
+        "carbohydrate_g": 30.2,
+        "sugars_g": 2.9,
+        "fat_g": 1,
+        "saturated_fat_g": 0.3,
+        "trans_fat_g": 0.1,
+        "fibre_g": 15.5,
+        "sodium_mg": 441.1
+      }
+    }
+  ],
+  "ingredients_raw": "Defatted Soya",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088884174",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

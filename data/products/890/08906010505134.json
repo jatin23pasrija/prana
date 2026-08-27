@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010505134",
+  "barcode_printed": "8906010505134",
+  "barcode_format": "EAN-13",
+  "name": "Balaji Namkeen",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 160,
+        "protein_g": 2,
+        "carbohydrate_g": 16,
+        "sugars_g": 3,
+        "fat_g": 9,
+        "saturated_fat_g": 5,
+        "fibre_g": 2,
+        "sodium_mg": 160
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010505134",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

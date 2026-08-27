@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901052087617",
+  "barcode_printed": "8901052087617",
+  "barcode_format": "EAN-13",
+  "name": "Tetley green tea ginger mint",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Green Tea (98.8%), Lemon Flavour, Ginger Flavour and Mint Flavour (Natural Flavours CONTAINS ADDED FLAVOURS (NATURAL FLAVOURS) ADDED GINGER, MINT AND LEMON FLAVOURS GINGER, MINT AND LEMON FLAVOURED FLAVOURED TEA COMMON NAME OF FLAVOUR: GINGER MINT LEMON PERCENTAGE OF FLAVOUR: 04% 0.29 0.6% REGISTRATION NO: E0/4O-",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901052087617",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

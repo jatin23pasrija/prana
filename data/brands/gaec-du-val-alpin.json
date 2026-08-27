@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "gaec-du-val-alpin",
+  "name": "Gaec Du Val Alpin",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/brand/gaec-du-val-alpin",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  }
+}

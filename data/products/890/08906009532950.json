@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009532950",
+  "barcode_printed": "8906009532950",
+  "barcode_format": "EAN-13",
+  "name": "RiteBite MAXPROTEIN snack",
+  "brand": "ritebite",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "60g",
+        "quantity": {
+          "value": 60,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 286,
+        "protein_g": 10,
+        "carbohydrate_g": 29.9,
+        "sugars_g": 1.8,
+        "fat_g": 13.6,
+        "saturated_fat_g": 2.7,
+        "fibre_g": 4,
+        "sodium_mg": 500
+      }
+    }
+  ],
+  "ingredients_raw": "Millets & Pulses Blend Flour (55%) (Jowar Sorghum, Chickpeas, Quinoa, Whole Grain Oats, Ragi, Soy,Urad), Rice Bran Oil, Soy Protein Concentrate, Dietary Fiber, Sugar, Ajwain Powder, Black Pepper, Rock Salt, Fenugreek Powder, Mixed Spices & % Herbs (Chilli, Oregano), Garlic Powder, Tamarind Powder, Onion Powder, Soya Sauce Powder, Acidity Regulator (E330), Anti-Caking Agent (551). CONTAINS PERMITTED NATURAL COLOUR (E150a) AND ADDED FLAVOURS (NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009532950",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

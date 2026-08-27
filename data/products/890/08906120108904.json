@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906120108904",
+  "barcode_printed": "8906120108904",
+  "barcode_format": "EAN-13",
+  "name": "Farmley Date Bites",
+  "brand": "farmley",
+  "category": "dried-fruit",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Dates, Almonds, Cashew Nuts, Pistachios, Ghee, Honey. ALLERGEN CAUTION: Contains tree nuts. This product has been packed in an integrated nuts & dried fruits processing unit and may contain an occasional trace of other nuts or dried fruits.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906120108904",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

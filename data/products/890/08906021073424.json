@@ -1,0 +1,82 @@
+{
+  "schema_version": 1,
+  "gtin": "08906021073424",
+  "barcode_printed": "8906021073424",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Butter",
+  "brand": "almazrah",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 340,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "32 g",
+        "quantity": {
+          "value": 32,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 0.21,
+        "energy_kj": 857.72,
+        "protein_g": 8,
+        "carbohydrate_g": 7,
+        "sugars_g": 3,
+        "fat_g": 16,
+        "saturated_fat_g": 3,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Roasted Peanuts, Hydrogenated Soya Bean Oil, Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906021073424",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

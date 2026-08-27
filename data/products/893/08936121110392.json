@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08936121110392",
+  "barcode_printed": "8936121110392",
+  "barcode_format": "EAN-13",
+  "name": "Vinut mango",
+  "brand": "vinut",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 330,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Eau, jus de mangue 30%, sucre, acide citrique, arôme mangue, acude ascorbique, édulcorants (E951, E955), colorants (E102, E110)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8936121110392",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

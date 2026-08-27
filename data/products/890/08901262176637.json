@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262176637",
+  "barcode_printed": "8901262176637",
+  "barcode_format": "EAN-13",
+  "name": "Kashmiri Kulfi",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 48,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk solids, sugar, emulsifiers (435, 471), stabilizers (407 412), saffron (0.01% artificial flavouring substances (saffron), colours (110, 102). Allergen Information: Contains milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262176637",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

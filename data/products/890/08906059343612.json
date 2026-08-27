@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906059343612",
+  "barcode_printed": "8906059343612",
+  "barcode_format": "EAN-13",
+  "name": "Maxn Whey Protein",
+  "brand": "maxn",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 378,
+        "protein_g": 73,
+        "carbohydrate_g": 12,
+        "fat_g": 3.1,
+        "saturated_fat_g": 1.7,
+        "sodium_mg": 424
+      }
+    }
+  ],
+  "ingredients_raw": "Whey Protein Concentrate, Whey Protein isolate, Cocoa, Approved Flavour, Sucralose and Acesulfame Potassium.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906059343612",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

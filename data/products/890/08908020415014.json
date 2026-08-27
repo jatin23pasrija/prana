@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08908020415014",
+  "barcode_printed": "8908020415014",
+  "barcode_format": "EAN-13",
+  "name": "Ziggy DONUT CAKE",
+  "brand": "ziggy",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 390.53,
+        "protein_g": 5.17,
+        "carbohydrate_g": 59.23,
+        "sugars_g": 28.31,
+        "fat_g": 14.73,
+        "saturated_fat_g": 6.93,
+        "sodium_mg": 356.69
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Refined Wheat Flour (Maida), Edible Vegetable Oil (Palmolein, Palm), Humectants (422, 420, 1520), Liquid Glucose, Milk Solids (4.3%), Invert Syrup, Maize Starch, Cocoa Solids (1.75%), Dextrose, Baking Powder, Emulsifiers (475, 471, (475, 471, 466), Thickeners and Stabilizer (401, 1442, 339(i), 516, 415), Modified Starch (1422), Nature Identical and Artificial Flavouring Substances Chocolate & Vanilla, Preservative (202), lodized Salt, Acidity Regulato (330), Enzyme (1100(iii), 1104) (Numbers in brackets as ner",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908020415014",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08902979005319",
+  "barcode_printed": "8902979005319",
+  "barcode_format": "EAN-13",
+  "name": "Maa Guva juice",
+  "brand": "cavinkare",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 71.55,
+        "energy_kj": 300,
+        "protein_g": 0.13,
+        "carbohydrate_g": 17.67,
+        "sugars_g": 17.43,
+        "fat_g": 0.04,
+        "sodium_mg": 36.33
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Sugar, Guava pulp (10%), Acidity regulators (INS 330, INS 331 (iii)), Thickener (INS 466), Flavour (Nature Identical Flavouring substances), lodized salt, Antioxidant (INS 300), Synthetic Food Colour (INS 129)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902979005319",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

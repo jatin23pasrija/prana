@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063142022",
+  "barcode_printed": "8901063142022",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Nutrichoice Digestive",
+  "brand": "britannnia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR (ATTA) (63%), REFINED PALM OIL, SUGAR, WHEAT BRAN (4.7%), LIQUID GLUCOSE, MILK SOLIDS, MALTODEXTRIN, RAISING AGENTS [500(ii) & 503(ii)], IODISED SALT, EMULSIFIERS (322(i), 471 & 472e], NATURAL, NATURE IDENTICAL & ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES, MALT EXTRACT AND DOUGH CONDITIONER (223).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063142022",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00084562328000",
+  "barcode_printed": "0084562328000",
+  "barcode_format": "EAN-13",
+  "name": "Choco almond nutry cookies",
+  "brand": "open-secret",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Almonds (26%), Dark Compounds (25%) [Sugar, Edible Vegetable Fat (Hydrogenated), Cocoa Solids, Emulsifiers (INS 491, 322)], Peanuts (22%), Honey, Rice Crispies (5%) (Rice Flour, Sugar, Maize Starch, Malt Extract, Salt, Calcium Carbonate), Oligofructose, Sugar, Sunflower Oil, Liquid Glucose, Cocoa Powder, Antioxidants (INS 322), Edible Common Salt, Cocoa Butter CONTAINS PERMITTED NATURAL COLOUR (INS 150c) AND ADDED FLAVORS (NATURAL AND NATURE IDENTICAL FLAVORING SUBSTANCES) Contains Oligofructose i (dietary fibre) 5gm/100gm ALLERGEN DECLARATION: This product contains Peanuts, Tree Nuts (Almonds), Soy. Manufactured in a facility that also processes tree nuts (cashews), milk and gluten. Marketed by:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0084562328000",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

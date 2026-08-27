@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906019270026",
+  "barcode_printed": "8906019270026",
+  "barcode_format": "EAN-13",
+  "name": "Yakult Lite Mango",
+  "brand": "yakult",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 325,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Sugar, Skimmed Milk Powder, Glucose, Stabilizer (Pectin), Sweetener (Steviol Glycoside), Vitamin E. (7) OTHER 15% 15% Vitamin D. Probiotic-Lactobacillus casei strain Shirota,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906019270026",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

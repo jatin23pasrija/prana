@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08901242400592",
+  "barcode_printed": "8901242400592",
+  "barcode_format": "EAN-13",
+  "name": "Butter Murukku",
+  "brand": "anna-bytes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (30 g)",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 174.95,
+        "protein_g": 3.1,
+        "carbohydrate_g": 14.2,
+        "sugars_g": 0.7,
+        "fat_g": 11.7,
+        "saturated_fat_g": 3.5,
+        "fibre_g": 1,
+        "sodium_mg": 97
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901242400592",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

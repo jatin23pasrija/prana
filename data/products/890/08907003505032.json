@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08907003505032",
+  "barcode_printed": "8907003505032",
+  "barcode_format": "EAN-13",
+  "name": "Pepper Thattai",
+  "brand": "adyar-ananda-bhavan",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 507,
+        "protein_g": 10,
+        "carbohydrate_g": 56,
+        "sugars_g": 0,
+        "fat_g": 27,
+        "saturated_fat_g": 12,
+        "fibre_g": 1,
+        "sodium_mg": 633
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Flour (45%), Black lentil, Green gram, Spices, White sesame seeds, Refined groundnut oil, Pepper (5%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907003505032",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

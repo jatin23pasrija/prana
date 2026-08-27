@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063151321",
+  "barcode_printed": "8901063151321",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Good Day cashew cookies",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WHEAT FLOUR, VEGETABLE FAT (PALM), SUGAR, CASHEW BITS (1.8%), INVERT SUGAR, WHOLE MILK POWDER, BUTTER (MILK)(0.7%) AMMONIUM BICARBONATE, SODIUM BICARBONATE (LEAVENING), SALT, SOY LECITHIN MONO & DIGLYCERIDES OF FATTY ACIDS (PALM) & DIACETYL TARTARIC ACID ESTERS OF MONO & DIGLYCERIDES (PALM (EMULSIFIERS), ARTIFICIAL FLAVOURS (NUT, BUTTER, MILK & VANILLA). CONTAINS WHEAT, MILK, CASHEW & SOY MANUFACTURED IN A FACILITY THAT ALSO PROCESSES EGG & TREE NUTS (ALMOND, PISTACHIO).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063151321",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

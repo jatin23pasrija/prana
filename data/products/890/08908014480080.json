@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014480080",
+  "barcode_printed": "8908014480080",
+  "barcode_format": "EAN-13",
+  "name": "Bovonto",
+  "brand": "kali-mark",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, SUGAR, COLOUR (INS 150d, INS 122, INS 102, INS 124, INS 133), NATURAL, NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES, ACIDITY REGULATOR (INS 330), PRESERVATIVE (INS 21.1), SWEETENER (INS 955). CONTAINS NO FRUIT JUICE OR PULP.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014480080",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

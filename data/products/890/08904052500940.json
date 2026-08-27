@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08904052500940",
+  "barcode_printed": "8904052500940",
+  "barcode_format": "EAN-13",
+  "name": "MEDIUM FAT ICE CREAM",
+  "brand": "dinshaw-s",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 242,
+        "protein_g": 4.4,
+        "carbohydrate_g": 38.6,
+        "sugars_g": 23.3,
+        "fat_g": 7.8,
+        "saturated_fat_g": 5.8,
+        "sodium_mg": 22.1
+      }
+    }
+  ],
+  "ingredients_raw": "Medium Fat Ice Cream(77%): Water, Milk Solids, Sugar, Liquid Glucose, Cocoa Solids, Chocochips Compound (2.75%) (Sugar Vegetable Fat Hydrogenated) Milk Solids, Cocoa Solids, Dextrose, Maltodextrin, Emulsifiers (522i) CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES Emulsifiers (471, 433), Stabilizers (412,466, 407) CONTAINS PERMITTED SYNTHETIC FOOD COLORS (102, 110, 122, 133) AND ADDED FLAVOUR (NATURE IDENTICAL ARTIFICIAL FLAVOURING SUBSTANCES - (CHOCOLATE). BISCUIT COME (14%): Wafer, Refined wheat Four (Maida). Sugar, Emulsifier (322) Common Salt. CONTAINS COLOR-CARAMEL (1508).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904052500940",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

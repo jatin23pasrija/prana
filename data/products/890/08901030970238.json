@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030970238",
+  "barcode_printed": "8901030970238",
+  "barcode_format": "EAN-13",
+  "name": "Choco Brownie Fudge",
+  "brand": "kwality-walls",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, CHOCOLATE FLAVOURED CONFECTIONERY (13.7%), SUGAR, CONDENSED MILK, COCOA SOLIDS, PALM OIL, LIQUID GLUCOSE, MILK SOLIDS, MALTODEXTRIN, STABILISERS (E412, E410) AND ARTIFICIAL (VANILLIN) FLAVOURING SUBSTANCE, DRIED BROWNE PIECES, REFINED WHEAT FLOUR (MAIDA), SUGAR, PALM OIL, LIQUID GLUCOSE, COCOA SOLIDS MILK SOLDS, MODIFIED STARCH-E1442, LEAVENING AGENT-E500, EMULSIFIER-E322 AND ARTIFICIAL (VANILLA & CHOCOLATE FLAVOURING SUBSTANCES), EDIBLE PALM OIL, MILK SOLIDS, LIQUID GLUCOSE, COCOA SOLIDS, EMULSIFIER-E471, VEGETABLE PROTEIN (SOY), STABILISERS (E412, E417, E407, E410), NATURE IDENTICAL FLAVOURING SUBSTANCE, FOOD COLOURS (NATURAL (150d), E122, E133, E102)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030970238",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

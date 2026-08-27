@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262220552",
+  "barcode_printed": "8901262220552",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Cookies",
+  "brand": "amul",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 479,
+        "protein_g": 5.4,
+        "carbohydrate_g": 59.3,
+        "sugars_g": 29.1,
+        "fat_g": 24.8,
+        "saturated_fat_g": 15.9,
+        "trans_fat_g": 0.9,
+        "sodium_mg": 250
+      }
+    }
+  ],
+  "ingredients_raw": "Refined wheat flour (maida), butter (23%), sugar, plain chocolate chips (3%), cocoa solids (2%), milk solids, liquid glucose, raising agents [500(i), 503(ii)), emulsifier [481 (i)), artificial flavouring substances (vanilla, cocoa chocolate). Allergen Information: Contains wheat, milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262220552",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

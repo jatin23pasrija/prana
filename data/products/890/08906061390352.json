@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08906061390352",
+  "barcode_printed": "8906061390352",
+  "barcode_format": "EAN-13",
+  "name": "Farali mixture",
+  "brand": "badalia-foods",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 7,
+        "carbohydrate_g": 46,
+        "sugars_g": 4,
+        "fat_g": 43,
+        "fibre_g": 4,
+        "sodium_mg": 1600
+      }
+    }
+  ],
+  "ingredients_raw": "usuucwijdi",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906061390352",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

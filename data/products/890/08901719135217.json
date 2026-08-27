@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719135217",
+  "barcode_printed": "8901719135217",
+  "barcode_format": "EAN-13",
+  "name": "Krackjack",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 28.35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED OILS (PALM AND PALMOLEIN), SUGAR (17%), RAISING AGENTS [ 503 (ii), 500 (ii),341 (i) ], INVERT SUGAR SYRUP, IODISED SALT (0.9%), YEAST, ACIDITY REGULATORS [ 270, 296 ], FLOUR TREATMENT AGENTS [223, 1101 (ii), 1100(i) ], EMULSIFIER OF VEGETABLE ORIGIN [DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL ] CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - VANILLA, BUTTER).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719135217",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004408669",
+  "barcode_printed": "8904004408669",
+  "barcode_format": "EAN-13",
+  "name": "Chekaralu",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 523,
+        "protein_g": 11.1,
+        "carbohydrate_g": 58.98,
+        "sugars_g": 0,
+        "fat_g": 26.72,
+        "saturated_fat_g": 13.7,
+        "fibre_g": 1.28,
+        "sodium_mg": 310
+      }
+    }
+  ],
+  "ingredients_raw": "Rice Flour, Refined Palmolein Oil, Split Pulse Moong (Moong Dal) Flour, Roasted Bengal Gram Lentils (Daliya), Tapioca Starch, Hydrogenated Vegetable Oil (Vanaspati), lodised Salt, Sesame Seed, Cumin, Red Chilli, Asafoetida & Raising Agent (INS 500 ii) Allergen: Contains Sesame Seed May Contain Pear it, Almond, Cashew, Wheat, Milk, Soy & Mustard Seed",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004408669",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

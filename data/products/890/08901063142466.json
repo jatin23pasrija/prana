@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063142466",
+  "barcode_printed": "8901063142466",
+  "barcode_format": "EAN-13",
+  "name": "Nutri Choice Digestive",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 497,
+        "protein_g": 8.6,
+        "carbohydrate_g": 68.4,
+        "sugars_g": 14.4,
+        "fat_g": 21,
+        "saturated_fat_g": 10.2,
+        "trans_fat_g": 0,
+        "fibre_g": 6
+      }
+    }
+  ],
+  "ingredients_raw": "Refined wheat flour (maida), wheat flour(atta) (20%),refined palm oil, sugar, wheat bran(4.7%),Liquid glucose, milk solids, maltodextrin ,raising agents[503(ii)&500(ii)], IODISED salt ,emulsifiers[32(i),471&472e],malt extract and dough conditioner(233).contains added flavours [nature identical & artificial (vanillin) flavouring substances]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063142466",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904422705272",
+  "barcode_printed": "8904422705272",
+  "barcode_format": "EAN-13",
+  "name": "Patanjali nariyal",
+  "brand": "patanjali",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 494.7,
+        "protein_g": 3.31,
+        "carbohydrate_g": 66.85,
+        "sugars_g": 20.1,
+        "fat_g": 21.3,
+        "saturated_fat_g": 11.17,
+        "fibre_g": 4.23,
+        "sodium_mg": 90
+      }
+    }
+  ],
+  "ingredients_raw": "Wheat flour (Atta-55.5%), Sugar, Refined palm oil, Invert syrup, Desiccated Coconut powder (1.85%), Milk solids, Raising agents [INS 503(i), INS 500(ii), INS 341}], lodized Salt, Honey, Emulsifier INS 322(1), Desi ghee, Dough conditioner (INS 223), Nature Identical flavouring substances (Elaichi & Coconut).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904422705272",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

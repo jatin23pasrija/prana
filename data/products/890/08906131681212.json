@@ -1,0 +1,52 @@
+{
+  "schema_version": 1,
+  "gtin": "08906131681212",
+  "barcode_printed": "8906131681212",
+  "barcode_format": "EAN-13",
+  "name": "Banana choco chip millet pancake mix",
+  "brand": "mille-a-supergrain-co",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 374,
+        "protein_g": 16,
+        "carbohydrate_g": 55.6,
+        "sugars_g": 15.9,
+        "fat_g": 5,
+        "saturated_fat_g": 1.4,
+        "fibre_g": 6.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906131681212",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

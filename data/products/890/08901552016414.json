@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552016414",
+  "barcode_printed": "8901552016414",
+  "barcode_format": "EAN-13",
+  "name": "Ashoka Aloo Chole",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pomme de terre (26%), Eau, Pois chiches (22%), Oignon, Huile de tournesol, tomate, Ail, Gingembre, Sel, Poudre de coriandre, Poudre de piment, Amidon de maïs, Epices(Poudre de coriandre, Poivre Noir, Cumin, Anis, Cannelle, Muscade, Graines de Sésame, Cardamome, Clous de Girofle, Feuilles de Laurier, Anis Étoilé, Cumin, Graines de carambole, Mace, Fleur de Pierre) Cumin, Poudre de curcuma, Poudre de cardamome, Feuilles de laurier, Poudre de mangue sèche, Thé, Bicarbonate de sodium.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552016414",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

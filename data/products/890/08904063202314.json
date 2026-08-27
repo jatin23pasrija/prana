@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063202314",
+  "barcode_printed": "8904063202314",
+  "barcode_format": "EAN-13",
+  "name": "Mutter paneer with tofu",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "ZUTATEN: Tomaten, Zwiebeln, Tofu - 16%, (Sojabohnen, Wasser, Magnesiumchlorid), grüne Erbsen (10%), Sonnenblumenöl, frischer Ingwer, frischer Knoblauch, Kaschunüsse, Salz, Gewürze (Kardamom, Žimt, Muskat, Muskatblüte, Kreuzkümmelsamen, Koriander, Nelken, Curryblätter), rotes Chilipulver, Kurkumapulver, getrockneter Bockshornklee. Siehe Allergen Fett Gedruckt,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063202314",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

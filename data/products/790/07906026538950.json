@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "07906026538950",
+  "barcode_printed": "7906026538950",
+  "barcode_format": "EAN-13",
+  "name": "Max Protein Chips Peri Peri",
+  "brand": "ritebite",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "60g",
+        "quantity": {
+          "value": 60,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 286,
+        "protein_g": 10,
+        "carbohydrate_g": 29.9,
+        "sugars_g": 1.8,
+        "fat_g": 13.6,
+        "saturated_fat_g": 2.7,
+        "sodium_mg": 200
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7906026538950",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

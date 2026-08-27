@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005144175",
+  "barcode_printed": "8908005144175",
+  "barcode_format": "EAN-13",
+  "name": "Yoga Bar",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 bar (70 g)",
+        "quantity": {
+          "value": 70,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 326,
+        "energy_kj": 1364,
+        "protein_g": 20.1,
+        "carbohydrate_g": 25.6,
+        "sugars_g": 15.5,
+        "fat_g": 15.9,
+        "saturated_fat_g": 2.2,
+        "fibre_g": 10,
+        "sodium_mg": 30
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005144175",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

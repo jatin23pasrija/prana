@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063363960",
+  "barcode_printed": "8901063363960",
+  "barcode_format": "EAN-13",
+  "name": "Brittania Gobbles Chocolate Cake",
+  "brand": "brittania",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 110,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 428,
+        "energy_kj": 1792,
+        "protein_g": 6,
+        "carbohydrate_g": 56,
+        "sugars_g": 29.5,
+        "fat_g": 20,
+        "saturated_fat_g": 10,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EGGS, EDIBLE HYDROGENATED VEGETABLE OIL&REFINED PALMOLEIN OIL, HUMECTANTS (420) & 422), HIGH MALTOSE SYRUP, LIQUID GLUCOSE COCOA SOLIDS (2%), SWEETENED CONDENSED MILK, COLOURS (150c, 150d, 102, 122, 132 & 133), CAKE GEL (EMULSIFIERS & STABILIZERS (471&477) AND HUMECTANT (420)}1, RAISING AGENTS (341()& 500)], INVERT SUGAR SYRUP, IODIZED SALT, PRESERVATIVES (200 &282), BAKING POWDER, PLAIN CHOCOLATE (0.14%) /SUGAR, COCOA BUTTER, COCOA SOLIDS EMULSIFIERS (322) & 476] AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCE), FLAVOURS [NATURE IDENTICAL AND ARTIFICIAL (VANILLA & CHOCOLATE) FLAVOURING SUBSTANCES) AND STABILIZER (415).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063363960",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

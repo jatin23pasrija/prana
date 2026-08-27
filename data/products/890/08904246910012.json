@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08904246910012",
+  "barcode_printed": "8904246910012",
+  "barcode_format": "EAN-13",
+  "name": "Amla pickle",
+  "brand": "priya",
+  "category": "pickle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 209,
+        "protein_g": 1.7,
+        "carbohydrate_g": 12.1,
+        "sugars_g": 2.6,
+        "fat_g": 17.1,
+        "saturated_fat_g": 3.2,
+        "sodium_mg": 5130
+      }
+    }
+  ],
+  "ingredients_raw": "Amla Berries (48%), Refined Rice Bran Oil, Tamarind Paste (Tamarind, Water), Chilli Powder, Lime Juice, Mixed spices Mustard Seeds, Dry Chillies, Acidity Regulator-Acetic Acid, Curry Leaves and Asafoetida",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904246910012",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

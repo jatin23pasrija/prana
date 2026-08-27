@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "00031290143009",
+  "barcode_printed": "0031290143009",
+  "barcode_format": "EAN-13",
+  "name": "Godiva indulgent assortment",
+  "brand": "godiva",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 461.54,
+        "protein_g": 3.85,
+        "carbohydrate_g": 53.85,
+        "sugars_g": 42.31,
+        "fat_g": 30.77,
+        "saturated_fat_g": 17.31,
+        "fibre_g": 3.85,
+        "sodium_mg": 96.15
+      }
+    }
+  ],
+  "ingredients_raw": "SUGAR, UNSWEETENED CHOCOLATE PROCESSED WITH ALKALI, COCOA BUTTER, MILK POWDER, HEAVY CREAM, SWEETENED CONDENSED MILK, CORN SYRUP, UNSWEETENED CHOCOLATE, EVAPORATED MILK (VITAMIN D3), HAZELNUTS, PALM KERNEL OIL, BROWN SUGAR, BUTTER (UNSALTED), INVERT SUGAR, PALM OIL, HONEY, HYDROGENATED PALM KERNEL OIL, HIGH FRUCTOSE CORN SYRUP, SKIM MILK, ALMONDS, XYLITOL, SORBITOL, SKIM MILK POWDER, COCONUT, NATURAL FLAVOR, EMULSIFIER (SOY LECITHIN, MONO - AND DIGLYCERIDES), BUTTER OIL (MILK), RASPBERRY JUICE CONCENTRATE, GLYCERIN, DRIED COCONUT, BREAKFAST COCOA, SALT, CITRIC ACID, WATER, NATURAL FLAVOR (SOY), INVERTASE. UDM MAY CONTAIN OTHER TREE NUTS. Dark Chocolate Eclipse An intense 72% cacao dark chocolate mousse wrapped in sumptuous dark chocolate GODIVA CHOCOLATIER, INC., NEW YORK, NY USA 10001 DO NOT PURCHASE IF OPEN OR TORN. TO ENSURE PRODUCT QUALITY, PLEASE KEEP THIS PACKAGE STORED IN A COOL PLACE, AT OR BELOW 65°F (18°C). 0880-71367 www.godiva.com 14300 Milk Chocolate Crème Puff Crème filling inside a milk chocolate shell 9 Milk Chocolate Almond Caramel Crunchy almonds surrounded by luscious honey-infused caramel covered in milk chocolate 20 BEST BEFORE 2922 OCT LOT 28811 SKU 14300",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0031290143009",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

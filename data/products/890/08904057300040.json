@@ -1,0 +1,77 @@
+{
+  "schema_version": 1,
+  "gtin": "08904057300040",
+  "barcode_printed": "8904057300040",
+  "barcode_format": "EAN-13",
+  "name": "Chocobar",
+  "brand": "arun-icecreams",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 38,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "38g",
+        "quantity": {
+          "value": 38,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "protein_g": 2,
+        "carbohydrate_g": 13,
+        "sugars_g": 13,
+        "fat_g": 11,
+        "fibre_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Ice Cream (70%): Milk, Milk Solids, Water, Sugar, Liquid Glucose, Emulsifying (INS 471, INS 477) & Stabilizing Agents (INS 412, INS 410). Milk Chocolate Covering (30%): Sugar, Palm Kernel Oil, Maltodextrin, Cocoa Solids, Milk Solids & Emulsifier (INS 322). CONTAINS ADDED FLAVOUR-ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES. Allergen Advice: Contains Soy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904057300040",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

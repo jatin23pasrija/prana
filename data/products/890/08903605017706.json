@@ -1,0 +1,45 @@
+{
+  "schema_version": 1,
+  "gtin": "08903605017706",
+  "barcode_printed": "8903605017706",
+  "barcode_format": "EAN-13",
+  "name": "Soy sauce",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 84,
+        "protein_g": 9,
+        "carbohydrate_g": 9.8,
+        "sugars_g": 2,
+        "sodium_mg": 16.5
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903605017706",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

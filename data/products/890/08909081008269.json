@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081008269",
+  "barcode_printed": "8909081008269",
+  "barcode_format": "EAN-13",
+  "name": "Sunfeast MOM'S MAGIC ghee roasted cashew & almond biscuits",
+  "brand": "itc-limited",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "MAIDA (REFINED WHEAT FLOUR), SUGAR, REFINED PALM OIL, SYRUP, NUTS (0.9%) [CASHEWS NUTS (0.85%), ALMONDS (0.05%)], RAISING AGE [500(ii), 503(ii), 450(i)], IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES (BUTTER, NUT, VANILLA, MILK), EMULSIFIERS [MONO AND DIGLYCERIDES OF FATTY ACIDS (FROM PALM OIL), LECITHIN (FROM SOYABEAN) Con this OR code DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL (FROM SUNFLOWER AND PALM OIL)], ARTIFICIAL FLAVOURING SUBSTANCES (BUTTER), GHEE (0.01%), FLOUR TREATMENT AGENT (223), (0) (150a). CONTAINS WHEAT, SOY, NUT, MILK, SULPHITE, BUY 1 PACK OF 88 g MOM'S MAGIC GHEE ROASTED CASHEW & ALMOED PER PACK OF 88 g MOM'S MAGIC GHEE ROASTED CASHEW & ALMOND FREE LIETAILER OFFER VALID TILL STOCKS LAST. FREE PACK TO BE COLLECTED FROM THE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081008269",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

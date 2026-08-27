@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043501017",
+  "barcode_printed": "8904043501017",
+  "barcode_format": "EAN-13",
+  "name": "Baker's Loaf High Protein Bread",
+  "brand": "modern",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Wheat Flour (Atta) (51.2%), Protein Mix (7.7%)&quot; (Wheat gluten, Milk powder, Soya protein isolate, Brown Rice Protein, Pea Protein, Emulsifiers (481(1), 472e), Antioxidant (300), Stabilizers (412)), Gluten, Sugar, Yeast, Edible Vegetable Oil (Refined Soyabean Oil), lodized Salt, Milk Solid (0.51%), Preservatives (282, 200), Acidity Regulators (270, 330, 297), Emulsifier (471), Malt Product, Natural Flavouring substances, Antioxidant (300). *Edible Protein (flour basis): ≥15% (Numbers referred above are as per International Numbering System) CONTAINS WHEAT, BARLEY, MILK AND SOY INGREDIENTS Nutritional Typical Value Information per 100g Serving size (Approx.) #RDA%/50 g Energy (kcal) 241.64 6.04 Protein (g) 15.19 Carbohydrate (g) 39.12 Total Sugars (g) 4.04 Added Sugars (g) 3.46 3.46 Dietary Fibre (g) 6.20 2.71 2.02",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043501017",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

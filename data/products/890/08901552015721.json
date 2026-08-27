@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552015721",
+  "barcode_printed": "8901552015721",
+  "barcode_format": "EAN-13",
+  "name": "Ashoka Moong Dal Kachori",
+  "brand": "ashoka",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 520,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Split Green Gram (28%), Refined Flour (Wheat) (26%), Sunflower Oil, Water, Salt, Sugar, Green Chilli, Spices (Coriander Powder, Black Pepper, Cumin, Aniseeds, Cinnamon, Nutmeg, Sesame Seeds, Cardamom, Clove, Bay Leaf, Star Anise, Chilli Powder, Caraway Seeds, Carom Seeds, Mace, Stone Flower ), Sesame Seeds, Mustard Seeds, Turmeric Powder, Citric Acid.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552015721",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

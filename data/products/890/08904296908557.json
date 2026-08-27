@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "08904296908557",
+  "barcode_printed": "8904296908557",
+  "barcode_format": "EAN-13",
+  "name": "Rice crisps",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 435,
+        "protein_g": 6.85,
+        "carbohydrate_g": 75.33,
+        "sugars_g": 2.88,
+        "fat_g": 11.8,
+        "saturated_fat_g": 1.98
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904296908557",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

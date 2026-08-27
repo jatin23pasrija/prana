@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "08901414001480",
+  "barcode_printed": "8901414001480",
+  "barcode_format": "EAN-13",
+  "name": "Bikano Rasgolla",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 320.48,
+        "protein_g": 2.88,
+        "carbohydrate_g": 74.72,
+        "sugars_g": 74.72,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 40
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901414001480",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

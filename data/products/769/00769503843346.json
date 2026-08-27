@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "gtin": "00769503843346",
+  "barcode_printed": "0769503843346",
+  "barcode_format": "EAN-13",
+  "name": "chocolate cassata",
+  "brand": "get-a-whey",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (150 ml)",
+        "quantity": {
+          "value": 150,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 176.2,
+        "protein_g": 6.6,
+        "carbohydrate_g": 22.1,
+        "fat_g": 6.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0769503843346",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

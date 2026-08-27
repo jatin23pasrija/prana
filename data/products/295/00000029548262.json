@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00000029548262",
+  "barcode_printed": "29548262",
+  "barcode_format": "EAN-8",
+  "name": "mini mandarins",
+  "brand": "clemengold",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Mandarins",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/29548262",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

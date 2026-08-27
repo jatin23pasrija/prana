@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019811063",
+  "barcode_printed": "8908019811063",
+  "barcode_format": "EAN-13",
+  "name": "Waterful",
+  "brand": "waterful",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 112.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Valencia Orange: Sugar, Acidity Regulator (INS 330), Natural Turmeric Yellow (INS 100), Natural Orange Flavour, Natural Sweetener Stevia Extract (INS 960), Gum Arabic (INS 414), Salt, Vitamin & Mineral Pre-Mix. h Mixed Berries: Sugar, Acidity Regulator (INS 330), Natural Mixed Berry H Flavour, Natural Sweetener Stevia Extract (INS 960), Gum Arabic (INS 414), Natural Beetroot Red (INS 162), Salt, Vitamin & Mineral Pre-Mix. Green Apple: Sugar, Natural Apple Flavour, Acidity Regulator (INS 330), Natural Turmeric Yellow (INS 100), Chlorophyll Complex (INS 1411), Natural Sweetener Stevia Extract (INS 960), Gum Arabic (INS 414), Salt, Vitamin & Mineral Pre-Mix. Lime & Lemon: Sugar, Acidity Regulator (INS 330), Natural Lemon Flavour, Natural Lemon powder, Gum Arabic (INS 414), Natural Mint Flavour, Natural Sweetener Stevia Extract (INS 960), Salt, Vitamin & Mineral Pre-Mix. Tropical Pineapple: Sugar, Acidity Regulator (INS 330), Natural Pineapple Flavour, Natural Turmeric Yellow (INS 100), Natural Sweetener Stevia Extract (INS 960), Gum Arabic (INS414), Salt, Vitamin & Mineral Pre-Mix.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019811063",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

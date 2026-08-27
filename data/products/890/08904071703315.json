@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071703315",
+  "barcode_printed": "8904071703315",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Chikki Bar",
+  "brand": "chedda-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 serving (28 g)",
+        "quantity": {
+          "value": 28,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 145.55,
+        "protein_g": 5.32,
+        "carbohydrate_g": 14.28,
+        "sugars_g": 10.92,
+        "fat_g": 7.56,
+        "saturated_fat_g": 0.84,
+        "sodium_mg": 87.92
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071703315",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

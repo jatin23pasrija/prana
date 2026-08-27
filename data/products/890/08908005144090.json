@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005144090",
+  "barcode_printed": "8908005144090",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Chunk Nuts",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 38,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 157,
+        "energy_kj": 657,
+        "protein_g": 4.7,
+        "carbohydrate_g": 24.3,
+        "sugars_g": 7.6,
+        "fat_g": 5.6,
+        "saturated_fat_g": 1,
+        "fibre_g": 3.2
+      }
+    }
+  ],
+  "ingredients_raw": "Whole Grains 26% (Brown Rice, Millets (Saamai. Foxtail), Rolled Oats 15X). Honey 20%, Almonds 12%, Dates, Seeds 9X(Sunflower, Chia), Rice Crispies, Belgian Dark Chocolate 5% (Cocoa, Brown Sugar, Cocoa Butter, Soya Lecithin). Peanut Protein Powder. CONTAINS ADDED NATURAL FLAVOUR (Rosemary Extract, Vanilla Extract).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005144090",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

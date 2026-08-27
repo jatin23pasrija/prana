@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08906065450069",
+  "barcode_printed": "8906065450069",
+  "barcode_format": "EAN-13",
+  "name": "Choco Fillo",
+  "brand": "gone-mad",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 24,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 476,
+        "protein_g": 6,
+        "carbohydrate_g": 72,
+        "sugars_g": 28,
+        "fat_g": 18,
+        "saturated_fat_g": 9,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 235
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar (32%), Refined Wheat Flour (Maida) (27%), Edible Vegetable Oil (Refined Palmolein), Cocoa Solids, Edible Vegetable Fat (Hydrogenated Oils), Dextrose Monohydrate, Milk Powder, Whey Powder, Humectant Glycerol (E422) Starch, Vegetable Emulsifier Soya Lecithin (E322), Common Salt. Contains Permitted Natural Food Colour (Car (E150d)) and Added Flavour (Artificial Flavouring Substances-Vanillin). Hydrogenated Vegetable Fat Used Contains Trans Fats Allergen Information: Contains Milk, Wheat and Soya.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906065450069",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

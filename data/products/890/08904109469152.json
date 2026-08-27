@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08904109469152",
+  "barcode_printed": "8904109469152",
+  "barcode_format": "EAN-13",
+  "name": "Doodh Biscuits",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 465,
+        "protein_g": 7.4,
+        "carbohydrate_g": 68.8,
+        "sugars_g": 20.4,
+        "fat_g": 17.8,
+        "saturated_fat_g": 9,
+        "fibre_g": 6,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904109469152",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

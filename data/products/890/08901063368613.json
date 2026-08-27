@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063368613",
+  "barcode_printed": "8901063368613",
+  "barcode_format": "EAN-13",
+  "name": "Gobbles Choco Chill Cake",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, EGG, VANASPATI, INTERESTERIFIED VEGETABLE FAT, HUMECTANT (422), DEXTROSE, REFINED PALMOLEIN OIL, LIQUID GLUCOSE, COCOA SOLIDS (2.1%), HIGH MALTOSE SYRUP, FRUCTOOLIGOSACCHARIDES, COLOURS (150d, 150c, 102, 122, 132, 133), CAKE GEL [EMULSIFIERS (471,477, 470(i))&HUMECTANTS (1520, 422)], RAISING AGENTS (341(i), 500 (ii), 450(vii) & 450(i)), NATURE IDENTICAL (CHOCOLATE)&ARTIFICIAL (CREAMY VANILLA) FLAVOURING SUBSTANCES, INVERT SYRUP, IODIZED SALT, PRESERVATIVES (202 & 282), ACIDITY REGULATOR (330), BAKING POWDER, EMULSIFIER (475) AND STABILIZER (415). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT & EGG.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063368613",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

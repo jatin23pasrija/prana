@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901595971251",
+  "barcode_printed": "8901595971251",
+  "barcode_format": "EAN-13",
+  "name": "ching-s mix veg",
+  "brand": "ching-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "15g",
+        "quantity": {
+          "value": 15,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 49.6,
+        "protein_g": 1.3,
+        "carbohydrate_g": 10.8,
+        "sugars_g": 2.4,
+        "fat_g": 0.15,
+        "saturated_fat_g": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Potato Starch, Dried Glucose Syrup, Sugar, Salt, Dehydrated Vegetables 9.2% (carrot, parsley, green peas, cabbage, broccoli), Skimmed Milk Powder, Flavour Enhancer (E635), Spices 1.3% (pepper powder, turmeric), Onion Powder, Garlic Powder, Yeast Extract, Soy Sauce Powder (soybean, wheat, salt), Thickener (E415), Sunflower Oil, Acidity Regulator (E330), Anticaking Agent (E551). Store in a cool, dry and hygienic place. Net Weight: 15g ALLERGY ADVICE:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901595971251",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

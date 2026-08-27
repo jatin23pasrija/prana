@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08904109410093",
+  "barcode_printed": "8904109410093",
+  "barcode_format": "EAN-13",
+  "name": "Patanjali cream feast ( milk vanilla )",
+  "brand": "patanjali",
+  "category": "cream-biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 84,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 5,
+        "carbohydrate_g": 69,
+        "sugars_g": 34,
+        "fat_g": 25,
+        "saturated_fat_g": 12,
+        "fibre_g": 3.6
+      }
+    }
+  ],
+  "ingredients_raw": "whole wheat, sugar, edible vegetable oil, invert syrup, milk solids, edible common salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904109410093",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

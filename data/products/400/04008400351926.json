@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "04008400351926",
+  "barcode_printed": "4008400351926",
+  "barcode_format": "EAN-13",
+  "name": "Hanuta Minis",
+  "brand": "ferrero",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Zucker, pflanzliche Fette (Palm, Shea), _Haselnüsse_ (13 %), _Weizenmehl_ (12,5 %), _Süssmolkenpulver_, fettarmer Kakao, _Vollmilchschokolade_ (Zucker, _Vollmilchpulver_, Kakaobutter, Kakaomasse, Emulgator Lecithine (_Soja_), Vanillin), _Magermilchpulver_, _Butterreinfett_, Aromen, Salz, Halbbitterschokolade (Zucker, Kakaomasse, Kakaobutter, Emulgator Lecithine (_Soja_), Vanillin), Emulgator Lecithine (_Soja_), Traubenzucker, Backtriebmittel Natriumhydrogencarbonat, Vanilin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4008400351926",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

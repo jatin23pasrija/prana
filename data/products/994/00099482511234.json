@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00099482511234",
+  "barcode_printed": "0099482511234",
+  "barcode_format": "EAN-13",
+  "name": "Instant Espresso",
+  "brand": "whole-foods",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "instant coffee",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0099482511234",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

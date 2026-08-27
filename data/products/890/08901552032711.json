@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552032711",
+  "barcode_printed": "8901552032711",
+  "barcode_format": "EAN-13",
+  "name": "Soul Amritsari Kulcha",
+  "brand": "soul",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (28%), POTATO (20%), PANEER (MILK) (19%), WATER, MILK, REFINED SUNFLOWER SEED OIL, CURD (MILK), EDIBLE COMMON SALT, MIXED SPICES (CORIANDER SEEDS, CUMIN, BLACK PEPPER, CASSIA, DRIED GINGER, FENUGREEK LEAVES, CARDAMOM, RED CHILLI, CLOVES, NUTMEG, EDIBLE COMMON SALT, MACE, COMPOUNDED ASAFOETIDA (WHEAT)), GINGER, GREEN CHILLI, SUGAR, CORIANDER LEAVES, BAKERY & INDUSTRIAL MARGARINE (PALMOLEIN, PALM OIL, RICEBRAN OIL, SESAME OIL, WATER, SALT, EMULSIFYING AGENTS - INS 471 & ANTIOXIDANTS - INS 319), BUTTER (MILK, EDIBLE COMMON SALT), RAISING AGENT (INS 500 (ii)), POMEGRANATE SEEDS, DRY MANGO POWDER, BLACK SALT, BAKERS YEAST (DRIED).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552032711",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

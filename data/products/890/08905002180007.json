@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08905002180007",
+  "barcode_printed": "8905002180007",
+  "barcode_format": "EAN-13",
+  "name": "Kingfisher Beer",
+  "brand": "kingfisher",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 650,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "SINCE 1857 KINGFISHER STRONG BEER KINGFI THE KING OF GOOD 2",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905002180007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

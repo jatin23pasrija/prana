@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08906112663671",
+  "barcode_printed": "8906112663671",
+  "barcode_format": "EAN-13",
+  "name": "9-IN-1 MIX",
+  "brand": "true-elements",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 522,
+        "protein_g": 27.8,
+        "carbohydrate_g": 41.8,
+        "sugars_g": 4.9,
+        "fat_g": 30.2,
+        "saturated_fat_g": 4.8,
+        "fibre_g": 11.3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906112663671",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

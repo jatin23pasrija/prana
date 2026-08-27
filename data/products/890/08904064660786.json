@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904064660786",
+  "barcode_printed": "8904064660786",
+  "barcode_format": "EAN-13",
+  "name": "Sour spicy plantain chips",
+  "brand": "karibana",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Banana Slices (58%), Rice Bran Oil, Seasoning [Sugar, Chilli Powder, Salt, Ground Spices, Asafoetida, Natural Flavors, Hydrolyzed Vegetable Protein (Soy), Silica (E551), Disodium Guanylate (E627) & Disodium Inosinate (E631), Edible Vegetable Oil (Sunflower)]. ZUTATEN Bang 1Zucker",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904064660786",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058875324",
+  "barcode_printed": "8901058875324",
+  "barcode_format": "EAN-13",
+  "name": "Maggi - Desi Cheesy",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60.5,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (60.5 g)",
+        "quantity": {
+          "value": 60.5,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 266,
+        "protein_g": 5.8,
+        "carbohydrate_g": 39.7,
+        "sugars_g": 1.5,
+        "fat_g": 9.3,
+        "saturated_fat_g": 4.3,
+        "trans_fat_g": 0.08,
+        "fibre_g": 1.3,
+        "sodium_mg": 824
+      }
+    }
+  ],
+  "ingredients_raw": "If a serve is 60.5g NUTRITION Per Per XGDA*Per INFORMATION 100g serve 13% serve 439 266 5.8 12% Energy (kcal Protein (g) Carbohydrate (g) - Total Sugars(g) 9.6 10 65.7 39.7 15% 2% 2.5 1.5 - Sugar (Sucrose)/g) 1.5 0.9 5% 22 1.3 13% - Fiber (g) Total Fat (g) - Saturated Fat (g) - Trans Fat (g) é 153 9.3 7.2 43 22% 0.13 0.08 34% Sodium (mg) 1362.0 824.0",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058875324",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906017472255",
+  "barcode_printed": "8906017472255",
+  "barcode_format": "EAN-13",
+  "name": "Chywan-fit Sugarfree",
+  "brand": "baidyanath",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Each 100 g Contains: Amla Pitthi - Fr.-Emblica officinalis-36 g. Ghee-5 g, Kwath Dravya: Bilva - Fr.- Aegle marmelos, Agnimanth Rt-Clerodendrum phlomidis, Shyonak - Rt.- Oroxylum indicum, Kasmari - Rt. Bk.-Gmelina arbored, Patala-St.-Stereospermum chelonoides, Bala - Pl-Sida cordifolia, Shalaparni - Rt.-Desmodium gangeticum, Prishnaparni - Pl.-Uraria picta, Mashaparni-Pl.-Terammus labialis, Gokshur - Fr.-Tribulus terrestris, Brihati - Rt.-Solanum indicum, Kantakari-Pl.-Solanum xanthocarpum, Ashwagandha - Rt.-Withania somnifera, Shatavari-Rt.- Asparagus racemosus, Tamalaki-Rt.-Phyllanthus fraternus, Jivanti - Rt.-Leptadenia reticulata, Agar - Ht. wd.-Aquilaria agallocha, Giloy-St.-Tinospora cordifolia, Varahikand - Rz.-Dioscorea bulbifera, Vidarikand-Tr. Rt.-Pueraria tuberosa, Nagarmotha - Rz.-Cyperus rotundus, Punarnava - Rt.- Boerhaavia diffusa, Vasa - Rt.-Adhatoda vasica - 500 mg each, Prakshep Dravya: Vanshalochan-Pl.- Bambusa arundinacea - 600 mg, Mulethi - Stln. & Rt.-Glycyrrhiza glabra, Akarkara - Rt.-Anacyclus pyrethrum, Elaichi - Fr.-Elettaria cardamomum, Pipal - Fr.-Piper longum, Kaunch - Sd.-Mucuna pruriens, Dalchini-Bk.-Cinnamomum zeylanicum, Tejpatra-Lf.-Cinnamomum tamala-500 mg each, Lavang-Bud-Syzygium aromaticum - 200 mg, Javitri - Sd.-Myristica fragrans-100 mg. Kesar-Stg.- Crocus sativus-50 mg, Sucralose-20 mg, FOS-Q.S., Permitted Preservatives & Excipients-Q.S.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906017472255",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

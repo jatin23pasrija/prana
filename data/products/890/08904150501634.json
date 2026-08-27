@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08904150501634",
+  "barcode_printed": "8904150501634",
+  "barcode_format": "EAN-13",
+  "name": "Pancake mix butter milk",
+  "brand": "betty-crocker",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 430,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 367,
+        "protein_g": 9.4,
+        "carbohydrate_g": 70.7,
+        "sugars_g": 14.9,
+        "fat_g": 5.1,
+        "saturated_fat_g": 2.3,
+        "fibre_g": 0.2,
+        "sodium_mg": 829
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904150501634",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

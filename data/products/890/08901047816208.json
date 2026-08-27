@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901047816208",
+  "barcode_printed": "8901047816208",
+  "barcode_format": "EAN-13",
+  "name": "Dal Makhani",
+  "brand": "kohinoor",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Black Gram Lentils (33.3%), Tomato (8.4%), Red Kidney Beans (4%), Sunflower Oil, Garlic, Salt, Ginger (0.6%), Cumin Powder, Garam Masala, Red Chilli powder, Fenugreek Leaves, Cinnamon, Cardamom, Bay leaf, Nutmeg Powder, Mace Powder",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901047816208",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

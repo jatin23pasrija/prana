@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08908002984491",
+  "barcode_printed": "8908002984491",
+  "barcode_format": "EAN-13",
+  "name": "8908002984491",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 454,
+        "protein_g": 5.1,
+        "carbohydrate_g": 74.5,
+        "sugars_g": 29.3,
+        "fat_g": 15.1,
+        "saturated_fat_g": 11.2,
+        "fibre_g": 6.7,
+        "sodium_mg": 126
+      }
+    }
+  ],
+  "ingredients_raw": "RAGI (34.1%), CHOCOLATE CREAM FILLING (32%) (SUGAR, INTERESTERIFIED VEGETABLE FAT, COCOA POWDER (2.8%), MILK SOLIDS, EMULSIFIER (INS 322(i))), RICE, REFINED SUGAR, BENGAL GRAM DAL (1.8%), COCOA POWDER, IODISED SALT, NATURE-IDENTICAL FLAVOURING SUBSTANCE, STABILIZER (INS 170(i)), NATURAL COLOUR (INS 150d), EDIBLE VEGETABLE OIL (PALMOLEIN), ANTIOXIDANT (INS 320), EMULSIFIER (INS 322(i))",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908002984491",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

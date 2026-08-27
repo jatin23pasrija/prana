@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063017658",
+  "barcode_printed": "8901063017658",
+  "barcode_format": "EAN-13",
+  "name": "5050 Potazos Mint Magic",
+  "brand": "britannia",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 24,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 480,
+        "protein_g": 7.5,
+        "carbohydrate_g": 70.2,
+        "sugars_g": 16.7,
+        "fat_g": 18.8,
+        "saturated_fat_g": 9,
+        "trans_fat_g": 0,
+        "sodium_mg": 1234
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED PALMOLEIN, PALM & SUNFLOWER OIL, SUGAR, DEHYDRATED POTATO FLAKES (11.3%), MALTODEXTRIN, IODISED SALT, RAISING AGENTS [503(ii) & 500 (ii)], LIQUID GLUCOSE, INVERT SUGAR SYRUP, SPICES & CONDIMENTS, NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES, MILK SOLIDS, VITAL WHEAT GLUTEN, GARLIC POWDER, EMULSIFIERS [322(i) & 471], FLAVOUR ENHANCERS (627 & 631), ANTICAKING AGENT (551), DOUGH CONDITIONER (223), RICE FLOUR, IMPROVER [1101], ONION POWDER, STABILIZER (1450), MINT OIL (0.001%), ACIDITY REGULATOR (330) AND COLOUR (110). (Numbers in brackets as per International Numbering System) CONTAINS WHEAT GLUTEN, MILK, SOYA AND SULPHITE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063017658",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004404630",
+  "barcode_printed": "8904004404630",
+  "barcode_format": "EAN-13",
+  "name": "salted peanuts",
+  "brand": "haldiram-s",
+  "category": "pulses",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 25,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 637,
+        "protein_g": 20.62,
+        "carbohydrate_g": 21.85,
+        "sugars_g": 0.9,
+        "fat_g": 51.91,
+        "saturated_fat_g": 21.8,
+        "fibre_g": 3.33,
+        "sodium_mg": 425
+      }
+    }
+  ],
+  "ingredients_raw": "CHR Haldiram's SALTE PEANUT REDIENTS: Groundnut (Peanuts) (93%), Edil etable Oil (Palmolein, Cotton Seed, Corn, Sun Cran), Rock Salt (1%) & Refined Sugar. LERGEN: Contains Nut Contains Wheat, Milk & Soy. 1904004 404630 tritional Information (approx NET QUANTITY: SERVING PER POUCH:",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004404630",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

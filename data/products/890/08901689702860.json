@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08901689702860",
+  "barcode_printed": "8901689702860",
+  "barcode_format": "EAN-13",
+  "name": "Tomato Ketchup",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 950,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 1.4,
+        "carbohydrate_g": 32.9,
+        "sugars_g": 24.7,
+        "fat_g": 0.17,
+        "saturated_fat_g": 0.12
+      }
+    }
+  ],
+  "ingredients_raw": "water, tomato paste, sugar, salt, acidity regulator (E-260),stabilizer, onion powder, spices and condiments.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901689702860",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

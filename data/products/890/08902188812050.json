@@ -1,0 +1,51 @@
+{
+  "schema_version": 1,
+  "gtin": "08902188812050",
+  "barcode_printed": "8902188812050",
+  "barcode_format": "EAN-13",
+  "name": "Hing",
+  "brand": "ramdev",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 376.18,
+        "protein_g": 8.4,
+        "carbohydrate_g": 75.61,
+        "fat_g": 4.46,
+        "saturated_fat_g": 0.82,
+        "fibre_g": 6.1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902188812050",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08993175549387",
+  "barcode_printed": "8993175549387",
+  "barcode_format": "EAN-13",
+  "name": "Nextar Soft Brownies",
+  "brand": "nabati",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 36,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 471,
+        "protein_g": 5,
+        "carbohydrate_g": 68,
+        "sugars_g": 25,
+        "fat_g": 20,
+        "saturated_fat_g": 9,
+        "fibre_g": 0,
+        "sodium_mg": 242
+      }
+    }
+  ],
+  "ingredients_raw": "Cookies (77.8%) (Refined Wheat Flour (Maida), Glucose Syrup, Edible Vegetable Fat ((Hydrogenated Palm Olein) (contains Antioxidant (INS 319))), Sugar, Cocoa Powder (4.50% ), Edible Vegetable Oil ((Palm Olein) (contains Antioxidant (INS 319))), Humectant (INS 422), Palm Sugar, Emulsifier (INS 322(i)), Leavening Agent (INS 500(ii)), Edible Common Salt, Artificial Vanilla Flavour, Preservative (INS 202), Antioxidant (INS 307a), Acidity Regulator (INS 330)). Cocoa Cream Filling (22.2%) (Sugar, Edible Vegetable Fat ((Hydrogenated Palm Olein) (contains Antioxidant (INS 319))), Cocoa Powder (1.89%), Maltodextrin, Emulsifier (INS 322(i)), Edible Common Salt).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8993175549387",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

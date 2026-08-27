@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014480073",
+  "barcode_printed": "8908014480073",
+  "barcode_format": "EAN-13",
+  "name": "Bovonto",
+  "brand": "nl-kalis-sparkling-water",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, SUGAR, ACIDITY REGULATOR (INS 330), CLASS II PRESERVATIVE (INS 211). CONTAINS PERMITTED NATURAL AND SYNTHETIC FOOD COLOURS (INS 150d, INS 122, INS 102,INS 124,INS 133) AND ADDED FLAVOURS (NATURAL, NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (MIXED FRUIT)). CONTAINS NO FRUIT JUICE OR PULP",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014480073",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

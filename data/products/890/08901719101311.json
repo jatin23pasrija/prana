@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719101311",
+  "barcode_printed": "8901719101311",
+  "barcode_format": "EAN-13",
+  "name": "Magix",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40.86,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 477,
+        "energy_kj": 1995.77,
+        "protein_g": 7,
+        "carbohydrate_g": 72.6,
+        "sugars_g": 25.8,
+        "fat_g": 17.6,
+        "saturated_fat_g": 1.37,
+        "trans_fat_g": 0.02
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OIL(PALM OIL) CASHEW BITS (3 % ), MILK SOLIDS, INVERT SUGAR SYRUP, EDIBLE COMMON SALT, RAISING AGENTS[503(ii),500 (ii)], EMULSIFIERS[DI-ACETYL TARTARIC ACID ESERS OF MONO AND DIGLYCERIDES OF EDIBLE VEGETABLE OILS] ANO DOUGH CONDITIONER[223], CONTAINS ADDED FLAVOURS (ARTIFICAL FLAVOURING SUBSTANCES-CASHEW, VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719101311",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

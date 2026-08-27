@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202324260",
+  "barcode_printed": "7622202324260",
+  "barcode_format": "EAN-13",
+  "name": "Dairy Milk Chocolate",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Milk Solids (23%), Cocoa Butter, Cocoa Solids, Fractionated Fat, Emulsifiers (442,476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances). CONTAINS COCOA BUTTER EQUIVALENT IN ADDITION TO COCOA BUTTER. Allergen Information: Contains Milk, Soy. May Contain Tree Nuts, Wheat, Barley Serving size:21g No. of servings per package: 1.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202324260",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

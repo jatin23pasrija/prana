@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08904214500504",
+  "barcode_printed": "8904214500504",
+  "barcode_format": "EAN-13",
+  "name": "Nylon Gathiya",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 566.67,
+        "protein_g": 11,
+        "carbohydrate_g": 46,
+        "sugars_g": 0,
+        "fat_g": 38,
+        "saturated_fat_g": 18,
+        "fibre_g": 1,
+        "sodium_mg": 703
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904214500504",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

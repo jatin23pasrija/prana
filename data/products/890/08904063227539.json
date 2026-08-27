@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063227539",
+  "barcode_printed": "8904063227539",
+  "barcode_format": "EAN-13",
+  "name": "Magic Makhana Classic Pudina",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Makhana (Fox Nut), Edible Vegetable Oil, Olive Oil, Coriander Powder, Cumin Powder, Cinnamon Powder, Red Chilli Powder, Black Pepper Powder, Onion Powder, Amchur Powder, Nutmeg Powder, Fennel Powder, Fenugreek Powder, Asafoetida Powder, Spices Extract, Iodised Salt, Rock Salt, Mint Leaves Powder, Maltodextrin, Yeast Extract Powder, Acidity Regulator (INS 330), Natural and Nature Identical Flavouring Substances",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063227539",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

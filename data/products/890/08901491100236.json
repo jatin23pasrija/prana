@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491100236",
+  "barcode_printed": "8901491100236",
+  "barcode_format": "EAN-13",
+  "name": "Cheese & korean Buldak Flavour Popped",
+  "brand": "red-rock-deli",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Rice and Rice Flour (59%), Edible Vegetable Oil (Sunflower Oil (25%), *Seasoning (Maltodextrin, Sugar, &quot;Spices & Condiments, Iodised Salt, Cheese Powder, Milk Solids, Salt Substitute (Potassium Chloride), Flavour Enhancers (627,631, 635), Edible Starch, Flavour Natural and Nature Identical Flavouring Substances), Acidity Regulator (330), Colour (150d)), Edible Starch, Refined Wheat Flour (Maida), Dehydrated Vegetable Powders (0.6%) (Beetroot Powder, Spinach Powder, Carrot Powder), Colours (160c(i), 162, 141 (ii)), Acidity Regulator (330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491100236",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

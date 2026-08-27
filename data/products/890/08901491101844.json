@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491101844",
+  "barcode_printed": "8901491101844",
+  "barcode_format": "EAN-13",
+  "name": "Lay's Potato Chips",
+  "brand": "lay-s",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "potato, edible vegetable oil (sunflower oil, corn oil, and/or canola oil), spices and condiments (onion powder, chilli powder, dry mango powder, coriander powder, ginger powder, garlic powder, black pepper powder, turmeric powder, cumin powder, salt, black salt, sugar, tomato powder, citric acid, tartaric acid, natural flavors (e160b)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491101844",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

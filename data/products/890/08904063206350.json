@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063206350",
+  "barcode_printed": "8904063206350",
+  "barcode_format": "EAN-13",
+  "name": "spiced rice flour noodles",
+  "brand": "haldirams",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rice Flxur(52 %); Woyetable Oil(Palniolein), Matpe 9ran Flour, Salt, Sesame, Cumin, Red Spic d Rice Flour Noodles. Gewirzte Reismehlnudeln igele di farina di riso speziate Ascurts apéritifs dentelés épicés à base de farine de riz KSHIN EXPRESS MULLU MURUKKU CUUTAT N Daismehl (52%), Pflanzenöl (Palmolein), Matpe-Bohnenmehl, Sa, Sesam, Kreuzkúmmel, d Rice Flour Noodles Chil INGIENTE Rice Flur(S28 alable OilPalmolein), Matpe Bran Flour, Salt, Sesame, Cumin, Red Powder and Asafoetida. boduct of India ipulver und Asafoetida. NDIEN HERGESTELLT FUER rédients: Farine de riz (52%), oléine de palme, farine de haricots urd, sel, sésame,pcadre de cumin Oudre de piment rouge, ace fétide. Podul de l'Inde AGHIENTE: Farina di riso (52%), olio vegetale (palmoleina), farina di fagioli matpe, sale, sesamo, an, polvere di peperoncino rosso e Assafetida. PRODOTTO IN INDIA Noedels met gekruide rijstmeel NGREDIENTEN: rijstmeel (52%), plantaardige olie (Palmolein), Matpe-bonenmeel, zout pesam, komijin, rode chilipoeder en Asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063206350",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

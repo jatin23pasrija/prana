@@ -1,0 +1,76 @@
+{
+  "schema_version": 1,
+  "gtin": "08904150127438",
+  "barcode_printed": "8904150127438",
+  "barcode_format": "EAN-13",
+  "name": "barritas de frutos rojos",
+  "brand": "ladubar",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "una unidad 30 g",
+        "quantity": {
+          "value": 30,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 120,
+        "energy_kj": 502,
+        "protein_g": 1.6,
+        "carbohydrate_g": 19,
+        "fat_g": 4.2,
+        "saturated_fat_g": 1,
+        "trans_fat_g": 0,
+        "fibre_g": 2,
+        "sodium_mg": 2
+      }
+    }
+  ],
+  "ingredients_raw": "Dátiles, arándanos, castañas de cajú, cacao, leche de coco en polvo, manteca de cacao",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904150127438",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

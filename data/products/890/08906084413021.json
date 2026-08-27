@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906084413021",
+  "barcode_printed": "8906084413021",
+  "barcode_format": "EAN-13",
+  "name": "mom 3 cheese pasta",
+  "brand": "mom",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 410,
+        "energy_kj": 1717,
+        "protein_g": 12,
+        "carbohydrate_g": 70,
+        "sugars_g": 4,
+        "fat_g": 9,
+        "saturated_fat_g": 3,
+        "fibre_g": 4
+      }
+    }
+  ],
+  "ingredients_raw": "Pasta: Durum Wheat Pasta (58%) 3 Cheese Sauce Mix: Milk Solids (Cheese Powder (12%), Mozzarella Cheese Powder (7%), Parmesan Cheese Powder (2.5%), Whole Milk Powder, Skimmed Milk Powder), Potato Starch, Wheat Flour, Spices & Condiments (Onion, Garlic, Parsley), lodized Salt, Vegetable (Palm) Fat Powder, Maltodextrin, Natural & Nature Identical flavouring substances, Stabilizer (INS 415) Flavour Enhancer (INS 627, INS 631). Italian Seasoning Mix: Dehydrated Garlic, lodized Salt, Spices and Herbs (Oregano, Basil, Black Pepper, Chilli), Edible Soyabean Oil, Anticaking Agent (INS 551). CONTAINS ADDED NATURAL FLAVOURING SUBSTANCES ALLERGEN ADVICE Contains Milk & Wheat STORE IN A COOL AND DRY PLACE Nutrition Nutritional Information (A Energy (kca Total Fat ( Saturated Fat Trans Fal Cholestrol ing Sodium (mg) Total Carbohyd Dietary Fiber Total Suger Includes A Protein (g) Vitamin D Pottasium Iron (mg) Calcium (mg) # Recommend as per For Feedback reachemealth Or Alimento Park OPCL toll free nor",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906084413021",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

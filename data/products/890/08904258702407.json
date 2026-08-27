@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904258702407",
+  "barcode_printed": "8904258702407",
+  "barcode_format": "EAN-13",
+  "name": "Raw Pressery Protein Milkshake",
+  "brand": "raw-pressery",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Purified Water, Milk Solids, Prebiotic - Fructooligosaccharide, Coffee Powder, Stabilizer (INS 407, INS 460(i), INS 466), Sequestrant (INS 331(iii), INS 340(ii & iii), INS 452(i)), Acidity Regulator (INS 339(Gii), Emulsifier (INS 471), Wellmune - Yeast beta 1,3/1,6 glucan, Sucralose (INS 955) &lt; Back to Protein Shakes Join The Phab Community Join our community and receive exclusive updates, early access to the best deals & new product launches.We'll also",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904258702407",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

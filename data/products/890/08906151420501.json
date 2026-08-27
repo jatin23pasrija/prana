@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151420501",
+  "barcode_printed": "8906151420501",
+  "barcode_format": "EAN-13",
+  "name": "Nylon Shev",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Mo@sitas Visit us at! w.sitashreelaxminarayanchiwda.com ion Facts (Approx.) container Per Serving ائق غذائية (نشريها) سة لكل حاوية تم الحصة 25 100 جراة Per لكل حصة السعرات الحرارية 8.27g | إجمالي الدهون 3.03g | الدهون المشبعة 3.73g | الدهون الأحادية المشبعة و1.01 | الدهون المتعددة غير المشبعة . 133.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151420501",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

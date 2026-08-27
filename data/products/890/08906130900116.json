@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906130900116",
+  "barcode_printed": "8906130900116",
+  "barcode_format": "EAN-13",
+  "name": "Strawberry Choco Pie",
+  "brand": "orion",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 168,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), CHOCO COVERING (21%) [SUGAR, HYDROGENATED VEGETABLE FAT, COCOA SOLIDS, MILK SOLIDS, EMULSIFIER (INS 322) AND NATURE IDENTICAL FLAVOUR (VANILLIN)], SUGAR, LIQUID GLUCOSE, STRAWBERRY FILLING (9.3%) [STRAWBERRY PULP (39%), SUGAR, LIQUID GLUCOSE, HUMECTANTS (INS 420(i), INS 422) ACIDITY REGULATOR F S S N SF Li 0 (INS 330), PRESERVATIVES (INS 211, INS 202), STABILIZERS (INS 440, INS 415), IN NATURE IDENTICAL FLAVOUR (STRAWBERRY), NATURAL COLOUR (INS 150d) AND M SYNTHETIC FOOD COLOUR (INS 122)] HYDROGENATED VEGETABLE FAT, HUMECTANT W (INS 422), DEXTROSE, RAISING AGENTS [INS 500(ii), INS 503. STABILIZERS (INS 407, INS 440, INS 415, INS 410), EDIBLE COMMON SALT, HYDROLYZED PEA PROTEIN, PRESERVATIVES (INS 202, INS 281), ACIDITY REGULATOR [INS 341(1), EMULSIFIER (INS 322), NATURE IDENTICAL FLAVOUR (VANILLIN) Trans ALLERGEN INFORMATION: CONTAINS WHEAT, MILK AND SOY MAY CONTAIN SULPHITE AND NUTS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906130900116",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

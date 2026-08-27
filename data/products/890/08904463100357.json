@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08904463100357",
+  "barcode_printed": "8904463100357",
+  "barcode_format": "EAN-13",
+  "name": "YouWeFit Omega 3 1250 Fish Oil Capsule (Triple Strength)",
+  "brand": "youwefit-is-sold-by-wellversed",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 165,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1.7 g",
+        "quantity": {
+          "value": 1.7,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 11.73,
+        "protein_g": 0.06,
+        "carbohydrate_g": 0.06,
+        "sugars_g": 0,
+        "fat_g": 1.25,
+        "saturated_fat_g": 0.2,
+        "trans_fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Fish Oil, Capsule Shell Ingredient (Gelatin), Purified Water, Humectants [INS 422 & INS 420 (ii)]. Preservative [INS 218] and Artificial Flavouring Agent (Ethyl Vanillin). ALLERGEN: CONTAINS FISH OIL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904463100357",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

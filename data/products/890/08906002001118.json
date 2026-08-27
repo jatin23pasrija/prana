@@ -1,0 +1,62 @@
+{
+  "schema_version": 1,
+  "gtin": "08906002001118",
+  "barcode_printed": "8906002001118",
+  "barcode_format": "EAN-13",
+  "name": "Pasta & pizza sauce",
+  "brand": "dr-oetker",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 325,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 221,
+        "protein_g": 2.4,
+        "carbohydrate_g": 28.1,
+        "sugars_g": 22,
+        "fat_g": 11,
+        "saturated_fat_g": 1.9,
+        "sodium_mg": 1806.1
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906002001118",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

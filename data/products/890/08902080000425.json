@@ -1,0 +1,66 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080000425",
+  "barcode_printed": "8902080000425",
+  "barcode_format": "EAN-13",
+  "name": "Nimbooz",
+  "brand": "7up",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 42,
+        "carbohydrate_g": 10.6,
+        "sugars_g": 10.6,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "sodium_mg": 65
+      }
+    }
+  ],
+  "ingredients_raw": "WATER SUGAR CONCENTRATE PRESERVATIVE (202). *EQUIVALENT TO 5% LEMON JUICE (RECONSTITUTED) NUTRITIONAL INFORMATIONA Serve Size: 200 ml; 1.3 servings in this pack FOR MANUFACT Per % RDA 100 ml Per Serve SEE FIRST ONE LETTER LETTERS OF THE BATCH Energy",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080000425",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

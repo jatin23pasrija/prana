@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491000208",
+  "barcode_printed": "8901491000208",
+  "barcode_format": "EAN-13",
+  "name": "Sweet chilli Doritos",
+  "brand": "doritos",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn (79%), Edible Vegetable Oil (Palmolein), *Seasoning (Sugar, lodised Salt, ~Spices & Condiments, Acidity Regulators (296, 330, 260), Flavour (Natural and Nature Identical Flavouring Substances), Fructose, Flavour Enhancers (631, 627), Tomato Powder, Wheat Maltodextrin, Anticaking agent (551), Colour (160c), Antioxidant (300)) *As flavoring agent. &quot;Contains Onion and Garlic Allergen Advice: Contains Wheat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491000208",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

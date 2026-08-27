@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019561104",
+  "barcode_printed": "8908019561104",
+  "barcode_format": "EAN-13",
+  "name": "Jhal Munch",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 562,
+        "protein_g": 6.8,
+        "carbohydrate_g": 52.2,
+        "fat_g": 36.2
+      }
+    }
+  ],
+  "ingredients_raw": "MADE OUT OF ALL OR ANY FOLLOWING ITEMS WHOLESOME GRAINS, FLOUR & PULSE, EDIBLE VANASPATI OIL, POTATOES, NUTS, RICE, CHIPS, CONDIMENTS, SUGAR POWDER, CHIRVA, PALAK, TATA SALT POWDER, GREEN PEAS, CORN FLAKES, PULSES, BLACK PEPPER POWDER & PURE HOME MADE SPICES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019561104",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

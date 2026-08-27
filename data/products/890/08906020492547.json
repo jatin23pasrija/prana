@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906020492547",
+  "barcode_printed": "8906020492547",
+  "barcode_format": "EAN-13",
+  "name": "Kesar Peda",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 363.64,
+        "protein_g": 9.09,
+        "carbohydrate_g": 54.55,
+        "sugars_g": 45.45,
+        "fat_g": 13.64,
+        "saturated_fat_g": 9.09,
+        "fibre_g": 0,
+        "sodium_mg": 136.36
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906020492547",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

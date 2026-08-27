@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "08906014906098",
+  "barcode_printed": "8906014906098",
+  "barcode_format": "EAN-13",
+  "name": "Corn flakes",
+  "brand": "savvy",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 112,
+        "protein_g": 2,
+        "carbohydrate_g": 25.8,
+        "sugars_g": 2.8,
+        "fat_g": 0.1,
+        "saturated_fat_g": 0.02,
+        "fibre_g": 1.02,
+        "sodium_mg": 12.99
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906014906098",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

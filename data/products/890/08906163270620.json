@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "gtin": "08906163270620",
+  "barcode_printed": "8906163270620",
+  "barcode_format": "EAN-13",
+  "name": "Pista biscuiy",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 532.69,
+        "protein_g": 5.77,
+        "carbohydrate_g": 65.38,
+        "sugars_g": 28.85,
+        "fat_g": 26.92,
+        "saturated_fat_g": 11.54,
+        "fibre_g": 1.92,
+        "sodium_mg": 40.38
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906163270620",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

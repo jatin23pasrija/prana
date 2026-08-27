@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906183980936",
+  "barcode_printed": "8906183980936",
+  "barcode_format": "EAN-13",
+  "name": "Snack’d Protein Bar Cookies & Cream",
+  "brand": "beast-life",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "35 g",
+        "quantity": {
+          "value": 35,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 134.8,
+        "protein_g": 10.2,
+        "carbohydrate_g": 13.7,
+        "sugars_g": 1,
+        "fat_g": 5.6,
+        "saturated_fat_g": 0.8,
+        "fibre_g": 8.7,
+        "sodium_mg": 65.8
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906183980936",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

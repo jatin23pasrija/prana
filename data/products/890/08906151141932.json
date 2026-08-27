@@ -1,0 +1,58 @@
+{
+  "schema_version": 1,
+  "gtin": "08906151141932",
+  "barcode_printed": "8906151141932",
+  "barcode_format": "EAN-13",
+  "name": "Calcium + Vitamin D3",
+  "brand": "tata-1mg",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "2.854 g",
+        "quantity": {
+          "value": 2.854,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 3.99,
+        "protein_g": 0.03,
+        "carbohydrate_g": 0.96,
+        "sugars_g": 0.01,
+        "fat_g": 0.01,
+        "sodium_mg": 46.23
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906151141932",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

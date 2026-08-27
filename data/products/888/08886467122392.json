@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08886467122392",
+  "barcode_printed": "8886467122392",
+  "barcode_format": "EAN-13",
+  "name": "PRINGLES ( ORIGINAL )",
+  "brand": "pringles",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 107,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Dried Potato (48%), Edible Vegetable Oil (Palm Oil), Corn Flour, Starch, Emulsifier (INS 471), Maltodextrin, Salt, Acidity Regulator (INS 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8886467122392",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

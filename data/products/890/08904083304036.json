@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904083304036",
+  "barcode_printed": "8904083304036",
+  "barcode_format": "EAN-13",
+  "name": "Natural Cheddar Cheese",
+  "brand": "milky-mist",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 370,
+        "protein_g": 23,
+        "carbohydrate_g": 2,
+        "sugars_g": 2,
+        "fat_g": 30,
+        "saturated_fat_g": 19,
+        "trans_fat_g": 0.5,
+        "sodium_mg": 652
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904083304036",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

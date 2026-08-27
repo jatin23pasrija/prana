@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908007337094",
+  "barcode_printed": "8908007337094",
+  "barcode_format": "EAN-13",
+  "name": "The Oven Classics Pav Bun",
+  "brand": "the-oven-classics",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Wheat Flour (Maida), Sugar, Salt, Wheat Gluten, Refined Vegetable Fat, Emulsifiers (E471), Antioxidants (E300) and Preservatives (E282) & Flour improver",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908007337094",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

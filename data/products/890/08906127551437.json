@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906127551437",
+  "barcode_printed": "8906127551437",
+  "barcode_format": "EAN-13",
+  "name": "high protein super oats",
+  "brand": "alpino",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rolled Oats (61%), Unsweetened Peanut butter (22%), Textured Soya Protein (9%), Cocoa Powder, Nuts & Seed Mix (Almond, Raisin, Sunflower Seeds), Monk Fruit Extract, Rosemary extract.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906127551437",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

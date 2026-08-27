@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08992760221028",
+  "barcode_printed": "8992760221028",
+  "barcode_format": "EAN-13",
+  "name": "17000725 Oreo Original (Vanilla)",
+  "brand": "babymonster-oreo",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 123,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "wheat flour, sugar, non-hydrogenated vegetable oil (palm), cocoa powder, fructose syrup, sodium bicarbonate (ins500), ammonium bicarbonate (ins503), corn starch, salt, soy lecithin (ins322), vanilla flavor,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8992760221028",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

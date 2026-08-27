@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202225024",
+  "barcode_printed": "7622202225024",
+  "barcode_format": "EAN-13",
+  "name": "Silk Deserts Brownie",
+  "brand": "cadbury-dairy-milk",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk Chocolate (60%)- Sugar, Milk Solids (15%*), Cocoa Butter, Cocoa Solids, Emulsifiers (442,476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances); Centre (40%)- Walnuts (7%), Fractionated Fat, Sugar, Refined Wheat Flour (Maida), Cocoa Solids, Milk Solids, Interesterified Fat, Humectant (422), Water, Palmolein, Emulsifiers (322,442,476), Invert Sugar, Flavours (Natural, Nature Identical (Brownie) and Artificial (Vanilla) Favouring Substances), Raising Agents (500(ii), 503 (ii)), lodized Salt, Antioxidant (307c). Morgen information: Contains Milk, Walnut, Wheat and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202225024",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901155426313",
+  "barcode_printed": "8901155426313",
+  "barcode_format": "EAN-13",
+  "name": "Matar paneer",
+  "brand": "gits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 285,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 154.39,
+        "protein_g": 4.91,
+        "carbohydrate_g": 7.72,
+        "sugars_g": 0,
+        "fat_g": 11.23,
+        "saturated_fat_g": 1.05,
+        "fibre_g": 2.81,
+        "sodium_mg": 533.33
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901155426313",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

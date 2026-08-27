@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906048500361",
+  "barcode_printed": "8906048500361",
+  "barcode_format": "EAN-13",
+  "name": "Protinex Original",
+  "brand": "danone",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Peanut protein hydrolysate (56%), Sugar, Malt extract, Maltodextrin, Minerals (Tribasic calcium phosphate, Ferrous gluconate), Vitamins (Choline bitartrate, Ascorbic acid, Niacinamide, dl-alpha Tocopheryl acetate, Riboflavin, Pantothenol, Thiamine mononitrate, Retinyl palmitate, Pyridoxine hydrochloride, Folic acid, Ergocalciferol, Phytomenadione, d-Biotin, Cyanocobalamin), Natural colour (INS 150a), Artificial flavouring substances (chocolate)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906048500361",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

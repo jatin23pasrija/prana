@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "gtin": "08906046143607",
+  "barcode_printed": "8906046143607",
+  "barcode_format": "EAN-13",
+  "name": "Signature organic tea bags variety pack",
+  "category": "tea",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 0,
+        "protein_g": 0,
+        "carbohydrate_g": 0,
+        "fat_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "Organic assam black tea, organic darjeeling black tea, organic green tea, organic oolong tea, organic white tea, organic herbal tulsi tea, organic herbal mint tea, organic energize tea (organic assam tea & organic tulsi herb), organic slim detox tea (organic senna leaf, organic green tea, & organic lemongrass leaf), organic stress relief tea (organic mint leaf, organic tulsi leaf, organic lemongrass leaf, organic ashwagandha root, & organic arjuna bark), organic indian chai (organic black tea, organic cinnamon, organic cardamom, organic ginger, organic clove, & organic black pepper), organic herbal chai (organic tulsi leaf, organic cinnamon, organic cardamom, organic ginger, organic clove, & organic black pepper), organic lemon ginger tea (organic lemongrass leaf, organic green tea, organic mint tea, & organic ginger).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906046143607",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

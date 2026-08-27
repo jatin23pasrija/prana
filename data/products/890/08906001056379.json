@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906001056379",
+  "barcode_printed": "8906001056379",
+  "barcode_format": "EAN-13",
+  "name": "Mothers Recipe Ginger &garlic",
+  "brand": "mother-s-recipe",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Gingembre (47%), l'ail (45%),sel, eau,acide (acétique en tant que régulateur d'acidité), d'alginate de sodium (en tant que stabilisant) et poudre de curcuma. Produit a été traité dans une usine qui traite également contenant du lait, du soja, des graines de sésame, des noix, des arachides, des glutens et des sulfites",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906001056379",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

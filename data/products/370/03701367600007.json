@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "gtin": "03701367600007",
+  "barcode_printed": "3701367600007",
+  "barcode_format": "EAN-13",
+  "name": "Boulette d'énergie Match-Coco",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 380,
+        "protein_g": 6.4,
+        "carbohydrate_g": 50.2,
+        "sugars_g": 39.2,
+        "fat_g": 17.5,
+        "saturated_fat_g": 11.5,
+        "sodium_mg": 12
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3701367600007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

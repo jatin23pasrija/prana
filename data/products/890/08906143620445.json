@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "gtin": "08906143620445",
+  "barcode_printed": "8906143620445",
+  "barcode_format": "EAN-13",
+  "name": "Penne - Durum Wheat Pasta",
+  "brand": "prolicious",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "1 portion (60 g)",
+        "quantity": {
+          "value": 60,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 208,
+        "protein_g": 15.9,
+        "carbohydrate_g": 38,
+        "sugars_g": 0,
+        "fat_g": 0.8,
+        "saturated_fat_g": 0.2,
+        "fibre_g": 7.6,
+        "sodium_mg": 6.2
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906143620445",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

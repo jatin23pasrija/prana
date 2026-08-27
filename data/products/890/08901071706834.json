@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071706834",
+  "barcode_printed": "8901071706834",
+  "barcode_format": "EAN-13",
+  "name": "HERSHEY'S SYRUP 623g",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 623,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 276.5,
+        "protein_g": 1.27,
+        "carbohydrate_g": 66.6,
+        "sugars_g": 63.7,
+        "fat_g": 0.56,
+        "saturated_fat_g": 0.5,
+        "fibre_g": 0,
+        "sodium_mg": 72.72
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, water, invert sugar, liquid glucose, cocoa solids (5%), malt extract, thickening agent (415), preservative (202) and salt,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071706834",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

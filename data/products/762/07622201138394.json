@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201138394",
+  "barcode_printed": "7622201138394",
+  "barcode_format": "EAN-13",
+  "name": "Cadbury Temptations Rum & Raisin Chocolate Bar",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 72,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 498,
+        "protein_g": 5.7,
+        "carbohydrate_g": 61.8,
+        "sugars_g": 53.2,
+        "fat_g": 26.1,
+        "saturated_fat_g": 17,
+        "sodium_mg": 67.06
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Cocoa Butter, Raisins (18%*), Cocoa Solids, Milk Solids, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Rum, Raisin, Vanilla) Flavouring Substances). Allergen Information: Contains Milk, Sulphites. May Contain Tree Nuts and Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201138394",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

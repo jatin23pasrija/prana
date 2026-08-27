@@ -1,0 +1,72 @@
+{
+  "schema_version": 1,
+  "gtin": "08905507002590",
+  "barcode_printed": "8905507002590",
+  "barcode_format": "EAN-13",
+  "name": "First crop Cream onion potato chips 50g",
+  "brand": "first-crop",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 546.7,
+        "protein_g": 9.4,
+        "carbohydrate_g": 52.86,
+        "sugars_g": 6.4,
+        "fat_g": 33.1,
+        "saturated_fat_g": 16.2,
+        "sodium_mg": 600
+      }
+    }
+  ],
+  "ingredients_raw": "Potato(56.1%),Refined PamolineOil,Sugar(Sucrose),Milk Solids(2.5%),Onion Powder(1%),Parsley,Iodize Salt,White Pepper Powder Contain Added Flavour(Natural and Nature Identical Flavouring Substances),Allergen Alert:Contains Milk,May Contain traces of Wheat,Peanut, Nuts, Sesame and Oats.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905507002590",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

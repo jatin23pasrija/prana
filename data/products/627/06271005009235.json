@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "06271005009235",
+  "barcode_printed": "6271005009235",
+  "barcode_format": "EAN-13",
+  "name": "Smoked Turkey Slices",
+  "brand": "khazan",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "100 g",
+        "quantity": {
+          "value": 100,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 120,
+        "protein_g": 18.3,
+        "carbohydrate_g": 10.9,
+        "sugars_g": 0.8,
+        "fat_g": 0.5,
+        "saturated_fat_g": 0.2,
+        "trans_fat_g": 0,
+        "fibre_g": 0.4,
+        "sodium_mg": 749
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6271005009235",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

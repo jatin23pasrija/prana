@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063200020",
+  "barcode_printed": "8904063200020",
+  "barcode_format": "EAN-13",
+  "name": "All in One Namkeen",
+  "brand": "haldirams",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Farine de pois chicìte (19%), hurle v#ae (arachide, maÂs, de graine de coton), farine de haricots tépari (6%), chiche cassé décoriqué (5%), pois vert cassé (5%), lenü!les (3%), pomrne de terre (3%), péble de maïs (3%), riz soufflé (2.8%), sagou, raisin (2.7%), de cajou (2.6%), cacahuète (2.5%), épinards, sel, poudre de piment rouge, poudre de mangue, de poivre noir, poudre de poudre de clou de girofle, poudre de macis, poudre de muscade, sucre en poudre, poudre Coignon, poudre d'ail, poudre de cardamme, poudre de coriandre, poudre de feuilles de mentie, poudre de cumin, poudre dase acidifiant acide citriaue.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063200020",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

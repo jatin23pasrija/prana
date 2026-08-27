@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906135091048",
+  "barcode_printed": "8906135091048",
+  "barcode_format": "EAN-13",
+  "name": "apis Corn Flakes",
+  "brand": "apis",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 388,
+        "protein_g": 6.8,
+        "carbohydrate_g": 88.4,
+        "sugars_g": 7.8,
+        "fat_g": 0.79,
+        "saturated_fat_g": 0.14,
+        "fibre_g": 2.86,
+        "sodium_mg": 885.88
+      }
+    }
+  ],
+  "ingredients_raw": "Corn (90.1%), Sugar (5.3%), lodized Salt, Malt Extract and Antioxidant (INS 320)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906135091048",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

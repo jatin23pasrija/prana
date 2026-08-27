@@ -1,0 +1,61 @@
+{
+  "schema_version": 1,
+  "gtin": "08901491981699",
+  "barcode_printed": "8901491981699",
+  "barcode_format": "EAN-13",
+  "name": "Lay's magic masala",
+  "brand": "pepsico",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 531,
+        "protein_g": 6.6,
+        "carbohydrate_g": 51.9,
+        "sugars_g": 1.6,
+        "fat_g": 33,
+        "saturated_fat_g": 14.9
+      }
+    }
+  ],
+  "ingredients_raw": "Potato, Edible Vegetable Oil Palmolein, Sunflower Oil), *Seasoning (&quot;Spices & Condiments, Maltodextrin, lodised Salt, Sugar, Flavour Natural & Nature Identical Flavouring Substances), Anticaking Agent (551), Edible Vegetable Oil (Sunflower, Palm), Flavour Enhancers (627,631)). As flavouring agent. &quot;Contains Onion and Garlic",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901491981699",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

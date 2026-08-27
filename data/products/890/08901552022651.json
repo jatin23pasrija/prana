@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552022651",
+  "barcode_printed": "8901552022651",
+  "barcode_format": "EAN-13",
+  "name": "Cocktail potato peas samosa",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 175,
+        "protein_g": 5,
+        "carbohydrate_g": 30,
+        "sugars_g": 0,
+        "fat_g": 3.75,
+        "saturated_fat_g": 2.5,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 375
+      }
+    }
+  ],
+  "ingredients_raw": "Potatoes, pastry (wheat flour (48%), water, coconut oil, salt), green peas, onions, sunflower oil, ginger, salt, coriander leaves, green chilli, cumin, coriandar powder, black salt, sugar, spices (black pepper, cinnamon, clove, coriander, cardamom, chillies, cumin, fenugreek, turmeric, aniseeds, curry leaves), red chilli powder, turmeric powder, black pepper powder, cinnamon powder, cloves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552022651",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

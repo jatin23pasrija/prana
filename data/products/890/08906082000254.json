@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906082000254",
+  "barcode_printed": "8906082000254",
+  "barcode_format": "EAN-13",
+  "name": "Moong Punjabi Papad",
+  "brand": "parag",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Green Gram Lentil Flour (52%), Black Gram Lentil Flour (42%), Iodized Salt, Black Pepper, Plant Based Sodium Bicarbonate (Saaji), Vegetable Edible Oil (Groundnut Oil), Cumin, Asafoetida",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906082000254",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

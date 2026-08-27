@@ -1,0 +1,59 @@
+{
+  "schema_version": 1,
+  "gtin": "08904063253248",
+  "barcode_printed": "8904063253248",
+  "barcode_format": "EAN-13",
+  "name": "Boondi salted",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 578.86,
+        "protein_g": 11.43,
+        "carbohydrate_g": 45.71,
+        "sugars_g": 2.86,
+        "fat_g": 40,
+        "saturated_fat_g": 14.29,
+        "trans_fat_g": 0,
+        "fibre_g": 5.71,
+        "sodium_mg": 600
+      }
+    }
+  ],
+  "ingredients_raw": "Chickpeas flour (50%), vegetable oil (peanuts, corn & cotton seed), starch (sago), salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904063253248",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

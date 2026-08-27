@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906013340466",
+  "barcode_printed": "8906013340466",
+  "barcode_format": "EAN-13",
+  "name": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "water, red chilli (14%), salt, wheat flour, corn starch, sugar, acetic acid (acidifying agent, e260), spices, garlic, sodium benzoate (preservative e211), imported by auckland-2110, nz product of india",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906013340466",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

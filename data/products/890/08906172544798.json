@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906172544798",
+  "barcode_printed": "8906172544798",
+  "barcode_format": "EAN-13",
+  "name": "Belgian Chocolate & brownie Ice Cream",
+  "brand": "huber-holly",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 186.9,
+        "energy_kj": 781.98,
+        "protein_g": 3.1,
+        "carbohydrate_g": 21.9,
+        "sugars_g": 18.9,
+        "fat_g": 10.5,
+        "saturated_fat_g": 6.6,
+        "trans_fat_g": 0,
+        "sodium_mg": 39.9
+      }
+    }
+  ],
+  "ingredients_raw": "Water, Milk Solid (Cream, Butter, Skimmed Milk Powder), Sugar, Brownie (10 %) (Sugar, Maida, Water, Cocoa Powder (5.5 %),Edible Vegetable oil (Palm, Cotton Seed), Milk Solids, lodized Salt, Raising Agent (INS 500 (ii), Emulsifier & Stabilizer (INS 1412, INS 1440, INS 1442, INS 322, INS 415, INS 471), CONTAINS NATURE IDENTICAL CHOCOLATE AND ARTIFICIAL VANILLA FLAVOURING SUBSTANCES.), Dark Chocolate (9 %) (Sugar, Cocoa Solids, Cocoa Butter & Emulsifier (INS 322) CONTAINS ADDED NATURE IDENTICAL VANILLA FLAVOURING SUBSTANCE), Cocoa Solids, Emulsifier (INS 471, INS 433) and Stabilisers (INS 466, INS 412, INS 407a)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906172544798",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

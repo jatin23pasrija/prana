@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017693234",
+  "barcode_printed": "8908017693234",
+  "barcode_format": "EAN-13",
+  "name": "Ragi Chocolate Cookie",
+  "brand": "millet-bank",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Whole Wheat Flour, Hydrogenated Vegetable Oil, Jaggery, Finger Millet Flour, Cocoa Powder, Baking Soda (INS 550(ii)), Salt, Chocolate Flavour, Vanilla Powder, Rosemary Extract. Allergen Information: Contains gluten. Processed in a facility that also handles peanuts, soy, milk, and tree nuts. May contain traces.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017693234",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

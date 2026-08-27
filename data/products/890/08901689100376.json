@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901689100376",
+  "barcode_printed": "8901689100376",
+  "barcode_format": "EAN-13",
+  "name": "Mala's Mixberry Jam",
+  "brand": "mala-s",
+  "category": "jam",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Mixed Berries Pulp (45%) (Strawberry, Blueberry, Mulberry), Water, Thickener (INS 440), Acidity Regulator (INS 296, INS 300, INS 330). CONTAINS PERMITTED NATURE IDENTICAL & ARTIFICIAL FLAVOURING SUBSTANCES (MIXBERRY). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 122,INS 133). CONTAINS PERMITTED CLASS II PRESERVATIVE (INS 202, INS 211)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901689100376",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

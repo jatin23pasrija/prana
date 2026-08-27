@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552021487",
+  "barcode_printed": "8901552021487",
+  "barcode_format": "EAN-13",
+  "name": "Ashoka Shahi Navratan Korma (vegan) 280G",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 283.49523125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Eau, oignons (17.9%), carottes (7%), pois verts (7%), pomme de terre (6.3%), chou-fleur (5.6%), huile de tournesol, _tofu_ (3.8%), ananas (3.7%), lait de coco, haricots verts (3.7%), graines de melon, ail, noix de coco déshydratée en poudre, gingembre, _noix de cajou_ (1.2%), sucre, pâte de tomate, sel, piment vert, curcuma, en poudre, mélange d'épices en poudre (0.2%): anis étoilé, cardamome noire, poivre noir, ajowan, séné, piment rouge, clou de girofie, graines de coriandre, cumin, gingembre déshydraté, graines de fenouil.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552021487",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

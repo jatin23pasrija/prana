@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088205221",
+  "barcode_printed": "8901088205221",
+  "barcode_format": "EAN-13",
+  "name": "Oodles Yummy masala ring noodles",
+  "brand": "saffola",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 53,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 432,
+        "energy_kj": 1807,
+        "protein_g": 14.9,
+        "carbohydrate_g": 58.11,
+        "sugars_g": 7.73,
+        "fat_g": 16.98,
+        "saturated_fat_g": 3.96,
+        "trans_fat_g": 0.09,
+        "fibre_g": 6.6,
+        "sodium_mg": 1280
+      }
+    }
+  ],
+  "ingredients_raw": "Rings #Noodles: Oat flour (39.4%), Semolina (36.7%), Edible Vegetable Oil (Refined Rice Bran Oil), Wheat Gluten, lodised Salt, Stabilizers [INS 170(i)]. Yummy Masala Mix*: Spices & Condiments (15.2%) [Onion, Cumin, Turmeric, Clove], Dehydrated Vegetables (3.6%) [Onions, Carrots], Sugar, Hydrolysed Vegetable Protein, Starch, Milk Solids, lodised Salt, Maltodextrin, Flavour Enhancers (INS 627, INS 631), Anticaking Agent (INS 551), Thickener (INS 414). Natural and Nature-identical Flavouring Substances, Colour (INS 150d). Allergen Information: Contains Gluten (Wheat), Milk, Soy. May contain traces of Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088205221",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

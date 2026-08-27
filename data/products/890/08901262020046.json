@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262020046",
+  "barcode_printed": "8901262020046",
+  "barcode_format": "EAN-13",
+  "name": "Pure Milk Cheese Slices",
+  "brand": "amul",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cheese, Milk Solids, Permitted Emulsifying Salts (E331 & E452) & Common Salt. CONTAINS PERMITTED CLASS II PRESERVATIVES (E200 & E234) BEST BEFORE 9 MONTHS FROM PACKAGING WHEN STORED REFRIGE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262020046",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

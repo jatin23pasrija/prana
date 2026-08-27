@@ -1,0 +1,71 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000589063",
+  "barcode_printed": "8908000589063",
+  "barcode_format": "EAN-13",
+  "name": "Sipon Mango Drink",
+  "brand": "bindu",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 48.31,
+        "protein_g": 0.3,
+        "carbohydrate_g": 12.3,
+        "sugars_g": 12,
+        "fat_g": 0,
+        "sodium_mg": 6
+      }
+    }
+  ],
+  "ingredients_raw": "PURIFIED WATER, SUGAR, TOTAPURI MANGO PULP (12.5%) AND ALPHONSO MANGO PULP (2.5%), ACIDITY REGULATOR (INS 330), STABILIZER (INS 440, INS 466) PERMITTED CLASS II PRESERVATIVE (INS 202) ANTIOXIDANT (INS 300). CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 110) AND ADDED FLAVOUR [NATURE IDENTICAL FLAVOURING SUBSTANCES (MANGO)] CONTAINS FRUIT PULP",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000589063",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

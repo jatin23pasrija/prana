@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063342408",
+  "barcode_printed": "8901063342408",
+  "barcode_format": "EAN-13",
+  "name": "Fruit Bread",
+  "brand": "britannia",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), WATER, GLAZED FRUITS (13.9%) [PAPAYA CUTS, SUGAR, ACIDITY REGULATOR (330), PINEAPPLE CUTS, PRESERVATIVE (202), COLOURS (124, 110 & 102), ARTIFICIAL (MIXED BERRY) FLAVOURING SUBSTANCE], SUGAR, YEAST, REFINED SOYABEAN OIL, IODIZED SALT, PRESERVATIVES (282 & 200), STABILIZER (412), ACIDITY REGULATOR (260), EMULSIFIERS (471 & 481 (i)), FLOUR TREATMENT AGENT (510) AND ANTIOXIDANT (300).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063342408",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

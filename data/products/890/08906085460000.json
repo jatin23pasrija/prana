@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906085460000",
+  "barcode_printed": "8906085460000",
+  "barcode_format": "EAN-13",
+  "name": "Mathiya",
+  "brand": "yash",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "4Pieces (50g)",
+        "quantity": {
+          "value": 50,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 155,
+        "protein_g": 8,
+        "carbohydrate_g": 31,
+        "sugars_g": 3,
+        "fat_g": 0,
+        "saturated_fat_g": 0,
+        "trans_fat_g": 0,
+        "sodium_mg": 287
+      }
+    }
+  ],
+  "ingredients_raw": "Moth Dal Flour (Lentil) (53%), Black Gram Flour (13%), Sugar, Aiwain, White Chilli Powder, Vegetable Ghee (Refined Palmdlein Oil), Salt, Asafoetida. ALLERGY INFORMATION : MAY CONTAIN PEANUT, OTHER TREE NUTS, GLUTEN L SOYA, SULPHITE& MUSTARD SEEDS, WHEAT & MUSTARD",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906085460000",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08715700033235",
+  "barcode_printed": "8715700033235",
+  "barcode_format": "EAN-13",
+  "name": "Ketchup P'tits Heinz",
+  "brand": "heinz",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Tomates (205 g pour 100 g de ketchup), sucre, vinaigre, sel, extraits d'épices et de plantes aromatiques (contient du céleri), épice.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8715700033235",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

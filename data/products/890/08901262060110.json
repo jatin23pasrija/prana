@@ -1,0 +1,57 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262060110",
+  "barcode_printed": "8901262060110",
+  "barcode_format": "EAN-13",
+  "name": "Cheese Spread Yummy Plain",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "protein_g": 11.5,
+        "carbohydrate_g": 13,
+        "sugars_g": 3,
+        "fat_g": 13,
+        "saturated_fat_g": 6.3,
+        "trans_fat_g": 0,
+        "sodium_mg": 1250
+      }
+    }
+  ],
+  "ingredients_raw": "Cheese, milk solids, emulsifying salts (452, 339, 331, 471), iodised salt, class II preservatives (200, 234)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262060110",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080100361",
+  "barcode_printed": "8902080100361",
+  "barcode_format": "EAN-13",
+  "name": "Adrenaline rush",
+  "brand": "pepsico",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Carbonated Water, Sugar, Acidity Regulators Adrenaline Rush&quot; is a Trademark of PepsiCo, Inc. LEHAR Adrenaline Rush Substances), Taurine (0.04%), Antioxidant (300), Preservative (330, 331), Flavour (Natural And Nature Identical Flavouring (202), Caffeine&quot; (29 mg/100 ml), Sweeteners (955,950), Stabilizer (444), Colours (102, 110), Vitamins Premix CONTAIN NON-CALORIC SWEETENERS This caffeinated beverage contains an admixture of Sucralose and Acesulfame Potassium. Not recommended for children, pregnant or lactating women, persons sensitive to caffeine.&quot; CONTAINS CAFFEINE HIGH CAFFEINE: Consume not more than 500 ml per day &quot;#86 mg/pack FOR MANUFACTURER DETAILS, SEE FIRST ONE LETTER/TWO LETTERS THE BATCH NO. AND SEE BELOW AFD BY: VARUN BEVERAGES LTD. LIC NO. 10012013000203 LIC NO. 10019063001359 ANILIC NO. 10015044000904 SEE BOTTOM FOR BATCH NO., MF. USE BY DATE, MRP (INCL.) OF ALL TAXES), USP. NET QUANTITY: 300 ml Ball 15M51L13A MKT. BY: PEPSICO INDIA HOLDINGS PVT. LTD. fssai LIC. NO. 10014064000435 FOR MKT. ADDRESS, SCAN BARCODE VIA SMART CONSUMER APP. STORAGE INSTRUCTIONS: KEEP IN COOL AND DRY PLACE AWAY FROM DIRECT SUNLIGHT 19 RECYCLABLE 0036",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080100361",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

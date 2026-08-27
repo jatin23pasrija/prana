@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "08904145912957",
+  "barcode_printed": "8904145912957",
+  "barcode_format": "EAN-13",
+  "name": "Ensure Chocolate Flavour",
+  "brand": "abbott",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 422,
+        "protein_g": 15.1,
+        "carbohydrate_g": 62.38,
+        "sugars_g": 35,
+        "fat_g": 11.5,
+        "saturated_fat_g": 4,
+        "trans_fat_g": 0.2,
+        "sodium_mg": 314
+      }
+    }
+  ],
+  "ingredients_raw": "Skimmed milk powder, sucrose, maltodextrin, edible vegetable oil (high oleic sunflower oil, soy oil), cocoa powder (4.5%), fructose, fructo-oligosaccharide (3.9%), flavoring(s) (Nature Identical And Artificial - Chocolate), natural colour (caramel), MINERALS**, calcium B-hydroxy-B-methylbutyrate monohydrate (CaHMB) (0.67%), VITAMINS***, antioxidant (mixed tocopherol). Contains Milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904145912957",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

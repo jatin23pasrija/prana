@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009531236",
+  "barcode_printed": "8906009531236",
+  "barcode_format": "EAN-13",
+  "name": "RiteBite Nutrition Bar",
+  "brand": "ritebite",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cereals (Whole Grain Rolled Dats (12%) Brown Rice Crispy, Quinoa Crispy (3%), Brown Rice Syrup (Liquid Glucose), White Compound (15%) (Sugar, Edible Vegetable Oil (Hydrogenated) Milk Solids, Cocoa Solids, Emulsifier (Soy Lecithin), Pumpkin Seeds, Watermelon Seeds, Cranberries (6%), Black Currants (6%), Edible Vegetable Oil, Raisins, Humectant (Glycerine). Yogurt Powder (2%), Flaxseeds, Amaranth Seeds, Chia Seeds, Emulsifier (Soy Lecithin), Soy Protein Isolate, Binding Agent (Guar Gum). Banana Powder, Tribasic Calcium Phosphate, Salt and Citric Acid, Antioxidant (Vitamin C), Vitamin A & E",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009531236",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

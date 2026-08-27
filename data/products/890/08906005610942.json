@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005610942",
+  "barcode_printed": "8906005610942",
+  "barcode_format": "EAN-13",
+  "name": "Fruit Cake",
+  "brand": "winkies",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 421.9,
+        "protein_g": 3.5,
+        "carbohydrate_g": 54.5,
+        "sugars_g": 24.1,
+        "fat_g": 21,
+        "saturated_fat_g": 9.6,
+        "trans_fat_g": 0.01,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, WATER, PALMOLEIN OIL, VANILLA CONCENTRATE (MILK SOLIDS (33%), LEAVENING AGENTS [INS 500), INS 341, DEXTROSE, REFINED WHEAT FLOUR (MAIDA), STARCH, MODIFIED STARCH (INS 1412, INS 1440, INS 1442), ACIDITY REGULATOR (INS 330), IMPROVER (INS 170), EMULSIFIER (INS 433, INS 471, INS 4726, INS 477), STABILIZER (INS 415, INS 412, INS 450), GLAZED FRUITS (5%) (PAPAYA, SUGAR, ACIDITY REGULATOR (INS 330), SYNTHETIC FOOD COLOUR (INS 110,INS 102, INS 143, INS 124)), RAISIN (3%), HUMECTANTS (INS 422, INS 420), CAKE GEL (INS 471, INS 477, INS 1520, INS 420, INS 412, INS 202), PRESERVATIVE (INS 200, INS 282, IMS 211), ACIDITY REGULATOR(INS 260),EDIBLE COMMON SALT, STABILIZER (INS 412,INS 415)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005610942",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

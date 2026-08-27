@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202294426",
+  "barcode_printed": "7622202294426",
+  "barcode_format": "EAN-13",
+  "name": "Temptations rum & raisins",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 498,
+        "protein_g": 5.7,
+        "carbohydrate_g": 62.2,
+        "sugars_g": 57,
+        "fat_g": 26,
+        "saturated_fat_g": 17.5,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 82.3
+      }
+    }
+  ],
+  "ingredients_raw": "Sugar, Cocoa Butter, Raisins (18%*), Cocoa Solids, Milk Solids, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Rum, Raisin, Vanilla) Flavouring Substances). Allergen Information: Contains Milk, Soy, Sulphites May Contain Tree Nuts. CONTAINS RUM FLAVOUR",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202294426",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

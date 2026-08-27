@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08908006936007",
+  "barcode_printed": "8908006936007",
+  "barcode_format": "EAN-13",
+  "name": "Sloopy Masala Noodles",
+  "brand": "sloopy",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 454,
+        "protein_g": 9,
+        "carbohydrate_g": 64,
+        "sugars_g": 0.75,
+        "fat_g": 4.5,
+        "saturated_fat_g": 2.25,
+        "fibre_g": 0.5,
+        "sodium_mg": 1178
+      }
+    }
+  ],
+  "ingredients_raw": "NOODLES: Refined Wheat flour (Maida), Refined Palm Oil, Iodized Salt, Thickeners (E412), Stabilizer [E451(i)], Raising Agent [E500(ii)]. Antioxidant (E319). TASTE MASTER®: Spices and Condiments [27.5% (Dehydrated Onion, Coriander Powder (3.5%), Red Chilli Powder (3.2%), Turmeric Powder (3%), Cumin Powder (1.8%), Green Cardamom Powder (1.3%), Black Pepper Powder, Ginger Powder, Clove Powder, Nutmeg Powder, Fenugreek Powder], Iodized Salt, Noodles Powder (Refined Wheat flour (Maida), Refined Palm Oil, Iodized Salt, Thickeners (E412), Stabilizer [E451(i)], Raising Agent [E500(i)]. Antioxidant (E319) }, Hydrolyzed Vegetable Protein, Sugar, Edible Starch, Acidity Regulator (E330), Flavour Enhancer (E635), Anticaking Agent (E551). NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES - (MASALA FLAVOUR)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908006936007",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

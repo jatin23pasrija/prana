@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005502513",
+  "barcode_printed": "8906005502513",
+  "barcode_format": "EAN-13",
+  "name": "Chatpata matar",
+  "brand": "bikaji",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_serving",
+      "serving": {
+        "description": "20 g",
+        "quantity": {
+          "value": 20,
+          "unit": "g"
+        }
+      },
+      "values": {
+        "energy_kcal": 94,
+        "protein_g": 4,
+        "carbohydrate_g": 12,
+        "sugars_g": 7,
+        "fat_g": 4,
+        "saturated_fat_g": 1,
+        "fibre_g": 1,
+        "sodium_mg": 83
+      }
+    }
+  ],
+  "ingredients_raw": "Dehydrated Green Peas (75%), Vegetable Oil (Palmolein Oil Cottonseed Oil), lodised Salt, Ground Spices (Red Chilli, Black Pepper, Clove, Dry Mango, Black Salt, Cumin, Acidity Regulator (INS 330), Coriander, Mint, Bay Leaves, Yellow Chilli, Dried Ginger, Asafoetida, Nutmeg, Mace, Fenugreek, Cardamom)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005502513",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

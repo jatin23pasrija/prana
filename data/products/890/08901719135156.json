@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719135156",
+  "barcode_printed": "8901719135156",
+  "barcode_format": "EAN-13",
+  "name": "PARLE MONACO",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined wheat flour (maida), refined oils(pamolein and palm), sugar, raisins agents[503(ii),341(i)], iodised salt(2.25%), invert sugar syrup, yeast, acidity regulators [270,296], flour treatment agents[223,1101(ii),1100(i)], emulsifier of vegetable origin [472e] Contains added flavours(artificial flavouring substance - butter) Contains: wheat, sulphite",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719135156",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

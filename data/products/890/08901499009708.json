@@ -1,0 +1,63 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499009708",
+  "barcode_printed": "8901499009708",
+  "barcode_format": "EAN-13",
+  "name": "Kellogg's Choco fills",
+  "brand": "kellogg-s",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 430,
+        "protein_g": 8,
+        "carbohydrate_g": 71,
+        "sugars_g": 30.5,
+        "fat_g": 14,
+        "saturated_fat_g": 4.8,
+        "fibre_g": 6.2,
+        "sodium_mg": 270
+      }
+    }
+  ],
+  "ingredients_raw": "MULTIGRAIN FLOUR WXS FLOUR (ATTA) (35.7% WHOLE CATS FOR CORN MEAL (9) CHOCO CREAM SUGAR VEGETABLE OIL SUNFLOWER OIL PRIMO SOLIDS (6.3%), MILK SOLIDS EMULSIFIER FLAVOUR (NATURAL, SUGAR COCOA SOU IODIZED SALT, ANTIOXIDANT (NS 3078) ALLERGEN DECLARATION: CONTAINS OATS, SOY&MILK. MAY CONTAIN NUTS VITAMIN B6, B12&FOLATE CONTRIBUTE TO FUNCTION OF IMMUNE SYSTEM &quot;GUIDELINE DAILY AMOUNT (2000 6%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499009708",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

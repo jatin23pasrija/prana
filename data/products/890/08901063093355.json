@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063093355",
+  "barcode_printed": "8901063093355",
+  "barcode_format": "EAN-13",
+  "name": "Good Day Cashew Cookies Medium Pack 600g",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 504,
+        "protein_g": 7,
+        "carbohydrate_g": 65,
+        "sugars_g": 22,
+        "fat_g": 24,
+        "saturated_fat_g": 11,
+        "trans_fat_g": 0,
+        "fibre_g": 0,
+        "sodium_mg": 0
+      }
+    }
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, SUGAR, CASHEW NUTS (1.8%), INVERT SUGAR MILK SOLIDS, BUTTER (0.6%), RAISING AGENTS [503(ii) & 500(ii)], IODISED SALT, EMULSIFIERS (322(i), 471 & 472e] AND FLAVOURS [NATURE IDENTICAL AND ARTIFICIAL (MILK AND VANILLA) FLAVOURING SUBSTANCES].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063093355",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

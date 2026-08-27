@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08908014814144",
+  "barcode_printed": "8908014814144",
+  "barcode_format": "EAN-13",
+  "name": "Pav",
+  "brand": "mr-bakewell",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 180,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 300,
+        "protein_g": 5.57,
+        "carbohydrate_g": 60,
+        "sugars_g": 0.67,
+        "fat_g": 3.33,
+        "saturated_fat_g": 1.57,
+        "fibre_g": 1.67,
+        "sodium_mg": 400
+      }
+    }
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar. Yeast, Refined Palm Oil, lodized Salt, Milk Powder, Flour Improver, Emulsifiers DATEM (INS472e), Calcium Propionate (INS282)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908014814144",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

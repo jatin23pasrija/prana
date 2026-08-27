@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00664648120256",
+  "barcode_printed": "0664648120256",
+  "barcode_format": "EAN-13",
+  "name": "LADDU",
+  "brand": "daily-delight",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 454,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Basen Flour, sugar, cashewnut(0.1%). Raisin,Cardamom,Hydrogenated Vegetable Oil, FD & C Yellow No.5(102).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0664648120256",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

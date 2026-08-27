@@ -1,0 +1,74 @@
+{
+  "schema_version": 1,
+  "gtin": "08904065212540",
+  "barcode_printed": "8904065212540",
+  "barcode_format": "EAN-13",
+  "name": "Orange Cake",
+  "brand": "milka-wonder-cake",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 423.13,
+        "protein_g": 6.92,
+        "carbohydrate_g": 55.73,
+        "sugars_g": 24.87,
+        "fat_g": 19.17,
+        "saturated_fat_g": 12.16,
+        "trans_fat_g": 0,
+        "fibre_g": 1.05,
+        "sodium_mg": 221
+      }
+    }
+  ],
+  "ingredients_raw": "WHEAT FLUOR, SUGAR, EGGS, VEGETABLE SHORTENING HUMECTANT INS 420), SKIMMED MILK POWDER, SALT, RAISING AGENTS(INS INS 341(0)], ANTIOXIDANT [INS 320], AND CONTAINS PERMITTED CLASS lH PRESERVATIVE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904065212540",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

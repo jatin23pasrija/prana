@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906133408695",
+  "barcode_printed": "8906133408695",
+  "barcode_format": "EAN-13",
+  "name": "Whey Protein Concentrate (Cocoa Edition)",
+  "brand": "only-what-s-needed",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "93.0% Whey Protein Concentrate,2% sunflower lecithin,6.8% Cocoa Powder, 0.2% Stevia Leaf Extract",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906133408695",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

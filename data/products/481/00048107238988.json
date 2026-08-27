@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "gtin": "00048107238988",
+  "barcode_printed": "0048107238988",
+  "barcode_format": "EAN-13",
+  "name": "Pure Isolate Chocolate Frosting",
+  "brand": "gnc-amp",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 361.67,
+        "protein_g": 83.33,
+        "carbohydrate_g": 3.33,
+        "sugars_g": 0,
+        "fat_g": 1.67,
+        "saturated_fat_g": 0.57,
+        "trans_fat_g": 0,
+        "sodium_mg": 133.33
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0048107238988",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "schema_version": 1,
+  "gtin": "08908000729025",
+  "barcode_printed": "8908000729025",
+  "barcode_format": "EAN-13",
+  "name": "Sosyo Drink Mixed Fruit",
+  "brand": "hajoori",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 60,
+        "energy_kj": 251,
+        "protein_g": 0,
+        "carbohydrate_g": 15.1,
+        "sugars_g": 15.1,
+        "fat_g": 0,
+        "sodium_mg": 66
+      }
+    }
+  ],
+  "ingredients_raw": "PURIFIED WATER, CANE SUGAR, FRUIT JUICE CONCENTRATE (APPLE 9.1%. LEMON 1%), Co₂ (INS290), CITRIC ACID (INS330), CONTAINS PERMITTED NATURAL COLOUR (INS150d), PERMITTED CLASS-II PRESERVATIVE (INS211), VITAMIN C (INS300), CONTAINS ADDED FLAVOURS NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES OF MIX FRUIT, CONTAINS FRUIT JUICE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908000729025",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

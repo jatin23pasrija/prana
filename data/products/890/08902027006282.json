@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08902027006282",
+  "barcode_printed": "8902027006282",
+  "barcode_format": "EAN-13",
+  "name": "Brown Bread",
+  "brand": "kitty",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta) (32.7%), Refined Wheat Flour (Maida)(27.3%), Yeast, Sugar, Gluten, Wheat Bran, Iodized Salt, Edible Vegetable Oil (Refined Rice Bran Oil, Refined Palmolein Oil), Preservatives (282, 200) Emulsifiers (472e), Acidity Regulators (341(1), 270, 297), Antioxidant (300)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902027006282",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

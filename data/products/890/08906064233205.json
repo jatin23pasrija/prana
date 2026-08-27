@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906064233205",
+  "barcode_printed": "8906064233205",
+  "barcode_format": "EAN-13",
+  "name": "Butter Chicken Masala",
+  "brand": "suhana",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Zwiebel, Cashewnuss, Salz, Zucker, Knoblauch, Chili, Tomatenpulver, Maisstärke, Trockener Ingwer, Koriander, getrocknete Bockshornkleeblätter, Kreuzkümmel, getrocknete Minzblätter, schwarzer Kardamom, Kurkuma, grüner Kardamom, Lorbeerblatt, Cassia, Gewürznelke, Sternanis, Muskatblüte, Muskatnuss, Kümmel, schwarzer Pfeffer",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906064233205",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

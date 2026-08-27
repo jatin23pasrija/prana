@@ -1,0 +1,73 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005618887",
+  "barcode_printed": "8906005618887",
+  "barcode_format": "EAN-13",
+  "name": "Layer Cake with Mixed Berry Cream Filling",
+  "brand": "winkies",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 15,
+      "unit": "g"
+    }
+  },
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 398.36,
+        "protein_g": 5.67,
+        "carbohydrate_g": 62.69,
+        "sugars_g": 26.74,
+        "fat_g": 13.88,
+        "saturated_fat_g": 8.24,
+        "trans_fat_g": 0.1,
+        "sodium_mg": 136.5
+      }
+    }
+  ],
+  "ingredients_raw": "CAKE(80%): REFINED WHEAT FLOUR (MAIDA), WATER, SUGAR, HUMECTANTS (INS 422), PALMOLEIN OIL, LIQUID GLUCOSE, MILK SOLIDS, CAKE GÈL (INS 470a, INS 471, INS 475, INS 422, INS 420, INS 525), RAISING AGENTS (INS 341(1), INS 450(Vii), INS 450(1), INS 500(ii), INS 503 (ii)), EMULSIFIERS (INS 475, INS 322), ARTIFICIAL FLAVOUR (VANILLA), ACIDITY REGULATOR (INS 330), PRESERVATIVES (INS 200, INS 282), EDIBLE COMMON SALT, STABILIZERS (INS 415,INS 412) AND REDUCING AGENT (INS 223). FILLING (20%): MIXED BERRY FILLING (40%) [SUGAR, BERRY MIX (STRAWBERRY (22%), BLUEBERRY (2%), RASPBERRY (1%)}, STABILIZER (INS 440), ACIDITY REGULATOR (INS 330)], BAKERY SHORTENING, LIQUID GLUCOSE, DEXTROSE, INVERT SYRUP, HUMECTANT (INS 422), CAKE GEL (INS 471, INS 477, INS 1520, INS 420, INS 412), ACIDITY REGULATOR (INS 296), EDIBLE COMMON SALT, PRESERVATIVES (INS 200, INS 282) AND ARTIFICIAL FLAVOURS (BLUEBERRY, RASPBERRY, STRAWBERRY). (Numbers in brackets as per International Numbering System). CONTAINS WHEAT, MILK AND SOY INGREDIENTS. POLYOLS MAY HAVE LAXATIVE EFFECT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005618887",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}
