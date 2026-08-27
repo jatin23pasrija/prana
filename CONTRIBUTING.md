@@ -57,10 +57,16 @@ If you are comfortable with Git, edit the record directly.
 ### Validating your data locally
 
 ```bash
-dotnet run --project tools/Prana.Tools.Validator -- validate data/products
+# Check your records
+dotnet run --project tools/Prana.Tools.Validator -- validate data
+
+# Fix the formatting instead of arguing with CI about indentation
+dotnet run --project tools/Prana.Tools.Validator -- format data
 ```
 
-Available from F03 onwards.
+Every rule, every code and every tolerance is documented in
+[docs/VALIDATION.md](docs/VALIDATION.md). CI runs the same tool and puts its findings on the
+exact line of your pull request.
 
 ---
 

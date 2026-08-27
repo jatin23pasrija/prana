@@ -141,6 +141,7 @@ The app never carries a GitHub token. It cannot write to this repository, by des
 | [GOVERNANCE.md](GOVERNANCE.md) | Who decides what, and how you become a maintainer |
 | [SECURITY.md](SECURITY.md) | Reporting a vulnerability, and how releases are signed |
 | [PRODUCT_SCHEMA.md](docs/PRODUCT_SCHEMA.md) | The canonical product data specification |
+| [VALIDATION.md](docs/VALIDATION.md) | Every data rule, what blocks a merge and why |
 
 Specifications arriving with their features: `CATALOGUE_FORMAT.md` (F05),
 `RESEARCH_PIPELINE.md` (F14).
