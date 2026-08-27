@@ -277,6 +277,21 @@ public sealed class RuleTests
         AssertSilent(diagnostics, Rules.SodiumImplausible);
     }
 
+    [Fact]
+    public void A_bag_of_salt_is_not_flagged_for_containing_salt()
+    {
+        using var harness = new ValidatorHarness();
+
+        // Table salt really is about 39 g of sodium per 100 g. Warning about it would be noise,
+        // and noise is how people learn to ignore warnings that matter.
+        var diagnostics = harness.Validate(ValidProduct.Build(
+            category: "salt",
+            nutrition: [ValidProduct.Panel(sodiumMg: 38800)],
+            provenance: ValidProduct.ProvenanceWithNutrition()));
+
+        AssertSilent(diagnostics, Rules.SodiumImplausible);
+    }
+
     // ---------------------------------------------------------------- provenance
 
     [Fact]
