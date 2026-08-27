@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132972469",
+  "barcode_printed": "8904132972469",
+  "barcode_format": "EAN-13",
+  "name": "MADE IN INDIA NET QUANTITY: GOOD LIFE TILL WHITE 200G PP USE BY: 24/08/2026 200 g (Inclusive of all taxes) (STORE IN CLEAN & DRY PLACE) Char Rasta, Village: Gaglasan, PKD:29/11/2025 BATCH No. :AW11290",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132972469",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

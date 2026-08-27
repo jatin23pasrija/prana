@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08902281319074",
+  "barcode_printed": "8902281319074",
+  "barcode_format": "EAN-13",
+  "name": "SENSODENT-K No.l edicated Dental Cream) sium Nitrate BP 5%w/w Cr nted Dental Cream)",
+  "brand": "indoco",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 59,
+      "unit": "g"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902281319074",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

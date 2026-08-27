@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003623160",
+  "barcode_printed": "8908003623160",
+  "barcode_format": "EAN-13",
+  "name": "Www.dnvfoods.com Shop online from many many more - Shop online from Shop online from - Makhana, Saffron and",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003623160",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

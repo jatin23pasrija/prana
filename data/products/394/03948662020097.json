@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "03948662020097",
+  "barcode_printed": "3948662020097",
+  "barcode_format": "EAN-13",
+  "name": "Use By: MRP Rs. E-MAIL ID. suhanacare@suhana.co.in Dist. Pune PRODUCT OF INDIA CONTACT ABOVE ADDRESS OR TOLL FREE NO. 18002673799 0R 412214, FOR CONSUMER CARE CELL/ 209% BEST BEFORE 12 MONTHS FROM DAT",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948662020097",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

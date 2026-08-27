@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "00690225308373",
+  "barcode_printed": "0690225308373",
+  "barcode_format": "EAN-13",
+  "name": "Pack Includes PRODUCT OF INDIA QUANTITY: M.Code: 2206429N1 Seasoning - 20 g Gravy - 100 g Seasoning - 20 9 Sssat Lic No. 1001801105090 120g PRODUCT 0F INDIA QUANTITY Lic No. 10018011005090 Gravy- 100",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0690225308373",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

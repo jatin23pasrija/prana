@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08901499011824",
+  "barcode_printed": "8901499011824",
+  "barcode_format": "EAN-13",
+  "name": "\uD835\uDE5D\uD835\uDE56\uD835\uDE67\uD835\uDE68\uD835\uDE5D\uD835\uDE5A\uD835\uDE6E\uD835\uDE68 \uD835\uDE58\uD835\uDE5D\uD835\uDE64\uD835\uDE58\uD835\uDE64\uD835\uDE68",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901499011824",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

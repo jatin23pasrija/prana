@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08902901222715",
+  "barcode_printed": "8902901222715",
+  "barcode_format": "EAN-13",
+  "name": "3/2026 112/2026 MADE IN INDIA usive of all taxes) CLEAN 1112/2026 ,AWO31802 CLEAN& OD LIFE FENUGREEK 200g PP ^28 per 9 AMIRAS Packed ARP 55.00 .:AWO31802 ET QUANTITY: 200 g nr.kakoshi SSai lusive of a",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902901222715",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

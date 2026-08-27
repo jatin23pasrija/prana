@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "00943927027234",
+  "barcode_printed": "0943927027234",
+  "barcode_format": "EAN-13",
+  "name": "FC khatta mitha 150g",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0943927027234",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

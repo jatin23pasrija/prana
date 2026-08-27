@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "03948662024583",
+  "barcode_printed": "3948662024583",
+  "barcode_format": "EAN-13",
+  "name": "Use By: PRODUCT OF INDIA fssat Y- Gat No. 461, Bhandgaon, Tal. Daund, F- At Gat No. 173, Bholi, Khandala, 209% Satara, Maharashtra - 415526, India. Satara, Maharashtra 415526, India. fSsat MRP Ks. Dis",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948662024583",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

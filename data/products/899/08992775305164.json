@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08992775305164",
+  "barcode_printed": "8992775305164",
+  "barcode_format": "EAN-13",
+  "name": "Garudafood MATCHA LATTE",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8992775305164",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

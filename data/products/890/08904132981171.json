@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132981171",
+  "barcode_printed": "8904132981171",
+  "barcode_format": "EAN-13",
+  "name": "17/02/2026 DRY PLACE MRP 60.00 TQUANTITY: 200 g (Incluslve of all taxes) BATCH No. :AW021702 BATCH NO.: AW021702 MADE INpIA d, n a11/2026 11/2026 MRPR 60.00 (Inclusive of all taxes) d, nr USPR O30 per",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132981171",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

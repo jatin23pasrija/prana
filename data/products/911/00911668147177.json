@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "00911668147177",
+  "barcode_printed": "0911668147177",
+  "barcode_format": "EAN-13",
+  "name": "Date Name Subject Class Division: Batch No.: Mig. Date: Roll No.: Wéllness SERVICE",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0911668147177",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

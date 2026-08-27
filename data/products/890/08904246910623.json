@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08904246910623",
+  "barcode_printed": "8904246910623",
+  "barcode_format": "EAN-13",
+  "name": "Priyanka green chilli pickle 300g",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904246910623",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

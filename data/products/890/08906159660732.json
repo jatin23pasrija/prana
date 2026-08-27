@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08906159660732",
+  "barcode_printed": "8906159660732",
+  "barcode_format": "EAN-13",
+  "name": "Dehaat Tamarind imli 500g",
+  "brand": "honest-farms",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906159660732",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

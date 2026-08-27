@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "00694642604247",
+  "barcode_printed": "0694642604247",
+  "barcode_format": "EAN-13",
+  "name": "Bedekar Singh Groundnut chutney",
+  "brand": "bedekar",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0694642604247",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

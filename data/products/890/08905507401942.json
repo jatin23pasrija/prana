@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08905507401942",
+  "barcode_printed": "8905507401942",
+  "barcode_format": "EAN-13",
+  "name": "Imli tree tasti black salt 100g(8)",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905507401942",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

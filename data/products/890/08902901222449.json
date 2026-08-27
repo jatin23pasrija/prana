@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08902901222449",
+  "barcode_printed": "8902901222449",
+  "barcode_format": "EAN-13",
+  "name": "Processed & Packed By Ssai (STORE IN CLEAN & DRY PLACE) (Inclusive of all taxes) Satya Sai Transport MRP 60.00 PHD31/10/25 USE BY :26/07126 HOWRAH WEST BENGAL-T11401. NET QTY: Satya Sai Transport, ssa",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902901222449",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

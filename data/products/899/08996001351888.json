@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08996001351888",
+  "barcode_printed": "8996001351888",
+  "barcode_format": "EAN-13",
+  "name": "Wafello butter caramel 2k",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 43,
+      "unit": "g"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8996001351888",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

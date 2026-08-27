@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08902901222753",
+  "barcode_printed": "8902901222753",
+  "barcode_format": "EAN-13",
+  "name": "PKD.*: 16/12/25 Ssai MADE IN INDIA USP ATION TOLL HTRA 100 g 1.20 perg CH NO.: IU121623 NETQVANITY FPEE. 1.20 per g NETQUANITY METQANITY USE Br: 10/09/26 8 9029012:27",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902901222753",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

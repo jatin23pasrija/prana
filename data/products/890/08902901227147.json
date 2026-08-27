@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08902901227147",
+  "barcode_printed": "8902901227147",
+  "barcode_format": "EAN-13",
+  "name": "Good Life cashew 2 pieces 500gm",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902901227147",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}

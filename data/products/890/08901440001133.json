@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08901440001133",
+  "barcode_printed": "8901440001133",
+  "barcode_format": "EAN-13",
+  "name": "Easterm COCONUT OIL زيت جوز الهند في ١٥ مل ١٣٥ سعرة حرارية و في ١٠٠ مل ٩٠٠ سعرة حرارية",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901440001133",
+      "retrieved_at": "2026-08-27",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-08-27"
+  }
+}
