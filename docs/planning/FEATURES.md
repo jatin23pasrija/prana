@@ -161,7 +161,11 @@ Turn the Git tree into the mobile database.
 ---
 
 ### F06 - Signed release pipeline
-**Branch** `feat/f06-release-pipeline` · **Deps** F05
+**Branch** `feat/f06-release-pipeline` · **Deps** F05 · **DEFERRED**
+
+> **Deferred on 2026-08-31, waiting on key generation.** Nothing about the design changed; the
+> signing keypair has to be created and stored by a person, and that has not happened yet.
+> See ADR-0031 for what this blocks and what it does not.
 
 Publish the catalogue so a phone can fetch it.
 
@@ -188,7 +192,7 @@ one byte and confirm verification fails.
 ## M2 - Offline app
 
 ### F07 - MAUI application skeleton
-**Branch** `feat/f07-app-skeleton` · **Deps** F06
+**Branch** `feat/f07-app-skeleton` · **Deps** F05
 
 **In scope**
 - `app/Prana.Mobile` targeting Android and iOS, `com.prana.app`.
@@ -277,7 +281,10 @@ confirm graceful behaviour.
 ## M3 - Sync
 
 ### F11 - Catalogue sync and atomic install
-**Branch** `feat/f11-sync` · **Deps** F10
+**Branch** `feat/f11-sync` · **Deps** F10 **and F06**
+
+> F06 is a hard dependency, not an ordering one. ADR-0011 says an unsigned or badly signed
+> package is never activated, so this feature cannot be finished while F06 is deferred.
 
 The highest-risk feature in Phase 1. Failure here can destroy a working catalogue.
 
@@ -297,6 +304,8 @@ The highest-risk feature in Phase 1. Failure here can destroy a working catalogu
 - [ ] A failed update never leaves the app without a working catalogue. Proven by test.
 - [ ] No temporary files survive a failure.
 - [ ] Sync never blocks the UI.
+- [ ] Signature verification is enforced, not stubbed. This feature may not be marked done with
+      verification disabled or bypassed, however convenient that would be (ADR-0011, ADR-0031).
 
 **Test round** Run the full failure matrix on the physical device, one drill at a time,
 recorded in the PR.
