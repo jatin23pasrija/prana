@@ -1,0 +1,15 @@
+{
+  "solution": {
+    "path": "Prana.sln",
+    "projects": [
+      "src\\Prana.Core\\Prana.Core.csproj",
+      "tests\\Prana.Core.Tests\\Prana.Core.Tests.csproj",
+      "tests\\Prana.Tools.CatalogueBuilder.Tests\\Prana.Tools.CatalogueBuilder.Tests.csproj",
+      "tests\\Prana.Tools.Importer.Tests\\Prana.Tools.Importer.Tests.csproj",
+      "tests\\Prana.Tools.Validator.Tests\\Prana.Tools.Validator.Tests.csproj",
+      "tools\\Prana.Tools.CatalogueBuilder\\Prana.Tools.CatalogueBuilder.csproj",
+      "tools\\Prana.Tools.Importer\\Prana.Tools.Importer.csproj",
+      "tools\\Prana.Tools.Validator\\Prana.Tools.Validator.csproj"
+    ]
+  }
+}

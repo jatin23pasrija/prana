@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Prana.Mobile.Features.Scanner"
+             x:Class="Prana.Mobile.Features.Scanner.ScanPage"
+             x:DataType="vm:ScanViewModel"
+             Title="Scan">
+
+    <Grid Padding="{StaticResource SpaceM}" RowDefinitions="*,Auto" RowSpacing="{StaticResource SpaceM}">
+
+        <VerticalStackLayout Grid.Row="0" VerticalOptions="Center" Spacing="{StaticResource SpaceS}">
+            <Label Text="Camera scanning is not built yet"
+                   Style="{StaticResource Heading}"
+                   HorizontalTextAlignment="Center" />
+            <Label Text="{Binding Explanation}"
+                   Style="{StaticResource Muted}"
+                   HorizontalTextAlignment="Center" />
+        </VerticalStackLayout>
+
+        <!--
+            Manual entry exists from the start rather than as a fallback added later. A camera
+            can be refused, broken, or defeated by a crumpled packet, and an app that can only
+            scan is an app that sometimes cannot be used at all.
+        -->
+        <VerticalStackLayout Grid.Row="1" Spacing="{StaticResource SpaceS}">
+            <Label Text="Enter a barcode" Style="{StaticResource Heading}" />
+            <Entry Text="{Binding Barcode}"
+                   Keyboard="Numeric"
+                   Placeholder="8901234567890"
+                   SemanticProperties.Hint="Type the number printed under the barcode" />
+            <Label Text="{Binding ValidationMessage}" Style="{StaticResource Muted}" />
+            <Button Text="Look up"
+                    Command="{Binding LookUpCommand}" />
+        </VerticalStackLayout>
+
+    </Grid>
+
+</ContentPage>

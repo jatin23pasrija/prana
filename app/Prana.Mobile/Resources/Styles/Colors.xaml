@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <!--
+        Colour tokens. Every screen uses these names rather than literal colours, so a change to
+        the palette is one edit here instead of a search across twenty pages.
+
+        Both themes are defined together and paired with AppThemeBinding in Styles.xaml, because
+        retrofitting dark mode across a finished app is miserable and doing it in the first screen
+        is free.
+
+        Deliberately not a traffic-light palette. Prana makes comparative statements, never
+        verdicts, so there is no green "good" and no red "bad" for a food. Red is reserved for
+        things that are actually wrong, like a failed download.
+    -->
+
+    <!-- Brand. A calm green, for breath and plants rather than for approval. -->
+    <Color x:Key="Primary">#2E7D5B</Color>
+    <Color x:Key="PrimaryDark">#4FB286</Color>
+    <Color x:Key="PrimaryMuted">#D6E8DF</Color>
+    <Color x:Key="PrimaryMutedDark">#1D3A2E</Color>
+
+    <!-- Surfaces -->
+    <Color x:Key="BackgroundLight">#FFFFFF</Color>
+    <Color x:Key="BackgroundDark">#0F1A15</Color>
+    <Color x:Key="SurfaceLight">#F4F7F5</Color>
+    <Color x:Key="SurfaceDark">#18241E</Color>
+    <Color x:Key="BorderLight">#E1E8E4</Color>
+    <Color x:Key="BorderDark">#2A3A32</Color>
+
+    <!-- Text -->
+    <Color x:Key="TextLight">#14211B</Color>
+    <Color x:Key="TextDark">#E9F1EC</Color>
+    <Color x:Key="TextMutedLight">#5B6B63</Color>
+    <Color x:Key="TextMutedDark">#9BACA3</Color>
+
+    <!--
+        Indicator colours for nutrition levels. Amber and blue rather than red and green: "higher
+        sugar than most biscuits" is a comparison, not a warning, and colouring it red would be
+        the app passing the health judgement DATA_POLICY.md says it must not.
+    -->
+    <Color x:Key="IndicatorHigh">#B4741E</Color>
+    <Color x:Key="IndicatorHighDark">#E0A34A</Color>
+    <Color x:Key="IndicatorModerate">#5B6B63</Color>
+    <Color x:Key="IndicatorModerateDark">#9BACA3</Color>
+    <Color x:Key="IndicatorLow">#2A6F97</Color>
+    <Color x:Key="IndicatorLowDark">#68A9CC</Color>
+
+    <!-- Reserved for things that are genuinely wrong: a failed download, a corrupt catalogue. -->
+    <Color x:Key="Error">#B3261E</Color>
+    <Color x:Key="ErrorDark">#F2B8B5</Color>
+
+    <!-- Unverified and incomplete data, which is most of the catalogue and is not an error. -->
+    <Color x:Key="Unverified">#7A6A3F</Color>
+    <Color x:Key="UnverifiedDark">#D6C48A</Color>
+
+</ResourceDictionary>

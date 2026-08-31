@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Prana.Mobile.Features.Home"
+             x:Class="Prana.Mobile.Features.Home.HomePage"
+             x:DataType="vm:HomeViewModel"
+             Title="Prana">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="{StaticResource SpaceM}" Spacing="{StaticResource SpaceM}">
+
+            <Label Text="Know what is in your food"
+                   Style="{StaticResource Title}"
+                   Margin="0,{StaticResource SpaceM},0,0" />
+
+            <Label Text="Scan a packet to see its nutrition and ingredients. Works without internet once the catalogue is installed."
+                   Style="{StaticResource Muted}" />
+
+            <Button Text="Scan a product"
+                    Command="{Binding ScanCommand}"
+                    SemanticProperties.Hint="Opens the camera to scan a barcode"
+                    Margin="0,{StaticResource SpaceS},0,0" />
+
+            <Button Text="Search the catalogue"
+                    Style="{StaticResource SecondaryButton}"
+                    Command="{Binding SearchCommand}" />
+
+            <Button Text="My grocery list"
+                    Style="{StaticResource SecondaryButton}"
+                    Command="{Binding GroceryCommand}" />
+
+            <!--
+                The catalogue state is shown on the home screen on purpose. A user who does not
+                know whether they have data cannot tell a missing product from a missing
+                catalogue, and would blame the app for the wrong thing.
+            -->
+            <Border Style="{StaticResource Card}" Margin="0,{StaticResource SpaceM},0,0">
+                <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
+                    <Label Text="Catalogue" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding CatalogueStatus}" Style="{StaticResource Muted}" />
+                </VerticalStackLayout>
+            </Border>
+
+            <Border Style="{StaticResource Card}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
+                    <Label Text="Recent scans" Style="{StaticResource Heading}" />
+                    <Label Text="Nothing scanned yet. Products you look at will appear here."
+                           Style="{StaticResource Muted}" />
+                </VerticalStackLayout>
+            </Border>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

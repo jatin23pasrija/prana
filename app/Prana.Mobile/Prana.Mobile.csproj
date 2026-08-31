@@ -1,0 +1,67 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    The Prana app. Android is what ships in Phase 1; iOS is built so that platform-specific code
+    cannot quietly leak into shared layers, and is not distributed yet. See ADR-0004.
+  -->
+
+  <PropertyGroup>
+    <TargetFrameworks>net10.0-android;net10.0-ios</TargetFrameworks>
+
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Prana.Mobile</RootNamespace>
+    <UseMaui>true</UseMaui>
+    <SingleProject>true</SingleProject>
+
+    <ApplicationTitle>Prana</ApplicationTitle>
+    <ApplicationId>com.prana.app</ApplicationId>
+    <ApplicationDisplayVersion>0.1.0</ApplicationDisplayVersion>
+    <ApplicationVersion>1</ApplicationVersion>
+
+    <!--
+      The rest of the repository builds with InvariantGlobalization, which is fine for tools.
+      The app is different: it has to format numbers and dates for people in India, and Phase 2
+      adds Hindi and other Indian languages. Invariant mode also silently turns string
+      normalisation into a no-op, which already cost us once in the importer.
+    -->
+    <InvariantGlobalization>false</InvariantGlobalization>
+
+    <!-- Android 8.0. Below that the device population is negligible and the API surface hurts. -->
+    <SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'android'">26.0</SupportedOSPlatformVersion>
+    <SupportedOSPlatformVersion Condition="$([MSBuild]::GetTargetPlatformIdentifier('$(TargetFramework)')) == 'ios'">15.0</SupportedOSPlatformVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <MauiIcon Include="Resources\AppIcon\appicon.svg" ForegroundFile="Resources\AppIcon\appiconfg.svg" Color="#0F1A15" />
+    <MauiSplashScreen Include="Resources\Splash\splash.svg" Color="#0F1A15" BaseSize="128,128" />
+    <MauiImage Include="Resources\Images\*" />
+    <MauiFont Include="Resources\Fonts\*" />
+    <MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!--
+      Microsoft.Maui.Controls is referenced explicitly. Since .NET 8, UseMaui no longer implies
+      the package reference, and under central package management the omission is silent: restore
+      produces a project.assets.json with no MAUI packages in it at all, and the build fails with
+      "ContentPage could not be found", which points nowhere near the cause.
+    -->
+    <PackageReference Include="Microsoft.Maui.Controls" />
+    <PackageReference Include="CommunityToolkit.Mvvm" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!--
+      Implicit across the app, the same way MAUI makes its own namespaces implicit. Every view
+      model uses these, and repeating two usings in every file is noise that hides the ones that
+      actually say something.
+    -->
+    <Using Include="CommunityToolkit.Mvvm.ComponentModel" />
+    <Using Include="CommunityToolkit.Mvvm.Input" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Prana.Core\Prana.Core.csproj" />
+  </ItemGroup>
+
+</Project>

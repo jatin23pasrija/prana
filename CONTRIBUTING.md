@@ -93,7 +93,21 @@ cd prana
 dotnet build
 ```
 
-For the app you also need the Android SDK. For iOS you need a Mac.
+### Building the app
+
+The app needs more than the tools do:
+
+- The MAUI workloads: `dotnet workload install maui-android`
+- The Android SDK
+- **JDK 17 or newer.** Android manifest merging runs on the JVM, and an older JDK fails deep in
+  the Android build with `UnsupportedClassVersionError` and a class file version number, which
+  says nothing about the actual problem. JDK 11 is not enough.
+- A Mac, for iOS.
+
+`dotnet build Prana.sln` builds everything including the app. CI builds `Prana.NoApp.slnf`
+instead, which is the same solution without the app, so that a pull request touching only the
+tools does not have to install a mobile toolchain. If you add a project outside `app/`, add it
+to both or CI will silently never build it.
 
 ### The loop
 

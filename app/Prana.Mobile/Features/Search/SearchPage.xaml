@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Prana.Mobile.Features.Search"
+             x:Class="Prana.Mobile.Features.Search.SearchPage"
+             x:DataType="vm:SearchViewModel"
+             Title="Search">
+
+    <Grid RowDefinitions="Auto,*" Padding="{StaticResource SpaceM}" RowSpacing="{StaticResource SpaceM}">
+
+        <SearchBar Grid.Row="0"
+                   Placeholder="Search by product or brand"
+                   Text="{Binding Query}"
+                   SemanticProperties.Hint="Search the installed catalogue by product name or brand" />
+
+        <VerticalStackLayout Grid.Row="1"
+                             VerticalOptions="Center"
+                             Spacing="{StaticResource SpaceS}">
+            <Label Text="{Binding EmptyMessage}"
+                   Style="{StaticResource Muted}"
+                   HorizontalTextAlignment="Center" />
+        </VerticalStackLayout>
+
+    </Grid>
+
+</ContentPage>

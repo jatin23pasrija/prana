@@ -1,0 +1,95 @@
+name: Build app
+
+# Builds the Prana app.
+#
+# Separate from ci.yml because the app needs the MAUI workloads, an Android SDK and a JDK, none
+# of which the rest of the repository requires. Making every pull request pay for that would be
+# a tax on work that never touches the app.
+#
+# Android is what ships. iOS is built only to prove that platform-specific code has not leaked
+# into shared layers, which is the whole point of ADR-0004.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "app/**"
+      - "src/Prana.Core/**"
+      - ".github/workflows/build-app.yml"
+  pull_request:
+    paths:
+      - "app/**"
+      - "src/Prana.Core/**"
+      - ".github/workflows/build-app.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: build-app-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  android:
+    name: Android
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          global-json-file: global.json
+
+      # Android manifest merging runs on the JVM and needs 17. A machine with 11 fails deep in
+      # the Android targets with UnsupportedClassVersionError and a class file version number,
+      # which says nothing about the actual problem.
+      - name: Set up JDK 17
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: "17"
+
+      - name: Install the MAUI Android workload
+        run: dotnet workload install maui-android --skip-sign-check
+
+      - name: Build
+        run: dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-android -c Release -p:ContinuousIntegrationBuild=true
+
+      # An unsigned debug APK, so the build can be installed and looked at. Signing for release
+      # is F17, and needs a key that does not exist yet.
+      - name: Package a debug APK
+        run: dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-android -c Debug -t:Build -p:AndroidPackageFormat=apk
+
+      - name: Upload the APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: prana-debug-apk
+          path: app/Prana.Mobile/bin/Debug/net10.0-android/**/*-Signed.apk
+          if-no-files-found: warn
+          retention-days: 30
+
+  ios:
+    name: iOS compile check
+    # macOS runners are billed at a premium on private repositories and are free on public ones.
+    # This repository is public, so the check costs nothing but time.
+    runs-on: macos-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          global-json-file: global.json
+
+      - name: Install the MAUI iOS workload
+        run: dotnet workload install maui-ios --skip-sign-check
+
+      # Compile only. There is no Apple signing identity and no distribution in Phase 1; this
+      # exists to catch platform-specific code leaking into shared layers, early, while the app
+      # is small enough that the cause is obvious.
+      - name: Build
+        run: dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-ios -c Release -p:ContinuousIntegrationBuild=true

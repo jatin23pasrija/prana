@@ -58,3 +58,25 @@ THIRD-PARTY SOFTWARE ATTRIBUTION
 
 Third-party packages used by the application and tooling are declared in the
 project files. Their licences are recorded here as dependencies are added.
+
+  Open Sans (Resources/Fonts/OpenSans-Regular.ttf, OpenSans-Semibold.ttf)
+    Licence:  Apache License 2.0
+    Source:   https://fonts.google.com/specimen/Open+Sans
+    Scope:    Bundled in the Android and iOS app for consistent typography
+              across devices.
+
+  CommunityToolkit.Mvvm
+    Licence:  MIT
+    Source:   https://github.com/CommunityToolkit/dotnet
+
+  Microsoft.Data.Sqlite, Microsoft.Extensions.*
+    Licence:  MIT
+    Source:   https://github.com/dotnet
+
+  JsonSchema.Net
+    Licence:  MIT
+    Source:   https://github.com/gregsdennis/json-everything
+
+  xUnit.net
+    Licence:  Apache License 2.0
+    Source:   https://github.com/xunit/xunit

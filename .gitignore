@@ -39,3 +39,7 @@ Thumbs.db
 
 # Local agent instructions, not part of the project
 CLAUDE.md
+
+# MAUI / Android build intermediates
+app/**/obj/
+app/**/bin/
