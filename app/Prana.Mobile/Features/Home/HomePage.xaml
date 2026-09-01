@@ -42,10 +42,38 @@
             </Border>
 
             <Border Style="{StaticResource Card}">
-                <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceS}">
                     <Label Text="Recent scans" Style="{StaticResource Heading}" />
+
                     <Label Text="Nothing scanned yet. Products you look at will appear here."
-                           Style="{StaticResource Muted}" />
+                           Style="{StaticResource Muted}"
+                           IsVisible="{Binding HasRecentScans, Converter={StaticResource Not}}" />
+
+                    <VerticalStackLayout BindableLayout.ItemsSource="{Binding RecentScans}"
+                                         Spacing="{StaticResource SpaceS}"
+                                         IsVisible="{Binding HasRecentScans}">
+                        <BindableLayout.ItemTemplate>
+                            <DataTemplate x:DataType="vm:RecentScan">
+                                <VerticalStackLayout Spacing="0">
+                                    <VerticalStackLayout.GestureRecognizers>
+                                        <TapGestureRecognizer
+                                            Command="{Binding Source={RelativeSource AncestorType={x:Type vm:HomeViewModel}}, Path=OpenRecentCommand}"
+                                            CommandParameter="{Binding .}" />
+                                    </VerticalStackLayout.GestureRecognizers>
+                                    <Label Text="{Binding Label}" />
+                                    <!--
+                                        Misses are shown, not hidden. They are what tells the
+                                        project which products people actually want, and someone
+                                        seeing their own miss listed understands why contributing
+                                        it matters.
+                                    -->
+                                    <Label Text="Not in the catalogue"
+                                           Style="{StaticResource Muted}"
+                                           IsVisible="{Binding Found, Converter={StaticResource Not}}" />
+                                </VerticalStackLayout>
+                            </DataTemplate>
+                        </BindableLayout.ItemTemplate>
+                    </VerticalStackLayout>
                 </VerticalStackLayout>
             </Border>
 

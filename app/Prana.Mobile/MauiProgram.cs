@@ -7,6 +7,7 @@ using Prana.Mobile.Features.Scanner;
 using Prana.Mobile.Features.Search;
 using Prana.Mobile.Features.Settings;
 using Prana.Mobile.Services;
+using ZXing.Net.Maui.Controls;
 
 namespace Prana.Mobile;
 
@@ -18,6 +19,7 @@ public static class MauiProgram
 
         builder
             .UseMauiApp<App>()
+            .UseBarcodeReader()
             .ConfigureFonts(fonts =>
             {
                 fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");

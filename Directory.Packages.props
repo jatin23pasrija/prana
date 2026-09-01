@@ -20,8 +20,14 @@
 
   <ItemGroup Label="App">
     <!-- Must match the installed MAUI workload. dotnet reports it as BundledVersions 10.0.0. -->
-    <PackageVersion Include="Microsoft.Maui.Controls" Version="10.0.0" />
+    <!--
+      Explicitly newer than the version the workload pins. 10.0.0 crashes on every app exit with
+      an ObjectDisposedException from ShellFragmentContainer.OnDestroy, which shows the user an
+      "app keeps stopping" dialog each time they press Back out of the app.
+    -->
+    <PackageVersion Include="Microsoft.Maui.Controls" Version="10.0.100" />
     <PackageVersion Include="CommunityToolkit.Mvvm" Version="8.4.2" />
+    <PackageVersion Include="ZXing.Net.Maui.Controls" Version="0.10.4" />
   </ItemGroup>
 
   <ItemGroup Label="Testing">
