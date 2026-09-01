@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentView xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:zxing="clr-namespace:ZXing.Net.Maui.Controls;assembly=ZXing.Net.MAUI.Controls"
+             x:Class="Prana.Mobile.Features.Scanner.BarcodeScannerView">
+
+    <!--
+        The seam required by ADR-0006. Every camera and decoder detail lives inside this one
+        control, and the rest of the app only ever sees a BarcodeDetected event carrying a string.
+        Adding the Google ML Kit build flavour later means replacing this file, not touching the
+        scan screen, the view model or anything downstream.
+    -->
+
+    <Grid>
+        <zxing:CameraBarcodeReaderView x:Name="Reader"
+                                       BarcodesDetected="OnBarcodesDetected"
+                                       IsDetecting="True" />
+
+        <!--
+            A viewfinder frame. It has no effect on decoding, which reads the whole frame, but it
+            tells someone where to aim, and aiming is most of the difference between a scan that
+            works first time and one that does not.
+        -->
+        <Border InputTransparent="True"
+                Stroke="#F2FFFFFF"
+                StrokeThickness="3"
+                StrokeShape="RoundRectangle 16"
+                BackgroundColor="Transparent"
+                HeightRequest="180"
+                WidthRequest="300"
+                HorizontalOptions="Center"
+                VerticalOptions="Center" />
+    </Grid>
+
+</ContentView>
