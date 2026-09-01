@@ -75,7 +75,7 @@ public sealed class ImportIdempotencyTests : IDisposable
             Adapter = new OffJsonlAdapter(() => new MemoryStream(bytes), retrievedAt),
         });
 
-        return await run.ExecuteAsync(TextWriter.Null, CancellationToken.None);
+        return await run.ExecuteAsync(TextWriter.Null, TestContext.Current.CancellationToken);
     }
 
     private string RecordPath => Path.Combine(
@@ -86,12 +86,12 @@ public sealed class ImportIdempotencyTests : IDisposable
     {
         await ImportAsync(OneLine(OneProduct), new DateOnly(2026, 8, 27));
 
-        var before = await File.ReadAllTextAsync(RecordPath);
+        var before = await File.ReadAllTextAsync(RecordPath, TestContext.Current.CancellationToken);
 
         // The same product, seen five days later. Nothing about it changed.
         var second = await ImportAsync(OneLine(OneProduct), new DateOnly(2026, 9, 1));
 
-        var after = await File.ReadAllTextAsync(RecordPath);
+        var after = await File.ReadAllTextAsync(RecordPath, TestContext.Current.CancellationToken);
 
         Assert.Equal(before, after);
         Assert.Equal(0, second.Written);
@@ -105,7 +105,8 @@ public sealed class ImportIdempotencyTests : IDisposable
         await ImportAsync(OneLine(OneProduct), new DateOnly(2026, 9, 1));
         await ImportAsync(OneLine(OneProduct), new DateOnly(2026, 12, 25));
 
-        var record = PranaJson.Deserialize<ProductRecord>(await File.ReadAllTextAsync(RecordPath));
+        var record = PranaJson.Deserialize<ProductRecord>(
+            await File.ReadAllTextAsync(RecordPath, TestContext.Current.CancellationToken));
 
         // Three imports over four months. The date has to stay at the first one, or the staleness
         // thresholds in DATA_POLICY.md can never fire and nothing is ever flagged for re-checking.
@@ -123,7 +124,8 @@ public sealed class ImportIdempotencyTests : IDisposable
 
         var second = await ImportAsync(changed, new DateOnly(2026, 9, 1));
 
-        var record = PranaJson.Deserialize<ProductRecord>(await File.ReadAllTextAsync(RecordPath));
+        var record = PranaJson.Deserialize<ProductRecord>(
+            await File.ReadAllTextAsync(RecordPath, TestContext.Current.CancellationToken));
 
         Assert.Equal(1, second.Written);
         Assert.Equal(0, second.Unchanged);
@@ -152,12 +154,12 @@ public sealed class ImportIdempotencyTests : IDisposable
         await ImportAsync(OneLine(OneProduct), new DateOnly(2026, 8, 27));
 
         var brandPath = Path.Combine(_root, "data", "brands", "parle.json");
-        var before = await File.ReadAllTextAsync(brandPath);
+        var before = await File.ReadAllTextAsync(brandPath, TestContext.Current.CancellationToken);
 
         await ImportAsync(OneLine(OneProduct), new DateOnly(2026, 9, 1));
 
         // Five thousand brands rewritten to move one line each is the same problem in miniature.
-        Assert.Equal(before, await File.ReadAllTextAsync(brandPath));
+        Assert.Equal(before, await File.ReadAllTextAsync(brandPath, TestContext.Current.CancellationToken));
     }
 
     public void Dispose()
