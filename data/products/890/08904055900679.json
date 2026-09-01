@@ -14,29 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 205.5,
-        "protein_g": 10.5,
-        "carbohydrate_g": 5.17,
-        "sugars_g": 0,
-        "fat_g": 14.9,
-        "saturated_fat_g": 8.63,
-        "trans_fat_g": 0,
-        "fibre_g": 0,
-        "sodium_mg": 349
-      }
-    }
-  ],
-  "ingredients_raw": "Boneless Chicken Meat (71%), Water, Seasoning [Sequestrant (INS 451), Beet Juice Powder, Starch, Art Oxidant (INS 316,4 Dextrose, Sakes & Condiments), todised Salt, Wheat fiber, Soy Protein, Colour Fixative (INS 250).",
+  "ingredients_raw": "Boneless Chicken Meat (71%), Water, Seasoning [Sequestrant (INS 451), Beet Juice Powder, Starch, Artificial Oxidant (INS 316,4 Dextrose, Sakes & Condiments), todised Salt, Wheat fiber, Soy Protein, Colour Fixative (INS 250).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904055900679",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -53,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -64,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

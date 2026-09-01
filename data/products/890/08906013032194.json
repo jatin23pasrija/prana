@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906013032194",
+  "barcode_printed": "8906013032194",
+  "barcode_format": "EAN-13",
+  "name": "Wai Wai Ready to eat noodles",
+  "brand": "wai-wai",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 420,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm lodized Salt, Flavour Enhancers (INS 621, INS 627, INS 631), Wheat Gluten, Soy Sauce [Caramel (INS 150d)], Chilli Sauce, Tomato Sauce, Acidity Regulators [INS 170(i), INS 330. INS 451 (i), INS 500 (ii)], Onion, Thickener (INS 412) and Black Pepper. Seasoning: lodized Salt, Flavor Enhancers (INS 621, INS 627, INS 631), Sugar, Maltodextrin (INS 1400), Garlic, Garam Masala, Black Salt, Coriander, Chilli, Turmeric, Black Pepper, Cumin, Acidity Regulators (INS 296, INS 330), Ginger, Hydrolyzed Vegetable Protein (Soy), Fennel Seed, Clove, Onion, Cinnamon, Starch, Nutmeg, Fenugreek, Bay Leaf, Cardamom, Natural and Nature Identical and Artificial Flavouring Substances (Sweet), Anticaking Agent (INS 551), Paprika Extract (INS 160c), Tomato Powder, Capsicum Extract, Caramel (INS 150c, INS 150d), Emulsifying & Stabilizing Agents (INS 433, INS 471), Preservative (INS 220) and Anti oxidant (INS 307). Onion Flavoured Oil: Edible Vegetable oil (Palm Olein) and Onion. Chilli Powder (in a Separate Sachet). Contains Natural and Nature Identical Flavouring, Artificial Flavouring Substances (Sweet) and Permitted Natural Colours (INS 150c, INS 150d, INS 160c). Allergen Declaration: Contains Gluten and Soy. May Contain Milk, Mustard and Sesame. This package of Wai Wai noodles contains added MONOSODIUM GLUTAMATE (NOT RECOMMENDED FOR INFANTS BELOW 12 MONTHS AND PREGNANT WOMEN)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906013032194",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

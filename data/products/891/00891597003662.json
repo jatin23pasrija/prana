@@ -4,6 +4,7 @@
   "barcode_printed": "0891597003662",
   "barcode_format": "EAN-13",
   "name": "Protein Powder",
+  "brand": "musclemeds",
   "countries": [
     "IN"
   ],
@@ -12,7 +13,7 @@
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0891597003662",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +21,14 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

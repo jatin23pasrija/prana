@@ -5,6 +5,7 @@
   "barcode_format": "EAN-13",
   "name": "Extra Long Traditional Basmati Rice",
   "brand": "bappo",
+  "category": "rice",
   "countries": [
     "IN"
   ],
@@ -14,26 +15,12 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 364,
-        "protein_g": 9,
-        "carbohydrate_g": 78,
-        "sugars_g": 0.1,
-        "fat_g": 1,
-        "saturated_fat_g": 0.3,
-        "sodium_mg": 8
-      }
-    }
-  ],
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908000668010",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -46,17 +33,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "package": {
+    "category": {
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906176791228",
+  "barcode_printed": "8906176791228",
+  "barcode_format": "EAN-13",
+  "name": "Brown Bread",
+  "brand": "pista-house",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Wheat Flour (Atta) Sugar, Edible Veg Fat, lodised Salt, Refined Sunflower Oil, Malted Roasted Wheat Flour (Neropan), Gluten, Raising Agent (INS-500ii), Preservative (INS-282).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906176791228",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

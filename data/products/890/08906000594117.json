@@ -5,6 +5,7 @@
   "barcode_format": "EAN-13",
   "name": "basmatiris",
   "brand": "maharani",
+  "category": "rice",
   "countries": [
     "IN"
   ],
@@ -19,7 +20,7 @@
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906000594117",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -32,6 +33,10 @@
       "source": "s1",
       "confidence": "medium"
     },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
     "package": {
       "source": "s1",
       "confidence": "medium"
@@ -39,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

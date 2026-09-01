@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906036677907",
+  "barcode_printed": "8906036677907",
+  "barcode_format": "EAN-13",
+  "name": "Butterscotch ice cream",
+  "brand": "nandini",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "(51%): Milk Solids, sugar, musi zer (INS 407, 412, 415, 465), Arial (Butterscotch), Synthetic Food Colour (INS 162) iscuit (25%): Refined wheat flour, sugar, coconut oil, Soya lecithin, Emulsifer (INS 322): & Spray (24%): Cocoa Solids, Sugar, Hydrogenated Che Fat, Milk Solids, Cocoa Butter, coconut oil, salt nut pieces, soya Lecithin, Emulsifiers (NS 1220), Artificial Flavour ( (Vanilla)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906036677907",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

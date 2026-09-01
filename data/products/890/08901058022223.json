@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058022223",
+  "barcode_printed": "8901058022223",
+  "barcode_format": "EAN-13",
+  "name": "Veg Atta Noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Noodles: Wheat flour (Atta) (86.2%), Palm oil, lodized salt, Wheat gluten, Thickeners (508 & 412), Humectants (451(i) & 452(ii)) and Acidity regulators (501(i) & 500 (i)). Tastemaker: *Masala TASTEMAKER®: Mixed Spices (19.5%) (Onion powder, Coriander powder, Red chilli powder, Turmeric powder, Garlic powder, Cumin powder, Aniseed powder, Ginger powder, Fenugreek powder, Black pepper powder, Clove powder, Green cardamom powder, Nutmeg powder), Hydrolyzed groundnut protein, Wheat flour (Atta), Dehydrated vegetables (13.6%) (Carrot bits (7.3%), Green peas (6.3%)), Toasted onion powder (Onion (10.1%), Corn oil), Sugar, Starch, Palm oil, lodized salt, Thickener (508), Acidity regulator (330), Flavour enhancer (635), Toasted onion flakes (Onion (0.3%), Corn oil), Colour (150d), Wheat gluten and Mineral.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058022223",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

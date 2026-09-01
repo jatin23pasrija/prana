@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906023418391",
+  "barcode_printed": "8906023418391",
+  "barcode_format": "EAN-13",
+  "name": "Black Forest Ice Cream Cake",
+  "brand": "cream-bell",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Ice Cream Ingredients (43%): Potable Water, Milk Solids, Sugar, Maltodextrin, Emulsifying Agents (INS 433, 471) & Stabilizing Agents (INS 401, 407, 412) and Flavour (Nature-Identical & Artificial Flavouring Substances (Vanilla)} Veg. Cake Ingredients (41%): Refined Wheat Flour (Maida), Sugar, Milk Solids, Cocoa Solids, Edible Vegetable Oil (Refined Palm Kernel Oil), Raising Agents [INS 500(ii), 341(i), 341(ii)], Baking Powder, Emulsifiers & Stabilizers (INS 477, 415, 471), Iodized Salt, Food Colours (INS 150c, 150d) and Flavour {Nature-Identical & Artificial Flavouring Substances (Chocolate)}, Chocolate Sauce (8%) {Potable Water, Sugar, Cocoa Solids, Stabilizing Agents (INS 407, 412, 466), Food Colour (INS 150d) and Flavour (Nature-Identical & Artificial Flavouring Substances (Chocolate)} Topping (16%): Choco Covering (8%) [Cocoa Solids, Sugar, Emulsifier (INS 476) and Flavour {Nature-Identical & Artificial Flavouring Substances (Vanillin)}], Whipped Cream (8%) [Potable Water, Sugar, Edible Fat (Hydrogenated Oil), Cocoa Solids, Sodium Caseinate, Emulsifiers (INS 475, 433, 435), Stabilizers (INS 464, 415), Salt, Acidity Regulator {INS 339 (ii)) and Flavour {Nature-Identical & Artificial Flavouring Substances (Vanilla, Chocolate)}]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906023418391",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

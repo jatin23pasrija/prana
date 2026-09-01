@@ -9,26 +9,19 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 246,
-        "protein_g": 4.4,
-        "carbohydrate_g": 27.6,
-        "sugars_g": 24.5,
-        "fat_g": 13.5,
-        "saturated_fat_g": 8.4,
-        "sodium_mg": 46
-      }
+  "package": {
+    "quantity": {
+      "value": 540,
+      "unit": "g"
     }
-  ],
+  },
+  "ingredients_raw": "Milk solids, sugar, milk chocolate chips (4%), milk compound chocolate chips (4%), cocoa solids, emulsifier (471), stabilizers (407, 466, 415, 412).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901262172493",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -45,13 +38,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019517019",
+  "barcode_printed": "8908019517019",
+  "barcode_format": "EAN-13",
+  "name": "Super Strong instant coffee",
+  "brand": "vs-mani-co",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "It's 6 AM on a balmy day. Paati is busy making VS Thatha his first frothy cup of coffee. While he savours it to the accompaniment of the newspaper, she prepares a tall flask for the entire household. Her strong and coffee-chicory blend is perfect flavorful, with no bitter aftertaste. Our mornings are punctuated by frequent doses from this beloved coffee flask. Thatha, especially, keeps coming back to it compulsively - we all loved Paati's coffee, but none more than Thatha! Now, we bring you our homebrew in an instant coffee format. Simply add this powder and sugar to a cup of hot milk, and experience the rich flavours of the fee we grew up relishing. love, he VS Mani Family. CONTENTS: Coffee-Chicory mixture made from a blend of Coffee and Chicory. Coffee 70% Chicory 30%. DIRECTIONS FOR USE: Add 1 teaspoon of this Instant Coffee powder to a cur Now, pour 100 ML of hot milk to this cup. Add sugar if you pre and stir until you achieve an even brown colour AUTRITIONAL INFORMATION (PER 100G) PER SERVE: 5G Nutrients Savour the flavour of our Super Strong Instant Coffee Per 100g Per 5g %RDA^/ per serve Energy (kcal) 362 18.1 0.91% Protein (g) 14.36 0.72 0.22% Carbohydrates (g) 76.12 3.81 Total Fat (g) 0 0 0% APPROXIMATE % of an average Adult's Recommended Dietary Allowance (",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019517019",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

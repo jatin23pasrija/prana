@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "06971606793525",
+  "barcode_printed": "6971606793525",
+  "barcode_format": "EAN-13",
+  "name": "Crispy roll salted egg yolk floved sandwich",
+  "brand": "americano",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cocoa Butter Substitute Chocolate Hydrogenated (Vegetable Oil)35.2%, Palm Oil 3%, Wheat Flour 12, White Granulated Sugar 20%, Egg 0.08% Can Starch 0.03%, Non Dairy Creamer 20%, Maltodextrin 9%, iodized Salt, 0.5% Sodium Bicarbonate 0.03% Phospholipids 0.02%, Beta Carotene 0.4%, Vanillin 0.05%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6971606793525",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

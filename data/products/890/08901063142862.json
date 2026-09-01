@@ -5,15 +5,17 @@
   "barcode_format": "EAN-13",
   "name": "Nutri Choice Biscuits",
   "brand": "britannia",
+  "category": "biscuits",
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Cell, WHEAT FLOUR (ATTA) (61%), REFINED PALM OIL, SWEETENERS [965(i) & (ii) AND 955], WHEAT BRAN (5.4%), RAISING AGENTS [503(ii) & 500(ii)], MALTODEXTRIN, MILK B SOLIDS, IODISED SALT, EMULSIFIERS [322(i), 471 & 472e], MALT EXTRACT, NATURE IDENTICAL & ARTIFICIAL (MILK) FLAVOURING SUBSTANCES, ANTIOXIDANT (307c), DOUGH CONDITIONER (223) AND SPICE. (Numbers in brackets as per International Numbering System) CONTAINS WHEAT, MILK, SOY, BARLEY AND SULPHITE M ons ONV",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063142862",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +27,18 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

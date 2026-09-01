@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906076133197",
+  "barcode_printed": "8906076133197",
+  "barcode_format": "EAN-13",
+  "name": "Zero Maida Love Cake",
+  "brand": "the-baker-s-dozen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta), Unrefined Cane Sugar, Sunflower Oil, Vegetable Fat (Coconut), Glycerine, Cultured Flour, Milk Solids, Liquid Glucose, Baking Powder, Maize Starch, Dextrose, Emulsifiers & Stabilizers (INS460(i), INS470(i), INS471, INS473, INS475, INS477, INS481), Salt, Raising Agents (INS341(i), INS450(i), INS500(i), INS500(ii)), Humectant (INS1520), Thickener (INS415, INS466, INS1442), Cocoa Solids, Acidity Regulator (INS334, INS525), Enzyme (1101(i)), Firming Agent (INS509), Preservatives (INS200, INS202 & INS282). CONTAINS ADDED NATURE IDENTICAL (CHOCOLATE) & ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906076133197",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

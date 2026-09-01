@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908006330447",
+  "barcode_printed": "8908006330447",
+  "barcode_format": "EAN-13",
+  "name": "Truffles",
+  "brand": "choco-royale",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "DARK COMPOUND: (65% (Sugar, Hydrogenated edible vegetable oil, Cocoa solids and Emulsifying Agents (E322, E476))] FILLING [35%] Sugar, Hydrogenated Palm Kernel Oil, Liquid Glucose, Palm Kernel Oil, White Compound (Sugar, Milk solids, Hydrogenated vegetable oil and Aptioxidant, (E492, E322)), Lactose, Water, Invert Syrup (Sugar Water, Citric Acid, Sodium Bi - Carbonate (E500)), Cocoa Powder, Milk Solids, Dextrose, Maize Starch, Soya Lecithin(E322), Glyceryl Mono Stearate (E471), Salt, Sodium Bi - Carbonate(E500), Vanillin, Potassium Sorbate(E202) and-Added Flavour (Hazelnut). CONTAINS ADDED NATURE IDENTICAL FLAVOURING SUBSTANCES, VANILLIN & HAZELNUT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908006330447",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

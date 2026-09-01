@@ -1,7 +1,7 @@
 {
   "source": "openfoodfacts",
   "url": "https://static.openfoodfacts.org/data/openfoodfacts-products.jsonl.gz",
-  "retrieved_at": "2026-08-27",
+  "retrieved_at": "2026-09-01",
   "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)",
   "attribution": "Data from Open Food Facts (https://world.openfoodfacts.org), made available under the Open Database License (ODbL) v1.0.",
   "note": "JSONL export. Filtered to products sold in India or carrying a GS1 India barcode. Streamed from the network, so the export was never on disk to checksum."

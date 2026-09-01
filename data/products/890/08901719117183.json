@@ -15,26 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 470,
-        "protein_g": 5.9,
-        "carbohydrate_g": 73.4,
-        "sugars_g": 32.5,
-        "fat_g": 18.6,
-        "saturated_fat_g": 9.4,
-        "sodium_mg": 114
-      }
-    }
-  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, CHOCO CHIPS (17.3%) [SUGAR, EDIBLE VEGETABLE FAT (HYDROGENATED OILS), COCOA SOLIDS DEXTROSE, EMULSIFIER (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA), REFINED PALM OIL, CHOCOLATE (5.8%) [SUGAR, COCOA SOLIDS COCOA BUTTER, DEXTROSE, EMULSIFIER (SOY LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES - (VANILLA)], INVERT SUGAR SYRUP, RAISING AGENTS [503(ii), 500(ii)], COCOA SOLIDS, IODISED SALT, ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES AND EMULSIFIER OF VEGETABLE ORIGIN [472e]. CONTAINS: WHEAT, SOY",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901719117183",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -55,13 +42,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906127551710",
+  "barcode_printed": "8906127551710",
+  "barcode_format": "EAN-13",
+  "name": "High Protein Muesli Cold Coffee",
+  "brand": "alpino",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "MULTIGRAIN FLAKES (52%) (WHEAT, RICE, CORN, OATS), SOYA PROTEIN BLEND(23%) [TEXTURISED SOYA PROTEIN, SOYA CRISPS], JAGGERY POWDER, PEANUT BUTTER(PEANUTS), DRY FRUIT & SEED MIX (75) RAISINS, SUNFLOWER SEEDS, COFFEE POWDER(5%), COCOA POWDER, FLAVOURING SUBSTANCE (NATURE DENTICAL-COFFEE) ANTIOXIDANT (ROSEMARY EXTRACT)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906127551710",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

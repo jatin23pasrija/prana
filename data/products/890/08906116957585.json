@@ -3,25 +3,10 @@
   "gtin": "08906116957585",
   "barcode_printed": "8906116957585",
   "barcode_format": "EAN-13",
-  "name": "Protein",
+  "name": "Oats",
   "brand": "muscle-blaze",
   "countries": [
     "IN"
-  ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 377.61,
-        "protein_g": 22,
-        "carbohydrate_g": 60,
-        "sugars_g": 13.9,
-        "fat_g": 8.29,
-        "saturated_fat_g": 3.53,
-        "fibre_g": 12.5,
-        "sodium_mg": 69
-      }
-    }
   ],
   "ingredients_raw": "Instant Oats (47.9%), Texturized Soy Protein (22%), Fruit & Seeds (13.5%) (Raisins, Chia Seeds & Pumpkin Seeds), Raw Sugar, Cocoa Solids, Natural & Nature Identical Flavouring Substance and Pink Salt.",
   "sources": [
@@ -29,7 +14,7 @@
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906116957585",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -42,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -53,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

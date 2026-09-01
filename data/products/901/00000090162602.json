@@ -15,13 +15,13 @@
       "unit": "ml"
     }
   },
-  "ingredients_raw": "Carbonated Water, Sugar, Glucose, Citric Acid, Taurine, Natural flavors, Artificial Flavors, Sodium Bicarbonate, Magnesium Carbonate, Artificial Colors, Caffeine, Niacinamide, Pyridoxine Hci, Calcium Pantothenate, Vitamin B12.",
+  "ingredients_raw": "Water, Sucrose, Glucose, Acidifier (Citric Acid), Carbon Dioxide, Taurine (0.4%), Acidity Regulators (Sodium Bicarbonate, Magnesium Carbonate), Flavourings, Colours (Caramel, Riboflavin), Caffeine (0.03%), Vitamins (Niacin, Pantothenic Acid, B6, B12).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/90162602",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -49,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

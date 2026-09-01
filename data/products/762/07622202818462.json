@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202818462",
+  "barcode_printed": "7622202818462",
+  "barcode_format": "EAN-13",
+  "name": "5 Star Softer Bar",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35.2,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Liquid Glucose, Milk Solids, Invert Sugar, Hydrogenated Oil, Cocoa Solids, Cocoa Butter, Fractionated Fat, Emulsifiers (442, 471, 476), Hydrolyzed Vegetable Protein, lodised Salt, Flavours (Natural, Nature Identical and Artificial (Milk, Caramel and Vanilla) Flavouring Substances). Allergen Information: Contains Milk, Soy, Sulphites. May Contain Peanut, Wheat, Barley and Tree Nut",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202818462",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}
