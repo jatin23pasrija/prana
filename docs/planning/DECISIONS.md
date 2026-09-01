@@ -498,3 +498,40 @@ app that installs any file it is handed. If F06 is still deferred when F11 begin
 the start, so that turning it on is supplying a real key rather than writing new code under
 deadline. The keypair should be generated before M3 begins.
 
+
+### ADR-0032 - A re-import that finds nothing new writes nothing
+
+**Context.** The importer stamped the retrieval date on every record it mapped, then wrote every
+record it mapped. Those two facts together meant no record could ever compare equal to itself on
+a later run. The first monthly re-import found 127 genuinely new products and opened a pull
+request of 31,749 files, 64,086 additions and 58,646 deletions. The repository's `.git` grew from
+15 MB to 35 MB in one commit.
+
+The diff was the visible symptom. The damage was `last_verified`. DATA_POLICY.md uses it to
+decide when a record is stale and needs re-checking, and the importer was resetting it on every
+run, for every record, whether or not anything about the product had changed. A product last
+edited upstream in 2019 would have reported itself freshly verified every month, forever. The
+staleness thresholds could never have fired.
+
+**Decision.** Writing is conditional on the record's substance changing. Before writing, the
+importer reads what is already on disk and compares the two with every retrieval and verification
+date blanked. If they match, the file is left exactly as it is, keeping its original dates. The
+same rule applies to brand records.
+
+A record that genuinely changed is written and does take the new date, because for that record
+the date is true.
+
+**Consequence.** `last_verified` now means what the policy says it means: when this record's
+content was last confirmed against a source. It no longer means when a bot last looked at the
+file. A monthly import produces a diff a person can read, and the repository grows with the data
+rather than with the number of times it has been imported.
+
+**Enforcement.** Comparing the counts is the check. The importer reports how many records it
+wrote, and the workflow fails if far more files changed than that, because the gap can only mean
+records are being rewritten that should have been left alone. Five tests in
+`ImportIdempotencyTests` cover the property directly, including that a real change still is
+written and still is re-dated; four of the five fail against the old behaviour.
+
+**What this does not do.** Records already carrying the bumped date keep it. Correcting them
+would mean another commit touching every record, which is the exact harm this decision exists to
+prevent, to fix a five-day skew that changes no threshold.

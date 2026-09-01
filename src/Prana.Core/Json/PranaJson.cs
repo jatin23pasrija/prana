@@ -75,6 +75,12 @@ public static class PranaJson
         return options;
     }
 
+    /// <summary>
+    /// Serialises without indentation, for comparing two records rather than storing one.
+    /// </summary>
+    public static string CompactSerialize<T>(T value) =>
+        JsonSerializer.Serialize(value, CompactOptions);
+
     /// <summary>Reads a record from JSON text.</summary>
     public static T Deserialize<T>(string json) =>
         JsonSerializer.Deserialize<T>(json, Options)

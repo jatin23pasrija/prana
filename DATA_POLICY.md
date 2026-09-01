@@ -66,6 +66,11 @@ Formulations and package sizes change. Every record carries a verification date.
 
 These are operational prompts to re-check, not statements that a record is wrong.
 
+The date moves only when a record's content changes. An import that re-reads a source and finds
+the product unchanged leaves both the record and its date alone. This matters: if every import
+refreshed the date, nothing would ever cross the six-month line, and a product last edited
+upstream years ago would report itself current forever. See ADR-0032.
+
 ## 6. Corrections
 
 Anyone can correct anything.
