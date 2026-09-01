@@ -476,3 +476,25 @@ The install-time behaviour differs per flavour, so F08 must handle a bundled cat
 absent, small, or already complete, and F11 must not re-download a catalogue the flavour already
 carries. Recorded here because the cost lands on features that have not started yet.
 
+---
+
+### ADR-0031 - F06 deferred, and what that must not be allowed to mean
+
+**Decision.** The signed release pipeline is postponed. The signing keypair has to be generated
+and stored by a person, and that has not happened. Work continues with F07.
+
+**What this does not block.** F07 through F10 need nothing from F06. The original dependency was
+ordering, not necessity, so it has been rewired: F07 now depends on F05.
+
+**What this does block, hard.** F11 installs downloaded catalogues, and ADR-0011 says an
+unsigned or badly signed package is never activated. F11 therefore cannot be completed while F06
+is deferred, and its Definition of Done now says so explicitly.
+
+The failure mode worth naming: F11 arrives, the key still does not exist, and verification gets
+stubbed out to let the feature land, with a comment promising to enable it later. That ships an
+app that installs any file it is handed. If F06 is still deferred when F11 begins, F11 waits.
+
+**Consequence.** F07 must embed a public key placeholder and build the verification path from
+the start, so that turning it on is supplying a real key rather than writing new code under
+deadline. The keypair should be generated before M3 begins.
+

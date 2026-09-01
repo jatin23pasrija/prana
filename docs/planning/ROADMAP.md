@@ -24,7 +24,7 @@ with no application server and no hosted database anywhere in the loop.
 | Milestone | Name | Features | Exit condition |
 |---|---|---|---|
 | M0 | Foundation | F01, F02, F03 | Repo, licences, schema and validator exist. CI rejects invalid data. |
-| M1 | Data spine | F04, F05, F06 | A signed catalogue release is downloadable from GitHub Releases. |
+| M1 | Data spine | F04, F05, ~~F06~~ | Catalogue builds reproducibly. F06 deferred, waiting on key generation (ADR-0031). |
 | M2 | Offline app | F07, F08, F09, F10 | Scan a barcode on a real phone in aeroplane mode and see the product. |
 | M3 | Sync | F11 | App upgrades its catalogue in the background and survives every failure drill. |
 | M4 | Discovery and contribution | F12, F13, F14 | Unknown product goes from scan to merged PR without a maintainer typing anything. |
