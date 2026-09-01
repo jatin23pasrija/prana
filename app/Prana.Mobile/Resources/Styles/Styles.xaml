@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ResourceDictionary xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml">
+
+    <!--
+        Typography, spacing and the base control styles.
+
+        Font sizes are plain numbers rather than named device sizes so the scale is visible and
+        consistent. FontAutoScalingEnabled is left on everywhere, which is the default: a user who
+        has set a large system font must get a large font here, and every layout below uses
+        wrapping and star sizing rather than fixed heights so that it survives when they do.
+    -->
+
+    <!-- Spacing scale. Multiples of 4, so alignment happens by construction. -->
+    <x:Double x:Key="SpaceXS">4</x:Double>
+    <x:Double x:Key="SpaceS">8</x:Double>
+    <x:Double x:Key="SpaceM">16</x:Double>
+    <x:Double x:Key="SpaceL">24</x:Double>
+    <x:Double x:Key="SpaceXL">32</x:Double>
+
+    <!-- Type scale -->
+    <x:Double x:Key="FontDisplay">32</x:Double>
+    <x:Double x:Key="FontTitle">24</x:Double>
+    <x:Double x:Key="FontHeading">19</x:Double>
+    <x:Double x:Key="FontBody">16</x:Double>
+    <x:Double x:Key="FontCaption">13</x:Double>
+
+    <x:Double x:Key="CornerRadius">12</x:Double>
+
+    <!--
+        Ready-made Thickness values. A markup extension cannot be embedded inside a comma
+        separated attribute, so Margin="0,{StaticResource SpaceM},0,0" does not compile: XamlC
+        rejects it with XC0040. Whole Thickness resources are the way to keep the scale in one
+        place, so the numbers below stay in step with the spacing scale above.
+    -->
+    <Thickness x:Key="GapTopS">0,8,0,0</Thickness>
+    <Thickness x:Key="GapTopM">0,16,0,0</Thickness>
+    <Thickness x:Key="GapTopL">0,24,0,0</Thickness>
+
+    <!-- pages -->
+
+    <Style TargetType="Page" ApplyToDerivedTypes="True">
+        <Setter Property="Padding" Value="0" />
+        <Setter Property="BackgroundColor"
+                Value="{AppThemeBinding Light={StaticResource BackgroundLight}, Dark={StaticResource BackgroundDark}}" />
+    </Style>
+
+    <Style TargetType="Shell" ApplyToDerivedTypes="True">
+        <Setter Property="Shell.BackgroundColor"
+                Value="{AppThemeBinding Light={StaticResource BackgroundLight}, Dark={StaticResource BackgroundDark}}" />
+        <Setter Property="Shell.ForegroundColor"
+                Value="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}" />
+        <Setter Property="Shell.TitleColor"
+                Value="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}" />
+        <Setter Property="Shell.TabBarBackgroundColor"
+                Value="{AppThemeBinding Light={StaticResource SurfaceLight}, Dark={StaticResource SurfaceDark}}" />
+        <Setter Property="Shell.TabBarTitleColor"
+                Value="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource PrimaryDark}}" />
+        <Setter Property="Shell.TabBarUnselectedColor"
+                Value="{AppThemeBinding Light={StaticResource TextMutedLight}, Dark={StaticResource TextMutedDark}}" />
+    </Style>
+
+    <!-- text -->
+
+    <Style TargetType="Label">
+        <Setter Property="FontFamily" Value="OpenSansRegular" />
+        <Setter Property="FontSize" Value="{StaticResource FontBody}" />
+        <Setter Property="TextColor"
+                Value="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}" />
+        <Setter Property="LineHeight" Value="1.35" />
+    </Style>
+
+    <Style x:Key="Display" TargetType="Label">
+        <Setter Property="FontFamily" Value="OpenSansSemibold" />
+        <Setter Property="FontSize" Value="{StaticResource FontDisplay}" />
+    </Style>
+
+    <Style x:Key="Title" TargetType="Label">
+        <Setter Property="FontFamily" Value="OpenSansSemibold" />
+        <Setter Property="FontSize" Value="{StaticResource FontTitle}" />
+    </Style>
+
+    <Style x:Key="Heading" TargetType="Label">
+        <Setter Property="FontFamily" Value="OpenSansSemibold" />
+        <Setter Property="FontSize" Value="{StaticResource FontHeading}" />
+    </Style>
+
+    <Style x:Key="Muted" TargetType="Label">
+        <Setter Property="FontSize" Value="{StaticResource FontCaption}" />
+        <Setter Property="TextColor"
+                Value="{AppThemeBinding Light={StaticResource TextMutedLight}, Dark={StaticResource TextMutedDark}}" />
+    </Style>
+
+    <!-- surfaces -->
+
+    <Style x:Key="Card" TargetType="Border">
+        <Setter Property="BackgroundColor"
+                Value="{AppThemeBinding Light={StaticResource SurfaceLight}, Dark={StaticResource SurfaceDark}}" />
+        <Setter Property="Stroke"
+                Value="{AppThemeBinding Light={StaticResource BorderLight}, Dark={StaticResource BorderDark}}" />
+        <Setter Property="StrokeThickness" Value="1" />
+        <Setter Property="Padding" Value="{StaticResource SpaceM}" />
+        <Setter Property="StrokeShape" Value="RoundRectangle 12" />
+    </Style>
+
+    <!-- buttons -->
+
+    <Style TargetType="Button">
+        <Setter Property="FontFamily" Value="OpenSansSemibold" />
+        <Setter Property="FontSize" Value="{StaticResource FontBody}" />
+        <Setter Property="TextColor" Value="#FFFFFF" />
+        <Setter Property="BackgroundColor"
+                Value="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource PrimaryDark}}" />
+        <Setter Property="CornerRadius" Value="12" />
+        <Setter Property="Padding" Value="{StaticResource SpaceM}" />
+        <!-- Comfortably above the 48dp minimum touch target, which matters with gloves, in a shop. -->
+        <Setter Property="MinimumHeightRequest" Value="52" />
+        <Setter Property="VisualStateManager.VisualStateGroups">
+            <VisualStateGroupList>
+                <VisualStateGroup x:Name="CommonStates">
+                    <VisualState x:Name="Normal" />
+                    <VisualState x:Name="Disabled">
+                        <VisualState.Setters>
+                            <Setter Property="Opacity" Value="0.4" />
+                        </VisualState.Setters>
+                    </VisualState>
+                </VisualStateGroup>
+            </VisualStateGroupList>
+        </Setter>
+    </Style>
+
+    <Style x:Key="SecondaryButton" TargetType="Button">
+        <Setter Property="FontFamily" Value="OpenSansSemibold" />
+        <Setter Property="FontSize" Value="{StaticResource FontBody}" />
+        <Setter Property="TextColor"
+                Value="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource PrimaryDark}}" />
+        <Setter Property="BackgroundColor"
+                Value="{AppThemeBinding Light={StaticResource PrimaryMuted}, Dark={StaticResource PrimaryMutedDark}}" />
+        <Setter Property="CornerRadius" Value="12" />
+        <Setter Property="Padding" Value="{StaticResource SpaceM}" />
+        <Setter Property="MinimumHeightRequest" Value="52" />
+    </Style>
+
+    <!-- input -->
+
+    <Style TargetType="SearchBar">
+        <Setter Property="FontFamily" Value="OpenSansRegular" />
+        <Setter Property="FontSize" Value="{StaticResource FontBody}" />
+        <Setter Property="TextColor"
+                Value="{AppThemeBinding Light={StaticResource TextLight}, Dark={StaticResource TextDark}}" />
+        <Setter Property="PlaceholderColor"
+                Value="{AppThemeBinding Light={StaticResource TextMutedLight}, Dark={StaticResource TextMutedDark}}" />
+        <Setter Property="CancelButtonColor"
+                Value="{AppThemeBinding Light={StaticResource TextMutedLight}, Dark={StaticResource TextMutedDark}}" />
+    </Style>
+
+    <Style TargetType="ActivityIndicator">
+        <Setter Property="Color"
+                Value="{AppThemeBinding Light={StaticResource Primary}, Dark={StaticResource PrimaryDark}}" />
+    </Style>
+
+</ResourceDictionary>

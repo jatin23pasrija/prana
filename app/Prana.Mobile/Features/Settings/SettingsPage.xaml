@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Prana.Mobile.Features.Settings"
+             x:Class="Prana.Mobile.Features.Settings.SettingsPage"
+             x:DataType="vm:SettingsViewModel"
+             Title="Settings">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="{StaticResource SpaceM}" Spacing="{StaticResource SpaceM}">
+
+            <Label Text="About Prana" Style="{StaticResource Title}" />
+
+            <Border Style="{StaticResource Card}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
+                    <Label Text="Version" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding AppVersion}" />
+                    <Label Text="{Binding CatalogueVersion}" Style="{StaticResource Muted}" />
+                </VerticalStackLayout>
+            </Border>
+
+            <!--
+                Attribution is not optional. Open Food Facts is ODbL, which is share-alike and
+                requires credit, and DATA_SOURCES.md commits us to showing it in the app rather
+                than only in a file on GitHub. It is on this screen from the first build so it
+                cannot be forgotten in the rush to release.
+            -->
+            <Border Style="{StaticResource Card}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceS}">
+                    <Label Text="Where the data comes from" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding DataAttribution}" />
+                    <Label Text="{Binding DataLicence}" Style="{StaticResource Muted}" />
+                </VerticalStackLayout>
+            </Border>
+
+            <Border Style="{StaticResource Card}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceS}">
+                    <Label Text="What this app does not do" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding Disclaimer}" />
+                </VerticalStackLayout>
+            </Border>
+
+            <Border Style="{StaticResource Card}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceS}">
+                    <Label Text="Your data" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding PrivacySummary}" />
+                </VerticalStackLayout>
+            </Border>
+
+            <Button Text="Open the project on GitHub"
+                    Style="{StaticResource SecondaryButton}"
+                    Command="{Binding OpenProjectCommand}" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

@@ -93,7 +93,42 @@ cd prana
 dotnet build
 ```
 
-For the app you also need the Android SDK. For iOS you need a Mac.
+### Building the app
+
+The app needs more than the tools do:
+
+- The MAUI workloads: `dotnet workload install maui-android`
+- The Android SDK
+- **JDK 17 or newer.** Android manifest merging runs on the JVM, and an older JDK fails deep in
+  the Android build with `UnsupportedClassVersionError` and a class file version number, which
+  says nothing about the actual problem. JDK 11 is not enough.
+
+  If `java -version` reports something older, point the build at a newer one rather than
+  changing your system default. JetBrains IDEs keep downloaded JDKs under `~/.jdks`:
+
+  ```bash
+  export JAVA_HOME="$HOME/.jdks/corretto-18.0.2"     # or wherever yours lives
+  export PATH="$JAVA_HOME/bin:$PATH"
+  ```
+
+  This matters more than it sounds. XamlC runs *after* manifest merging, so on a machine with an
+  old JDK the Android build dies before XAML is ever compiled. XAML parsing is still checked, but
+  type and converter errors are not, and they surface only in CI.
+- A Mac, for iOS.
+
+To produce an installable APK:
+
+```bash
+dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-android -c Release -p:AndroidPackageFormat=apk
+```
+
+It lands in `app/Prana.Mobile/bin/Release/net10.0-android/` at about 27 MB, signed with the
+Android debug key. That is fine for testing and is not a release build; release signing is F17.
+
+`dotnet build Prana.sln` builds everything including the app. CI builds `Prana.NoApp.slnf`
+instead, which is the same solution without the app, so that a pull request touching only the
+tools does not have to install a mobile toolchain. If you add a project outside `app/`, add it
+to both or CI will silently never build it.
 
 ### The loop
 

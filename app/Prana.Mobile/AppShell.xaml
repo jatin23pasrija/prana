@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Shell xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+       xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+       xmlns:home="clr-namespace:Prana.Mobile.Features.Home"
+       xmlns:grocery="clr-namespace:Prana.Mobile.Features.Grocery"
+       xmlns:search="clr-namespace:Prana.Mobile.Features.Search"
+       xmlns:settings="clr-namespace:Prana.Mobile.Features.Settings"
+       x:Class="Prana.Mobile.AppShell"
+       Title="Prana"
+       FlyoutBehavior="Disabled">
+
+    <!--
+        A tab bar rather than a flyout. Everything here is one tap from anywhere, which matters
+        when someone is holding a packet in one hand in a shop.
+    -->
+    <TabBar>
+        <ShellContent Title="Home"
+                      Route="home"
+                      ContentTemplate="{DataTemplate home:HomePage}" />
+
+        <ShellContent Title="Search"
+                      Route="search"
+                      ContentTemplate="{DataTemplate search:SearchPage}" />
+
+        <ShellContent Title="Grocery"
+                      Route="grocery"
+                      ContentTemplate="{DataTemplate grocery:GroceryPage}" />
+
+        <ShellContent Title="Settings"
+                      Route="settings"
+                      ContentTemplate="{DataTemplate settings:SettingsPage}" />
+    </TabBar>
+
+</Shell>

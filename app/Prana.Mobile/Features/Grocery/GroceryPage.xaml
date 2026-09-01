@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Prana.Mobile.Features.Grocery"
+             x:Class="Prana.Mobile.Features.Grocery.GroceryPage"
+             x:DataType="vm:GroceryViewModel"
+             Title="Grocery">
+
+    <Grid Padding="{StaticResource SpaceM}">
+        <VerticalStackLayout VerticalOptions="Center" Spacing="{StaticResource SpaceS}">
+            <Label Text="Your grocery list is empty"
+                   Style="{StaticResource Heading}"
+                   HorizontalTextAlignment="Center" />
+            <Label Text="{Binding EmptyMessage}"
+                   Style="{StaticResource Muted}"
+                   HorizontalTextAlignment="Center" />
+        </VerticalStackLayout>
+    </Grid>
+
+</ContentPage>

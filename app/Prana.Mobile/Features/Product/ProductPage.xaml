@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:Prana.Mobile.Features.Product"
+             x:Class="Prana.Mobile.Features.Product.ProductPage"
+             x:DataType="vm:ProductViewModel"
+             Title="Product">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="{StaticResource SpaceM}" Spacing="{StaticResource SpaceM}">
+
+            <Label Text="{Binding Barcode}" Style="{StaticResource Title}" />
+
+            <Border Style="{StaticResource Card}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
+                    <Label Text="Not looked up yet" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding Explanation}" Style="{StaticResource Muted}" />
+                </VerticalStackLayout>
+            </Border>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
