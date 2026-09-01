@@ -18,6 +18,13 @@ public sealed class ImportOptions
 
     /// <summary>Map and report, but write nothing.</summary>
     public bool DryRun { get; init; }
+
+    /// <summary>
+    /// Where the JSON Schemas live. Defaults to <c>schema</c> under the repository root, which is
+    /// where they are in a checkout; it is settable so a caller with the tree somewhere else does
+    /// not have to duplicate them.
+    /// </summary>
+    public string? SchemaDirectory { get; init; }
 }
 
 /// <summary>
@@ -49,7 +56,8 @@ public sealed class ImportRun(ImportOptions options)
         var productsRoot = Path.Combine(options.RepositoryRoot, "data", "products");
         var seen = new Dictionary<string, string>(StringComparer.Ordinal);
         var brands = new BrandCollector(adapter, seen: new Dictionary<string, BrandCollector.Entry>(StringComparer.Ordinal));
-        var written = new List<string>();
+        var written = 0;
+        var unchanged = 0;
 
         await foreach (var candidate in adapter.ReadAsync(cancellationToken))
         {
@@ -85,7 +93,14 @@ public sealed class ImportRun(ImportOptions options)
 
             if (!options.DryRun)
             {
-                written.Add(WriteRecord(productsRoot, product));
+                if (WriteRecord(productsRoot, product))
+                {
+                    written++;
+                }
+                else
+                {
+                    unchanged++;
+                }
             }
 
             if (options.Limit > 0 && report.Mapped >= options.Limit)
@@ -100,9 +115,12 @@ public sealed class ImportRun(ImportOptions options)
             return report;
         }
 
-        report.Written = written.Count;
+        report.Written = written;
+        report.Unchanged = unchanged;
 
-        log.WriteLine($"Wrote {written.Count:N0} product records. Generating reference data.");
+        log.WriteLine(
+            $"Wrote {written:N0} product records, left {unchanged:N0} unchanged. "
+            + "Generating reference data.");
         brands.Write(options.RepositoryRoot);
 
         log.WriteLine("Validating what was written.");
@@ -111,23 +129,96 @@ public sealed class ImportRun(ImportOptions options)
         return report;
     }
 
-    private static string WriteRecord(string productsRoot, ProductRecord product)
+    /// <summary>
+    /// Writes a record, but only when something about the product actually changed.
+    /// </summary>
+    /// <remarks>
+    /// The retrieval date is stamped on every record, so a naive comparison finds every record
+    /// different on every run: the first monthly re-import rewrote 26,578 files to move two date
+    /// lines, added twenty megabytes to the repository, and produced a pull request nobody could
+    /// review.
+    ///
+    /// The dates mattering more than the diff size is the real problem. `last_verified` drives
+    /// the freshness thresholds in DATA_POLICY.md, so bumping it on every import means no record
+    /// ever becomes stale. A product last touched upstream years ago would report itself current
+    /// forever, purely because our importer looked at it again.
+    ///
+    /// So the comparison ignores those dates, and a record whose substance is unchanged keeps
+    /// both its file and its original dates.
+    /// </remarks>
+    private static bool WriteRecord(string productsRoot, ProductRecord product)
     {
         var directory = Path.Combine(productsRoot, Gtin.ShardFor(product.Gtin));
-        Directory.CreateDirectory(directory);
-
         var path = Path.Combine(directory, $"{product.Gtin}.json");
-        var content = PranaJson.Serialize(product);
 
-        // Only touch the file when the content actually changes. Rewriting identical bytes
-        // would make every import look like it changed the whole catalogue.
-        if (!File.Exists(path) || !string.Equals(File.ReadAllText(path), content, StringComparison.Ordinal))
+        if (File.Exists(path))
         {
-            File.WriteAllText(path, content);
+            try
+            {
+                var existing = PranaJson.Deserialize<ProductRecord>(File.ReadAllText(path));
+
+                if (SameSubstance(existing, product))
+                {
+                    return false;
+                }
+            }
+            catch (System.Text.Json.JsonException)
+            {
+                // Unreadable, so it is replaced. Whatever is there is worse than what we have.
+            }
         }
 
-        return path;
+        Directory.CreateDirectory(directory);
+        File.WriteAllText(path, PranaJson.Serialize(product));
+
+        return true;
     }
+
+    /// <summary>
+    /// Whether two records say the same thing about the product, ignoring when we looked.
+    /// </summary>
+    private static bool SameSubstance(ProductRecord existing, ProductRecord candidate) =>
+        string.Equals(
+            PranaJson.CompactSerialize(WithoutDates(existing)),
+            PranaJson.CompactSerialize(WithoutDates(candidate)),
+            StringComparison.Ordinal);
+
+    /// <summary>
+    /// A copy with every retrieval and verification date blanked, so only real content is
+    /// compared. Nothing blanked here is ever written; this exists purely for the comparison.
+    /// </summary>
+    private static ProductRecord WithoutDates(ProductRecord record) => new()
+    {
+        SchemaVersion = record.SchemaVersion,
+        Gtin = record.Gtin,
+        BarcodePrinted = record.BarcodePrinted,
+        BarcodeFormat = record.BarcodeFormat,
+        Name = record.Name,
+        Names = record.Names,
+        Brand = record.Brand,
+        Category = record.Category,
+        Countries = record.Countries,
+        Package = record.Package,
+        Nutrition = record.Nutrition,
+        IngredientsRaw = record.IngredientsRaw,
+        Ingredients = record.Ingredients,
+        Sources = [.. record.Sources.Select(s => new Source
+        {
+            Id = s.Id,
+            Type = s.Type,
+            Url = s.Url,
+            RetrievedAt = string.Empty,
+            Licence = s.Licence,
+            Note = s.Note,
+        })],
+        Provenance = record.Provenance,
+        Conflicts = record.Conflicts,
+        Verification = new Verification
+        {
+            Status = record.Verification.Status,
+            LastVerified = string.Empty,
+        },
+    };
 
     /// <summary>
     /// Runs the real data rules and deletes anything that produced an error.
@@ -137,7 +228,7 @@ public sealed class ImportRun(ImportOptions options)
         var run = new ValidationRun(new ValidationOptions
         {
             RepositoryRoot = options.RepositoryRoot,
-            SchemaDirectory = Path.Combine(options.RepositoryRoot, "schema"),
+            SchemaDirectory = options.SchemaDirectory ?? Path.Combine(options.RepositoryRoot, "schema"),
             Paths = [Path.Combine(options.RepositoryRoot, "data")],
             Strict = false,
         });
@@ -246,12 +337,29 @@ public sealed class BrandCollector(ISourceAdapter adapter, Dictionary<string, Br
             };
 
             var path = Path.Combine(directory, $"{entry.Slug}.json");
-            var content = PranaJson.Serialize(record);
 
-            if (!File.Exists(path) || !string.Equals(File.ReadAllText(path), content, StringComparison.Ordinal))
+            // Same rule as products: a brand whose name has not changed keeps its file and its
+            // original retrieval date, so a re-import does not rewrite five thousand records to
+            // move one line in each.
+            if (File.Exists(path))
             {
-                File.WriteAllText(path, content);
+                try
+                {
+                    var existing = PranaJson.Deserialize<BrandRecord>(File.ReadAllText(path));
+
+                    if (string.Equals(existing.Name, record.Name, StringComparison.Ordinal)
+                        && string.Equals(existing.Owner, record.Owner, StringComparison.Ordinal))
+                    {
+                        continue;
+                    }
+                }
+                catch (System.Text.Json.JsonException)
+                {
+                    // Unreadable, so it is replaced.
+                }
             }
+
+            File.WriteAllText(path, PranaJson.Serialize(record));
         }
     }
 

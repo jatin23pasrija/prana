@@ -154,6 +154,19 @@ for p in $(find src tools tests app -name '*.csproj'); do
 done
 ```
 
+**Build the way CI builds.** `TreatWarningsAsErrors` is switched on by
+`ContinuousIntegrationBuild`, which your local build does not set. A plain `dotnet build` can
+pass locally and fail in CI on a warning you never saw, which has happened with the xUnit
+analyzers. Match CI before pushing:
+
+```bash
+dotnet build Prana.NoApp.slnf -c Release -p:ContinuousIntegrationBuild=true
+dotnet test --solution Prana.NoApp.slnf -c Release -p:ContinuousIntegrationBuild=true --no-build
+```
+
+Check the exit code of each command separately. Piping a build into `grep` takes the exit code
+from `grep`, so a failed build looks like a pass and the tests then run against stale binaries.
+
 ### The loop
 
 ```

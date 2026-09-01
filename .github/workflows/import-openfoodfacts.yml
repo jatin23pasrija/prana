@@ -105,6 +105,30 @@ jobs:
             import-log.txt
           retention-days: 30
 
+      # The importer reports how many records it actually wrote. If far more files changed than
+      # that, something is rewriting records it should have left alone, and the result is a pull
+      # request too large to review. That is not hypothetical: the first monthly re-import
+      # stamped a fresh date on all 26,578 records and opened a 31,749-file pull request for
+      # 127 genuinely new products.
+      - name: Check the diff matches what was written
+        if: inputs.dry_run != true
+        run: |
+          written=$(jq -r '.written' import-report.json)
+          rejected=$(jq -r '.rejected_by_validator' import-report.json)
+          changed=$(git status --porcelain data/products | wc -l)
+
+          # Rejected records are deleted after being written, so they show up as changes too.
+          # The rest of the margin is for reference data moving under data/products.
+          budget=$(( written + rejected + 50 ))
+
+          echo "Wrote $written, rejected $rejected, $changed product files changed (budget $budget)."
+
+          if [ "$changed" -gt "$budget" ]; then
+            echo "::error::$changed product files changed but only $written records were written."
+            echo "The importer is rewriting records whose product did not change. See ADR-0032."
+            exit 1
+          fi
+
       - name: Open a pull request
         if: inputs.dry_run != true
         env:

@@ -124,9 +124,9 @@ public sealed class ImportReport
             $"Dropped           : {Dropped:N0}",
             $"Duplicate barcodes: {Duplicates:N0}",
             $"Rejected by rules : {RejectedByValidator:N0}",
-            $"Written           : {Written:N0}",
-            $"  of those, no nutrition and no ingredients: {Incomplete:N0}",
-            $"Unchanged         : {Unchanged:N0}",
+            $"Written           : {Written:N0}   (new, or changed since last import)",
+            $"Unchanged         : {Unchanged:N0}   (left alone, dates kept)",
+            $"Incomplete        : {Incomplete:N0}   (of those mapped: no nutrition and no ingredients)",
         };
 
         if (_dropReasons.Count > 0)
