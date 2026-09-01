@@ -27,6 +27,16 @@
 
     <x:Double x:Key="CornerRadius">12</x:Double>
 
+    <!--
+        Ready-made Thickness values. A markup extension cannot be embedded inside a comma
+        separated attribute, so Margin="0,{StaticResource SpaceM},0,0" does not compile: XamlC
+        rejects it with XC0040. Whole Thickness resources are the way to keep the scale in one
+        place, so the numbers below stay in step with the spacing scale above.
+    -->
+    <Thickness x:Key="GapTopS">0,8,0,0</Thickness>
+    <Thickness x:Key="GapTopM">0,16,0,0</Thickness>
+    <Thickness x:Key="GapTopL">0,24,0,0</Thickness>
+
     <!-- pages -->
 
     <Style TargetType="Page" ApplyToDerivedTypes="True">

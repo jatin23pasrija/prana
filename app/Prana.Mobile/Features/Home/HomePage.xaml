@@ -11,7 +11,7 @@
 
             <Label Text="Know what is in your food"
                    Style="{StaticResource Title}"
-                   Margin="0,{StaticResource SpaceM},0,0" />
+                   Margin="{StaticResource GapTopM}" />
 
             <Label Text="Scan a packet to see its nutrition and ingredients. Works without internet once the catalogue is installed."
                    Style="{StaticResource Muted}" />
@@ -19,7 +19,7 @@
             <Button Text="Scan a product"
                     Command="{Binding ScanCommand}"
                     SemanticProperties.Hint="Opens the camera to scan a barcode"
-                    Margin="0,{StaticResource SpaceS},0,0" />
+                    Margin="{StaticResource GapTopS}" />
 
             <Button Text="Search the catalogue"
                     Style="{StaticResource SecondaryButton}"
@@ -34,7 +34,7 @@
                 know whether they have data cannot tell a missing product from a missing
                 catalogue, and would blame the app for the wrong thing.
             -->
-            <Border Style="{StaticResource Card}" Margin="0,{StaticResource SpaceM},0,0">
+            <Border Style="{StaticResource Card}" Margin="{StaticResource GapTopM}">
                 <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
                     <Label Text="Catalogue" Style="{StaticResource Heading}" />
                     <Label Text="{Binding CatalogueStatus}" Style="{StaticResource Muted}" />
