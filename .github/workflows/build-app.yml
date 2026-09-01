@@ -73,8 +73,12 @@ jobs:
       - name: Package an installable APK
         run: dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-android -c Release -p:AndroidPackageFormat=apk
 
-      # The guard for the mistake above: an APK with no assemblies blob has no managed code in
-      # it, and publishing one is worse than publishing nothing.
+      # The guard for the mistake above. It asks the only question that matters, whether the
+      # package contains managed code at all, rather than asserting one particular layout: the
+      # first version of this check demanded an assembly store blob, which Windows produces and
+      # the Linux runner does not, and it failed a perfectly good APK.
+      #
+      # The broken Debug package had none of these, which is what makes the check meaningful.
       - name: The APK actually contains the app
         run: |
           apk=$(find app/Prana.Mobile/bin/Release/net10.0-android -name '*-Signed.apk' | head -1)
@@ -86,18 +90,25 @@ jobs:
 
           echo "APK: $apk ($(du -h "$apk" | cut -f1))"
 
-          if ! unzip -l "$apk" | grep -q 'assemblies.*\.blob\.so'; then
-            echo "::error file=.github/workflows/build-app.yml::The APK has no assemblies blob, so it contains no managed code and will crash on launch."
-            unzip -l "$apk" | tail -20
+          listing=$(unzip -l "$apk")
+          blob=$(echo "$listing" | grep -c 'blob' || true)
+          aot=$(echo "$listing"  | grep -c 'libaot-' || true)
+          store=$(echo "$listing" | grep -c 'assemblies/' || true)
+          dll=$(echo "$listing"  | grep -c '\.dll$' || true)
+
+          echo "managed code: blob=$blob libaot=$aot assemblies/=$store dll=$dll"
+
+          if [ "$((blob + aot + store + dll))" -eq 0 ]; then
+            echo "::error file=.github/workflows/build-app.yml::This APK contains no managed code in any form, so it will crash on launch with 'No assemblies found'. A Debug build does this, because fast deployment pushes assemblies over adb instead of packaging them."
             exit 1
           fi
 
-          if ! unzip -l "$apk" | grep -q 'assets/catalogue-starter.db.br'; then
+          if ! echo "$listing" | grep -q 'assets/catalogue-starter.db.br'; then
             echo "::error::The bundled starter catalogue is missing from the APK."
             exit 1
           fi
 
-          echo "Contains managed assemblies and the bundled catalogue."
+          echo "Contains managed code and the bundled catalogue."
 
       - name: Upload the APK
         uses: actions/upload-artifact@v4
