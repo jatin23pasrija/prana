@@ -1,10 +1,12 @@
 using CommunityToolkit.Mvvm.ComponentModel;
+using Prana.Data;
 using Prana.Mobile.Features.Grocery;
 using Prana.Mobile.Features.Home;
 using Prana.Mobile.Features.Product;
 using Prana.Mobile.Features.Scanner;
 using Prana.Mobile.Features.Search;
 using Prana.Mobile.Features.Settings;
+using Prana.Mobile.Services;
 
 namespace Prana.Mobile;
 
@@ -22,6 +24,7 @@ public static class MauiProgram
                 fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
             });
 
+        RegisterData(builder.Services);
         RegisterFeatures(builder.Services);
 
         return builder.Build();
@@ -36,6 +39,23 @@ public static class MauiProgram
     /// that genuinely needs to outlive a page, such as the catalogue in F08, becomes a singleton
     /// service instead of being smuggled through a view model.
     /// </remarks>
+    /// <summary>
+    /// The data layer. Singletons, because they wrap files rather than state: one catalogue, one
+    /// user database, and one startup that must not run twice.
+    /// </summary>
+    private static void RegisterData(IServiceCollection services)
+    {
+        services.AddSingleton<ICatalogueStorage, MauiCatalogueStorage>();
+        services.AddSingleton<CataloguePaths>();
+        services.AddSingleton<CatalogueConnection>();
+        services.AddSingleton<UserDatabase>();
+        services.AddSingleton<CatalogueInstaller>();
+        services.AddSingleton<CatalogueStartup>();
+
+        services.AddSingleton<IProductRepository, ProductRepository>();
+        services.AddSingleton<ISearchRepository, SearchRepository>();
+    }
+
     private static void RegisterFeatures(IServiceCollection services)
     {
         services.AddTransient<HomePage>();

@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>Prana.Data.Tests</RootNamespace>
+    <AssemblyName>Prana.Data.Tests</AssemblyName>
+    <IsPackable>false</IsPackable>
+    <IsTestProject>true</IsTestProject>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="xunit.v3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\src\Prana.Data\Prana.Data.csproj" />
+    <!-- The tests build a real catalogue, so the reader is tested against what actually ships. -->
+    <ProjectReference Include="..\..\tools\Prana.Tools.CatalogueBuilder\Prana.Tools.CatalogueBuilder.csproj" />
+  </ItemGroup>
+
+</Project>

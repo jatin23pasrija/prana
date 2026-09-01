@@ -5,3 +5,6 @@
 *.docx binary
 *.db binary
 *.zst binary
+
+# The bundled starter catalogue is generated output, committed deliberately.
+*.db.br binary

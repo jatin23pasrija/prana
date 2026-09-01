@@ -68,6 +68,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Prana.Core\Prana.Core.csproj" />
+    <ProjectReference Include="..\..\src\Prana.Data\Prana.Data.csproj" />
   </ItemGroup>
 
 </Project>

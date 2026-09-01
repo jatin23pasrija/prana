@@ -125,10 +125,34 @@ dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-android -c Release 
 It lands in `app/Prana.Mobile/bin/Release/net10.0-android/` at about 27 MB, signed with the
 Android debug key. That is fine for testing and is not a release build; release signing is F17.
 
+**Use Release, not Debug, for anything you intend to install by hand.** A Debug Android build
+uses fast deployment: the managed assemblies are pushed separately by `adb` instead of being
+packaged, so the APK contains no managed code at all. It installs without complaint and then
+dies the moment it launches, with this in `logcat`:
+
+```
+F/monodroid: No assemblies found in '/data/user/0/com.prana.app/files/.__override__/x86_64'.
+             Assuming this is part of Fast Deployment. Exiting...
+```
+
+Debug builds are for `dotnet build -t:Run` against a connected device, which pushes the
+assemblies for you. `build-app.yml` publishes a Release APK and fails if the package has no
+assemblies blob in it.
+
 `dotnet build Prana.sln` builds everything including the app. CI builds `Prana.NoApp.slnf`
 instead, which is the same solution without the app, so that a pull request touching only the
 tools does not have to install a mobile toolchain. If you add a project outside `app/`, add it
 to both or CI will silently never build it.
+
+**Check the solution after running `dotnet sln add`.** It rewrites the whole file, and it has
+twice silently dropped a project that was already there, including the MAUI app. The hygiene job
+in CI catches it, but the cheaper place to notice is before pushing:
+
+```bash
+for p in $(find src tools tests app -name '*.csproj'); do
+  grep -q "$(basename "$p")" Prana.sln || echo "MISSING: $p"
+done
+```
 
 ### The loop
 

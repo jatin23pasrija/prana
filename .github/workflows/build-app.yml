@@ -62,17 +62,60 @@ jobs:
       - name: Build
         run: dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-android -c Release -p:ContinuousIntegrationBuild=true
 
-      # An unsigned debug APK, so the build can be installed and looked at. Signing for release
-      # is F17, and needs a key that does not exist yet.
-      - name: Package a debug APK
-        run: dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-android -c Debug -p:AndroidPackageFormat=apk
+      # A Release APK, not a Debug one. A Debug Android build uses fast deployment: the managed
+      # assemblies are pushed separately by adb rather than packaged, so the APK contains no
+      # managed code at all. It installs happily and then dies the instant it launches. That is
+      # what shipped from this job before, and it is not something a person can be expected to
+      # diagnose from an artifact download.
+      #
+      # Signed with the Android debug key, which is enough to sideload. Real release signing is
+      # F17 and needs a key that does not exist yet.
+      - name: Package an installable APK
+        run: dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-android -c Release -p:AndroidPackageFormat=apk
+
+      # The guard for the mistake above. It asks the only question that matters, whether the
+      # package contains managed code at all, rather than asserting one particular layout: the
+      # first version of this check demanded an assembly store blob, which Windows produces and
+      # the Linux runner does not, and it failed a perfectly good APK.
+      #
+      # The broken Debug package had none of these, which is what makes the check meaningful.
+      - name: The APK actually contains the app
+        run: |
+          apk=$(find app/Prana.Mobile/bin/Release/net10.0-android -name '*-Signed.apk' | head -1)
+
+          if [ -z "$apk" ]; then
+            echo "::error::No APK was produced."
+            exit 1
+          fi
+
+          echo "APK: $apk ($(du -h "$apk" | cut -f1))"
+
+          listing=$(unzip -l "$apk")
+          blob=$(echo "$listing" | grep -c 'blob' || true)
+          aot=$(echo "$listing"  | grep -c 'libaot-' || true)
+          store=$(echo "$listing" | grep -c 'assemblies/' || true)
+          dll=$(echo "$listing"  | grep -c '\.dll$' || true)
+
+          echo "managed code: blob=$blob libaot=$aot assemblies/=$store dll=$dll"
+
+          if [ "$((blob + aot + store + dll))" -eq 0 ]; then
+            echo "::error file=.github/workflows/build-app.yml::This APK contains no managed code in any form, so it will crash on launch with 'No assemblies found'. A Debug build does this, because fast deployment pushes assemblies over adb instead of packaging them."
+            exit 1
+          fi
+
+          if ! echo "$listing" | grep -q 'assets/catalogue-starter.db.br'; then
+            echo "::error::The bundled starter catalogue is missing from the APK."
+            exit 1
+          fi
+
+          echo "Contains managed code and the bundled catalogue."
 
       - name: Upload the APK
         uses: actions/upload-artifact@v4
         with:
-          name: prana-debug-apk
-          path: app/Prana.Mobile/bin/Debug/net10.0-android/**/*-Signed.apk
-          if-no-files-found: warn
+          name: prana-apk
+          path: app/Prana.Mobile/bin/Release/net10.0-android/*-Signed.apk
+          if-no-files-found: error
           retention-days: 30
 
   ios:

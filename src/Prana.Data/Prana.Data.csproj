@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!--
+    Catalogue and user data access, shared by the app and testable without a device.
+
+    Kept out of app/Prana.Mobile on purpose: everything here can be exercised on a build machine
+    against a temporary directory, and only the small platform shim that reaches into the
+    installed package needs a phone.
+  -->
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <RootNamespace>Prana.Data</RootNamespace>
+    <AssemblyName>Prana.Data</AssemblyName>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.Sqlite" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Prana.Core\Prana.Core.csproj" />
+  </ItemGroup>
+
+</Project>
