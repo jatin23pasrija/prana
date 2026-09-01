@@ -55,13 +55,17 @@ jobs:
       - name: Install the MAUI Android workload
         run: dotnet workload install maui-android --skip-sign-check
 
+      # Only -f here, never -p:TargetFrameworks. A global property flows into project references
+      # as well, so overriding it rewrites Prana.Core's target framework too and the build fails
+      # with NETSDK1005 about a missing net10.0 target. The project drops iOS on Linux by an OS
+      # condition instead, which stays local to the project that needs it.
       - name: Build
         run: dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-android -c Release -p:ContinuousIntegrationBuild=true
 
       # An unsigned debug APK, so the build can be installed and looked at. Signing for release
       # is F17, and needs a key that does not exist yet.
       - name: Package a debug APK
-        run: dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-android -c Debug -t:Build -p:AndroidPackageFormat=apk
+        run: dotnet build app/Prana.Mobile/Prana.Mobile.csproj -f net10.0-android -c Debug -p:AndroidPackageFormat=apk
 
       - name: Upload the APK
         uses: actions/upload-artifact@v4
@@ -85,8 +89,10 @@ jobs:
         with:
           global-json-file: global.json
 
-      - name: Install the MAUI iOS workload
-        run: dotnet workload install maui-ios --skip-sign-check
+      # Both workloads, even though only iOS is built. macOS keeps Android in the project's
+      # target frameworks, and restore resolves every one of them regardless of which is built.
+      - name: Install the MAUI workloads
+        run: dotnet workload install maui-android maui-ios --skip-sign-check
 
       # Compile only. There is no Apple signing identity and no distribution in Phase 1; this
       # exists to catch platform-specific code leaking into shared layers, early, while the app

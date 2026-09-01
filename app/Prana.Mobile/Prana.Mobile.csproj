@@ -6,7 +6,13 @@
   -->
 
   <PropertyGroup>
-    <TargetFrameworks>net10.0-android;net10.0-ios</TargetFrameworks>
+    <!--
+      iOS is dropped on Linux. Restore resolves every target framework regardless of which one
+      is being built, and the Apple workloads do not exist on Linux at all, so a Linux CI runner
+      building only Android still failed with NETSDK1178 about a missing Microsoft.iOS.Sdk pack.
+    -->
+    <TargetFrameworks>net10.0-android</TargetFrameworks>
+    <TargetFrameworks Condition="!$([MSBuild]::IsOSPlatform('linux'))">$(TargetFrameworks);net10.0-ios</TargetFrameworks>
 
     <OutputType>Exe</OutputType>
     <RootNamespace>Prana.Mobile</RootNamespace>
