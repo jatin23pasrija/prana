@@ -9,14 +9,35 @@
     <ScrollView>
         <VerticalStackLayout Padding="{StaticResource SpaceM}" Spacing="{StaticResource SpaceM}">
 
-            <Label Text="{Binding Barcode}" Style="{StaticResource Title}" />
+            <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}" />
+
+            <Label Text="{Binding ProductName}" Style="{StaticResource Title}" />
+            <Label Text="{Binding Summary}" Style="{StaticResource Muted}" />
+            <Label Text="{Binding Barcode}" Style="{StaticResource Muted}" />
 
             <Border Style="{StaticResource Card}">
                 <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
-                    <Label Text="Not looked up yet" Style="{StaticResource Heading}" />
-                    <Label Text="{Binding Explanation}" Style="{StaticResource Muted}" />
+                    <Label Text="What we know" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding Explanation}" />
                 </VerticalStackLayout>
             </Border>
+
+            <!--
+                Shown both when the catalogue does not have the product and when it has only a
+                name. Those are different facts but the same next step, and ADR-0026 turns that
+                into a requirement rather than a preference.
+            -->
+            <Border Style="{StaticResource Card}" IsVisible="{Binding NeedsDiscovery}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceS}">
+                    <Label Text="Help fill this in" Style="{StaticResource Heading}" />
+                    <Label Text="Searching online and contributing what you find arrives in a later version."
+                           Style="{StaticResource Muted}" />
+                </VerticalStackLayout>
+            </Border>
+
+            <Button Text="Back"
+                    Style="{StaticResource SecondaryButton}"
+                    Command="{Binding BackCommand}" />
 
         </VerticalStackLayout>
     </ScrollView>

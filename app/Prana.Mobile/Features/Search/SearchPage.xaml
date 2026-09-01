@@ -2,24 +2,57 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:vm="clr-namespace:Prana.Mobile.Features.Search"
+             xmlns:data="clr-namespace:Prana.Data;assembly=Prana.Data"
              x:Class="Prana.Mobile.Features.Search.SearchPage"
              x:DataType="vm:SearchViewModel"
              Title="Search">
 
-    <Grid RowDefinitions="Auto,*" Padding="{StaticResource SpaceM}" RowSpacing="{StaticResource SpaceM}">
+    <Grid RowDefinitions="Auto,Auto,*" Padding="{StaticResource SpaceM}" RowSpacing="{StaticResource SpaceS}">
 
         <SearchBar Grid.Row="0"
                    Placeholder="Search by product or brand"
                    Text="{Binding Query}"
                    SemanticProperties.Hint="Search the installed catalogue by product name or brand" />
 
-        <VerticalStackLayout Grid.Row="1"
-                             VerticalOptions="Center"
-                             Spacing="{StaticResource SpaceS}">
-            <Label Text="{Binding EmptyMessage}"
-                   Style="{StaticResource Muted}"
-                   HorizontalTextAlignment="Center" />
-        </VerticalStackLayout>
+        <ActivityIndicator Grid.Row="1"
+                           IsRunning="{Binding IsBusy}"
+                           IsVisible="{Binding IsBusy}"
+                           HorizontalOptions="Center" />
+
+        <CollectionView Grid.Row="2"
+                        ItemsSource="{Binding Results}"
+                        IsVisible="{Binding HasResults}"
+                        SelectionMode="None">
+            <CollectionView.ItemTemplate>
+                <DataTemplate x:DataType="data:ProductSummary">
+                    <Border Style="{StaticResource Card}" Margin="0,0,0,8">
+                        <Border.GestureRecognizers>
+                            <TapGestureRecognizer
+                                Command="{Binding Source={RelativeSource AncestorType={x:Type vm:SearchViewModel}}, Path=OpenCommand}"
+                                CommandParameter="{Binding .}" />
+                        </Border.GestureRecognizers>
+                        <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
+                            <Label Text="{Binding Name}" Style="{StaticResource Heading}" />
+                            <Label Text="{Binding Brand}" Style="{StaticResource Muted}" />
+                            <!--
+                                Shown because these records hold nothing but a name, and letting
+                                them look like complete answers is exactly what ADR-0026 forbids.
+                            -->
+                            <Label Text="No nutrition or ingredients yet"
+                                   Style="{StaticResource Muted}"
+                                   IsVisible="{Binding IsComplete, Converter={StaticResource Not}}" />
+                        </VerticalStackLayout>
+                    </Border>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+
+        <Label Grid.Row="2"
+               Text="{Binding EmptyMessage}"
+               Style="{StaticResource Muted}"
+               HorizontalTextAlignment="Center"
+               VerticalOptions="Center"
+               IsVisible="{Binding HasResults, Converter={StaticResource Not}}" />
 
     </Grid>
 

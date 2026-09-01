@@ -1,4 +1,22 @@
-Files in this folder are packaged with the app and can be read at runtime with
+Files here are packaged into the app and read at runtime with
 FileSystem.OpenAppPackageFileAsync.
 
-The bundled starter catalogue will live here from F08 onwards.
+catalogue-starter.db.br
+-----------------------
+The bundled starter catalogue: the most complete 2,000 products, Brotli
+compressed, so the app is useful on first launch before anything has been
+downloaded. It is unpacked into app storage the first time the app runs.
+
+This is generated output, committed on purpose. The app has to ship a
+known-good catalogue, and building one takes minutes over the full data
+set, which is not something every app build should pay for.
+
+Regenerate it after the catalogue schema changes or when the bundled
+selection should be refreshed:
+
+    dotnet run --project tools/Prana.Tools.CatalogueBuilder -- build \
+        --built-on <today> --starter-size 2000
+    cp catalogue/build/catalogue-starter.db.br \
+       app/Prana.Mobile/Resources/Raw/
+
+The build is reproducible, so the same data always produces the same file.

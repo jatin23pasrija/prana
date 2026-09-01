@@ -3,7 +3,9 @@
     "path": "Prana.sln",
     "projects": [
       "src\\Prana.Core\\Prana.Core.csproj",
+      "src\\Prana.Data\\Prana.Data.csproj",
       "tests\\Prana.Core.Tests\\Prana.Core.Tests.csproj",
+      "tests\\Prana.Data.Tests\\Prana.Data.Tests.csproj",
       "tests\\Prana.Tools.CatalogueBuilder.Tests\\Prana.Tools.CatalogueBuilder.Tests.csproj",
       "tests\\Prana.Tools.Importer.Tests\\Prana.Tools.Importer.Tests.csproj",
       "tests\\Prana.Tools.Validator.Tests\\Prana.Tools.Validator.Tests.csproj",
