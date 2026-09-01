@@ -130,6 +130,16 @@ instead, which is the same solution without the app, so that a pull request touc
 tools does not have to install a mobile toolchain. If you add a project outside `app/`, add it
 to both or CI will silently never build it.
 
+**Check the solution after running `dotnet sln add`.** It rewrites the whole file, and it has
+twice silently dropped a project that was already there, including the MAUI app. The hygiene job
+in CI catches it, but the cheaper place to notice is before pushing:
+
+```bash
+for p in $(find src tools tests app -name '*.csproj'); do
+  grep -q "$(basename "$p")" Prana.sln || echo "MISSING: $p"
+done
+```
+
 ### The loop
 
 ```
