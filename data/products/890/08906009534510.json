@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Millets & Pulse Flour Blend 59% (Sorghum (Jowar), Chickpea, Oats, Finger Millet (Ragi), Soya, Black Gram (Urad), Quinoa), Rice Bran Oil, Soya Protein Isolate, Cream & Onion Seasoning (Sugar, Salt, Milk solids, Onion Powder, Corn starch, Cheese (milk) Powder, Mixed Herbs (Parsley, Chives), Acidity Regulator (E296, E330), Yeast Extract Powder, Flavour Enhancer (INS 627, 631)), Sugar, Salt, Red Chilli, Carom Seed Powder, Black Pepper, Acidity Regulator (E330)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906009534510",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

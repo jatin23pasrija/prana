@@ -14,35 +14,13 @@
       "unit": "ml"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "1 portion (100 g)",
-        "quantity": {
-          "value": 100,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 900,
-        "protein_g": 0,
-        "carbohydrate_g": 0,
-        "sugars_g": 0,
-        "fat_g": 99.07,
-        "saturated_fat_g": 7,
-        "trans_fat_g": 0,
-        "fibre_g": 0,
-        "sodium_mg": 460
-      }
-    }
-  ],
+  "ingredients_raw": "Cold-Pressed Groundnut Oil No Preservatives or Additives Omega-3 Omega-6 Trans Fa Sodium Choleste Vitamin Made from FREE FROM ARGEMONE OIL This proc nutrients minimal d",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908003718439",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -59,13 +37,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

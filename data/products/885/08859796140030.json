@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08859796140030",
+  "barcode_printed": "8859796140030",
+  "barcode_format": "EAN-13",
+  "name": "Sour punk bites spicy tamarind",
+  "brand": "fruit-veggie-solution-co",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 40,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Glucose syrup, Wheat flour, Tamarind Juice, Acidity Regulator (E 296, E 330 331(iii)), Salt, Chili powder, Emulsifier (E 471 Distilled Mono and Diglyceride of Fatty Acid From Palm Oil), Humectant (E 422), Artificial Flavour (Tamarind), artificial colour (e 250d)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8859796140030",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

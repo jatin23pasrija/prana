@@ -15,27 +15,13 @@
       "unit": "ml"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 45.3,
-        "protein_g": 3.2,
-        "carbohydrate_g": 5.2,
-        "sugars_g": 5.2,
-        "fat_g": 1.3,
-        "saturated_fat_g": 0.9,
-        "sodium_mg": 48.9
-      }
-    }
-  ],
   "ingredients_raw": "Milk & Milk Solids",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904083301394",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -56,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -67,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

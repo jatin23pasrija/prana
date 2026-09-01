@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00742761309656",
+  "barcode_printed": "0742761309656",
+  "barcode_format": "EAN-13",
+  "name": "Yumms Vanilla Filled Heart Cake",
+  "brand": "yumms",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined wheat flour(Maida), Sugar, Egg, Sunflower oil, Emulsifiers (INS 471, INS 477, INS 470(i)), Stabilizers, Raising agents (INS 500 (ii)), Iodized salt, Milk solids, Edible starch, Preservatives (INS 281, INS 200, INS 202), Humectants (INS 420, INS 422), Invert Syrup, Acidity regulator (INS 330), Nature Identical and Artificial flavouring substances, Filling (20%): Sugar, Edible Vegetables Fat, Milk solids, Dextrose, Emulsifier (INS 322), Flavours",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0742761309656",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

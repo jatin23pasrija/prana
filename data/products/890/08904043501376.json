@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043501376",
+  "barcode_printed": "8904043501376",
+  "barcode_format": "EAN-13",
+  "name": "Bakers loaf",
+  "brand": "modern",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "7.1.1 (Breads and Rolls) No maida butter crust milk bread Whole Wheat Flour (Atta), Sugar, Milk Solids (4.7%), Yeast, Butter (2.1%), Gluten, Edible Vegetable Oil (Refined Soybean Oil), lodized Salt, Preservatives (282, 200), Emulsifiers (481(i), 471}, Nature Identical Flavouring Substances (Butter and Cream), Acidity Regulator (270, 297), Antioxidant (300). &quot;Milk Solids (flour basis): &gt; 6% (Numbers referred above are as per International Numbering System)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043501376",
+      "retrieved_at": "2026-09-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-09-01"
+  }
+}

@@ -14,29 +14,13 @@
       "unit": "ml"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 246,
-        "energy_kj": 0,
-        "protein_g": 2,
-        "carbohydrate_g": 3.3,
-        "sugars_g": 0,
-        "fat_g": 25,
-        "saturated_fat_g": 16,
-        "trans_fat_g": 0.6,
-        "sodium_mg": 0
-      }
-    }
-  ],
-  "ingredients_raw": "Low fat cream Containing milk fat 25% minimum UHT needs no refrigeration until opened.",
+  "ingredients_raw": "Low fat cream",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906036674173",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -53,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -64,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

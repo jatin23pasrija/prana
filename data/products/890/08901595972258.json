@@ -4,30 +4,16 @@
   "barcode_printed": "8901595972258",
   "barcode_format": "EAN-13",
   "name": "Ching's Secret Hakka Noodles Chowmein Masala",
+  "brand": "ching-s-secret",
   "countries": [
     "IN"
-  ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 166.67,
-        "protein_g": 8.33,
-        "carbohydrate_g": 25,
-        "sugars_g": 8.33,
-        "fat_g": 4.17,
-        "saturated_fat_g": 0,
-        "fibre_g": 8.33,
-        "sodium_mg": 1333.33
-      }
-    }
   ],
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901595972258",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -36,13 +22,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "brand": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

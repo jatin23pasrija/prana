@@ -3,7 +3,7 @@
   "gtin": "08906010368081",
   "barcode_printed": "8906010368081",
   "barcode_format": "EAN-13",
-  "name": "Butterscotch",
+  "name": "Butterscotch Soan Papdi",
   "brand": "grb",
   "countries": [
     "IN"
@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Sugar, Bengal gram flour, Refined Wheat Flour, Refined Palmolein Oil, Vegetable Fat (Interesterified), Liquid Glucose. Butterscotch Nuts (Sugar, Butter & Cashew nut), Artificial Butterscotch Flavour & Natural Food Colour (INS 100(i))",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906010368081",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

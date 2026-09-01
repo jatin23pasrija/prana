@@ -15,35 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "70g",
-        "quantity": {
-          "value": 70,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 366,
-        "protein_g": 4.06,
-        "carbohydrate_g": 45,
-        "sugars_g": 22.89,
-        "fat_g": 18.8,
-        "saturated_fat_g": 10.92,
-        "fibre_g": 3.04,
-        "sodium_mg": 153.65
-      }
-    }
-  ],
   "ingredients_raw": "Edible vegetable butter, oatmeal powder, whole wheat flour, refined wheat flour, jaggery, ginger powder, ginger oleoresin, vanilla extract, rock salt.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906151233064",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -64,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -75,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

@@ -4,7 +4,7 @@
   "barcode_printed": "8904132981041",
   "barcode_format": "EAN-13",
   "name": "ajwain",
-  "brand": "bf",
+  "brand": "best-farms",
   "countries": [
     "IN"
   ],
@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Ajwain",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904132981041",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }

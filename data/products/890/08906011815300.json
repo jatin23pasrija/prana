@@ -4,15 +4,23 @@
   "barcode_printed": "8906011815300",
   "barcode_format": "EAN-13",
   "name": "Biryani aux légumes",
+  "brand": "food-earth",
   "countries": [
     "IN"
   ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Eau, Riz (21%), Oignon (15%), Pomme de terre (9%), Carotte (9%), Tomate (7%), Haricots verts (5%), Pois verts (3%), Huile de tournesol (2%), Ail (2%), Gingembre, Sel, Garam masala (Poudre de piment, Graines de cumin, Graines de coriandre, Cannelle, Poivre noir, Clous de girofle), Piment, Poudre de curcuma.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906011815300",
-      "retrieved_at": "2026-08-27",
+      "retrieved_at": "2026-09-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +28,22 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-08-27"
+    "last_verified": "2026-09-01"
   }
 }
