@@ -92,14 +92,21 @@ public sealed partial class PalmDetection
     private const string PalmFlag = "palm_derived";
     private const string MaybePalmFlag = "may_be_palm_derived";
 
-    /// <summary>Aliases longest first, so "palm kernel oil" is attributed before "palm oil".</summary>
+    /// <summary>
+    /// Every alias in the dictionary, longest first.
+    /// </summary>
+    /// <remarks>
+    /// Deliberately every entry, not only the palm-flagged ones. Matching runs longest alias
+    /// first and each match claims the text it sits on, so an unflagged entry is what stops a
+    /// short alias matching inside a longer name: "palm sugar" claims its own text, which is why
+    /// the bare alias "palm" cannot report it as palm oil. Only flagged matches are ever
+    /// reported; the rest exist purely to hold their ground.
+    /// </remarks>
     private readonly IReadOnlyList<(string Alias, IngredientRecord Ingredient)> _aliases;
 
     public PalmDetection(IEnumerable<IngredientRecord> dictionary)
     {
         _aliases = dictionary
-            .Where(i => i.Flags is not null
-                        && (i.Flags.Contains(PalmFlag) || i.Flags.Contains(MaybePalmFlag)))
             .SelectMany(i => (i.Aliases ?? [])
                 .Append(i.Name)
                 .Select(a => (Alias: Normalise(a), Ingredient: i)))
@@ -111,9 +118,9 @@ public sealed partial class PalmDetection
     }
 
     /// <summary>
-    /// Folds label text to a comparable form: lower case, accents removed, punctuation and
-    /// bracketing reduced to single spaces. Indian labels arrive with HTML entities, ampersands
-    /// and inconsistent bracketing, and none of that changes which ingredient is named.
+    /// Folds label text to a comparable form: lower case, accents removed, remaining punctuation
+    /// reduced to single spaces. Indian labels arrive with HTML entities, ampersands and
+    /// inconsistent spacing, and none of that changes which ingredient is named.
     /// </summary>
     internal static string Normalise(string text)
     {
@@ -121,6 +128,25 @@ public sealed partial class PalmDetection
         var cleaned = NonWord().Replace(folded, " ");
         return Whitespace().Replace(cleaned, " ").Trim();
     }
+
+    /// <summary>
+    /// Splits a label into the things it names, then normalises each.
+    /// </summary>
+    /// <remarks>
+    /// Separators carry meaning and flattening them invents ingredients. "Edible vegetable oil
+    /// (palm), sugar" collapses to "edible vegetable oil palm sugar", in which "palm sugar" now
+    /// appears and claims the text, so a packet that plainly says palm reports as not stated.
+    /// That is a real Britannia biscuit, found on a device.
+    ///
+    /// Brackets are separators too, not noise. "Edible vegetable oil (palm)" is a generic name
+    /// followed by the specific one, and splitting there is what lets both be matched: the
+    /// generic as ambiguous, the specific as definite. 585 products in the catalogue name their
+    /// oil this way.
+    /// </remarks>
+    internal static IReadOnlyList<string> Segments(string text) =>
+        [.. Separators().Split(text)
+            .Select(Normalise)
+            .Where(s => s.Length > 0)];
 
     /// <summary>
     /// Explicit accent folding. String.Normalize is a no-op under InvariantGlobalization, which
@@ -163,42 +189,55 @@ public sealed partial class PalmDetection
             return new PalmFinding(PalmState.NoIngredients, [], []);
         }
 
-        var haystack = Normalise(ingredientsRaw);
         var definite = new List<PalmMatch>();
         var possible = new List<PalmMatch>();
-        var claimed = new List<(int Start, int End)>();
 
-        foreach (var (alias, ingredient) in _aliases)
+        foreach (var segment in Segments(ingredientsRaw))
         {
-            var index = IndexOfWhole(haystack, alias);
+            var claimed = new List<(int Start, int End)>();
 
-            if (index < 0)
+            foreach (var (alias, ingredient) in _aliases)
             {
-                continue;
-            }
+                var index = IndexOfWhole(segment, alias);
 
-            // Longest alias wins the text it sits on, so "palm kernel oil" is not also counted as
-            // "palm oil", and "vitamin a palmitate" is not counted as a palm oil at all.
-            if (claimed.Any(c => index < c.End && index + alias.Length > c.Start))
-            {
-                continue;
-            }
+                if (index < 0)
+                {
+                    continue;
+                }
 
-            claimed.Add((index, index + alias.Length));
+                // Longest alias wins the text it sits on, so "palm kernel oil" is not also
+                // counted as "palm oil", and the bare word "palm" cannot claim text that
+                // "palm sugar" already owns.
+                if (claimed.Any(c => index < c.End && index + alias.Length > c.Start))
+                {
+                    continue;
+                }
 
-            var match = new PalmMatch(
-                ingredient.Id,
-                ingredient.Name,
-                alias,
-                PercentageFor(ingredient, alias, ingredientsRaw, parsed));
+                claimed.Add((index, index + alias.Length));
 
-            if (ingredient.Flags!.Contains(PalmFlag))
-            {
-                definite.Add(match);
-            }
-            else
-            {
-                possible.Add(match);
+                var flags = ingredient.Flags;
+
+                // Unflagged entries claimed their text and say nothing about palm. Holding their
+                // ground is their whole purpose here.
+                if (flags is null)
+                {
+                    continue;
+                }
+
+                var match = new PalmMatch(
+                    ingredient.Id,
+                    ingredient.Name,
+                    alias,
+                    PercentageFor(ingredient, alias, ingredientsRaw, parsed));
+
+                if (flags.Contains(PalmFlag))
+                {
+                    definite.Add(match);
+                }
+                else if (flags.Contains(MaybePalmFlag))
+                {
+                    possible.Add(match);
+                }
             }
         }
 
@@ -302,6 +341,15 @@ public sealed partial class PalmDetection
 
     [GeneratedRegex(@"[^a-z0-9%. ]+")]
     private static partial Regex NonWord();
+
+    /// <summary>
+    /// What separates one named thing from the next on a label: list punctuation, brackets and
+    /// line breaks. Ampersands and hyphens are absent on purpose, because they sit inside names
+    /// such as "refined palm &amp; palmolein oil".
+    /// </summary>
+    [GeneratedRegex(@"[,;()\[\]{}•|
+]+")]
+    private static partial Regex Separators();
 
     [GeneratedRegex(@"\s+")]
     private static partial Regex Whitespace();

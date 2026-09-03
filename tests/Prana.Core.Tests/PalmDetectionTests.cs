@@ -50,6 +50,34 @@ public sealed class PalmDetectionTests
         Assert.NotEmpty(finding.Definite);
     }
 
+    [Theory]
+    // The commonest Indian construction: a generic oil, then the real one in brackets. 585
+    // products in the catalogue do this and every one of them read as "palm not stated" until
+    // the bare word became an alias. Found on a device, on a real Britannia biscuit.
+    [InlineData("REFINED WHEAT FLOUR, EDIBLE VEGETABLE OIL (PALM), SUGAR")]     // 62 products
+    [InlineData("Edible vegetable oil (palm oil), sugar")]                      // 62
+    [InlineData("Edible vegetable oil (palmolein), wheat flour")]               // 71
+    [InlineData("Vegetable fat (palm), sugar")]                                 // 24
+    [InlineData("Vegetable oil (palm), salt")]                                  // 15
+    [InlineData("Edible vegetable oil (refined palmolein oil)")]                // 17
+    public void An_oil_named_in_brackets_is_read_as_present_not_as_unstated(string ingredients)
+    {
+        var finding = Detector.Detect(ingredients);
+
+        Assert.Equal(PalmState.Present, finding.State);
+        Assert.NotEmpty(finding.Definite);
+    }
+
+    [Fact]
+    public void The_bare_word_palm_cannot_claim_text_a_longer_entry_owns()
+    {
+        // The bare alias is only safe because longer entries claim their own text first. If that
+        // ever regresses, these three become false positives rather than a silent miss.
+        Assert.Equal(PalmState.NotDetected, Detector.Detect("Rice flour, palm sugar").State);
+        Assert.Equal(PalmState.NotDetected, Detector.Detect("Wheat, palm jaggery, ghee").State);
+        Assert.NotEqual(PalmState.Present, Detector.Detect("Milk solids, vitamin a palmitate").State);
+    }
+
     [Fact]
     public void A_declared_percentage_is_reported_and_never_invented()
     {
@@ -146,9 +174,21 @@ public sealed class PalmDetectionTests
     [Fact]
     public void A_word_is_not_matched_inside_a_longer_word()
     {
-        var finding = Detector.Detect("Palm oilseed research compound, water");
+        // Palmyra is a different tree and palmitic acid is a fatty acid. Neither is palm oil, and
+        // both start with the same five letters.
+        Assert.NotEqual(PalmState.Present, Detector.Detect("Palmyra fibre, water").State);
+        Assert.NotEqual(PalmState.Present, Detector.Detect("Water, palmitic acid").State);
+    }
 
-        Assert.NotEqual(PalmState.Present, finding.State);
+    [Fact]
+    public void A_separator_between_two_names_is_not_flattened_away()
+    {
+        // "(palm), sugar" flattens to "palm sugar", which is a different ingredient and claims
+        // the text. The packet says palm; the app said not stated. Found on a device.
+        var finding = Detector.Detect("Edible vegetable oil (palm), sugar, salt");
+
+        Assert.Equal(PalmState.Present, finding.State);
+        Assert.Equal("palm-oil", finding.Definite[0].IngredientId);
     }
 
     [Fact]

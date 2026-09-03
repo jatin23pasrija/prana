@@ -5,6 +5,7 @@ using System.Security.Cryptography;
 using Microsoft.Data.Sqlite;
 using Prana.Core.Json;
 using Prana.Core.Model;
+using Prana.Core.Rules;
 
 namespace Prana.Tools.CatalogueBuilder;
 
@@ -159,7 +160,50 @@ public sealed class CatalogueBuild(BuildOptions options)
         WriteMeta(writer);
         writer.Commit();
 
+        // After the commit, because the statistics are computed by querying the products that
+        // were just written rather than by accumulating as they go.
+        var peerRule = ReadPeerRule();
+
+        if (peerRule is not null)
+        {
+            var rows = PeerStatistics.Compute(connection, peerRule);
+            log.WriteLine($"  peer statistics: {rows:N0} category and nutrient combinations");
+        }
+        else
+        {
+            log.WriteLine("  peer statistics: no peer_comparison rule found, none computed");
+        }
+
         return (writer.ProductCount, writer.IncompleteCount);
+    }
+
+    /// <summary>
+    /// The rule that says how peers are compared, or null when the repository has none.
+    /// </summary>
+    /// <remarks>
+    /// Missing rules are survivable and silent-but-wrong statistics are not, so a build without
+    /// the rule writes no rows and says so, rather than falling back to numbers chosen here.
+    /// </remarks>
+    private RuleSet? ReadPeerRule()
+    {
+        var directory = Path.Combine(options.RepositoryRoot, "rules");
+
+        if (!Directory.Exists(directory))
+        {
+            return null;
+        }
+
+        foreach (var file in Directory.EnumerateFiles(directory, "*.json", SearchOption.AllDirectories))
+        {
+            var rules = PranaJson.Deserialize<RuleSet>(File.ReadAllText(file));
+
+            if (rules.Kind == RuleKind.PeerComparison)
+            {
+                return rules;
+            }
+        }
+
+        return null;
     }
 
     /// <summary>
