@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "fop-bands-food",
+  "version": "1.0.0",
+  "title": "Front-of-pack bands for food",
+  "kind": "nutrient_bands",
+  "summary": "Places fat, saturates, sugars and salt per 100 g into Lower, Moderate or Higher using the cut-offs published in the UK front-of-pack labelling guidance. They report how much of a nutrient is present compared with a published reference, and nothing beyond that. They are not a judgement about the food.",
+  "applies_to": {
+    "basis": "per_100g",
+    "form": "food"
+  },
+  "source": {
+    "title": "Guide to creating a front of pack (FoP) nutrition label for pre-packed products sold through retail outlets",
+    "publisher": "UK Department of Health, the Food Standards Agency and the devolved administrations in Scotland, Northern Ireland and Wales",
+    "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/566251/FoP_Nutrition_labelling_UK_guidance.pdf",
+    "published": "2016",
+    "licence": "Open Government Licence v3.0",
+    "locator": "Annex 3, Table 2: Criteria for 100g of food",
+    "retrieved_at": "2026-09-03"
+  },
+  "notes": "Transcribed from the source PDF directly. Two secondary summaries of this same document disagreed on the sugars cut-off, giving 15 g where the table says 22.5 g, which is why the primary document is cited and the exact table named. The source expresses its salt criteria as salt, while Indian labels declare sodium, so the salt band derives its value rather than reading a stored one. The source publishes no cut-offs for protein, carbohydrate, fibre, added sugars or trans fat, so this rule set places none of them in a band. Energy is deliberately excluded: the source states that colour coding and High/Medium/Low text should not be applied to energy.",
+  "bands": [
+    {
+      "nutrient": "fat_g",
+      "display": "Fat",
+      "unit": "g",
+      "lower_at_or_below": 3.0,
+      "higher_above": 17.5,
+      "portion_higher_above": 21.0,
+      "portion_applies_above": 100
+    },
+    {
+      "nutrient": "saturated_fat_g",
+      "display": "Saturates",
+      "unit": "g",
+      "lower_at_or_below": 1.5,
+      "higher_above": 5.0,
+      "portion_higher_above": 6.0,
+      "portion_applies_above": 100
+    },
+    {
+      "nutrient": "sugars_g",
+      "display": "Sugars",
+      "unit": "g",
+      "lower_at_or_below": 5.0,
+      "higher_above": 22.5,
+      "portion_higher_above": 27.0,
+      "portion_applies_above": 100
+    },
+    {
+      "nutrient": "salt_g",
+      "display": "Salt",
+      "unit": "g",
+      "derived_from": {
+        "nutrient": "sodium_mg",
+        "multiply_by": 0.0025,
+        "note": "Salt equivalent in grams from sodium in milligrams. Sodium chloride is 2.5 times the mass of the sodium in it, a fixed ratio of the molecule and not an estimate; the further factor of one thousand converts milligrams to grams."
+      },
+      "lower_at_or_below": 0.3,
+      "higher_above": 1.5,
+      "portion_higher_above": 1.8,
+      "portion_applies_above": 100
+    }
+  ]
+}

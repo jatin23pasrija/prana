@@ -1,0 +1,65 @@
+{
+  "schema_version": 1,
+  "id": "fop-bands-drink",
+  "version": "1.0.0",
+  "title": "Front-of-pack bands for drinks",
+  "kind": "nutrient_bands",
+  "summary": "Places fat, saturates, sugars and salt per 100 ml into Lower, Moderate or Higher using the cut-offs published in the UK front-of-pack labelling guidance for drinks. They report how much of a nutrient is present compared with a published reference, and nothing beyond that. They are not a judgement about the drink.",
+  "applies_to": {
+    "basis": "per_100ml",
+    "form": "drink"
+  },
+  "source": {
+    "title": "Guide to creating a front of pack (FoP) nutrition label for pre-packed products sold through retail outlets",
+    "publisher": "UK Department of Health, the Food Standards Agency and the devolved administrations in Scotland, Northern Ireland and Wales",
+    "url": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/566251/FoP_Nutrition_labelling_UK_guidance.pdf",
+    "published": "2016",
+    "licence": "Open Government Licence v3.0",
+    "locator": "Annex 3, Table 3: Criteria for drinks (per 100ml)",
+    "retrieved_at": "2026-09-03"
+  },
+  "notes": "A separate rule set from the food one because the source publishes genuinely different cut-offs for drinks, roughly half the food values. Applying the food bands to a soft drink would call almost every drink Lower on sugar, which is the mistake this separation exists to prevent. The portion test applies above 150 ml here rather than 100 g.",
+  "bands": [
+    {
+      "nutrient": "fat_g",
+      "display": "Fat",
+      "unit": "g",
+      "lower_at_or_below": 1.5,
+      "higher_above": 8.75,
+      "portion_higher_above": 10.5,
+      "portion_applies_above": 150
+    },
+    {
+      "nutrient": "saturated_fat_g",
+      "display": "Saturates",
+      "unit": "g",
+      "lower_at_or_below": 0.75,
+      "higher_above": 2.5,
+      "portion_higher_above": 3.0,
+      "portion_applies_above": 150
+    },
+    {
+      "nutrient": "sugars_g",
+      "display": "Sugars",
+      "unit": "g",
+      "lower_at_or_below": 2.5,
+      "higher_above": 11.25,
+      "portion_higher_above": 13.5,
+      "portion_applies_above": 150
+    },
+    {
+      "nutrient": "salt_g",
+      "display": "Salt",
+      "unit": "g",
+      "derived_from": {
+        "nutrient": "sodium_mg",
+        "multiply_by": 0.0025,
+        "note": "Salt equivalent in grams from sodium in milligrams. Sodium chloride is 2.5 times the mass of the sodium in it, a fixed ratio of the molecule and not an estimate; the further factor of one thousand converts milligrams to grams."
+      },
+      "lower_at_or_below": 0.3,
+      "higher_above": 0.75,
+      "portion_higher_above": 0.9,
+      "portion_applies_above": 150
+    }
+  ]
+}

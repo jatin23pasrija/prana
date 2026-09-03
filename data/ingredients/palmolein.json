@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "id": "palmolein",
+  "name": "Palmolein",
+  "aliases": [
+    "edible vegetable oil palmolein",
+    "oleine d'huile de palme raffinee",
+    "palm olein",
+    "palmolein",
+    "palmolein oil",
+    "palmoleneolie",
+    "palmoline oil",
+    "refined edible palmolein oil",
+    "refined palm olein",
+    "refined palmolein",
+    "refined palmolein oil",
+    "refined palmolien oil"
+  ],
+  "category": "oil",
+  "explanation": "The liquid fraction of palm oil, separated by cooling and filtering. Indian labels write it many ways, including palm olein and palmolein oil.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org",
+      "retrieved_at": "2026-09-03",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)",
+      "note": "Alias wordings observed in the ingredient statements of imported Indian products."
+    },
+    {
+      "id": "s2",
+      "type": "community",
+      "retrieved_at": "2026-09-03",
+      "note": "Written by Prana contributors. Describes what the substance is; contains no health claim and no value copied from a label."
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "aliases": {
+      "source": "s1",
+      "confidence": "high",
+      "note": "Each alias was seen in at least one imported product."
+    },
+    "flags": {
+      "source": "s2",
+      "confidence": "medium",
+      "note": "Fraction of palm oil, so palm derived by definition."
+    },
+    "explanation": {
+      "source": "s2",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s2",
+      "confidence": "medium"
+    }
+  },
+  "flags": [
+    "palm_derived"
+  ]
+}

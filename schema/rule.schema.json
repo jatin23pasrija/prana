@@ -1,0 +1,255 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://prana.app/schema/rule.schema.json",
+  "title": "Prana indicator rule set",
+  "description": "One versioned, citable rule set, stored at rules/<area>/<id>.json. Every indicator the app shows names the rule set and version that produced it, so a number on the screen can be traced to a published document. Rule sets hold transcribed thresholds and never a health verdict: they decide whether a value is higher or lower than a published reference, not whether a food is good.",
+
+  "type": "object",
+  "properties": {
+    "schema_version": { "type": "integer", "const": 1 },
+
+    "id": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Slug" },
+
+    "version": {
+      "type": "string",
+      "pattern": "^[0-9]+\\.[0-9]+\\.[0-9]+$",
+      "description": "Semantic version of this rule set, shown to the user beside the rule name. Raise the major version when a threshold changes, because that changes what people were told."
+    },
+
+    "title": {
+      "type": "string",
+      "minLength": 4,
+      "maxLength": 120,
+      "description": "Short name shown when an indicator is tapped."
+    },
+
+    "kind": {
+      "type": "string",
+      "enum": ["nutrient_bands", "category_limits", "peer_comparison"],
+      "description": "nutrient_bands places a value in a Lower/Moderate/Higher band from fixed published cut-offs. category_limits compares against a published per-category limit and reports above or below it. peer_comparison ranks a value against other products in the same category in this catalogue."
+    },
+
+    "summary": {
+      "type": "string",
+      "minLength": 20,
+      "maxLength": 600,
+      "description": "Plain English, shown in the explanation sheet. Say what the rule compares and against what. No health claim, no advice."
+    },
+
+    "applies_to": {
+      "type": "object",
+      "description": "Which nutrition panels this rule set may be used on. A rule set written for solid food per 100 g must never be applied to a drink per 100 ml.",
+      "properties": {
+        "basis": {
+          "type": "string",
+          "enum": ["per_100g", "per_100ml"],
+          "description": "The basis the thresholds are expressed in."
+        },
+        "form": {
+          "type": "string",
+          "enum": ["food", "drink"],
+          "description": "Published thresholds differ between solid foods and drinks, so the form is part of the rule set rather than guessed at."
+        }
+      },
+      "required": ["basis", "form"],
+      "additionalProperties": false
+    },
+
+    "source": {
+      "type": "object",
+      "description": "Where these numbers were transcribed from. Required, and it is the point of the whole format: a threshold without a citation is an invented number.",
+      "properties": {
+        "title": { "type": "string", "minLength": 4, "maxLength": 300 },
+        "publisher": { "type": "string", "minLength": 2, "maxLength": 200 },
+        "url": { "type": "string", "format": "uri", "pattern": "^https://" },
+        "published": {
+          "type": "string",
+          "maxLength": 40,
+          "description": "Year or date of the edition transcribed, as printed on it."
+        },
+        "licence": {
+          "type": "string",
+          "maxLength": 120,
+          "description": "The licence the source document is published under, which decides whether we may reproduce its numbers."
+        },
+        "locator": {
+          "type": "string",
+          "maxLength": 200,
+          "description": "Where in the document the numbers are, for example \"Annex 3, Table 2\". Lets a reviewer check a transcription without reading the whole thing."
+        },
+        "retrieved_at": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/IsoDate" }
+      },
+      "required": ["title", "publisher", "url", "licence", "locator", "retrieved_at"],
+      "additionalProperties": false
+    },
+
+    "notes": {
+      "type": "string",
+      "maxLength": 1200,
+      "description": "Anything a reviewer needs in order to judge whether the transcription is faithful, including what the source does not cover."
+    },
+
+    "bands": {
+      "type": "array",
+      "description": "For kind nutrient_bands. One entry per nutrient the rule set can place in a band.",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/Band" }
+    },
+
+    "limits": {
+      "type": "array",
+      "description": "For kind category_limits. One entry per category the source publishes a limit for.",
+      "minItems": 1,
+      "items": { "$ref": "#/$defs/CategoryLimit" }
+    },
+
+    "peer_comparison": {
+      "$ref": "#/$defs/PeerComparison",
+      "description": "For kind peer_comparison."
+    }
+  },
+
+  "required": ["schema_version", "id", "version", "title", "kind", "summary", "source"],
+  "additionalProperties": false,
+
+  "allOf": [
+    {
+      "if": { "properties": { "kind": { "const": "nutrient_bands" } }, "required": ["kind"] },
+      "then": { "required": ["bands", "applies_to"] }
+    },
+    {
+      "if": { "properties": { "kind": { "const": "category_limits" } }, "required": ["kind"] },
+      "then": { "required": ["limits", "applies_to"] }
+    },
+    {
+      "if": { "properties": { "kind": { "const": "peer_comparison" } }, "required": ["kind"] },
+      "then": { "required": ["peer_comparison"] }
+    }
+  ],
+
+  "$defs": {
+    "NutrientUnit": {
+      "type": "string",
+      "enum": ["g", "mg", "kcal", "kJ"],
+      "description": "Units nutrients are declared in. Deliberately not the shared Unit enum, which describes package sizes and has no milligrams."
+    },
+
+    "Nutrient": {
+      "type": "string",
+      "enum": [
+        "energy_kcal",
+        "protein_g",
+        "carbohydrate_g",
+        "sugars_g",
+        "added_sugars_g",
+        "fat_g",
+        "saturated_fat_g",
+        "trans_fat_g",
+        "fibre_g",
+        "sodium_mg",
+        "salt_g"
+      ],
+      "description": "salt_g is not stored on any record. It exists because published thresholds are commonly expressed as salt while labels declare sodium, and a rule that needs it must say so through derived_from rather than have the conversion buried in code."
+    },
+
+    "Derivation": {
+      "type": "object",
+      "description": "How to obtain a nutrient that records do not carry, from one they do. Declared here rather than in code so that a reviewer can see every arithmetic step between the label and the screen.",
+      "properties": {
+        "nutrient": { "$ref": "#/$defs/Nutrient" },
+        "multiply_by": {
+          "type": "number",
+          "exclusiveMinimum": 0,
+          "description": "Factor applied to the stored value, including any unit change."
+        },
+        "note": {
+          "type": "string",
+          "minLength": 10,
+          "maxLength": 300,
+          "description": "Why this factor is correct. A fixed chemical ratio is acceptable here; an estimate is not."
+        }
+      },
+      "required": ["nutrient", "multiply_by", "note"],
+      "additionalProperties": false
+    },
+
+    "Band": {
+      "type": "object",
+      "description": "Cut-offs placing one nutrient in Lower, Moderate or Higher. Boundaries follow the source exactly: at or below lower_at_or_below is Lower, above higher_above is Higher, and everything between is Moderate.",
+      "properties": {
+        "nutrient": { "$ref": "#/$defs/Nutrient" },
+        "display": { "type": "string", "minLength": 2, "maxLength": 40 },
+        "unit": { "$ref": "#/$defs/NutrientUnit" },
+        "derived_from": { "$ref": "#/$defs/Derivation" },
+
+        "lower_at_or_below": { "type": "number", "minimum": 0 },
+        "higher_above": { "type": "number", "minimum": 0 },
+
+        "portion_higher_above": {
+          "type": "number",
+          "minimum": 0,
+          "description": "Some sources add a second Higher test against the amount in one portion, which catches a modest concentration in a large serving."
+        },
+        "portion_applies_above": {
+          "type": "number",
+          "minimum": 0,
+          "description": "The portion test applies only when the portion exceeds this size, in the unit of applies_to.basis."
+        }
+      },
+      "required": ["nutrient", "display", "unit", "lower_at_or_below", "higher_above"],
+      "additionalProperties": false
+    },
+
+    "CategoryLimit": {
+      "type": "object",
+      "description": "A published limit for one Prana category. category_id is ours; source_category records what the source calls it, so a reviewer can check the mapping, which is the step most likely to be wrong.",
+      "properties": {
+        "category_id": { "$ref": "https://prana.app/schema/common.schema.json#/$defs/Slug" },
+        "source_category": { "type": "string", "minLength": 2, "maxLength": 120 },
+        "limits": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "object",
+            "properties": {
+              "nutrient": { "$ref": "#/$defs/Nutrient" },
+              "display": { "type": "string", "minLength": 2, "maxLength": 40 },
+              "unit": { "$ref": "#/$defs/NutrientUnit" },
+              "derived_from": { "$ref": "#/$defs/Derivation" },
+              "above": {
+                "type": "number",
+                "minimum": 0,
+                "description": "The published limit. A value above it is reported as above the limit, and nothing more than that is claimed."
+              }
+            },
+            "required": ["nutrient", "display", "unit", "above"],
+            "additionalProperties": false
+          }
+        }
+      },
+      "required": ["category_id", "source_category", "limits"],
+      "additionalProperties": false
+    },
+
+    "PeerComparison": {
+      "type": "object",
+      "description": "Ranks a value against other products in the same category in this catalogue. This is the only rule kind whose output depends on our own data, so it carries a minimum peer count: below it, the comparison is not shown at all rather than shown weakly.",
+      "properties": {
+        "minimum_peers": {
+          "type": "integer",
+          "minimum": 10,
+          "description": "Below this many peers with a comparable value, no comparison is offered."
+        },
+        "lower_percentile": { "type": "number", "minimum": 1, "maximum": 49 },
+        "higher_percentile": { "type": "number", "minimum": 51, "maximum": 99 },
+        "nutrients": {
+          "type": "array",
+          "minItems": 1,
+          "items": { "$ref": "#/$defs/Nutrient" }
+        }
+      },
+      "required": ["minimum_peers", "lower_percentile", "higher_percentile", "nutrients"],
+      "additionalProperties": false
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "schema_version": 1,
+  "id": "palm-oil",
+  "name": "Palm oil",
+  "aliases": [
+    "edible palm oil",
+    "graisse de palme",
+    "palm fat",
+    "palm oil",
+    "refined palm & palmolein oil",
+    "refined palm and palmolein oil",
+    "refined palm oil",
+    "refined palm&palmolein oil"
+  ],
+  "category": "oil",
+  "explanation": "Oil pressed from the fruit of the oil palm. It is solid at Indian room temperature, which is why it is common in biscuits, bakery fat and fried snacks.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org",
+      "retrieved_at": "2026-09-03",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)",
+      "note": "Alias wordings observed in the ingredient statements of imported Indian products."
+    },
+    {
+      "id": "s2",
+      "type": "community",
+      "retrieved_at": "2026-09-03",
+      "note": "Written by Prana contributors. Describes what the substance is; contains no health claim and no value copied from a label."
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "aliases": {
+      "source": "s1",
+      "confidence": "high",
+      "note": "Each alias was seen in at least one imported product."
+    },
+    "flags": {
+      "source": "s2",
+      "confidence": "medium",
+      "note": "Classification of the substance, not a value copied from a label."
+    },
+    "explanation": {
+      "source": "s2",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s2",
+      "confidence": "medium"
+    }
+  },
+  "flags": [
+    "palm_derived"
+  ]
+}

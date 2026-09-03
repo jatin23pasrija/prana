@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "id": "category-peers",
+  "version": "1.0.0",
+  "title": "Comparison with similar products",
+  "kind": "peer_comparison",
+  "summary": "Ranks a nutrient against the other products in the same category in this catalogue, for example sugar in this biscuit against other biscuits. It describes what is on the shelf, not what is recommended: if most products in a category are high in sugar, a product can sit in the middle of them and still be high by any published measure.",
+  "source": {
+    "title": "Prana catalogue",
+    "publisher": "Prana contributors",
+    "url": "https://github.com/jatin23pasrija/prana",
+    "published": "continuous",
+    "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)",
+    "locator": "data/products, values declared per 100 g or per 100 ml",
+    "retrieved_at": "2026-09-03"
+  },
+  "notes": "The only rule set whose answer depends on our own data, which is why it carries a minimum peer count. Most of the catalogue cannot satisfy it: 74 per cent of products have no category at all, and only 21 of 51 categories hold 30 or more comparable values, so roughly 6 per cent of products receive a peer comparison. Showing a comparison drawn from four products would look identical on screen to one drawn from four hundred, so below the minimum nothing is shown at all. Percentiles are computed over products in the same category that declare the nutrient on the same basis; a product is never compared against a value converted from a different basis.",
+  "peer_comparison": {
+    "minimum_peers": 30,
+    "lower_percentile": 25,
+    "higher_percentile": 75,
+    "nutrients": [
+      "sugars_g",
+      "saturated_fat_g",
+      "fat_g",
+      "sodium_mg",
+      "fibre_g",
+      "protein_g"
+    ]
+  }
+}
