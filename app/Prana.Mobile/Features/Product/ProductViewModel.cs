@@ -273,11 +273,13 @@ public partial class ProductViewModel(
             $"Rule: {i.RuleTitle} v{i.RuleVersion} ({i.RuleId})",
             $"Source: {i.Source.Title}, {i.Source.Publisher}. {i.Source.Locator}. "
                 + $"Published under {i.Source.Licence}.",
+            // The statement already says the figure was calculated. This adds why, without
+            // repeating it: the two appeared one after the other in the same sheet.
             i.CalculatedFrom is null
                 ? null
-                : $"This figure was calculated from the declared serving of {i.CalculatedFrom}, "
-                  + "because the packet does not print a per 100 value. It is our arithmetic, "
-                  + "not a number from the label.",
+                : "The packet prints only a per-serving panel, so this is our arithmetic rather "
+                  + "than a figure from the label. ADR-0033 permits it for display and forbids "
+                  + "writing it back to the record.",
             i.DerivedNote is null ? null : "How this was worked out: " + i.DerivedNote))
             .ToList();
 
