@@ -43,6 +43,16 @@
     <MauiImage Include="Resources\Images\*" />
     <MauiFont Include="Resources\Fonts\*" />
     <MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
+
+    <!--
+      Indicator rules ship inside the app rather than inside the catalogue, because a threshold
+      changing is a change to what people were told and should arrive as an app version they can
+      see. They are referenced in place instead of being copied into Resources\Raw, so that
+      rules/ stays the one copy that CI validates and a reviewer reads.
+    -->
+    <MauiAsset Include="..\..\rules\global\fop-bands-food.json" LogicalName="rules/fop-bands-food.json" />
+    <MauiAsset Include="..\..\rules\global\fop-bands-drink.json" LogicalName="rules/fop-bands-drink.json" />
+    <MauiAsset Include="..\..\rules\scoring\category-peers.json" LogicalName="rules/category-peers.json" />
   </ItemGroup>
 
   <ItemGroup>

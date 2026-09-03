@@ -56,6 +56,14 @@ public static class MauiProgram
 
         services.AddSingleton<IProductRepository, ProductRepository>();
         services.AddSingleton<ISearchRepository, SearchRepository>();
+        services.AddSingleton<IAnalysisRepository, AnalysisRepository>();
+
+        // The rule book is a singleton because the rule files are read from the app package once
+        // and never change while the app is running. The analysis holds the ingredient
+        // dictionary for the same reason.
+        services.AddSingleton<RuleBook>();
+        services.AddSingleton<IRuleProvider>(p => p.GetRequiredService<RuleBook>());
+        services.AddSingleton<ProductAnalysis>();
     }
 
     private static void RegisterFeatures(IServiceCollection services)
@@ -105,5 +113,9 @@ public abstract partial class ViewModelBase : ObservableObject
     /// screen with an error banner is how people end up trusting a number that was never loaded.
     /// </summary>
     [ObservableProperty]
+    [NotifyPropertyChangedFor(nameof(HasError))]
     public partial string? ErrorMessage { get; set; }
+
+    /// <summary>For binding visibility, since XAML cannot test a string for emptiness.</summary>
+    public bool HasError => !string.IsNullOrEmpty(ErrorMessage);
 }

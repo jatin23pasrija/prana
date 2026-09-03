@@ -95,6 +95,7 @@ int Validate(string[] arguments)
     if (paths.Count == 0)
     {
         paths.Add(Path.Combine(repositoryRoot, "data"));
+        paths.Add(Path.Combine(repositoryRoot, "rules"));
     }
 
     var missing = paths.Where(p => !File.Exists(p) && !Directory.Exists(p)).ToList();
@@ -154,6 +155,7 @@ int Format(string[] arguments)
         }
 
         paths.Add(Path.Combine(root, "data"));
+        paths.Add(Path.Combine(root, "rules"));
     }
 
     var changed = new List<string>();

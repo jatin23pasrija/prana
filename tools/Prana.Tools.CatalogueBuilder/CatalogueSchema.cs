@@ -152,6 +152,29 @@ public static class CatalogueSchema
         ) WITHOUT ROWID
         """,
 
+        // ---------------------------------------------------------------- peer statistics
+        """
+        -- Cut-off values for "higher in sugar than most biscuits", precomputed at build time.
+        -- Computing them on the phone would mean scanning every product in a category on every
+        -- product screen, against a 300 ms budget.
+        --
+        -- Only categories meeting the minimum peer count in the peer_comparison rule appear
+        -- here at all. A row's absence is what tells the app to say nothing, which is the
+        -- correct answer for roughly 94 per cent of the catalogue: 74 per cent of products have
+        -- no category, and most categories hold too few comparable values to rank against.
+        CREATE TABLE category_peer_stat (
+            category_id  TEXT NOT NULL REFERENCES category(id),
+            basis        TEXT NOT NULL,
+            nutrient     TEXT NOT NULL,
+            peer_count   INTEGER NOT NULL,
+            lower_value  REAL NOT NULL,
+            higher_value REAL NOT NULL,
+            rule_id      TEXT NOT NULL,
+            rule_version TEXT NOT NULL,
+            PRIMARY KEY (category_id, basis, nutrient)
+        ) WITHOUT ROWID
+        """,
+
         // ---------------------------------------------------------------- reference data
         """
         CREATE TABLE brand (

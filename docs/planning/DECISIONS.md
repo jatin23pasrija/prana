@@ -535,3 +535,68 @@ written and still is re-dated; four of the five fail against the old behaviour.
 **What this does not do.** Records already carrying the bumped date keep it. Correcting them
 would mean another commit touching every record, which is the exact harm this decision exists to
 prevent, to fix a five-day skew that changes no threshold.
+
+### ADR-0033 - Bases may be converted for display, never for storage
+
+**Context.** ADR-0023 forbids the importer converting between nutrition bases, and the reason
+still holds: a converted value written into a record is indistinguishable from a declared one
+forever after, and the conversion's assumptions are lost with it.
+
+But 2,373 products in the catalogue declare only a per-serving panel. Under a strict reading they
+would show a nutrition table and no indicators at all, because every published threshold is
+expressed per 100 g or per 100 ml. That is 9 per cent of the catalogue with the analysis switched
+off, and unlike the incomplete records there is nothing missing: the packet stated its serving
+mass and the arithmetic is exact.
+
+**Decision.** Conversion is permitted at display time, under three conditions.
+
+Nothing converted is ever written. The record keeps the panel exactly as the packet printed it,
+and the conversion happens each time the screen is drawn.
+
+The serving mass must be declared on the packet. 2,338 of the 2,373 state one; the remaining 35
+say things like "1 biscuit", and those get no indicators. Assuming a mass for a biscuit is the
+invention the data rules exist to prevent.
+
+Every converted figure is labelled as calculated, naming the serving it came from, in the
+indicator's own explanation. It is our arithmetic and it says so.
+
+**Why this is not a loophole in ADR-0023.** The two differ in what survives. A conversion written
+into a record is permanent, unattributed and propagates into every later use of that record. A
+conversion at display time is recomputed from the declared values every time, carries its own
+provenance on screen, and disappears when the screen does. The prohibition is on laundering an
+assumption into the data, not on arithmetic.
+
+**Consequence.** Peer statistics are exempt. A distribution built partly from our own conversions
+would become a comparison against our assumptions rather than against declared values, and the
+resulting cut-offs would be neither ours nor the manufacturers'. Only panels declared on the
+basis being compared enter a peer set.
+
+### ADR-0034 - Indicator thresholds are transcribed and cited, never chosen
+
+**Decision.** Every threshold the app compares against lives in a versioned rule file under
+`rules/`, validated by `prana-validate` in CI like any other data file, and every rule file must
+name where its numbers came from: title, publisher, licence, and a locator precise enough to find
+the table. The schema rejects a rule set without one. Every indicator on screen names the rule
+set and version that produced it, and tapping it shows the citation.
+
+**Rationale.** "Never invent a number" already governs product data. A threshold is a number the
+app asserts about every product at once, so it deserves at least the same treatment. Choosing
+cut-offs ourselves would mean the most consequential numbers in the app were the only ones with
+no source.
+
+The locator requirement is not bureaucracy. Transcribing the UK front-of-pack bands, two
+secondary summaries of the same document disagreed: one gave the sugars cut-off as 15 g per 100 g
+where Annex 3, Table 2 of the primary document says 22.5 g. Shipping 15 g would have labelled a
+large part of the catalogue Higher in sugar when the source says Moderate. Naming the table is
+what lets a reviewer catch that in a minute.
+
+**Consequence.** The WHO SEARO category limits were prepared and then dropped from this feature.
+Both the WHO repository and its Indian mirror refuse automated download, and the only numbers
+available were a summariser's rendering of a paper's appendix table, which is exactly the class of
+source that had just been shown to be wrong. The schema supports `category_limits` already, so
+adding them once someone has read the primary document is a data change with no code change.
+
+**Also decided.** Rule files ship inside the app, not inside the catalogue. A threshold changing
+alters what people were told, so it should arrive as an app version they can see, alongside the
+version number shown on every indicator. The ingredient dictionary and the peer statistics go the
+other way, into the catalogue, because those improve as the data improves.

@@ -12,6 +12,7 @@ public enum RecordKind
     Category,
     Country,
     Alternative,
+    Rule,
 }
 
 /// <summary>
@@ -127,6 +128,15 @@ public sealed class RecordFile : IDisposable
             return FromName(dash < 0 ? name : name[..dash]);
         }
 
+        // Rule sets live under rules/<area>/, not under data/, because they are not records of
+        // the world: they are the thresholds we compare records against. They are validated the
+        // same way regardless, since an unschema'd threshold file is how a wrong number reaches
+        // the screen.
+        if (segments.Length > 1 && segments[0] == "rules")
+        {
+            return RecordKind.Rule;
+        }
+
         var dataIndex = Array.IndexOf(segments, "data");
 
         return dataIndex >= 0 && dataIndex + 1 < segments.Length
@@ -153,6 +163,7 @@ public sealed class RecordFile : IDisposable
         "category" => RecordKind.Category,
         "country" => RecordKind.Country,
         "alternative" => RecordKind.Alternative,
+        "rule" => RecordKind.Rule,
         _ => RecordKind.Unknown,
     };
 
@@ -165,6 +176,7 @@ public sealed class RecordFile : IDisposable
         RecordKind.Category => "category.schema.json",
         RecordKind.Country => "country.schema.json",
         RecordKind.Alternative => "alternative.schema.json",
+        RecordKind.Rule => "rule.schema.json",
         _ => null,
     };
 

@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "id": "palm-kernel-oil",
+  "name": "Palm kernel oil",
+  "aliases": [
+    "palm kernel fat",
+    "palm kernel oil",
+    "palmkernel oil",
+    "refined palm kernel oil"
+  ],
+  "category": "oil",
+  "explanation": "Oil from the seed inside the palm fruit, not the fruit flesh. It is a different oil from palm oil and much higher in saturated fat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org",
+      "retrieved_at": "2026-09-03",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)",
+      "note": "Alias wordings observed in the ingredient statements of imported Indian products."
+    },
+    {
+      "id": "s2",
+      "type": "community",
+      "retrieved_at": "2026-09-03",
+      "note": "Written by Prana contributors. Describes what the substance is; contains no health claim and no value copied from a label."
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "high"
+    },
+    "aliases": {
+      "source": "s1",
+      "confidence": "high",
+      "note": "Each alias was seen in at least one imported product."
+    },
+    "flags": {
+      "source": "s2",
+      "confidence": "medium",
+      "note": "Classification of the substance, not a value copied from a label."
+    },
+    "explanation": {
+      "source": "s2",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s2",
+      "confidence": "medium"
+    }
+  },
+  "flags": [
+    "palm_derived"
+  ]
+}

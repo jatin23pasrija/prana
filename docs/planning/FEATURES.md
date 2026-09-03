@@ -433,6 +433,37 @@ catalogue, release, sync, find the product offline. This is the Phase 1 success 
 
 ## M6 - Public release
 
+### F18 - Ingredient dictionary
+**Branch** `feat/f18-ingredient-dictionary` · **Deps** F10
+
+F10 seeded `data/ingredients/` with the palm vocabulary it needed: 16 records, 67 aliases. This
+feature owns growing it, and nothing else currently does.
+
+The corpus says what is worth having. The ingredient text across the catalogue holds 13,915
+distinct terms; 273 of them cover 53 per cent of all mentions, 595 cover 63 per cent, and 1,188
+cover 70 per cent. Coverage past that is a long tail of one-off wordings.
+
+**In scope**
+- Grow the dictionary to the terms appearing 10 or more times, roughly 595 entries.
+- Aliases for OCR corruptions seen on real packets. "Iodised salt" is printed or transcribed as
+  "lodised salt" on 349 products and "lodized salt" on 313, and neither matches today.
+- INS additive numbers, which Indian labels use in place of names.
+- Flags beyond palm: added sugar, artificial colour, preservative, common allergen, and the
+  may_be_animal_derived case that some additives genuinely need.
+
+**Definition of done**
+- [ ] Every alias was observed in real label text, with the product count recorded in review.
+- [ ] No entry carries a health claim. The explanation says what a thing is and why it is on a
+      label, never whether it is good for you.
+- [ ] Ambiguity is recorded as ambiguity: where a label does not say enough, the flag says so
+      rather than guessing either way.
+- [ ] Measured coverage of ingredient mentions reported before and after.
+
+**Test round** Take 20 real ingredient statements and check every term the dictionary claims to
+recognise, and every term it does not.
+
+---
+
 ### F17 - Hardening and first public release
 **Branch** `feat/f17-release` · **Deps** F16
 

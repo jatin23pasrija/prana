@@ -91,8 +91,23 @@ Git history is the audit trail. Every value can be traced to the change that int
 - A number that was not on a label or in a cited source.
 - A precise quantity of an ingredient when only its presence is known.
 
-The app shows comparative indicators, for example higher sugar per 100 g than most products in
-the same category, and always explains which rule produced them.
+The app shows comparative indicators, and always names the rule and version that produced each
+one. There are two kinds, and they answer different questions.
+
+A **published threshold** says where a value falls against cut-offs transcribed from a named
+document, for example higher sugar per 100 g than the front-of-pack guidance calls higher. This
+applies to any product declaring a nutrition panel.
+
+A **comparison with similar products** says where a value falls among the other products in the
+same category in this catalogue, for example more sugar than most of the 276 biscuits that
+declare it. This one is only offered where there are enough products to mean anything, currently
+30, and that is a minority: most of the catalogue has no category at all. Where it is not offered,
+nothing is shown rather than something weak.
+
+The second describes what is on the shelf, not what is recommended, and the app says so. If most
+biscuits in a category carry a lot of sugar, a biscuit in the middle of them is unremarkable among
+biscuits and can still be higher by any published measure. Both statements can be true at once and
+the app shows both.
 
 ## 8. Your data
 

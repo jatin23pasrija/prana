@@ -56,6 +56,7 @@
         "type": "string",
         "enum": [
           "palm_derived",
+          "may_be_palm_derived",
           "added_sugar",
           "artificial_sweetener",
           "artificial_colour",
@@ -66,7 +67,7 @@
           "may_be_animal_derived"
         ]
       },
-      "description": "Attributes the app can surface. may_be_animal_derived exists because some additives are made from either plant or animal sources and the label does not say which. Recording the uncertainty is the honest answer."
+      "description": "Attributes the app can surface. The may_be_ flags exist because a label often does not say enough to be certain. Indian labels routinely declare edible vegetable oil without naming the oil, and it frequently is palm; recording that as may_be_palm_derived is the honest answer, where claiming either presence or absence would not be. Recording the uncertainty is the point."
     },
 
     "explanation": {

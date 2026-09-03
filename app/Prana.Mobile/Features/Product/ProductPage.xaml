@@ -11,27 +11,151 @@
 
             <ActivityIndicator IsRunning="{Binding IsBusy}" IsVisible="{Binding IsBusy}" />
 
-            <Label Text="{Binding ProductName}" Style="{StaticResource Title}" />
-            <Label Text="{Binding Summary}" Style="{StaticResource Muted}" />
-            <Label Text="{Binding Barcode}" Style="{StaticResource Muted}" />
-
-            <Border Style="{StaticResource Card}">
-                <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
-                    <Label Text="What we know" Style="{StaticResource Heading}" />
-                    <Label Text="{Binding Explanation}" />
+            <!--
+                Shown instead of the content, never beside it. A product screen that renders half
+                its cards next to an error banner is how someone ends up trusting a number that
+                was never loaded.
+            -->
+            <Border Style="{StaticResource Card}" IsVisible="{Binding HasError}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceS}">
+                    <Label Text="This product could not be shown" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding ErrorMessage}" />
                 </VerticalStackLayout>
             </Border>
 
+            <!-- Identity -->
+            <VerticalStackLayout Spacing="{StaticResource SpaceXS}"
+                                 IsVisible="{Binding HasError, Converter={StaticResource Not}}">
+                <Label Text="{Binding ProductName}" Style="{StaticResource Title}" />
+                <Label Text="{Binding Summary}" Style="{StaticResource Muted}"
+                       IsVisible="{Binding HasSummary}" />
+                <Label Text="{Binding Barcode}" Style="{StaticResource Muted}" />
+            </VerticalStackLayout>
+
             <!--
-                Shown both when the catalogue does not have the product and when it has only a
-                name. Those are different facts but the same next step, and ADR-0026 turns that
-                into a requirement rather than a preference.
+                Shown when the record holds only a name, and when the barcode is not in the
+                catalogue at all. Different facts, same next step, and ADR-0026 makes offering it
+                for the first case a requirement rather than a nicety.
             -->
             <Border Style="{StaticResource Card}" IsVisible="{Binding NeedsDiscovery}">
                 <VerticalStackLayout Spacing="{StaticResource SpaceS}">
-                    <Label Text="Help fill this in" Style="{StaticResource Heading}" />
+                    <Label Text="We do not know what is in this" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding Explanation}" />
                     <Label Text="Searching online and contributing what you find arrives in a later version."
                            Style="{StaticResource Muted}" />
+                </VerticalStackLayout>
+            </Border>
+
+            <!-- Nutrition panels, one card each. A packet printing two panels gets two cards,
+                 because the bases are never merged. -->
+            <VerticalStackLayout BindableLayout.ItemsSource="{Binding Panels}"
+                                 Spacing="{StaticResource SpaceM}"
+                                 IsVisible="{Binding HasNutrition}">
+                <BindableLayout.ItemTemplate>
+                    <DataTemplate x:DataType="vm:PanelLine">
+                        <Border Style="{StaticResource Card}">
+                            <VerticalStackLayout Spacing="{StaticResource SpaceS}">
+
+                                <Label Text="{Binding Title}" Style="{StaticResource Heading}" />
+                                <Label Text="{Binding Serving}" Style="{StaticResource Muted}"
+                                       IsVisible="{Binding HasServing}" />
+
+                                <!-- The table. A nutrient the packet does not declare shows as
+                                     Unknown; it is never a zero and never a blank row. -->
+                                <VerticalStackLayout BindableLayout.ItemsSource="{Binding Nutrients}"
+                                                     Spacing="{StaticResource SpaceXS}">
+                                    <BindableLayout.ItemTemplate>
+                                        <DataTemplate x:DataType="vm:NutrientLine">
+                                            <Grid ColumnDefinitions="*,Auto">
+                                                <Label Grid.Column="0" Text="{Binding Name}" />
+                                                <Label Grid.Column="1" Text="{Binding Value}"
+                                                       HorizontalOptions="End" />
+                                            </Grid>
+                                        </DataTemplate>
+                                    </BindableLayout.ItemTemplate>
+                                </VerticalStackLayout>
+
+                                <Label Text="{Binding NotDeclaredNote}" Style="{StaticResource Muted}"
+                                       IsVisible="{Binding HasNotDeclared}" />
+
+                                <!-- Indicators. Each one is tappable and explains itself. -->
+                                <VerticalStackLayout BindableLayout.ItemsSource="{Binding Indicators}"
+                                                     Spacing="{StaticResource SpaceXS}"
+                                                     Margin="{StaticResource GapTopS}">
+                                    <BindableLayout.ItemTemplate>
+                                        <DataTemplate x:DataType="vm:IndicatorLine">
+                                            <Border Style="{StaticResource Chip}">
+                                                <Grid ColumnDefinitions="*,Auto,Auto"
+                                                      ColumnSpacing="{StaticResource SpaceS}">
+                                                    <Label Grid.Column="0" Text="{Binding Name}" />
+                                                    <Label Grid.Column="1" Text="{Binding Value}"
+                                                           Style="{StaticResource Muted}" />
+                                                    <Label Grid.Column="2" Text="{Binding Level}" Style="{StaticResource IndicatorLevel}" />
+                                                    <Grid.GestureRecognizers>
+                                                        <TapGestureRecognizer
+                                                            Command="{Binding Source={RelativeSource AncestorType={x:Type vm:ProductViewModel}}, Path=ExplainCommand}"
+                                                            CommandParameter="{Binding .}" />
+                                                    </Grid.GestureRecognizers>
+                                                </Grid>
+                                            </Border>
+                                        </DataTemplate>
+                                    </BindableLayout.ItemTemplate>
+                                </VerticalStackLayout>
+
+                                <Label Text="Tap an indicator to see the rule and source behind it."
+                                       Style="{StaticResource Muted}"
+                                       IsVisible="{Binding HasIndicators}" />
+
+                            </VerticalStackLayout>
+                        </Border>
+                    </DataTemplate>
+                </BindableLayout.ItemTemplate>
+            </VerticalStackLayout>
+
+            <!-- Comparison with similar products, only where there are enough of them. -->
+            <Border Style="{StaticResource Card}" IsVisible="{Binding HasPeerComparisons}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
+                    <Label Text="Compared with similar products" Style="{StaticResource Heading}" />
+                    <VerticalStackLayout BindableLayout.ItemsSource="{Binding PeerComparisons}"
+                                         Spacing="{StaticResource SpaceXS}">
+                        <BindableLayout.ItemTemplate>
+                            <DataTemplate x:DataType="x:String">
+                                <Label Text="{Binding .}" />
+                            </DataTemplate>
+                        </BindableLayout.ItemTemplate>
+                    </VerticalStackLayout>
+                    <Label Text="This describes what is on the shelf, not what is recommended."
+                           Style="{StaticResource Muted}" />
+                </VerticalStackLayout>
+            </Border>
+
+            <!-- Ingredients and the palm state -->
+            <Border Style="{StaticResource Card}" IsVisible="{Binding HasIngredients}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceS}">
+                    <Label Text="Ingredients" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding IngredientsRaw}" />
+                </VerticalStackLayout>
+            </Border>
+
+            <Border Style="{StaticResource Card}" IsVisible="{Binding HasPalmDetail}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
+                    <Label Text="{Binding PalmHeading}" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding PalmStatement}" />
+                </VerticalStackLayout>
+            </Border>
+
+            <!-- Where this came from and how old it is -->
+            <Border Style="{StaticResource Card}"
+                    IsVisible="{Binding HasError, Converter={StaticResource Not}}">
+                <VerticalStackLayout Spacing="{StaticResource SpaceXS}">
+                    <Label Text="Where this comes from" Style="{StaticResource Heading}" />
+                    <Label Text="{Binding VerificationNote}" />
+                    <Label Text="{Binding FreshnessNote}" Style="{StaticResource Muted}" />
+                    <Label Text="{Binding SourcesNote}" Style="{StaticResource Muted}"
+                           Margin="{StaticResource GapTopS}" />
+                    <Label Text="Always check the packet. This app can be wrong or out of date."
+                           Style="{StaticResource Muted}"
+                           Margin="{StaticResource GapTopS}" />
                 </VerticalStackLayout>
             </Border>
 
