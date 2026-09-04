@@ -43,3 +43,10 @@ CLAUDE.md
 # MAUI / Android build intermediates
 app/**/obj/
 app/**/bin/
+
+# Catalogue signing private key. It belongs in a GitHub Actions secret and an offline backup,
+# never in the repository. Named defensively because losing control of it means every installed
+# app has to be updated (SECURITY.md, key rotation).
+*.key
+prana-catalogue-signing.*
+!keys/catalogue-signing.pub

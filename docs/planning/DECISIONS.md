@@ -600,3 +600,58 @@ adding them once someone has read the primary document is a data change with no 
 alters what people were told, so it should arrive as an app version they can see, alongside the
 version number shown on every indicator. The ingredient dictionary and the peer statistics go the
 other way, into the catalogue, because those improve as the data improves.
+
+### ADR-0035 - Catalogue signatures are ECDSA P-256, in DER
+
+**Decision.** Catalogue packages are signed with ECDSA on the NIST P-256 curve over a SHA-256
+digest, and the signature is stored in the DER encoding OpenSSL produces.
+
+**Why not Ed25519.** It was the obvious first choice and it is not available. .NET 10 has no
+Ed25519 in the base class library, checked rather than assumed: the type is absent from
+`System.Security.Cryptography`. Using it would mean a third-party crypto library inside the app,
+which for a signature-verification path means new native code on Android and iOS and a
+supply-chain dependency sitting on exactly the check that decides whether a downloaded file is
+trusted. ECDSA P-256 needs none of that: `ECDsa.VerifyData` is in the box on every target.
+
+**Why DER rather than the .NET default.** OpenSSL and .NET disagree, and it is silent. `openssl
+dgst -sign` emits a DER SEQUENCE, roughly 70 bytes; .NET's `SignData` and `VerifyData` default to
+IEEE P1363, a fixed 64-byte r||s concatenation. Passing one to the other returns false rather
+than throwing, so the failure looks exactly like a bad signature or a tampered package.
+
+Verified before writing this down: an OpenSSL-produced signature verifies in .NET only with
+`DSASignatureFormat.Rfc3279DerSequence` and returns false with the default. F06 and F11 must both
+state the format explicitly.
+
+DER is the side that moves because the release pipeline signs with OpenSSL in CI, and a signing
+step anyone can reproduce with a standard command line is worth more than a shorter signature.
+It also satisfies F06's definition of done, which requires the signature to verify with a
+documented command.
+
+**Consequence.** The public key is committed as PEM and read with `ECDsa.ImportFromPem`. The
+private key exists only in GitHub Actions secrets, per ADR-0011. Rotation is unchanged: publish a
+new public key in an app release, then sign with the new private key once that release is out.
+
+### ADR-0036 - Online discovery is never automatic
+
+**Context.** The catalogue holds a name and nothing else for 15,414 products, 58 per cent of it,
+and misses others entirely. Looking those up online is the obvious next step, and the question
+was whether the app should do it on its own.
+
+**Decision.** It does not. Discovery happens when the user asks for it, with one tap, on a
+product screen that already says what is missing. Nothing leaves the device unasked.
+
+**Rationale.** A background lookup sends the barcode of a product the user is physically holding
+to a third party, with no action on their part and nothing on screen to say it happened. That is
+a record of what someone is buying, built without them asking for it.
+
+DATA_POLICY.md section 8 says nothing is uploaded unless the user takes an explicit action, and
+that there is no analytics or tracking in the app. An automatic lookup contradicts both, in an
+app whose entire pitch is that it works offline. The cost of being caught doing it quietly is far
+higher than the convenience of saving one tap: this is an open-source app, the code is public,
+and someone will read it.
+
+**Consequence.** F12 gains an explicit trigger and loses the "only triggered when the local
+lookup misses" wording, which was too narrow anyway: ADR-0026 requires discovery to be offered
+for incomplete records as well as misses, and those are the larger group. If an automatic mode is
+ever wanted, it belongs behind a preference that defaults to off, and DATA_POLICY.md has to
+change in the same pull request that adds it.

@@ -56,6 +56,61 @@ key is compiled into the app.
 The app refuses any package whose signature does not verify against the embedded public key,
 regardless of where the package came from.
 
+### Algorithm
+
+ECDSA on the NIST P-256 curve over a SHA-256 digest, with the signature in DER. Ed25519 would be
+the usual choice and is not available: .NET has no Ed25519 in the base class library, and pulling
+in a third-party crypto library to run the check that decides whether a downloaded file is trusted
+is a worse trade than a slightly older algorithm. See ADR-0035.
+
+**The encoding matters and fails quietly.** OpenSSL emits a DER SEQUENCE of about 70 bytes.
+.NET's `SignData` and `VerifyData` default to IEEE P1363, a fixed 64-byte concatenation. Passing
+one to the other returns false rather than raising, so a format mismatch is indistinguishable
+from a tampered package. Verification must name the format:
+
+```csharp
+key.VerifyData(package, signature, HashAlgorithmName.SHA256,
+               DSASignatureFormat.Rfc3279DerSequence);
+```
+
+### Generating the keypair
+
+Run this on a machine you trust, not in CI. The private key must never be committed, pasted into
+an issue or a chat, or copied anywhere but the GitHub Actions secret.
+
+```bash
+# Private key. Keep it out of the repository.
+openssl ecparam -name prime256v1 -genkey -noout -out prana-catalogue-signing.key
+
+# Public key. This one is committed and compiled into the app.
+openssl ec -in prana-catalogue-signing.key -pubout -out prana-catalogue-signing.pub
+```
+
+Then:
+
+1. Copy the **entire** contents of `prana-catalogue-signing.key`, `BEGIN` and `END` lines
+   included, into a repository secret named `CATALOGUE_SIGNING_KEY`
+   (Settings → Secrets and variables → Actions → New repository secret).
+2. Commit `prana-catalogue-signing.pub` to the repository as `keys/catalogue-signing.pub`.
+3. Store the private key file itself in a password manager or an offline backup, then delete it
+   from the working directory. Losing it means every installed app needs updating.
+
+Check the pair before trusting it:
+
+```bash
+printf 'test' > /tmp/t.bin
+openssl dgst -sha256 -sign prana-catalogue-signing.key -out /tmp/t.sig /tmp/t.bin
+openssl dgst -sha256 -verify prana-catalogue-signing.pub -signature /tmp/t.sig /tmp/t.bin
+# Expect: Verified OK
+```
+
+Anyone can verify a published release the same way, which is what F06's definition of done
+requires:
+
+```bash
+openssl dgst -sha256 -verify keys/catalogue-signing.pub   -signature catalogue.db.br.sig catalogue.db.br
+```
+
 ### Key rotation
 
 Rotation is required if the key is suspected compromised, and is rehearsed once before the

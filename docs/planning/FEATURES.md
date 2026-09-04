@@ -171,6 +171,9 @@ Publish the catalogue so a phone can fetch it.
 
 **In scope**
 - Key generation procedure, private key in Actions secrets, public key committed for the app.
+- ECDSA P-256 over SHA-256, signature in DER (ADR-0035). The app must verify with
+  `DSASignatureFormat.Rfc3279DerSequence`; the .NET default is a different encoding and fails
+  silently against an OpenSSL signature.
 - `.github/workflows/build-catalogue.yml` and `release-catalogue.yml`: build, checksum, sign,
   create a versioned GitHub Release with the package, manifest and signature attached.
 - A stable `latest` manifest URL the app can poll.
@@ -315,7 +318,11 @@ recorded in the PR.
 ## M4 - Discovery and contribution
 
 ### F12 - Online product discovery
-**Branch** `feat/f12-discovery` · **Deps** F11
+**Branch** `feat/f12-discovery` · **Deps** F10
+
+> The dependency on F11 was ordering, not necessity. Discovery needs the product screen and a
+> network, not catalogue sync, so it can run while F06 and F11 are blocked. Same rewire as
+> ADR-0031 applied to F07.
 
 **In scope**
 - `IDiscoverySource` adapters. Approved sources only, from `DATA_SOURCES.md`.
@@ -324,13 +331,18 @@ recorded in the PR.
 - Structured APIs preferred over HTML parsing. All external content treated as untrusted.
 - Temporary result screen, visually distinct from trusted catalogue data, showing sources,
   confidence and any conflict between sources.
-- Only triggered when the local lookup misses.
+- Triggered only by an explicit action, never automatically. See ADR-0036: a background lookup
+  sends the barcode of a product in the user's hand to a third party unasked, which contradicts
+  DATA_POLICY.md section 8.
+- Offered both when the lookup misses and when it returns a record holding only a name. The
+  second group is larger, and ADR-0026 makes offering it a requirement.
 
 **Definition of done**
 - [ ] A trusted record and a discovered record are impossible to confuse in the UI.
 - [ ] Source list, retrieval time and conflicts are all shown.
 - [ ] Timeouts, offline and empty results all handled without a crash.
 - [ ] Discovered data never enters `catalogue.db`.
+- [ ] No network request is made without an explicit user action, demonstrated with a capture.
 
 **Test round** Scan products known to be missing. Confirm the temporary labelling is
 unmistakable to someone who has not read the docs.
