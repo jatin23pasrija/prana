@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904045420934",
+  "barcode_printed": "8904045420934",
+  "barcode_format": "EAN-13",
+  "name": "KUKA SIP",
+  "brand": "multani",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Each 100 g granules are prepared from: Ext. derived from: Yastimadhu (Glycyrrhiza glabra) (Rt. & Stn.) 4.28 g, Tulasi (Ocimum sanctum) (Lf.) 4.28 g, Gulbanafsha (Viola odorata) (PI.) 2.14 g, Dhanyak (Coriandrum sativum) (Fr.) 2.14 g, Bharangi (Clerodendrum serratum) (Rt.) 2.14 g, Vasaka (Adhatoda vasica) (Lf.) 1.07 g Tvak (Cinnamomum zeylanicum) (St.Bk.) 1.07 g, Kulanjan (Alpinia galanga) (Rz.) 1.07 g, Kantkari (Solanum surattense (Pl.) 1.07 g, Pdr. of: Madhu 2 g, Sharkara - 95.5 g, Oil of: Shunthi (Zingiber officinale) (Rz.) 1.2 g, Maricha (Piper nigrum) (Fr. 0.12 g Preservative: Sodium Benzoate (I.P.)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904045420934",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

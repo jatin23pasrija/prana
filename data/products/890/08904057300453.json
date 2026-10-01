@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904057300453",
+  "barcode_printed": "8904057300453",
+  "barcode_format": "EAN-13",
+  "name": "Arun Icecreams Double Chocolate Crunch",
+  "brand": "arun-icecreams",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "DOUBLE CHOCOLATE FLAVORED ICE CREAM WITH DARK CHOCO COATING & TOPPED WITH CASHEW NUTS. Inner Layer (60%): Ice Cream (Milk Solids, Sugar, Water, Cocoa Solids (4.5%), Liquid Glucose, Emulsifiers (471, 477), Stabilizers (410, 412), Color (150d) & Artificial (Vanilla) Flavoring Substances). Outer Coating (40%): Dark Choco Coating (Sugar, Fractionated Fat (Sal, Palm & Emulsifier (Soy Lecithin)), Cocoa Solids, Cocoa Butter, Milk Solids, Edible Vegetable Oil (Sunflower Oil), Emulsifiers (322 & 476) & Artificial (Vanilla) Flavoring Substances) & Cashew Nuts (6%). Contains Milk, Nuts & Soy. Manufactured in the same facility which processes Wheat & Oats.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904057300453",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

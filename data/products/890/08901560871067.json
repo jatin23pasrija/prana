@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901560871067",
+  "barcode_printed": "8901560871067",
+  "barcode_format": "EAN-13",
+  "name": "Nilon's Paneer Butter Masala Mix 50g",
+  "brand": "nilon-s",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Onion, cashew nuts, skimmed milk powder, sugar powder, edible common salt, garlic, red chilli powder, corn starch, tomato powder, dried ginger, coriander, dry fenugreek leaf, cumin seeds, dry mint leaves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901560871067",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

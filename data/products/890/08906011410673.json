@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906011410673",
+  "barcode_printed": "8906011410673",
+  "barcode_format": "EAN-13",
+  "name": "Madras Lentil Hing Jeera Crisps",
+  "brand": "yuvan-gourmet-snacks",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Black gram lentil flour (70%), rice flour, refined rice-bran oil, cumin, calcium carbonate, red chilli powder, asafoetida, black pepper, acidity regulators (INS 330, INS 296), flavour enhancers (INS 627, INS 631), maltodextrin, dextrose, iodised salt, sugar, anticaking agent (INS 170).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906011410673",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010471675",
+  "barcode_printed": "8906010471675",
+  "barcode_format": "EAN-13",
+  "name": "Chat Masala",
+  "brand": "rr-masala",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cumin Seeds, Pepper Corns, Red Chilly, Dry Ginger, Black Salt, Dry Mango Powder, Mint, Ajowan Seeds, Cloves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010471675",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

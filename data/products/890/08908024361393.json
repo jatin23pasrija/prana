@@ -15,34 +15,13 @@
       "unit": "ml"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "250 g",
-        "quantity": {
-          "value": 250,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 160,
-        "protein_g": 26,
-        "carbohydrate_g": 13,
-        "sugars_g": 13,
-        "fat_g": 0.4,
-        "saturated_fat_g": 0.2,
-        "trans_fat_g": 0,
-        "sodium_mg": 75
-      }
-    }
-  ],
+  "ingredients_raw": "High Protein Pasteurised Skimmed Milk, Coffee (1%) & Lactase Enzyme",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908024361393",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-10-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -63,13 +42,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-10-01"
   }
 }

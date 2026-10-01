@@ -4,30 +4,23 @@
   "barcode_printed": "8904071702202",
   "barcode_format": "EAN-13",
   "name": "Salt-n-Pepper Banana Chips",
+  "brand": "cheeda-s",
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 560.71,
-        "protein_g": 3.57,
-        "carbohydrate_g": 50,
-        "sugars_g": 0,
-        "fat_g": 39.29,
-        "saturated_fat_g": 14.29,
-        "fibre_g": 3.57,
-        "sodium_mg": 342.86
-      }
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
     }
-  ],
+  },
+  "ingredients_raw": "Banana 62.5%. Palm Oil 32.5%, Black Pepper 2%, Salt 1.5%, Black Salt 1 %, Dry mango Powder 0.5%, Ground Spices INGRÉDIENTS : Banane 62.5%, Huile de palme 32.5%, Poivre noir 2%, Sel 1.5%, Sel noir 1 %, Poudre de mangue séchée 0.5% المكونات : موز ٦٢,٥٪ ، زيت نخيل ٣٢,٥%، فلفل أسود % ، ملح %١٫٥ ملح أسود ۱ مسحوق مانجو جافة %٠,٥",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904071702202",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-10-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -36,13 +29,21 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-10-01"
   }
 }

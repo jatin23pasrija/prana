@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08907892000540",
+  "barcode_printed": "8907892000540",
+  "barcode_format": "EAN-13",
+  "name": "Kab's Jackpot Korean Ramyun",
+  "brand": "kwality-noodles",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 105,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat Flour, Wheat Gluten, Potato Starch, Vegetable Oil, Raising Agent (Sodium Bicarbonate), Emulsifiers (Sodium Triphosphate, Carboxy Methyl Cellulose), Potassium Chloride and Salt. KOREAN RAMYUN SEASONING: Mix Spices, Chilly Pepper, Garlic, Paprika Oil, Salt, Sugar, Chicken Powder, Flavour Enhancers (MonoSodium Glutamate, Disodium Guanylate, Disodium Inosinate), Starch Powder, Green Capsicum Powder, Encapsulated Capsicum Powder & Silicon Di-oxide). KOREAN TASTE MAKER PASTE: Palmolein & Peprika Oil Extract. DEHYDRATED VEGETABLES: Peas, Carrot, Cabbage and Chives. ALLERGEN ADVICE: Contains, Wheat Gluten, Soya Power & Milk Solids. fssai Lie No. 10012011000629 (For any query/complaint please contact Customer Care Manager Rama Vision ltd.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907892000540",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

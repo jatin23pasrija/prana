@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009220772",
+  "barcode_printed": "8906009220772",
+  "barcode_format": "EAN-13",
+  "name": "Plum Cake",
+  "brand": "nutrifud",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat flour, Sugar, Eggs, Hydrogenated vegetable fat, Butter, Raisins, Glazed Papaya, Dates, Jam [Sugar, Mixed fruit pulp, Gelling agent, (E 440(a))], Cashew nuts, Liquid glucose, Candied ginger, Candied orange peel, Partly skimmed milk powder, Spices and condiments, Salt, Raising agent (E 500), Class II preservative (E 282). CONTAINS ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCE VANILL AND NATURE IDENTICAL FLAVOURING SUBSTANCE PLUM (0.2%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009220772",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

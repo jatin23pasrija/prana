@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906025202509",
+  "barcode_printed": "8906025202509",
+  "barcode_format": "EAN-13",
+  "name": "Kwality Kachi Ghani Mustard Oil 5 Ltr",
+  "brand": "kwality",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906025202509",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

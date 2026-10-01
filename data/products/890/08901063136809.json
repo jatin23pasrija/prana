@@ -5,6 +5,7 @@
   "barcode_format": "EAN-13",
   "name": "Britannia Digestives Original",
   "brand": "britannia",
+  "category": "biscuits",
   "countries": [
     "IN"
   ],
@@ -14,27 +15,12 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 149.9,
-        "protein_g": 2,
-        "carbohydrate_g": 20,
-        "sugars_g": 4.5,
-        "fat_g": 6,
-        "saturated_fat_g": 3,
-        "fibre_g": 2,
-        "sodium_mg": 140
-      }
-    }
-  ],
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063136809",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-10-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -47,17 +33,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "package": {
+    "category": {
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-10-01"
   }
 }

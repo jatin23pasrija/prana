@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08907892000823",
+  "barcode_printed": "8907892000823",
+  "barcode_format": "EAN-13",
+  "name": "Kab's Jackpot Korean Style Instant Noodles",
+  "brand": "kwality-noodles",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 105,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat Flour, Wheat Gluten Potato Starch, Vegetable 04, Raising Angent (sodium Bicarbonate), Emulsifiers (sodium Triphosphate, Carboxy Methyl Cellulose), Potassium Chloride and Salt JACKPOT ORIENTAL STYLE NOODLES SEASONING: Mix Spices Chilly Pepper, Garlic, Paprika Oil, Salt, Sugar, Black Pepper, Yeast Extract, Hydrolyzed Soy Protein, Ginger, SMP Non Dairy Creamer, Ravour Enchancers (Monosodium Giturate, Disodium Gluanylate, Disodium Inosinate, Starch Powder, Green Capsicum Powder, Encapsulated Capsicum Powder & Silicon Di-oxide). JACKPOT ENHANCED OIL-Palm olien, Paprika/Capsicum oil, Enhancer. DEHYDRATED VEGETABLES: Carrot, Cabbage and Chives. This packet of Jackpot Oriental Style Noodles contain added monosodium glutamate. Not recommended for infants below 12 months & pregnant woman. ALLERGEN ADVICE: Contains, Wheat Gluten, Soya Power & M Solids",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8907892000823",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

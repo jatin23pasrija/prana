@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00801541001439",
+  "barcode_printed": "0801541001439",
+  "barcode_format": "EAN-13",
+  "name": "Revitalise Gut Herbal Infusion",
+  "brand": "organic-india",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Ajwain seed powder (Trachyspermum ammi) 0.36 g, &quot;Vana Tulsi leaf powder (Ocimum gratissimum) 0.342 g, 'Ginger root powder (Zingiber officinale) 0.27 g, Spearmint leaf powder (Mentha spicata) 0.18 g, &quot;Cumin seed powder (Cuminum cyminum) 0.144 g, &quot;Fennel seed powder (Foeniculum vulgare) 0.144 g, &quot;Black pepper fruit powder (Piper nigrum) 0.144 g, &quot;Lemongrass leaf powder (Cymbopogon citratus) 0.144 g, Bacillus coagulans 0.036 g, Mint Natural Flavour 0.036 g",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0801541001439",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

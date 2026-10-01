@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058128819",
+  "barcode_printed": "8901058128819",
+  "barcode_format": "EAN-13",
+  "name": "Maggi Masala Cuppa Noodles 70.5g",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70.5,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles made with refined wheat flour, palm oil, iodised salt and permitted additives. Tastemaker includes mixed spices, dehydrated vegetables, tomato paste, onion and garlic flakes, herbs and flavour enhancers. Contains wheat; may contain milk, oats and soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058128819",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

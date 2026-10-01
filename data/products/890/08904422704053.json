@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904422704053",
+  "barcode_printed": "8904422704053",
+  "barcode_format": "EAN-13",
+  "name": "Jeera Biscuits",
+  "brand": "patanjali",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat flour (Atta-58.3%), Refined Palm Oil, Sugar, Cumin seeds (1.5%), Liquid Glucose, Iodized Salt, Invert sugar Syrup, Corn Starch, Raising agent [INS 503(ii). INS 500(ii), INS 450(i)). Emulsifier INS322(i), Nature identical Flavouring substances (cumin), Spice (black cumin), Acidity regulator (INS 330), Natural colour (INS 150d)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904422704053",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

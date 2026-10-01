@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906036673282",
+  "barcode_printed": "8906036673282",
+  "barcode_format": "EAN-13",
+  "name": "Coconut cookies",
+  "brand": "nandini",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat flour, Sugar, Hydrogenated Wable Desiccated Coconut Powder (12%), Milk Solids (Butter, Milk, whey powder), Refined Sunflower oil, Cardamom Powder, Iodized Salt, Raising Agent (INS 5001)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906036673282",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

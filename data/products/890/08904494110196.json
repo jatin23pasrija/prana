@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904494110196",
+  "barcode_printed": "8904494110196",
+  "barcode_format": "EAN-13",
+  "name": "Pav Bread",
+  "brand": "english-oven",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta-83%), Sugar, Wheat Gluten, Yeast, Edible Vegetable Oil (Rice Bran), Iodized Salt, Fermented (Cane) Sugar, Milk Solids, Malt Powder Emulsifiers [471, 472e, 481 (i)], Improvers [170 (i), 510, 923, 1100].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904494110196",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

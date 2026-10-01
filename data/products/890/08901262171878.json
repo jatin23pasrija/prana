@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262171878",
+  "barcode_printed": "8901262171878",
+  "barcode_format": "EAN-13",
+  "name": "Amul Ice Cream Sugar Free Shahi Anjir",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk solids, anjir pieces (12%), polydextrose, fructo-oligosaccharide, emulsifier (471), stabilizers (460, 412, 466, 407), artificial flavouring substances (american ice cream soda, vanilla, fig), colours (122, 133, 102), probiotic bacterial strains (Lactobacillus acidophilus and Bifidobacterium animalis minimum 10⁸ CFU per mL), sucralose. Contains milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262171878",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

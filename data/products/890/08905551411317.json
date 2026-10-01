@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08905551411317",
+  "barcode_printed": "8905551411317",
+  "barcode_format": "EAN-13",
+  "name": "VÖLKA CHOKOLADE",
+  "brand": "volka",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Avellanas caramelizadas (41%) (avellanas 94%, azúcar, jarabe de glucosa, miel), azúcar, leche entera en polvo, manteca de cacao, cacao, goma arábiga, goma laca, lecitina de soya, aromatizantes/saborizantes naturales, emulsionante.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905551411317",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

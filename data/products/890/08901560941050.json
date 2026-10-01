@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901560941050",
+  "barcode_printed": "8901560941050",
+  "barcode_format": "EAN-13",
+  "name": "Nilon's Paneer Tikka Masala 50g",
+  "brand": "nilon-s",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Dehydrated onion, milk solids, cashew nuts, tomato powder, edible common salt, chilli, sugar, coriander, dehydrated garlic, fenugreek leaves, corn starch, dehydrated ginger, cumin, green cardamom, cassia, clove, black pepper, bay leaf, turmeric, nutmeg, mace, permitted natural colour (INS 160c).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901560941050",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

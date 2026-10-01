@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764061103",
+  "barcode_printed": "8901764061103",
+  "barcode_format": "EAN-13",
+  "name": "Diet Coke",
+  "brand": "coke",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 330,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Carbonated water, acidity regulators (E338, E331(iii)), sweeteners (E951, E950), preservative (E221), caffeine (10mg/100g), colour (E150d), flavours (natural flavouring substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764061103",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

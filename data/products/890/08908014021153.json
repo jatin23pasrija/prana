@@ -5,6 +5,7 @@
   "barcode_format": "EAN-13",
   "name": "Afrodille Dried Blueberry",
   "brand": "afrodille",
+  "category": "dried-fruit",
   "countries": [
     "IN"
   ],
@@ -14,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 317,
-        "protein_g": 2.5,
-        "carbohydrate_g": 80,
-        "sugars_g": 68,
-        "fat_g": 2.5,
-        "saturated_fat_g": 0.2,
-        "fibre_g": 7.5,
-        "sodium_mg": 3
-      }
-    }
-  ],
   "ingredients_raw": "Blueberries, Sugar, Citric Acid SO₂. CONTAINS PERMITTED SYNTHETIC FOOD COLOURS.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908014021153",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-10-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -48,11 +34,11 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "package": {
+    "category": {
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
       "source": "s1",
       "confidence": "medium"
     },
@@ -63,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-10-01"
   }
 }

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262302647",
+  "barcode_printed": "8901262302647",
+  "barcode_format": "EAN-13",
+  "name": "Amul Tru Santra Mantra",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk solids, sugar, orange puree concentrate (7.5%) [orange puree concentrate (99.6%), citric acid (330), nature identical flavouring substance, colour {beta carotene (160a)}], orange jelly (7.5%) [sugar, mixed fruit pulp (47%), liquid glucose, water, thickener (440), acidity regulator (330), preservative (211)], emulsifier (471), stabilizers (407, 466, 415, 412), artificial flavouring substances (lemon, sweet orange), colour (110). Contains milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262302647",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

@@ -3,7 +3,7 @@
   "gtin": "00749921050014",
   "barcode_printed": "0749921050014",
   "barcode_format": "EAN-13",
-  "name": "Low fat chocolate",
+  "name": "L-Men Protein 2GO Chocolate",
   "brand": "l-men",
   "countries": [
     "IN"
@@ -14,12 +14,13 @@
       "unit": "ml"
     }
   },
+  "ingredients_raw": "Water, Milk solid (milk protein concentrate, skim and fullcream milk, whey protein concentrate) (11.64%), Cocoa powder (0.84%), stabilizer, synthetic flavor, emulsifier, NaCl, Vitamin Premix, L-Carnitine, Artificial sweetener sucralose, Vitamin D3.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0749921050014",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-10-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-10-01"
   }
 }
