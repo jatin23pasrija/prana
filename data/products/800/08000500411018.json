@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08000500411018",
+  "barcode_printed": "8000500411018",
+  "barcode_format": "EAN-13",
+  "name": "Tic Tac Orange",
+  "brand": "tic-tac",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 13,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Proprietary Food - Hard Candy (5.2.1) INGREDIENTS: SUGAR, MALTODEXTRIN, PERMITTED ADIDULANT (INS 330), RICE STARCH, FLAVOURS (NATURAL FLAVOUR AND NATURE-IDENTICAL FLAVOURING SUBSTANCES), THICKENER (INS 414), ANTICAKING AGENT (INS 470) GLAZING AGENT (INS 903). NUTRITIONAL INFORMATION Per 100 g: Energy 398 kcal, Protein 0.1 g. Carbohydrates 96.7 g. Total Sugars 93.3 g, Added Sugars 91.7 g. Total Fat 0.7 g. Saturated Fat 0.7 g, Trans Fat 0 g, Cholesterol 0 mg, Sodium 11 mg. Per serve RDA%: Energy 0%, Protein 0%, Carbohydrates, Total Sugars, Added Sugars 1%, Total Fat 0%, Saturated Fat 0%, Trans Fat 0%, Cholesterol, Sodium 0%. Serving size: 0.49 g (1 pil)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8000500411018",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

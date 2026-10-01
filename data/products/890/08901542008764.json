@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901542008764",
+  "barcode_printed": "8901542008764",
+  "barcode_format": "EAN-13",
+  "name": "Royale Chocolate Flavour",
+  "brand": "complan",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk Solids (51.9%), Sugar, Peanut Oil, Maltodextrin, Minerals, Artificial (Milk Masala and Saffron) Flavouring Substances, Almonds (0.8%), Natural Colours (INS100(i), INS160b(ii)), Vitamins, Saffron (0.05%), Inositol, Taurine, L-Carnitine.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901542008764",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

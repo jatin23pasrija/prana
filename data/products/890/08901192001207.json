@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901192001207",
+  "barcode_printed": "8901192001207",
+  "barcode_format": "EAN-13",
+  "name": "Catch Sprinkler Black Salt",
+  "brand": "catch",
+  "category": "salt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Proprietary Food (12.1.1) 200g af Lic. No. 10019011006679 Md for/Regd. office: DHARAMPAL SATYAPAL FOODS LIMITED F-15 Ft Fox Pankaj Grand Plaza, CSC, Mayur Vihar, Phase-1, Mayur Vihar, East, Delhi-110091 ALLERGEN ADVISE: This product is manufactured in a facility that may proces the QR code and refer to the first two letters of the batch code to determine the same Gluten, Soy, Sesame, Tree Nuts, Peanuts, Celery Seeds and Mustard Products Scan STORAGE: Keep in a clean, cool and dry place away from sunlight Once opened, keep the rotator in closed position while not in use. * For Consumer Complaints/Feedback, Contact CRO at Manufacturing Address (7M) or Ph.:+91-120-4832860 or E-mail: Buy online at www.catchfoods.com Disclaimer-&quot;Images shown are for illustration purpose only&quot;. For Name, Address, FSSAI License Number of the Manufactured by and Brand Owner details Scan the QR code and match the first two letters of the batch number printed on this pack םום PRODUCT OF INDIA CPCB Regn. No. : BO-13-000-07-AAHCD3526G-22 Follow Catch Foods on fXO Shake well before use. FOR BATCH NO., MFD., USE BY, MRP (Incl. of all taxes), Unit Sale Price See the bottom of the can Dispose in this coloured bin",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901192001207",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

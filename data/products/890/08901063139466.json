@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063139466",
+  "barcode_printed": "8901063139466",
+  "barcode_format": "EAN-13",
+  "name": "Bourbon Creme biscuit",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 120,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR (32.5%), REFINED (PALM & PALMOLEIN) OIL, EDIBLE STARCH, COLOURS [150a, 150 150d, 122, 110, 133 & 102], WHEY POWDER, COCOA SOLIDS (1.5%), NATURE IDENTICAL & ARTIFICIAL (VANILLA, MILKY COCOA & CHOCOLATE) FLAVOURING SUBSTANCES, RAISING AGENTS [500(ii) & 503(ii)], EMULSIFIERS [322(i) & 471], MILK CHOCOLATE (0.1%) [EMULSIFIER [322(i)] AND NATURE IDENTICAL FLAVOURING SUBSTANCES] AND IODISED SALT.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063139466",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

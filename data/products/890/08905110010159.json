@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08905110010159",
+  "barcode_printed": "8905110010159",
+  "barcode_format": "EAN-13",
+  "name": "Bathing bar",
+  "brand": "fiama",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SODIUM SALTS OF FATTY ACIDS, AQUA, PROPYLENE GLYCOL, GLYCERIN, SODIUM LAURETH SULFATE, SORBITOL, SODIUM CHLORIDE, SOYA FATTY ACID, FRAGRANCE, POLYETHYLENE GLYCOL) BIS/CARBOXYMETHYL) ETHER, TETRASODIUM EDTA, TETRASODIUM ETIDRONATE, BHT, DISODIUM DISTYRYLBIPHENYL DISULFONATE, PEG-90M, NONFAT DRY MILK JAPANESE HOKKAIDO MILK), LYCIUM BARBARUM (GOJI BERRY) FRUIT EXTRACT, ALPHA-SOMETHYL TONONE, BENZYL SALICYLATE, BUTYLPHENYL METHYLPROPIONAL CITRONELLOL, COUMARIN, GERANIOL HYDROXYCITRONELLAL LIMONENE, LINALOOL, CI 77891, CI 14700, CI 45100, CI 11680",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905110010159",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

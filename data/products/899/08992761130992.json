@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08992761130992",
+  "barcode_printed": "8992761130992",
+  "barcode_format": "EAN-13",
+  "name": "FANTA JERUK 1L",
+  "brand": "fanta",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Air Berkarbonasi, Gula, Pengatur Keasaman (Asam Sitrat & Trinatrium Sitrat), Vitamin C, Pati Termodifikasi, Perisa Sintetik, Pemanis Buatan (Asesulfam-K & Sukralosa), Pengawet (Kalium Sorbat & Natrium Benzoat), Pewarna Alami (Beta Karoten CI No 75130), Minyak Jeruk (0.005%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8992761130992",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

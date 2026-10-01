@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908001246989",
+  "barcode_printed": "8908001246989",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Bhujia",
+  "brand": "crax",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 160,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Edible Vegetable Oils (Refined Palmolein Oil and Refined Cotton Seed Oil), Gram Flour, Potato Solids (12%), Rice Flour, Corn Flour, *Seasoning [lodized Salt, Maltodextrin, Chilli, Black Salt, Dry Mango Powder, Coriander, Sugar, Onion Powder, Garlic Powder, Clove Powder, Black Pepper, Spice Extract, Anticaking Agent (INS 551), Acidity Regulator (INS 330), Yeast Extract], Flavour(s) (Natural & Nature Identical Flavouring Substances) *Used as part of flavouring agent May Contains Soy, Nut and Wheat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908001246989",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

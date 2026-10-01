@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262175012",
+  "barcode_printed": "8901262175012",
+  "barcode_format": "EAN-13",
+  "name": "Amul Ice Cream Caramel Cookies",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk solids, sugar, cookies (8%) (refined wheat flour, sugar, palm oil, cocoa solids, caramel sauce, raising agent (E503(ii), E500(ii)), common salt), permitted emulsifier (E471) and stabilizers (E407, E466, E415, E412). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (E150d) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES – MILK CARAMEL ÉCLAIR, VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262175012",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

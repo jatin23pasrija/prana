@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030783661",
+  "barcode_printed": "8901030783661",
+  "barcode_format": "EAN-13",
+  "name": "Kwality Wall's Choco Brownie Fudge Ice Cream",
+  "brand": "kwality-wall-s",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 420,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Milk Solids (Skimmed Milk Powder, Milk Fat, Milk), Chocolate Flavoured Confectionery (13.7%) [Water, Sugar, Condensed Milk, Cocoa Solids, Palm Oil, Liquid Glucose, Milk Solids, Maltodextrin, Emulsifier (471), Stabilizers (412, 410), Natural Flavouring Substance], Sugar, Brownie Pieces (10.2%) [Refined Wheat Flour (Maida), Sugar, Palm Oil, Liquid Glucose, Cocoa Solids, Milk Solids, Modified Starch (1442), Leavening Agent (500(ii), 341), Emulsifier (322), Artificial (Vanilla & Chocolate) Flavouring Substances & Salt], Cocoa Solids, Liquid Glucose, Emulsifier (471), Stabilizers (412, 417, 466, 407, 410), Nature Identical Flavouring Substance, Food Colours [Natural (150d & 160a(ii)), 122, 133, 102]. Allergen Information: Contains Milk, Soy & Wheat. May Contain Traces of Nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030783661",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

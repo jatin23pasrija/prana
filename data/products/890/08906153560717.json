@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906153560717",
+  "barcode_printed": "8906153560717",
+  "barcode_format": "EAN-13",
+  "name": "Vanilla Meidum Fat Icecream",
+  "brand": "nandini",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 15,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Milk Solids, Sugar, Emulsifier (INS 471), Stabilizers (INS 407, INS 412, INS 415, INS 466), Artificial Flavour (Vanilla). Allergen Advice: Contains Milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906153560717",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

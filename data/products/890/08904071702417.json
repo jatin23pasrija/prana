@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071702417",
+  "barcode_printed": "8904071702417",
+  "barcode_format": "EAN-13",
+  "name": "Dry fruit Farali mixture",
+  "brand": "chedda-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato (36%), Edible Vegetable Oil (Cotton Seed), Almond (10%), Cashew (10%), Raisins (8%), Peanuts, Sugar, Green Chilli, Cumin Seeds, Rock Salt, Curry Leaves, Cardamom",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071702417",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

@@ -3,7 +3,7 @@
   "gtin": "08854761951413",
   "barcode_printed": "8854761951413",
   "barcode_format": "EAN-13",
-  "name": "Real Almond Milk",
+  "name": "Almond Milk Unsweetened",
   "brand": "137-degrees",
   "countries": [
     "IN"
@@ -14,13 +14,13 @@
       "unit": "ml"
     }
   },
-  "ingredients_raw": "Lait d'amande frais 95% Des amandes entières cultivées en Californie, aux Etats-Unis Extrait de fleur de tournesol 5%",
+  "ingredients_raw": "Filtered Water, Almond 13%, Sunflower seeds 5%.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8854761951413",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-10-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -44,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-10-01"
   }
 }

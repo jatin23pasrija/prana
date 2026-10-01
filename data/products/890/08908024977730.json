@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908024977730",
+  "barcode_printed": "8908024977730",
+  "barcode_format": "EAN-13",
+  "name": "Fermented Yeast Protein",
+  "brand": "superyou-pro",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Fermented Yeast Protein isolate*, Chicory Root Fiber, Natural Flavours, Coffee Powder, Cocoa Powder, Monk Fruit Powder, Sunflower Lecithin (INS 322(i)), Natural Digestive Enzymes (Bromelain & Papain), Probiotic-Bacillus coagulans (1 Billion CFU per serve). Added Natural Flavouring Substances Coffee. Inactive Dried Yeast (Saccharomyces cerevisiae)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908024977730",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

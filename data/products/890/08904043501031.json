@@ -4,7 +4,8 @@
   "barcode_printed": "8904043501031",
   "barcode_format": "EAN-13",
   "name": "Whole Wheat Bread",
-  "brand": "bakers-loaf",
+  "brand": "baker-s-loaf",
+  "category": "bread",
   "countries": [
     "IN"
   ],
@@ -14,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Whole Wheat Flour (62.7%)*, Yeast, Sugar, lodized Salt, Edible Vegetable Oil (Refined Soyabean Oil), Gluten, Fermented Wheat Flour, Brewed Vinegar, Mait Product, Cultured Sugar.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904043501031",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-10-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -32,13 +34,21 @@
       "source": "s1",
       "confidence": "medium"
     },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
     "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-10-01"
   }
 }

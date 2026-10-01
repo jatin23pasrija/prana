@@ -3,9 +3,9 @@
   "gtin": "08906001023043",
   "barcode_printed": "8906001023043",
   "barcode_format": "EAN-13",
-  "name": "Govardhan pure cow ghee 500ml",
-  "brand": "paragon-partners",
-  "category": "butter",
+  "name": "Gowardhan pure cow ghee 500ml",
+  "brand": "gowardhan",
+  "category": "ghee",
   "countries": [
     "IN"
   ],
@@ -15,12 +15,13 @@
       "unit": "ml"
     }
   },
+  "ingredients_raw": "MILK FAT",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906001023043",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-10-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-10-01"
   }
 }

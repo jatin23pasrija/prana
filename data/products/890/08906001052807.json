@@ -14,34 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "1 portion (20 g)",
-        "quantity": {
-          "value": 20,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 80,
-        "protein_g": 1,
-        "carbohydrate_g": 7,
-        "sugars_g": 3,
-        "fat_g": 5,
-        "saturated_fat_g": 1.5,
-        "trans_fat_g": 0,
-        "sodium_mg": 530
-      }
-    }
-  ],
+  "ingredients_raw": "Onion, Cottonseed Oil, lodized Salt (7%), Spices & Condiments, Cashew Nut, Sugar, Skimmed Milk Powder and Tomato.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906001052807",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-10-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -58,13 +37,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-10-01"
   }
 }

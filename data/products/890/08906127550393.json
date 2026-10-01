@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906127550393",
+  "barcode_printed": "8906127550393",
+  "barcode_format": "EAN-13",
+  "name": "Fruits, Nuts & Seeds SUPER MUESLI",
+  "brand": "alpino",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "ROLLED OATS (15%), BARLEY FLAKES (12%), WHEAT FLAKES (10%), RICE FLAKES (10%), CORN FLAKES (10%), RAGI FLAKES (7%), JOWAR FLAKES (6%), NUTS, SEEDS & BERRIES MIX (18%)[ALMOND SLICES BLACK RAISINS, SUNFLOWER SEEDS, PUMPKIN SEEDS, FLAX SEEDS, CRANBERRY, DRIED APPLE, DRIED PAPAYA], BROWN SUGAR (8%), BARLEY MALT, FLAVOURING SUBSTANCES (NATURE-IDENTICAL), HIMALAYAN PINK SALT, ANTIOXIDANT (ROSEMARY EXTRACT) ALLERGEN INFORMATION: OATS, WHEAT, BARLEY & TREE NUTS (ALMONDS) PROPRIETARY FOOD: BREAKFAST CEREALS, INCLUDING ROLLED OATS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906127550393",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

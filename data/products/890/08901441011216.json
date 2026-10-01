@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901441011216",
+  "barcode_printed": "8901441011216",
+  "barcode_format": "EAN-13",
+  "name": "Lijjat Papad Sindh Masala 200G",
+  "brand": "lijjat",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Urid lentil flour (89.67%), salt (3.60%), black pepper (2.73%), red chillies (0.27%), cumin (3.57%), asafoetida seasoning (0.11%), raising agent: sodium bicarbonate (2.15%), sesame oil (0.90%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901441011216",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

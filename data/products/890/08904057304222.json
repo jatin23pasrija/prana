@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904057304222",
+  "barcode_printed": "8904057304222",
+  "barcode_format": "EAN-13",
+  "name": "Ice Cream Cake",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Middle Layer (58%): Ice Cream (Milk Solids, Sugar, Water, Sugar Boiled Confectionery (6%) (Sugar, Cashew, Edible Vegetable Fat (Hydrogenated Oils), Milk Solids, Dextrose, Emulsifier (471) & lodized Salt), Liquid Glucose, Emulsifiers (471, 477), Stabilizers (412, 410), Artificial (Butterscotch) Flavoring Substances & Color (102)) Outer Coating (29%): Sweetened Condensed Milk Infused Whipped Cream (Whipping Cream (Water, Liquid Glucose, Sugar, Edible Vegetable Fat (Hydrogenated Oils), Emulsifiers (481(i), 435, 491, 471), Stabilizers (464, 412, 415), Caseinate, Acidity Regulator (339(i)), Natural, Nature-Identical & Artificial (Milk & Cream) Flavoring Substances & lodized Salt), Sweetened Condensed Milk, Color (102)) & Mixed Nuts (8.3%) (Almond, Cashew & Pista). Bottom Layer (13%): Cake (Cake Mix (Refined Wheat Flour (Maida), Sugar,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904057304222",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

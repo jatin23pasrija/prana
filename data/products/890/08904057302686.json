@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904057302686",
+  "barcode_printed": "8904057302686",
+  "barcode_format": "EAN-13",
+  "name": "Arun Icecreams Cotton Candy Bites",
+  "brand": "arun-icecreams",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 154,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cotton Candy Flavored Ice Cream Enrobed with Milk Based Confectionery. Inner Layer (70%): Ice Cream {Milk Solids, Sugar, Water, Liquid Glucose, Emulsifiers (471, 477), Stabilizers (412, 410), Color (133), Natural & Nature-Identical Flavoring Substances}. Outer Layer (30%): Milk Based Confectionery {Sugar, Edible Vegetable Oils (Coconut Oil & Palm Kernel Oil), Milk Solids, Emulsifiers (322, 476), & Artificial (Vanilla) Flavoring Substances}. Contains Milk. Manufactured in the same facility which processes Wheat, Nuts, Oats & Soy.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904057302686",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

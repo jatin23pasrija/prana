@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08437010453229",
+  "barcode_printed": "8437010453229",
+  "barcode_format": "EAN-13",
+  "name": "Chewing Gum Strawberry",
+  "brand": "check-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "sweeteners: sorbitol (E420) (70%), and sorbitol syrup (E953) (20%), gum base, natural strawberry flavouring (contains milk), sweetener: maltitol syrup (E965), stabiliser: gum arabic (E414), humectant: glycerol (E422), menthol flavour, humectant: E965, acidity regulator: citric acid, thickener: gum acacia, sweeteners: aspartame (E951), acesulfame K (E950), glazing agent: carnauba wax",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8437010453229",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

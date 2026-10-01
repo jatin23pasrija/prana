@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "04806534226284",
+  "barcode_printed": "4806534226284",
+  "barcode_format": "EAN-13",
+  "name": "Smoke Popping Candy",
+  "brand": "coco",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Maltose, Corn Syrup, CO2, Contains Permitted Synthetic Food Colours (INS 129, INS 133) and Added Flavours (Artificial Cola Flavours)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4806534226284",
+      "retrieved_at": "2026-10-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-10-01"
+  }
+}

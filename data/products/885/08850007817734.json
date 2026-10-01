@@ -3,7 +3,7 @@
   "gtin": "08850007817734",
   "barcode_printed": "8850007817734",
   "barcode_format": "EAN-13",
-  "name": "Listening Total Care",
+  "name": "Listerine Total Care",
   "brand": "listerine",
   "countries": [
     "IN"
@@ -20,7 +20,7 @@
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8850007817734",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-10-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -44,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-10-01"
   }
 }
