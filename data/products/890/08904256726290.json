@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904256726290",
+  "barcode_printed": "8904256726290",
+  "barcode_format": "EAN-13",
+  "name": "Choco Fills",
+  "brand": "bb-royal",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Choco crème (51%) [sugar, edible vegetable oils (palmolein, palm oil), cocoa solids, emulsifier-soy lecithin(ins 302) and artificial Flavouring substance (chocolate)], whole wheat flour (atta), rice flour, maize flour, refined wheat flour (maida), sugar, cocoa powder (3%), Salt, antioxidant (ins 307b).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904256726290",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

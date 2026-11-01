@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (43.3%), Edible Vegetable Oil (Palm Oil), Whole Wheat Flour (Atta) (15.3%), Sugar, Wheat Bran (2.5%), Invert Sugar Syrup, Raising Agents [INS 500(ii), INS 503(ii), INS 450(i)], Oatmeal, Edible Common Salt, Malt Extract, Acidity Regulator (INS 296), Dough Conditioner (INS 223).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906033740758",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

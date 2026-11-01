@@ -3,7 +3,7 @@
   "gtin": "00000019017198",
   "barcode_printed": "19017198",
   "barcode_format": "EAN-8",
-  "name": "Parle tostea 1kg",
+  "name": "Parle Cream Cracker Original",
   "brand": "parle",
   "category": "biscuits",
   "countries": [
@@ -15,13 +15,13 @@
       "unit": "g"
     }
   },
-  "ingredients_raw": "FARINE DE BLE, HUILE VEGETALE ČOMESTĪBLE, LEVURE, EXTRAIT DE MALT, SEL, EMULSIFIANT D'ORIGINE VEGÉTALE (ESTERS D'ACIDE DIACETYLTARTRIQUE DE MONO ET DIGCEDIDES (E 47 META BISULFITE DE SODIUM (E 223] ET AMYLASE (E 11C 2. AP MP GH",
+  "ingredients_raw": "WHEAT FLOUR, EDIBLE VEGETABLE OIL, YEAST, MALT EXTRACT, SALT, EMULSIFIER OF VEGETABLE ORIGIN (DI-ACETYL TARTARIC ACID ESTERS OF MONO AND DIGLYCERIDES [E 472 e]), SODIUM META BISULPHITE [E 2231 AND AMYLASE [E 1100]",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/19017198",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -49,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

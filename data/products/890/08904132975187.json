@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132975187",
+  "barcode_printed": "8904132975187",
+  "barcode_format": "EAN-13",
+  "name": "Armour Energy (Ayurveda Powered)",
+  "brand": "naturedge-beverages",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 185,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Ashwagandha Ext. (Withania somnifera, Rt.). Brahmi Ext. (Bacopa monnieri, Pl.). Green Tea Ext. (Camellia sinensis, Lf.). Amla Ext. (Emblica officinalis, Fr.). Shatavari Ext. (Asparagus racemosus, Rt.),Safed Musali Ext. (Asparagus adscendens, Rt.), Coffee Bean Ext. (Coffea arabica, Bean),Green Coffee Bean Ext. (Coffea arabica, Bean),Sugar,Sucralose, Caramel Colour QS & Excipients",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132975187",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

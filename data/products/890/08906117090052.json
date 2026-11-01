@@ -9,34 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "1 portion (25 g)",
-        "quantity": {
-          "value": 25,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 109,
-        "protein_g": 2.1,
-        "carbohydrate_g": 17.9,
-        "sugars_g": 0.6,
-        "fat_g": 3.3,
-        "saturated_fat_g": 0.7,
-        "trans_fat_g": 0,
-        "sodium_mg": 246.7
-      }
-    }
-  ],
+  "ingredients_raw": "DRIED POTATO (77%), RICE BRAN OIL, SPICES AND CONDIMENTS (IODIZED SALT, DRIED MANGO POWDER, CORIANDER POWDER, CHILLI POWDER, CUMIN POWDER, GINGER POWDER, PARSLEY FLAKES, ONION POWDER, GARLIC POWDER, TAMARIND POWDER, TOMATO POWDER, SUGAR, MALTODEXTRIN, ACIDITY REGULATORS (330, 296), FLAVOUR ENHANCERS (627, 631), ANTICAKING AGENT (551))",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906117090052",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -53,13 +32,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

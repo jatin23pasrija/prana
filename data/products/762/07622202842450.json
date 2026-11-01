@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202842450",
+  "barcode_printed": "7622202842450",
+  "barcode_format": "EAN-13",
+  "name": "Dairy milk silk roast almond",
+  "brand": "cadbury-dairy-milk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 36,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Roasted Almonds (19%*), Milk Solids (18%*), Cocoa Butter, Cocoa Solids, Fractionated Fat, Emulsifiers (442, 476), Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances). Contains Cocoa Butter Equivalent in addition to Cocoa Butter. Allergen Information: Contains Milk, Almonds, Soy. May Contain Tree Nuts, Wheat, Barley.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202842450",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

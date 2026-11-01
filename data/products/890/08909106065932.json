@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106065932",
+  "barcode_printed": "8909106065932",
+  "barcode_format": "EAN-13",
+  "name": "Shampoo",
+  "brand": "clinic-plus-is-sold-by-hindustan-unilever",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SODIUM LAURETH SULFATE, DIMETHICONOL (AND) CHLORIDE, PERFUME, CARBOMER, GLYCOL DISTEARATE (AND) SODIUM LAURETH SULFATE (AND) COCAMIDE MEA, GUAR TEA-DODECYLBENZENESULFONATE, COCAMIDOPROPYL BETAINE, SODIUM HYDROXYPROPYLTRIMONIUM CHLORIDE, PEG-45M, SODIUM BENZOATE, CITRIC ACID, SODIUM HYDROXIDE, LYSINE HCL, HYDROLYZED MILK PROTEIN, NIACINAMIDE, PYRIDOXINE HCL, SODIUM ASCORBYL PHOSPHATE, TOCOPHERYL ACETATE, MICA (AND) TITANIUM DIOXIDE, DISODIUM EDTA, LINALOOL EUGENOL, HEXYL CINNAMAL, BENZYL BENZOATE, COUMARIN, CI 42090. MADE IN INDIA THIS BOTTLE IS MADE UP OF 25% RECYCLED PLASTICS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106065932",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207036989",
+  "barcode_printed": "8901207036989",
+  "barcode_format": "EAN-13",
+  "name": "Chyawanprash",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 550,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Each 100g is prepared fr Bit derived from the following (Stereospermum suaveolens, St. B Agnimantha (Clerodendrum phlomidis, St. Bk) Gambhari (Gmelina arborea, St. Bk.), Bilva (Aegle marmelos, St. Bk.), Shyonaka (Oroxylum indicum, St. Bk.), Gokshura (Tribulus terrestris, Fr.), Shalapai (Desmodium gangeticum, Pl.), Prishnipami (Uraria picta, Pl.), Brihati (Solanum indicum, PL.), Kantakari (Solanum surattense, PL), Pippali (Piper longum, Fr.), Karkatshringi (Pistacia integerrima, Gl.), Draksha (Vitis vinifera, Dr.Fr.), Guduchi (Tinospora cordifolia, St.), Haritaki (Terminalia chebula, P.), Bala (Sida cordifolia, Rt.), Tamalaki (Phyllanthus niruri, PL), Vasa (Adhatoda vasica If) Jiwanti (Leptadenia reticulata, Pl.), Shati (Hedychium spicatum, Rz.), Musta (Cyperus rotundus, Rz.), Pushkara (Inula recemosa, Rt.), Kakanasika (Martynia annua, Fr.), Mudgapami (Phaseolus trilobus, Pl.), Mashaparni (Teramnus labialis PL Vidari (Pueraria tuberosa, Rt. Tr.). Punarnava (Boerhavia diffusa, Rt.), Utpala lymphaea stellata, Fl.). Sukshamalla (Elettaria mum 3/",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207036989",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

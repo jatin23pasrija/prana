@@ -8,22 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 68,
-        "sodium_mg": 23.4
-      }
-    }
-  ],
   "ingredients_raw": "Calcium Carbonate (81.17%), Maize Starch, Diluent (INS 460(i)), Emulsifier (INS 464), Anti-caking Agent (INS 553 (iii)), Anti-sticking Agent (INS 572), Stabiliser (INS 1202), Anti-foaming Agent (INS 551), Synthenic Food Colour (171), Preservative (INS 219), Vehicle (INS 1521), Sodium Propyl Paraben, Vitamin D3, L-Lysine",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906031310472",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -36,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -47,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

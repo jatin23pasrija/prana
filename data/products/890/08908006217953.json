@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908006217953",
+  "barcode_printed": "8908006217953",
+  "barcode_format": "EAN-13",
+  "name": "Cereal",
+  "brand": "slurrp",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Supergrain blend (sprouted ragi, brown rice, jowar (sorghum), moong dal, foxtail millet, bengal gram) (93%), almond powder, cardamom powder, vitamins* and minerals&quot; THIS PRODUCT CONTAINS 58% MILLETS Allergen Note: Contains nut products. Made in a facility that processes wheat. May contain trace elements.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908006217953",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

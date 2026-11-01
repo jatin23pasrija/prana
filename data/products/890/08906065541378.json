@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906065541378",
+  "barcode_printed": "8906065541378",
+  "barcode_format": "EAN-13",
+  "name": "cleanser",
+  "brand": "moisoft",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Purified Water, Glycerine, Propanediol, Sodium Lauroyl Sarcosinate, Aloevera Extract, Cetyl Alcohol, Hydroxyethyl Acrylate/ Sodium Acryloyldimethyl Taurate Copolymer, Xanthan Gum, Phenoxy Ethanol, Sodium Lactate & Sodium Gluconate, Ceto Stearyl Alcohol, Citric Acid.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906065541378",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

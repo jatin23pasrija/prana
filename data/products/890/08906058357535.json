@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906058357535",
+  "barcode_printed": "8906058357535",
+  "barcode_format": "EAN-13",
+  "name": "Permethrin Soap",
+  "brand": "hhmiteplus",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sodium Palmate, Sodium Palm Kernelate, Aqua, Perfume, Permethrin, Olive Extract, Aloe Barbadensis Extract, Shea Butter, Glycerine, Sodium Chloride, Titanium Dioxide, Disodium EDTA, Disodium Etidronate, Butylated Hydroxytoluene.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906058357535",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

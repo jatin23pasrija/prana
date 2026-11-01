@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00946450090775",
+  "barcode_printed": "0946450090775",
+  "barcode_format": "EAN-13",
+  "name": "Processed Cheese Slices",
+  "category": "cheese",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cheese, Water, Milk Solids, Emulsifiers (INS 331(iii), INS 322, INS 339(iii)), Iodized Salt, Preservative (INS 200), Acidity Regulator (INS 260), Colour (INS 160a(ii)). Contains Milk & Soya.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0946450090775",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

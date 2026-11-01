@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "06281006606104",
+  "barcode_printed": "6281006606104",
+  "barcode_format": "EAN-13",
+  "name": "Essential Even Tone Glutathione Serum Moisturizer Lotion Flawless Glow",
+  "brand": "unilever",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Glycerin, Niacinamide, Isopropyl Myristate, Stearic Acid, Glyceryl Stearate, PEG-100 Stearate, Dimethicone, Cyclopentasiloxane, Niacinamide, Cetearyl Alcohol, Petrolatum, Triethanolamine, Phenoxyethanol, Fragrance, Carbomer, Methylparaben, Disodium EDTA, Cocoa Extract, Glycine Soja (Soybean) Oil, Tocopheryl Acetate, Glutathione, Sodium Ascorbyl Phosphate, Acerola Cherry Extract, Citric Acid, Sodium Citrate, CI 77891, CI 77492, CI 77491, CI 77499, Helianthus Annuus (Sunflower) Seed Oil, Potassium Sorbate, Sodium Benzoate, Hydroxyacetophenone, Sodium Hydroxide, Disodium EDTA, Cetearyl Glucoside, Glyceryl Acrylate/Acrylic Acid Copolymer, Sodium Polyacrylate, Hydrolyzed Jojoba Esters, Dimethicone Crosspolymer, Sodium Hyaluronate, Ethylhexylglycerin, Caprylyl Glycol, Tetrasodium EDTA, BHT, Butylene Glycol, Hydroxyacetophenone, Sodium Hydroxide, Disodium EDTA, Cetearyl Glucoside, Glyceryl Acrylate/Acrylic Acid Copolymer, Sodium Polyacrylate, Hydrolyzed Jojoba Esters, Dimethicone Crosspolymer, Sodium Hyaluronate, Ethylhexylglycerin, Caprylyl Glycol, Tetrasodium EDTA, BHT, Butylene Glycol",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6281006606104",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

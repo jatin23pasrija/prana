@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "03948063365964",
+  "barcode_printed": "3948063365964",
+  "barcode_format": "EAN-13",
+  "name": "Good Day Choco Chill",
+  "brand": "britannia",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Egg, Vanaspati, Interesterified Vegetable Fat, Humectant (422), Dextrose, Refined Palmolein Oil, Liquid Glucose, Cocoa Solids (2.1%), High Maltose Syrup, Fructooligosaccharides, Colours (150d, 150c, 102, 122, 132, 133), Cake Gel [Emulsifiers (471, 477, 470(i)) & Humectants (1520, 422)], Raising Agents (341(i), 500(ii), 450(vii) & 450(i)), Nature Identical (Chocolate) & Artificial (Creamy Vanilla) Flavouring Substances, Invert Syrup, Iodized Salt, Preservatives (202 & 282), Acidity Regulator (330), Baking Powder, Emulsifier (475) and Stabilizer (415). Contains Wheat & Egg.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948063365964",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906144492874",
+  "barcode_printed": "8906144492874",
+  "barcode_format": "EAN-13",
+  "name": "Mango Matcha Latte",
+  "brand": "sleepy-owl",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "TONED MILK (50%), WATER, SWEETENERS (MALTITOL, STEVIOL GLYCOSIDE), MATCHA (FINELY GROUND JAPANESE GREEN TEA POWDER) (1%), STABILIZERS (INS 471, 407, 412), NATURE IDENTICAL FLAVOURING SUBSTANCE (MANGO), IODISED SALT,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906144492874",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

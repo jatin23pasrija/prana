@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901138506377",
+  "barcode_printed": "8901138506377",
+  "barcode_format": "EAN-13",
+  "name": "Himalaya Besleyici El & Vücut Kremi",
+  "brand": "himalaya",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Aqua, Paraffinum Liquidum, Glycerin, Cetearyl Ethylhexanoate, Cetyl Alcohol, Cetearyl Alcohol, Glyceryl Stearate SE, Phenoxyethanol, Parfum, Aloe Barbadensis Leaf Extract, Withania Somnifera Root Extract, Centella Asiatica Extract, Carbomer, Sodium Benzoate, Glyceryl Stearate, PEG-100 Stearate, Pyrus Malus Fruit Extract, Sodium Hydroxide, BHT, Disodium EDTA, Hexyl Cinnamal, Benzyl Salicylate, Linalool, Hydroxycitronellal, Limonene",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901138506377",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

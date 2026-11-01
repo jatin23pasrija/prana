@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906157900557",
+  "barcode_printed": "8906157900557",
+  "barcode_format": "EAN-13",
+  "name": "Curl defining shampoo",
+  "brand": "bare-anatomy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Purified Water, Sodium Lauroyl Methyl Isethionate, Glycerin, Cocamidopropyl Betaine, Acrylates Copolymer, Sodium Hyaluronate (Hyaluronic Acid), Cocos Nucifera (Coconut) Oil, Ricinus communis (Castor) Seed Oil, Hydrolyzed Pea Protein, Hydrolyzed Adansonia Digitata Seed Extract, Glycol Stearate, Polyquaternium 53, PEG-45M, Stearamidopropyl Dimethylamine, Polyquaternium 6, Guar Hydroxypropyltrimonium Chloride, Mica, Titanium Dioxide, Tin Oxide, Perfume, Eucalyptus Globulus (Eucalyptus) Oil, Lavandula Angustifolia (Lavender) Oil, Citric Acid, Sodium Benzoate, Phenoxyethanol, Disodium EDTA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906157900557",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

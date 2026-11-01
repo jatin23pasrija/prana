@@ -5,6 +5,7 @@
   "barcode_format": "EAN-13",
   "name": "Supreme Refined Oil",
   "brand": "supreme",
+  "category": "edible-oil",
   "countries": [
     "IN"
   ],
@@ -14,27 +15,13 @@
       "unit": "ml"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 884,
-        "protein_g": 0,
-        "carbohydrate_g": 0,
-        "sugars_g": 0,
-        "fat_g": 100,
-        "saturated_fat_g": 26,
-        "sodium_mg": 0
-      }
-    }
-  ],
   "ingredients_raw": "Refined Cottonseed Oil, Permitted Antioxidant TBHQ (E-319).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906022212037",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -47,11 +34,11 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "package": {
+    "category": {
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
       "source": "s1",
       "confidence": "medium"
     },
@@ -62,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

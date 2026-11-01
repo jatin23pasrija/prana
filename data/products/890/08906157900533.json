@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906157900533",
+  "barcode_printed": "8906157900533",
+  "barcode_format": "EAN-13",
+  "name": "Curly intensifying leave-in conditioner",
+  "brand": "bare-anatomy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Purified Water, Cetostearyl Alcohol, Glycerin, Caprylic/Capric Triglyceride, Acrylamidopropyl - trimonium Chloride/Acrylates Copolymer, Isohexadecane, Coceth-7, Sodium Hyaluronate (Hyaluronic Acid), Cocos nucifera (Coconut) Oil, Ricinus Communis (Castor) Seed, Hydrolyzed Pea Protein, Hydrolyzed Adansonia Digitata Seed Extract, Aloe Barbadensis (Aloe Vera) Extract, Argania spinosa (Argan) Oil, Panthenol, Butyrospermum Parkii (Shea) Butter, Squalane, Lactic Acid, Cetyl Alcohol, Cetyl Esters, Tocopheryl Acetate, Behentrimonium Chloride, Brassica Campestris/Aleurites Fordi Oil Copolymer, Guar Hydroxypropyltrimonium Chloride, PEG-45M, Sodium Benzoate, Fragrance, Eucalyptus Globulus (Eucalyptus) Oil, Lavandula Angustifolia (Lavender) Oil, Phenoxyethanol, Butylated Hydroxytoluene, Disodium EDTA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906157900533",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -15,25 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 659,
-        "protein_g": 14.3,
-        "carbohydrate_g": 11.7,
-        "sugars_g": 2.3,
-        "fat_g": 67.1,
-        "saturated_fat_g": 16.1
-      }
-    }
-  ],
+  "ingredients_raw": "Whole Brazil Nuts",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906172783227",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -54,13 +42,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

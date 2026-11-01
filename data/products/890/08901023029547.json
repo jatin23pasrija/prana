@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901023029547",
+  "barcode_printed": "8901023029547",
+  "barcode_format": "EAN-13",
+  "name": "Godrej Magic Ready to Mix Hand Wash",
+  "brand": "godrej-magic",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 45,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sodium Lauryl Sulfate, Guar Gum, DMDM Hydantoin, Cellulose Gum, Parfum, Silicon Dioxide, Disodium Lauryl Sulfosuccinate, Disodium EDTA, Xanthan Gum, lodopropynyl Butylcarbamate, Azadirachta Indica (Neem) Leaf Extract, Aloe Indica (Aloe Vera) Leaf Extract, CI 19140, CI 42090.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901023029547",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

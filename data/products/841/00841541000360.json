@@ -3,32 +3,24 @@
   "gtin": "00841541000360",
   "barcode_printed": "0841541000360",
   "barcode_format": "EAN-13",
-  "name": "UNSWEETENED",
+  "name": "UNSWEETENED OAT BEVERAGE",
   "brand": "so-good",
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 56,
-        "protein_g": 1.1,
-        "carbohydrate_g": 6.3,
-        "sugars_g": 1.7,
-        "fat_g": 2.9,
-        "saturated_fat_g": 0.4,
-        "fibre_g": 0.7,
-        "sodium_mg": 44
-      }
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
     }
-  ],
+  },
+  "ingredients_raw": "Water, Oat Flour (8.7%), Sunflower Oil, Acidity Regulator (INS 340(ii)), Minerals, Edible Common Salt,",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0841541000360",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -41,13 +33,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

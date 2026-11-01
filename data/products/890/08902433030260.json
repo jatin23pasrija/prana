@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08902433030260",
+  "barcode_printed": "8902433030260",
+  "barcode_format": "EAN-13",
+  "name": "Skittles Bite Size Fruit Candies",
+  "brand": "skittles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SUGAR, LIQUID GLUCOSE, EDIBLE VEGETABLE OIL (PALM OIL), ACIDITY REGULATORS (330, 331(iii)), STABILIZERS (1400, 1450), NATURAL, NATURE-IDENTICAL AND ARTIFICIAL (ORANGE, STRAWBERRY) FLAVOURING SUBSTANCES, EMULSIFIER (1422), GLAZING AGENTS (903, 904), COLOURS (102, 129, 170(i), 110, 132, 133). MAY CONTAIN SOY.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902433030260",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

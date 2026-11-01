@@ -8,30 +8,18 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "1 portion (75 g)",
-        "quantity": {
-          "value": 75,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 62,
-        "protein_g": 2.9,
-        "carbohydrate_g": 8.8,
-        "fat_g": 1.7
-      }
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
     }
-  ],
+  },
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906063130086",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -44,13 +32,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

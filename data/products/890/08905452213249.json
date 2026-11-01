@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08905452213249",
+  "barcode_printed": "8905452213249",
+  "barcode_format": "EAN-13",
+  "name": "Hair Growth Serum",
+  "brand": "forest-essentials",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Amla Fruit Concentrate (Emblica officinalis) - 2.0%, Bhringraj Whole Plant Concentrate (Eclipta prostrata) - 2.0%, Jatamansi Root Concentrate (Nardostachys jatamansi) - 2.0%, Aloe Vera Leaf Juice 200X Concentrate (Aloe barbadensis) - 1.0%, Brahmi Leaf Concentrate (Bacopa monnieri) - 1.0%, Hibiscus Flower Concentrate (Hibiscus rosa sinensis) - 1.0%, Methi Seed Concentrate (Trigonella foenum graecum) - 1.0% Base contains Concentrated Actives, Redensyl and AnaGain, Glycerin, Natural Preservative - Q.S.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905452213249",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

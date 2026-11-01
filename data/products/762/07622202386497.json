@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202386497",
+  "barcode_printed": "7622202386497",
+  "barcode_format": "EAN-13",
+  "name": "BournVita",
+  "brand": "cadbury",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "PROPRIETARY FOOD GREAL BAD BEVERAGE MIX (6.7 PRECOOKED OR PROCESSED CEREAL PRODUCTS, ING68), MINERALS, BAUSTFRIS BARLEY, WITH MILLETS), SOLUBLE FIBER (CORN), COCOA SOLIDS, COLOUR (1500), MINERALS, EXHUISPERS (92. SALT ALLERGEN INFORMATION: CONTAINS MILK, WHEAT, BARLEY, SOY ANILLA FLAVOURING SUBSTANCES), INSTRUCTIONS FOR USE: ADD 2 HEAPED SPOONFUL (20 G) OF BUURN CUP (200 ML) OF HOT OR COLD MILK SUGGESTED USE: 2 SERVES IN A DAY. Issat MIT. BY: MONDELEZ INDIA FOODS PRIVATE LIMITED, UNIT NO. 2001, 20TH FLOOR, Lic. No. 10014022002711 TOWER-3 (WING C, ONE INTERNATIONAL CENTER, PAREL, MUMBAI, MAHARASHTRA-400013. WFD. BY: SHREE WARANA SAHAKARI DUDH UTPADAK PRAKRIYA SANGH LIMITED. LIC. NO. 10013022001370 ALL CLAIMS ARE DERIVED FROM RECOMMENDED DAILY INTAKE OF 2 SERVINGS, RECOMMENDED DIETARY ALLOWANCE REQUIREMENT FOR 7-9 YRS CHILDREN (ICMR-NIN 2020) CONTAINS NATURALLY OCCURRING SUGARS NET WT: 20 g PRODUCT QUALITY IF YOU ARE NOT SATISFIED WITH THE PRODUCT QUALITY, RETAIN THE PACKAGE & CALL 180022 7080/EMAIL AT SUGGESTIONS@MDLZINDIA.COM/ WRITE TO MUMBAI ADDRESS ON PACK.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202386497",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

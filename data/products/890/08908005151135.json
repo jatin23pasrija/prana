@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "NOODLES: Refined Wheat Flour(71.42%), Modified Starch(INS 1420), Edible Vegetable Oil (Palm Oil), Potato Starch, Wheat Gluten, Iodised Salt, Yeast Extract, Acidity Regulator(INS 501(i) & INS 452(i)), Riboflavin, Anti-Oxidant(INS 319). SOUP MIX: Iodised salt, spices and condiments(chilli, pepper, ginger), flavour enhancers(INS 627, INS 631, INS 621), garlic(garlic powder, anticaking agent(INS 470 (i))), sugar, hydrolysed vegetable protein, soy sauce, yeast extract, onion, refined palm oil, wheat flour, acidity regulator(INS 330), anticaking agent(INS 551), thickener(INS 415) and #anti-oxidants(INS 300, INS 319), Natural Colors. DEHYDRATED VEGETABLES: Carrot, Soya Chunks, Red Chilli Flakes & Chives.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908005151135",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

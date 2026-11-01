@@ -4,25 +4,10 @@
   "barcode_printed": "0070970474088",
   "barcode_format": "EAN-13",
   "name": "Chewy spicy candies",
-  "brand": "hot-tamale",
+  "brand": "hot-tamales",
   "category": "candy",
   "countries": [
     "IN"
-  ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 350,
-        "protein_g": 0,
-        "carbohydrate_g": 90,
-        "sugars_g": 62.5,
-        "fat_g": 0,
-        "saturated_fat_g": 0,
-        "trans_fat_g": 0,
-        "sodium_mg": 75
-      }
-    }
   ],
   "ingredients_raw": "Sugar, corn syrup, modified food starch, contains less than 0.5% of the following ingredients; fumaric acid, natural and artificial flavors, sodium citrate, dextrin, citric acid, malic acid, artificial color, confectioners glaze, red #40, carnauba wax, medium chain triglycerides, yellow #5 (tartrazine), yellow #6, blue #1.",
   "sources": [
@@ -30,7 +15,7 @@
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0070970474088",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -47,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -58,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

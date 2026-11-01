@@ -4,15 +4,18 @@
   "barcode_printed": "8901542000102",
   "barcode_format": "EAN-13",
   "name": "Complan Pista Badam Flv 500g cbd",
+  "brand": "complan",
+  "category": "flour",
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "milk solids (51.9%), sugar, peanut oil, maltodextrin, minerals, almonds (0.8%), curcumin (INS 100(i)), annatto (INS 160b(ii)), vitamins, saffron (0.05%), inositol, taurine, and L-carnitine, along with artificial or natural-identical flavoring substances.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901542000102",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +23,22 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

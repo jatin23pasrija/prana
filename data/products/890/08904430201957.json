@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904430201957",
+  "barcode_printed": "8904430201957",
+  "barcode_format": "EAN-13",
+  "name": "moisture gel cream",
+  "brand": "plum",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Aqua, Glycerin, Pseudoalteromonas Ferment Extract, Niacinamide, Oryza Sativa (Rice) Extract, Caprylyl Methicone, PEG-12 Dimethicone/PPG-20 Crosspolymer, Triolein, Opuntia Ficus-Indica (Prickly Pear) Stem Water, Squalane, Ammonium Acryloyldimethyltaurate/VP Copolymer, Ethoxydiglycol, Cyclopentasiloxane, Phenoxyethanol, Ethylhexylglycerin, Disodium EDTA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904430201957",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

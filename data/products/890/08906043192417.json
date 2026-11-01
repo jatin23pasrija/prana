@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906043192417",
+  "barcode_printed": "8906043192417",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Bhujia",
+  "brand": "pramod",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Gram Flour (22%), Edible Vegetable Oil (Palmolein Oil, Corn Oil), Potato Flakes (13%), Maize Starch (6%), Tepary Beans Flour, Iodised Salt, Refined Sugar, *Spices & Condiments (Chilli, Cumin, Ginger, Turmeric, Clove, Cinnamon Powder), Onion, Garlic, Dried Mango Powder, Asafoetida, Maltodextrin, Acidity Regulator (INS 330), Hydrolised Vegetable Protein, Yeast Extract Powder, Mint, Methi Leaf, Flavour Enhancer (INS 627,631), Anticaking Agent (INS 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906043192417",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

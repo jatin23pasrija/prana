@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901928312904",
+  "barcode_printed": "8901928312904",
+  "barcode_format": "EAN-13",
+  "name": "Coco Malai",
+  "brand": "bisk-farm",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OIL (PALM, PALMOLEIN), HYDROGENATED VEGETABLE FAT (PALM, PALMOLEIN), DESICCATED COCONUT POWDER (3.21%), GLUCOSE SYRUP POWDER, SODIUM CASEINATE, EMULSIFIERS (322,471), INVERT SYRUP, SALT, LEAVENING AGENTS [500(ii),503(ii)] AND ANTIOXIDANT (319) CONTAINS ADDED FLAVOUR(COCONUT)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901928312904",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

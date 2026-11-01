@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904037207840",
+  "barcode_printed": "8904037207840",
+  "barcode_format": "EAN-13",
+  "name": "Essensual",
+  "brand": "essentual-by-modicare",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Aqua, Isopropyl Myristate, Glycerin, Glyceryl Monostearate (A/S), Stearic Acid, Dimethicone, Cetyl Alcohol, Detostearyl Alcohol, Cetyl Palmitate, Triethanolamine, Fragrance, 2-Phenoxy Ethanol, Allantoin, Methyl Paraben, Vitamin E Acetate, Propyl Paraben, Carbomer, Disodium EDTA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904037207840",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -15,27 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 439,
-        "protein_g": 9,
-        "carbohydrate_g": 69,
-        "sugars_g": 7.9,
-        "fat_g": 14.3,
-        "saturated_fat_g": 0.8,
-        "sodium_mg": 527
-      }
-    }
-  ],
   "ingredients_raw": "Coriander, Rice Flour, Chilli, Cumin, Fenugreek Seeds, Spices & Condiments. Minimum Spice Content 40%",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901662036968",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -56,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -67,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

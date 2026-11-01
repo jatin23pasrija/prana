@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901138819668",
+  "barcode_printed": "8901138819668",
+  "barcode_format": "EAN-13",
+  "name": "Natural Glow Kesar Face Wash",
+  "brand": "himalaya",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Aqua, Ammonium Lauryl Sulfate, Glycol Distearate, Cocamidopropyl Betaine, Glycerin, Phenoxyethanol & Ethylhexylglycerin, Fragrance, Cetyl Alcohol, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Cocoyl Glutamate (and) Disodium Cocoyl Glutamate, Crocus Sativus Flower Extract, Cucumis Sativus (Cucumber) Fruit Extract, Sodium Hydroxide, Citric Acid, Coco-Glucoside (and) Glyceryl Oleate, Disodium EDTA, Tocopheryl Acetate, Menthol, Punica Granatum Fruit Extract, CI 15985.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901138819668",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

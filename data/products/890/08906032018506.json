@@ -9,28 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 468,
-        "protein_g": 7.2,
-        "carbohydrate_g": 72,
-        "sugars_g": 24,
-        "fat_g": 17,
-        "saturated_fat_g": 8.3,
-        "fibre_g": 6,
-        "sodium_mg": 349
-      }
-    }
-  ],
   "ingredients_raw": "Wheat Flour (Atta-58.6%), Edible Vegetable Oil (Palm), Sugar, Liquid Glucose, Milk Solids (1.7%), Iodized Salt, Leavening Agents [Ins-500(Ii), Ins 503(Ii), Ins-341(I)], Cheese, Dough Conditioner (Ins 223), Antioxidant (Ins 319), Emulsifier [Ins 322(I)], Flavours-Natural, Nature Identical, Artificial Flavouring Substances (Milk & Vanilla).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906032018506",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -47,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -58,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

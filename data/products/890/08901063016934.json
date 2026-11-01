@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Refined (Palmolein & Palm) Oil, Sugar (18%), Raising Agents (503(ii), 500(ii) & 341(i)), Iodised Salt (0.8%), Invert Sugar Syrup, Yeast, Acidity Regulators (270 & 330), Emulsifier (472e), Nature Identical and Artificial (Vanilla) Flavouring Substances and Dough Conditioner (223).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063016934",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

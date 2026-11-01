@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901138009991",
+  "barcode_printed": "8901138009991",
+  "barcode_format": "EAN-13",
+  "name": "Pure Hands Tulsi & Aloe Moisturizing Hand Wash",
+  "brand": "himalaya",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 675,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Aqua, Sodium Laureth Sulfate, Sodium Chloride, Glycol Distearate, Glycerin, Cocamidopropyl Betaine, Cocamide MEA, Sodium Benzoate, Fragrance, Aloe Barbadensis Leaf Juice, Ocimum Sanctum Leaf Extract, Salicylic Acid, Carbomer, Sodium Metabisulfite, Sodium Hydroxide, Disodium EDTA, CI 19140, CI 42053.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901138009991",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

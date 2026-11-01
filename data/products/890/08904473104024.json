@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904473104024",
+  "barcode_printed": "8904473104024",
+  "barcode_format": "EAN-13",
+  "name": "Pink Therapy Collagen Night Wrapping Mask",
+  "brand": "renee",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Purified Water, Glycerin, Polyvinyl Alcohol, Propylene Glycol, Phenoxyethanol, Niacinamide, Sodium Hyaluronate, Sodium Benzoate, Polysorbate-20, Hydroxyethylcellulose, Hydrolyzed Collagen, Sodium Gluconate, Xanthan Gum, Xylitol, Rosmarinus Officinalis (Rosemary) Extract, Parfum, Citric Acid, Tocopheryl Acetate, Phospholipids, Sphingolipids.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904473104024",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

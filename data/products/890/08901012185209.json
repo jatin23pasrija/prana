@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901012185209",
+  "barcode_printed": "8901012185209",
+  "barcode_format": "EAN-13",
+  "name": "Neutrogena sunscreen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 88,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Homosalate cyte QOctocrylene, Butyl TE Ethy heyy, rene/Acrylates Copolymer, Potassium Cetyl hosp IC sivceryl Stearate, PEG-100 Stearate, Dimethicone Cont Bees, etyl Dimethicone, Phenoxyethanol, Ethylhexylglycerin 4A Methicg, polyacrylate, Behenyl Alcohol, Xanthan Gum, Chom | Acrylates/C12-22 Alkyl Methacrylate Copolymer Dimeticong Crosspolymer, Ethylhexyl Stearate, Fragrance, Disodium mL EG-10e \\iethylparaben, Propylparaben, BHT, Chlorhexidine Digluconat cihylparaben, Trideceth-6, Diethylhexyl 2,6-Naphthalate.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901012185209",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

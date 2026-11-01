@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901803001404",
+  "barcode_printed": "8901803001404",
+  "barcode_format": "EAN-13",
+  "name": "amurtanjan pain balm Extra power",
+  "brand": "amurtanjan-health-care-pvt-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 46,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Indications: For headache and cold. Caution: Do not apply If swallowed, get medical help. Avoid contact with eyes and on broken skin and on eyes. Keep out of reach of children. nostrils. Do not use if allergic to ingredients. Directions for use: Apply on forehead and gently massage, rub on the throat and chest for cold relief. Close the cap tightly after every use,",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901803001404",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

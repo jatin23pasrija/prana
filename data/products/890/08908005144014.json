@@ -3,47 +3,24 @@
   "gtin": "08908005144014",
   "barcode_printed": "8908005144014",
   "barcode_format": "EAN-13",
-  "name": "Multigain energy bar",
+  "name": "MULTIGRAIN ENERGY BAR CHOCOLATE CHUNK NUT",
   "brand": "yoga-bar",
   "countries": [
     "IN"
   ],
   "package": {
     "quantity": {
-      "value": 38,
+      "value": 35,
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "1 bar (35 g)",
-        "quantity": {
-          "value": 35,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 137,
-        "protein_g": 3.8,
-        "carbohydrate_g": 23.5,
-        "sugars_g": 10.8,
-        "fat_g": 4,
-        "saturated_fat_g": 1.2,
-        "trans_fat_g": 0,
-        "fibre_g": 4,
-        "sodium_mg": 38.5
-      }
-    }
-  ],
-  "ingredients_raw": "Whole Grains 36% (Brown Rice, Millets (Saamai, Foxtail). Rolled Oats 15%). Honey 20% Almonds 12%, Dates, Seeds 9% (Sunflower, Chia), Rice Crispies. Belgian Dark Chocolate 6% (Cocoa, Brown Sugar, Cocoa Butter, Soya Lecithin), Peanut Protein Powder. CONTAINS ADDED NATURAL FLAVOUR (Rosemary Extract. Vanilla Extract)",
+  "ingredients_raw": "Whole Grains 40.2% (Oats Flour, Millets 11% (Samal Flakes, Jowar Flakes), Rolled Oats, Rice Flakes), Fructo-oligosaccha - rides, Dark Chocolato Paste 10% (Sugar, Edible Vegetable Fat, Cocos Solids, Soy Lecithin & Natural Vanilla), Date Syrup, Almond Butter 5%, Millets 5% (Jowar Crispy), Dates Paste, Honey, Cocoa Powder, Peanut Butter, Seeds 2% (Sunflower, Chia), Glycerin, Natural Flavors (Chocolate, Rosemary Extract), Gum Acacia.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908005144014",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -60,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -71,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

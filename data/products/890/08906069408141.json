@@ -3,17 +3,24 @@
   "gtin": "08906069408141",
   "barcode_printed": "8906069408141",
   "barcode_format": "EAN-13",
-  "name": "Strawberry And Watermelon 0 Sugar",
-  "brand": "zyro",
+  "name": "Strawberry And Watermelon Zero Sugar",
+  "brand": "hydrate",
   "countries": [
     "IN"
   ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, ACIDITY REGULATORS (INS330, INS296), MINERAL (DIPOTASSIUM PHOSPHATE), STABILIZER, FLAVOURS [NATURAL & NATURE-IDENTICAL FLAVOURING SUBSTANCES SWEETENERS (INS960, INS955), VITAMINS (E, B6, A, B12) AND SYNTHETIC FOOD COLOUR",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906069408141",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +32,18 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

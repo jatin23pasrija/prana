@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08902080104345",
+  "barcode_printed": "8902080104345",
+  "barcode_format": "EAN-13",
+  "name": "Pepsi Brand Drink 2.25 l",
+  "brand": "pepsico",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CARBONATED WATER, SUGAR, COLOUR (150d), ACIDITY REGULATOR (338), CAFFEINE (10 mg/100g), FLAVOUR (NATURAL FLAVOURING SUBSTANCES), STABILIZER (436). CONTAINS CAFFEINE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902080104345",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

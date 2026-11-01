@@ -15,21 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 264.12
-      }
-    }
-  ],
   "ingredients_raw": "Whole Wheat Flour (Atta), Water, Refined Wheat Flour (Maida), Wheat Bran, Suga Wheat Gluten, Malt Extract, lodized Sat Hydrogenated Vegetable (Palm) Fat, Edible Vegetable (Palm) Oil, CLASS 11 PRESERVATIVE (INS 282). ACIDITY REGULATOR (INS 260), EMULSIFIER (INS 481), IMPROVERS (INS 1100, 170(1)) & ANTIOXIDANT (INS 300)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906007610124",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -50,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -61,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

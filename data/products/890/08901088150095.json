@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088150095",
+  "barcode_printed": "8901088150095",
+  "barcode_format": "EAN-13",
+  "name": "Parachute Advansed Gold Coconut Hair Oil",
+  "brand": "parachute",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Coconut oil (80% v/v), Liquid Paraffin (Type 1) (18.7% v/v), Perfume, Vitamin E acetate, TBHQ",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088150095",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

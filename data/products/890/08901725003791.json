@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725003791",
+  "barcode_printed": "8901725003791",
+  "barcode_format": "EAN-13",
+  "name": "yippee noodles (ITC)",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 420,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Instant Noodles: Fefined Wheat Flour (\\iaida) (78.4%), 2efined Palm Ol odized Salt, Wheat Gluten (0.4%), Thickeners (INS 508, INS 41 2),.Stabi|izers (INS 170(i), INS 339(ii), INS 450(ii), INS 452(i)] and Acidity Regulators [INS 501(i), INS 500(i), INS 330].",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725003791",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

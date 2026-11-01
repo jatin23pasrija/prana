@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512543400",
+  "barcode_printed": "8901512543400",
+  "barcode_format": "EAN-13",
+  "name": "ACT II Instant Popcorn Tandoori Tadka",
+  "brand": "act-ii",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Popping Corn (70%), Refined Edible Palmolein Oil (TBHQ), Iodized Salt & Nature Identical Flavour (Tandoori).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512543400",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -9,29 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 279,
-        "protein_g": 6.2,
-        "carbohydrate_g": 61.1,
-        "sugars_g": 22,
-        "fat_g": 2.2,
-        "saturated_fat_g": 1.6,
-        "trans_fat_g": 0.03,
-        "fibre_g": 5.1,
-        "sodium_mg": 146.4
-      }
-    }
-  ],
   "ingredients_raw": "Whole wheat flour (Atta) (48.8%), Sugar, Rice Flour (9.6%), Degermed maize (Corn) grits (5.7%), Cocoa Solids (5.5%), Glucose Syrup, Minerals, Palm oil, Nature-Identical Flavouring Substances, lodized Salt, Vitamins and Antioxidant (307b). Allergen Note: Contains Wheat and Sulphite. May contain Milk Oat, Soy, Barley, Nut, Mustard, Celery, Sesame and Lupin.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901058012897",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -48,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -59,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

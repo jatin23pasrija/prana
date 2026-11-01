@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010501198",
+  "barcode_printed": "8906010501198",
+  "barcode_format": "EAN-13",
+  "name": "Crunchem Pizzy Masala",
+  "brand": "balaji",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "POTATO (88%), EDIBLE VEGETABLE OIL (PALMOLEIN), SUGAR EDIBLE COMMON SALT, DEHYDRATED VEGETABLE POWDER 0.6% (ONION, GARLIC, TOMATO), MILK SOLIDS (WHEY (0.1%) SPICES & CONDIMENTS (CHILLI, PEPPER, OREGANO), PARSLEY ANTICAKING AGENT (INS 551, INS 414), NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES (PIZZA). PROPRIETARY FOOD POTATO WAFERS INDIAN SNACKS & SAVOURIES ALLERGEN ADVICE: CONTAINS MILK SOLID",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010501198",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

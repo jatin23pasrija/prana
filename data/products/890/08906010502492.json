@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010502492",
+  "barcode_printed": "8906010502492",
+  "barcode_format": "EAN-13",
+  "name": "Crunchem Peri Peri Flavour",
+  "brand": "balaji-wafers",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato (88%), edible vegetable oil (palmolein), spices & condiments 0.6% (chilli, black pepper, curry leaves, oregano), dehydrated vegetable powder (garlic, tamarind, onion), edible common salt, sugar, hydrolyzed vegetable protein (soya), acidity regulator (INS 330), anticaking agent (INS 551), natural & nature identical flavouring substances (peri peri).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010502492",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

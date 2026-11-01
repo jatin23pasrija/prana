@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901450001246",
+  "barcode_printed": "8901450001246",
+  "barcode_format": "EAN-13",
+  "name": "DENVER",
+  "brand": "hamilton",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 165,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Deodorised Liquefied Petroleum Gas, Ethyl Alcohol, Fragrance, Propylene Glycol, Tri Ethyl Citrate, Diethyl Phthalate. Alcohol (95% v/v) Content: 32% w/w, Denatured with 1% w/w Diethyl Phthalate",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901450001246",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

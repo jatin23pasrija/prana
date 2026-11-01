@@ -11,17 +11,17 @@
   ],
   "package": {
     "quantity": {
-      "value": 55,
+      "value": 52,
       "unit": "g"
     }
   },
-  "ingredients_raw": "Edible Vegetable Oil (Palmolein, Cotton Seed, Corn, Sunflower, Rice Bran), Rice Flakes (22%), Bengal Gram Flour (Besan) (21%), Refined Sugar, Split Pulse Bengal Gram (Chana Dal) (7%), Groundnuts (Peanuts) (5%), Sago (4%), Red Lentils (Masur Whole) (2.5%), Tapioca Starch, lodised Salt, Black Salt, Turmeric, Acidity Regulator (INS 330), Red Chilli, Ajwain, Raising Agent (INS 500 ii) & Asafoetida. Allergen: Contains Nut May Contains Wheat, Milk & Soy. 29",
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein, Cotton Seed, Corn, Sunflower, Rice Bran), Rice Flakes (22%), Bengal Gram Flour (Besan) (21%), Refined Sugar, Split Pulse Bengal Gram (Chana Dal) (7%), Groundnuts (Peanuts) (5%), Sago (4%), Red Lentils (Masur Whole) (2.5%), Tapioca Starch, lodised Salt, Black Salt, Turmeric, Acidity Regulator (INS 330), Red Chilli, Ajwain, Raising Agent (INS 500 ii) & Asafoetida. Allergen: Contains Nut May Contains Wheat, Milk & Soy.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904004424485",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -49,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

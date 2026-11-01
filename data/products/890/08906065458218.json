@@ -8,26 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 488,
-        "protein_g": 7,
-        "carbohydrate_g": 71,
-        "fat_g": 20,
-        "saturated_fat_g": 10,
-        "sodium_mg": 119
-      }
-    }
-  ],
   "ingredients_raw": "SUGAR, REFINED WHEAT FLOUR (MAIDA), EDIBLE VEGETABLE OIL (REFINED PALMOLEIN), NON-DAIRY CREAMER, EDIBLE VEGETABLE FAT (HYDROGENATED OILS), ROASTED ALMOND POWDER (22%). MILK SOLIDS, DEXTROSE MONOHYDRATE, STARCH (TAPIOCA), MALTODEXTRIN, EMULSIFIER (INS 322(0), IODIZED SALT, PERMITTED NATURAL AND SYNTHETIC FOOD COLOURS (INS 150c, INS 150d & INS 124, INS TIO), NATURE IDENTICAL FLAVOURING SUBSTANCE (ALMOND).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906065458218",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -51,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

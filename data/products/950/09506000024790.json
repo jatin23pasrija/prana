@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "09506000024790",
+  "barcode_printed": "9506000024790",
+  "barcode_format": "EAN-13",
+  "name": "Ready to Eat Instant Noodles Hot & Spicy Hot Chilli Chicken Flavour",
+  "brand": "rum-pum",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "NOODLES: (Codex/Indian FC 06.4.3) Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm), Iodized Salt, Wheat Gluten, Flavour Enhancer (Monosodium Glutamate, Disodium Guanylate, Disodium Inosinate), Acidity Regulator (Potassium Carbonate), Raising Agent (Sodium Bicarbonate), Emulsifier (Guar Gum, Sodium Triphosphate) Tapioca Starch, Soya Sauce & Maltodextrin, SEASONING: (Codex / Indian FC 12.2.2) Salt, Garlic powder, Onion Powder, Red Chilli Powder, Garam masala, Ginger powder, Turmeric Powder, White Pepper, Onion Chives, Flavoured Capsicum Powder, Hydrolysed vegetable protein, Artificial Chicken Flavour, Flavour Enhancer (Monosodium Glutamate, Disodium Guanylate, Disodium Inosinate), Acidity Regulator (Citric Acid) & Anticaking Agent (Silicon Dioxide), CHILLI PASTE: Edible Vegetable oil Palmolein, Paprika, Chilly Powder & Tomato Powder",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/9506000024790",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

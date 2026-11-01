@@ -8,28 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 386.4,
-        "protein_g": 18.4,
-        "carbohydrate_g": 62.7,
-        "sugars_g": 0,
-        "fat_g": 6.9,
-        "saturated_fat_g": 0.9,
-        "trans_fat_g": 0,
-        "fibre_g": 14.9,
-        "sodium_mg": 399.3
-      }
-    }
-  ],
+  "ingredients_raw": "Bengal Gram (86%), Common Edible Salt, Spices & Condiments (Red Chili Powder, Cumin, Black Salt, Dry Mango Powder, Black Pepper, Clove, Dry Ginger Powder, Cardamom, Pipal, Cinnamon), Acidity Regulator (E330), Edible Vegetable Oil (Cotton Seed Oil or Sunflower Oil). Oil sprayed for seasoning application only. Contains natural and nature identical flavouring substances.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/6288084624860",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -42,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

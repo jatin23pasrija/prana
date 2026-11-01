@@ -15,13 +15,13 @@
       "unit": "ml"
     }
   },
-  "ingredients_raw": "WATER, MANGO PULP (19.5%), SUGAR, ACIDITY REGULATORS [(INS330, INS331(iii)],ANTIOXIDANT (INS300), MATURE-IDENTICAL FLAVOURING SUBSTANCES (MANGO) AND SYNTHETIC FOOD COLOUR (INS110).",
+  "ingredients_raw": "WATER, SUGAR, MANGO PULP (11.2%), ACIDITY REGULATORS [INS 330, INS 331(iii)], NATURE IDENTICAL FLAVOURING SUBSTANCES (MANGO), STABILIZER (INS 466), ANTIOXIDANT (INS 300) AND FOOD COLOUR (INS 110).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8902579000370",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -49,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

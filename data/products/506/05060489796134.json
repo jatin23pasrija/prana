@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "05060489796134",
+  "barcode_printed": "5060489796134",
+  "barcode_format": "EAN-13",
+  "name": "Barrier Repair Treatment",
+  "brand": "byoma",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Aqua, Glycerin, Butylene Glycol, Pentaerythrityl Tetraisostearate, Butylene Glycol Dicaprylate/Dicaprate, Diisostearyl Malate, Cetyl Ethylhexanoate, Methyl Trimethicone, Butyrospermum Parkii (Shea) Butter, Phenyl Trimethicone, Behenyl Alcohol, Cetearyl Alcohol, Persea Gratissima (Avocado) Oil, Sorbitan Olivate, C12-22 Alcohols, Ectoin, Dipropylene Glycol, Ethylhexylglycerin, 1,2-Hexanediol, Glucose, Arachidyl Glucoside, Niacinamide, Ceramide NP, Polyacrylate-13, Palmitic Acid, Arachidyl Alcohol, C12-15 Alkyl Benzoate, Stearic Acid, C12-16 Alkyl Glucoside, Hydrogenated Polyisobutene, Isostearyl Alcohol, Dimethicone, Caprylic/Capric Triglyceride, Ammonium Acryloyldimethyltaurate/VP Copolymer, Tromethamine, Sodium Hyaluronate, Polyglyceryl-10 Laurate, Ethylhexyl Palmitate, Sorbitan Isostearate, Sodium Phytate, Cyanocobalamin, Dipotassium Glycyrrhizate, Tocopherol",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5060489796134",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

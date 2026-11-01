@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901138512187",
+  "barcode_printed": "8901138512187",
+  "barcode_format": "EAN-13",
+  "name": "HIMALAYA NEEM.FACE WASH 50ML",
+  "brand": "himalaya",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Nimba (Azadirachta indica) leaf extract, Haridra (Curcuma longa) rhizome extract, Phenoxyethanol, Methylchloroisothiazolinone, Methylisothiazolinone, Brilliant Blue FCF, Tartrazine Yellow",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901138512187",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "04084500488465",
+  "barcode_printed": "4084500488465",
+  "barcode_format": "EAN-13",
+  "name": "Deodorant",
+  "brand": "old-spice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "/INGREDIENTE: /CbCTABKИ:/ SASTOJCI: SASTOJCI: /COСTOJKИ:/ PËRBËRËSIT:/ EYETATIKA: Dipropylene Glycol, Aqua, Propylene Glycol, Sodium Stearate, Poloxamine 1307, Parfum, PPG-3 Myristyl Ether, Limonene, Tetrasodium EDTA, Linalool, Benzyl Salicylate, Citral, Geraniol, Citronellol, Pentaerythrityl Tetra-di-t-butyl Hydroxyhydrocinnamate, CI 42090 IE UKE ZA MT Deodorant Stick. RO MD Deodorant. BG Деo-стик. RS Dezodorans stik. BA ME Dezodorans u stiku. MДезодоранс стик. AL Deodorant Stick. GRCY Αποσμητικό στικ. 5 PP ES Desodorante en barra. PT Desodorizante em stick. UK ONLY Recycle Procter & Gamble, 65823 Schwalbach/Ts., Germany Procter & Gamble UK, Weybridge, Surrey, KT13 0XP, UK 50 ml/mлe",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4084500488465",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

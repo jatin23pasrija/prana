@@ -8,27 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 291,
-        "protein_g": 7.1,
-        "carbohydrate_g": 50.6,
-        "sugars_g": 46.7,
-        "fat_g": 6.7,
-        "saturated_fat_g": 4.8,
-        "sodium_mg": 21
-      }
-    }
-  ],
   "ingredients_raw": "Chakka (57%), Mishri (42%), Almond Pieces (1%), Pistachio Pieces (1%), Nutmeg & Common Salt",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906117361138",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -41,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -52,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

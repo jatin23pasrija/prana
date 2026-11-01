@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Edible Vegetable Oil (Refined Palmolein Oil), Gram Flour, Potato Solids, Rice Flour, Moth Flour, Tapioca Starch, *Seasoning [Spices and Condiments^, Iodised Salt, Sugar, Black Salt, Amchur Powder, Maltodextrin, Acidity Regulators (INS 330, INS 296), Flour Treatment Agent (INS 510), Flavour Enhancers (INS 627, INS 631), Spice Extract, Asafoetida], Flavour(s) (Natural & Nature Identical Flavouring Substances).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908020463527",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262151337",
+  "barcode_printed": "8901262151337",
+  "barcode_format": "EAN-13",
+  "name": "Kool Strawberry Flavoured Milk",
+  "brand": "amul",
+  "category": "milk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Standardized milk, sugar, milk solids, strawberry crush (3.2%), stabilizer (407), artificial flavouring substances (strawberry), colours (127, 110,122).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262151337",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

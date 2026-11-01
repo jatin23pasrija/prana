@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08964003593216",
+  "barcode_printed": "8964003593216",
+  "barcode_format": "EAN-13",
+  "name": "Double Chocolate Chip Cookies",
+  "brand": "choco-bites",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Wheat Flour, Sugar, Hydrogenated Vegetable Oil (Palm), Chocolate Chips [Sugar, Hydrogenated Vegetable Oil (Palm), Cocoa Powder, Emulsifier (Soy Lecithin E322)], Cocoa Powder, Eggs, Salt, Emulsifier (Soy Lecithin E322), Raising Agent (Ammonium Bicarbonate E503), Artificial Flavours (Chocolate, Vanilla)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8964003593216",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

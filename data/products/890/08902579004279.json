@@ -14,12 +14,13 @@
       "unit": "ml"
     }
   },
+  "ingredients_raw": "MILK SOLIDS *, SUGAR, EMULSIFIERS AND STABILIZERS [INS 460(i), INS 471, INS 466, INS 407, INS 340, INS 452], FOOD COLOUR (INS 150c), NATURE IDENTICAL FLAVOURING SUBSTANCE (KESAR BADAM) AND IODISED SALT. *(EQUIVALENT TO 90% M/M DOUBLE TONED MILK)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8902579004279",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

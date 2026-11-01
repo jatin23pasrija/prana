@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908029375005",
+  "barcode_printed": "8908029375005",
+  "barcode_format": "EAN-13",
+  "name": "Protein Nacho Chips",
+  "brand": "super-gram",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Corn (51.7%), Rice Flour. Pea Protein Isolate, Ragi Flour, Jowar Flour, Gram Flour, Corn Oil, Sesame Seeds, iodised Salt, Sugar, Corn Maltodextrine, Mixed Spices & Condiments (Chilli, Dehydrated Onion Powder, Garlic Powder, Coriander Powder, Turmeric Powder, Black Salt, Mango Dry Powder, Tomato Powder, Ajwain) Acidity Regulators (INS 330, INS 296), Yeast extract, Hydrolysed Vegetable Protein, Cocoa Powder, Anti-caking Agent (INS 551). Flavour Enhancers (INS 627 & INS 631).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908029375005",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

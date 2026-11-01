@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908018963015",
+  "barcode_printed": "8908018963015",
+  "barcode_format": "EAN-13",
+  "name": "Riceflakes Chiwda",
+  "category": "nuts",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Riceflakes (Poha), Peanuts, Refined Groundnut Oil, Sugar, Raisins, Cashewnuts, Coconut, Sesame, Iodised salt, Vanaspati, Red Chilli Powder, Tumeric Powder, Asafoetida, Jestmadh(Mulethi)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908018963015",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

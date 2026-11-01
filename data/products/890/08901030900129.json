@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Maize Starch, Sugar, Dehydrated Vegetables (Corn (7%), Carrot Flakes (6%), Cabbage Flakes, Leeks (0.7%)), Iodised salt, Hydrolyzed Vegetable Protein, Flavours - Artificial (Corn), Natural (Garlic) & Nature Identical Flavouring substances, Hydrogenated Palm Oil, Thickener - 415, Spices & Condiments (Celery (0.2%)), Flavour Enhancer - 627 & 631.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901030900129",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

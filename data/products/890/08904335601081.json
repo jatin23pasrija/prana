@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335601081",
+  "barcode_printed": "8904335601081",
+  "barcode_format": "EAN-13",
+  "name": "Oats+ Dark Chocolate",
+  "brand": "yoga-bar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Oats 52%, Seeds & Dry Fruits 11% (Chia Seeds, Pumpkin, Black Raisins), Raw Sugar, Cocoa Powder, Dehydrated Dates Powder, Rice Bran Oil, Himalayan Pink Salt. Contains Added Natural Flavour: Rosemary Extract.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335601081",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

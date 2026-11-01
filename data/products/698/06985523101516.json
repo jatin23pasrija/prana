@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "06985523101516",
+  "barcode_printed": "6985523101516",
+  "barcode_format": "EAN-13",
+  "name": "Cool Mint Candy",
+  "brand": "bonfire",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, Glucose, Maltodextrin, Malic Acid, Menthol, Artificial Food Flavors (Watermelon), Artificial Food Colours (INS 102, INS 133). Contains permitted artificial food colour(s) and added artificial fruit flavour(s).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6985523101516",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

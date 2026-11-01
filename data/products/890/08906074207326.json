@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906074207326",
+  "barcode_printed": "8906074207326",
+  "barcode_format": "EAN-13",
+  "name": "Jain Chavanu",
+  "brand": "sgb",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Chickpea Flour 55%, Edible Palm Oil 19%, Flattened Rice 10%, Iodized Salt, Split Chickpea, Flattened Maize, Coconut, Sesame Seeds, Red Chilli Powder, Black Pepper, Cloves, Caraway, Mustard, Asafoetida, Turmeric, Clove, Peanuts, Cumin Seeds, Cinnamon, Coriander Powder, Raising Agent (E 500ii), Acidity Regulator (330) & Other Spices.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906074207326",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

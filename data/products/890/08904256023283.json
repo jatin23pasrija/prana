@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904256023283",
+  "barcode_printed": "8904256023283",
+  "barcode_format": "EAN-13",
+  "name": "Nivea body milk",
+  "brand": "nivea",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Aqua, Paraffinum Liquidum, Glycerin, C15-19 Alkane, Alcohol Denat. (3.53% V/V), Cetearyl Alcohol, Glyceryl Stearate Citrate, Dimethicone, Phenoxyethanol, Prunus Amygdalus Dulcis Oil, Parfum, Carbomer, Tocopherol, Sodium Hydroxide, Linalool, Citronellol, Alpha-Isomethyl Ionone, Maris Sal, Citrus Aurantium Peel Oil, Limonene, Acetyl Cedrene, Benzyl Alcohol, Lavandula Oil/Extract, Benzyl Salicylate, Terpineol, Linalyl Acetate, Sodium Hyaluronate CH",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904256023283",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

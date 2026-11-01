@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00700721646531",
+  "barcode_printed": "0700721646531",
+  "barcode_format": "EAN-13",
+  "name": "Advanced Mass And Weight Gainer",
+  "brand": "doctors-choice",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Maltodextrin, Protein Blend (Whey Protein Concentrate, Calcium Caseinate, Whey Powder) (Emulsifier: INS 322i), Artificial Flavour (Strawberry Banana Milkshake), Creatine Monohydrate, L-Glutamine, MCT (Medium Chain Triglycerides) Oil Powder, Vitamin and Mineral Blend.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0700721646531",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

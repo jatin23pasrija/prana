@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030870699",
+  "barcode_printed": "8901030870699",
+  "barcode_format": "EAN-13",
+  "name": "Baby Dove",
+  "brand": "baby-dove",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "How to use: Wet baby's hair and skin with warm water and wash gently. Ideal for daily use. INGREDIENTS: SODIUM COCOYL ISETHIONATE, STEARIC ACID, LAURIC ACID, SODIUM PALMATE, WATER, SODIUM ISETHIONATE, SODIUM STEARATE, COCAMIDOPROPYL BETAINE, SODIUM PALM KERNELATE, PERFUME, SODIUM CHLORIDE, TITANIUM DIOXIDE, TETRASODIUM ETIDRONATE, TETRASODIUM EDTA, ZINC OXIDE, GLYCERIN, ALUMINA.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030870699",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

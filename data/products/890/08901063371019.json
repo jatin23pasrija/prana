@@ -4,15 +4,17 @@
   "barcode_printed": "8901063371019",
   "barcode_format": "EAN-13",
   "name": "Marie Gold",
+  "brand": "parle",
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (73%), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP, MILK PRODUCTS (MILK SOLIDS & SWEETENED CONDENSED PARTLY SKIMMED MILK), RAISING AGENTS 1503) & 500(H1L IODISED SALT. MINERALS ARTIFICIAL (MILK & VANILLA) & NATURE IDENTICAL FLAVOURING SUBSTANCES, EMULSIFIER (4726), DOUGH CONDITIONER (223), VITAMINS&quot; AND COLOUR (1508).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063371019",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +22,18 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

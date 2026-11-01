@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Protein Blend (Skim Milk Powder, Milk Protein Concentrate, Pea Protein Isolate, Brown Rice Protein Isolate, Almond Powder, Walnut Powder, Moong Dal Powder), Sweetener Blend (Jaggery Powder, Lactose, Fructooligosaccharides & Dates Powder), Cocoa Powder, Fiber Blend (Oats Flour, Chia Seeds Powder, Flaxseed Powder, Ragi Powder & Bajra Powder), Nature Identical Flavour (Chocolate), Algal DHA (Docosahexaenoic Acid), Digezyme® (a-amylase, Protease, Lipase, Cellulase and Lactase), Minerals (Calcium (Tribasic Calcium Phosphate), Phosphorous (Potassium Phosphate), Potassium (Potassium Phosphate), Sodium (Sodium Chloride), Magnesium (Magnesium Oxide), Zinc (Zinc Sulphate), Manganese (Manganese Sulphate), Iodine (Potassium Iodate), Selenium (Sodium Selenate), Chromium (Chromium Chloride)), Vitamins (Vitamin C (Ascorbic Acid), Vitamin E (D-alpha Tocopheryl Acetate), Vitamin B3 (Nicotinamide), Vitamin B5 (Calcium D-Pantothenate), Vitamin B6 (Pyridoxine HCl), Vitamin B2 (Riboflavin), Vitamin B1 (Thiamine HCl), Vitamin A (Retinyl Palmitate), Vitamin B9 (Folic Acid), Vitamin K2-7 (Menaquinone-7), Biotin (D-Biotin), Vitamin D3 (Cholecalciferol - Veg Lichen), Vitamin B12 (Cyanocobalamin).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906133406707",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

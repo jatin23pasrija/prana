@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "WATER, SUGAR, APPLE JUICE CONCENTRATE (19% EQUIVALENT TO 12.7% APPLE JUICE RECONSTITUTED, CARBON DIOXIDE(INS290), ACIDITY REGULATOR (INS 330), PRESERVATIVES (INS211). CONTAINS PERMITTED NATURAL FOOD COLOUR (150) AND ADDED FLAVOUR NATURE-IDENTICAL FLAVOURING SUBSTANCES (APPLE)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/3260420053216",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

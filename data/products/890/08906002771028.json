@@ -9,27 +9,19 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 429,
-        "protein_g": 12.9,
-        "carbohydrate_g": 69.5,
-        "sugars_g": 10.4,
-        "fat_g": 11.5,
-        "saturated_fat_g": 4.7,
-        "sodium_mg": 73
-      }
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
     }
-  ],
+  },
   "ingredients_raw": "ROAST AND GROUND COFFEE & CHICORY COFFEE BLENDED WITH CHICORY",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906002771028",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -46,7 +38,7 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
       "source": "s1",
       "confidence": "medium"
     },
@@ -57,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

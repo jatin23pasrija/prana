@@ -5,6 +5,7 @@
   "barcode_format": "EAN-13",
   "name": "Samosa",
   "brand": "haldiram-snacks-pvt-ltd",
+  "category": "namkeen",
   "countries": [
     "IN"
   ],
@@ -14,29 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 510,
-        "protein_g": 6.7,
-        "carbohydrate_g": 46.7,
-        "sugars_g": 0,
-        "fat_g": 33.3,
-        "saturated_fat_g": 6.7,
-        "trans_fat_g": 0,
-        "fibre_g": 0,
-        "sodium_mg": 880
-      }
-    }
-  ],
   "ingredients_raw": "Refined wheat flour (57%), vegetable oil (palmolein), split mung bean (4%), cashew nuts (2%), raisins (2%), sugar powder, salt, red chili powder, aniseed, black pepper powder, coriander, cardamom powder, mango powder, cumin, black cumin",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904063200402",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -49,11 +34,11 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "package": {
+    "category": {
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
       "source": "s1",
       "confidence": "medium"
     },
@@ -64,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904153397371",
+  "barcode_printed": "8904153397371",
+  "barcode_format": "EAN-13",
+  "name": "Restorative Hair Cobditioner Amla, Honey and Mulethi",
+  "brand": "forest-essentials",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Coconut Endocarp Extract (Cocos nucifera) - 5.0%, Amla Fruit Extract (Emblica officinalis) - 2.5%, Bhringraj Leaf Extract (Eclipta alba)-2.0%, Fenugreek Seed Extract (Trigonella foenum-graecum) - 1.0%, Licorice Root Extract (Glycyrrhiza glabra) - 1.0%, Almond Kernel Oil (Prunus amygdalus dulcis)* 0.55%, Virgin Coconut Endocarp Oil (Cocos nucifera) - 0.5%, Haritaki Fruit Extract (Terminalia chebula) - 0.5%, Nilini Leaf Extract (Indigofera tinctoria linn) - 0.5%, Honey* - 0.5%, Castor Seed Oil (Ricinus Communis) 0.5%, Henna Leaf Extract (Lawsonia inermis) - 0.2%, Beejak Leaf Extract (Pterocarpus marsupium) - 0.2%, Banana Fruit Extract (Musa balbisiana) - 0.2%, Bay Leaf Extract (Cinnamomum tamala) - 0.1%. - Base Contains: Aqua, Glycerin, Betaine (Derived from Sugar Beets), Ceramide NP, Propanediol, Pea Peptide (Pisum sativum), Hydrolyzed Jojoba Esters, Sodium PCA, Sugandhit Dravya, Preservatives, Olive Oil Derived Emulsifiers (Cetearyl Olivate & Sorbitan Olivate), Pro Vitamin B-5, Hydrolyzed Wheat Protein, Mixed Tocopherols (Vitamin E), Cetyl Alcohol, Caprylic/Capric Triglyceride (Derived from coconut Oil), Isopropyl Myristate, Guar Hydroxypropyltrimonium Chloride, Ethylhexyl - glycerin, Sodium Gluconate - QS *Certified Organic",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904153397371",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

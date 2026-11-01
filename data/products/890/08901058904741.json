@@ -9,27 +9,19 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 448,
-        "energy_kj": 0.45,
-        "protein_g": 6.5,
-        "carbohydrate_g": 47.4,
-        "sugars_g": 37.8,
-        "fat_g": 25.8,
-        "saturated_fat_g": 23,
-        "fibre_g": 0
-      }
+  "package": {
+    "quantity": {
+      "value": 28.5,
+      "unit": "g"
     }
-  ],
+  },
+  "ingredients_raw": "Sugar, Milk solids (16.1%), Fractionated vegetable fat, Hydrogenated vegetable fats, Refined Wheat flour (Maida), Cocoa solids (4.5%), Emulsifier (Soy lecithin), Raising agent (500(i)), Yeast, Iodized salt, Artificial (Vanilla) flavouring substance, Flour treatment agent (516) and Nature-Identical flavouring substance",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901058904741",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -46,13 +38,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

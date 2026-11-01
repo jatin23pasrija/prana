@@ -3,17 +3,25 @@
   "gtin": "08906127551727",
   "barcode_printed": "8906127551727",
   "barcode_format": "EAN-13",
-  "name": "High Protein Oats - 25% Protein",
+  "name": "27% High Protein Oats Dark Chocolate",
   "brand": "alpino",
+  "category": "breakfast-cereal",
   "countries": [
     "IN"
   ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Oats (43.5%), Alpino Protein Blend (26%) [Texturised Soya Protein, Whey Protein, Peanut Protein], Nut and Seed Mix (12%) [Almond Slices, Chia Seeds, Pumpkin Seeds], Jaggery Powder (11%), Cocoa Powder, Vanilla Powder, Natural Chocolate Flavour, Himalayan Pink Salt, Antioxidant (Rosemary Extract). Allergen information: Oats, Peanut, Soy, Almond & Milk.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906127551727",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +33,22 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

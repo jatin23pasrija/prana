@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010913045",
+  "barcode_printed": "8906010913045",
+  "barcode_format": "EAN-13",
+  "name": "Casatta",
+  "brand": "dairy-day",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk Solids, Water, Sugar, Eggless Cake (10%) [Wheat Flour, Water, Sugar, Milk Solids, Edible Vegetable Oil, Raising Agent (INS 341 (i)), Corn Starch, Emulsifier and Stabiliser (INS 415,433,471,475), Dextrose, Salt, Baking powder, CONTAINS NATURE IDENTICAL AND ARTIFICIAL VANILLA FLAVOURING SUBSTANCES), Cashew (8%). Glazed Papaya Pieces (4%), Strawberry Syrup (2.5%) Emulsifier (INS 477,471). Stabiliser (INS 410,412), CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (INS 102,122,133) AND ADDED FLAVOURS - NATURE IDENTICAL AND ARTIFICIAL PISTA, VANILLA, STRAWBERRY FLAVOURING SUBSTANCES.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010913045",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

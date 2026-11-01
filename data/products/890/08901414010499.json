@@ -13,12 +13,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Peanuts (65%), Edible Vegetable Oil (Refined Ricebran Oil, Refined Cottonseed Oil, Refined Palmolein Oil), Chickpea Flour, Corn Starch, Spices and Condiments (Dried Mango Powder, Red Chilli Powder, Cumin Seeds Powder, Coriander Powder, Green Chilli Powder, Dried Ginger Powder, Carom Seeds Powder, Nutmeg Powder, Black Pepper Powder, Cloves Powder, Cinnamon Powder, Cardamom Powder, Gooseberry Powder, Bay Leaves Powder, Mace Powder, Yellow Chilli Powder, White Pepper Powder), Iodized Salt, Black Salt, Asafoetida, Acidity Regulators [Malic Acid (E296), Citric Acid (E330)], Contains Added Flavours (Natural and Artificial Flavouring Substances)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901414010499",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

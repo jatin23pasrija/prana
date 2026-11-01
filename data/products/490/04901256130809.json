@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "04901256130809",
+  "barcode_printed": "4901256130809",
+  "barcode_format": "EAN-13",
+  "name": "20-20 Gold Cashew Cookies",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Refined Palm Oil, Cashew (4.6%), Invert Sugar Syrup, Iodised Salt, Raising Agents [500(ii), 503(ii)], Milk Solids, and Emulsifier of Vegetable Origin (472e). Contains Added Flavours (Artificial Flavouring Substances - Butter, Milk, Lemon). Contains: Wheat, Cashew, Milk",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4901256130809",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906032019138",
+  "barcode_printed": "8906032019138",
+  "barcode_format": "EAN-13",
+  "name": "Muesli Fruit & Nut",
+  "brand": "patanjali",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Wheat Flakes (28.68%), Corn Flakes (24.93%), Fruits & Nuts {Black Raisins (4%), Dried Pineapple (4%), Dried Papaya (4%), Almond Slice (3.8%), Dried Apple (3.5%)}, White oats (17.5%), Rice Flakes (5%), Invert Sugar, Honey (1%), Liquid Glucose and Antioxidant (INS 320)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906032019138",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725000226",
+  "barcode_printed": "8901725000226",
+  "barcode_format": "EAN-13",
+  "name": "Tedhe Medhe Punjabi Tadka",
+  "brand": "bingo",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED PALMOLEIN, BESAN, DEHYDRATED POTATO, MOTH BEAN FLOUR, SEASONING (BLACK SALT, MALTODEXTRIN, SUGAR, SPICES AND CONDIMENTS, IODIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES, RICE FLOUR, BESAN, HYDROLYZED VEGETABLE PROTEIN, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, COLOUR [INS 160c(i)], YEAST EXTRACT, ONION POWDER AND GARLIC POWDER), STARCH, IODIZED SALT AND SPICES AND CONDIMENTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725000226",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904256002820",
+  "barcode_printed": "8904256002820",
+  "barcode_format": "EAN-13",
+  "name": "Men Fresh Active",
+  "brand": "nivea",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Butane, Alcohol Denat. (21.8% v/v) with Tertiary Butyl Alcohol/Denatonium Benzoate, Isobutane, Propane, Parfum, Octenidine HCI, Ethylhexylglycerin, Maris Limus Extract, Ostrea Shell Extract, Octyldodecanol, Persea Gratissima Oil, Aqua, Propylene Glycol, Sodium Benzoate, Potassium Sorbate, Lactic Acid, Limonene, Linalool, Geraniol, Citronellol, Eugenol, Alpha-Isomethyl Ionone, Citrol *reduces odour causing bacteria by more than 99.9 % bosis in-vitro test conducted with Corynebacterium jeikeium and Staphylococcus epidermidis",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904256002820",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

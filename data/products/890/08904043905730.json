@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Water, Black Gram (12.9%), Butter (7.3%), Milk Cream (5.6%), Refined Sunflower Oil, Red Kidney Beans (Rajmah) (2.6%), Tomato Paste (1%), Mixed Spices, Garlic, Iodized Salt, Ginger, Dried Fenugreek Leaves (0.04%).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904043905730",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

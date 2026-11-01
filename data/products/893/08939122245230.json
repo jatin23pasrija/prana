@@ -8,28 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 384.72,
-        "protein_g": 63.16,
-        "carbohydrate_g": 22.93,
-        "sugars_g": 11.34,
-        "fat_g": 5,
-        "saturated_fat_g": 2.89,
-        "trans_fat_g": 0.1,
-        "fibre_g": 4.62,
-        "sodium_mg": 245.7
-      }
-    }
-  ],
+  "ingredients_raw": "Whey Protein Concentrate, Natural Flavour - Pista & Kulfi Flavour & Others, Guar Gum (INS 412), Spinach Powder, Sunflower Lecithin (INS 322), Enzyme Blend Digizyme (Alpha - Amylase, Neutral Protease, Cellulase, Lactase, Lipas), Stevia Extract (INS 960), Thaumatin (INS 957)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8939122245230",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -42,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

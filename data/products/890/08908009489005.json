@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009489005",
+  "barcode_printed": "8908009489005",
+  "barcode_format": "EAN-13",
+  "name": "Hempushpa",
+  "brand": "hempushpa",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 170,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Lodhra (symplocos racemosa, st bk) 750mg, Manjith (rubia cordifolia, st) 430mg, Anantmool (hemidesmus indicus, rt) 430mg, Bala (sida cordifolia, wh pl) 320mg, Gokhru (tribulus terrestris, fr) 320mg, Brahmi (bacopa monnieri, wh pl) 320mg, Shankhpushpi (convolvulus pluricaulis,wh pl) 320mg, Ashok (saraca indica, st bk) 215mg, Musali (curculigo orchioides, rz) 250mg, Shivlingi (diplocyclos palmatus, wh pl) 215mg, Punarnava (boerhaavia diffusa, rt) 215mg, Asgand (withania somnifera, rt) 150mg, Bach (acorus calamas, rz) 100mg, Dhai (woodfordia fruticosa, fl) 100mg, Daruhaldi (barberis aristata, st) 100mg, Mulethi (glycyrrhiza glabra, rt) 65mg, Gudhal (hibiscus rosa sinensis, fl) 65mg, Gambhari (gmelina arborea, st bk) 65mg, Nagarmotha (cyperus rotundus, rz) 65mg, Gorakhmundi (sphaeranthus indicus, fl) 65mg, Shatavar (asparagus racemosus, rt) 35mg, Kateri (solanum xanthocarpum, wh pl) 35mg, Palash (butea monosperma, fl) 35mg, Nilofur (nymphaea alba, fl) 35mg. Syrupy base, Preservative Sodium Benzoate.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009489005",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

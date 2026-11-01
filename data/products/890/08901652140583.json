@@ -15,34 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "5 biscuits (28g)",
-        "quantity": {
-          "value": 28,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 497,
-        "protein_g": 7.46,
-        "carbohydrate_g": 64.35,
-        "sugars_g": 29,
-        "fat_g": 26.32,
-        "saturated_fat_g": 11.23,
-        "sodium_mg": 160
-      }
-    }
-  ],
   "ingredients_raw": "Refined Wheat Flour (Maida) (50% ), Sugar, Edible Vegetable Oils (Palm), Leavening Agents | Ammonium Bicarbonate (E 503(), Sodium Bicarbonate (E500 (H)], Liquid Glucose, Milk Solids (1.5%), Cocoa Powder, Iodised Salt, Permitted Emulsifiers [Lecithin (E 322(1)), Diacetyltartaric And Fatty Acid Esters Of Glycerol [E472(E)], Dough Conditioner [Sodium Metabisulphite (E 223) Contains Added Artificial Flavours (Choco & Vanilla) And Added Natural Food Colours (Caramel E150d) & Synthetic Food Colour (Ponceau 4r E124) ALLERGEN WARNING: this biscuit contains wheat, milk, soy and sulphite as hypersensitive ingredients",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901652140583",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -63,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -74,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

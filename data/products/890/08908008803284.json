@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908008803284",
+  "barcode_printed": "8908008803284",
+  "barcode_format": "EAN-13",
+  "name": "Ready To Serve Fruit Beverage",
+  "brand": "lovely",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Purified Water, Guava Pulp, Sugar, Stabilizer (E440), Acidity Regulators (E330), Antioxidant (E300), Contains Permitted Synthetic Food Colours (E127), Contains Added Flavour (Nature Identical flavour Substances) Contains Permitted (Class II) Preservative (E211).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908008803284",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901138011062",
+  "barcode_printed": "8901138011062",
+  "barcode_format": "EAN-13",
+  "name": "Aloe Vera Face Wash",
+  "brand": "himalaya",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Aqua. Ammonium Lauryl Sulfate. Stearic Acid. Glycerin Cocamidopropyl Betaine, Cucumis Sativus (Cucumber) Fruit Extract, Glycol Stearate, Cetyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Phenoxyethanol, Ethylhexylglycerin, Fragrance, Xanthan Gum, Sodium Lauroyl Sarcosinate, Alce Barbadensis Leaf Extract, Sodium Benzoate, Cetearyl Alcohol, Coco-Glucoside, Glyceryl Oleate, Menthol, Tocopherol. Disodium EDTA, CI 19140, CI 42053.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901138011062",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

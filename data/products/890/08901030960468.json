@@ -3,8 +3,8 @@
   "gtin": "08901030960468",
   "barcode_printed": "8901030960468",
   "barcode_format": "EAN-13",
-  "name": "Horlicks Vanilla flavour Mother Plus 400g CBD",
-  "brand": "hul",
+  "name": "Horlicks Vanilla flavour Mother's Plus 400g CBD",
+  "brand": "horlicks",
   "countries": [
     "IN"
   ],
@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Milk Solids (75%), Dietary Fibre (Wheat Dextrin), Edible Fat powder [High Oleic Sunflower Oil, Corn Solids, Sodium Caseinate, Emulsifier (INS 471), Antioxidant (INS 305)], Cereal Extract, Minerals, Vitamins, Docosahexaenoic Acid (DHA) powder from Schizochytrium sp. (0.51%), Edible Vegetable Oil (Palm Kernel oil), Natural Flavour, Nature-identical flavouring substances, Natural Colour [INS 100(i)]. Allergen Information: Contains Wheat, Barley and Milk. May contain traces of Soy.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901030960468",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

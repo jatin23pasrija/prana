@@ -15,28 +15,13 @@
       "unit": "ml"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 81,
-        "protein_g": 3.3,
-        "carbohydrate_g": 13.6,
-        "sugars_g": 13.6,
-        "fat_g": 1.5,
-        "saturated_fat_g": 0.9,
-        "fibre_g": 0,
-        "sodium_mg": 40
-      }
-    }
-  ],
   "ingredients_raw": "Milk Solids, Sugar & Water. Contains Permitted Synthetic Food Colours (INS 102 & INS 110) And Added Nature-identical Flavour (Badam)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906024484142",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

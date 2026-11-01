@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904023007539",
+  "barcode_printed": "8904023007539",
+  "barcode_format": "EAN-13",
+  "name": "Huile",
+  "brand": "trichup",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Huile de graines de Sesam 80%, Huile de coco 20%, Traitement avec: Azadirachta --- extrait de feuille 2,5%, Eclipta prostata ext-- 1,00%, extrait de fruit d'Emblica officinalis 1%, extrait de digofera tinctoria 1%, extrait de centella asiatica 1 %, extrait de racine de cyperus rotundus 1%, extrait de feuille de jasminum officinale 1%, extrait de graine --brus precatorius 1%, extrait de feuille de datatura metel 1%, extrait de racine de glycynbiza glabra 0,50%, extrait d'écorce de Crataeva nurvala 0,50%, extrait de graine de Pongamia pinnata 0,50%, extrait de Solanum indicum 0,50%, extrait de fruit de Citrullus colocynthis 0,50%, CI 42053, Parfum.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904023007539",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

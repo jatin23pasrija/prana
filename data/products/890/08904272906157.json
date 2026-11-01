@@ -14,34 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "28g",
-        "quantity": {
-          "value": 28,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 170,
-        "protein_g": 4,
-        "carbohydrate_g": 11,
-        "sugars_g": 0,
-        "fat_g": 13,
-        "saturated_fat_g": 5,
-        "sodium_mg": 153
-      }
-    }
-  ],
   "ingredients_raw": "Gram Flour (59%), Refine Palmolein Oil (40%), Asafoetida, Carom Seeds, Alkaline Salt (Papad Khar),Sodium Bicarbonate & Salt.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904272906157",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -58,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -69,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901012101827",
+  "barcode_printed": "8901012101827",
+  "barcode_format": "EAN-13",
+  "name": "ORS Ready to Drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Sodium Chloride I.P. Each Pack (200 ml) contains: .0.52 g Potassium Chloride I.P. .0.30 g Sodium Citrate I.P. .0.58 g Dextrose Anhydrous I.P. 2.70 g Excipients .....q.s.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901012101827",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

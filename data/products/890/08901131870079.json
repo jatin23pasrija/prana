@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901131870079",
+  "barcode_printed": "8901131870079",
+  "barcode_format": "EAN-13",
+  "name": "Corn Flakes Mix Malted & Toasted",
+  "brand": "mohun-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Corn Grits (Maize), Sugar, Edible Common Salt. Malt Extract, Antioxidant INS 322 (). Raising Agent INS 5OO (ii) & Nicotinamide (Vitamin B3)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901131870079",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

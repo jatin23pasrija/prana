@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904043604398",
+  "barcode_printed": "8904043604398",
+  "barcode_format": "EAN-13",
+  "name": "Venky's Crispy Chicken Burger Patty",
+  "brand": "venky-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Chicken Meat (42.2%), Water, Bread Crumb (Refined Wheat Flour (Maida), Dextrose, Edible Common Salt, Preservative - INS 282, Yeast, Acidity Regulator - INS 260), Refined Sunflower Oil, Spices and Condiments, Carrot, Batter (Stabilizer - INS 466), Texture Soy Protein, Refined Wheat Flour (Maida), Soy Protein Isolate, Garlic Paste, Ginger Paste, Edible Common Salt, Acidity Regulator (INS 451(i)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904043604398",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

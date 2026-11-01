@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005671622",
+  "barcode_printed": "8906005671622",
+  "barcode_format": "EAN-13",
+  "name": "Charliee bhajani chakli",
+  "brand": "charliee",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "RICE FLOUR (30%), REFINED PALMOLEIN OIL (29%), BENGAL GRAM FLOUR (22%), YELLOW GRAM FLOUR (6%), BLACK MATPE FLOUR (5%), IODISED SALT (2%), KASHMIRI RED CHILLI POWDER (1%), SESAME (1%), CAROM SEEDS (1%), CUMIN (1%), TURMERIC POWDER (1%), ASAFOETIDA (1%).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005671622",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

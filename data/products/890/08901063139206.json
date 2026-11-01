@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 488,
-        "protein_g": 2.7,
-        "carbohydrate_g": 72,
-        "sugars_g": 37.5,
-        "fat_g": 20,
-        "saturated_fat_g": 10,
-        "trans_fat_g": 0,
-        "sodium_mg": 0
-      }
-    }
-  ],
   "ingredients_raw": "mSUGAR &5%0 DIERTS 500,508() EMULSIFIERS (471,322)Y AND EDIBLE COMMON SALT NTANS PERMITTED NATURAL&SYNTHETIC FOOD COLOURS (150a,150d,102110.122.133)AND ADDED FLAVOURS INATURE IDENTICAL& ARTIFICIAL FLAVOURNG SUBSTANCES AILLA, MILK&CHOCOLATE)]",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063139206",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

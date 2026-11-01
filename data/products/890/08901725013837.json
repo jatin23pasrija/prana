@@ -5,6 +5,7 @@
   "barcode_format": "EAN-13",
   "name": "Mad angles",
   "brand": "bingo",
+  "category": "chips",
   "countries": [
     "IN"
   ],
@@ -14,27 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 531,
-        "protein_g": 7.4,
-        "carbohydrate_g": 57.3,
-        "sugars_g": 3.7,
-        "fat_g": 31.1,
-        "saturated_fat_g": 14.5,
-        "trans_fat_g": 0.1,
-        "sodium_mg": 751
-      }
-    }
-  ],
+  "ingredients_raw": "Rice Grits, Seasoning (Refined Palmolein, Sugar, Maltodextrin, Iodized Salt, Milk Solids, Spices and Condiments, Onion Powder, Hydrolyzed Vegetable Protein, Natural Flavours and Natural Flavouring Substances, Nature Identical Flavouring Substances, Garlic Powder, Flavour Enhancer (INS 508) and Yeast Extract), Refined Palmolein, Degermed Corn Grits and Bengal Gram Grits.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901725013837",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -47,17 +34,21 @@
       "source": "s1",
       "confidence": "medium"
     },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
     "package": {
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

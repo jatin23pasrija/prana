@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901453000024",
+  "barcode_printed": "8901453000024",
+  "barcode_format": "EAN-13",
+  "name": "Rooh Afza",
+  "brand": "hamdard",
+  "category": "water",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Sugar syrup 87.8%, {Sugar, Water, Acidity regulator (INS 330)} Distillate of (Nilofer, Dhaniya, Khas, Gulab, Kasni, Chhareela, Gaozaban, Pudina, Sandal Safaid, Gajar, Munakka) 4.5% Pineapple Juice 2.5%, Orange Juice 1.0%, preservative (INS 211), Distillate of Kewada and Gulab used as natural flavoring agent",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901453000024",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

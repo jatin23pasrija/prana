@@ -4,29 +4,16 @@
   "barcode_printed": "8901741080080",
   "barcode_format": "EAN-13",
   "name": "Rio Mango Alfonso flavour",
+  "brand": "rio",
   "countries": [
     "IN"
-  ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 59,
-        "protein_g": 0.07,
-        "carbohydrate_g": 14.7,
-        "sugars_g": 14.7,
-        "fat_g": 0,
-        "saturated_fat_g": 0,
-        "sodium_mg": 0
-      }
-    }
   ],
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901741080080",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,13 +22,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "brand": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

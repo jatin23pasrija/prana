@@ -15,25 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 428,
-        "protein_g": 6,
-        "carbohydrate_g": 56,
-        "sugars_g": 28.7,
-        "fat_g": 20,
-        "saturated_fat_g": 10
-      }
-    }
-  ],
+  "ingredients_raw": "Refined Wheat Flour (maida), Sugar, Eggs, Edible Hydrogenated Vegetable Oil & Refined Palmolein Oil, Humectants [420(i), 422], High Maltose Syrup, Liquid Glucose, Cocoa Sloids(2%), Sweetened Condensed Milk, Colours(150c, 150d, 102, 122, 132 & 133), Cake Gel { Emulsifiers & Stabilizers(471 & 477) And Humectand[420(ii)]}, Raising Agents[341(i) & 500(ii)], Invert Sugar Syrup, Iodised Salt,preservatives(202 & 282), Baking Powder, Plain Chocolate(0.14%)[sugar, Cocoa Butter, Cocoa Solids, Emulsifiers[322(i) & 476] And Artificial (vanilla) Flavouring Substance], Flavours[nature Identical And Artificial (vanilla & Chocolate) Flavouring Substances] And Stabilizer (415).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063363809",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -54,13 +42,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

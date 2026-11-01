@@ -5,38 +5,17 @@
   "barcode_format": "EAN-13",
   "name": "Protein Muesli",
   "brand": "true-elements",
+  "category": "breakfast-cereal",
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "1 portion (40 g)",
-        "quantity": {
-          "value": 40,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 151.1,
-        "protein_g": 9.9,
-        "carbohydrate_g": 21.9,
-        "sugars_g": 4.6,
-        "fat_g": 2.6,
-        "saturated_fat_g": 0,
-        "trans_fat_g": 0,
-        "fibre_g": 4.2,
-        "sodium_mg": 124.8
-      }
-    }
-  ],
+  "ingredients_raw": "Rolled Oats (28.5%), Jaggery Powder (15.1%), Millets (15% - Jowar Flakes), Soy Protein Isolate (14.5%), Wheat Flakes (11%), Seeds (6.9% - Pumpkin, Watermelon, Flax), Banana Powder (6%), Dried Blackcurrant (1.5%), Almonds (1.5%), Rosemary Extract.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906112669253",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -49,13 +28,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

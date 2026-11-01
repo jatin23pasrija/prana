@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904156100671",
+  "barcode_printed": "8904156100671",
+  "barcode_format": "EAN-13",
+  "name": "Kulfi Ice Cream",
+  "brand": "ideal-ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk, Milk Solids, Sugar, Pista (1%), Almonds (0.5%), Cardamom, Liquid Glucose, Permitted Emulsifiers (E477, E471) and Stabilizers (E412, E410). CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (E102, E122, E133) AND ADDED ARTIFICIAL FLAVOURING SUBSTANCES (KULFI)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904156100671",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

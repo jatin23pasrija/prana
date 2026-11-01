@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Peanuts (46.9%), Edible Vegetable Oil (Refined Palmolein Oil, Refined Ricebran Oil, Refined Cottonseed Oil), Tapioca Starch, Corn Starch, Refined Wheat Flour (Maida), Rice Flour, Mixed Spices (Red Chilli Powder, Dried Mango Powder, Dried Ginger Powder, Coriander Powder, Cumin Powder, Hydrolyzed Vegetable Protein, Black Pepper, Fenugreek Powder, Turmeric Powder, Yeast Extract), Maltodextrin, Iodized Salt, Milk Solids, Sugar (Sucrose), Onion Powder, Tomato Powder, Whey Protein, Garlic Powder, Lemon Grass Oil, Black Salt, Raising Agent [E 500(ii)], Acidity Regulators [E 296 and E 330], Contains Added Flavour (Natural and Nature Identical Flavouring Substances).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901414038486",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

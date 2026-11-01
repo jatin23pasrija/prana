@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906031931240",
+  "barcode_printed": "8906031931240",
+  "barcode_format": "EAN-13",
+  "name": "Instant Coffee Strong",
+  "brand": "levista",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Coffee Beans (60%) & Chicory (40%) FROM THE HOUSE OF Sun Issat STA INSTANT COFFEE-CHICORY MIXTURE Lic. No. MADE FROM BLENDS OF COFFEE AND CHICORY. COFFEE 60% CHICORY 40% Per serve size: 1.4g Scan to experience S Pack contains 71 serves our range of products. th ist Net Quantity: 100 g ra MRP 7: (Incl. of all taxes) Unit Sale Price : Batch No.: Date of Manufacture: Use by: 260.00 Rs.2.60 Per 9 S07E26 09/06/26 08/12/27 Manufactured & Marketed by: SLN Coffee Pvt. Ltd., 53-56, KIADB Industrial Area, Kudlur, Kushalnagar, Kodagu Dist., Karnataka 571 234, India. Customer Care Cell: TOLLFREE: 18004256061 | E-mail: At the manufactured & marketed by address",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906031931240",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

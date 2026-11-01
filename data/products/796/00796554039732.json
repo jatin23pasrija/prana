@@ -15,25 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "protein_g": 16,
-        "carbohydrate_g": 5.3,
-        "sugars_g": 3,
-        "fat_g": 39.7,
-        "saturated_fat_g": 18.8,
-        "sodium_mg": 10000
-      }
-    }
-  ],
+  "ingredients_raw": "Cocoa Butter, Whey Protein Powder, Kaju Katli Essence, Wheat Flour, Vanilla, Coconut oil, Vanilla Pod, Monk fruit.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0796554039732",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -54,13 +42,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

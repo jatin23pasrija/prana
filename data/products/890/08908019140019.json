@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019140019",
+  "barcode_printed": "8908019140019",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Oat Drink",
+  "brand": "oatey",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Oat Base (Water, Oats 10.5%), Sugar Substitute (Erythritol, Maltitol, Steviol glycoside), Low Erucic Acid Rapeseed Oll 1.5%, Cocoa Powder 1.5%, Minerals (Calcium Carbonate, Tricalcium Phosphate), Acidity Regulator (Dipotassium Phosphate), Thickener & Stabilizer (Micro crystalline cellulose, Carboxymethyl cellulose, Gellan Gum), Citrus Fibre, Himalayan Pink Salt, Vitamin B1, B2, 812 6 D. CONTAINS NATURALLY OCCURING SUGARS, CONTAINS DATS, CONTAINS NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES CHOCOLATE & VANILLA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019140019",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

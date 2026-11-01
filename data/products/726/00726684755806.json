@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00726684755806",
+  "barcode_printed": "0726684755806",
+  "barcode_format": "EAN-13",
+  "name": "Dark Wafer Rolls filled with Choco Cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 480,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Wheat Flour, Raising Agent (E550), Hydrogenated Palm Oil, Milk Solids, Whey Powder, Emulsifier (Soy Lecithin), Edible Starch, Caramel Color (E150C), Edible Common Salt, (Artificial Flavouring Substances - Chocolate). Does not contain Animal Fat/ Egg.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0726684755806",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

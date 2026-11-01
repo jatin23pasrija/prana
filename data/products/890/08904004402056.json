@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Refined palmolein oil, Bengal gram flour (besan) (18.5%), rice flakes (6.17%), tepary beans (moth dal) flour (4.32%), split pulse moong (moong dal) (4.32%), potato, groundnut (peanuts) (3.7%), raisins (3.7%), split pulse Bengal gram (chana dal) (3.7%), red lentils (masur dal) (3.7%), refined wheat flour (maida), cashew nuts, corn flakes, sago, tapioca starch, green peas, spinach, refined sugar, iodised salt, dried mango powder, red chilli, black pepper, black salt, clove powder, acidity regulator (INS 330), nutmeg, bay leaf, sesame seed, cinnamon, turmeric powder, ajwain powder, cardamom, curry leaves, asafoetida & colour (INS 141).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904004402056",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

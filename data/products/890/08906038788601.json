@@ -14,29 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 133,
-        "energy_kj": 556,
-        "protein_g": 4.3,
-        "carbohydrate_g": 19,
-        "sugars_g": 9.2,
-        "fat_g": 4.4,
-        "saturated_fat_g": 1.1,
-        "fibre_g": 2.3,
-        "sodium_mg": 4
-      }
-    }
-  ],
   "ingredients_raw": "INGREDIENTES DATILES CASTANAS ,CASTAÑAS DE CAJU, CACAO EN POLVO, MANTECA DE CACAO - CONTIENE CASTAÑAS DE CAJUPUEDE CONTENER ALMENDRAS Y AVELLANAS. ATENCION: PUEDE CONTENER RESTOS DE CAROZOS DE DATIL",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906038788601",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -53,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -64,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

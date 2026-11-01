@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901652140231",
+  "barcode_printed": "8901652140231",
+  "barcode_format": "EAN-13",
+  "name": "Priyagold Classic Creme Orange Flavoured Biscuits",
+  "brand": "priyagold",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED VEGETABLE OILS (PALM OIL), MILK SOLIDS, LEAVENING AGENTS [AMMONIUM BICARBONATE (E503(ii)), SODIUM BICARBONATE (E500(ii))], LIQUID GLUCOSE, IODISED COMMON SALT, PERMITTED EMULSIFIERS [LECITHIN (E322(i)), DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL (E472(e)), ACIDITY REGULATOR [CITRIC ACID (E330)], DOUGH CONDITIONER [SODIUM METABISULPHITE (E 223)]. CONTAINS PERMITTED NATURAL FOOD COLOURS [ANNATTO EXTRACTS (E160(b)), ROSEMARY EXTRACT (E392), PAPRIKA EXTRACT (E160(c)] & SYNTHETIC FOOD COLOURS [ALLURA RED AC (E129), TARTRAZINE (E102)] & ADDED ARTIFICIAL FLAVOUR (ORANGE). ALLERGEN WARNING: THESE BISCUITS CONTAIN WHEAT, MILK, SULPHITE & SOY HYPERSENSITIVE INGREDIENTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901652140231",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908027247007",
+  "barcode_printed": "8908027247007",
+  "barcode_format": "EAN-13",
+  "name": "Reginald Helios",
+  "brand": "reginald",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Aqua, C12-15 Alkyl Benzoate, Diethylamino Hydroxybenzoyl Hexyl Benzoate, Ethylhexyl Triazone, Bis-Ethylhexyloxyphenol Methoxyphenyl Triazine, Propanediol, Phospholipids, Phenoxyethanol, Hydroxyace - tophenone, Camellila Sinensis Leaf Extract, Centella Asiatica Extract, Portulaca Oleracea Extract, Polypodium Leucotomos Extract, Niacinamide, Alpha Arbutin, Glycerine, Glyceryl Stearate Citrate, Isoamyl Laurate, Kojic Acid Dipalmitate, Caprylic Capric Triglyceride,1,2-Hexanediol, Sodium Hyaluronate, Potassium Hyaluronate, Sodium Hyaluronate Crosspolymer, Sodium Acetylated Hyaluronate, Hydroxypropyltrimo - nium Hyaluronate, Hydrolyzed Hyaluronic Acid, Hyaluronic Acid, Hydrolyzed Sodium Hyaluronate, Sodium Retinoyl Hyaluronate, Zinc Hydrolyzed Hyaluronate, Ascorbyl Propyl Hydrolyzed Hyaluronate, Ascorbyl Propyl Hyaluronate, Dimethylsilanol Hyaluronate, Pentylene Glycol, Butylene Glycol, Sodium Benzoate, Potassium Sorbate, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Disodium Ethylenediaminetetraacetate, 4-Butyl Resorcinol, Tetrahydrodiferuloylmethane, Glabridin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908027247007",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

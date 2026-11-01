@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein Oil, Cottonseed Oil), Gram Flour, Dew Beans Flour (Moth Flour), Peanuts (12%), Split Chickpea (4.5%), Corn Flakes (4.5%), Rice Flakes (4%), Split Green Gram (3.5%), Whole Lentils (3.5%), Cashew (2.5%), Raisins (2%), Potato Sticks (1.5%), Flattened Chick Peas (Chana Press) (1%), Green Peas (0.5%), Tapioca (0.1%), Potato Flakes, Starch, Cucumber Seed, Sesame Seeds, Ground Spices & Condiments (Sugar, Iodised Salt, Acidity Regulator (INS 330), Red Chilli, Coriander, Turmeric (Coloring and Spices), Cumin, Fennel Seeds, Ginger, Black Pepper, Cardamom, Clove, Nutmeg, Spinach Powder, Asafoetida, Bishop’s Seed, Curry Leaves)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8905950003519",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

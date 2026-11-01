@@ -9,27 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 514,
-        "protein_g": 8.23,
-        "carbohydrate_g": 60.04,
-        "sugars_g": 4.34,
-        "fat_g": 26.8,
-        "saturated_fat_g": 11.17,
-        "sodium_mg": 506.46
-      }
-    }
-  ],
   "ingredients_raw": "Makhana (Popped Gorgon Nut) (72%), Refined Palmolein Oil, Spices & Condiments (Chilli, Coriander, Ginger, Cumin, Fenugreek, Turmeric, Long Pepper, Nutmeg, Mace, Dried Mint leaves (0.3%), Dried Mango (Amchur), Dried Fenugreek Leaves), Salt, Black Salt, Sugar, Olive Oil (1%), Maltodextrin, Hydrolysed Peanut Protein, Flour Treatment Agent (INS 510), Acidity Regulators (INS 296, INS 330) and Flavour Enhancers (INS 627, INS 631), Anticaking Agent (INS 551), Turmeric Oleoresin, Garden Mint Oleoresin, Natural Colour (INS 141) and Added Flavour (Natural Flavouring Substance - Mint). Sugar, ALLERGEN INFORMATION: MAY CONTAINS NUT",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8907083112021",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -46,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -57,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

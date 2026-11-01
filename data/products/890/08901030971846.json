@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030971846",
+  "barcode_printed": "8901030971846",
+  "barcode_format": "EAN-13",
+  "name": "Vaseline Deep moisturizer",
+  "brand": "vasaline",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "BA F10/-, *0.50/m] # 11/23 B246 @10/26 Vaseline® intensive care™м Triples skin's moisture level** Long Lasting Moisturization to restore dry skin **Based on clinical study 2021. BODY LOTION. USER HINDUST DE IN INDIA. MKTD. BY LIC. UNILEVER LIMITED (HUL). HUL 2023.VASELINE IS THE REGISTERED TRADE MARK OF UNILEVER PLC. MFG. BY M/S RHP HEALTHCARE PVT. LTD., PLOT NO. 23, SECTOR-2, SIDCUL, HARIDWAR - 249 403 (UK). M. 3/C/UA/2021. HUL REGN. NO. 80-13-000-07-AAACH1004N-22 MINIMUM THICKNESS OF THE PACKAGING IS 500 MICRON &quot;MRP (INCL. OF ALL TAXES), USP, #MFD., B. NO. & @USE BEFORE: SEE ABOVE. ^ LEVERCARE-QUERY/FEEDBACK, C TOLL FREE: 1800-10-22-221, PO BOX 14760, MUMBAI 400 099, LEVER CARE@UNILEVER.COM PET Net Vol. When Packed 62678704 Unilever 20 ml",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030971846",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

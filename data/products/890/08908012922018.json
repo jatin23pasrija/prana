@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908012922018",
+  "barcode_printed": "8908012922018",
+  "barcode_format": "EAN-13",
+  "name": "Jan Aushadhi Soy Protein Chocolate Flavour",
+  "brand": "jan-aushadhi",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Soya Protein Isolate, Sugar, Maltodextrin, Cocoa Powder, Whole Milk Powder, Nature Identical Flavouring Substance (Chocolate), Minerals (Tricalcium Phosphate, Sodium Chloride, Ferrous Fumarate, Magnesium Oxide, Zinc Sulphate, Copper Sulphate, Manganese Sulphate, Potassium Iodide, Sodium Selenite, Sodium Molybdate), Malt Extract Powder, Whey Protein Concentrate, Skimmed Milk Powder, (INS 460), Hydrolysate, Choline Hydrogen Tartrate, Stabilizer (INS 466), Vitamins (Vitamins (L-Ascorbic Acid, Nicotinamide, D-Alpha Tocopherol Acetate, Retinyl Riboflavin, Ergocalciferol, Thiamine Mononitrate, D-pantothenate Calcium, Pyridoxine HCI, Phylloquinone, n-pteroyl-L-glutamic acid, D-Biotin, Cyanocobalamin), DHA powder, Anti-caking Agent (INSS51). ALLERGENS: Contains Milk, Nut and Soy. Manufactured in the same facility which processes Wheat. NOT FOR MEDICINAL USE. Vitamin B7 mg 2.00 0.50 20.83% Vitamin B9 mcg 170.00 42.50 24.08% Vitamin B12 mcg 35.00 8.75 21.87% Vitamin K mcg 2.00 0.50 22.73%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908012922018",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Dark Choco Filling (38%) [sugar, Refined Palmolein Oil, Cocoa Solids, Emulsifier (322(), Iodised Salt And Artificial (condensed Milki & Nature Identical Flavouring Substances], Refined Wheat Flour (maida), Interesterified Vegetable Fat, Sugar, Invert Sugar Syrup, Liquid Glucose, Raising Agents [500 (i), 503(i) & 450(1], Cocoa Solids (0.8%), Iodised Salt, Butter, Milk Solids, Colour (150d), Emulsifiers [322() & 4711 And Artificial (milky Cocoa & Vanillin) & Nature Identical Flavouring Substances.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/3948063160293",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906118416370",
+  "barcode_printed": "8906118416370",
+  "barcode_format": "EAN-13",
+  "name": "Saffron & papaya glow bright face wash",
+  "brand": "plum",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Aqua, Cocamidopropyl Betaine, Acrylates Copolymer, Coco Glucoside, Sodium Cocoyl Glycinate, Glycerin, Propanediol, Olive Oil PEG-7 Esters, Triethanolamine, Capryloyl/Caproyl Methyl Glucamide, Carica Papaya Fruit Extract, Crocus Sativus (Saffron) Oil, Niacinamide, Lauroyl/Myristoyl Methyl Glucamide, Phenoxyethanol, Ethylhexylglycerin, Panthenol, Fragrance, Sodium Gluconate, CI 15510, CI 47005",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906118416370",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

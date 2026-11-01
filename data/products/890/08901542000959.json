@@ -8,21 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 419
-      }
-    }
-  ],
   "ingredients_raw": "Milk Solids (54.8%), Sugar, Peanut Oil, Maltodextrin, Caramel (INS150C), Minerals, Beet Red (INS162), Vitamins, Inositol, Taurine, L-Carnitine. CONTAINS PERMITTED NATURAL COLOURS AND ADDED FLAVOURS (CHOCOLATE - ARTIFICIAL FLAVOURING SUBSTANCES) Contains Milk Solids, Peanut Oil. May contain traces of Nuts, Wheat and Soya.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901542000959",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -46,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901288310206",
+  "barcode_printed": "8901288310206",
+  "barcode_format": "EAN-13",
+  "name": "Vicco Vajradanti Toothpaste Saunf Flavour",
+  "brand": "vicco-vajradanti",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "012, bur, 8. 10. ies. VICCO VAJRADANTI PASTE SAUNF FLAVOUR Each 100g contains: Extracts of: Babhul (Acacia arabica, Willd.-Bark-Powder) 1.8g, Jambhul (Eugenia jambolana, Lam-Bark-Powder) 1g, Lavang (Caryophyllus aromaticus, Linn.-Fruit-Powder) 0.06g, Manjishtha (Rubia cordifolia, Linn.-Stem-Powder) 2.6g, Dalchini (Cinnamomum zeylanicum, Blume-Bark-Powder) 0.16g, Bor (Zizyphus jujuba, Lam.-Bark-Powder) 1g, Vajradanti (Barleria prionitis, Linn-Stem-Powder) 0.5g, Acrod (Juglans regia, Linn.-Bark-Powder) 0.06g, Khair (Acacia catechu, Willd.-Bark-Powder) 1.64g, Patang (Caesalpinia sappan, Linn.-Stem-Powder) 2.4g. Bakul (Mimusops elengi, Linn.-Bark-Powder) 3.2g, Jeshthamadh (Glycyrrhiza glabra, Linn-Root Powder) 1.3g, Kavab-Chini (Chirfal) (Zanthoxylum rhetsa, DC.-Fruit-Powder) 1.94g. Anantmul (Hemidesmus indicus, R.Br.-Root-Powder) 0.4g, Maifal (Quercus infectoria, Oliv-Fruit-Powder) 0.06g, Trifala - (Amla - Emblica officinalis, Gaertn.-Fruit-Powder, Harda - Terminalia chebula, Retz-Fruit-Powder, Behada - Terminalia belerica, Roxb.-Fruit-Powder) 1.6g, Ajwan (Carum copticum Benth & Hook-Fruit-Powder) 0.02g, Akkalkadha (Anacyclus pyrethrum, DC-Root-Powder) 0.26g. Preservatives: Methyl Paraben Sodium IP, Propyl Paraben Sodium IP. Artificial sweetener: Sodium Saccharin 0.19% w/w. Excipients q.s.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901288310206",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

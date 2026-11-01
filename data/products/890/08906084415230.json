@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906084415230",
+  "barcode_printed": "8906084415230",
+  "barcode_format": "EAN-13",
+  "name": "Roasted makahna",
+  "brand": "mom",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "OM trition Information The Jolydale (3) Dean Fiber (s) 20 8820 89 Sugar (3) des Added Sugar (@1 5% 番茄 T 165 236 8.6% 08 S 6500 2.8% tells you how much a nuent in a serving of food contributes to a da for general nutrition advice. dietary allowance is acuated on the basis of",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906084415230",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

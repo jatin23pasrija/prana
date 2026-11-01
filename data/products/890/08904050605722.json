@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904050605722",
+  "barcode_printed": "8904050605722",
+  "barcode_format": "EAN-13",
+  "name": "Chyawanprash",
+  "brand": "jiva",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Amalaki-Fr. Pulp (Emblica officinalis) - 78 g. Decoction of the be marmelos), Shyonaka-St. Bk. (Oroxylum indicum), Gambhari-St. Bk. (Gmeline (Stereospermum suaveolens), Bala-Pl. (Sida cordifolia), Prishniparni-Pl. (Uraria pica gangeticum), Mashaparni-Pl. (Teramnus labialis), Mudgaparni-PL. (Phaseolus tribu Gokshura-Pl. (Tribulus terrestris), Kantakari-Pl. (Solanum xanthocarpum), B Kakrashringi-Gl. (Pistacia integerrima), Tamalaki-Pl. (Phyllanthus nirun), Draksha (Leptadenia reticulata), Haritaki-Fr. (Terminalia chebula), Bahera-Fr. (Terminalia bele cordifolia), Jiwak (Microstylis wallichi), Karchura-Rz. (Curcuma zedoaria), Musta-RzOpe Pl. (Boerhavia diffusa), Maha Maida (Polygonatum airrhifolia), Elaichi (Amomum mucronata), Adusa PI (Adhatoda vasica), Kamal (Nelumbo nucifera), Vidhar (Roscoca procera), Kheer Kakoli (Roscoca procera), Kakanasika-Fr. (Maritima annua following: Vansha - S.C. (Bambusa bambos), Elaichi (Eletarria calamomum D zeylanicum), Tvak-Lf. (Cinnamomum tamala), Nagakesara-Fl. (Mesua ferreal-E (Syzygium aromaticum) 0.20 g, Tila Tail-Oil (Sesamum indicum) 1.05 g, Ghita 15 Sucrolose-QS; Preservative: Sodium benzoate (IP)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904050605722",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004402827",
+  "barcode_printed": "8904004402827",
+  "barcode_format": "EAN-13",
+  "name": "Panchratan mix",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato, Refined Palmolein Oil, Almond. Refined Sugar, Raisins (7%), Cashew Nuts (7%), Curry Leaves, Sesame Seed, Rock Salt, Red Chilli Powder, Poppy Seed, Acidity Regulator NS 330), Cumin Powder & Black Salt. ergen: Contains Cashews, Almonds & Sesame Seeds. May Contains Peanuts, Other Tree Nuts, Milk & Sulphite. 8904004 4028271 Please call consumer care executive no. +91-9209109999 For any questions, comments or complainis on quality +91-7507090300, write to us at the office address or ema a customercare@haldirams.com and for enquires re sales & marketing, please call at +91-703078166 fssai Manufactured By: c. No. 10012022000574 HALDIRAM FOODS INTERNATIONAL P Bhandara Road, Nagpur, M 20 Km Stone, Kh. No. CPCB Regn. No BO Office: Plot No. 14 An ISO 220 Road, Nagp W onal Information (approx. values ch-1.25 20 a te (g) Per 1009 526 52.61 gars la 10.3 iber (g) 4.6 32.13 teu Fat (g) 7.13 Fat (g) (mg) 480 (%) contribution on the basis JANTITY: CH NO.: AFG. DATE: BY: 10.00 all taxes 25 Per Serving % Contribution 526",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004402827",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

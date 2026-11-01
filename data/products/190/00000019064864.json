@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00000019064864",
+  "barcode_printed": "19064864",
+  "barcode_format": "EAN-8",
+  "name": "Oats Coconut Cookies",
+  "brand": "let-s-try",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole Wheat Flour, Brown Sugar, Shortening, Oats, Coconut Powder, Milk, Glucose, Custard Powder, Maize Starch, Honey, Raising Agent (INS 503), Salt, Ammonia, Artificial Flavouring Agents (Coconut, Milk).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/19064864",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

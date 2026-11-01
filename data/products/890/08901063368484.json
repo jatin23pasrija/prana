@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063368484",
+  "barcode_printed": "8901063368484",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Gobbles",
+  "brand": "britannia-industries-ltd",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 28,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "CAKE PROPRIETARY FOOD, CAKE-7.21 TOMACOL TO BERNED WHEATFLOURIMAIDA) EGG, SUGAR, FRUIT PRODUCTS (9%) [GLAZED FRUIT (PAPAYA CUTS, SUGAR PRESERVATIVE OF OUR THION & ORANGE PULP (0.5%), VANASPATI, INTERESTERIFIED VEGETABLE FAT, HUMECTANT 14221, DEXTROSE, REFINED PALMOLEIN DIE, LIQUID GLUCOSE, HIGH MALTOSE SYRUP FRUCTOOLIGOSACHHARIDES, GEL EMULSIFIERS (471,477, 470(i)) AND HUMECTANTS (1520, 422)), EDIBLE MAIZE STARCH, WHEAT RCH, RAISING AGENTS (341). 500m), 450(vii), 450), 10DIZED SALT, NATURE IDENTICAL (ORANGE) FLAVOURING STANCES, INVERT SUGAR SYRUP PRESERVATIVES (202 & 282), ACIDITY REGULATOR (330), BAKING POWDER, EMULSIFIER 75), COLOURS (110 122) AND STABILIZER (415) (Numbers in brackets CONTAIN 01-20-000-22-8d Mumbering System) NONI VINILING",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063368484",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

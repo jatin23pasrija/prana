@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Refined Wheat Flour (maida), Water, Sugar, Vital Gluten, Yeast, Iodised Salt, Refined Palmolein Oil, Soya Flour, Preservative (282), Emulsifiers [472, 481(i) & 472(e)], Dough Conditioners [516, 170(i)], Acidity Regulator (260), Stabilizer (412), Vitamins*, Flour Treatment Agent (510), Improvers [1100(i), 1104, 1102 & Xylanase] And Antioxidation (300).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063343528",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

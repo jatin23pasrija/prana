@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906013030909",
+  "barcode_printed": "8906013030909",
+  "barcode_format": "EAN-13",
+  "name": "Ready to Eat Noodles Chicken Flavoured",
+  "brand": "wai-wai",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Instant Noodles (Fried) with Seasoning and Dehydrated Veggies. INGREDIENTS: Noodles : Refined WHEAT Flour (Maida), Edible Vegetable Oil (Palm), Iodized Salt, WHEAT Gluten, Flavour Enhancers (INS 621, INS 627, INS 631), SOY Sauce [Caramel (INS 150d)], Acidity Regulators (INS 451 (i), INS 500 (ii)], Thickener (INS 412), Black Pepper, Onion and Artificial Chicken Flavoring [Caramel (INS 150d)], Water, Starch, Flavour Enhancers (INS 627, INS 631), Dextrose, Emulsifier (INS 414)]. Seasoning : Garlic, Iodized Salt, Chilli, Dehydrated Vegetables (Carrot, Cabbage, Spring Onion), Maltodextrin (INS 1400), White Pepper, Black Pepper, Flavour Enhancers (INS 621, INS 627, INS 631) and Sugar. Contains Artificial Flavoring Substances (Chicken) and Permitted Natural Color (INS 150d).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906013030909",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 484,
-        "protein_g": 6.5,
-        "carbohydrate_g": 65,
-        "sugars_g": 17.5,
-        "fat_g": 22,
-        "saturated_fat_g": 10.5,
-        "fibre_g": 4,
-        "sodium_mg": 416
-      }
-    }
-  ],
   "ingredients_raw": "Refined Wheat Flour [(Maida (43%)], Edible Vegetable Oil (palm), Sugar, Wheat Flour [Atta (15%)], Wheat Bran (3%). Invert Syrup, lodised Salt, Raising Agents [INS 503(ii), INS 500(ii)) Wheat Gluten, Malt Extract, Acidity Regulators (INS 296, INS 450(i). INS 334), Dough Conditioner (INS 223).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906078263588",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

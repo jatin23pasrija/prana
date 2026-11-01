@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901548311387",
+  "barcode_printed": "8901548311387",
+  "barcode_format": "EAN-13",
+  "name": "Sugar Free D'lite Yummy Berry Cookies",
+  "brand": "sugar-free",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sweeteners (Maltitol, Sucralose), Hydrogenated Oil (Palm and Palm Kernel Oil), Black Currant (7%), Oats (5%), Butter, Fructo Oligosaccharides (3%), Quinoa (2%), Milk Solids, Raising Agents (INS 500 (ii), INS 503 (iii)), Nature Identical Flavouring Substances (Blueberry, Vanilla), Emulsifiers (Soya Lecithin, INS 472), Iodised Salt, Antioxidant (INS 330)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901548311387",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

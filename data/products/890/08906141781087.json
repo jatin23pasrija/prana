@@ -9,35 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "50g",
-        "quantity": {
-          "value": 50,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 93.2,
-        "protein_g": 2.7,
-        "carbohydrate_g": 11.4,
-        "sugars_g": 0.9,
-        "fat_g": 4.9,
-        "saturated_fat_g": 2.9,
-        "fibre_g": 4.3,
-        "sodium_mg": 0
-      }
-    }
-  ],
   "ingredients_raw": "House Low Carb Flour (Whole Wheat, Foxtail Millet, Coconut, Oats, Soy flours), Zero Sugar Sweetener (Erythritol, FOS, Stevia), Cocoa Powder, Butter, Sunflower Oil, Milk Solids, Whey Protein, Chocolate Flavour, Baking Powder, Contains less than 1% of the following, combined: Acidity Regulator (330, 296), Stabiliser (475), Preservative (202)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906141781087",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -54,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -65,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

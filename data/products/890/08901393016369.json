@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Sugar boiled confectionery (75%): Sugar, liquid glucose, acidity regulators (INS 270, INS 296, INS 330); Bubble gum (25%): Sugar, gum base, liquid glucose, dextrose, humectant (INS 422), dehydrated fruits powder (0.28%), antioxidant (INS 321). Contains permitted synthetic food colour (INS 122) and added nature-identical (strawberry) and artificial (tutti frutti) flavouring substances.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901393016369",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

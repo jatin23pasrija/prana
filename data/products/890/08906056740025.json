@@ -9,26 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 148,
-        "protein_g": 6,
-        "carbohydrate_g": 22,
-        "fat_g": 4,
-        "saturated_fat_g": 0.3,
-        "sodium_mg": 55
-      }
-    }
-  ],
   "ingredients_raw": "Coriander, Chillies, Cumin, Salt, Cinnamon, Turmeric, Kasuri Methi, Bengal Gram, Black Gram, Black Pepper, Cardamom, Cloves, Fenugreek, Nutmeg, Dry Ginger, Mace, Asafoetida",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906056740025",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -45,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -56,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

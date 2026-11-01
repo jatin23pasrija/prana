@@ -14,28 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 383,
-        "protein_g": 4.8,
-        "carbohydrate_g": 63,
-        "sugars_g": 35,
-        "fat_g": 12.4,
-        "saturated_fat_g": 10,
-        "trans_fat_g": 0.3,
-        "sodium_mg": 485.65
-      }
-    }
-  ],
-  "ingredients_raw": "Wheat Hor,Gucse Syrup, Sugar, Edible Vegetable Oil Palm), Detrose, Water, Dank choco drizle 6.3%)(Sugar,Hydrogenated Vegetable at Palm), oca Solid, Futose,Emulifier Humedtant (NS42), Cashew favured dips )(uga, Hydrngenated Vegetabe at Palm) Compound ONSIZ), Milk Solids&Emulsifier (NS52),Maltodextrin, ik solits 2.3),leavenig agents (NS410, NSO (INSATI, INSA75, INSA3), Butter 05%), Food colours(NSI50, NSTIO), Stablizer (NS41, NA1), VitaminD INS3410, Modfied starch (NSI42), Starch, ashew Nuts (1), oied Salt, Cacum Carbonate, Emulifier",
+  "ingredients_raw": "Wheat Flour, Glucose Syrup, Sugar, Edible Vegetable Oil (Palm), Dextrose, Water, Dark compound choco drizzle (5.38%) (Sugar, Hydrogenated Vegetable Fat (Palm), Cocoa Solids, Fructose, Emulsifier (INS322)), Humectant (INS422), Cashew flavoured chips (3.7%) (Sugar, Hydrogenated Vegetable Fat (Palm), Milk Solids & Emulsifier (INS322)), Maltodextrin, Milk solids (2.3%), Leavening agents (INS341(1), INS500(i), INS341(1), Modified starch (INS1442), Starch, Cashew Nuts (1%), lodized Salt, Calcium Carbonate, Emulsifier (INS471; INS475, INS433), Butter (0.5%), Food colours (INS150c, INST10), Stabilizer (INS415, INS410), Vitamin D",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904150502396",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -52,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -63,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

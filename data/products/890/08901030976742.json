@@ -8,35 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "110g",
-        "quantity": {
-          "value": 110,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 404,
-        "protein_g": 8.2,
-        "carbohydrate_g": 67.1,
-        "sugars_g": 8.5,
-        "fat_g": 12.6,
-        "saturated_fat_g": 5.9,
-        "trans_fat_g": 0.1,
-        "fibre_g": 5.4,
-        "sodium_mg": 2131
-      }
-    }
-  ],
+  "ingredients_raw": "NOODLES: Refined Wheat Flour (Maida), Thickener - 1420, Palm Oil/Palmolein, Wheat Gluten, Potato Starch, Iodised Salt, Yeast, Acidity Regulator - 500(i) and 501(i), Texturizer - 451(i). SEASONING: Sugar, Flavour Enhancer - 627 & 631, Iodised Salt, Food Colour - Caramel I, Potato Starch, Flavours - Nature Identical Flavouring Substances (Soya Sauce), Dehydrated Vegetables (Garlic (0.8%), Ginger), Chilli Powder (0.9%), Hydrogenated Palm Oil, Anticaking Agent - 551, Maltodextrin, Oleoresin Chillies, Acidity Regulator-330. Dehydrated Vegetables (2.7%): Cabbage, Spring Onion, Mushroom, Broccoli, Bell Pepper, Zucchini.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901030976742",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -49,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

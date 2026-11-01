@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904542700300",
+  "barcode_printed": "8904542700300",
+  "barcode_format": "EAN-13",
+  "name": "Peri Peri Makhana",
+  "brand": "khetika",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Makhana, Olive Oil, Peri Peri Spice Blend & Condiments [Red Chilli Powder, Dry Mango, Cumin, Dry Ginger, Pepper, Tomato Powder, Garlic Powder ＆ Onion Powder], Iodized Salt, Mishri Powder & Potato Powder",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904542700300",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

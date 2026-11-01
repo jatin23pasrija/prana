@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906023892085",
+  "barcode_printed": "8906023892085",
+  "barcode_format": "EAN-13",
+  "name": "WhatsApp Perfume",
+  "brand": "john-phillips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "ethyl alcohol 95% denatured with diethyl phthalate 1% perfume tinogard TT benzophenone-3",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906023892085",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

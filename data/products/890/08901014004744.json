@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 493.14,
-        "protein_g": 10.3,
-        "carbohydrate_g": 62.9,
-        "sugars_g": 2.76,
-        "fat_g": 21.02,
-        "saturated_fat_g": 10.5,
-        "trans_fat_g": 0.1,
-        "sodium_mg": 1468.88
-      }
-    }
-  ],
   "ingredients_raw": "Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm Oil), Dehydrated Pieces 4.26% (Corn, Green Pea, Carrot, French Beans & Curry Leaves), lodised Salt, Mixed Spices 1.55% (Red Chilli, Turmeric, Coriander, Black Pepper, Cumin, Fenugreek, Ginger, Clove, Nutmeg & Green Cardamom), Hydrolysed Vegetable Protein Powder (Soya), Onion Powder, Corn Starch, Sugar, Maltodextrin, Yeast Extract Powder Flavour Enhancers (INS 631, INS 627 & INS 620), Acidity Regulators [INS 500(1), INS 451 & INS 330], Thickener (INS 415) & Antioxidant (INS 319). ALLERGEN INFORMATION: CONTAINS WHEAT & SOY. MAY CONTAIN MILK.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901014004744",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "05404017407701",
+  "barcode_printed": "5404017407701",
+  "barcode_format": "EAN-13",
+  "name": "QNT PRIME WHEY",
+  "brand": "qnt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Triple Blend Whey Protein (Whey Concentrate, Whey Isolate, Whey Hydrolysate), Whole Milk Powder, Skimmed Milk Powder, Pistachio, Cashew, Nature Identical Saffron Flavour, Sodium Chloride, Thickener (INS 415), Di-potassium hydrogen Phosphate, Thickeners (INS 466 & 407), AntiCaking Agent (INS 551), Sweeteners (INS 955 & INS 950) & DigeZyme.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5404017407701",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

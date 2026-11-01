@@ -8,25 +8,19 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 187.2,
-        "protein_g": 0.6,
-        "carbohydrate_g": 45.3,
-        "sugars_g": 41,
-        "fat_g": 0.4,
-        "sodium_mg": 800
-      }
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
     }
-  ],
+  },
+  "ingredients_raw": "Water, Sugar, Dehydrated Onions (4.0%), Iodised Salt, Spices and Condiments, Acidity Regulator (INS260), Stabilizers (INS1422, INS415) and Preservative (INS211).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906069400084",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -39,13 +33,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

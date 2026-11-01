@@ -3,18 +3,19 @@
   "gtin": "08901491003162",
   "barcode_printed": "8901491003162",
   "barcode_format": "EAN-13",
-  "name": "8901491003162",
+  "name": "Uncle Chipps Spicy Treat",
   "brand": "chips",
   "category": "chips",
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Potato, edible vegetable oil (palmolein, sunflower oil), seasoning (sugar, iodised salt, spices and condiments, acidity regulators (330, 334, 296), maltodextrin, edible starch, salt substitute (potassium chloride), milk solids, anticaking agents (551, 470), flavour enhancers (631, 627), colour (150d), flavour (natural and nature identical flavouring substances), modified starch (1450)).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901491003162",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

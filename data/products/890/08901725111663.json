@@ -14,25 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 382,
-        "protein_g": 10.3,
-        "carbohydrate_g": 71.4,
-        "sugars_g": 11.4,
-        "fat_g": 6.7,
-        "saturated_fat_g": 4.1
-      }
-    }
-  ],
+  "ingredients_raw": "PASTA: WHEAT SEMOLINA (99.3%), PAPRIKA EXTRACT POWDER (0.4%) AND SPINACH EXTRACT POWDER (0.3%). CREAMY CORN PASTA SAUCEMAKER: MILK SOLIDS (35.1%), IODIZED SALT, STARCH, SUGAR, REFINED PALM OIL, DEHYDRATED GARLIC BITS, ONION POWDER, DEHYDRATED CORN (4.0%), FAT POWDER, SPICES AND CONDIMENTS, NATURE IDENTICAL FLAVOURING SUBSTANCES, ACIDITY REGULATOR [INS 331(iii)], DEHYDRATED CHIVES (1.1%), FLAVOUR ENHANCERS (INS 627, INS 631), ANTICAKING AGENT (INS 551), NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, THICKENER (INS 415) AND YEAST EXTRACT.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901725111663",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -49,13 +37,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

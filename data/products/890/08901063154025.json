@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Ragi flour (33%), refined wheat flour (28%), edible vegetable oil (palm), maltitol (965), inulin, milk solids, maltodextrin, natural fruit fiber (apple-1.6%), raising agents [503(ii), 500(ii), 450(i)], edible common salt, emulsifiers (322, 412, 472e, 471), cinnamon (0.5%), dough conditioner (223) and sweetener (955). Contains added flavours [nature identical and artificial flavouring substances (butter, milk masala & vanilla)].",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063154025",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

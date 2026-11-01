@@ -8,25 +8,12 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 56,
-        "protein_g": 0,
-        "carbohydrate_g": 14,
-        "sugars_g": 13.79,
-        "fat_g": 0.9,
-        "saturated_fat_g": 0.5
-      }
-    }
-  ],
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901764022708",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -38,14 +25,10 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
-    },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

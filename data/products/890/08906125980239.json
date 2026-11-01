@@ -14,34 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "28g",
-        "quantity": {
-          "value": 28,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 129,
-        "protein_g": 2,
-        "carbohydrate_g": 15,
-        "fat_g": 8,
-        "saturated_fat_g": 4,
-        "fibre_g": 3,
-        "sodium_mg": 160
-      }
-    }
-  ],
   "ingredients_raw": "Popping corn (70%), Edible vegetable oil (Rice bran, Sunflower & Olive oil), iodized salt, Beta carotene, Anti-Oxidant (E319), Acidity Regulator (E330), Anti foaming Agent (E900a), Emulsifier (E471). CONTAINS PERMITTED NATURAL COLOR (160a(1)] AND ADDED FLAVORS (NATURAL AND NATURE IDENTICAL FLAVORING . 4% 0% 3% ALLERGEN WARNING: PRODUCED IN KITCHEN THAT ALSO PROCESSES NUTS, SOYA & MILK PRODUCTS",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906125980239",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -58,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -69,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

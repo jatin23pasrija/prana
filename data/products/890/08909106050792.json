@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106050792",
+  "barcode_printed": "8909106050792",
+  "barcode_format": "EAN-13",
+  "name": "Lakme CC cream",
+  "brand": "unilever",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 9,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "2026/10/21 13:13 LAKME 9T05 CC+ COMPLEXION CARE CREAM AVAILABLE IN 4 SHADES FOR INDIAN SKIN TONES OOOO 01 BEIGE 02 HONEY 03 BRONZE 04 ALMOND CAUTION: AVOID CONTACT WITH EYES IN CASE OF CONTACT, RINSE THOROUGHLY WITH CLEAN WATER. HOW TO USE: APPLY THE CREAM IN DOTS ACROSS CLEANSED FACE AND NECK. GENTLY BLEND USING FINGERTIPS, VISIT LAKMEINDIA.COM FOR MORE HOW-TO-USE VIDEOS SKIN CREAM. MADE IN INDIA. MKTD. BY: HINDUSTAN UNILEVER LIMITED (HUL), UNILEVER HOUSE, B. D. SAWANT MARG, CHAKALA, ANDHERI (E), MUMBAI 400 099, MAHARASHTRA.HUL 2025. FOR NAME AND ADDRESS OF THE MFG. UNIT READ THE FIRST CHARACTER(S) OF THE CODE AND SEE THE CODING AREA. MFG. BY: (AA) L.B.C.P., UNIT II, HARIDWAR 249 403, UTTARAKHAND. M 16/C/UA/2010. (AY) AERO CARE PERSONAL PRODUCTS LLP, SURVEY NO. 284/2, NEAR NAROLI CHECK POST, VILLAGE NAROLI, PIN CODE 396 235, UT OF DADRA & NAGAR HAVELI. M DNH/C/138. (AX) ALPLA INDIA PRIVATE LIMITED, SURVEY NO. 255/26, BEHIND IPCA LABORATORIES, VILLAGE ATHAL, SILVASSA, D&NH&DD-396 230. M DNH/C/140. WE UNDERSTAND YOUR SKIN. VISIT US AT: WWW.LAKMEINDIA.COM LAKMÉ IS A REGISTERED TRADEMARK. KEEP IN COOL AND DRY PLACE. HUL REGN. NO. B0-14-000-03-AAACH1004N-24. LEVERCARE-QUERY/FEEDBACK TOLL FREE: 1800-10-22-221 PO BOX 14760, MUMBAI 400 099 LEVER.CARE@UNILEVER.COM *MRP (INCL. OF ALL TAXES), SEE CODING #MFD., B. NO. & @USE BEFORE AREA Net Wt. when packed: 9g & OTHER ns AA*₹115/- #06/26 B021 @05/28 64978750",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106050792",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

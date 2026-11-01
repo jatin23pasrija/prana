@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058015799",
+  "barcode_printed": "8901058015799",
+  "barcode_format": "EAN-13",
+  "name": "Nestle Cerelac Wheat Apple Carrot",
+  "brand": "nestle",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat flour (Atta) (58%), Milk solids (31.8%), Apple juice concentrate (11.4%), Soyabean oil, Carrot juice concentrate (1.1%), Minerals, Vitamins and Enzyme (Alpha amylase). Allergen Note: Contains Wheat and Milk. May contain Barley and Oats.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058015799",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

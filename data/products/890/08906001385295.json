@@ -15,29 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 478,
-        "protein_g": 7.4,
-        "carbohydrate_g": 67.8,
-        "sugars_g": 25,
-        "fat_g": 19.6,
-        "saturated_fat_g": 9.7,
-        "trans_fat_g": 0,
-        "fibre_g": 2,
-        "sodium_mg": 375
-      }
-    }
-  ],
   "ingredients_raw": "WHEAT FLOUR, SUGAR, EDIBLE VEGETABLE OILS (PALM), INVERT SYRUP, CASHEW NUTS (1.6%), BUTTER, RAISING AGENTS [INS-503 (ii), INS-500 (ii)], MAIZE STARCH, EDIBLE COMMON SALT, DATES (0.3%), MILK SOLIDS, PERMITTED EMULSIFIERS (INS-322, INS - 471), STABILISING AGENT [INS-450(i)], DOUGH CONDITIONER (INS-223). CONTAINS PERMITTED NATURAL COLOUR (INS-160b) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - BUTTER, MILK VANILLA AND NATURE IDENTICAL FLAVOURING SUBSTANCE-BUTTER). CONTAINS WHEAT, MILK, SOYA & SULPHITE AS HYPERSENSITIVE INGREDIENTS.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906001385295",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -58,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -69,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -8,28 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 12,
-        "protein_g": 0.08,
-        "carbohydrate_g": 2.5,
-        "sugars_g": 2.5,
-        "fat_g": 0.2,
-        "saturated_fat_g": 0,
-        "fibre_g": 9,
-        "sodium_mg": 0.63
-      }
-    }
-  ],
   "ingredients_raw": "Kombucha (Water, Live Probiotic Kombucha Culture Komagataeibacter sp. A musti A tropicalis), Cane Sugar, Assam Black Tea, Darjeeling Black Teal, Natural Flavouring Substances (Mango), Indian Gooseberry, Bibhitaki, Haritaki, Licorice Root, Carbon Dioxide (INS 290)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908013194193",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -42,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -53,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071708778",
+  "barcode_printed": "8904071708778",
+  "barcode_format": "EAN-13",
+  "name": "Yellow Banana Chips (Plantain Chips)",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 220,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Plantain Banana (64%), Edible Vegetable Oil (Palmolein), Rock Salt, Allergy Advice: This product is packed in a factory that handles peanut, tree nuts, milk, wheat, mustard, sesame and soya. Serving Size 30g",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071708778",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

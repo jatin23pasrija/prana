@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908024977747",
+  "barcode_printed": "8908024977747",
+  "barcode_format": "EAN-13",
+  "name": "Yeast Protien Unflavoured",
+  "brand": "super-you",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Fermented Yeast Protein Isolate*, Sunflower Lecithin (INS 322(ii)), Natural Digestive Enzymes (Bromelain & Papain), Probiotic - Bacillus coagulans (1 Billion CFU per serve). *Inactive Dried Yeast (Saccharomyces cerevisiae). Allergen statement: This product is manufactured in the same facility that also handles milk, soya, wheat, nuts, & seeds.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908024977747",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

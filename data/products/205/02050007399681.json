@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "02050007399681",
+  "barcode_printed": "2050007399681",
+  "barcode_format": "EAN-13",
+  "name": "Nuts & Seeds Mix",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Dried Cranberries Split (20%) (Cranberries, Sugar, Sunflower Oil), Cashewnut Split (14%), Seedless Black Raisins (13%), Almond Split (10%), Black Currant (10%), Sunflower Seeds (10%), Pumpkin Seeds (10%), Dried Fig (7%), Dried Apricot (3%) & Green Pistachio Nuts (3%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/2050007399681",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

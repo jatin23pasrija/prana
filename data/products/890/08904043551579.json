@@ -15,35 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "3.2 slice (100 g)",
-        "quantity": {
-          "value": 100,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 266,
-        "energy_kj": 1114,
-        "protein_g": 10.3,
-        "carbohydrate_g": 45.73,
-        "sugars_g": 3.35,
-        "fat_g": 4.75,
-        "saturated_fat_g": 0.7,
-        "fibre_g": 9.3
-      }
-    }
-  ],
   "ingredients_raw": "Refined Wheat Flour (Maida), Whole Wheat Flour (Atta). Grains and Seeds Mix (Flax Seeds, Rolled Oats, Oat Flour, Maize Flour, Pumpkin Seeds, Bengal Gram Flour, Rice Flour, Barley Flour, White Sesame Seeds, Bajra, Sorghum), Sugar, Gluten, Yeast, Edible Vegetable Oil (Refined Palmoléin Oil), lodized Salt, Malt Product. Soya Flour, Preservatives (282, 200), Wheat Bran, Emulsifier (471), Acidity Regulator (260), Flour Treatment Agents (1100, 1102, 1104, 510) and Antioxidant (300). 'Other Grains Flour Mix - 10.7%",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904043551579",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -64,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -75,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

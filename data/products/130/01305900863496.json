@@ -5,6 +5,7 @@
   "barcode_format": "EAN-13",
   "name": "Chhole masala",
   "brand": "suhana",
+  "category": "spices",
   "countries": [
     "IN"
   ],
@@ -14,25 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 427,
-        "protein_g": 11.7,
-        "fat_g": 11.4,
-        "saturated_fat_g": 1.6,
-        "sodium_mg": 2100
-      }
-    }
-  ],
   "ingredients_raw": "Coriander, Chilli, Cumin, Fresh Onion, Dry Mango Powder, Fresh Garlic, Bay Leaf, Pomegranate Seeds, lodised Salt, Black Cardamom, Fresh Ginger, Refined Cottonseed Oil, Black Salt, Clove, CASSIA BARK (TAJ), Turmeric, Dry Fenugreek Leaves, Ajwain ( Bishop's Seeds), Mint Leaves. May contain Nuts, Dairy, Wheat or Soy, as the product is manufactured & packed in a facility that processes these allergens.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/1305900863496",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -45,11 +34,11 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "package": {
+    "category": {
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
       "source": "s1",
       "confidence": "medium"
     },
@@ -60,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

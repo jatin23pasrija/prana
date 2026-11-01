@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901138011628",
+  "barcode_printed": "8901138011628",
+  "barcode_format": "EAN-13",
+  "name": "Koflet Lozenges",
+  "brand": "himalaya",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "EACH LOZENGE CONTAINS POWDERS: Trikatu 40 mg, Khadira (Acacia catechu)* Ht.Wd. 35 mg, Haritaki (Terminalia chebula) P.25 mg, Lavanga (Sygyzium aromaticum)* Fl.Bd. 20 mg, Sukshmaila (Elettaria cardamomum)* Fr. 2.5 mg, Darusita (Cinnamon zeylanicum) Bk 2.5 mg Processed in Yashti (Glycyrrhiza glabra)* Rt., Haridra (Curcuma longa)* Rz., Draksha (Vitis vinifera), Sweeteners Sucrose. Liquid glucose",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901138011628",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

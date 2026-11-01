@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904026643864",
+  "barcode_printed": "8904026643864",
+  "barcode_format": "EAN-13",
+  "name": "Lacto Calamine Daily Sunshield Matte Look Sunscreen",
+  "brand": "lacto-calamine-is-sold-by-piramal-pharma-ltd",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Purified Water, C12-C15 Alkyl Benzoate, Ethylhexyl Methoxycinnamate, Kaolin, Octocrylene, Glycerin, Zinc oxide, Glyceryl Stearate, Butyl Methoxydibenzoylmethane, Laureth-23, PEG-100 stearate, Cyclopentasiloxane, Tapioca Starch, Cetostearyl Alcohol, Sodium Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Citrus Limon Fruit Extract, Tocopheryl Acetate, Phenoxyethanol, Ethylhexylglycerin, PEG-10 dimethicone. Polymethylsilsesquioxane, Hydrogen Dimethicone, Perfume, EDTA Disodium, Citronellol, Coumarin, Linalool, Benzyl Alcohol, Hydroxycitronellal, Cinnamyl Alcohol, Amyl Cinnamal, Isoeugenol, Geraniol, Benzyl Cinnamate, Benzyl Salicylate, Benzyl Benzoate, Ci 77491, CI 15850:1",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904026643864",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

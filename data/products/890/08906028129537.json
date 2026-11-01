@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906028129537",
+  "barcode_printed": "8906028129537",
+  "barcode_format": "EAN-13",
+  "name": "Think Skin LemonFresh Body Wash",
+  "brand": "think-skin",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Sodium Lauryl Ether Sulphate, Cocoamidopropyl Betaine, Sodium Chloride, Perfume, Glycerin, Coco-Glucoside (and) Glyceryl Oleate, Sodium Hydroxide, Disodium EDTA, Etidronic acid, Methylchloroisothiazolinone (and) Methylisothiazolinone, Benzophenone 4, C.I. No.19140.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906028129537",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -9,28 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 454.9,
-        "protein_g": 4,
-        "carbohydrate_g": 68.1,
-        "sugars_g": 21.08,
-        "fat_g": 18.5,
-        "saturated_fat_g": 8.13,
-        "fibre_g": 0.93,
-        "sodium_mg": 291
-      }
-    }
-  ],
   "ingredients_raw": "Cake (76%): Refined Wheat flour (Maida), Sugar, Liquid Glucose, Humectant (422,420(i)), Refined Vegetable Oil (Palmolein), Milk Solids, Food Colour (150d), Cake Gel (Water, Emulsifiers (471, 477)), Cocoa Solids (1%), Corn Starch, Raising Agents (5000), 50300), 45000) lodized Salt Preservatives (202, 200, 281, 223), Stabilizer (415), Emulsifiers (47000), 472e, 475, 322001, Acidity Regulators (270, 341, 330), Nature-Identical Flavouring Substances Center Creme (24%): Sugar, Hydrogenated Vegetable Fat, Liquid Glucose, Humectant (422) Cocoa Solids (2.5%), Milk Solids, Food Colour (150d), Emulsifier (322(0), Preservative (202) lodized Salt, Nature-Identical Flavouring Substances&quot; (Numbers referred above are as per International Numbering System) Contains Wheat, Soy and Milk",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906020461307",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -47,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -58,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

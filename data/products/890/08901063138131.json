@@ -7,12 +7,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (70%), Sugar, Refined Palm Oil, Edible Starches (Maize-2.7% & Arrowroot-0.1%), Milk Solids, Raising Agents [503(ii) & 500(i), Invert Sugar Syrup, Iodised Salt, Emulsifiers (322 & 472e), Dough Conditioner (223) And Improver [1101(i)]. Contains Permitted Natural Food Colour (150d) And Added Flavours (Artificial Flavouring Substances-Biscuit And Butterscotch).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063138131",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +21,14 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906155920441",
+  "barcode_printed": "8906155920441",
+  "barcode_format": "EAN-13",
+  "name": "Gokul",
+  "brand": "hadvani-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Wheat Flour (Atta) (76%), Edible Vegetable Oil (Palmolein Oil) (21%), Fenugreek Leaves (1%), Turmeric Powder, Iodized Salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906155920441",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

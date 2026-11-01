@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "03574661411545",
+  "barcode_printed": "3574661411545",
+  "barcode_format": "EAN-13",
+  "name": "Aveeno Dermexa Daily Emollient Cream",
+  "brand": "aveeno",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Aqua, Glycerin, Panthenol, Distearyldimonium Chloride, Petrolatum, Isopropyl Palmitate, Cetyl Alcohol, Dimethicone, Avena Sativa Kernel (Oat) Flour, Avena Sativa Kernel (Oat) Extract, Avena Sativa Kernel (Oat) Oil, Ceramide 3 Steareth-20, Sodium Chloride, Citric Acid, Tocopherol, Potassium Sorbate, Benzalkonium Chloride",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3574661411545",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

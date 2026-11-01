@@ -8,26 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 15.8,
-        "protein_g": 0.71,
-        "carbohydrate_g": 1.44,
-        "sugars_g": 0.5,
-        "fat_g": 0.8,
-        "saturated_fat_g": 0.16,
-        "sodium_mg": 1000
-      }
-    }
-  ],
+  "ingredients_raw": "Jalapenos (54.29%), Water, Vinegar, Salt, Firming Agent (INS 509), Preservative (INS 211)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908001017350",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

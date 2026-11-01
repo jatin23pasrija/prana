@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904109420696",
+  "barcode_printed": "8904109420696",
+  "barcode_format": "EAN-13",
+  "name": "Patanjali Tomato Ketchup with Onion & Garlic",
+  "brand": "patanjali",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, tomato paste, sugar, mixed spices, iodized salt, acidity regulator (INS 260), onion powder, garlic powder, stabilizers (INS 1422, INS 415), preservative (INS 211).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904109420696",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

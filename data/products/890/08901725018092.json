@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Sugar, hydrogenated vegetable oil, milk solids, almond bits (7.0%), raisins (6.0%), cocoa solids (5.4%), cashew bits (3.0%), emulsifier [lecithin (from soyabean)] and nature identical flavouring substances.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901725018092",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

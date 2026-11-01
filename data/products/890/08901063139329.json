@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063139329",
+  "barcode_printed": "8901063139329",
+  "barcode_format": "EAN-13",
+  "name": "bourbon",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Flavoured Sandwich BiscuitsINGREDIENTS: REFINED WHEAT FLOUR (MAIDAL SUGAR (331 Nutr REFINED PALM OIL, EDIBLE MAIZE STARCH, COCOA SOLIDS (2:7% Per 1 MILK SOLIDS, RAISING AGENTS (500i)& 503(0)1, EMULSIRERS r (471& 322(0)) AND IODISED SALT, CONTAINS PERMITTED HATURAL (150a&150d)&SYNTHETIC (122,110, 133&102) FOOD COLOURS AND ADDED FLAVOURS (NATURE IDENTICAL&ARTIFICIAL (VANILLA, CHOCOLATE MILK MILKY COCOA) FLAVOURING SUBSTANCES (Numbers in brackets as per International Numbering System CONTAINS WHEAT, MILK AND SOYA STORE IN A CO00L, HYGIENIC AND DRY PLACE TRANSFER wChole CONTENTS T0 A CLEAN AIRTIGHT CONTAINER ONCE OPENEDof wFatEner",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063139329",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

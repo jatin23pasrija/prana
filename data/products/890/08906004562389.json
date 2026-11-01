@@ -5,22 +5,9 @@
   "barcode_format": "EAN-13",
   "name": "Yellow Diamond Plain Sev Mamra",
   "brand": "yellow-diamond",
+  "category": "breakfast-cereal",
   "countries": [
     "IN"
-  ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 527.63,
-        "protein_g": 10.28,
-        "carbohydrate_g": 55.23,
-        "sugars_g": 1.69,
-        "fat_g": 29.51,
-        "saturated_fat_g": 13.33,
-        "sodium_mg": 627.54
-      }
-    }
   ],
   "ingredients_raw": "Puffed Rice (46%), Edible Vegetable Oil (Palmolein Oil/Cotton Seed Oil), Gram Flour (22%), Rice Flour, lodised Salt, Turmeric Powder.",
   "sources": [
@@ -28,7 +15,7 @@
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906004562389",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -41,7 +28,7 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "category": {
       "source": "s1",
       "confidence": "medium"
     },
@@ -52,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

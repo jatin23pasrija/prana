@@ -14,26 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 192.57,
-        "energy_kj": 806,
-        "protein_g": 14.58,
-        "carbohydrate_g": 4.02,
-        "sugars_g": 0.91,
-        "fat_g": 13.13,
-        "saturated_fat_g": 4.17
-      }
-    }
-  ],
+  "ingredients_raw": "Chicken Meat, Water, Garlic, Spices & Condiments, Emulsifier (INS 451), Anti-oxidant (INS 300), Color fixative (INS 250)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908004997857",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -50,13 +37,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

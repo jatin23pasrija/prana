@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262301671",
+  "barcode_printed": "8901262301671",
+  "barcode_format": "EAN-13",
+  "name": "Shahi Mewa Khazana",
+  "brand": "amul",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk solids, sugar, almond pieces (4%), pista pieces (4%), emulsifier (471), stabilizers (407, 466, 415, 412), artificial flavouring substances (kulfi), colours (122, 132, 110, 102).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262301671",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

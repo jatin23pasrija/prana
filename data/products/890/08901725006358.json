@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Water, milk solids (33.5%), sugar, strawberry pulp (6.3%), strawberry bits (4.9%), banana puree, nata de coco, stabilizers (INS 466, INS 418), acidity regulator (INS 330), nature identical flavouring substances, chia seeds (0.16%), natural flavours and natural flavouring substances, antioxidant (INS 300), sweetener (INS 960) and colours (INS 127, INS 110).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901725006358",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

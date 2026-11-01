@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030766947",
+  "barcode_printed": "8901030766947",
+  "barcode_format": "EAN-13",
+  "name": "Pears Pure and Gentle Bathing Bar",
+  "brand": "hindustan-unilever-limited",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WATER, SODIUM PALM KERNELATE, SORBITOL, GLYCERINE, SODIUM ROSINATE, SODIUM PALMATE, SODIUM STEARATE, PROPYLENE GLYCOL, SODIUM LAURYL SULFATE, PEG-4, ISOPROPYL ALCOHOL, PERFUME, SODIUM CHLORIDE, SODIUM METABISULFITE, TETRASODIUM ETIDRONATE, TETRASODIUM EDTA, BHT, CINNAMAL, EUGENOL, LIMONENE, LINALOOL, CI 12490, CI 47005.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030766947",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -5,29 +5,17 @@
   "barcode_format": "EAN-13",
   "name": "Tropicana Mixed Fruit Juice",
   "brand": "tropicana",
+  "category": "fruit-juice",
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 59,
-        "protein_g": 0,
-        "carbohydrate_g": 74,
-        "sugars_g": 70,
-        "fat_g": 0,
-        "saturated_fat_g": 0,
-        "sodium_mg": 0
-      }
-    }
-  ],
+  "ingredients_raw": "Water, *Concentrated Mixed Fruit Juice 24.2% (from Apple, Mango, Guava, Orange, Banana, Apricot, Peach). CONTAINS ADDED FLAVOUR (NATURAL FLAVOURING SUBSTANCES)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8902080013500",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,13 +28,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

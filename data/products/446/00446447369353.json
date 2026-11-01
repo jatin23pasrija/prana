@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00446447369353",
+  "barcode_printed": "0446447369353",
+  "barcode_format": "EAN-13",
+  "name": "Buffalo Milk",
+  "brand": "country-delight",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 450,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Pasteurized Buffalo Milk Fat 6.00% Min., SNF 9.00% Min.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0446447369353",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

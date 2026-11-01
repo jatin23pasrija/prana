@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901207038457",
+  "barcode_printed": "8901207038457",
+  "barcode_format": "EAN-13",
+  "name": "Vatika Enriched Coconut Hair Oil",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 405,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Each 100 ml is prepared from: powder of following Bhringaraja (Eclipta alba, Wh Pl.), 0.1g, Madayantika (Lawso ainermis, L.), 0.1 g, Amalaki (Emblica officinalis, Dr. Fr.), 0.19 Hartaki (Terminalia chebula, Dr. Fr.), 0.1g, Vibhitaki (Terminala bellica, Dr.Fr.), 0.1g, Nimba (Azadirachta indica, Lf.), 0.19 Mandukparni (Centella asiatica, Wh. Pl.), 0.1g, Shati (Hedychium spicatum, Rz.), 0.1g, Kaidarya (Murraya Koenigii, Lf.), 0.1g, Marid (Piper nigrum, Fr.), 0.1g, Methi (Trigonella foenum-graecum Sd.), 0.05g and Kumari (Aloe barbadensis, Lf. Oil extract), 0.1 m ml, Nimbu ka Tel (Citrus limon, Fr. peel, Oil.), 0.01ml, Rosemar Kalonji (Nigella sativa, Sd. Oil), 0.025 ml, Dugdha (milk), 0.0375 Oil (Rosmarinus officinalis, Fl., Oil.), 0.02ml, Nariyal Tel (Cocos nucifera, Endos. Ol.), Q.S. to 100 ml. Excipients - Sugandhi Dravyas with antioxidants-q.s. Ingredient benefits &quot;Basis clinical study, as compared to No oil group at week 4.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901207038457",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

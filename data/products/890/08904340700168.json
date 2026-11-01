@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904340700168",
+  "barcode_printed": "8904340700168",
+  "barcode_format": "EAN-13",
+  "name": "Pulse Kachcha Aam with Tangy Twist",
+  "brand": "pass-pass",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, liquid glucose, dextrose, mixed masala (4%), acidity regulators (INS 330, INS 296, INS 331-iii), nature identical flavouring substances (kachcha aam flavour), colours (INS 102, INS 133).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904340700168",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

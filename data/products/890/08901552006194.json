@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552006194",
+  "barcode_printed": "8901552006194",
+  "barcode_format": "EAN-13",
+  "name": "Tadka Dal",
+  "brand": "ashoka",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 280,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Split Red Gram, Onion, Tomato, Sunflower Oil, Garlic, Butter (Milk, Salt) (1.7%), Split Bengal Gram, Ginger, Salt, Green Chilli, Chilli Whole, Coriander Leaves, Cumin Seeds, Turmeric Powder, Dry Mango Powder.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552006194",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

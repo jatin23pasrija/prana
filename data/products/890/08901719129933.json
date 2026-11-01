@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719129933",
+  "barcode_printed": "8901719129933",
+  "barcode_format": "EAN-13",
+  "name": "Parle G Oats and Berries Biscuits",
+  "brand": "parle",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined wheat flour (maida) (64.5%), sugar, refined palm oil, dried sweetened cranberry (5%), rolled oats (5%), invert sugar syrup, raising agents [503(ii), 500(ii)], iodised salt, raisins (1.1%), barley flour (0.5%), emulsifier (472e) of vegetable origin. Contains permitted added flavours (artificial flavouring substances - cranberry and cereal).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719129933",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

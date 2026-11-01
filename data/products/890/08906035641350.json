@@ -8,27 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 610.13,
-        "protein_g": 13.53,
-        "carbohydrate_g": 33.4,
-        "sugars_g": 0,
-        "fat_g": 46.93,
-        "saturated_fat_g": 11.87,
-        "trans_fat_g": 0
-      }
-    }
-  ],
   "ingredients_raw": "Besan, Salt, Mirchi, Garlic, Edible Oil, Black Salt Etc.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906035641350",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -41,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -52,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

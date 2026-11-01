@@ -14,12 +14,13 @@
       "unit": "ml"
     }
   },
+  "ingredients_raw": "Water, Pomegranate Juice (25%), Apple Juice Concentrate (0.5%) [equivalent to 3.45% reconstituted apple juice], Natural Flavours and Natural Flavouring Substances, Acidity Regulator [330], Nature Identical Flavouring Substances, Iodized Salt, Stabilizers (466, 415), Sweeteners (960, 955) and Colour (122)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8909081011160",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

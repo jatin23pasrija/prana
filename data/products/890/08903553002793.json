@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08903553002793",
+  "barcode_printed": "8903553002793",
+  "barcode_format": "EAN-13",
+  "name": "Tomato Ketchup",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, SUGAR, TOMATO PASTE (28°B) 24.7%, EDIBLE COMMON SALT, EMULSIFYING & STABILIZING AGENT (INS 1422 & INS 415), ACETIC ACID (INS 260), ONION POWDER, GARLIC POWDER, MIXED SPICES (CLOVE, CINNAMON, CHILLI) PRESERVATIVE (INS 211). CONTAINS PERMITTED CLASS II PRESERVATIVE (INS 211).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8903553002793",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

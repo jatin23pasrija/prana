@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "07611916153600",
+  "barcode_printed": "7611916153600",
+  "barcode_format": "EAN-13",
+  "name": "Activerende douchegel active fresh",
+  "brand": "weleda",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER (AQUA) ALCOHOL DISODIUM COCOYL GLUTAMATE COCO-GLUCOSIDE GLYCERIN XANTHAN GUM FRAGRANCE (PARFUM) SODIUM COCOYL GLUTAMATE LACTIC ACID CITRIC ACID TOCOPHEROL LECITHIN GLYCERYL OLEATE HYDROGENATED PALM GLYCERIDES CITRATE ASCORBYL PALMITATE LIMONENE, LINALOOL, GERANIOL, CITRAL, COUMARIN.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7611916153600",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

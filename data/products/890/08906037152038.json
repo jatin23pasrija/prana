@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906037152038",
+  "barcode_printed": "8906037152038",
+  "barcode_format": "EAN-13",
+  "name": "Liver Re-Live Juice",
+  "brand": "krishna-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Each 100ml Juice/Swaras Contains: Makoy (Solanum nigrum) Lf. 0.9gm, Daru Haridra (Berberis aristate) St. Br. 0.9gm, Apamarg (Achyranthes aspera) Lf. 0.9gm, Kalmegh (Andrographis paniculata) St. 0.9gm, Rohitak (Tecomella undulata) Bk. 0.9gm, Sharpunkha (Tephrosia purpurea) Lf. 0.9gm, Jhau (Tamarix dioica) Pt. 0.9gm, Dugdh feni (Taraxacum officinale) Pl. 0.8gm, Kashni (Cichorium intybus) Pl. 0.8gm, Vaividang (Embelia ribes) Sd. 0.8gm, Harshringar (Nyctanthes arbor-tristis) Lf. 1.26gm with permitted class II preservatives less than 0.3%",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906037152038",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

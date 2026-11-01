@@ -4,7 +4,7 @@
   "barcode_printed": "8901888005397",
   "barcode_format": "EAN-13",
   "name": "Real active 100% orange juice",
-  "brand": "real",
+  "brand": "dabur",
   "category": "fruit-juice",
   "countries": [
     "IN"
@@ -15,12 +15,13 @@
       "unit": "ml"
     }
   },
+  "ingredients_raw": "Water, Concentrated Orange Juice (17%)^, Orange Pulp (0.5%)^, Vitamin C and Flavours (Natural Flavouring Substances). ^Reconstituted 100% Orange Juice Content",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901888005397",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

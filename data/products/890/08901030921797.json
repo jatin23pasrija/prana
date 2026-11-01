@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030921797",
+  "barcode_printed": "8901030921797",
+  "barcode_format": "EAN-13",
+  "name": "kissan fresh tomato",
+  "brand": "kissan",
+  "category": "ketchup",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "water, tomato paste (28%), sugar, iodised salt, acidity regulator - E260, stabilizers - E1422, E415, preservative - E211, onion powder, garlic powder, spices, condiments",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030921797",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

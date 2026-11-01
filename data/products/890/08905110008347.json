@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08905110008347",
+  "barcode_printed": "8905110008347",
+  "barcode_format": "EAN-13",
+  "name": "Lime and Aloe Vera Soap",
+  "brand": "vivel",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SODIUM PALMATE, SODIUM PALM KERNELATE, AQUA, FRAGRANCE, TALC, GLYCERIN, SODIUM CHLORIDE, PEG-8, LIME EXTRACT, ALOE VERA EXTRACT, TOCOPHERYL ACETATE, MINT OIL, CITRIC ACID, TITANIUM DIOXIDE, TETRASODIUM EDTA, ETIDRONIC ACID, BHT, BUTYLPHENYL METHYLPROPIONAL, CITRAL, GERANIOL, LIMONENE, LINALOOL, CI 11680, CI 74260.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905110008347",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

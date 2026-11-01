@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Puffed rice (16%), refined palmolein oil, split pulse bengal gram (chana dal) (10%), groundnut (peanuts) (8%), bengal gram flour (besan) (8%), refined wheat flour (maida) (8%), rice flakes (4%), whole bengal gram flakes (3%), edible common salt, turmeric, cumin, coriander powder, curry leaves, red chilli, black salt, acidity regulator (INS 330), dried ginger powder, black pepper, ajwain, clove, cinnamon, nutmeg, bay leaf & asafoetida. Red, green & tamarind sauce: refined sugar, green chilli, red chilli, tamarind powder, dates, edible common salt, acidity regulator (INS 330), black pepper, dried ginger powder, clove, dried garlic powder, cardamom, cumin powder, nutmeg, bay leaf, black salt, cinnamon, thickener (INS 401) & preservative (INS 211, INS 202 & INS 260).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904004401530",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

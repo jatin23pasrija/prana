@@ -15,36 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "140g",
-        "quantity": {
-          "value": 140,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 560,
-        "protein_g": 14,
-        "carbohydrate_g": 86,
-        "sugars_g": 7,
-        "fat_g": 18,
-        "saturated_fat_g": 7,
-        "trans_fat_g": 0,
-        "fibre_g": 2,
-        "sodium_mg": 1630
-      }
-    }
-  ],
   "ingredients_raw": "NOODLES (76.7%): REFINED WHEAT FLOUR (67%), MODIFIED STARCH (INS1420), REFINED PALM OIL, WHEAT GLUTEN, EDIBLE COMMON SALT, EMULSIFIER SOY LECITHIN (INS322)], ACIDITY REGULATORS [(POTASSIUM CARBONATE (INS501 (i)), SODIUM CARBONATE (INS500(i)), SODIUM PHOSPHATE DIBASIC(INS339(ii)) & CITRIC ACID NS330)] THICKENER GUAR GUM(INS412)], GREEN TEA FLAVOUR (NATURE IDENTICAL) & RIBOFLAVIN (INS101). SOUP(22.7%): WATER, SOY SAUCE (17.3%) (SOY BEAN, WATER, FLAVOUR ENHANCER-DISODIUM 5'RIBONUCLEOTIDE, GARLIC AND EDIBLE COMMON SALT), SUGAR ARTI FICIAL CHICKEN FLAVOR, CHILLI PEPPER POWDER, RED PEPPER POWDER, CURRY POWDER [CUMIN POWDER, SALT, DEXTROSE, RED PEPPER POWDER, CLOVE POWDER NUTMEG POWDER, GARLIC POWDER, ONION POWDER, GINGER POWDER, PAPRIKA OLEORESIN (INS160c(i)], SOY BEAN OIL, ONION, GARLIC, MODIFIED STARCH (INS1420), EDIBLE COMMON SALT, BLACK PEPPER POWDER, FLAVOUR ENHANCER DISODIUM 5'RIBONUCLEOTIDE (INS635). FLAKE (0.6%): ROASTED SESAME, ROASTED LAVER (EDIBLE SEAWEED). CONTAINS PERMITTED NATURAL COLORS (INS101, INS160c(i)] AND ADDED FLAVOURING SUBSTANCES (NATURE IDENTICAL-GREEN TEA AND ARTIFICIAL - CHICKEN FLAVOUR) ALLERGENS: CONTAINS WHEAT, SOY & SESAME.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8801073114005",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -65,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -76,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

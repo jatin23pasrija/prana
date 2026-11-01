@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201442019",
+  "barcode_printed": "7622201442019",
+  "barcode_format": "EAN-13",
+  "name": "Dairy Milk",
+  "brand": "cadbury",
+  "category": "chocolate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 23,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Milk Solids(23%), Cocoa Butter, Cocoa Solids, Emulsifiers(442,476), Flavors(Natural, Nature Identical and Artificial(Vanilla) Flavoring Substances) _Milk. May contain Tree Nuts, Wheat, Barley and Soy_",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201442019",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

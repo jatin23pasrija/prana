@@ -8,33 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "15 g",
-        "quantity": {
-          "value": 15,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 36,
-        "protein_g": 0.4,
-        "carbohydrate_g": 1.5,
-        "sugars_g": 0.8,
-        "fat_g": 3.2,
-        "saturated_fat_g": 0.5,
-        "sodium_mg": 174
-      }
-    }
-  ],
+  "ingredients_raw": "Water, Refined Soyabean Oil, Synthetic Vinegar [Water, Acetic Acid (INS260)], Milk Solids, Emulsifiers and Stabilizers (INS1442, INS1450, INS415), Iodised Salt, Liquid Glucose, Sugar, Cheese Powder (1.0%), Spices and Condiments, Herbs (0.2%), Preservatives (INS211, INS202), Natural Colour (INS150d), Flavours (Natural & Nature-Identical Flavouring Substances), Acidity Regulator (INS330), Antioxidant (INS319) and Sequestrant (INS385).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906069400046",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -47,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

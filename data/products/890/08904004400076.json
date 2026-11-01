@@ -14,28 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 600,
-        "protein_g": 12,
-        "carbohydrate_g": 38,
-        "sugars_g": 0,
-        "fat_g": 44,
-        "saturated_fat_g": 12,
-        "fibre_g": 4,
-        "sodium_mg": 780
-      }
-    }
-  ],
   "ingredients_raw": "apaty Beans (Moth dal) Flour, Refined Cotton Seed &quot;‘1, Bengal Gram Flour (Besan). iodised Salt. Red Chilli Powder. Clove Powder, Black Pepper, Dried powder, Cardamom. Bay Leaves - Nutmeg",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904004400076",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -52,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -63,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

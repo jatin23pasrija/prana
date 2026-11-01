@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901526005208",
+  "barcode_printed": "8901526005208",
+  "barcode_format": "EAN-13",
+  "name": "Garnier Skin Naturals Vitamin C Face Wash",
+  "brand": "l-oreal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "WATER, GLYCERIN, MYRISTIC ACID, PALMITIC ACID, STEARIC ACID, POTASSIUM HYDROXIDE, LAURIC ACID, GLYCERYL DISTEARATE, GLYCERYL STEARATE, KAOLIN, PEG-14M, LINALOOL, SALICYLIC ACID, PHENOXYETHANOL, LIMONENE, ASCORBYL GLUCOSIDE, TETRASODIUM EDTA, LEMON FRUIT EXTRACT, CITRUS JUNOS FRUIT EXTRACT, MALTODEXTRIN, BENZYL SALICYLATE, BENZYL ALCOHOL, FRAGRANCE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901526005208",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "gtin": "08901552002585",
+  "barcode_printed": "8901552002585",
+  "barcode_format": "EAN-13",
+  "name": "Mixed pickle 400 GR camel \uD83D\uDC2A",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901552002585",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

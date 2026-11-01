@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904209300997",
+  "barcode_printed": "8904209300997",
+  "barcode_format": "EAN-13",
+  "name": "Jaljeera Powder",
+  "brand": "aachi",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Spice Content - 60.5% (Mint leaves, Cumin 7%, Mango flakes, Black Pepper, Dry Ginger, Compounded Asafoetida, Green Chilli powder, Black Cardamom), Salt - 38% and Acidity regulator (INS 330).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904209300997",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

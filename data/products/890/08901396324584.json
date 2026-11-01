@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901396324584",
+  "barcode_printed": "8901396324584",
+  "barcode_format": "EAN-13",
+  "name": "Dettol Liquid Handwash",
+  "brand": "dettol",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "No TCC & Triclosan Plant derived cleansers Ingredients: Aqua, Ammonium Lauryl Sulfate, Sodium Laureth Sulfate, Glycerin, Parfum, Glycol Distearate, Cocamide MEA, Glycol Stearate, Propylene Glycol, Sodium Chloride, Citric acid, Tetrasodium EDTA, Salicylic Acid, Sodium Citrate, Citral, Magnesium Nitrate, Methylchloroisothiazolinone, Methylisothiazolinone, CI 11710, CI 12085 Directions: Press nozzle nently to net Dettol Liquid CAUTION - For external use only. Keep out of",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901396324584",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

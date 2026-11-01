@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00839423002311",
+  "barcode_printed": "0839423002311",
+  "barcode_format": "EAN-13",
+  "name": "Sing Bhujiya- Hot peanuts",
+  "brand": "samrat",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Peanuts (60%), Edible Vegetabie Oil (Palmolein Oil), Split Chickpea Flour, Black Gram FlOur, Maize Starch, lodised Satt Red Chill Powder, Black Pepper, Dried Mango Powder, Spice Blend, Carom Seeds. Allergy advice: Contains peanut, made in a taclity that processes food containing peanuts, sesame seed, nuts, tree nuts, soy, milk, mustard and wheat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0839423002311",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

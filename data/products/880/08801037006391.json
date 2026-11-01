@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 416.67,
-        "protein_g": 0,
-        "carbohydrate_g": 75,
-        "sugars_g": 50,
-        "fat_g": 13.33,
-        "saturated_fat_g": 13.33,
-        "trans_fat_g": 0,
-        "sodium_mg": 83.33
-      }
-    }
-  ],
   "ingredients_raw": "Coffee [maxim mocha gold mild (roasted bean: peru 35%, columbia 20%)], sugar, non-dairy creamer (corn syrup, hydrogenated vegetable oil, casein, dipotassium phosphate, tricalcium phosphate).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8801037006391",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

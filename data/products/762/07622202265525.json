@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "07622202265525",
+  "barcode_printed": "7622202265525",
+  "barcode_format": "EAN-13",
+  "name": "Perk",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, refined wheat flour (maida), interesterified vegetable fat, starch, milk solids, cocoa solids (3%), emulsifiers (442, 322, 476), palmolein, flavours (natural, nature identical and artificial (milk and vanilla) flavouring substances), iodised salt, yeast, raising agent (500(ii)), improver (1101(i)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622202265525",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

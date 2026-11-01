@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906058337612",
+  "barcode_printed": "8906058337612",
+  "barcode_format": "EAN-13",
+  "name": "AHA Resurfacing lotion 20",
+  "brand": "fcl-fixderma-cosmetic-laboratory",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water (Aqua) Glycolic Acid, Lactic Acid, Salix Nigra (Willow) Bark Extract, Squalane, Propanediol, Cetearyl Alcohol & D cetyl Phosphate & Ceteth-10 Phosphate, Caprylhydroxamic Acid & Caprylyl Glycol & Glycerin, Allantoin, Xanthan Gum, Hydrolyzed Hyaluronic Acid, Polyquaternium-10, Sodium Gluconate.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906058337612",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

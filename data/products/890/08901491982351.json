@@ -4,7 +4,7 @@
   "barcode_printed": "8901491982351",
   "barcode_format": "EAN-13",
   "name": "Lays ONION 20rs",
-  "brand": "lays",
+  "brand": "lay-s",
   "category": "chips",
   "countries": [
     "IN"
@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Edible vegetable oil (palmolein), refined wheat flour (maida), edible starch, seasoning (sugar, iodised salt, spices and condiments, dextrose, milk solids, maltodextrin, flavour (natural and nature identical flavouring substances), hydrolysed vegetable protein, anticaking agent (551), edible vegetable oil (palm kernel, palm, coconut), flavour enhancers (627, 631)), dehydrated vegetable (potato flakes) (7.4%), rice flour, corn flour, iodised salt, emulsifiers (466, 322), firming agent (509), stabilizer (170(i)), acidity regulator (330).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901491982351",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

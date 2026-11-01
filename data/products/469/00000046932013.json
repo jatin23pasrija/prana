@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00000046932013",
+  "barcode_printed": "46932013",
+  "barcode_format": "EAN-8",
+  "name": "Ratlami Sev",
+  "brand": "haldiram-s",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Gram Pulse Flour (58%), Edible Vegetable Oil (Palmolein/Cotton seed), *Spices and Condiments (Cumin Powder, Coriander Powder, Red Chilli Powder, Clove Powder, Carom Seed Powder, Asafoetida, Nutmeg Powder, Cardamom Powder, Bay Leaf Powder) and Iodised Salt. *Used as natural flavouring substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/46932013",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

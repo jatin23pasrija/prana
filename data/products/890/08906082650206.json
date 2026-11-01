@@ -15,35 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "50g",
-        "quantity": {
-          "value": 50,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 273,
-        "protein_g": 5,
-        "carbohydrate_g": 28,
-        "sugars_g": 2,
-        "fat_g": 17,
-        "saturated_fat_g": 8,
-        "fibre_g": 2,
-        "sodium_mg": 186
-      }
-    }
-  ],
   "ingredients_raw": "Refined wheat flour, Refined palmolein oil, Cheese powder, Black pepper powder and lodised Salt.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906082650206",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -64,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -75,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

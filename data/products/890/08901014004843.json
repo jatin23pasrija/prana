@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 488.89,
-        "protein_g": 10.7,
-        "carbohydrate_g": 60.29,
-        "sugars_g": 2.69,
-        "fat_g": 21.46,
-        "saturated_fat_g": 10.74,
-        "trans_fat_g": 0.1,
-        "sodium_mg": 1566.24
-      }
-    }
-  ],
   "ingredients_raw": "Refined Wheat Flour (Maida), Edible Vegetable Oil (Palm O lodised Salt, Dehydrated Pieces 3.43% (Carrot, Garlic, Red Chilli, Green Chil Spring Onion), Sugar, Garlic Powder, Onion Powder, Hydrolysed Vegetable Prote Powder (Soya), Corn Starch, Mixed Spices 0.98% (Red Chilli & Ginger, Yea Extract Powder, Acidity Regulators [INS 500(i), INS 451(1) & INS 330), Thickener (INS 415), Flavour Enhancers (INS 631 & INS 627), Soya Sauce Powder, Colours INS 150d & INS 160c], Artificial Wok Flavour & Antioxidant (INS 319) ALLERGEN INFORMATION: CONTAINS WHEAT & SOY. MAY CONTAIN MILK",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901014004843",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

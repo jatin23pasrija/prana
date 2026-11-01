@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Made with the goodness oats, lentils & brown rice: Whole Wheat Flour (Atta) 65.9%, Split Moong Beans Flour (Moong Dal) 8%, Oats Flour 6%, Brown Rice Flour 5.5%, Wheat Gluten, Tapioca Starch, Jowar Flour, Salt, Stabilizer (Xanthan Gum). Seasoning: Spices & condiments (Coriander, fennel, cumin, bay leaf, cinnamon, red chilli, black cardamom, mace, onion, ginger, garlic, dry mango, black pepper, clove), sugar, iodized salt, rice starch, oregano, tomato powder, corn flour, soy sauce powder, yeast extract and hydrolyzed vegetable protein.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908017962088",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

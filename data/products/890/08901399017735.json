@@ -14,28 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 512,
-        "protein_g": 7,
-        "carbohydrate_g": 60.1,
-        "sugars_g": 0.5,
-        "fat_g": 28.2,
-        "saturated_fat_g": 6.2,
-        "fibre_g": 4.9,
-        "sodium_mg": 704.7
-      }
-    }
-  ],
   "ingredients_raw": "Rice Flour, Refined Vegetable Oil, Semolina, Wheat Flour, Roasted Bengal Gram Flour Desiccated Coconut, Iodised Salt, Mixed Spices, Wheat Gluten, Sugar.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901399017735",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -52,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -63,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

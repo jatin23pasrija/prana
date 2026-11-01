@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904018300249",
+  "barcode_printed": "8904018300249",
+  "barcode_format": "EAN-13",
+  "name": "Savon Ayurvedique",
+  "brand": "medimix",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sodium palmate, sodium cocoate, aqua, sodium palm kernelate, glycerin, kaolin, parfum, helianthus annuus oil, magnesium sulfate, magnesium silicate, acorus calamus, andropogon muricatus, balsamodendron mukul, berberis aristata, cedrus deodara, celastrus paniculatus, coriandrum sativum, cuminum cyminum, embelia ribes, glycyrrhiza glabra, hemidesmus indicus, holarrhena antidysenterica, melia azadirachta, nigella sativa, plumbago rosea, psoralea corylifolia, smilax china, zingiber zerumbet, CI 45350, CI 61570, linalool, citronellol, eugenol, coumarine, limonène.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904018300249",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

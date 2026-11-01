@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904482501357",
+  "barcode_printed": "8904482501357",
+  "barcode_format": "EAN-13",
+  "name": "Korean Black Rice & Rosemary Water Spray",
+  "brand": "pilgrim",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Aqua, Propanediol, Betaine, Cocodimonium Hydroxypropyl Hydrolyzed Wheat Protein, Rosmarinus Officinalis (Rosemary) Leat Etract, PEG-40 Hydrogenated Castor Oil, Polyquaternium-39, Polyquaternium-10, Phenoxyethanol, Ethylhexylglycerin, Oryza Sativa Rice Extract, Butylene Glycol, 1,2-Hexanediol, Panthenol, Sodium Benzoate, Potassium Sorbate, Biotin, Ethoxydiglycol, Methyl Gluceth-20, Rosemarinus Officinalis (Rosemary) Leaf Oil, Sodium Gluconate, Perfume",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904482501357",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Whey Protein Concentrate, Skimmed Milk Powder, Soya Protein Isolate, Alkalized Cocoa Powder, Maltodextrin Powder, Nature Identical Chocolate Flavor, Sodium Chloride, Thickener (INS 415), Whey Protein Isolate, Di-Potassium Hydrogen Phosphate, Thickener (INS 466), Anti-Caking Agent (INS 551), Sweeteners (INS 955 & INS 950), Alpha Amylase, Protease, Lipase, Cellulase, Lactase.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0048107251994",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

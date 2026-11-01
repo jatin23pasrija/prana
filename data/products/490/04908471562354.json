@@ -7,12 +7,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Whole Wheat Flour (Atta), Rice bran Oil, Salt, Wheat Gluten, Stabilizer (Xanthan Gum), Humectant INS 451(i), Acidity regulator INS 500(i), INS 500(ii). &quot;Seasoning: Spices & Condiments (Chilly, Coriander, Cumin, Pepper, Turmeric, Fennel, Fenugreek), Salt, Sugar, Vegetable Powders (Garlic, Onion), Maltodextrin, Edible Starch, Hydrolyzed Vegetable Protein, Dried Total Vegetables (Peas, Kasuri Methi, Coriander), Potato Starch, Flavor Enhancer (E 635), Acidity Regulator (E330), Anticaking Agent (E 551), Edible Vegetable Oil,Paprika Extract (E 160c), Turmeric Extract (E 100). Contains added Natural & Nature identical flavouring substances.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/4908471562354",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +21,14 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

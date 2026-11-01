@@ -14,28 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 510,
-        "protein_g": 11,
-        "carbohydrate_g": 50,
-        "sugars_g": 12,
-        "fat_g": 29,
-        "saturated_fat_g": 13,
-        "fibre_g": 4,
-        "sodium_mg": 580
-      }
-    }
-  ],
   "ingredients_raw": "Maida Flour (65%), Garam Masala (12.5%), Cottonseed Oil (10%), Moong Dal (7%), Sugar (2%), lodised Salt (1.05%), Noix De Cajou, Raisins Secs.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906080234224",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -52,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -63,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

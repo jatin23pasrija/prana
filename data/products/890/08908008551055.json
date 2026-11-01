@@ -8,24 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 140.08,
-        "protein_g": 2.68,
-        "carbohydrate_g": 6.42,
-        "fat_g": 11.52
-      }
-    }
-  ],
   "ingredients_raw": "BLACK PEPPER, SONTH, BLACK SALT, AMCHOOR, SENDHA SALT, LOUNG, DRY PUDINA, CHUNKY CHAAT, NAUSHADAR, ELAICHI SEEDS ETC.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908008551055",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -38,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -49,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

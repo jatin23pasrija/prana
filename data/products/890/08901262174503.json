@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262174503",
+  "barcode_printed": "8901262174503",
+  "barcode_format": "EAN-13",
+  "name": "Amul Chocobar Probiotic Gold",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "INNER LAYER: PROBIOTIC ICE CREAM (70%): MILK SOLIDS, SUGAR, PERMITTED EMULSIFIER (E471), STABILIZERS (E407, E466, E415, E412), PROBIOTIC BACTERIAL STRAINS (LACTOBACILLUS ACIDOPHILUS & BIFIDOBACTERIUM ANIMALIS - MINIMUM 10⁶ BACTERIA / mL); OUTER LAYER: CHOCOLATE COVERING (30%): COCOA SOLIDS, SUGAR, COCOA BUTTER, COCONUT OIL, PERMITTED EMULSIFIER (E322).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262174503",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

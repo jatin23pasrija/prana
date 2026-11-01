@@ -8,35 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "100 g",
-        "quantity": {
-          "value": 100,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 533.18,
-        "protein_g": 4.3,
-        "carbohydrate_g": 59.09,
-        "sugars_g": 51.89,
-        "fat_g": 30.22,
-        "saturated_fat_g": 29.73,
-        "trans_fat_g": 0.3,
-        "sodium_mg": 135.82
-      }
-    }
-  ],
   "ingredients_raw": "Sugar, Edible Vegetable Fat (Hydrogenated Oil), Cocoa Solids, Emulsifiers (INS 322 (i), INS 476, INS 492), Edible Salt, Flavour.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906011347405",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -49,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -60,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

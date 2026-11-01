@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904006303290",
+  "barcode_printed": "8904006303290",
+  "barcode_format": "EAN-13",
+  "name": "Wild Stone Deodorant Soap",
+  "brand": "wild-stone",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SODIUM PALMATE, SODIUM PALM KARNELATE, PERFUME, GLYCERIN, KOKUM BUTTER, LIGHT LIQUID PARANEIN, TITANIUM DIOXIDE, TETRA SODIUM EDTA, TRICLOSAN, BUTYLATED HYDROXY TOLUENE, DISODIUM DISTYRYLBIPHENYL DISULFONATE, AQUA 1.11680, C.L. 12120. MANUFASTED IN INDIA BY READ THE NRS CHARACTER OF THE MED. (A) FOREVER BORY CARE INDUSTRIES (UNIT II) KHASRA NO. 190, RAIDER INDUSTRIAL AREA BHAGWANPUR, EHSIL ROORKEE, DIST-HARIDWAR - 247 661, UTTARAKHAND INDIA. MFG. LIC. NO. M 19/C/UA/2010. MRP: (incl of all taxes) USP per g: BATCH NO.: MFD.: 60.00 0.48 B.R142 [B] 06/202/1 (B) SRS-INDUSTRIES (UNT II) KHASRA NO. 82 SHIV GANDA INDUSTRIAL ESTATE VILLAGE - LAKESH RUBHAGWANPUR, ROORKEE DIST-HARIDWAR 27661, UTTARAKHAND DIA MFG. LIC. NO. M 8/C JA/2011 MARKETED & TRADEMARK NED RYO McNROE CONSUMER PRODUCTS PVT. LTD REGD. OFF. : GODREJ GENESIS, UNIT 1284 12th FLOOR, PLOT NO. XI, BLOCK EP & GP SECTOR V, SALT LAKE CITY, BIDHANNAGAR KOLKATA 700 091, W.B., INDIA. McNROE CONSUMER CARE CELL. (REFER/WRITE US TO REGD. OFF ADDAS) TEL: +91 3 4014 2100/care@mcnrcom 3. 4014 (WHEPACKED) HET WEIGHT: 125g (WHEN PACKED) 10/",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904006303290",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901138836108",
+  "barcode_printed": "8901138836108",
+  "barcode_format": "EAN-13",
+  "name": "Complete Care Toothpaste",
+  "brand": "himalaya",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Aqua, Sorbitol, Hydrated Silica, Glycerin, Sodium Lauryl Sulfate, Flavor, Xanthan Gum, Titanium Dioxide, Sodium Saccharin, Menthol, Sodium Benzoate, Punica Granatum Pericarp Extract, Potassium Sorbate, Calcium Fluoride, Zanthoxylum Alatum Fruit Extract, Acacia Arabica Stem Bark Extract, Terminalia Chebula Fruit Extract, Terminalia Bellerica Fruit Extract, Emblica Officinalis Fruit Extract, Embelia Ribes Fruit Extract, Azadirachta Indica Bark Extract, Vitex Negundo Extract, Thymol, Citric Acid, Salvadora Persica Stem Extract, Acacia Farnesiana Flower/Stem Extract, Acacia Catechu Bark Powder, Mimosops Elengi Flower Extract.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901138836108",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "SKIMMED MILK POWDER, MALT EXTRACT, SOY PROTEIN ISOLATE, COCOA POWDER (10%), MINERALS (DI CALCIUM PHOSPHATE, FERRIC PYROPHOSPHATE, ZINC SULPHATE, POTASSIUM IODIDE), NATURE IDENTICAL FLAVOURING SUBSTANCES, MALTODEXTRIN, STABILIZER (GUAR GUM), VITAMINS (CHOLINE BITARTRATE, ASCORBIC ACID, DL-ALPHA TOCOPHERYL ACETATE, NICOTINAMIDE, RETINYL ACETATE, ERGOCALCIFEROL, THIAMINE HYDROCHLORIDE, CALCIUM PANTOTHENATE, RIBOFLAVIN, PYRIDOXINE HYDROCHLORIDE, FOLIC ACID, D-BIOTIN), SWEETENER (SUCRALOSE). ALLERGEN INFORMATION: CONTAINS MILK, BARLEY & SOY. MAY CONTAIN PEANUT & WHEAT",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906048501382",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

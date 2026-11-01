@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901618003594",
+  "barcode_printed": "8901618003594",
+  "barcode_format": "EAN-13",
+  "name": "Dark Sauce",
+  "brand": "kalyan",
+  "category": "sauce",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Rajma bean extract, Tapioca sago extract, Sugar, Salt, Liquid Condiments, Permitted natural Colour (E 150A), Acetic acid (E260), Spices extract & Preservative (E202)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901618003594",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

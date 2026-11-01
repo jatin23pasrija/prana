@@ -7,12 +7,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Edible Vegetable Oil (Refined Palmolein Oil, Refined Ricebran Oil, Refined Cottonseed Oil), Chickpea Flour (21%), Rice Flakes (13.9%), Cornflakes (13.5%), Peanuts (9.5%), Sugar (Sucrose), Rice Flour, Split Bengal Gram, Curry Leaves, Husked Dew Moth Bean Flour, Iodized Salt, Carom Seeds, Red Chilli Powder, Turmeric, Yellow Chilli Powder, Black Salt, Raising Agent [E 500 (ii)], Acidity Regulator (E 330).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901414016408",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +21,14 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

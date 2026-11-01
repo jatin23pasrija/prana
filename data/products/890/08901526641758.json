@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901526641758",
+  "barcode_printed": "8901526641758",
+  "barcode_format": "EAN-13",
+  "name": "Elvive Dream Lengths Detangling Conditioner",
+  "brand": "l-oreal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 340,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Aqua / Water, Cetearyl Alcohol, Stearamidopropyl Dimethylamine, Isopropyl Myristate, Cetyl Esters, Parfum / Fragrance, Helianthus Annuus Seed Oil / Sunflower Seed Oil, Ricinus Communis Seed Oil / Castor Seed Oil, Sodium Chloride, Hydroxycitronellal, Hydrolyzed Wheat Protein, Hydrolyzed Corn Protein, Hydrolyzed Soy Protein, Phenoxyethanol, Limonene, Benzoic Acid, Benzyl Salicylate, Linalool, Benzyl Alcohol, Caprylyl Glycol, Alpha-Isomethyl Ionone, Tartaric Acid, Geraniol, Citronellol, Coumarin, Hexyl Cinnamal",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901526641758",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

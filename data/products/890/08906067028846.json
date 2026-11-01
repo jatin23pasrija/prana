@@ -15,26 +15,12 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 565,
-        "protein_g": 26.66,
-        "carbohydrate_g": 31.34,
-        "sugars_g": 17.4,
-        "fat_g": 38.8,
-        "saturated_fat_g": 13.24,
-        "fibre_g": 8.13
-      }
-    }
-  ],
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906067028846",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -54,14 +40,10 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
-    },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

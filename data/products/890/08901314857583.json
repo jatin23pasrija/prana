@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901314857583",
+  "barcode_printed": "8901314857583",
+  "barcode_format": "EAN-13",
+  "name": "Colgate Total Active Prevention",
+  "brand": "colgate",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Glycerin, Silica, Sodium Lauryl Sulphate, Arginine, Flavor, Cocoamidopropyl Betaine, Zinc Oxide, Sodium Carboxymethyl Cellulose, Titanium Dioxide, Poloxamer 407, Zinc Citrate Trihydrate, Tetrasodium Pyrophosphate, Xanthan Gum, Benzyl Alcohol, Phosphoric Acid, Sodium Saccharin, Sodium Fluoride, Titanium Dioxide Coated Mica, Sucralose, CI 74260, CI 47005:1, Eugenol, aqueous base.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901314857583",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

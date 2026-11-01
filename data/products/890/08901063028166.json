@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar (26%), Refined Palm Oil, Coconut Products (4.5%) (Desiccated Coconut & Coconut Milk Powder), Milk Solids, Invert Sugar Syrup, Edible Maize Starch, Raising Agents [503(i), 500(i) & 450(i), Emulsifiers [322(i), 471 & 472e], Iodised Salt And Artificial (Coconut & Vanilla) Flavouring Substances.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063028166",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

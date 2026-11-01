@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030978449",
+  "barcode_printed": "8901030978449",
+  "barcode_format": "EAN-13",
+  "name": "Vaseline deep moisture",
+  "brand": "vaseline",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, MINERAL OIL, GLYCERIN, CETEARYL ALCOHOL, PETROLATUM, AVENA SATIVA (OAT) STRAW EXTRACT, SODIUM CETEARYL SULFATE, GLYCERYL STEARATE, PARAFFIN, DIMETHICONE, MICROCRYSTALLINE WAX, SODIUM CARBOXY METHYL CELLULOSE, METHYL PARABEN, PHENOXYETHANOL, PROPYL PARABEN, SIMETHICONE, DISODIUM EDTA, GLYCINE SOJA (SOYABEAN) OIL, BHT, PERFUME, BENZYL SALICYLATE, CITRONELLOL, HEXYL CINNAMAL, LIMONENE, LINALOOL, AMYL CINNAMAL.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030978449",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

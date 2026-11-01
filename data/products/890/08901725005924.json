@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (78.4%), Refined Palm Oil, lodized Salt, Wheat Gluten (0.4%), Thickeners (INS 508, INS 412), Stabilizers [INS 170(i), INS 339(ii), INS 450(ii), INS 452(i)] and Acidity Regulators [INS 501(i), INS 500(i), INS 330] Seasoning: Masala Mix: Dehydrated Vegetables [Beans (9.5%), Carrot (7.1%), Onion (4.6%) and Cabbage (3.8%)], Instant Noodle Powder (Refined Wheat Flour (Maida) (15.5%), Refined Palm Oil, lodized Salt and Wheat Gluten (0.08%)), Spices and Condiments (17.6%)[Garlic, Coriander, Cumin, Ginger, Chilli, Aniseed, Fenugreek, Black Pepper, Cardamom, Nutmeg, Caraway, Cinnamon, Clove and Turmeric], Sugar, lodized Salt, Hydrolyzed Vegetable Protein, Natural Flavours and Natural Flavouring Substances, Nature Identical Flavouring Substances, Maltodextrin, Yeast Extract, Acidity Regulator (INS 330), Flavour Enhancers (INS 627, INS 631), Anticaking Agent (INS 551), Mineral, Vitamins and Starch.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901725005924",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

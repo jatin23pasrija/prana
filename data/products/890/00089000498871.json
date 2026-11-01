@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 395,
-        "protein_g": 0,
-        "carbohydrate_g": 98.7,
-        "sugars_g": 90.2,
-        "fat_g": 0,
-        "saturated_fat_g": 0,
-        "fibre_g": 0,
-        "sodium_mg": 0
-      }
-    }
-  ],
   "ingredients_raw": "Sugar, Edible Starch, Liquid glucose, Anticaking agent (470(i)), Natural flavour and Natural flavouring 44262944/LC00160111(0)/00 substances.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0089000498871",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

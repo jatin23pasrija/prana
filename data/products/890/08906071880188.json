@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906071880188",
+  "barcode_printed": "8906071880188",
+  "barcode_format": "EAN-13",
+  "name": "Marvella Layered Strawberry Flavoured Cake",
+  "brand": "lavina-exotique",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "SOFT CAKE: REFINED WHEAT FLOUR (MAIDA), SUGAR, LIQUID GLUCOSE, HUMECTANTS (INS 422, INS 420(ii)), EDIBLE VEGETABLE OIL (REFINED PALM OLEIN OIL, INS 319, INS 330, INS 900a), CAKE GEL (INS 471, INS 477, INS 472 b, INS 470(i) & INS 422), MILK SOLIDS, BAKING POWDER, EMULSIFIER (INS 322), RAISING AGENTS (INS 503(ii), INS 500(ii)), EDIBLE VEGETABLE FAT (HYDROGENATED VEGETABLE OIL - REFINED PALM OIL, REFINED PALM STEARIN, TILL OIL), PRESERVATIVES (INS 202, INS 223, INS 282), EDIBLE COMMON SALT, STABILIZER (INS 415). CONTAINS PERMITTED NATURAL FOOD COLOUR (INS 150d) AND ADDED FLAVOURS - ARTIFICIAL FLAVOURING SUBSTANCES (ETHYL VANILLIN). SYRUP: HUMECTANTS (INS 420(ii), INS 422), PRESERVATIVE (INS 202). CENTRE CREAM: SUGAR, EDIBLE VEGETABLE FAT (HYDROGENATED VEGETABLE OIL - REFINED PALM OIL, REFINED PALM STEARIN, TILL OIL), MILK SOLIDS, DEXTROSE MONOHYDRATE, EMULSIFIER (INS 322), HUMECTANT (INS 420(ii)), PRESERVATIVE (INS 202), EDIBLE COMMON SALT, STRAWBERRY FRUIT POWDER (0.03%). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 127) AND ADDED FLAVOURS - NATURAL FLAVOURING SUBSTANCES (ICE CREAM), NATURE IDENTICAL FLAVOURING SUBSTANCES (STRAWBERRY, ICE CREAM).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906071880188",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

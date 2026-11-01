@@ -5,15 +5,17 @@
   "barcode_format": "EAN-13",
   "name": "KitKat Delights Hazelnut",
   "brand": "nestle",
+  "category": "biscuits",
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Sugar, Milk solids, Cocoa solids (9.6%), Cocoa butter (9.1%), Hazelnut (7.9%), Refined wheat flour (Maida), Dried glucose syrup, Palm kernel oil, Shea butter, Palm oil, Natural flavouring substances, Emulsifier (322(i)) and Raising agent (500(ii)). Allergen Note: Contains Wheat, Milk & Nut. May contain: Soy.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901058023329",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +27,18 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

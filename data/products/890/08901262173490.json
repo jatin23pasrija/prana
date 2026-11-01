@@ -9,36 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "100 ml",
-        "quantity": {
-          "value": 100,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 215,
-        "energy_kj": 900,
-        "protein_g": 3.7,
-        "carbohydrate_g": 20.8,
-        "sugars_g": 20.8,
-        "fat_g": 13,
-        "saturated_fat_g": 7.8,
-        "trans_fat_g": 0,
-        "sodium_mg": 52
-      }
-    }
-  ],
   "ingredients_raw": "Milk solids, sugar, emulsifier (471) and stabilizers (407, 466, 415, 412), artificial flavouring substances (vanilla)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901262173490",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -55,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -66,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

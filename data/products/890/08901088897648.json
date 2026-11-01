@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Multigrain Mix (58.3%) [Jowar (19.5%), Whole Wheat Grits & Wheat Flour Atta (12.5%), Corn (10.2%), Rice (8.8%), Rolled Oats (7.3%)], Candied Fruits, Dry Fruits, Nuts and Seeds (18.2%) [Black Raisins (4.3%), Pumpkin Seeds (3%), Candied Strawberry (2.5%), Black Currant (2%), Candied Papaya (2%), Almonds (1.7%), Candied Cranberry (1.5%), Chia Seeds (1%), Strawberry Powder], Sugar, Rice Bran Oil, Invert Syrup, Flavour (Natural and Nature Identical Flavouring Substances), Emulsifier (322), Iodised Salt, Colouring agent (Beetroot powder), Malt Extract, Vitamins, Mineral.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901088897648",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

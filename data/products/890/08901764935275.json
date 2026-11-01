@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901764935275",
+  "barcode_printed": "8901764935275",
+  "barcode_format": "EAN-13",
+  "name": "Vita Punch",
+  "brand": "minute-maid",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Sugar, Apple Juice (23.3%) (reconstituted from apple juice concentrate), Strawberry Puree (1.9%), Acidity Regulator (330), Vitamin C, Stabilizer (466), Colours (150d, 160a(i)) and Mixed Fruit Flavours (Nature-Identical Flavouring Substances).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901764935275",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

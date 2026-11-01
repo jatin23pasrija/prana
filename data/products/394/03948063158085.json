@@ -8,27 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 519,
-        "protein_g": 6.9,
-        "carbohydrate_g": 63.8,
-        "sugars_g": 32.4,
-        "fat_g": 26.3,
-        "saturated_fat_g": 13.5,
-        "trans_fat_g": 0.1,
-        "sodium_mg": 484
-      }
-    }
-  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Interesterified Vegetable Fat, Sugar, Dark Choco Chips (12%) [Sugar, Cocoa Solids, Fractionated Vegetable Fat, Dextrose, Emulsifier [322(i)] and Nature Identical Flavouring Substances], Milk Choco Chips (12%) [Sugar, Refined Vegetable Fat, Milk Solids, Cocoa Solids, Emulsifier [INS 322(i)] and Nature Identical Flavouring Substances], Milk Products [Milk Solids & Butter], Raising Agents [503(ii), 500(ii), 450(i) & 341(ii)], Liquid Glucose, Invert Sugar Syrup, Cocoa Solids (0.4%), Oats Powder, Emulsifiers [471 & 322(i)], Iodised Salt and Nature Identical & Artificial (Vanilla) Flavouring Substances. Contains Wheat, Milk, Oats and Soy.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/3948063158085",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -41,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901044473572",
+  "barcode_printed": "8901044473572",
+  "barcode_format": "EAN-13",
+  "name": "Orange Fruit Crush",
+  "brand": "mapro",
+  "category": "fruit-juice",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sugar, orange juice (27%), water, acidity regulator (citric acid), thickener (pectin), preservative (INS-224). Contains permitted synthetic food colours (INS-110, INS-122) & added flavours - natural, nature identical & artificial flavouring substances (orange).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901044473572",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

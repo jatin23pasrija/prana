@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906071690329",
+  "barcode_printed": "8906071690329",
+  "barcode_format": "EAN-13",
+  "name": "Garlic Tadka",
+  "brand": "ravi",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 35,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (60%), EDIB VEGETABLE OIL PALMOLLIN EDIBLE TODE POWER SANT TAPIOCA STAR POWDERSONING [SPICE MALTODEXTRIN, AUTOLYZED YEAST EXTRAC HYDROLYZED VEGETABLE PROTEIN(SOYA), ACIDITY REGULATOR (INS 330), RAISING AGENT (INS 500 (INS 500 (1)), FLAVOUR ENHANCER (INS63 ANTICAKING AGENT (INS 551), COLOUR PAPR EXTRACT (INS 160C)], NATURAL & NATIO IDENTICAL FLAVOURING SUBSTANCES (GAR = AS FLAVOURING & SEASONING AGENT PROPRIETARY FOOD: NAMKEEN SAVOURS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906071690329",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

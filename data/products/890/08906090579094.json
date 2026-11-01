@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906090579094",
+  "barcode_printed": "8906090579094",
+  "barcode_format": "EAN-13",
+  "name": "Too Yumm Protein Chips",
+  "brand": "too-yumm",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 60,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Multigrain Blend [(60%) (Corn Flour, Whole Wheat Flour (Atta), Rice Flour, Bengal Gram Flour, Oats Flour)], Edible Vegetable Oil (Rice Bran Oil), Peanut Protein Isolates (15%), Seasoning [Sugar, lodised Salt, Milk Solids, *Spices and Condiments Maltodextrin, Natural and Nature Identical Flavouring Substances, Hydrolysed Vegetable Protein, Edible Vegetable Oil (Coconut), Anticaking Agent (INS 551), Flavour Enhancers (INS 627, INS 631), Stabilizer (INS 414)], Anticaking Agent (INS 170), Colour (INS 150d) *Used as Natural Flavouring Agents ALLERGEN ADVICE: Contains Wheat, Oats, Milk, Peanuts, Soya and Sulphite May contain Mustard",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906090579094",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

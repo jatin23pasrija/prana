@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 530,
-        "energy_kj": 2218,
-        "protein_g": 6.6,
-        "carbohydrate_g": 60.1,
-        "sugars_g": 3.9,
-        "fat_g": 29.9,
-        "saturated_fat_g": 13.9,
-        "trans_fat_g": 0.1,
-        "sodium_mg": 632.3
-      }
-    }
-  ],
+  "ingredients_raw": "CEREALS AND PULSES MIX {RICE GRITS, DEGERMED CORN GRITS, BENGAL GRAM GRITS AND PEA GRITS}, *EDIBLE VEGETABLE OIL, SUGAR, IODIZED SALT, TOMATO POWDER (0.65%), #SPICES AND CONDIMENTS, ONION POWDER, NATURE IDENTICAL FLAVOURING SUBSTANCES, GARLIC POWDER, YEAST EXTRACT, ACIDITY REGULATORS (CITRIC ACID, MALIC ACID), NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, FLAVOUR ENHANCERS (508, 635) AND MILK SOLIDS. #USED AS FLAVOURING AGENTS.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901725013769",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,13 +42,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

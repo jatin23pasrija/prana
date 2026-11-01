@@ -7,26 +7,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 370,
-        "protein_g": 10,
-        "carbohydrate_g": 78,
-        "sugars_g": 32,
-        "fat_g": 2,
-        "saturated_fat_g": 1.4,
-        "sodium_mg": 145
-      }
-    }
-  ],
+  "ingredients_raw": "Malted Cereals (Extracted Solids) (23%) [Barley Malt (13%), Wheat Malt (10%)], Cereal Extract (19%) [Barley (11%), Wheat (8%)], Partially Hydrolysed Cereal Solids, Sugar, Milk Solids (8%), Cocoa Powder (6.5%), Wheat Gluten, Minerals, Soy Protein Isolate, Emulsifier (INS 471), Liquid Glucose, Natural Colour (INS 150c), Nature Identical Flavouring Substances, Vitamins, Stabiliser (INS 412), Edible Iodized Salt, Acidity Regulators [INS 501(ii), INS 500(ii)].",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901030825705",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,13 +22,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

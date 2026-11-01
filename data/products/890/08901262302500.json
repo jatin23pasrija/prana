@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901262302500",
+  "barcode_printed": "8901262302500",
+  "barcode_format": "EAN-13",
+  "name": "Amul Tru Chikoo Charm",
+  "brand": "amul",
+  "category": "ice-cream",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk solids, sugar, chikoo fruit preparation (14%) [chikoo pieces, sugar, water, antioxidant (300), thickener (440), preservative (202, 211), colour (150a)], emulsifier (471), stabilizers (407, 466, 415, 412), nature identical flavouring substances (chikoo), colour (150d). Contains milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901262302500",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

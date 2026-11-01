@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904045411468",
+  "barcode_printed": "8904045411468",
+  "barcode_format": "EAN-13",
+  "name": "Cough Syrup",
+  "brand": "multani-kuka",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Each 10 ml contains extracts derived from: Dct. of: Tulsi (Ocimum sanctum) (Lf.) 50 mg, Vasaka (Adhatoda vasica) (Lf.) 400 mg, Kulanjan (Alpinia galanga) (Rz.) 400 mg, Yashtimadhu (Glycyrrhiza glabra) (Rt.) 400 mg, Pippali (Piper longum) (Fr.) 200 mg, Satpudina (Mentha spicata) (Lf.Ext.) 2 mg, Sugar (Saccharum officinarum) 6000 mg, Excipients Q.S. Colour: Caramel Preservatives: Methyl Paraben (IP) Propyl Paraben (IP) and Sodium Benzoate (IP)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904045411468",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

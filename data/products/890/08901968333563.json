@@ -8,24 +8,19 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 231.6,
-        "protein_g": 11.4,
-        "carbohydrate_g": 6,
-        "sugars_g": 2.5,
-        "fat_g": 18
-      }
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
     }
-  ],
+  },
+  "ingredients_raw": "Chicken meat (66%), water, cereal binder-rusk powder, thickener (INS1442), iodized salt, isolated soya protein, mixed spices, emulsifier (INS450, INS451), stabilizer (INS452), preservative (INS250). Contains no beef in any form.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901968333563",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -38,13 +33,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

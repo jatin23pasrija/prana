@@ -14,25 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "protein_g": 3.56,
-        "carbohydrate_g": 89.1,
-        "sugars_g": 46.32,
-        "fat_g": 2.32,
-        "sodium_mg": 52.2
-      }
-    }
-  ],
-  "ingredients_raw": "INGREDIENTS:Corn Grits, Refined Vegetable Oil,Cheese Powder, Mix Spice & lodized salt",
+  "ingredients_raw": "Corn Grits, Refined Vegetable Oil,Cheese Powder, Mix Spice & lodized salt",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908005583189",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -49,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -60,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

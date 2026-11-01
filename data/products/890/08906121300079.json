@@ -3,17 +3,25 @@
   "gtin": "08906121300079",
   "barcode_printed": "8906121300079",
   "barcode_format": "EAN-13",
-  "name": "Herng nimbu pickle",
+  "name": "Heeng nimbu pickle",
   "brand": "aamra",
+  "category": "pickle",
   "countries": [
     "IN"
   ],
+  "package": {
+    "quantity": {
+      "value": 190,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Lemons (77%), Rock Salt, Red Chilli Powder (2%), Onion Seed (Kalonji), Asafoetida (Heeng) (0.25%), Mixed Spices.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906121300079",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +33,22 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

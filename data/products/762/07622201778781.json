@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "07622201778781",
+  "barcode_printed": "7622201778781",
+  "barcode_format": "EAN-13",
+  "name": "Bournvita Biscuits",
+  "brand": "cadbury",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (51%*), Sugar, Palmolein Oil, Cereal Based Beverage Mix 5%* (Cereal Extract 57%* (Barley, Wheat), Sugar, Cocoa Solids, Colour (150c), Liquid Glucose, Wheat Gluten, Maltodextrin, Emulsifiers (322,471), Edible Rennet Casein, Milk Solids, Vitamins, Minerals, Raising Agent (500(ii)), Iodised Salt, Flavours (Natural, Nature Identical and Artificial (Vanilla) Flavouring Substances)), Invert Sugar, Cocoa Solids (1.5%*), Milk Solids (1%*), Leavening Agents (500(ii), 503(ii)), Minerals, Iodised Salt, Flavours (Natural & Nature Identical Flavouring Substances), Emulsifier(322), Colour (150c), Vitamins.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7622201778781",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

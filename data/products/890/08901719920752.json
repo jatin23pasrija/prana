@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719920752",
+  "barcode_printed": "8901719920752",
+  "barcode_format": "EAN-13",
+  "name": "Hide & Seek Fab! Chocolate Flavoured Choco Chip Sandwich Cookies",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WHEAT FLOUR, SUGAR, HYDROGENATED VEGETABLE OIL, CHOCO CHIPS (SUGAR, HYDROGENATED VEGETABLE OIL, COCOA SOLIDS, EMULSIFIER [SOYA LECITHIN (E322)] AND ARTIFICIAL VANILLA FLAVOUR), COCOA SOLIDS, INVERT SYRUP, RAISING AGENTS (AMMONIUM BICARBONATE [E503(ii)], SODIUM BICARBONATE [E500(ii)]), ARTIFICIAL FLAVOURS (CHOCOLATE & VANILLA), SALT, CARAMEL COLOUR [E150d], AND EMULSIFIERS (SOYA LECITHIN [E322], DI-ACETYL TARTARIC ACID ESTERS OF MONO AND DI-GLYCERIDES [E472e]).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719920752",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

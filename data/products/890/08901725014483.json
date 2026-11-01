@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725014483",
+  "barcode_printed": "8901725014483",
+  "barcode_format": "EAN-13",
+  "name": "Sunfeast Farmlite",
+  "brand": "sunfeast",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Wheat flour (Atta) (35.3%), Rolled Oats (21.2%), Refined palm oil, Sugar, Liquid glucose, Almond bits (3.2%), Raising agents [INS 503(ii), INS 500(ii), INS 450(i)], Maltodextrin, Invert syrup, Milk solids, Iodized salt, Artificial flavouring substances (Milk, Vanilla), Emulsifier [Lecithin (from Soyabean)] and Nature Identical flavouring substances. Contains wheat, oat, milk, soy, nut. May contain sulphite",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725014483",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

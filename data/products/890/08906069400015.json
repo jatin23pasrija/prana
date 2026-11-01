@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Water, Refined Soyabean Oil, Synthetic Vinegar [Water, Acetic Acid (INS260)], Coriander, Milk Solids, Liquid Glucose, Emulsifiers and Stabilizers (INS1442, INS1450, INS415), Spices and Condiments, Iodised Salt, Sugar, Mint Leaves (0.4%), Acidity Regulators (INS270, INS330), Herbs, Nature-Identical Flavouring Substances, Preservatives (INS211, INS202), Antioxidant (INS319), Natural Colour [INS141(i)] and Sequestrant (INS385).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906069400015",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

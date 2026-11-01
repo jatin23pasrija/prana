@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08964002800476",
+  "barcode_printed": "8964002800476",
+  "barcode_format": "EAN-13",
+  "name": "Tutty Fruity",
+  "brand": "giggly",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sucre, sirop de glucose, sorbitol (E-420), gélatine (bœuf), pectine, sorbitol (E-420), acide citrique (E-330), vanilline (E-300), arômes identiques à la nature (fraises, ananas, orange, citron, cassis), colorants alimentaires autorisés (E-133 bleu brillant FCF, E-162, E-129 rouge allura AC, E-110 jaune soleil FCF)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8964002800476",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -8,27 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 376,
-        "protein_g": 12,
-        "carbohydrate_g": 74,
-        "sugars_g": 32,
-        "fat_g": 4,
-        "saturated_fat_g": 3.2,
-        "sodium_mg": 400
-      }
-    }
-  ],
   "ingredients_raw": "Maltodextrin, Milk Solids (25%), Wheat Flour (Atta), Malted Barley (Extracted Solids) (13%), Sugar,Cocoa Powder, Minerals, Natural Colour [INS 150c],Nature Identical Flavouring Substances, Vitamins, Docosahexaenoic Acid (DHA) powder from Schizochytrium sp. (0.26%), Edible lodized Salt, Acidity Regulator (INS 501(ii)].",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901030820052",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -41,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -52,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

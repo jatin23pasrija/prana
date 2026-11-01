@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719124716",
+  "barcode_printed": "8901719124716",
+  "barcode_format": "EAN-13",
+  "name": "Monaco Zeera",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED OILS (PALMOLEIN, PALM), SUGAR, RAISING AGENTS [503 (ii), 500 (ii), 341 (i)], INVERT SUGAR SYRUP, IODISED SALT (2.4%), ZEERA (2.3%), YEAST, ACIDITY REGULATORS [270, 296], EMULSIFIER OF VEGETABLE ORIGIN (472e) AND FLOUR TREATMENT AGENTS [223, 1101(ii), 1100(i)]. CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES - BUTTER).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719124716",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030957048",
+  "barcode_printed": "8901030957048",
+  "barcode_format": "EAN-13",
+  "name": "Gluta hya dewy radicance",
+  "brand": "unilever",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, DIMETHICONE, ISOHEXADECANE, NIACINAMIDE, GLYCER GLUTATHIONE, CYSTINE, GLYCINE, SODIUM PCA, SODIUM HYALURONATE PETROLATUM, CARBOMER, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER PHENOXYETHANOL, METHYLPARABEN, DISODIUM EDTA, TITANIUM DIOXIDE SODIUM HYDROXIDE, FRAGRANCE, BENZYL ALCOHOL, CITRONELLOL, GERANOL HEXYL CINNAMAL, LIMONENE, LINALOOL. SKIN LOTION. MADE IN INDIA. MKTD. BY LIC. USER HINDUSTAN UNILEVER LIMITED (HUL). HUL 2023. VASELINE IS THE REGISTERED TRADE MARK OF UNILEVER PL MFG. BY L.B.C.P., UNIT I HARIDWAR 249 403, UTTARAKHAND. M 16/C/UA/2010. 62727085 8 901030 957048&quot;&gt; HUL REGN. No. BO-13-000-07-AAACQUA MINIMUM THICKNESS OF THE PACKAGIN 350 MICRON. *MRP (INCL. OF ALL TAXES), USP, #MFD B. NO. & @USE BEFORE SEE CODING AREA. LEVERCARE-QUERY/FEEDBACK TOLL FREE: 1800-10-22-221 PO BOX 14760, MUMBAI 400 LEVER.CARE@UNILEVER.COM Not Vol. When Packed",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030957048",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

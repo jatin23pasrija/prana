@@ -4,16 +4,18 @@
   "barcode_printed": "8902080000333",
   "barcode_format": "EAN-13",
   "name": "8902080000333",
+  "brand": "pepsi",
   "category": "soft-drink",
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "CARBONATED WATER, COLOUR (150d), ACIDITY REGULATORS (338, 330), SWEETENERS (955, 950), PRESERVATIVE (211), CAFFEINE (13mg/100g), FLAVOUR (NATURAL FLAVOURING SUBSTANCES), STABILIZER (436).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8902080000333",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -22,13 +24,21 @@
       "source": "s1",
       "confidence": "medium"
     },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
     "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

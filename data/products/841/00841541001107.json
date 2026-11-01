@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00841541001107",
+  "barcode_printed": "0841541001107",
+  "barcode_format": "EAN-13",
+  "name": "Almond Chocolate",
+  "brand": "so-good",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Sugar, Almond (3%), Cocoa Powder (1%), Minerals, Natural Flavour Chocolate (Cocoa Extract, Caramel INS 150d), Emulsifier (INS 322(i)), Stabiliser (INS 418), Edible Common Salt, Acidity Regulator (INS 500(ii)), Vitamins.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0841541001107",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

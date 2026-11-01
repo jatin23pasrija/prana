@@ -14,27 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 417,
-        "protein_g": 10,
-        "carbohydrate_g": 55,
-        "sugars_g": 45.6,
-        "fat_g": 18,
-        "saturated_fat_g": 3.2,
-        "trans_fat_g": 0.07,
-        "sodium_mg": 0.5
-      }
-    }
-  ],
+  "ingredients_raw": "Cashew Nuts (52%), Sugar and Silver Leaves.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906146030555",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -51,13 +37,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

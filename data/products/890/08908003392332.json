@@ -15,27 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 125,
-        "protein_g": 0,
-        "carbohydrate_g": 31.2,
-        "sugars_g": 26.3,
-        "fat_g": 0,
-        "fibre_g": 2.22,
-        "sodium_mg": 1520
-      }
-    }
-  ],
   "ingredients_raw": "RED CHILLI PUREE, SUGAR, WATER, SALT, CORN FLOUR, SYNTHETIC VINEGAR (E260), HOKENING AGENT (E412), SPICES EXTRACT, VS. 315 CONTAINS PERMITTED CLASS II PRESERVATIVE (E211) fssai 11000084 25 Years H",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908003392332",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -56,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -67,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

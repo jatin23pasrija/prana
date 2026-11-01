@@ -4,7 +4,7 @@
   "barcode_printed": "8904043551876",
   "barcode_format": "EAN-13",
   "name": "Modern Wow Pav (Bun)",
-  "brand": "modern",
+  "brand": "bimbo",
   "category": "bread",
   "countries": [
     "IN"
@@ -15,27 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 261,
-        "protein_g": 9.5,
-        "carbohydrate_g": 48.9,
-        "sugars_g": 2.9,
-        "fat_g": 2.98,
-        "saturated_fat_g": 2.17,
-        "sodium_mg": 442
-      }
-    }
-  ],
   "ingredients_raw": "Refined Wheat Flour Mada), Sugar, Edible Vegetable Fat (Interesterified), Yeast, lodized Salt, Gluten, Soya Flour, Preservative (282), Emulsifier (471), Acidity Regulator (260), flour Treatment Agent (510) and Antioxidant (300)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904043551876",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -56,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -67,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -8,30 +8,19 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "1 serving (25 g)",
-        "quantity": {
-          "value": 25,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 23.2,
-        "protein_g": 0.5,
-        "carbohydrate_g": 2.3,
-        "fat_g": 1.4
-      }
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
     }
-  ],
+  },
+  "ingredients_raw": "Water, garlic (22%), red chillies, ginger (7%), tomato paste, refined soyabean oil, sugar, thickener (INS 1422), deggi mirch, iodized salt, acidity regulator (INS 260), I+G, spices & condiments, preservative (INS 211).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908016793867",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -44,13 +33,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

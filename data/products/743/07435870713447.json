@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "07435870713447",
+  "barcode_printed": "7435870713447",
+  "barcode_format": "EAN-13",
+  "name": "Chocolate Cookies",
+  "brand": "kilobeaters",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 90,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Almond flour (55.7%), 100% peanut butter (24%). Cocoa powdder (14.3%), Zero calorie sweetner (erythritol 4%). Zero added sugar chocolate 2% (cocoa beans, cocoa butter, maltitol)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7435870713447",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

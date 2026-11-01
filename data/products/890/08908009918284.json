@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009918284",
+  "barcode_printed": "8908009918284",
+  "barcode_format": "EAN-13",
+  "name": "oziva protein and herbs",
+  "brand": "oziva",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Ultrafiltered Whey Protein Concentrate (89.76%), Cross Flow Filtered Whey Isolate (1.00%), Natural & Nature-Identical Flavouring Substances (Vanilla, Almond & others), Vitamins & Minerals Blend (2.55%), Herbs Blend [Shatavari Root Extract (0.94%), Flax Seed Extract (0.31%), Green Tea Powder (0.22%), Tulsi Leaf Extract (0.16%), Cinnamon Bark Extract (0.09%), Curcumin Extract (0.06%)], Carica Papaya (Standardised for Papain) (0.30%), Pineapple Stem (Standardised for Bromelain) (0.30%), Xanthan Gum (Thickener (INS 415)], Natural Sweetener [Stevia (INS 960)]. CONTAINS NATURALLY OCCURRING SUGARS CONTAINS NON-CALORIC SWEETENER wwwed det. Images used are for ad to dagnose, treat, cure or widely and people with with profesionals before use. ARKETED BY Ventures Pvt Ltd. Sah Singh Estate, Caves Rd, Mumbai-400060 Issat Lic. No: 11516005000572 MADE IN INDIA ALLERGEN INFO: Contains milk. Made in a facility that also processes wheat & soy products. NUTRACEUTICAL NOT FOR MEDICINAL USE HOWT ENJOY FOR REAL Contact Eimal Damne Not wit",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009918284",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

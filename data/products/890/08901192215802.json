@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901192215802",
+  "barcode_printed": "8901192215802",
+  "barcode_format": "EAN-13",
+  "name": "Schezwan Culinary Paste",
+  "brand": "catch",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Sugar, Chillies and Capsicum Whole, Iodized Salt, Onion Paste, Raw Garlic, Soy Sauce, Sunflower oil, Tomato Paste, Acetic Acid (INS No. 260), Modified Starch (INS No. 1400), Raw Ginger, Seasoning, Xanthan Gum (INS No. 415), Pepper Black Whole, Pepper White Whole, Spice Extract, Sodium Benzoate (INS No. 211), Citric Acid (INS No. 330), Disodium 5'-Ribonucleotides (INS No. 635), Silicon Di Oxide (INS No. 551).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901192215802",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

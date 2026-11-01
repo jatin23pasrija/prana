@@ -8,32 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "100 g",
-        "quantity": {
-          "value": 100,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 275,
-        "protein_g": 6.2,
-        "carbohydrate_g": 22.2,
-        "sugars_g": 11,
-        "fat_g": 18
-      }
-    }
-  ],
   "ingredients_raw": "MILK SOLIDS, SUGAR",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901262201438",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -46,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -57,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

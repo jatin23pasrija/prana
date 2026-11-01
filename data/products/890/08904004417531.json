@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904004417531",
+  "barcode_printed": "8904004417531",
+  "barcode_format": "EAN-13",
+  "name": "Golden Mixture Surti Farsan",
+  "brand": "haldiram-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Edible vegetable oil (palmolein, cotton seed, corn, sunflower), bengal gram flour, rice flakes (11%), groundnut (peanuts) (6%), split pulse bengal gram (chana dal), refined sugar, fennel, iodised salt, red chilli powder, curry leaves, turmeric powder, dried mango powder, black salt, black pepper, dried ginger powder, clove powder, cumin powder, nutmeg, bay leaf, cinnamon, raising agent (INS 500 ii), acidity regulator (INS 330) & asafoetida.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904004417531",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}
