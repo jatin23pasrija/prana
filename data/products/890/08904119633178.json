@@ -5,29 +5,17 @@
   "barcode_format": "EAN-13",
   "name": "Sitaphal Ice Cream",
   "brand": "top-n-town",
+  "category": "ice-cream",
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 161.8,
-        "protein_g": 3.5,
-        "carbohydrate_g": 22.1,
-        "sugars_g": 22.1,
-        "fat_g": 6.6,
-        "saturated_fat_g": 3.96,
-        "sodium_mg": 50.7
-      }
-    }
-  ],
+  "ingredients_raw": "Water, sitaphal pulp (30%), milk solids, sugar, liquid glucose, permitted emulsifier (INS471, INS477) and stabilizers (INS410, INS412), contains added artificial flavouring substances (Sitaphal). Food allergen: Contains Milk.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904119633178",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,13 +28,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

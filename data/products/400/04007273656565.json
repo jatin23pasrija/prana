@@ -8,36 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "100 g",
-        "quantity": {
-          "value": 100,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 246.22,
-        "protein_g": 12.72,
-        "carbohydrate_g": 43.76,
-        "sugars_g": 4.12,
-        "fat_g": 2.46,
-        "saturated_fat_g": 0.34,
-        "trans_fat_g": 0,
-        "fibre_g": 6.84,
-        "sodium_mg": 356.8
-      }
-    }
-  ],
   "ingredients_raw": "100% Whole Wheat Flour (Chakki Fresh Atta), Yeast, Sunflower Gluten, Garlic Bread Seasoning (Garlic Powder, Dried Garlic, Onion Powder, Chilli Flakes, Basil. Parsley, Oregano), Iodised Salt, Cane Sugar, Cultured Wheat Flour, Vitamin C.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/4007273656565",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -50,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -61,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

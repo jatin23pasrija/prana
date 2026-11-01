@@ -8,26 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 242.6,
-        "protein_g": 14.23,
-        "carbohydrate_g": 38.05,
-        "sugars_g": 0.5,
-        "fat_g": 3.72,
-        "saturated_fat_g": 1.24,
-        "sodium_mg": 847.36
-      }
-    }
-  ],
+  "ingredients_raw": "Chicken Meat (72%), Water, Cellulose Gel [INS 460(i), 466], Panko Crumbs, Iodized Salt, Soy Protein, Garlic Powder, Sugar, Spices & Condiments [Emulsifier (INS 451), Thickener (INS 412), Antioxidant (INS 300, 316)], Colour Fixative (INS 250)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906107170054",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908027071077",
+  "barcode_printed": "8908027071077",
+  "barcode_format": "EAN-13",
+  "name": "BLKFLAG",
+  "brand": "blkflag",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, CANE SUGAR, ACIDITY REGULATOR (INS 296), TAURINE (480 MG/180 ML) APPLE JUICE FROM CONCENTRATE 2% CAFFEINE (38 MG/188 ML), LCLT (20 MG/188 ML), GINSENG (20 MG/188 ML), CLASS II PRESERVATIVE (INS 211), SUCRALOSE (INS 955), NIACIN (VIT B3). VITAMIN PREMIX (B2, B6, B12)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908027071077",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

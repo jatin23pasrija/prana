@@ -15,29 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 454,
-        "energy_kj": 1901,
-        "protein_g": 6.9,
-        "carbohydrate_g": 77.3,
-        "sugars_g": 25.5,
-        "fat_g": 13,
-        "saturated_fat_g": 6,
-        "fibre_g": 0,
-        "sodium_mg": 296
-      }
-    }
-  ],
   "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (68%), SUGAR, REFINED PALM OIL, INVERT SUGAR SYRUP* [SUGAR, CITRIC ACID], IODISED SALT, RAISING AGENTS [503 (ii), 500 (ii)], MILK SOLIDS, FLOUR TREATMENT AGENT [1101 (ii)] AND EMULSIFIER OF VEGETABLE ORIGIN [472e] CONTAINS ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES VANILLA) (D-GLUCOSE, LEVULOSE) CONTAINS: WHEAT, MILK",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901719125478",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -58,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -69,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

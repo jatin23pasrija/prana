@@ -5,37 +5,17 @@
   "barcode_format": "EAN-13",
   "name": "Ultimate Dark Chocolate",
   "brand": "didier-frank",
+  "category": "chocolate",
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "1 portion (10 g)",
-        "quantity": {
-          "value": 10,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 57,
-        "protein_g": 1.5,
-        "carbohydrate_g": 0.8,
-        "sugars_g": 0.1,
-        "fat_g": 5,
-        "saturated_fat_g": 3,
-        "fibre_g": 2,
-        "sodium_mg": 4
-      }
-    }
-  ],
+  "ingredients_raw": "Cocoa Mass (99%)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906088700493",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -48,13 +28,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

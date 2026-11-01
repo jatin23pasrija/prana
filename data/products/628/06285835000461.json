@@ -7,12 +7,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Milk chocolate (35%) with Soft nougat (16%) and Caramel center (27%) with fresh Roasted Peanuts (21%). Ingredients: Sugar, Glucose Syrup, Peanuts, Skimmed Milk Powder, Cocoa Butter, Cocoa Mass, Non Hydrogenated Vegetable Oil (Palm Oil), Milk fat, Lactose, Whey Permeate (from Milk), Non Hydrogenated Vegetable Fat (Palm Fat), Salt, Emulsifier (Soy Lecithin (E322)), Egg White Powder, Milk Protein, Natural Flavouring (Vanilla Extract). Contains: Peanut, Soya, Egg, Milk. May contain: Hazelnut.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/6285835000461",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +21,14 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

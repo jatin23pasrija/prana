@@ -4,39 +4,18 @@
   "barcode_printed": "8901491003933",
   "barcode_format": "EAN-13",
   "name": "Chips - Mediterranean Pizza Flavour",
-  "brand": "lays",
+  "brand": "lay-s",
   "category": "chips",
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "100 g",
-        "quantity": {
-          "value": 100,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 538,
-        "protein_g": 6.5,
-        "carbohydrate_g": 54.2,
-        "sugars_g": 2,
-        "fat_g": 32.9,
-        "saturated_fat_g": 14.7,
-        "trans_fat_g": 0.1,
-        "sodium_mg": 488
-      }
-    }
-  ],
+  "ingredients_raw": "Potato, Edible Vegetable Oil (Palmolein, Sunflower), Seasoning (Maltodextrin, Sugar, Iodised Salt, Spices & Condiments, Flavour (Natural and Nature Identical Flavouring Substances), Hydrolyzed Vegetable Protein, Milk Solids, Flavour Enhancers (627, 631), Salt Substitute (Potassium Chloride), Edible Vegetable Oil (Palm, Coconut, Peanut)).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901491003933",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -53,13 +32,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

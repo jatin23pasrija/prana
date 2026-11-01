@@ -8,25 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 325,
-        "protein_g": 8,
-        "carbohydrate_g": 1.2,
-        "sugars_g": 1.2,
-        "fat_g": 32,
-        "saturated_fat_g": 19
-      }
-    }
-  ],
+  "ingredients_raw": "White butter, water, Cheddar cheese (milk solids, microbial rennet, active culture, iodized salt), milk solids, emulsifying salts [331(i), 339(ii)], iodized salt, acidity regulator (270), stabilizers (407, 415), preservatives (200, 234).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901262060127",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -39,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

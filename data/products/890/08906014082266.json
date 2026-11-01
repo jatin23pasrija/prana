@@ -14,35 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "15g",
-        "quantity": {
-          "value": 15,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 74.3,
-        "protein_g": 1.9,
-        "carbohydrate_g": 2.8,
-        "sugars_g": 1.1,
-        "fat_g": 5.5,
-        "saturated_fat_g": 4.9,
-        "fibre_g": 3,
-        "sodium_mg": 405.2
-      }
-    }
-  ],
   "ingredients_raw": "Dessicated Coconut, Black Gram, tamarind, Chilly powder, Salt, Curry Leaves, Rosemary",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906014082266",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -59,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -70,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

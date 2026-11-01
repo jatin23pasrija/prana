@@ -9,34 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "30 g",
-        "quantity": {
-          "value": 30,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 154,
-        "protein_g": 2.41,
-        "carbohydrate_g": 15.69,
-        "sugars_g": 9.15,
-        "fat_g": 9.14,
-        "saturated_fat_g": 4,
-        "sodium_mg": 234.42
-      }
-    }
-  ],
   "ingredients_raw": "Beetroot (61%), Palmolein Oil, Seasoning [Spices & Condiments, Sugar, Refined Wheat Flour (Maida), lodized Salt, Black Salt, Acidity Regulator (INS 330), Tamarind Powder, Flavour Enhancers (INS 627, INS 631), Natural & Nature Identical Artificial (Tamarind) Flavouring Substances, Hydrolysed Vegetable Protein (Soy), Anti-Caking Agent (INS 551)]",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908023134066",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -53,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -64,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

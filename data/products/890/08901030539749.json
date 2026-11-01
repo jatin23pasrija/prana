@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030539749",
+  "barcode_printed": "8901030539749",
+  "barcode_format": "EAN-13",
+  "name": "lux soap",
+  "brand": "lux",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "HUL REGN. NO. BO-13-000-07-AAACH1004N-22. VncOL, COUMARIN, GERANIOL, MEXYL CINNAMAL, UMONENE, MINIMUM THICKNESS OF THE PACKAGING IS 62 MICRON. TO HUMAN SKIN. Net Wt. When Packed FOR 'MRP (INCL. OF ALL TAXES), USP #MED, & QUSE BEFORE: SEE CODING AREA. SATHING BAR. MADE IN NDIA, A QUALIŤY PRODUCT OF HINDUSTAN UNLEVER LIMITED. MKTD. BY HINDUSTAN UNILEVER RLIMITED TRADERK HUL 2022. TESTED FOR (HUL). LUX IS A REGISTERED DERMATOLOGICAL SAFETY AND FOUND SAFE MFG. BY, READ THE FIRST CHARACTERIS) OF THE ODE FOLLOWING 8. E) LAKME LEVER PVT. LTD., 310 SURVEY NO. 159, VARSANA, BHIMASAR - PADANA UAD, P.O. PADANA, GANDHIDHAM (KACHCHH) O 240, GUJARAT. M GC/849. D) HINDUSTAN LEVER LTD., C-9, M.J.D.C. AREA, KHAMGAON, USTRICT BULDHANA, MAHARASHTRA 444 303. MHY104860. C) HINDUSTAN UNILEVER LTD., Ut NH-45/A, VADAMANGALAM, PUDUCHERRY 606 102. M PPI5212/97. LEVERCARE-QUERY / FEEDBACK, TOLL FREE: 1800-10-22-221, PO BOX 14760, MUMBAI 400 099, LEVERCAREG@UNILEVER.COM SCAN THIS BARCODE FOR SINGLE PACK 100g 64333443 8 901030 539749&gt; at www.luX.com Explore the",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030539749",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

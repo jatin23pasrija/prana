@@ -8,12 +8,19 @@
   "countries": [
     "IN"
   ],
+  "package": {
+    "quantity": {
+      "value": 326,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Peanuts (19.7%), Refined Wheat flour (Maida), Hydrogenated vegetable fats (contains sesame oil), Milk solids, Edible vegetable fats, Cocoa solids (3.6%), Iodized salt, Emulsifier (Soya lecithin), Raising agent (500(ii)), Yeast and Flour treatment agents (516 and 1101(i)). CONTAINS ADDED FLAVOUR (ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901058875744",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +32,18 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

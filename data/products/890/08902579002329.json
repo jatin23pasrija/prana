@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08902579002329",
+  "barcode_printed": "8902579002329",
+  "barcode_format": "EAN-13",
+  "name": "Smoodh toffee caramel",
+  "brand": "parley-agro",
+  "category": "milk",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "MILK SOLIDS, MATER, SUGAR, DEXTROSE, MALT EXTRACT, NATURAL COLOUR (INS 150c) (0.57%), EMULSIFIERS AND STABILIZERS [INS 450(1), INS 471, INS 466, INS 407, INS 340, INS 452), COCOA SOLIDS, MATURE-IDENTICAL AND ARTIFICIAL FLAYOURING SUBSTANCES (CARAMEL, TOFFEE AND YANILLA) AND IODISED SALT. (EQUIVALENT TO 90% N/N DOUBLE TONED MILK) ONS-INTERNATIONAL NUMBERING SYSTEM) ALLERGEN INFORMATION: CONTAINS MILK, BARLEY, WHEAT AND MILLET",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902579002329",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

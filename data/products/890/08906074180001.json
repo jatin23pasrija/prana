@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906074180001",
+  "barcode_printed": "8906074180001",
+  "barcode_format": "EAN-13",
+  "name": "Bakarwadi",
+  "brand": "chitale-sweet-home",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour, Bengal Gram Flour, Refined Palmolein O, Sugar Syrup (Refined Sugar, Water), Refined Desiccated Coconut, Spices (Red Chilli Powder, Cumin Sugar, Greer Chilli, Iodized Salt, Coriander Leaves, Grated Seed Powder, Coriander Powder, Asafoetida), Tamarind Concentrate, Sesame Seeds, Fennel.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906074180001",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

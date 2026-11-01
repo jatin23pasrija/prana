@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Chillies and Capsicum Whole, Coriander Whole, Cumin Whole, Turmeric Whole, Iodized Salt, Ginger Whole, Chana Dal, Dried Garlic Whole, Fennel Whole, Pepper Black Whole, Cassia Whole, Bay Leaves Whole, Mustard Whole, Star Anise, Cucumis, Large Cardamom Whole, Edible Common Salt, Cloves Whole, Cardamom Whole, Mint Leaves, Fenugreek Leaves.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901192213112",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

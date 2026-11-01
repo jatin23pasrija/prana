@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00870572004924",
+  "barcode_printed": "0870572004924",
+  "barcode_format": "EAN-13",
+  "name": "ABC Jelly",
+  "brand": "cokeland",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Glucose Syrup, Sugar, Modified Starch, Halal Gelatin, Citric Acid (E-330), Sorbitol (E-420), Artificial Food Flavors (Orange, Mango, Pineapple, Strawberry), Artificial Colors (E-102, E-110, E-122, E-133), Polishing Agent (E-904 & Carnauba Wax)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0870572004924",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

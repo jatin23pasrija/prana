@@ -8,32 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "30 g",
-        "quantity": {
-          "value": 30,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 97.57,
-        "protein_g": 14.78,
-        "carbohydrate_g": 5.08,
-        "sugars_g": 2.68,
-        "fat_g": 2.01,
-        "sodium_mg": 709.45
-      }
-    }
-  ],
+  "ingredients_raw": "Buffalo, Soy Sauce, Jaggery, Cracked Black Pepper, Celery Powder, Paprika, Yeast Extract, Sea Salt, Garlic Powder, Onion Powder, Natural Flavouring Agent",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0670087143015",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -46,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

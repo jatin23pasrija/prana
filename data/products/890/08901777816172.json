@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901777816172",
+  "barcode_printed": "8901777816172",
+  "barcode_format": "EAN-13",
+  "name": "Crunchy Butterscotch Ice Cream",
+  "brand": "vadilal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Milk Solids, Sugar, Cashew Crackles (10%) [Liquid Glucose, Sugar, Maltodextrin, Cashew, Palm Kernel Oil], Emulsifier (471), Stabilisers (412, 466, 407), Synthetic Food Colours (102), Artificial (Butterscotch & Caramel) Flavouring Substances. ALLERGEN INFORMATION: Contains Milk and Cashew. May Contain Almond, Pistachio, Soy and Wheat Flour.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901777816172",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

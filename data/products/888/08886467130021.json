@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08886467130021",
+  "barcode_printed": "8886467130021",
+  "barcode_format": "EAN-13",
+  "name": "Black Truffle & Sea Salt",
+  "brand": "pringles",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "potatoes, non-hydrogenated vegetable oils (sunflower, corn), seasoning [tapioca maltodextrin, yeast extract, salt, sugar, black truffle powder, flavour enhancers (monosodium glutamate, disodium 5'- guanylate, disodium 5'- inosinate), natural flavouring, flavouring (acacia gum), acidity regulator (citric acid), black pepper powder], emulsifier from plant origin (E471)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8886467130021",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

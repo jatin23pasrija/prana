@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005610553",
+  "barcode_printed": "8906005610553",
+  "barcode_format": "EAN-13",
+  "name": "Choco Brownie",
+  "brand": "winkies",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED SUGAR, EDIBLE VEGETABLE OIL (REFINED PALMOLIEN OIL), WATER, REFINED WHEAT FLOUR (MAIDA), COCOA SOLIDS, LIQUID GLUCOSE, BUTTER, MILK SOLIDS, HUMECTANTS (INS 422), DEXTROSE POWDER, INVERT SYRUP, STARCH, EDIBLE COMMON SALT, RAISING AGENTS [500(ii)], EMULSIFIERS (INS 477, INS 471), ACIDITY REGULATOR (INS 260), PRESERVATIVES (INS 200), NATURAL & NATURE IDENTICAL FLAVOUR (VANILLA, BUTTER & CHOCOLATE), STABILIZERS (INS 410, INS 415), ANTIOXIDENT-MIX (INS 1520, INS 330). CONTAINS WHEAT & MILK INGREDIENTS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005610553",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

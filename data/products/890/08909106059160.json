@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106059160",
+  "barcode_printed": "8909106059160",
+  "barcode_format": "EAN-13",
+  "name": "Hamam Soap",
+  "brand": "hamam-is-sold-by-hindustan-unilever",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SODIUM PALMATE, SODIUM PALM KERNELATE, WATER, ZEA MAYS (CORN) STARCH, GLYCERIN, SODIUM C14-16 OLEFIN SULFONATE, SODIUM LAURYL SULFATE, FRAGRANCE, SODIUM SULFATE, LAURIC ACID, SODIUM CHLORIDE, SODIUM CARBONATE, TETRASODIUM ETIDRONATE, TETRASODIUM EDTA, CARBOMER, PEG-8, PEG-45M, MELIA AZADIRACHTA SEED OIL, AZADIRACHTA INDICA LEAF EXTRACT, ALOE BARBADENSIS LEAF EXTRACT, OCIMUM SANCTUM LEAF EXTRACT, CAMELLIA SINENSIS LEAF EXTRACT, ALPHA-ISOMETHYL IONONE, BENZYL SALICYLATE, CINNAMAL, CITRONELLOL, COUMARIN, EUGENOL, GERANIOL, LIMONENE, LINALOOL, CI 11680, CI 74260.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106059160",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

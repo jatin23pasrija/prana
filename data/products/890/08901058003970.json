@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058003970",
+  "barcode_printed": "8901058003970",
+  "barcode_format": "EAN-13",
+  "name": "Munch Crunchilicious Cereal",
+  "brand": "nestle",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole wheat flour (Atta)(48.8%), Sugar, Rice Flour (9.6%), Degermed maize (Corn) grits (5.7%), Cocoa Solids (5.5%), Glucose Syrup, Minerals, Palm oil, Nature-Identical Flavouring Substances, Iodized Salt, Vitamins and Antioxidant (307b). Contains Wheat and Sulphite. May contains Milk, Oat, Soy, Barley, Nut, Mustard, Celery, Sesame and Lupin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058003970",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

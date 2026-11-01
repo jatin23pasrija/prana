@@ -14,29 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 490,
-        "protein_g": 8.77,
-        "carbohydrate_g": 52.7,
-        "sugars_g": 7.84,
-        "fat_g": 25.94,
-        "saturated_fat_g": 8.74,
-        "trans_fat_g": 0,
-        "fibre_g": 4.86,
-        "sodium_mg": 474
-      }
-    }
-  ],
   "ingredients_raw": "TRADITI Refined Wheat Flour (Maida), Refined Palmolein Oil, Bengal Gram Flour (Besan), Refined Sugar, Cashew Nuts, Hydrogenated Vegetable Oil (Vanaspati), Red Chilli Powder, Edible Common Salt, Acidity Regulator (INS 330), Dried Mango Powder, Cumin Powder, Dried Ginger Powder, Green Chilli, Coriander Powder, Black Pepper, Cinnamon, Clove, Fennel Seed, Cardamom, Bay Leaf, Turmeric & Black Salt. Allergen: Contains Wheat & Cashews May Contains Milk, Almond, Peanut, Sesame Seed, Soy & Mustard Seed",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904004414509",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -53,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -64,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

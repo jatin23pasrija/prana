@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00769503153063",
+  "barcode_printed": "0769503153063",
+  "barcode_format": "EAN-13",
+  "name": "Naturals Mango Drink",
+  "category": "fruit-drink",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Purified Water, Sugar, Concentrated Mango Pulp, Stabilizer (E440, E466), Acidity Regulators (E330, E331), Preservative (E202), Fruit Color (E110), and Natural and Natural Identical Flavors. This contains 19% fruit juice content.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0769503153063",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

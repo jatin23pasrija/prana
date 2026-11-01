@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Multigrain 90.8% (Whole Rolled Oats (60.9%), No Added Sugar Whole Wheat Flakes 29.9% (Wheat, Iodised Salt, Cereal Extract, Antioxidants (INS 322 (i) & INS 307 b))), Sweetener (INS 965 - Maltitol), Dried Apples (1%), Lemon Powder & Antioxidant (INS 307b), Flavours (Natural & Nature Identical Flavouring Substances). Polyols may have laxative effect. Allergen Advice: Contains Oats, Wheat, Barley & Soy. May Contain Nut.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8902710510027",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

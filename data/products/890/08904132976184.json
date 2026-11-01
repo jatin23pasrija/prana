@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904132976184",
+  "barcode_printed": "8904132976184",
+  "barcode_format": "EAN-13",
+  "name": "Campa cola",
+  "brand": "reliance-consumer-products",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Carbonated water, Sugar, Acidity regulators (338, 331(iii)), Caffeine (9.4 mg/100ml), Color (150d), Preservative (211), Natural flavouring substances.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904132976184",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003452296",
+  "barcode_printed": "8908003452296",
+  "barcode_format": "EAN-13",
+  "name": "zoopy masala",
+  "brand": "zoopy",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Spices and Condiments (Onion, Chilli, Garlic, Cumin, Black Pepper, Coriander, Fennel, Cardomom, Star Anise, Fenugreek, Ginger, Clove, Nutmeg, Mace, Cinamon, Turmeric), Iodized Common Salt, Sugar, Refined Wheat Flour (Maida), Hydrolyzed Vegetable Powder (Soya), Yeast Extract Powder, Acidity Regulator (INS330), Edible Vegetable Oil (Sunflower), Vitamins, Minerals.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003452296",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

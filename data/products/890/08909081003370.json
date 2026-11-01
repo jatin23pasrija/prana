@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081003370",
+  "barcode_printed": "8909081003370",
+  "barcode_format": "EAN-13",
+  "name": "Butter Cookie",
+  "brand": "mom-s-magic",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 126,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "MAIDA (REFINED WHEAT FLOUR), SUGAR (INCLUDING 16.7% AS SUGAR GLAZING), REFINED PALMOLEIN, REFINED PALM OIL, RAISING AGENTS [503 (ii), 500(ii), MILK SOLIDS, MARGARINE, IODIZED SALT, DRIED YEAST, BUTTER (0.18%), EMULSIFIER [LECITHIN (FROM SOYABEAN)], NATURE IDENTICAL FLAVOURING SUBSTANCES, FLOUR TREATMENT AGENT (223).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081003370",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

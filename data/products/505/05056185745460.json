@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "05056185745460",
+  "barcode_printed": "5056185745460",
+  "barcode_format": "EAN-13",
+  "name": "Impact Whey Isolate Chocolate Brownie",
+  "brand": "myprotein",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whey Protein Isolate (Emulsifiers (Sunflower Lecithin and Soy Lecithin)) (86%), Cocoa Powder, Artificial Flavour (Chocolate Brownie), Sweetener (Sucralose).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/5056185745460",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

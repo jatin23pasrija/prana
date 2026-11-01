@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901786190508",
+  "barcode_printed": "8901786190508",
+  "barcode_format": "EAN-13",
+  "name": "Everest Super Garam Masala",
+  "brand": "everest",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Coriander, Cassia Leaf, Chilli, Cumin, Black Pepper, Fennel, Clove, Turmeric, Dried Ginger, Star anise, Compounded Asafoetida, Iodized salt and Mustard. Allergen information: Contains Mustard",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901786190508",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

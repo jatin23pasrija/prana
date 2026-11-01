@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901725111526",
+  "barcode_printed": "8901725111526",
+  "barcode_format": "EAN-13",
+  "name": "Bingo Tedhe Medhe Masala Tadka",
+  "brand": "bingo",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rice grits, Refined palmolein, Seasoning (Refined palmolein, Spices and condiments*, Onion powder, Iodized salt, Maltodextrin, Black salt, Flavour enhancer (INS 508), Nature identical flavouring substances, Tomato powder, Sugar, Hydrolyzed vegetable protein, Natural flavours and natural flavouring substances and Garlic powder (0.1%)), Degermed corn grits and Bengal gram grits (3.1%). *Used as flavouring agents. Contains soy, nut. May contain milk, wheat.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901725111526",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

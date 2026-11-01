@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904417314755",
+  "barcode_printed": "8904417314755",
+  "barcode_format": "EAN-13",
+  "name": "1% Kojic Acid Daily Face Wash",
+  "brand": "the-dermaco",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Myristic Acid, Glycerin, Aqua, Potassium Hydroxide, Propylene Glycol, Stearic Acid, Decyl Glucoside, Lauric Acid, Glycol Distearate, Cocamidopropyl Betaine, Xylitol, Glucose, Anhydroxylitol, Phoenix Dactylifera (Date Palm) Extract, Kojic Acid Dipalmitate, Niacinamide, Sodium PCA, Glyceryl Stearate, Phenoxyethanol, Polyquaternium-7, Titanium Dioxide, Sodium Metabisulfite, Butylated Hydroxytoluene, Vitamin E, Pentaerythrityl Tetra-Di-T-Butyl Hydroxyhydrocinnamate, Disodium EDTA, Glyceryl Glucoside and Alpha Arbutin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904417314755",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

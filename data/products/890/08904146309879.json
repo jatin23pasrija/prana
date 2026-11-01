@@ -14,26 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 0,
-        "protein_g": 0,
-        "carbohydrate_g": 0,
-        "sugars_g": 0,
-        "fat_g": 0,
-        "fibre_g": 0,
-        "sodium_mg": 39100
-      }
-    }
-  ],
+  "ingredients_raw": "Edible Common salt, Potassium Iodate, Anti caking agents (INS 551 & INS 536) Fortified with Potassium Iodate",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904146309879",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -50,13 +37,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

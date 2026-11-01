@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906018080428",
+  "barcode_printed": "8906018080428",
+  "barcode_format": "EAN-13",
+  "name": "Brown Bread",
+  "brand": "fresh-choice",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined wheat flour, Whole wheat flour(atta), Sugar, Yeast, Salt, Refined Palm oil, Class II preservative INS 282, Improver (Flour treatment agent (INS1100), Stabilizer (170 i), Emulsifier (481), Antioxidants 300), INS 1104, Soya flour), Caramel color Acidity Regulator(INS 260)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906018080428",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

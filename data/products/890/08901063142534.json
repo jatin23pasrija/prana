@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "WHEAT FLOUR (ATTA) (65.5%), REFINED PALM OIL, SUGAR, WHEAT BRAN (2.6%), MALTODEXTRIN, MILK PRODUCTS [MILK SOLIDS & WHEY POWDER], INVERT SUGAR SYRUP, RAISING AGENTS [503(ii) & 500(ii)], IODISED SALT, EMULSIFIERS [322(i) & 471], MALT EXTRACT, NATURE IDENTICAL & ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES AND DOUGH CONDITIONER [223].",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063142534",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

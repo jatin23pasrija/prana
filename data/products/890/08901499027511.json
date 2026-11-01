@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "MULTIGRAIN MIX (82.6%) {CORN GRITS & CORN MEAL (26.2%), WHEAT & WHEAT FLOUR (ATTA) (21.8%), RICE & RICE FLOUR (15%), RAGI FLOUR (13.1%), ROLLED BARLEY (6.5%)}, SUGAR, CEREAL EXTRACT, OLIGOFRUCTOSE, WHEAT BRAN, IODIZED SALT, COCOA SOLIDS, VITAMINS, FLAVOURS {NATURE IDENTICAL & ARTIFICIAL (COCONUT)}, ANTIOXIDANT (INS 307b), COLOUR (INS 150d) AND MINERAL.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901499027511",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

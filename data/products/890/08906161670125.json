@@ -8,34 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "15g",
-        "quantity": {
-          "value": 15,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 83.19,
-        "protein_g": 0.8,
-        "carbohydrate_g": 8.9,
-        "sugars_g": 6.71,
-        "fat_g": 4.94,
-        "saturated_fat_g": 3.95,
-        "sodium_mg": 22.65
-      }
-    }
-  ],
   "ingredients_raw": "Sugar, Choco Covering (Sugar, Hydrogenated Palm Kernel Oil, Cocoa Solids, Milk Solids, Emulsifier (INS 322), Salt]. Almond, Butter Contains Nature identical flavour(Vanilla).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906161670125",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -48,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -59,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

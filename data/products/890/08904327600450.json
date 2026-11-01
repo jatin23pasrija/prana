@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 625,
-        "protein_g": 26,
-        "carbohydrate_g": 19,
-        "sugars_g": 10,
-        "fat_g": 50,
-        "saturated_fat_g": 10,
-        "fibre_g": 5,
-        "sodium_mg": 350
-      }
-    }
-  ],
   "ingredients_raw": "Roasted Peanuts, Brown Sugar, Pink Himalayan Salt, Stabilizer (INS471). Allergen Info Contains Peanuts And Soya",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904327600450",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

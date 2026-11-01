@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "oral-b-is-sold-by-procter-gamble",
+  "name": "Oral B Is Sold By Procter Gamble",
+  "countries": [
+    "IN"
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/brand/oral-b-is-sold-by-procter-gamble",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  }
+}

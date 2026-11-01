@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08019980030480",
+  "barcode_printed": "8019980030480",
+  "barcode_format": "EAN-13",
+  "name": "Macaron Raspberry",
+  "brand": "ciorenero",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 84,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Meringues ingredients (72%): sugar 45%, almond flour 29%, egg albumen powder, sweetener: sorbitol syrup (E420, 28.8%/kg); soy proteins, rice starch, sunflower oil, vegetable fibre, preservative: potassium sorbate E202; emulsifier: sunflower lecithin E322; acidifier: citric acid E330; thickener: xanthan gum E415, guar gum E412; flavour: ethyl acetate E1130; potato starch, corn starch, food colours: carmoisine E122, blue brilliant E133, Cream filling ingredients (28%): base custard (sugar, white chocolate (sugar, whole milk powder), skimmed milk, vegetable fats (palm kernel, palm, sunflower), skimmed milk, emulsifier: soy lecithin, emulsifier: sunflower lecithin, artificial flavour), strawberry juice powder (maltodextrin, artificial flavour), strawberry juice, artificial raspberry flavour 0.4%, vegetable fats (palm kernel, palm), emulsifier: E471 plant origin, stabilizer: pectin, acidifier: citric acid, preservative: potassium sorbate, emulsifier: mono - and diacetyl tartaric esters of mono - and diglycerides of fatty acids E472e",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8019980030480",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

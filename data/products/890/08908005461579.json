@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Mango: Sugar, Liquid Glucose, Acidity Regulator (INS 296) and Stabilizer (INS 331). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 102, INS 110) AND ADDED FLAVOUR (ARTIFICIAL FLAVOURING SUBSTANCES-MANGO). Green Apple: Sugar, Liquid Glucose, Acidity Regulator (INS 296) and Stabilizer (INS 331). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS 102, INS 133) AND ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCES-GREEN APPLE).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908005461579",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

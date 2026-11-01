@@ -14,26 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 447,
-        "protein_g": 3.3,
-        "carbohydrate_g": 72.7,
-        "sugars_g": 60.5,
-        "fat_g": 15.9,
-        "saturated_fat_g": 9,
-        "sodium_mg": 151
-      }
-    }
-  ],
+  "ingredients_raw": "Centre 65% - Liquid glucose, Sugar, Invert sugar, Edible vegetable fat, Cocoa solids, Milk solids, Hydrolyzed vegetable protein, Edible salt, Emulsifiers (471); Chocolayer 35% - Sugar, Milk solids, Cocoa butter, Cocoa solids, Edible vegetable fat, Emulsifiers (442, 476). CONTAINS ADDED FLAVOUR (NATURAL, NATURE IDENTICAL AND ARTIFICIAL (CARAMEL, MALT AND ETHYL VANILLIN) FLAVOURING SUBSTANCES)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901233036625",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -50,13 +37,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

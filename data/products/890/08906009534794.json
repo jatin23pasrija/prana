@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009534794",
+  "barcode_printed": "8906009534794",
+  "barcode_format": "EAN-13",
+  "name": "7 Grain Breakfast cookie",
+  "brand": "max-protein",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Protein Blend (25%) (High Protei Peanut Flour, Whey Protein Concentrate, Wheat Protein, Soy Protein Isolate), Compound Chips (16%) (Sugar, Edible Vegetable Fa Chips(16%) (Hydrogenated), Cocoa Solids, Edible Vegetable Fat (Bakery Shortening), Invert Syrup Millets & Pulses Blend (Wheat Flour, Oats Flour Quinoa Flour, Bengal Gram Flour, Ragi Flour Corn Flour, Amaranth Puff), Dietary Fiber (Fructooligosacharide), Condensed Milk, Sugar Humectant (Glycerine), Tribasic Calcium Phosphate, Cocoa Powder, Leavening Agent (Baking Soda), Binding Agent (Gum Acacia Xanthan Gum), Emulsifier (INS471, INS472e, INS322(i) - Soy Lecithin), Salt, Antioxidant (Rosemary Extract).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009534794",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

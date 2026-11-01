@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "(Bread): Refined Wheat Flour (Maida), Water, Sugar, Refined Vegetable (Palm) Oil, Milk Solids, Yeast, Iodised Salt, Class II Preservatives (INS 282), Acidity Regulator (INS 260), Emulsifier (INS 481), Improver (INS 170(i), INS 1100) & Antioxidant (300), Nature Identical Permitted Flavour (Vanillin). Ingredients (Cream): Hydrogenated Vegetable (Palm) Fat, Icing Sugar, Emulsifier (INS 471), Nature Identical Permitted Flavour (Vanilla). Allergen information: Contains wheat, milk solids.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906007611602",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908009186089",
+  "barcode_printed": "8908009186089",
+  "barcode_format": "EAN-13",
+  "name": "Evolve Plant Protein Shake",
+  "brand": "plix",
+  "category": "protein-supplement",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Pea protein 82%, Cocoa powder (Alkalized), Natural & Nature identical flavors, Pink salt, Blueberry extract, Sucralose (INS955), Papain (INS 1101(ii)) 0.15%, Bromelain (INS 1101(iii)) 0.15%, Turmeric Extract, Xanthan gum (INS 415), Black Pepper Extract, Cyanocobalamin. CONTAINS ADDED NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES - CHOCOLATE & OTHERS.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908009186089",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

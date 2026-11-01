@@ -5,6 +5,7 @@
   "barcode_format": "EAN-13",
   "name": "Kinder Joy",
   "brand": "ferrero",
+  "category": "biscuits",
   "countries": [
     "IN"
   ],
@@ -14,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Sugar, palmolein, skimmed cow milk powder (19.5%), palm oil, low fat cocoa powder (4%), refined wheat flour (maida), refined salseed fat, wheat starch, powdered barley malt extract, emulsifier (lecithin - INS 322), whey protein concentrate, sunflowerseed oil (high oleic acid), raising agents (INS 503ii, INS 500ii), nature-identical flavouring substances, iodized salt.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8000500394847",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -32,13 +34,21 @@
       "source": "s1",
       "confidence": "medium"
     },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
     "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

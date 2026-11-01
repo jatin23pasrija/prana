@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901571004096",
+  "barcode_printed": "8901571004096",
+  "barcode_format": "EAN-13",
+  "name": "sensodyne fresh mint 75g",
+  "brand": "glaxo",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 75,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Aqua, Hydrated Silca, Sorbitol, Potassium NitraeRE Glycerin, PEG-6, Sodium Lauryl Sulphate, Aroma Titanium Dioxide, Xanthan Gum, Cocamidopropyl Betaine, swall Sodium Saccharin, Sodium Fluoride, Sodium Hydroxide. teeth Do not use if you are allergic to any of the ingredients. symo Nitrate, DIRE Brus Contains apnrox 927 nnm of availahle 12 ve",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901571004096",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

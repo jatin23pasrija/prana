@@ -15,12 +15,13 @@
       "unit": "ml"
     }
   },
+  "ingredients_raw": "Pasteurized Milk, Water, Common Salt, Microcrystalline Cellulose, Spices & Condiments, Active Lactic Culture. Allergen Information: Contains Milk. Made in a facility that processes tree-nuts, wheat, soybean.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901262200233",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

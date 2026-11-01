@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901526641192",
+  "barcode_printed": "8901526641192",
+  "barcode_format": "EAN-13",
+  "name": "L'Oreal Elvive Hyaluron Plump Conditioner 800mL",
+  "brand": "l-oreal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 800,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "1267991 A - INGREDIENTS: AQUA / WATER - CETEARYL ALCOHOL - DIMETHICONE - GLYCERIN - BEHENTRIMONIUM CHLORIDE - CI 17200 / RED 33 - CI 42090 / BLUE 1 - LACTIC ACID - SODIUM LAURETH SULFATE - SODIUM HYDROXIDE - SODIUM HYALURONATE - PHENOXYETHANOL - LIMONENE - AMODIMETHICONE - ISOPROPYL ALCOHOL - CETRIMONIUM CHLORIDE - PARFUM / FRAGRANCE. Please be aware that ingredient lists for the products of our brand are updated regularly. Please refer to the ingredient list on your product package for the most up to date list of ingredients to ensure it is suitable to your personal use.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901526641192",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

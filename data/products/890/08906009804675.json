@@ -7,25 +7,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 580.51,
-        "protein_g": 3.41,
-        "carbohydrate_g": 58.26,
-        "sugars_g": 44,
-        "fat_g": 32.8,
-        "saturated_fat_g": 32.76
-      }
-    }
-  ],
+  "ingredients_raw": "SUGAR, HYDROGENATED VEGETABLE OIL, MILK SOLIDS (23%) AND EMULSIFIER (322). CONTAINS ADDED FLAVOUR (ARTIFICAL FLAVOURING SUBSTANCE - VANILLA)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906009804675",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -34,13 +22,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

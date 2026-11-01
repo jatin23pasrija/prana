@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Rolled Oats (25.1%), Candied Fruit and Nut (24%) {Candied Cranberry (15%), Almonds (9%)}, Sugar, Oat Flour (10.7%), Edible Vegetable Oil (Palmolein), Rice (4.2%), Whole Wheat (3.9%), Rice Flour (2.7%), Liquid Glucose, Corn Flour (1.8%), Honey, Cereal Extract, Wheat Bran (0.6%), Refined Wheat Flour (Maida) (0.5%), Iodized Salt, Dextrose, Barley Flour (0.1%), Vitamins, Raising Agent (INS 500ii), Minerals, Antioxidant (INS 320)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901499009722",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

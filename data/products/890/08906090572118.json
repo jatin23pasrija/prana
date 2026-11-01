@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Rice Grits, Corn Grits, Edible Vegetable Oil (Rice Bran Oil), Seasoning [Sugar, Iodised Salt, Maltodextrin, *Spices and Condiments (Contains Chilli and Garlic), Natural and Nature Identical Flavouring Substances, Milk Solids, Hydrolysed Vegetable Protein, Gelling Agent (INS 508), Anticaking Agent (INS 551), Flavour Enhancers (INS 627, INS 631), Stabilizer (INS 414)] *Used as natural flavouring agent CONTAINS WHEAT, SOYA, MILK, MUSTARD AND SULPHITES MAY CONTAIN OATS",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906090572118",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

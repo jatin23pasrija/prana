@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Wheat Flakes (49.90%), Corn Flakes (18.15%), Rolled Oats (14.65%), Strawberry Crush (3.15%), Strawberry Syrup (3.15%), Strawberry Chunk (3.0%), Almonds, Raisins, Invert Sugar Syrup, Liquid Glucose, Beet Root Powder, Strawberry Powder (0.2%), Nature Identical Flavour, Antioxidant (INS 310).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906058610708",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901063019287",
+  "barcode_printed": "8901063019287",
+  "barcode_format": "EAN-13",
+  "name": "Britannia Little Hearts",
+  "brand": "britannia",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 13,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR (23%), REFINED PALMOLEIN & PALM OIL, RAISING AGENTS [503&500], MILK SOLIDS TODISED SALT, YEAST AND EMULSIFIER 322(0)] (Numbers in brackets as per International Numbering System) CONTAINS WHEAT MILK AND SOY",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901063019287",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

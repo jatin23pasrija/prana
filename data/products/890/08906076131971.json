@@ -8,34 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "50 g",
-        "quantity": {
-          "value": 50,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 126,
-        "protein_g": 4.23,
-        "carbohydrate_g": 27,
-        "sugars_g": 3,
-        "fat_g": 0.3,
-        "saturated_fat_g": 0.15,
-        "fibre_g": 0.75,
-        "sodium_mg": 103
-      }
-    }
-  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta), Sourdough (17%), iodized Salt, Yeast, Fermented Wheat Flour.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906076131971",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -48,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

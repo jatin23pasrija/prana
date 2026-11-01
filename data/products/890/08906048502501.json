@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906048502501",
+  "barcode_printed": "8906048502501",
+  "barcode_format": "EAN-13",
+  "name": "Protinex Vanilla flavour",
+  "brand": "danone",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 1500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Skimmed milk powder, Maltodextrin, Soy protein isolate, Mineralss, Nature identical flavourings substances (Vanilla), Stabilizers (Carrageenan, Xanthan, Gum Arabic), Vitamins, Sweetener (Sucralose), Turmeric Oleoresin, Color (INS 162), Acidity regulator (Citric Acid), Antioxidant (Ascorbic Acid)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906048502501",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Wheat Flour (Atta)(45%), Malted Barley (Extracted Solids) (18.8%), Cereal Extract (15%) [Barley (7%), Wheat, Millet], Sugar, Wheat Gluten, Milk Solids (2.33%), Minerals, Soy Protein Isolate, Edible Iodized Salt, Acidity Regulators [INS 501(ii), INS 500(ii)], Vitamins. Allergen Information: Contains Wheat, Barley, Milk & Soy.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901030824128",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

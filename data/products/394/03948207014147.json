@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "03948207014147",
+  "barcode_printed": "3948207014147",
+  "barcode_format": "EAN-13",
+  "name": "Coconut Milk (Non-Dairy)",
+  "brand": "dabur",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Coconut Milk (55.1%) [Coconut Milk, Water, Stabilizer (INS 415)], Water, Coconut Cream Concentrate (8.27%) [Coconut Extract, Water, Emulsifiers and Stabilizers (INS 471, INS 435, INS 466) and Preservative (INS 223)], Emulsifiers and Stabilizers (INS 460 (i), INS 412, INS 466, INS 407, INS 433)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948207014147",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

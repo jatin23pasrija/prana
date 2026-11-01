@@ -4,7 +4,7 @@
   "barcode_printed": "8901725004675",
   "barcode_format": "EAN-13",
   "name": "Oats and Raisins Cookies",
-  "brand": "sunfeast",
+  "brand": "farmlite",
   "category": "biscuits",
   "countries": [
     "IN"
@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 464,
-        "protein_g": 7.5,
-        "carbohydrate_g": 68,
-        "sugars_g": 18.3,
-        "fat_g": 19.5,
-        "saturated_fat_g": 9.8,
-        "fibre_g": 6.9,
-        "sodium_mg": 298.1
-      }
-    }
-  ],
   "ingredients_raw": "TRANS FAT FREE _Wheat_ flour (Atta) (34.5%), Refined palm oil, _Oat_ Flakes (15.7%), Sugar, Raisins (8.7%), Corn Flakes, Liquid glucose, Raising agents [INS 503 (ii), INS 500(ii), INS 450(i)], _Milk_ solids, Maltodextrin, Invert syrup, Natural flavours and natural flavouring substances, lodized salt, Colours (INS 150d, INS 150c). Emulsifier [Lecithin (from _Soyabean_)], Artificial flavouring substances (Milk, Vanilla) and Nature identical flavouring substances.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901725004675",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

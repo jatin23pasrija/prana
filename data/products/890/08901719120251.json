@@ -14,27 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 558,
-        "protein_g": 8.9,
-        "carbohydrate_g": 54.1,
-        "sugars_g": 12,
-        "fat_g": 34,
-        "saturated_fat_g": 8.3,
-        "sodium_mg": 400
-      }
-    }
-  ],
-  "ingredients_raw": "REFINED OIL, FLATTENED RICE (24%), BESAN, SUGAR, CHANA DAL (9%), SAGO (5.0%), PEANUTS (4.2%), MASUR (2.3%), DEHYDRATED PEAS (1.0%), IODISED SALT, SPICES & CONDIMENTS (TURMERIC POWDER, BISHOPS SEEDS. CHILLI POWDER), CITRIC ACID, RAISING AGENT [500(i), 341()] CONTAINS: NUTS LAST CHARACTER OF THE BATCH INDICATES THE NAME OF REFINED OIL. $-REFINED COTTON SEED OIL @-REFINED PALMOLEIN OIL. A PROPRIETARY FOOD-SNACKS (CATEGORY-15.1)",
+  "ingredients_raw": "REFINED OIL, FLATTENED RICE (24%), BESAN, SUGAR, CHANA DAL (9%), SAGO (5.0%), PEANUTS (4.2%), MASUR (2.3%), DEHYDRATED PEAS (1.0%), IODISED SALT, SPICES & CONDIMENTS (TURMERIC POWDER, BISHOPS SEEDS, CHILLI POWDER), CITRIC ACID, RAISING AGENT [500(i), 341()] CONTAINS: NUTS LAST CHARACTER OF THE BATCH INDICATES THE NAME OF REFINED OIL. $-REFINED COTTON SEED OIL @-REFINED PALMOLEIN OIL. A PROPRIETARY FOOD-SNACKS (CATEGORY-15.1)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901719120251",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -51,10 +37,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -62,6 +44,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

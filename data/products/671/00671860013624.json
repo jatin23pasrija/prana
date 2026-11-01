@@ -1,0 +1,46 @@
+{
+  "schema_version": 1,
+  "gtin": "00671860013624",
+  "barcode_printed": "0671860013624",
+  "barcode_format": "EAN-13",
+  "name": "Jigsimur gesondheldsdrankie",
+  "countries": [
+    "IN"
+  ],
+  "nutrition": [
+    {
+      "basis": "per_100g",
+      "values": {
+        "energy_kcal": 106,
+        "protein_g": 9,
+        "carbohydrate_g": 2,
+        "sugars_g": 0,
+        "fat_g": 5,
+        "saturated_fat_g": 3
+      }
+    }
+  ],
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0671860013624",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "nutrition": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904035422092",
+  "barcode_printed": "8904035422092",
+  "barcode_format": "EAN-13",
+  "name": "Honey and Almonds Body Lotion",
+  "brand": "joy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Mineral Oil, Glycerine, Glyceryl Monostearate, Cetyl Alcohol, Isopropyl Palmitate, Stearic Acid, Dimethicone, Triticum Vulgare (Wheat) Germ Oil, Lanolin Anhydrous, Propylene Glycol, Octyl Methoxycinnamate, Aloe Barbadensis (Aloe Vera) Leaf Extract, Honey Extract, Prunus Amygdalus Dulcis (Almond) Oil, Butyrospermum Parki (Shea) Butter, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Thethanolamine, Methyl Paraben, Disodium EDTA, Propyl Paran Butylated Hydroxytoluene, CI 15985, CI 19140, Perfume.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904035422092",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

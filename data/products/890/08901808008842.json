@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901808008842",
+  "barcode_printed": "8901808008842",
+  "barcode_format": "EAN-13",
+  "name": "Falooda - MIX Kesar Pista",
+  "brand": "weikfield",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Vermicelli, Maize Starch, Dextrose, Raisins, Basil Seeds (Sabja), Artificial flavoring substance (Kesar Pisto) Synthetic Food Colors (INS 102, INS 133). Allergens: contains wheat(gluten) May contain traces of milk and nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901808008842",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

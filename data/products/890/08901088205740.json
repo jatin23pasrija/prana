@@ -13,12 +13,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Rings# Oat flour (99.4%), Semolina (36.7%), Edible Vegetable Oil (Refined Rice Bran Oil), Wheat, Gluten, Iodised Salt, Stabilizers [INS 170(i)] Yummy Masala Mix*: Spices & Condiments (15.2%) [Onion, Cumin,Turmeric, Clove], Dehydrated Vegetables (3.6%) [Onions, Carrots], Sugar, Hydrolysed Vegetable Protein, Starch, Milk Solids, Iodised Salt, Maltodextrin,Flavour enhancers (INS 627, IMS 631), Anticaking Agent (INS 551),Thickener (INS 414), Natural and Nature-identical Flavouring Substances, Colour (INS 150d)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901088205740",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

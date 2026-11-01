@@ -8,27 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 478,
-        "protein_g": 5.8,
-        "carbohydrate_g": 66,
-        "sugars_g": 0.5,
-        "fat_g": 21.4,
-        "saturated_fat_g": 0.9,
-        "fibre_g": 0.3,
-        "sodium_mg": 70
-      }
-    }
-  ],
+  "ingredients_raw": "Corn Flour (43%), Rice Flour (27%), Edible Vegetable Oil (Rice Bran Oil), Seasoning {Sugar, Maltodextrin, Iodised Salt, Milk Solids, *Spices and Condiments (Contains Onion), Shortening Powder [Stabilizers (INS 339(ii), INS 340(ii), INS 407), Emulsifier (INS 471), Anticaking Agent (INS 551), Acidity Regulator (INS 331(iii))], Natural and Nature-Identical Flavouring Substances, Acidity Regulators (INS 296, INS 330), Flavour Enhancer (INS 635), Herb, Anticaking Agent (INS 551), Yeast Extract}, Refined Wheat Flour (Maida) (2.3%), Sugar, Potato Powder (1.4%), Spinach Powder (0.8%), Anticaking Agent (INS 170), Iodised Salt, Yeast Extract, Colour (INS 141(ii)) *Used as Natural Flavouring Agent",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906090570848",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -41,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

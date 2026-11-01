@@ -8,12 +8,19 @@
   "countries": [
     "IN"
   ],
+  "package": {
+    "quantity": {
+      "value": 1000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Milk Solids, Sugar, Jelly (6.6%) {Sugar, Corn Syrup, Fruit Pulp, Pectin (440). Acidity Regulator (330), CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (102,110,122,133). Class II Preservatives (224.221)}, Nuts (5.1%),Sugar Syrup (3.1%) (Acidity Regulator(330), Stabilisers (466,401,407), CONTAINS PERMITTED SYNTHETIC FOOD COLOURS (102) AND ADDED ARTIFICIAL PINEAPPLE FLAVOURING SUBSTANCES}, Fruits (3.1%), Compound Chocolate (2.5%) {Emulsifier (322, 476)}, Emulsifiers (471) and Stabilisers (412,466,407) CONTAINS ADDED NATURE IDENTICAL AND ARTIFICIAL ROSE AND FRUIT FLAVOURING SUBSTANCES.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901777729175",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +32,18 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

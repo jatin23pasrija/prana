@@ -7,12 +7,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Coconut Powder (25%), Refined Wheat Flour (Maida), Sugar, Hydrogenated Vegetable Fat (Palm, Palmolien), Milk, Butter, Milk Solids, Arrowroot Powder, Invert Sugar, Natural Flavour (Coconut And Vanilla) And Leavening Agent (Sodium Bicarbonate E500(ii) And Maize Starch).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904063258342",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +21,14 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

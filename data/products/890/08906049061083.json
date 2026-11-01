@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906049061083",
+  "barcode_printed": "8906049061083",
+  "barcode_format": "EAN-13",
+  "name": "All in one mixture",
+  "brand": "nakoda",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Flattened Paddy (13%), Corn Flakes (13%), Peanuts (10%), Gram Flour, Edible Vegetable Oil (Palmolein Oil), Sugar, Turmeric, Acidity Regulator (INS 330), lodized Salt, Kishmish, Curry Leaves & Mix Spices (Dry Mango Powder, Black Pepper Powder, Chilli Powder, Dry Ginger Powder).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906049061083",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

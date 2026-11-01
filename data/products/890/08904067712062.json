@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904067712062",
+  "barcode_printed": "8904067712062",
+  "barcode_format": "EAN-13",
+  "name": "Green Peas",
+  "brand": "jabsons",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 400,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Green Peas (65%), Refined Palmolein Oil, Salt, Sugar, Spices (Onion 0.5%, Garlic 0.7%, Parsley), Acidity Regulator (Citric Acid), Anti-caking Agent (Silicon Dioxide), Flavour Enhancer (Disodium Guanylate), Natural Color (Curcumin INS 100), Synthetic Color (Brilliant Blue INS 133).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904067712062",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

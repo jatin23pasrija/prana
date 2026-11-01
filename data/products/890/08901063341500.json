@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (64%), WATER, SUGAR, YEAST, IODISED SALT, VITAL WHEAT GLUTEN, REFINED PALMOLEIN OIL, SOYA FLOUR, PRESERVATIVES [282 & 200], DOUGH CONDITIONERS [516 & 170 (i)], EMULSIFIERS [472e, 471 & 481 (i)], REGULATOR [260], FLOUR TREATMENT AGENT [510] AND ANTIOXIDANT [300]. (Numbers in brackets are as per International Numbering System) CONTAINS WHEAT AND SOY.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063341500",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

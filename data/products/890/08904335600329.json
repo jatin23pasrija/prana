@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Whole Grains 66% {Rolled Oats, Rice Flakes, Quinoa Flakes}. Dark Chocolate Paste 12% (Sugar, Edible Vegetable Fat, Cocoa Solids, Soy Lecithin & Natural Flavours), Seeds & Nuts 10.8% (Chia, Flax. Almond, Pumpkin). Dehydrated Fruits 6.5% (Raisins. Cranberry 2.5%). Dates Syrup, Cocoa Powder. Rice Bran Oil, Natural Flavours, Jaggery Syrup. Cocoa Mass. Himalayan Pink Salt, Apple Fibre.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904335600329",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

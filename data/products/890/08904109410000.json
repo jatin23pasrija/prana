@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08904109410000",
+  "barcode_printed": "8904109410000",
+  "barcode_format": "EAN-13",
+  "name": "Instant Noodles with seasoning",
+  "category": "namkeen",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Noodles: {Wheat flour (Atta)- 80%), Rice bran oil, Edible common salt, Acidity regulator [ INS 500 (ii). INS 451(i)]. Anticaking agent [INS 170()]. Thickener (INS415). Seasoning Mix:- Spices & Condiments (Onion (5%), Garlic (4%), Chilli (4%), Cumin (2.5%), Turmeric (2%), Spice extracts}, Salt, Sugar, Dehydrated vegetables Cabbage, Carrot, Tomato (2%)), Hydrolyzed vegetable protein, Maltodextrin, Acidity regulator (INS 330, INS 296), Anticaking agent (INS 551), Sunflower oil, Dehydrated herb (Coriander (2%)), Flavour enhancer (INS 627, INS 631), Soya sauce powder, Yeast extract, Thickener (INS 415), Antioxidant (INS 319)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904109410000",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

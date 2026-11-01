@@ -8,25 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 106,
-        "protein_g": 1.4,
-        "carbohydrate_g": 10.1,
-        "sugars_g": 0.3,
-        "fat_g": 6.7,
-        "saturated_fat_g": 2.8
-      }
-    }
-  ],
+  "ingredients_raw": "POTATO (60.0%), REFINED PALMOLEIN, SEASONING {IODIZED SALT, RED CHILLI POWDER (1.1%), MALTODEXTRIN, SPICES AND CONDIMENTS, ONION POWDER, REFINED WHEAT FLOUR (MAIDA), NATURE IDENTICAL FLAVOURING SUBSTANCES, BLACK SALT, MILK SOLIDS, NATURAL FLAVOURS AND NATURAL FLAVOURING SUBSTANCES, SUGAR, TOMATO POWDER, HYDROLYZED VEGETABLE PROTEIN, GARLIC POWDER AND FLAVOUR ENHANCER (INS 508)} AND IODIZED SALT.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901725192327",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -39,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

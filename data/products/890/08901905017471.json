@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901905017471",
+  "barcode_printed": "8901905017471",
+  "barcode_format": "EAN-13",
+  "name": "stripe tease chocolate cake",
+  "brand": "monginis",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "CAKE BASE (APPROX 75 %): EGGS, REFINED WHEAT FLOUR (MAIDA), SUGAR, WATER, COCOA SOLIDS(1.06%), MALTODEXTRIN, CORN STARCH, IODISED SALT, HUMECTANTS(INS422, INS1520), EMULSIFIERS (INS435, INS471, INS491), ACIDITY REGULATOR(INS260), CREAM-(APPROX 25%):HYDROGENATED VEGETABLE OILS(PALMOLEIN, PALM OIL, PALM KERNEL OIL), SESAME OIL, INVERT SYRUP, COCOA SOLIDS (0.44%), IODIZED SALT, CONTAINS CLASS II PRESERVATIVES (INS282,INS200), CONTAINS PERMITTED NATURAL COLOR(INS 150(d)), CONTAINS ADDED FLAVOURS (ARTIFICIAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES [CHOCOLATE AND VANILLA].VITAMIN A.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901905017471",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

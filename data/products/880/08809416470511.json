@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08809416470511",
+  "barcode_printed": "8809416470511",
+  "barcode_format": "EAN-13",
+  "name": "Low PH good morning gel cleanser",
+  "brand": "cosrx",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, Cocamidopropyl Betaine, Sodium Lauroyl nicus Branch/Fruit/Leaf Extract, Butylene Glycol, Saccharomyces Methyl Isethionate, Sodium Chloride, Polysorbate 20, Styrax Japo - Ferment, Cryptomeria Japonica Leaf Extract, Nelumbo Nucifera Leaf Extract, Pinus Palustris Leaf Extract, Ulmus Davidiana Root raria Lobata Root Extract, Melaleuca Alternifolia (Tea Tree) Leaf Oil, Extract, Oenothera Biennis (Evening Primrose) Flower Extract, Pue Acid, Ethyl Hexanediol, 1,2-Hexanediol, Trisodium Ethylenediamine Allantoin, Caprylyl Glycol, Ethylhexylglycerin, Betaine Salicylate, Citric Disuccinate, Sodium Benzoate, Disodium EDTA",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8809416470511",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

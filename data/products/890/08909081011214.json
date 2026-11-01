@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "MAIDA (REFINED WHEAT FLOUR), SUGAR, REFINED PALM OIL, INVERT SYRUP, NUTS (0.9%) (CASHEW NUTS (0.85%), ALMONDS (0.05%)), RAISING AGENTS (500(8), 503(H), 450(1)), 10DIZED SALT, NATURE IDENTICAL FLAVOURING SUBSTANCES (BUTTER, NUT, VANILLA MONSTERS (MONO AND DIGLYCERIDES OF FATTY ACIDS (FROM PALM OIL), LECITHIN (FROM SOYABEAN), DIACETYLTARTARIC AND FATTY ACID ESTERS OF GLYCEROL (FROM SUNFLOWER AND PALM OILJE, ARTIFICIAL FLAVOURING SUBSTANCES (BUTTER), GHEE (0.01%), FLOUR TREATMENT AGENT (223), COLOUR (150). CONTAINS WHEAT, MILK, SOY, NUT, SULPHITE.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8909081011214",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904006307267",
+  "barcode_printed": "8904006307267",
+  "barcode_format": "EAN-13",
+  "name": "Wild Stone Red Body Deodorant",
+  "brand": "wild-stone",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 225,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "PROPANE, BUTANE, ISO BUTANE, EXTRA NEUTRAL ALCOHOL, PERFUME, PROPYLENE GLYCOL, ETHYLHEXYL GLYCERINE, OCTENIDINE HCI, BHT, TERTIARY BUTYL ALCOHOL, DENATONIUM BENZOATE, ALCOHOL CONTENT (95% v/v): 45.00% DENATURED WITH 0.000585% w/w DENATONIUM BENZOATE & 0.123% w/w TERTIARY BUTYL ALCOHOL.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904006307267",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

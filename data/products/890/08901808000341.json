@@ -13,26 +13,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 401.8,
-        "protein_g": 0.1,
-        "carbohydrate_g": 95.3,
-        "sugars_g": 93,
-        "fat_g": 2.2,
-        "saturated_fat_g": 1.9,
-        "sodium_mg": 64
-      }
-    }
-  ],
+  "ingredients_raw": "Sugar, Maltodextrin, Glucose Syrup Solids, Hydrogenated Palm Kernel Oil, Emulsifiers and Stabilizers (INS 472 a, INS 412, INS 471, INS 433, INS 407), Caseinate, Dextrose, Nature Identical Flavouring Substance (Strawberry), Iodised Salt, Colour (INS 122). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR AND ADDED FLAVOUR (NATURE IDENTICAL FLAVOURING SUBSTANCE - STRAWBERRY).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901808000341",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -45,13 +32,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

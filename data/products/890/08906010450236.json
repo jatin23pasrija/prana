@@ -15,27 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 530.14,
-        "protein_g": 7.78,
-        "carbohydrate_g": 51,
-        "sugars_g": 5.26,
-        "fat_g": 32.78,
-        "saturated_fat_g": 11,
-        "sodium_mg": 715
-      }
-    }
-  ],
   "ingredients_raw": "Potatoes, Refined Palmolien Oil, Edible Peanut Oil, lodized salt, Red Chilli Powder, Spices & Condiments Contains: No artificial colours, flavours or preservatives. Allergy Advice : Made in the facility that processes Peanuts, Treenuts Keep away from direct sunlight",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906010450236",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -56,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -67,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

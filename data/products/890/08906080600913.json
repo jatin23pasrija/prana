@@ -7,12 +7,19 @@
   "countries": [
     "IN"
   ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, SUGAR, MANGO PUREE (10%), IODISED SALT, SPICES AND CONDIMENTS (AMCHUR POWDER, CUMIN POWDER, PEPPER BLACK POWDER), LEMON JUICE CONCENTRATE (0.2%), ACIDITY REGULATOR (CITRIC ACID), NATURE-IDENTICAL AND NATURAL FLAVOURS, STABILIZERS (CARBOXY METHYL CELLULOSE AND GUAR GUM), ANTIOXIDANT (ASCORBIC ACID) AND BLACK SALT.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906080600913",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +27,18 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 300,
-        "energy_kj": 1255,
-        "protein_g": 5.8,
-        "carbohydrate_g": 52.2,
-        "sugars_g": 4.1,
-        "fat_g": 8.8,
-        "saturated_fat_g": 2.2,
-        "fibre_g": 6,
-        "sodium_mg": 459.2
-      }
-    }
-  ],
+  "ingredients_raw": "Pearled bajra flakes (42%), Pearled barley flakes (23%), Potato flakes (Potato, Margarine, Iodized salt and Turmeric), Soyabean oil, Dehydrated vegetables (5.5%) (Carrot (2.5%), Green beans (1.5%) and Peas (1.5%)), Iodized salt, Potassium chloride, Sugar, Mixed spices (1.7%) (Turmeric, Cumin, Coriander (0.3%), Aniseed, Black pepper (0.2%), Red chilli (0.1%), Fenugreek, Ginger, Cardamom (0.02%), Clove (0.02%) and Nutmeg (0.02%)), Green chilli, Flavour enhancers (627 & 631), Natural flavouring substances and Acidity regulator (330)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901058005752",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,13 +42,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009993171",
+  "barcode_printed": "8906009993171",
+  "barcode_format": "EAN-13",
+  "name": "Dreams Vanilla Cake",
+  "brand": "elite",
+  "category": "cakes",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 30,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "SUGAR, REFINED WHEAT FLOUR (MAIDA), LIQUID EGG, EDIBLE VEGETABLE OIL (RICE BRAN OIL), EDIBLE VEGETABLE FAT (INTERESTERIFIED EDIBLE OILS (PALM OIL AND PALM KERNEL OIL), WATER, EMULSIFIERS (INS 471, INS 435 AND INS 322), PRESERVATIVE (INS 202), ANTIOXIDANTS (INS 320 AND INS 330), SESAME OIL AND VITAMIN A), HUMECTANTS (INS 420 & INS 422), LIQUID GLUCOSE, IMPROVER (DEXTROSE, CORN FLOUR, LEAVENING AGENTS [INS 500(ii), INS 450(i) & INS 341(1)], IODIZED SALT, COCOA SOLIDS, EMULSIFIER [INS 481(i)], THICKENERS [INS 466 & INS 415] AND ACIDITY REGULATOR (INS 330)), CAKE IMPROVER (WATER, SUGAR AND EMULSIFIERS [INS 471, INS 470(1), INS 475 AND INS 433]), BAKING POWDER, PRESERVATIVES (INS 282 AND INS 202), 1ODIZED SALT, NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES(VANILLA), ACIDITY REGULATORS (INS 260 & INS 330). EMULSIFIER (INS 477) AND THICKENER (INS 415) ALLERGEN DECLARATION: CONTAINS WHEAT, EGG AND SOY MANUFACTURED IN THE SAME FACILITY THAT PROCESSES MILK AND TREE NUTS",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009993171",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

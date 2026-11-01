@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901277015327",
+  "barcode_printed": "8901277015327",
+  "barcode_format": "EAN-13",
+  "name": "Park Avenue Signature Collection Neo",
+  "brand": "park-avenue",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 220,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Ethyl Alcohol, Propellant, Perfume, Aqua, is Cyclopentasiloxane, Diethyl Phthalate, Triclosan ALCOHOL (95 % v/v) CONTENT: 60% w/w Contains 1% w/w",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901277015327",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

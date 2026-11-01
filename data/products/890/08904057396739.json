@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08904057396739",
+  "barcode_printed": "8904057396739",
+  "barcode_format": "EAN-13",
+  "name": "Flaovoured Milk - Chocolate",
+  "brand": "hatsun",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Milk Solids (Double Toned Milk), Sugar, Cocoa Solids (1.7%) and Natural Vanila Extract CONTAINS ADDED NATURAL FLAVOUR",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904057396739",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

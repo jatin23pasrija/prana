@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "WHEAT & WHEAT FLOUR (ATTA) (17.7%), CORN GRITS & CORN MEAL (17%), RICE (9.8%), SUGAR, ROLLED BARLEY (8.0%), ROLLED OATS (8.0%), ALMONDS (7%), SORGHUM (JOWAR) FLOUR (5.5%), RAGI FLOUR (5.2%), RAISINS (5%), PUMPKIN SEEDS (3%), CEREAL EXTRACT, OLIGOFRUCTOSE, WHEAT BRAN, COCOA SOLIDS, IODIZED SALT, CHOCO CRÈME {EMULSIFIER (INS 476)}, INVERT SUGAR, FLAVOURS {NATURE IDENTICAL & ARTIFICIAL (COCONUT, MARSHMALLOW, CARAMEL & VANILLA)}, VITAMINS, MINERALS, COLOUR (INS 150d) AND ANTIOXIDANT (INS 307b).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901499010469",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

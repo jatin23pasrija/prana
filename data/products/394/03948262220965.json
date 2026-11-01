@@ -13,12 +13,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Toppings (54%): Cheese (milk solids, iodized salt, microbial rennet, active culture), pizza sauce [water, tomato paste, sugar, spices & condiments (2%), milk solids, iodized salt, acidity regulator (260) and stabilizer (401)]. Base (46%): Bread [refined wheat flour, water, yeast, palm oil, milk solids, sugar, iodized salt, preservative (282), improver {soya flour, corn starch, anticaking agent (170), antioxidant (300), flour treatment agent (1100)}, emulsifier {481(i)}]",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/3948262220965",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

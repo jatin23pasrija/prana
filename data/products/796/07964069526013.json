@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "07964069526013",
+  "barcode_printed": "7964069526013",
+  "barcode_format": "EAN-13",
+  "name": "Original Sooper",
+  "brand": "sooper",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Wheat Flour (47%), Sugar, Vegetable Oil (Palm, Canola, Soybean, Cottonseed, Sunflower), Wheat Bran, Sugar, Eggs, Dextrose, Baking Salt, Milk Solids, Raising Agents (Sodium Bicarbonate, Ammonium Bicarbonate), Artificial Flavouring Substances, Permitted Food Colour (E129), Flavouring Substances",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/7964069526013",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

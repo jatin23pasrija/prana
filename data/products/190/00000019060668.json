@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "00000019060668",
+  "barcode_printed": "19060668",
+  "barcode_format": "EAN-8",
+  "name": "Wafer Biscuit",
+  "brand": "kravour",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Edible Vegetable Oil (Palm Oil), Cocoa Solids (5%), Dextrose, Edible Starch, Milk Solids, Edible Vegetable Fat, Emulsifier (E322), Edible Common Salt, Raising Agent [E500(ii)], Dough Conditioner [E223]. CONTAINS PERMITTED NATURAL FOOD COLOUR (E150d) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - CHOCOLATE, VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/19060668",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

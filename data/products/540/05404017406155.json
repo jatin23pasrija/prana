@@ -5,37 +5,17 @@
   "barcode_format": "EAN-13",
   "name": "Light Digest Whey Protein",
   "brand": "qnt",
+  "category": "protein-supplement",
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "36.33 g",
-        "quantity": {
-          "value": 36.33,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 122.6,
-        "protein_g": 24,
-        "carbohydrate_g": 3.2,
-        "sugars_g": 0.78,
-        "fat_g": 1.2,
-        "saturated_fat_g": 0.42,
-        "fibre_g": 1.5,
-        "sodium_mg": 85
-      }
-    }
-  ],
+  "ingredients_raw": "Whey Blend (Whey Protein Isolate, Whey Protein Concentrate, Whey Protein Hydrolysate), Alkalized Cocoa Powder, Fructooligosaccharides, Nature Identical Chocolate Flavor, Sodium Chloride, Thickener (INS 415), Dipotassium Hydrogen Phosphate, Thickeners (INS 466 & INS 407), Anti-Caking Agent (INS 551), Sweeteners (INS 955 & INS 950), Astaxanthin, Coenzyme Q10, Digestive Enzymes (Protease, Hemicellulase, Cellulase, Lipase, Papain, Fungal Diastase), & D-Biotin. Allergen Information: Contains milk. May contain Soy and nuts.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/5404017406155",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -48,13 +28,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -8,26 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 579,
-        "protein_g": 11,
-        "carbohydrate_g": 46,
-        "sugars_g": 3,
-        "fat_g": 39,
-        "saturated_fat_g": 17,
-        "sodium_mg": 1450
-      }
-    }
-  ],
+  "ingredients_raw": "Edible Vegetable Oil (Palmolein Oil), Potato Flakes, Gram Flour, Corn Flour, Tepary Beans Flour, Tapioca starch, Potato Starch *Spices and Condiments (Coriander Powder, Cumin Powder, Red Chilli powder, Black Pepper Powder, Turmeric Powder, Ginger Powder, Big Cardamom Powder, Clove Powder, Onion Powder, Garlic Powder, Spice Extract), Iodised Salt, Sugar Powder, Maltodextrin, Dextrose, Milk Solids, Acidity Regulators (INS 330 & INS 296), Flavour Enhancers (INS 627 & INS 631) and natural & nature identical flavouring substances.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904063253804",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

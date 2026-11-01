@@ -3,17 +3,19 @@
   "gtin": "08906090573047",
   "barcode_printed": "8906090573047",
   "barcode_format": "EAN-13",
-  "name": "Too yummy Chips green",
+  "name": "Chips American Style Cream & Onion",
+  "brand": "too-yumm",
   "category": "chips",
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Potato (56%), edible vegetable oil (rice bran oil), seasoning (sugar, maltodextrin, iodised salt, spices & condiments [onion powder (0.8%), parsley powder], milk products (milk solids, cheese powder) (0.9%), flavour enhancers (INS 627, INS 631), gelling agent (INS 508), anticaking agent (INS 551), stabilizer (INS 414), natural and nature identical flavouring substances).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906090573047",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -22,13 +24,21 @@
       "source": "s1",
       "confidence": "medium"
     },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
     "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

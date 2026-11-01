@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08909081018145",
+  "barcode_printed": "8909081018145",
+  "barcode_format": "EAN-13",
+  "name": "Medhe Medhe Masala Tadka",
+  "brand": "bingo",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cereals and pulses mix (rice grits, degermed corn grits, Bengal gram grits, pea grits), edible vegetable oil and seasoning (onion powder, spices and condiments, iodized salt, maltodextrin, sugar, flavour enhancers (508, 635), black salt, hydrolyzed vegetable protein, acidity regulators (malic acid, citric acid, tartaric acid), garlic powder, nature identical flavouring substances and natural flavours and natural flavouring substances)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909081018145",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

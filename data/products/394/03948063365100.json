@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Refined Wheat Flour (maida), Sugar, Eggs, Refined Vegetable Fat /interesterified Vegetable Fat, Sesame Oil, Emulsifier 1471), Antioxidant (319) & Vitamin Ai, Humectants (422 & 420 (i, Refined Palmolein Oil, Licensed By High Maltose Syrup, Edible Maize Starch, Liquid Glucose, Cocoa Solids (1%, Colours (150 & 150d), Nature Identical & Artificial (vanilla) Flavouring Substances, Raising Agents (3410), 500(i & 450(0), Care Gel (gaulshers And Stablizers Cat & St Land Humestant A 20 Wit Inter Sugar Strup, Lodised Sält, Preservatives (202, 200 & 282, Baking Powder, Acidity Regulator (330 And Stabilizer (415).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/3948063365100",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

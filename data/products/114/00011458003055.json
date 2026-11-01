@@ -14,26 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 321,
-        "protein_g": 9.9,
-        "carbohydrate_g": 63.7,
-        "sugars_g": 7.2,
-        "fat_g": 3,
-        "saturated_fat_g": 2.9,
-        "sodium_mg": 726.1
-      }
-    }
-  ],
+  "ingredients_raw": "MACARONI (PASTA): Semolina (Wheat) (100%). Cheese TASTEMAKER: Milk solids, Potato, Iodized salt, Starch, Sugar, Cheese (5.8%), Dehydrated Sweetcorn (5.5%), Maltodextrin, Palm oil, Black pepper powder, Flavour enhancer (635), Roasted garlic flakes, Thickener (508), Dehydrated spring onion (0.4%), Natural flavour, Oregano bits, Margarine and Turmeric.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0011458003055",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -50,13 +37,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

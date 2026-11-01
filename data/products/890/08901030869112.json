@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030869112",
+  "barcode_printed": "8901030869112",
+  "barcode_format": "EAN-13",
+  "name": "Ponds Body powders",
+  "brand": "ponds",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "TALC HYDRATED MAGNESIUM SILICATEL CALCU CARBONATE, TITANIUM DIOXIDE, FRAGRANCE, NIACINAMIDE DIPROPYLENE GLYCOL, TITANIUM DIOXIDE&ALUMINUM HYDROXIDE&STEARIC ACID, ALPHA-ISOMETHYL IONONE BENZYL ALCOHOL, CITRONELLOL, EUGENOL, GERANIOL ISOEUGENOL, LIMONENE, LINALOOL, CI 77492, CI 77491, CIT USAGE",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030869112",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

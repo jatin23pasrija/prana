@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901044220060",
+  "barcode_printed": "8901044220060",
+  "barcode_format": "EAN-13",
+  "name": "Orange Marmalade",
+  "brand": "mapro",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 260,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Orange Juice (45%), Water, Orange Peels (5%), Acidity Regulator (INS-330), Thickener (INS-440), Preservative (INS-211). CONTAINS PERMITTED SYNTHETIC FOOD COLOUR (INS-110) AND ADDED FLAVOURS-NATURAL, NATURE IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES (ORANGE)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901044220060",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

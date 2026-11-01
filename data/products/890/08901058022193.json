@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901058022193",
+  "barcode_printed": "8901058022193",
+  "barcode_format": "EAN-13",
+  "name": "Maggi Noodles",
+  "brand": "maggi",
+  "category": "noodles",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 70,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Noodles: refined wheat flour (maida), palm oil, iodized salt, wheat gluten, thickeners (508 & 412), acidity regulators (501(i) & 500(ii)) and humectant (451(i)). Masala TASTEMAKER: mixed spices (26.2%) (onion powder, coriander powder, red chilli powder, turmeric powder, garlic powder, cumin powder, aniseed powder, ginger powder, fenugreek powder, black pepper powder, toasted onion powder, clove powder, green cardamom powder, nutmeg powder), hydrolysed groundnut protein, refined wheat flour (maida), sugar, starch, palm oil, iodized salt, thickener (508), acidity regulator (330), flavour enhancer (635), colour (150d), mineral and wheat gluten.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901058022193",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

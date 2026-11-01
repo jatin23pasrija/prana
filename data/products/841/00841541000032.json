@@ -15,29 +15,13 @@
       "unit": "ml"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 39.9,
-        "protein_g": 5.5,
-        "carbohydrate_g": 1.2,
-        "sugars_g": 0.5,
-        "fat_g": 1.7,
-        "saturated_fat_g": 0.3,
-        "trans_fat_g": 0,
-        "fibre_g": 0.3,
-        "sodium_mg": 59.6
-      }
-    }
-  ],
   "ingredients_raw": "Water, Soybeans-18%,Soy Protein-1.8%,Minerals,Edible Common Salt, Stabilizer (INS 407), Nature Identical, Flavoring (Vanilla), Vitamins, Acidity Regulator (INS 500(ii))",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0841541000032",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -58,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -69,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

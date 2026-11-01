@@ -15,35 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "30g",
-        "quantity": {
-          "value": 30,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 117,
-        "protein_g": 2.6,
-        "carbohydrate_g": 25.2,
-        "sugars_g": 9,
-        "fat_g": 0.9,
-        "saturated_fat_g": 0.4,
-        "fibre_g": 1.1,
-        "sodium_mg": 120
-      }
-    }
-  ],
   "ingredients_raw": "Wheat Solids (54.2%) (Wheat Flour (Atta) (29.6%), Refined Wheat Flour (Maida) (24.6%)), Sugar, Corn Flour, Cocoa Solids (5.6%), Minerals, Cereal Extract, Edible Vegetable Oil (Palmolein), lodized Salt, Colour (INS 150d), Vitamins, Antioxidant (INS 320). CONTAINS PERMITTED NATURAL COLOUR & ADDED FLAVOURS (NATURE IDENTICAL & ARTIFICIAL CREAM FLAVOURING SUBSTANCES) CONTAINS GLUTEN. MAY CONTAIN TRACES OF TREENUT.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901499010773",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -64,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -75,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

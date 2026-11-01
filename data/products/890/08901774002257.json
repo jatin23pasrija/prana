@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901774002257",
+  "barcode_printed": "8901774002257",
+  "barcode_format": "EAN-13",
+  "name": "Badshah Curry Masala 100g",
+  "brand": "badshah",
+  "category": "spices",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Cassia leaves, coriander, garlic, onion, turmeric, black pepper, cumin, dry mango, iodised salt, kasuri methi, dry ginger, clove sticks, trifla, big cardamom, star aniseed, kachadi.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901774002257",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901071701372",
+  "barcode_printed": "8901071701372",
+  "barcode_format": "EAN-13",
+  "name": "Hershey's spreads",
+  "brand": "hershey-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 350,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, Edible vegetable oil (palm oil), Milk solids, Cocoa solids (4.7%), Älmond paste (3.0%), Antioxidant 3220, Hydrogenated vegetable fat (palm oil & sesame oil) and Edible common salt. Carbohy (of whic Protein Fat",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901071701372",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

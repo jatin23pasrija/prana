@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Cereal Extract (44%) [Malted Barley (13%), Barley (11%), Wheat Malt (11%), Wheat (9%)], Sugar, Cocoa Powder (6%), Wheat Gluten, Minerals, Milk Solids (2%), Soy Protein Isolate, Emulsifier (INS 471), Liquid Glucose, Natural Colour (INS 150c), Nature Identical Flavouring Substances, Acidity Regulators [INS 501 (ii), INS 500 (ii)], Vitamins, Edible Iodized Salt.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901030985980",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

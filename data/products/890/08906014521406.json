@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906014521406",
+  "barcode_printed": "8906014521406",
+  "barcode_format": "EAN-13",
+  "name": "Gokul Santol Pure Sandalwood Talcum Powder",
+  "brand": "gokul-santol",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 140,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "TALC, STARCH, CALCIUM CARBONATE, SANDALWOOD, TITANIUM DIOXIDE, MAGNESIUM STEARATE, MAGNESIUM CARBONATE, FRAGRANCE.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906014521406",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -8,34 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "1 portion (38 g)",
-        "quantity": {
-          "value": 38,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 146,
-        "protein_g": 24,
-        "carbohydrate_g": 8.26,
-        "sugars_g": 4.01,
-        "fat_g": 1.9,
-        "saturated_fat_g": 1.14,
-        "fibre_g": 1.72,
-        "sodium_mg": 69.4
-      }
-    }
-  ],
+  "ingredients_raw": "Whey Protein Concentrate, Alkalized Cocoa Powder, Natural Flavour - Coffee Flavour & Others, Coffee Powder, Guar Gum (INS 412), Sunflower Lecithin (INS 322), Enzyme Blend Digizyme (Alpha-Amylase, Neutral Protease, Cellulase, Lactase, Lipas), Stevia Extract (INS 960), Thaumatin (INS 957)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8939122245308",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -48,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

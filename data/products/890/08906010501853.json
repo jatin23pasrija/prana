@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010501853",
+  "barcode_printed": "8906010501853",
+  "barcode_format": "EAN-13",
+  "name": "Sev Murmura",
+  "brand": "balaji-wafers",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 240,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "PUFFED RICE (47%), CHICKPEA FLOOR, EDIBLE VEGETABLE OIL (CONTAINS ONE MORE OF THE FOLLOWINGS: PALMOLEIN, RICE BRAN, CORN, COTTONSEED), RICE FLOUR, EDIBLE COMMON SALT, **SEASONING [SPICES & CONDIMEN (TURMERIC, CHILLI, CLOVE, GINGER, COMPOUNDED ASAFOETIDA (WHEAT FLOUR, GUM ACACIA, ASAFOETIDA), CURRY LEAVES)) *AS SEASONING AGENT",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010501853",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

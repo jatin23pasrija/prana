@@ -5,15 +5,17 @@
   "barcode_format": "EAN-13",
   "name": "Super Protein Bread",
   "brand": "the-health-factory",
+  "category": "bread",
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Whole Wheat Flour (Atta), Protein Blend (Soya Protein Isolate, Pea Protein Isolate, Wheat Protein Isolate, Soya Flour, Defatted Peanut Flour, Whey Protein Concentrate), Wheat Gluten, Yeast, Vinegar, Rice Bran Oil (Edible Vegetable Oil), Cane Sugar, lodised Salt, Cultured Wheat Flour, Cultured Glucose.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908009059574",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +27,18 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

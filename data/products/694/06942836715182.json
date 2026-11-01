@@ -4,6 +4,7 @@
   "barcode_printed": "6942836715182",
   "barcode_format": "EAN-13",
   "name": "Hersheys syrup indulgent caramel flavor",
+  "brand": "hershey-s",
   "countries": [
     "IN"
   ],
@@ -13,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "CORN SYRUP, HIGH FRUCTOSE CORN SYRUP, WATER, SUGAR, SKIMMED MILK POWDER, ACIDITY REGULATOR (DISODIUM PHOSPHATE (E339(ii))), NATURAL COLOUR (CARAMEL (E150A)); ACIDITY REGULATOR (SODIUM CITRATE (E331)), ARTIFICIAL FLAVOUR (CARAMEL), SALT, PRESERVATIVE (POTASSIUM SORBATE (E202)), EMULSIFIER (CITRIC ACID ESTER (E472C)), THICKENING AGENT (XANTHAN GUM (E415)).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/6942836715182",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -27,13 +29,21 @@
       "source": "s1",
       "confidence": "medium"
     },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
     "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

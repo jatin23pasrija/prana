@@ -9,12 +9,19 @@
   "countries": [
     "IN"
   ],
+  "package": {
+    "quantity": {
+      "value": 250,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Wheat Flour (Maida) (68%), Sugar, Refined Palm Oil, Invert Sugar Syrup #Isugar, Citric Acidi, Iodised Salt, Raising Agents [503 (I), 50l Milk Solids, Flour Treatment Agent [1101 ( Ii )] And Emulsifier Of Vegetable Origin [472e]. Contains Added Flavour (Artificial Flavouring Substances - Vanilla ) *(D - Glucose, Levulose )",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901719123870",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +37,18 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

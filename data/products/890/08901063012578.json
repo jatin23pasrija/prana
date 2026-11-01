@@ -9,27 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 467,
-        "protein_g": 8.5,
-        "carbohydrate_g": 72.8,
-        "sugars_g": 23.1,
-        "fat_g": 16.9,
-        "saturated_fat_g": 8.4,
-        "fibre_g": 5.4,
-        "sodium_mg": 332
-      }
-    }
-  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida) (63%), Sugar, Edible Vegetable Oil (Palm), Milk Solids (2%), Invert Syrup, Raising Agents [503(ii), 500(ii)], Iodised Salt, Emulsifiers [322(i), 471], Calcium Salt, Vitamins* And Potassium Iodate.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063012578",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -46,13 +32,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

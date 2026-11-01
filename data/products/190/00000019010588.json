@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 434,
-        "protein_g": 8.5,
-        "carbohydrate_g": 64.9,
-        "sugars_g": 1.7,
-        "fat_g": 15.6,
-        "saturated_fat_g": 7.2,
-        "fibre_g": 2,
-        "sodium_mg": 1255.1
-      }
-    }
-  ],
   "ingredients_raw": "Tastemaker: Mixed spices (Dehydrated onion, Dehydrated onion bits, Dried garlic powder (3%), Red chilli flakes (3%), Black pepper powder (2.3%), Dried garlic bits (2%), Red chilli powder (0.9%), Spice extract blend (Capsicum extract, Coriander extract, Cumin extract), Turmeric powder, Nutmeg powder), Sugar, Noodle powder (Refined wheat flour (Maida), Palm oil, Iodised salt, Gluten, Thickeners (508, 412), Acidity Regulators (501(i), 500 (i)), Humectant (451(i))), Iodised salt, Starch, Dehydrated chicken powder (Chicken meat (5.7%), Chicken fat (0.3%), Humectant 420(ii), Iodised salt, Onion, Dehydrated bread, Acidity regulator (330)), Thickener (508), Flavour enhancer (635), Liquid chicken fat (Chicken fat (1.9%), Acidity Regulator (330), Sunflower oil, Antioxidants (307(b), 320)), Caramel salt mix (Iodised salt, Colour (150d), Palm oil), Palm oil, Acidity Regulator (330), Mineral (Ferric pyrophosphate) and Dehydrated kasuri methi leaves. CONTAINS PERMITTED NATURAL COLOUR AND ADDED FLAVOURS (NATURAL FLAVOUR AND NATURE IDENTICAL FLAVOURING SUBSTANCES). May contain Eggs, Milk solids and Soya.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/19010588",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

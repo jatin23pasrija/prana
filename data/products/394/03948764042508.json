@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "03948764042508",
+  "barcode_printed": "3948764042508",
+  "barcode_format": "EAN-13",
+  "name": "Thums Up",
+  "brand": "thums-up",
+  "category": "soft-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 2000,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Carbonated water, sugar, acidity regulator (338), caffeine (8.3 mg/100 g), colour (150 d), flavours (natural, nature-identical & artificial (cola) flavouring substances).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948764042508",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

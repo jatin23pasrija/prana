@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908017667150",
+  "barcode_printed": "8908017667150",
+  "barcode_format": "EAN-13",
+  "name": "Ready to Serve Carbonated Water (Sweetened Carbonated Beverage)",
+  "category": "water",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "CARBONATED WATER, SUGAR, SALT, PERMITTED CLASS II PRESERVATIVE (INS 211), SWEETNER (951-950). CONTAINS NATURAL COLOUR (INS 150d), PERMITTED SYNTHETIC FOOD COLOUR (INS 122), CONTAINS ADDED FLAVOURS (NATURAL HERBS & SPICE EXTRACT AND NATURE IDENTICAL FLAVOURING SUBSTANCES).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908017667150",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -9,34 +9,19 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "62 g",
-        "quantity": {
-          "value": 62,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 244,
-        "protein_g": 2.4,
-        "carbohydrate_g": 24,
-        "sugars_g": 21.4,
-        "fat_g": 15.6,
-        "saturated_fat_g": 11.7,
-        "fibre_g": 0.9,
-        "sodium_mg": 37
-      }
+  "package": {
+    "quantity": {
+      "value": 62,
+      "unit": "g"
     }
-  ],
+  },
+  "ingredients_raw": "FROZEN DESSERT (53.2%): WATER, SUGAR, PALM OIL, MILK SOLIDS, LIQUID GLUCOSE, COCOA SOLIDS, EMULSIFIER (E471), VEGETABLE PROTEIN (SOY), STABILIZERS (E412, E417, E407, E410), NATURE IDENTICAL & ARTIFICIAL (VANILLA & MILK) FLAVOURING SUBSTANCES, FOOD COLOURS - NATURAL(E150d), E122, E102, E133. OUTER COATING (25.8%): CADBURY DAIRY MILK (SUGAR, MILK SOLIDS (23%), COCOA BUTTER, COCOA SOLIDS, EMULSIFIERS (E442, E476), FLAVOURS (NATURAL, NATURE IDENTICAL AND ARTIFICIAL (VANILLA) FLAVOURING SUBSTANCES)), COCONUT OIL, MILK SOLIDS, EMULSIFIER (E322), HONEYCOMB PIECES (SUGAR, LIQUID GLUCOSE, COCOA BUTTER, RAISING AGENT (E500(ii)), IODIZED SALT). INNER CORE (21%): INTERESTERIFIED VEGETABLE FAT, SUGAR, COCOA SOLIDS, EMULSIFIER - E322, ARTIFICIAL (CHOCOLATE & VANILLIN) FLAVOURING SUBSTANCES, SESAME OIL, VITAMIN A. CONTAINS MILK AND SOY. MAY CONTAIN TREE NUTS, WHEAT AND BARLEY.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901030538162",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -53,13 +38,17 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

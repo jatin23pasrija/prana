@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08905110003168",
+  "barcode_printed": "8905110003168",
+  "barcode_format": "EAN-13",
+  "name": "Savlon germ protection wipes",
+  "brand": "itc",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "AQUA, GLYCERIN, FRAGRANCE, DECYL GLUCOSIDE, BENZALKONIUM CHLORIDE, POLYOXYETHYLENE 20 SORBITAN MONOLAURATE, DMDM HYDANTOIN, PROPYLENE GLYCOL, PHENOXYETHANOL, DISODIUM EDTA, BENZYL ALCOHOL, CITRAL, CITRONELLOL, GERANIOL, HEXYL CINNAMAL, LIMONENE, LINALOOL",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8905110003168",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

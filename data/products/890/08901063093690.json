@@ -3,17 +3,18 @@
   "gtin": "08901063093690",
   "barcode_printed": "8901063093690",
   "barcode_format": "EAN-13",
-  "name": "Britannia Good Day Casio cookie",
+  "name": "526 Good day",
   "category": "biscuits",
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), REFINED PALM OIL, SUGAR, INVERT SUGAR SYRUP, CASHEW (1.4%), MILK PRODUCTS [MILK SOLIDS & BUTTER (0.1%)], RAISING AGENTS [503(ii) & 500(ii)], IODISED SALT, EMULSIFIERS [322(i), 471 & 472e] AND NATURE IDENTICAL & ARTIFICIAL (VANILLA & MILK) FLAVOURING SUBSTANCES.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063093690",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

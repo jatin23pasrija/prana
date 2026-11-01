@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08908019084450",
+  "barcode_printed": "8908019084450",
+  "barcode_format": "EAN-13",
+  "name": "Drinking Water",
+  "brand": "johnnie-walker",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 750,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "TREATED WATER, MINERALS (SALTS OF CALCIUMI2.5 ma), MAGNESIUM2.5* mg) AND SODIUM(1* mg) &quot;AĎDED QUANTITY PER 10oml",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908019084450",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

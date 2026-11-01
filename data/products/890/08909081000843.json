@@ -5,6 +5,7 @@
   "barcode_format": "EAN-13",
   "name": "Jaggery oats Cookies",
   "brand": "right-shift",
+  "category": "biscuits",
   "countries": [
     "IN"
   ],
@@ -14,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Cereal Products (49.6%) [Wheat Flour (Atta) (19.1%), Oats Flour (15.6%), Rolled Oats (14.9%)], Refined Rice Bran Oil, Cane Jaggery (16.5%), Almond Bits (5.5%), Watermelon Seeds (1.8%), Raising Agents (Baking Soda), Oligofructose (Dietary Fibre), Liquid Glucose, Milk Solids, Emulsifiers [Mono and diglycerides of fatty acids (From Rice Bran Oil), Lecithin (From Soyabean)], Thickener [Ethyl cellulose (From Cotton Linter)], Iodized Salt, Nature Identical Flavouring Substances, Stabilizer (Xanthan Gum), Vitamins. Contains Wheat, Milk, Soy, Oats, Nut. May Contain Sulphite.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8909081000843",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -32,13 +34,21 @@
       "source": "s1",
       "confidence": "medium"
     },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
     "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

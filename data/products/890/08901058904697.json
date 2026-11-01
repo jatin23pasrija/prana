@@ -14,27 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 337,
-        "protein_g": 9.8,
-        "carbohydrate_g": 40.1,
-        "sugars_g": 23,
-        "fat_g": 11.5,
-        "saturated_fat_g": 8.8,
-        "fibre_g": 5,
-        "sodium_mg": 794.4
-      }
-    }
-  ],
+  "ingredients_raw": "NOODLES: Flour blend (Oat flour (42.6%) & Wheat Flour (Atta)), Palm oil, Wheat gluten, Iodized salt, Thickeners (508 & 412), Humectants (451(i) & 452(i)) and Acidity Regulators (501(i) & 500 (i)). Masala *TASTEMAKER®: Mixed Spices (25%) (Onion powder, Coriander powder, Garlic powder, Red chilli powder, Turmeric powder, Dehydrated kasuri methi leaves, Cumin powder, Aniseed powder, Red chilli bits, Ginger powder, Black pepper powder, Fenugreek powder, Cumin, Capsicum extract, Compounded asafoetida, Green cardamom powder, Star anise powder, Cinnamon powder, Clove powder, Nutmeg powder, Bay leaf, Black cardamom powder, Coriander extract and Cumin extract), Onion (17.2%), Dehydrated Vegetables (Carrot (7.5%) & Sweet corn (7.3%)), Sugar, Wheat flour (atta), Iodized salt, Thickener (508), Flavour enhancer (635), Yeast extract powder, Palm oil, Starch, Acidity regulator (330), Corn oil and Mineral. Contains Oats and Wheat. May Contains Milk and Soy.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901058904697",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -51,13 +37,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

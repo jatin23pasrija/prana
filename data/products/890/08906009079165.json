@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 471,
-        "protein_g": 5.8,
-        "carbohydrate_g": 68,
-        "sugars_g": 29,
-        "fat_g": 19.5,
-        "saturated_fat_g": 12.2,
-        "trans_fat_g": 0,
-        "sodium_mg": 213
-      }
-    }
-  ],
   "ingredients_raw": "Refined Wheat Flour (Maida), Chocolate Chips (21%) [Sugar, Cocoa Solids, Cocoa Butter, Dextrose, Emulsifiers (INS 322 from Soy, INS 476)], Sugar, Edible Vegetable Oil (Palm), Desiccated Coconut, Butter, Milk Solids, Leavening Agents (INS 503 i INS 500 i), Emulsifier (INS 322 from Soy), lodised Salt, Artificial Flavouring Substance (Vanillin). Allergen Advice: Contains Wheat, Milk and Soy. May contain traces of Nut.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906009079165",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

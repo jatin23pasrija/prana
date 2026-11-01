@@ -3,25 +3,19 @@
   "gtin": "08901058851304",
   "barcode_printed": "8901058851304",
   "barcode_format": "EAN-13",
-  "name": "Maggi Masala Noodles",
-  "brand": "nestle",
+  "name": "Maggi Noodles Masala 140Grm Pc",
+  "brand": "maggi",
   "category": "noodles",
   "countries": [
     "IN"
   ],
-  "package": {
-    "quantity": {
-      "value": 70,
-      "unit": "g"
-    }
-  },
   "ingredients_raw": "Wheat flour, Palm oil, Salt, Wheat gluten, calcium carbonate, Thickeners(508 & 412), Acidity regulators (501i & 500i), Humectant (451i), Masala Tastemaker (hydrolysed groundnut protein, mixed spices, Noodle powder, Palm oil, Salt, Wheat gluten, Calcium carbonate, Thickeners (508 & 412), acidity regulators (501i & 500i), Sugar, Edible starch, Ferric pyrophosphate)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901058851304",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -38,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "package": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -49,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

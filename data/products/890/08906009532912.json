@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009532912",
+  "barcode_printed": "8906009532912",
+  "barcode_format": "EAN-13",
+  "name": "Max Protein No Maida 7 Grains Choco Chips 10g Protein Cookies",
+  "brand": "rite-bite",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 55,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Protein Blend 25% (High Protein Peanut Flour, Wheat Protein, Soy Protein Isolate, Whey Protein Concentrate), Edible Vegetable Fat (Hydrogenated), Rice Bran Oil, Invert Syrup, Condensed Milk, Dietary Fiber (Fructooligosaccharide, Gum Acacia), Multigrain And Pulse Mix (Wheat, Corn, Oats, Ragi, Quinoa, Amaranth, Roasted Chickpea), Raisins (4%), Sugar, Butterscotch Balls, Cranberries (2%), Cashew Nuts(3%), Humectant (Glycerine), Dried Black Currants(2%), Leavening Agent (Baking Powder), Tricalcium Phosphate, Emulsifiers (INS471, INS472e, INS322(i)-Soy Lecithin), Salt, Antioxidant (Rosemary Extract)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009532912",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

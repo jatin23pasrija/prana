@@ -9,31 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "1 portion (40 g)",
-        "quantity": {
-          "value": 40,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 167,
-        "protein_g": 10,
-        "carbohydrate_g": 25.8,
-        "fat_g": 2.61,
-        "fibre_g": 3
-      }
-    }
-  ],
+  "ingredients_raw": "Multigrain Blend (Urad dal, Rice flour, Jowar, Chickpea), Soya Protein Isolate, Tapioca Starch, Rice Bran Oil, Spices & Condiments (Chilli, Black Pepper, Oregano, Parsley, Dehydrated Vegetable Powder (Garlic & Onion), Tamarind, Lemon Powder, Salt, Skimmed Milk Powder),Citric Acid (INS 330)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908024977211",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -50,13 +32,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

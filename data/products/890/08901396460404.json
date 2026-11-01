@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901396460404",
+  "barcode_printed": "8901396460404",
+  "barcode_format": "EAN-13",
+  "name": "Colin Glass Multisurface Cleaner",
+  "brand": "colin",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 125,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Colm Colin Glass and Household Cleaner with the power of Shine Boosters not only removes dirt and dust but also gives &quot;2 times more Shine** than regular cleaners across glass & shiny surfaces. Perfect for cleaning: Glass/Mirror Appliances Sat/Surfaces&quot; Kitchen Cabinet Directions for use: Tum the nozzle to Spray or Stream position and apply fine mist over the surface. Wipe with clean & dry cotton cloth to get complete clean and &quot;2 time more Shine&quot; across surfaces. Caution: Unplug electrical and electronic appliances before using the product. For external surface usage only Spray and wipe off immediately to avoid seepage into grooves and openings of the appliances Avoid direct spray on electronic screens Check user manual of electronic appliances before using liquid cleaner Test on hidden area of surfaces before use Keep out of reach of children. In case of contact with eyes, rinse with plenty of water and seek medical advice If swallowed, rinse mouth with water and seek medical advice immediately. Colin is a registered trademark of Reckitt Benckiser (India) Pvt. Ltd. Mfd. & Mktd. by: Reckitt Benckiser (India) Pvt. Ltd., Read first letter of Batch No. for manufacturing address. U-18-96, Eldeco SIDCUL Indi. Park, Sitarganj Uttarakhand-262405] H-Unit-II, 176, SIPCOT Indil. Complex, Hosur, Tamil Nadu-635126) Contact us: RB Consumer Care PO Box No. 13. Head Post Office, Sadar Bazar, Gurugram-122001 Toll Free Number: 1800 102 7245 Email: indiahelp@rb.com",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901396460404",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

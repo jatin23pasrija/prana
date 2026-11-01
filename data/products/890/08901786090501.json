@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Coriander, Dried Mango, Chilli, Cumin, Cassia Leaf, Mint Leaf, Pomegranate seed, Mustard, Cassia Bark (Taj), Clove, Black Pepper, Fennel, Dried Ginger, Iodized Salt, Black Salt, Nutmeg, Mace, Caraway, Black Cardamom, Turmeric, Bishop's Weed, Compounded Asafoetida, Tamarind and Citric Acid.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901786090501",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

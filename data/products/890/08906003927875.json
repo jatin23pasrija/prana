@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Potato, Refined (Palmolein / Cotton Seed / Rice Bran) Oil, Iodised Salt, Sugar, Maltodextrin, *Spices & Condiments (Onion Powder, Red Chilli Powder, Clove Powder), Fruit Powder, Tomato Powder, Acidity Regulators (INS 330, INS 334), Raising Agents [INS 500 (i), INS 503 (ii)], Flavour Enhancers (INS 627, INS 631), Anticaking Agents (INS 551, INS 470) and Class II Preservative [INS 262 (ii)]. CONTAINS ADDED NATURAL AND NATURE IDENTICAL FLAVOURING SUBSTANCES.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906003927875",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

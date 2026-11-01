@@ -9,28 +9,19 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 388.42,
-        "protein_g": 6.8,
-        "carbohydrate_g": 83.24,
-        "sugars_g": 6.12,
-        "fat_g": 3.13,
-        "saturated_fat_g": 0.87,
-        "fibre_g": 4.83,
-        "sodium_mg": 473.5
-      }
+  "package": {
+    "quantity": {
+      "value": 475,
+      "unit": "g"
     }
-  ],
+  },
   "ingredients_raw": "Corn Grits (91.48%), Sugar, lodised Salt, Malt Extract. Emulsifier [INS 322 (i)], Antioxidant (INS 320).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8902570811227",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -47,7 +38,7 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "package": {
       "source": "s1",
       "confidence": "medium"
     },
@@ -58,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

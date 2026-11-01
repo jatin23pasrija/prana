@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901088210577",
+  "barcode_printed": "8901088210577",
+  "barcode_format": "EAN-13",
+  "name": "Hair Oil",
+  "brand": "nihar-naturals",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 175,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Mineral Oil (68.9%v/v), Vegetable Oils including Amla extract (30.1% v/v), Almond Oil, Fragrance, Menthol, Camphor, TBHQ, Vitamin E acetate, Hydrogenated Coconut Oil, CI 61565, CI 12740, CI 26100. Mktd. by: Marico Ltd., 175, CST Road, Kalina, Mumbai, MH-400 098. Mfd. & Pkd. by: See first and second letter of batch number (respectively) & address panel below. (K) Marico Ltd. Plot-99; BIP; North Guwahati, Assam-781101. M: C-58M/2021. (G) Marico Ltd",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901088210577",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

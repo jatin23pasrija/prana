@@ -15,28 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 542,
-        "protein_g": 14.36,
-        "carbohydrate_g": 42.05,
-        "sugars_g": 3.76,
-        "fat_g": 35.11,
-        "saturated_fat_g": 19.1,
-        "fibre_g": 0.88,
-        "sodium_mg": 633.98
-      }
-    }
-  ],
   "ingredients_raw": "Tapioca Starch, Refined Palmolein Oil, Potato Flakes, Soya Flour(8 %), Split Pulse Urd (Urd Dal) Flour, Refined Sugar, iodised Salt, Red Chilli Powder, Coriander Powder, Cumin Powder, Clove Powder, Dried Mango Powder, Black Pepper, Cardamom, Acidity Regulator (INS 330), Dried Onion Powder, Dried Garlic Powder, Black Salt, Asafoetida, Bay Leaf, Nutmeg, Cinnamon, Fennel Seed, Turmeric",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904004400212",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

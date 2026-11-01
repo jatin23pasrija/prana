@@ -15,25 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 119,
-        "protein_g": 4.5,
-        "carbohydrate_g": 22,
-        "fat_g": 1.5,
-        "saturated_fat_g": 0.5
-      }
-    }
-  ],
   "ingredients_raw": "Common Salt, Dry Mango Powder, Black Salt, Roasted Cumin Seed, Black Pepper, Pomegranate Seeds, Roasted Coriander Seed, Ginger Flakes, Roasted Chilly Flakes, Nutmeg, Clove, Bishop's Weed, Asafoetida. المكونات: الملح المشتركة، مسحوق المانجو الجاف، أسود ملح، محمص بذور الكمون، الفلفل الأسود، بذور الرمان، محمص بذور الكزبرة، الزنجبیل رقائق، محمص بارد رقائق، جوزة الطيب، القرنفل، الأعشاب المطران، حلتيت.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904075603550",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -54,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -65,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

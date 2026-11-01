@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Maida (Refined Wheat Flour) (39.2%), Refined Palm Oil, Wheat Flour (Atta) (18.4%), Sugar, Wheat Bran (4.3%), Liquid Glucose, Raising Agents [INS 500(ii), INS 503(ii), INS 450(i)], Maltodextrin, Milk Solids, Iodized Salt, Emulsifiers [Lecithin (from Soyabean), Diacetyltartaric and Fatty Acid Esters of Glycerol (from Sunflower Oil & Palm Oil), Mono - & Di - Glycerides of Fatty Acids (from Palm Oil)], Malt Extract, Nature Identical Flavouring Substances, Wheat Fibre (0.03%), Flour Treatment Agent (INS 223) and Artificial Flavouring Substances (Vanilla).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8909081001550",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

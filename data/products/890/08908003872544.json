@@ -4,23 +4,9 @@
   "barcode_printed": "8908003872544",
   "barcode_format": "EAN-13",
   "name": "Poha",
+  "category": "rice",
   "countries": [
     "IN"
-  ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 365,
-        "protein_g": 6.72,
-        "carbohydrate_g": 82.27,
-        "sugars_g": 0,
-        "fat_g": 0.96,
-        "saturated_fat_g": 0.38,
-        "fibre_g": 3.16,
-        "sodium_mg": 12.69
-      }
-    }
   ],
   "ingredients_raw": "Flattened or Beaten Rice (Paddy Poha)",
   "sources": [
@@ -28,7 +14,7 @@
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908003872544",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -37,7 +23,7 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "category": {
       "source": "s1",
       "confidence": "medium"
     },
@@ -48,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

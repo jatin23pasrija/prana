@@ -4,15 +4,17 @@
   "barcode_printed": "8906017861318",
   "barcode_format": "EAN-13",
   "name": "RUSKIT BISK FARM",
+  "category": "rusk",
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA) (66.50%), SUGAR, SOY FLOUR, EDIBLE VEGETABLE OIL [PALM, PALMOLEIN, ANTIOXIDANT (319)], BUTTER (2.42%), YEAST, HIGH MALTOSE SYRUP, MILK SOLIDS, EDIBLE STARCH (CORN), WHEAT FIBRE, GLUTEN, SALT, ACIDITY REGULATORS (170, 330), EMULSIFIER (471), FLOUR TREATMENT AGENTS (1100, 1104) AND ANTIOXIDANT (300) CONTAINS ADDED FLAVOURS (BUTTER, MILK)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906017861318",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +22,18 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

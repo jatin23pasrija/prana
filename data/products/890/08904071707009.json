@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904071707009",
+  "barcode_printed": "8904071707009",
+  "barcode_format": "EAN-13",
+  "name": "Peri Peri Potato Chips",
+  "brand": "chipsona",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato (60%), edible vegetable oil (palmolein), mixed spice (peri peri chilli pepper, black pepper, maltodextrin, sugar, salt, cumin powder, mustard seeds, onion powder, dried oregano, ginger powder, cardamom powder, acidity regulator: E296, flavour enhancers: (E627, E631), anticaking agent: E170(i)). Contain added permitted natural colour: paprika oleoresin (INS 160c). Contain added flavour: natural and nature-identical flavouring substance.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904071707009",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

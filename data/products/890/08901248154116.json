@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901248154116",
+  "barcode_printed": "8901248154116",
+  "barcode_format": "EAN-13",
+  "name": "Boro Plus Organic Aloe Vera Gel",
+  "brand": "boro-plus",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Aqua/Water, Propylene Glycol, Niacinamide, Aloe barbadensis leaf extract, Ocimum sanctum (Tulsi) extract, Azadirachta indica (Neem) leaf extract, Citrus medica limonum (Lemon peel) extract, PEG-12 Dimethicone, Carbomer, Glycerin, Salicylic Acid, Tocopheryl Acetate, PEG-40 Hydrogenated Castor Oil, Disodium EDTA, DMDM Hydantoin, Phenoxyethanol, Sodium Benzotriazolyl Butylphenol Sulfonate (and) Buteth-3 (and) Tributyl Citrate, Sodium Hydroxide, Perfume, CI 42090, CI 47005.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901248154116",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

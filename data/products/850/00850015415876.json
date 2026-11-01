@@ -8,23 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 183.46,
-        "protein_g": 25.92,
-        "carbohydrate_g": 11.8,
-        "fat_g": 3.62
-      }
-    }
-  ],
+  "ingredients_raw": "Vegicken: Water, Vegetable protein (Pea), Soy flour, Soy protein Isolate, Edible vegetable oil (Rice bran), Wheat gluten, Corn Flour, Sago flour, Barley flour, Refined Wheat flour, Tapioca starch, Potato Starch, Hydrolysed Vegetable Protein (Ground Nut), Flax seeds powder, Fenugreek powder, Fennel seeds powder, Coriander seeds powder, Garlic powder, Onion powder, Dry ginger powder, Baking powder, Iodised salt. Vegicken Masala: Hydrolysed vegetable protein (Groundnut), Onion Powder, Iodised salt, Black salt, Cumin powder, Ginger Powder, Garlic Powder, Red Chilli Powder, Yeast Extract, Tomato Powder, Edible vegetable oil (Sunflower), Red Paprika Extract, Capsicum Extract, Dry Mango Powder, Turmeric powder, Fenugreek Powder, Black Pepper powder, Black Cardamom powder, Clove powder, Cinnamon powder, Coriander powder (0.5%), Green Cardamom powder, Nutmeg powder, Bay Leaf powder, Dehydrated Fenugreek Leaves powder, Maize Starch, Anti-Caking Agent (INS 551), Flavour Enhancer (INS 635), Acidity regulator (INS 330)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0850015415876",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -37,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

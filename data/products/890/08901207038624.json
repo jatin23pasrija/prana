@@ -7,27 +7,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 49,
-        "energy_kj": 205,
-        "protein_g": 0,
-        "carbohydrate_g": 12.3,
-        "sugars_g": 12.3,
-        "fat_g": 0,
-        "saturated_fat_g": 0,
-        "sodium_mg": 14
-      }
-    }
-  ],
+  "ingredients_raw": "Water, Sugar, Mango Pulp (3.1%), Banana Puree (2%), Guava Pulp (0.75%), Apple Juice Concentrate (0.55%), Acidity Regulator (INS 330), Stabilizers (INS 412, INS 466), Flavours (Natural and Nature Identical Flavouring Substances), Concentrated Mixed Fruit Juice (0.05%) [From Apple , Orange, Guava, Mango, Apricot, Banana, Lime, Passion Fruit, Pineapple], Antioxidant (INS 300) and Colour (INS 110).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901207038624",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -36,13 +22,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904018302878",
+  "barcode_printed": "8904018302878",
+  "barcode_format": "EAN-13",
+  "name": "medimix soap",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 500,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "VANARDRAKA (Rz.)/Zingiber zerumber-28.36, SVETA SARIVA (Rt.)/Hemidesmus indicus - 3.15. MADHUSNUHI (Rt.]/Smilax china - 1.57 NIMBA (St. Bk./Azadirachta indica-1.05. VACA (Rz.)/Acorus calamus - 0.52 USIRA (Rt.)/Vetiveria zizanioides-0.52. DARUHARIDRA (St.)/Berberis aristata-0.52 DEVADARU (St.)/Cedrus deodara - 0.52, JYOTISMATI (Sd.)/Celastrus paniculatus - 0.52 DHANYAKA (Fr.)/Coriandrum sativum-0.52, SVETAJIRAKA (Fr.)/Cuminum cyminum-0.52, RAKTA CHITRAKA IRt.)/Plumbago indica - 59.09. VIDANGA (Fr.)/Embelia ribes-0.52, YASTI (Rt.)/Glycyrrhiza glabra - 0.52. INDRAYAVA (Sd.)/Holarrhena antidysenterica - 0.52, UPAKUNCIKA (Sd.)/Nigella sativa - 0.52, BAKUCI (Sd.)/Psoralea corylifolia-0.52, GUGGULU (Exd.)/Commiphora wightii-0.46 In soap base made from coconut oil, Natural oils, perfume and approved colour (CI No. 47000, CI No.61565, CI No. 26100). Get SkinFit with Fast Acting Ayurveda from Medimix! medimix The combination of nature's 18 best herbs protects you from pimples, body odour, prickly heat, boils and other skin infections, giving you a smooth, glowing and radiant skin that you've always dreamt of. ATORVEUIC 18-HERBS medimix 50",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904018302878",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

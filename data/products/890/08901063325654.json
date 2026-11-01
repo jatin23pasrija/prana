@@ -4,15 +4,17 @@
   "barcode_printed": "8901063325654",
   "barcode_format": "EAN-13",
   "name": "Tosted",
+  "category": "bread",
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Refined wheat flour (maida) (71%), sugar, refined palm and palmolein oil, semolina (suji) (1.8%), yeast, vital gluten, colour (150a), invert sugar syrup, iodised salt, emulsifiers (472e, 471), spice (0.3%) (green cardamom seeds), bread improver {starch, soya flour, improvers [1100(i), 1104, 1102]}, wheat fibre, nature identical & artificial (milk) flavouring substances and antioxidant (300).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063325654",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +22,18 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

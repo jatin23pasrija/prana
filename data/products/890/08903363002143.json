@@ -9,28 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 451.54,
-        "protein_g": 7.98,
-        "carbohydrate_g": 70.49,
-        "sugars_g": 46.57,
-        "fat_g": 15.29,
-        "saturated_fat_g": 1.68,
-        "fibre_g": 0,
-        "sodium_mg": 7.84
-      }
-    }
-  ],
-  "ingredients_raw": "Ingredients (Approx. Values in %): Raisins (55%), Dry Dates (20%), Almond (15%), Cashew (10%)",
+  "ingredients_raw": "(Approx. Values in %): Raisins (55%), Dry Dates (20%), Almond (15%), Cashew (10%)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8903363002143",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -47,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -58,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

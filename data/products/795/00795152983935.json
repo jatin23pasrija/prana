@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00795152983935",
+  "barcode_printed": "0795152983935",
+  "barcode_format": "EAN-13",
+  "name": "Millet Bread",
+  "brand": "kairali",
+  "category": "bread",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 200,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined wheat flour (maida), water, millet flour 11.7% (ragi - finger millet flour, sorghum - jowar flour, bajra - pearl millet flour, rajgira - amaranth flour, baghar - barnyard flour), sunflower oil, sugar, yeast, wheat gluten, iodised salt, sourdough flour, preservative (INS 282), anticaking agent (INS 170(i)), emulsifier (INS 472e), antioxidant (INS 300), enzymes, soya flour.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0795152983935",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

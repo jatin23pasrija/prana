@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906015580235",
+  "barcode_printed": "8906015580235",
+  "barcode_format": "EAN-13",
+  "name": "Nisha mehndi 15 MRP",
+  "brand": "nisha",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Lawsonia Inermis (Henna) Leaf Powder, Barium Peroxide, p-Phenylenediamine, OL-Tartaric Acid, Cellulose, Sodium Lauryl Sulphate, Sodium Sulfite Acacia Concirna (Shikakai) Fruit Powoer, Emblica Cflicinalis (Amla) Fruit Powder, Hit cus Sabdariffa (Jaswand) Flower Powder, Ne Barbadensis (Aloe Vera) Leaf Powder Sodium Carboxymethyl",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906015580235",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

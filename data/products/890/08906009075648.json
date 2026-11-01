@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906009075648",
+  "barcode_printed": "8906009075648",
+  "barcode_format": "EAN-13",
+  "name": "Unibic sugar free oats cookies",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole Wheat Flour (Atta), Sweetener (INS 965 - Maltitol), Butter, Edible Vegetable Oil (Palm), Rolled Oats (8 %), Dextrin, Desiccated Coconut Powder, Leavening Agents (INS 503 ii, INS 500 ii), Emulsifier (INS 322 from Soy), lodised Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906009075648",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

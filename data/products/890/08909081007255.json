@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Crème Filling (60.0%) [Sugar, Refined Palm Oil, Milk Solids, Cocoa Solids (3.6%), Hazelnut Paste (0.3%), Emulsifier [Lecithin (from soyabean)], Nature Identical Flavouring Substances (*Chocolate, Hazelnut)], Maida (Refined Wheat Flour), Sugar, Cocoa Solids (1.6%), Starch, Refined Palm Kernel Oil, Emulsifier [Lecithin (from soyabean)], Nature Identical Flavouring Substances (*Chocolate), Iodized Salt, Artificial Flavouring Substances (*Chocolate). Contains Wheat, Milk, Soy, Nut.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8909081007255",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

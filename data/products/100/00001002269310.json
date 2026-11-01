@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00001002269310",
+  "barcode_printed": "0001002269310",
+  "barcode_format": "EAN-13",
+  "name": "Tomato Ketchup (Classic Blend)",
+  "brand": "del-monte",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 900,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Water, Tomato paste (25%), Sugar, Iodized Salt, Thickeners (INS 1422, INS 415), Acidity Regulator (INS 260), Spices and Condiments (Onion Powder, Garlic Powder and Mixed Spices), Sea Salt, Preservative (INS 211), Sweetener {Steviol Glycoside (INS 960)}.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0001002269310",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

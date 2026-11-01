@@ -8,28 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 410,
-        "protein_g": 83.6,
-        "carbohydrate_g": 5.3,
-        "sugars_g": 1.5,
-        "fat_g": 6.1,
-        "saturated_fat_g": 3.6,
-        "trans_fat_g": 0,
-        "fibre_g": 0
-      }
-    }
-  ],
   "ingredients_raw": "Whey Protein Isolate (92.4%), Cocoa Powder Alkalized, Coffee Powder (2%), Natural Flavour, Sunflower Lecithin (INS 322) Stevia Glycoside (INS 960)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8939112782066",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -42,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -53,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

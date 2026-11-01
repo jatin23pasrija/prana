@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08901512932402",
+  "barcode_printed": "8901512932402",
+  "barcode_format": "EAN-13",
+  "name": "Popz Cookies & Crème",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 23,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Multigrain Flour Mix {Corn Meal (39.7%), Wheat Flour (Atta) (1.7%), Oat Meal (0.6%)}, Sugar, Hydrogenated Vegetable Oil {Antioxidant (TBHQ)}, Milk Solids, Cocoa Solids (4.2%), Maltodextrin, Emulsifier (Lecithin), Iodized Salt, Raising Agent (Sodium Bicarbonate), Nature Identical Flavors (Vanilla, Chocolate), Refined Edible Palmolein Oil.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901512932402",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Water, Wafer Biscuit Cone (17.6%) (Refined Wheat Flour(Maida), Sugar, Palm Oil, Emulsifier - E322, Iodised Salt, Food Colour - E150d), Compound Coating (16.4%) (Sugar, Interesterified Vegetable Oil, Palm oil, Coconut Oil, Cocoa Solids, Milk Solids, Emulsifier - E322, Artificial (Vanillin & Butterscotch) Flavouring Substances, Sesame oil, Vitamin A), Sugar, Milk Solids, Palm Oil, Butterscotch Confectionery (3.8%)(Sugar, Nuts - Cashew, Dairy Butter), Liquid Glucose, Emulsifier - E471, Vegetable Protein (Soy), Stabilisers (E412, E417, E407, E410), Nature Identical & Artificial (Butterscotch) Flavouring Substances, Food Colour - E102.Contains Milk, Soy, Wheat & Nuts.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901030891847",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

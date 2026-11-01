@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901396389682",
+  "barcode_printed": "8901396389682",
+  "barcode_format": "EAN-13",
+  "name": "Dettol Skincare Liquid Handwash.",
+  "brand": "reckitt",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 675,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Aqua, Ammonium Lauryl Sulfate, Sodium Laureth Sulfate, Glycerin, Glycol Distearate, Cocamide MEA, Sodium Chloride, Parfum, Salicylic Acid, Citric Acid, Tetrasodium EDTA, Hexyl Cinnamal, Disodium EDTA, Citronellol, Benzyl Salicylate, Limonene, Magnesium Nitrate, Sodium Hydroxide, BHT, Methylchloroisothiazolinone, Methylisothiazolinone, Potassium Ferrocyanide.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901396389682",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "06295150001517",
+  "barcode_printed": "6295150001517",
+  "barcode_format": "EAN-13",
+  "name": "Cream Cheese Squares",
+  "brand": "puck",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Cream cheese produced from (Pasteurized skimmed cow's milk, cream, starter culture), butter, nutritional cow's milk proteins, pasteurized skimmed cow's milk powder, salt, emulsifier salts (E330, E331, E339, E452), stabilizers (E407, E508), preservatives (E202, E234), vitamin D, water. No rennet added. Fat in dry matter: 65% min. Contains lactose and milk.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6295150001517",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

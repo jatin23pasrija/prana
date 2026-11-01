@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117365129",
+  "barcode_printed": "8906117365129",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Bhujia",
+  "brand": "country-delight",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Potato Flakes (47%), Edible Vegetable Oil (Sunflower/Rice Bran), Bengal Gram Flour, Tapioca Flour, Rice Flour, Corn Flour, Himalayan Pink Salt, lodized Salt, Spices & Condiments, Yeast Extract, Mango Powder, Lime Juice, Mint Powder & Natural Flavours. Allergen Information: May contain Milk, Wheat, Celery, Soy & Nets.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117365129",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

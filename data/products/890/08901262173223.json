@@ -15,28 +15,13 @@
       "unit": "ml"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 251,
-        "protein_g": 4.1,
-        "carbohydrate_g": 26,
-        "sugars_g": 22.6,
-        "fat_g": 14.5,
-        "saturated_fat_g": 7.3,
-        "trans_fat_g": 0,
-        "sodium_mg": 46
-      }
-    }
-  ],
   "ingredients_raw": "_Milk solids_, sugar, cashew chikki 12% (sugar, cashew pieces, liquid glucose, ghee), E471, E407, E412, E466, E415, artificial flavouring substances (butterscotch), E102",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901262173223",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -57,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -68,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), SUGAR, REFINED PALM OIL, CHOCO CHIPS (8%) [SUGAR, EDIBLE VEGETABLE FAT (HYDROGENATED OILS), COCOA SOLIDS, DEXTROSE, EMULSIFIER OF VEGETABLE ORIGIN (SOYA LECITHIN) AND ARTIFICIAL FLAVOURING SUBSTANCES (VANILLA)], COCOA SOLIDS (2%), INVERT SUGAR SYRUP, RAISING AGENTS [503 (ii), 500 (ii)], IODISED SALT AND EMULSIFIER OF VEGETABLE ORIGIN (472e). CONTAINS PERMITTED NATURAL FOOD COLOUR (150d) AND ADDED FLAVOURS (ARTIFICIAL FLAVOURING SUBSTANCES - CHOCOLATE). CONTAINS: WHEAT, SOY",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901719124044",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

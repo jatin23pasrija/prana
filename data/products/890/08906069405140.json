@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906069405140",
+  "barcode_printed": "8906069405140",
+  "barcode_format": "EAN-13",
+  "name": "Soya Drizzle",
+  "brand": "veeba",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Water, Sugar, Iodised Salt, Soyabeans (9.0%), Wheat, Ginger, Natural Colour (INS150d), Acidity Regulator (INS260), Natural Flavouring Substances, Stabilizer (INS415), Preservatives (INS211, INS202) and Flavour Enhancers (INS627, INS631).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906069405140",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

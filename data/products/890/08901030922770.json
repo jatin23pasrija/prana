@@ -3,16 +3,25 @@
   "gtin": "08901030922770",
   "barcode_printed": "8901030922770",
   "barcode_format": "EAN-13",
-  "name": "For PKD. Use By & Batch No. (see side seal)",
+  "name": "Mixed Fruit Jam",
+  "brand": "kissan",
+  "category": "jam",
   "countries": [
     "IN"
   ],
+  "package": {
+    "quantity": {
+      "value": 11,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Sugar, mixed fruit pulp blend - 60% (papaya pulp, pear pulp, apple juice, banana pulp, pineapple juice, orange juice, mango pulp, grape juice), acidity regulator - E330, thickener - E440, iodised salt, vitamins & mineral, preservative - E202, natural flavouring substances, food colour - E122.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901030922770",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +29,26 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

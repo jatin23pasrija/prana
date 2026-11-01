@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906112290402",
+  "barcode_printed": "8906112290402",
+  "barcode_format": "EAN-13",
+  "name": "Under Eye Cream",
+  "brand": "vilvah",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Aqua, Vegetable Glycerine, Witch Hazel Extract, Sorbitan Stearate and Sucrose Cocoate, Shea Butter, Sunflower Seed Oil, Phyllostachys Bambusoides(Bamboo) Rhizome Extract, Gojiberry Fruit Extract, Sophora Flavescens Root Extract, Pyracantha Fortuneana Fruit Extract, Dipalmitoyl Hydroxyproline, Xanthan Gum, Cardamom Extract",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906112290402",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

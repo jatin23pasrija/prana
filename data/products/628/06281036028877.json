@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "06281036028877",
+  "barcode_printed": "6281036028877",
+  "barcode_format": "EAN-13",
+  "name": "Pickled Lemon",
+  "brand": "lay-s",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Fresh Potato, Vegetable Oil (Palmolein), Pickled Lemon Seasoning [Flavor Enhancers (E621, E627, E631), Sucrose, Wheat Flour, Maltodextrin (Maize), Acidity Regulator (E330), Cumin, Garlic, Lime, Thyme, Celery, Nature Identical Pickled Lemon Flavor, Spices (Chili, Coriander, Ginger), Herbs (Parsley, Spearmint), Anti-Caking Agents (E551, E341(iii)), Modified Starch (E1450), Antioxidant (E307), Natural Pickled Lemon Flavor]",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6281036028877",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

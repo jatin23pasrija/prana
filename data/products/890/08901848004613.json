@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901848004613",
+  "barcode_printed": "8901848004613",
+  "barcode_format": "EAN-13",
+  "name": "Jaljira",
+  "brand": "rasna",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 3,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Iodised Salt, Black Salt, Acidity Regulator (Nimbukamlam INS 330), Mint Powder, Sugar, Cumin Powder, Dextrose, Dry Mango Powder, Dry Ginger Powder, Black Pepper, Chillies Powder, Permitted Anticaking Agent INS 554)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901848004613",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

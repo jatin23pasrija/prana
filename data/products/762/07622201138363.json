@@ -15,27 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 597,
-        "protein_g": 7.5,
-        "carbohydrate_g": 39,
-        "sugars_g": 24.4,
-        "fat_g": 47.6,
-        "saturated_fat_g": 31,
-        "sodium_mg": 14
-      }
-    }
-  ],
   "ingredients_raw": "Cocoa Solids (46%) #, Cocoa Butter (27%) #, Sugar, Milk Solids, Nature Identical Flavouring Substances, Emulsifiers (442, 476). Allergen Information: Contains Milk. May Contain Tree Nuts, Soy. Refers to %Cocoa",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/7622201138363",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -56,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -67,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "03948548311370",
+  "barcode_printed": "3948548311370",
+  "barcode_format": "EAN-13",
+  "name": "Sugar Free D'Lite Chocochips Cookies",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Refined Wheat Flour (Maida), Sweeteners (Maltitol, Sucralose), Choco Chips (18%) {Chocochips [Sweetener (INS 965), Edible Vegetable Fat (Hydrogenated), Cocoa Powder, Emulsifiers (INS 492, Soya Lecithin), Nature Identical (Vanillin) Flavouring Substance], Chocolate Chips [Sweetener (INS 965), Cocoa Powder, Cocoa Butter, Emulsifier (Soya Lecithin), Nature Identical (Vanilla) Flavouring Substance]}, Hydrogenated Oil (Palm and Palm Kernel), Oats (5%), Butter, Quinoa (2%), Cocoa Powder, Milk Solids, Iodised Salt, Raising Agents (INS 500(ii), INS 503(ii)), Nature Identical (Chocolate) and Artificial (Vanilla) Flavouring Substances, Emulsifiers (Soya lecithin, INS 472). ALLERGENS: Contains Milk, Gluten (Oats, Wheat), Soy. May contains traces of nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/3948548311370",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

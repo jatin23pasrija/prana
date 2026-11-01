@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901138511784",
+  "barcode_printed": "8901138511784",
+  "barcode_format": "EAN-13",
+  "name": "Himalaya",
+  "brand": "himalaya",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Aqua, Melia Azadirachta Leaf Extract, Ammonium Lauryl Sulfate, Cocamidopropyl Betaine, Glycerin, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Sodium Cocoyl Glutamate, Disodium Cocoyl Glutamate, Phenoxyethanol, Ethylhexylglycerin, Curcuma Longa (Turmeric) Rhizome Extract, Sodium Hydroxide, Parfum, Sodium Metabisulfite, Citric Acid, Disodium EDTA, Tocopheryl Acetate, Hexyl Cinnamal",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901138511784",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

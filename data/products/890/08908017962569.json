@@ -3,18 +3,25 @@
   "gtin": "08908017962569",
   "barcode_printed": "8908017962569",
   "barcode_format": "EAN-13",
-  "name": "Instant Noodles",
+  "name": "Nourishing Instant Noodles Masala",
+  "brand": "wicked-gud",
   "category": "noodles",
   "countries": [
     "IN"
   ],
+  "package": {
+    "quantity": {
+      "value": 240,
+      "unit": "g"
+    }
+  },
   "ingredients_raw": "Instant Noodles: Whole Wheat Flour (80.26%), Rice Bran Oil, Iodized Salt, Raising Agent (E 500m), Wheat Gluten, Acidity Regulator (E 451), Guar Gum. Seasonings Mix: Spices & Condiments (Chilli, Coriander, Cumin, Pepper, Turmeric, Fennel, Fenugreek), Hydrolysed Vegetable Protein, Salt, Sugar, Vegetable Powders (Garlic, Onion), Maltodextrin, Edible Starch, Dehydrated Vegetables (Garlic, Carrot), Flavour Enhancer (E 635). Acidity Regulator (E 330), Anticaking Agent (E 551), Edible Vegetable Oil, Paprika Extract (E 160c).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908017962569",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -23,7 +30,15 @@
       "source": "s1",
       "confidence": "medium"
     },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
     "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
       "source": "s1",
       "confidence": "medium"
     },
@@ -34,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904246000003",
+  "barcode_printed": "8904246000003",
+  "barcode_format": "EAN-13",
+  "name": "Red Chilli Pickle With Garlic",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 300,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Red chillies (32%), Refined rice bran oil, Water, Tamarind, Iodized salt, Garlic paste (5%), Fenugreek, Bengal gram dal, Black gram dal, Mustard, Cumin, Dry chillies, Turmeric powder, Curry leaves.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904246000003",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00532544357239",
+  "barcode_printed": "0532544357239",
+  "barcode_format": "EAN-13",
+  "name": "Banana Oat Cookies",
+  "brand": "slurp-farms",
+  "category": "biscuits",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Multigrain Flour Blend (49%) [Whole Wheat, Jowar, Oat], Rice Bran Oil (12%), Jaggery (11%), Unrefined Sugar (11%), Instant Oat (3%), Banana Fruit Powder (2%), Skimmed Milk Powder, Corn Flour, Nature - identical Flavours, Raising Agent (Baking Soda), Natural Emulsifier (Sunflower Lecithin), Salt, Xanthan Gum, Antioxidant (Natural Rosemary). Allergen Note: Contains Milk, Wheat & Oat. Processed in a factory that also processes nuts.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0532544357239",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

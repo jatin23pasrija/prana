@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08850006962503",
+  "barcode_printed": "8850006962503",
+  "barcode_format": "EAN-13",
+  "name": "Colgate strong theeth",
+  "brand": "colgate",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 20,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Aroma, Arginine, Benzyl Alcohol, Calcium Carbonate, Calcium Pyrophosphate, Carbomer, Carrageenan Gum, Cellulose Gum, Cetylpyridinium Chloride, Citric Acid, Cocamidopropyl Betaine, D&C Red 33, D&C Yellow 10, Dicalcium Phosphate Dihydrate, FD&C Blue 1, Glycerin, Hydrated Silica, Menthol, Methylisothiazolinone, Phosphoric Acid, Poloxamer 407, Polyethylene Glycol (PEG-12), Potassium Nitrate, Potassium Sorbate, Propylene Glycol, PVM/MA Copolymer, Sodium Bicarbonate, Sodium Benzoate, Sodium Fluoride, Sodium Hydroxide, Sodium Lauryl Sulfate, Sodium Monofluorophosphate, Sodium Saccharin, Sorbitol, Stannous Fluoride, Sucralose, Tetrapotassium Pyrophosphate, Tetrasodium Pyrophosphate, Titanium Dioxide, Water, Xanthan Gum, Zinc Citrate Trihydrate, Zinc Oxide, Zinc Phosphate.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8850006962503",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

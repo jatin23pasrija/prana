@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Makhana (Fox Nuts) 68%, Olive Oil, Seasoning [Dehydrated Vegetables & Herbs (Dried White Onion, Parsley), Mixed Spices (Red Chilly, Black Pepper), Salt, Milk Solids, Sugar, Malto-Dextrin, Acidity Regulator (E296), Roasted Peanuts, Flavor Enhancer (E627) & (E631), Anti Caking Agent (E551)]. Contains added natural and nature identical flavouring substances. Allergen information: Contains peanuts.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8908006646715",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

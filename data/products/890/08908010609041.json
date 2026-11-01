@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908010609041",
+  "barcode_printed": "8908010609041",
+  "barcode_format": "EAN-13",
+  "name": "Thai Mango Slices Chilli",
+  "brand": "natch",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "mango (88.5%), sugar (9%), salt (1%), citric acid (1%), chilli (0.5%)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908010609041",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

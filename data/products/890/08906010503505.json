@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08906010503505",
+  "barcode_printed": "8906010503505",
+  "barcode_format": "EAN-13",
+  "name": "Aloo Sev",
+  "brand": "balaji-wafers",
+  "category": "chips",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "EDIBLE VEGETABLE OIL (PALMOLEIN, RICE BRAN), POTATO FLAKES (25%), CHICKPEA FLOUR (25%), RICE FLOUR, MALTODEXTRIN, EDIBLE COMMON SALT, SPICES & CONDIMENTS (DRY MANGO, CUMIN, FENNEL, CHILLI, CORIANDER, CLOVE TURMERIC, PEPPER, CARDAMOM, GINGER), DEHYDRATED VEGETABLE POWDER (MINT 0.2%, GARLIC, TAMARIND), NATURAL & NATURE IDENTICAL FLAVOURING SUBSTANCES (MINT), ACIDITY REGULATOR (INS 330, INS 296), SAVOUR ENHANCER (INS 635), ANTICAKING AGENT (INS 551, INS 341 (11)).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906010503505",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

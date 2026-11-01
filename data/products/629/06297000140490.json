@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "06297000140490",
+  "barcode_printed": "6297000140490",
+  "barcode_format": "EAN-13",
+  "name": "Assorted Dates",
+  "brand": "liwa-dates",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Dates",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/6297000140490",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -8,27 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 536,
-        "protein_g": 5.4,
-        "carbohydrate_g": 57.4,
-        "sugars_g": 3,
-        "fat_g": 31.6,
-        "saturated_fat_g": 13.6,
-        "trans_fat_g": 0.2,
-        "sodium_mg": 887
-      }
-    }
-  ],
+  "ingredients_raw": "Dried Potato (42%), Edible Vegetable Oil (Palm Oil), Corn Flour, Starch, Red Hot Chilli Seasoning {Salt, Sugar, Flavouring Substance (Artificial (Chilli Spice)), Garlic Powder (7%), Spices (Chilli Pepper, Paprika Extract), Onion Powder (5%), Dairy Solids, Acidity Regulator (Ins 330)}, Maltodextrin, Anticaking Agent (Ins 551), Colour (Ins 160C(I)), Flavour Enhancers (Ins 627, 631), Anticaking Agent (Ins 341(Iii)), Acidity Regulator (Ins 296), Stabilizer (Ins 414)}, Emulsifier (Ins 471), Maltodextrin, Acidity Regulator (Ins 300)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8886467129124",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -41,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -12,28 +12,16 @@
   "package": {
     "quantity": {
       "value": 250,
-      "unit": "g"
+      "unit": "ml"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 39,
-        "protein_g": 0,
-        "carbohydrate_g": 9,
-        "sugars_g": 9,
-        "fat_g": 0,
-        "saturated_fat_g": 0
-      }
-    }
-  ],
+  "ingredients_raw": "Water, Sucrose, Carbon Dioxide, Acidulant (Citric Acid), Taurine (0.24%), Permitted Class II Preservative (E 211), Caffeine (Natural) 0.023%, Acidity Regulator (Tri-Sodium Citrate), Inositol, Vitamins (B3, B5, B6, B12). Contains permitted natural colour (Caramel INS 150a) and added flavours (Natural and Nature Identical Flavouring Substances).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8902246014273",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -54,13 +42,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -9,12 +9,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Potato (84%), edible vegetable oil (contains one or more of the following: palmolein, groundnut), seasoning [spices & condiments 1% (cumin, chilli, parsley, ginger, cinnamon, black pepper, dry mango), dehydrated vegetable powder (onion, garlic), sugar, maltodextrin, flavour enhancer (INS 627, INS 631), acidity regulator (INS 296, INS 330), anticaking agent (INS 551), flavour enhancer (INS 627, INS 631), flavour (natural & nature identical flavouring substances)].",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906010503543",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -30,10 +31,14 @@
     "category": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

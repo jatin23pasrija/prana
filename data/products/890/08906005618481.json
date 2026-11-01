@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08906005618481",
+  "barcode_printed": "8906005618481",
+  "barcode_format": "EAN-13",
+  "name": "Choco Cake Finger Dark Choco Cake with Choco Cream Filling",
+  "brand": "winkies",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CAKE (78%)- CAKE MIX {REFINED WHEAT FLOUR (MAIDA), SUGAR, COCOA SOLIDS (11.2%), MILK SOLIDS, EMULSIFIERS (INS 471, INS 477, INS 322), RAISING AGENTS [INS 500(i), INS 341(i)], DEXTROSE, CORN STARCH, EDIBLE COMMON SALT, STABILIZER (INS 415)}, WATER, EDIBLE VEGETABLE OIL (REFINED PALMOLEIN OIL), HUMECTANT (INS 422), MILK SOLID, CAKE GEL (INS 470a, INS 471, INS 475, INS 422, INS 420, INS 525), PERMITTED NATURAL & NATURE IDENTICAL FLAVOURS-(CHOCOLATE, VANILLA), ACIDITY REGULATOR (INS 260, INS 330), BAKING POWDER, PRESERVATIVE (INS 200, INS 282), STABILIZER (INS 415), CREAM (22 %): LIQUID GLUCOSE, SUGAR, WATER, BAKERY SHORTENING, COCOA SOLIDS (5.5 %), HAZELNUT PASTE, CORN FLOUR, THICKENER (INS 440), PRESERVATIVE (INS 202), FIRMING AGENT (INS 509), ACIDITY REGULATOR (INS 330), PERMITTED NATURAL & NATURE IDENTICAL FLAVOURS-(CHOCOLATE, VANILLA)",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906005618481",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

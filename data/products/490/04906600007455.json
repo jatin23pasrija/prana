@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "04906600007455",
+  "barcode_printed": "4906600007455",
+  "barcode_format": "EAN-13",
+  "name": "Peanut Butter Creamy",
+  "brand": "dr-oetker",
+  "category": "nut-butter",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Roasted peanuts (91%), sugar, edible vegetable fat (soyabean), iodised salt.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4906600007455",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

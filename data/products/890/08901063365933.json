@@ -3,16 +3,25 @@
   "gtin": "08901063365933",
   "barcode_printed": "8901063365933",
   "barcode_format": "EAN-13",
-  "name": "Britannia gobbles fruit cake 100gm",
+  "name": "Gobbles fruit cake",
+  "brand": "britannia",
+  "category": "cakes",
   "countries": [
     "IN"
   ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "REFINED WHEAT FLOUR (MAIDA), EGG, SUGAR, VANASPATI, FRUIT PRODUCTS (7.4%) (GLAZED FRUITS (PAPAYA CUTS, SUGAR, PRESERVATIVE (202) AND COLOURS (124 & 110)} AND ORANGE PULP), INTERESTERIFIED VEGETABLE FAT, HUMECTANT (422), REFINED PALMOLEIN OIL, LIQUID GLUCOSE, DEXTROSE, HIGH MALTOSE SYRUP, FRUCTOOLIGOSACCHARIDES, CAKE GEL [EMULSIFIERS (471, 477,470(i)) & HUMECTANTS (1520,422)], EDIBLE MAIZE STARCH, WHEAT STARCH, RAISING AGENTS (341(i), 500(ii), 450(vii) & 450(i)), NATURE IDENTICAL AND ARTIFICIAL (MIXED FRUIT AND CREAMY VANILLA) FLAVOURING SUBSTANCES, IODIZED SALT, INVERT SUGAR SYRUP, PRESERVATIVES (202& 282), ACIDITY REGULATOR (330), BAKING POWDER, EMULSIFIER (475), STABILIZER (415) AND COLOUR (102).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901063365933",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -20,10 +29,26 @@
     "name": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

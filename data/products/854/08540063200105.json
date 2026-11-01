@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Cornflakes (26%), Refined Palmolein Oil, Potato (8%), Bengal Gram Flour (Besan) (8%), Cashew Nuts (7%), Raisins (7%), Refined Sugar, Spinach, Iodised Salt, Fennel Seed, Cumin, Curry Leaves, Red Chilli Powder, Black Salt, Black Pepper, Dried Ginger Powder, Clove, Cardamom, Cinnamon, Nutmeg, Bay Leaves, Acidity Regulator (INS 330) & Asafoetida. CONTAINS PERMITTED NATURAL COLOUR PAPRIKA OLEORESINS (INS 160c)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8540063200105",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

@@ -15,27 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 384,
-        "protein_g": 8,
-        "carbohydrate_g": 57.7,
-        "sugars_g": 3.2,
-        "fat_g": 13.5,
-        "saturated_fat_g": 7.9,
-        "trans_fat_g": 0.12,
-        "sodium_mg": 1137.1
-      }
-    }
-  ],
+  "ingredients_raw": "Noodles: Refined wheat flour (Maida), Palm oil, Iodized salt, Wheat gluten, Thickeners (508 & 412), Acidity regulators (501(i) & 500 (i)) and Humectant (451(i)). Masala *TASTEMAKER*: Mixed spices (24.4%) (Red chilli powder, Dehydrated onion (4%), Coriander powder, Turmeric powder, Dehydrated garlic, Cumin powder, Aniseed powder, Black pepper powder, Fenugreek powder, Ginger powder, Clove powder, Green cardamom powder & Nutmeg powder), Dehydrated vegetables (18.6%) (Carrot bits (9.3%) & Green french beans (9.3%)), Refined wheat flour (Maida), Iodized salt, Sugar, Starch, Palm oil, Toasted onion flakes (3.7%), Flavour enhancer (635), Acidity regulator (330), Colour (150d), Yeast extract powder, Mineral and Wheat gluten. Allergen Note: Contains Wheat. May contain Oats, Milk & Soy.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/4901410891836",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -56,13 +42,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

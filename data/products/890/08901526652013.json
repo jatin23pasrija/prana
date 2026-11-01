@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901526652013",
+  "barcode_printed": "8901526652013",
+  "barcode_format": "EAN-13",
+  "name": "L'Oreal Elvive Hyaluron Pure Shampoo 340mL",
+  "brand": "l-oreal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 340,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "1247270 B - INGREDIENTS: AQUA / WATER - GLYCERIN - CETEARYL ALCOHOL - DISTARCH PHOSPHATE - QUATERNIUM-87 - DIMETHICONE - CI 17200 / RED 33 - CI 42090 / BLUE 1 - LACTIC ACID - SODIUM HYALURONATE - PHENOXYETHANOL - STEARETH-6 - ACETIC ACID - PEG-150/DECYL ALCOHOL/SMDI COPOLYMER - PEG-100 STEARATE - BEHENTRIMONIUM CHLORIDE - TRIDECETH-10 - TRIDECETH-3 - CHLORHEXIDINE DIGLUCONATE - SALICYLIC ACID - PROPYLENE GLYCOL - AMODIMETHICONE - ISOPROPYL ALCOHOL - PARFUM / FRAGRANCE. (F.I.L. Z70032242/2). Please be aware that ingredient lists for the products of our brand are updated regularly. Please refer to the ingredient list on your product package for the most up to date list of ingredients to ensure it is suitable to your personal use.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901526652013",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

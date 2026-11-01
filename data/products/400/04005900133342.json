@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "04005900133342",
+  "barcode_printed": "4005900133342",
+  "barcode_format": "EAN-13",
+  "name": "NIVEA CREME DARK SPOT REDUCTION",
+  "brand": "nivea",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "NIVEAⓇ MEN DARK SPOT# REDUCTION CREME A breakthrough in skincare specifically developed for men's skin. It contains UV filters and licorice extracts that reduce dark spots. It is extra light, non-greasy and fast absorbing. SKIN COMPATIBILITY DERMATOLOGICALLY APPROVED SKIN CREAM. INGREDIANTS: Aqua, Glycerin, Isopropyl Palmitate, Cetearyl Alcohol, Alcohol Denat. 3.7% v/v, C12-15 Alkyl Benzoate, Butyl Methoxydibenzoyl - methane, Distarch Phosphate, Glyceryl Stearate, Octocrylene, Glycyrrhiza Glabra Root Extract, Polyglyceryl-10 Stearate, Dimethicone, Carbomer, Acrylates/C10-30 Alkyl Acrylate Crosspolymer, Trisodium EDTA, Sodium Hydroxide, Phenoxyethanol, Ethylhexylglycerin, Limonene, Linalool, Coumarin, Alpha-Isomethyl Ionone, Parfum. Imported by: NIVEA India Pvt Ltd, 4th Floor, AGH, Phoenix Market City, Kurla (W), Mumbai, Maharashtra - 400070. RC No. COS052/13. Query/Feedback: Contact NIVEA CARE Executive at above address or :(022)62487999, care@beiersdorf.com.For Batch No., MFD. (P) & Use Before (E): See Pack. Manufactured by: Beiersdorf Manufacturing Hamburg GmbH, Troplowitzstraße 10, 22529 Hamburg, Germany. MRP (Incl. of all Taxes): *255.00, USP: *3.40/ml Net Content #Dark spots accumulated from dirt & residues. (When Packed): Beiersdorf 75ml (75.2g) 12M 4 005900133342 Hamburg =reg. tm. of Beiersdorf AG Beiersdorf AG, D-20245 Hamburg ALU www.NIVEAMEN.IN Art. No. 83927 83927.498.DB.01",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/4005900133342",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

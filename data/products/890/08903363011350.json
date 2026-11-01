@@ -4,7 +4,7 @@
   "barcode_printed": "8903363011350",
   "barcode_format": "EAN-13",
   "name": "Dryfruit Mix",
-  "brand": "premia",
+  "brand": "dmart",
   "category": "nuts",
   "countries": [
     "IN"
@@ -15,27 +15,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 524.91,
-        "protein_g": 13.58,
-        "carbohydrate_g": 43.44,
-        "sugars_g": 24.41,
-        "fat_g": 32.98,
-        "saturated_fat_g": 3.48,
-        "sodium_mg": 6.84
-      }
-    }
-  ],
   "ingredients_raw": "Raisins, Almond, Cashew",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8903363011350",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -56,10 +42,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -67,6 +49,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

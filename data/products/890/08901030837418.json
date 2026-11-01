@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030837418",
+  "barcode_printed": "8901030837418",
+  "barcode_format": "EAN-13",
+  "name": "POND'S BRIGHT BEAUTY Face Scrub",
+  "brand": "unilever",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WATER, PENTYLENE GLYCOL, PEG-6 CAPRYLIC/CAPRIC GLYCERIDES, GLYCERIN, PEG 40 HYDROGENATED CASTOR OIL, HYDRATED SILICA, PHENOXYETHANOL, METHYLPARABEN, ETHYLPARABEN, CAPRYLYL GLYCOL, TRIETHANOLAMINE, ACRYLATES/C10-30 ALKYL ACRYLATE CROSSPOLYMER, PERFUME, DISODIUM EDTA, NIACINAMIDE, SODIUM ASCORBYL PHOSPHATE, TOCOPHERYL ACETATE, BENZOPHENONE-4, PROPYLENE GLYCOL, JUGLANS REGIA (WALNUT) SEED EXTRACT, LACTIC ACID, GLUCOSE, SODIUM BENZOATE, POTASSIUM SORBATE, BENZYL ALCOHOL, CITRONELLOL, HEXYL CINNAMAL, LIMONENE, LINALOOL, SODIUM SULFATE: CI 12490, CI 77492, CI 77266, CI 17200.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030837418",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

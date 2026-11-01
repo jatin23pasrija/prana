@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901030971921",
+  "barcode_printed": "8901030971921",
+  "barcode_format": "EAN-13",
+  "name": "Vaseline.",
+  "brand": "unilever",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 600,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "WATER, PETROLATUM, GLYCERIN, PALMITIC ACID (AND) STEARIC ACID, ISOPROPYL PALMITATE, GLYCOL STEARATE (AND) STEARAMIDE AMP DIMETHICONE, TRIETHANOLAMINE, GLYCERYL STEARATE, THEOBROMA CACAO (COCOA) SEED BUTTER, BUTYROSPERMUM PARKII (SHEA) BUTTER, CETYL ALCOHOL, PERFUME, MAGNESIUM ALUMINUM SILICATE, PHENOXYETHANOL METHYLPARABEN, CARBOMER, PROPYLPARABEN, DISODIUM EDTA, CARAMEL, TITANIUM DIOXIDE (AND) HYDRATED SILICA (AND) ALUMINUM HYDROXIDE (AND) ALGINIC ACID, BENZYL ALCOHOL, BENZYL BENZOATE, CITRONELLOL, COUMARIN, HEXYL CINNAMAL, HYDROXYCITRONELLAL, LIMONENE, LINALOOL. BODY LOTION. MADE IN INDIA. MKTD. BY LIC. USER HINDUSTAN UNILEVER LIMITED (HUL).HUL 2023. ® VASELINE IS THE REGISTERED TRADE MARK OF UNILEVER PLC. MFG. BY HINDUSTAN UNILEVER LTD., UNIT - 8, PLOT NO. 1-(1-H), SEC.-1A, SIDCUL, RANIPUR, HARIDWAR 249 403, UTTARAKHAND. M 1/C/UA/2010. HUL REGN. NO. BO-13-000-07-AAACH1004N-22. MINIMUM THICKNESS OF THE PACKAGING IS 500 MICRON. *MRP (INCL. OF ALL TAXES), USP, #MFD.& B. NO.: SEE ABOVE. EXPIRY 36 MONTHS FROM MANUFACTURED",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901030971921",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

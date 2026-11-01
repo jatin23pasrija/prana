@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08901138009731",
+  "barcode_printed": "8901138009731",
+  "barcode_format": "EAN-13",
+  "name": "Koflet-H",
+  "brand": "himalaya",
+  "category": "candy",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 15,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Madhu (Honey)* 126 mg. EXTRACTS: Haritaki (Terminalia chebula)* P.7.31 mg, Trikatu# 2.40 mg, Kulanjana (Alpinia galanga)* Rz. 0.97 mg, Khadira (Acacia catechu)* Ht.Wd. 0.74 mg, OILS: Lavanga (Syzygium aromaticum)* Fl.Bd. 2.10 mg, Sukshmaila (Elettaria cardamomum)* Fr. 0.06 mg, Darusita (Cinnamomum zeylanicum)* Bk. 0.02 mg and sugar base g.s. Ref.: * API #Bhava Prakasha",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901138009731",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

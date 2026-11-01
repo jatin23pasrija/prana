@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08908005807780",
+  "barcode_printed": "8908005807780",
+  "barcode_format": "EAN-13",
+  "name": "Yoghurt Blueberry",
+  "brand": "mojo-bar",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Mixed nuts and Fruits (Peanuts, Black Raisins, Phata, Vasai (E), Dist: Pal Blueveries, Almond) Frustooligosaccharides, Vegetable Fat, Soya Protein Isolate, Yoghurt Powder, Skim Milk Powder, Palm Kernel oil, Gum Arabic, Whey protein, Salt, Emulsifier (E476), Vitamin E. CONTAINS ADDED NATURAL AND NATURE IDENTICAL FLAVOUR. ALLERGEN ADVICE: CONTAINS ALMOND, PEANUTS & SOY. MAY CONTAIN MILK. fssat Lic. No. 11522998000867",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908005807780",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

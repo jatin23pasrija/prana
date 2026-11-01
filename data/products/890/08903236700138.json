@@ -8,34 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "1 Scoop (38 g)",
-        "quantity": {
-          "value": 38,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 146.55,
-        "protein_g": 23.5,
-        "carbohydrate_g": 10.56,
-        "sugars_g": 3.29,
-        "fat_g": 0.74,
-        "saturated_fat_g": 0.49,
-        "fibre_g": 3.64,
-        "sodium_mg": 130.94
-      }
-    }
-  ],
+  "ingredients_raw": "Protein isolate blend (Pea and Rice), Coconut milk powder, Indonesian Cacao & cocoa blend, Digestive herb blend (Ginger, Fennel, Cumin, Fenugreek), Kerala Vanilla bean powder and Monk fruit.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8903236700138",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -48,13 +27,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

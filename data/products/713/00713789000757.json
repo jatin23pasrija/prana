@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "00713789000757",
+  "barcode_printed": "0713789000757",
+  "barcode_format": "EAN-13",
+  "name": "Blue",
+  "brand": "gatorade",
+  "category": "energy-drink",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 780,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Water, sugar, dextrose, citric acid, salt, sodium citrate, monopotassium phosphate, modified food starch, natural flavor, glycerol ester of rosin, blue 1.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0713789000757",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

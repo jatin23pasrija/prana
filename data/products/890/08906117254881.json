@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906117254881",
+  "barcode_printed": "8906117254881",
+  "barcode_format": "EAN-13",
+  "name": "Sunscreen (vitamin C)",
+  "brand": "dr-rashel",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "DM Water, Octyl Methoxycinnamate, Octyl Salicylate, C15-19 Alkane, Avobenzone, Cyclopentasiloxane, Cetostearyl Alcohol, Glyceryl Stearate, PEG-100 Stearate, Glycerine, Hydroxyethyl Acrylate/Sodium Acryloyldimethyl Taurate Copolymer, Polyacrylate-13 (and) Polyisobutene (and) Polysorbate 20, Phenoxyethanol and Ethylhexylglycerin, Iso Propyl Myristate, Octyl Dodecanol, Benzophenone - 4, Titanium Dioxide, Xanthan Gum, Butylated Hydroxytoluene, IFRA Certified Allergen Free Perfume, Tocopheryl Acetate, Sodium Ascorbyl Phosphate, Sodium Metabisulfite, Sodium Gluconate, CI No. 15985. Natural ingredients may result in a slight change in color or texture; however, this has no impact on the efficacy of the product. Mfg. & Mktd. By: PP Consumer Private Limited 灰 Office No. 1110 to 1114, 11th Floor, NCP Supremus (Lodha), New Cuffe Parade, Wadala East, Mumbai - 400037, Maharashtra, India. For Consumer Complaints, Query Or Feedback, Please Contact The Above Address. Call Customer Care No.: 022 4891 0602 info@dr.rashel.in www.dr.rashel.in At: Plot No. E-29/6, Additional Patalganga MIDC, Patalganga, Tal. Khalapur, Dist. Raigad-410220. Maharashtra, India.Mfg. LIC. No.: MH/105658A Batch No. 381",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906117254881",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -9,25 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 590,
-        "protein_g": 14.6,
-        "carbohydrate_g": 42.1,
-        "fat_g": 40.4,
-        "saturated_fat_g": 10.1,
-        "sodium_mg": 600
-      }
-    }
-  ],
+  "ingredients_raw": "Refined Cottonseed oil, Bengal gram flour, Peanut (14%), Rice flakes (11%), Split Bengal gram (10%), Lentil (10%), Spices & condiments (Red chilli powder, Cloves powder, Mace powder, Nutmeg powder, Long pepper (Piper longum), Dried ginger powder, Black pepper powder, Mango powder, Coriander, Fennel}, lodized salt, Potato chips (1.8%) & Colour (INS 102 & INS 133)",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906154300220",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -44,13 +32,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

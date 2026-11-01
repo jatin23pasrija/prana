@@ -14,26 +14,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 388,
-        "protein_g": 19.4,
-        "carbohydrate_g": 58.7,
-        "sugars_g": 6.3,
-        "fat_g": 8.4,
-        "fibre_g": 11.3,
-        "sodium_mg": 352.9
-      }
-    }
-  ],
+  "ingredients_raw": "Wheat Flakes (32.8%), Corn Flakes (16.4%), Peanut Butter Rolled Oats (15.2%), Rice Flakes (12.8%), Raisins (11.9%), Almonds (7.4%), Ragi Flakes (1.1%), Water, Coconut Flakes (2.2%), Edible Common Salt, Antioxidant (Tocopherol), Nature Identical Flavoring Substances",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906127550386",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -50,13 +37,13 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
+    "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

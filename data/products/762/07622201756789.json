@@ -9,29 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 483,
-        "protein_g": 5.2,
-        "carbohydrate_g": 71.5,
-        "sugars_g": 38.3,
-        "fat_g": 19.7,
-        "saturated_fat_g": 9.8,
-        "trans_fat_g": 0.1,
-        "fibre_g": 0,
-        "sodium_mg": 420
-      }
-    }
-  ],
   "ingredients_raw": "Refined Wheat Flour (Maida), Sugar, Fractionated Fat Palm olein, Invert Sugar, Cocoa Solids (2%*), Bicarbonate of soda and baking soda, Ammonium bicarbonate, Starch, lodised Salt, Nature Identical Flavouring Substances (Strawberry), Emulsifier (322), Colour (122), Allergen Information: Contains Wheat, Sulphites, Soy, Milk, Barley",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/7622201756789",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -48,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -59,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

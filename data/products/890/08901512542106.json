@@ -13,27 +13,13 @@
       "unit": "g"
     }
   },
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 521,
-        "protein_g": 9,
-        "carbohydrate_g": 56,
-        "sugars_g": 0.3,
-        "fat_g": 28.9,
-        "saturated_fat_g": 11.6,
-        "sodium_mg": 0
-      }
-    }
-  ],
   "ingredients_raw": "Popcorn Sachet: Popping Corn, Refined Edible Palmolein Oil and iodised Salt. Tomato Chilli Seasoning Sachet (Net Quantity-4g): Dehydrated Vegetables (Tomato Powder, Onion Powder and Garlic Powder), Chilli Powder, iodised Salt, Sugar, Yeast Extract Powder, Stabilizer (Hydrolysed Vegetable Protein), Maltodextrin, Acidity Regulator (Citric Acid) and Anticaking Agent (Silicon Dioxide). CONTAINS ADDED FLAVOUR [NATURE IDENTICAL FLAVOURING SUBSTANCES) See print on pack for: MRP (inclusive of all taxes), Net Quantity (in g), Batch No. Date of Manufacture omato chilli flavour seasoning inside IC pped Popcon. B.No:",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901512542106",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -46,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -57,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

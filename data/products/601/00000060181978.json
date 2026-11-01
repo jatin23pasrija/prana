@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "00000060181978",
+  "barcode_printed": "60181978",
+  "barcode_format": "EAN-8",
+  "name": "Protein Chico Pie",
+  "brand": "hyp",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 50,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Dates, Cocoa Crisps, Milk Protein Isolate, Glucose Syrup, Oats, Sugar, Edible Vegetable Oil, Almonds, Cocoa Powder, Cocoa Solids, Emulsifier (Soy Lecithin), Salt and Anti-Oxidant (Vit E).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/60181978",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

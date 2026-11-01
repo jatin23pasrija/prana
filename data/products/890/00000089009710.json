@@ -9,33 +9,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "100 g",
-        "quantity": {
-          "value": 100,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 127,
-        "protein_g": 0.6,
-        "carbohydrate_g": 31.5,
-        "sugars_g": 28.6,
-        "fat_g": 0,
-        "sodium_mg": 789.6
-      }
-    }
-  ],
   "ingredients_raw": "If a serve is 1Tbsp (9g) NUTRITION INFORMATION 100g Serve Per Serve Per Per SEDA Nest 127 Energy (kcal) Protein ( Carbohydrate (g) - Total Sugarsi - Added Sugarsig) Fibre ( Total Fat Sodium (mg) 2.8 31.5 28.6 2.6 27.4 2.5 789.6 71.1 Guideline Daily Amounts of an average adult (",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/89009710",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -52,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -63,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

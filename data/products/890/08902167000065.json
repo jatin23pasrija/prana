@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08902167000065",
+  "barcode_printed": "8902167000065",
+  "barcode_format": "EAN-13",
+  "name": "Chunky chat masala - Préparation pour assaisonner les fruits, les plats salés et les salades",
+  "brand": "mdh",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 100,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "PRÉPARATION POUR ASSAISONNER LES FRUITS, LES PLATS SALÉS, ET LES SALADES ingreuients: Sel, mangue déshydratéée, sel noir, cumin, coriandre, poudre de melon brodé séché, poivre noir, feuilles de menthe, gingembre déshydraté, piment jaune, graines de livèche, clous de girofle, noix de muscade, ase fétide, carvi Allergènes:voir la liste d'ingrédients en gras MISCELA DI SPEZIE PER INSALATE E STUZZICHINI",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8902167000065",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

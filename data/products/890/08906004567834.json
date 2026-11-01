@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08906004567834",
+  "barcode_printed": "8906004567834",
+  "barcode_format": "EAN-13",
+  "name": "Halka Fulka",
+  "brand": "yellow-diamond",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 150,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Rice Flakes (37%), Edible Vegetable Oil (Rice Bran Oil / Cotton Seed Oil), Husked Roasted Gram (25%), Corn Flakes (6%), Iodised Salt, Black Salt, Dried Mango Powder, Green Chilli, Spices and Condiments (Pepper Powder & Turmeric Powder).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8906004567834",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

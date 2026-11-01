@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Instant noodles: maida (refined wheat flour) (78.7%), edible vegetable oil, iodized salt, wheat gluten (0.4%), thickeners (508, 412), acidity regulators [501(i), 500(i)], stabilizer [339(ii)]. Seasoning: masala mix: dehydrated vegetables [beans (9.5%), carrot (7.1%), onion (4.6%), cabbage (3.8%)], instant noodle powder {maida (refined wheat flour) (15.9%), edible vegetable oil, iodized salt, wheat gluten (0.07%)}, spices and condiments (17.6%) [garlic, coriander, cumin, dried ginger, chillies, aniseed, fenugreek, black pepper, cardamom, nutmeg, caraway, cinnamon, cloves, turmeric], sugar, iodized salt, hydrolyzed vegetable protein (defatted soya, maltodextrin), natural flavours and natural flavouring substances, yeast extract, acidity regulator (330), nature identical flavouring substances, flavour enhancer (635). Sprinkler mix (topping): spices & condiments (67.8%) [garlic, chilli flakes, black pepper bits], dehydrated onion, iodized salt, flavour enhancer (635), acidity regulator (330), nature identical flavouring substances.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8909081005251",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

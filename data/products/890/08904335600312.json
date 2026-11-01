@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08904335600312",
+  "barcode_printed": "8904335600312",
+  "barcode_format": "EAN-13",
+  "name": "YogaBar Muesli+",
+  "brand": "yogabar",
+  "category": "breakfast-cereal",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Whole Grains 60% (Rolled Oats, Brown Rice Flakes, Quinoa Flakes), Dried Fruits 17% (Raisins, Apricot, Cranberry, Blackcurrants), Seeds & Nuts 14% (Pumpkin. Almonds, Chia, Flax), Strawberry Powder, Date Syrup, Jaggery. Rice Bran Oil, Himalayan Pink Salt",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8904335600312",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

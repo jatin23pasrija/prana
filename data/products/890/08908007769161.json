@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "gtin": "08908007769161",
+  "barcode_printed": "8908007769161",
+  "barcode_format": "EAN-13",
+  "name": "Italian Garden Gherkins 680g -Tangy & Crisp Pickled Cucumbers",
+  "brand": "italian-garden",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 680,
+      "unit": "g"
+    }
+  },
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908007769161",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "00193968564452",
+  "barcode_printed": "0193968564452",
+  "barcode_format": "EAN-13",
+  "name": "Dishwasher pods",
+  "brand": "member-s-mark",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Sodium carbonate, Citric acid, Sodium citrate, trisodium dicarboxymethyl alaninate, Sodium carbonate peroxide, PEG/PPG Propylheptyl ether, Sodium silicate, Polyvinyl alcohol polymer, Sodium acrylic acid/MA copolymer, Acrylic/ acrylate ester copolymer, Tetrasodium etidronate, Dipropylene glycol, Glycerin, Water, Propylene glycol, Protease Enzyme, Amylase Enzyme, Fragrance, Colorants.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/0193968564452",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

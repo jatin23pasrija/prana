@@ -14,12 +14,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Dark chocolate (69%) (sugar, cocoa solids (25.5%), cocoa butter (7.2%), emulsifier (soya lecithin), nature-identical flavouring substance and iodised salt) and wafer (refined wheat flour (maida), sugar, hydrogenated vegetable fats, cocoa solids (1.6%), milk solids, fractionated vegetable fat, raising agent (500(ii)), yeast, emulsifier (soya lecithin), iodised salt, flour treatment agent (516) and nature-identical flavouring substance).",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901058014341",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -35,10 +36,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

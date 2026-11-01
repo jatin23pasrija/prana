@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901526641550",
+  "barcode_printed": "8901526641550",
+  "barcode_format": "EAN-13",
+  "name": "L'Oreal Elvive Colour Protect Shampoo 800mL",
+  "brand": "l-oreal",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 800,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "1261452 B - INGREDIENTS: AQUA / WATER SODIUM LAURETH SULFATE GLYCOL DISTEARATE SODIUM CHLORIDE COCAMIDOPROPYL BETAINE DIMETHICONE PARFUM / FRAGRANCE GUAR HYDROXYPROPYLTRIMONIUM CHLORIDE COCAMIDE MEA COCO-BETAINE ASCORBYL GLUCOSIDE SODIUM BENZOATE SODIUM HYDROXIDE HYDROXYCITRONELLAL STEARETH-6 PHENOXYETHANOL ACETIC ACID PEG-100 STEARATE ETHYLHEXYL SALICYLATE TRIDECETH-10 TRIDECETH-3 SALICYLIC ACID LIMONENE FUMARIC ACID LINALOOL AMODIMETHICONE CARBOMER CITRIC ACID HEXYLENE GLYCOL HEXYL CINNAMAL. Please be aware that ingredient lists for the products of our brand are updated regularly. Please refer to the ingredient list on your product package for the most up to date list of ingredients to ensure it is suitable to your personal use.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901526641550",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

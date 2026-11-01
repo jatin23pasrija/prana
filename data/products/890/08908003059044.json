@@ -1,0 +1,54 @@
+{
+  "schema_version": 1,
+  "gtin": "08908003059044",
+  "barcode_printed": "8908003059044",
+  "barcode_format": "EAN-13",
+  "name": "Refined Soyabean Oil",
+  "brand": "murali",
+  "category": "edible-oil",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 4550,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Refined Soyabean Oil, Permitted Antioxidant TBHQ (INS-319),Vitamin A and Vitamain D MOEL Manufactured & Packed by MAHARASHTRA OIL EXTRACT E-140, M.I.D.C. Dist. Dhule, Dhule-424 006. (MAHARASHTRA) Email UNIT SALE PR BATCH NO. DATE OF PACKAGING MRP (Inclusive of all taxes) EXPIRY DATE 07001C 31/10/25 30/04/26 770/- 0.15/",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8908003059044",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "category": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

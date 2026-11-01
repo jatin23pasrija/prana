@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08961008237343",
+  "barcode_printed": "8961008237343",
+  "barcode_format": "EAN-13",
+  "name": "نید",
+  "brand": "nestle",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "Milk Solids, Vegetable Fat, Glucose Syrup, Sugar, Emulsifier (Soya Lecithin), Minerals, Stabilizer (INS 332i) and Vitamins. Spray-Dried",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8961008237343",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

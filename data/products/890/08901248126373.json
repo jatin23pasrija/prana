@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "gtin": "08901248126373",
+  "barcode_printed": "8901248126373",
+  "barcode_format": "EAN-13",
+  "name": "Boro plus body lotion",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "BORO PLUS Doodh Kesar Body Lotion for healthy, moisturised skin. WHAT'S IN IT? VIT Doodh Kesar Vitamin E No Parabens WHAT DOES IT DO? Intensely Moisturises ◆ Softens dry skin ◆ Unveils glowing skin ALL SKIN TYPES Directions: Apply daily all over body. Each 100 ml contains: Extracts of Ocimum sanctum WH.PL. 0.25g, Azadirachta indica LF. 0.25g, Curcuma longa RZ. 0.25g, Santalum album HT.WD. 0.2g, Glycyrrhiza glabra RT. 0.15g, Aloe barbadensis LF. 1.0g, Vetiveria zizanioides RT. 0.05g, Symplocos racemosa ST.BK. 0.2g. Nymphaea alba FL. 0.2g Hedychium spicatum RZ./RT. 0.1g, Crocus sativus STL/STG 0.0005g., Prunus amygdalus OL. 0.05g, Malai 0.1g, Rosa centifolia FL. 0.5g, Moti pisti 0.0008g, Phenoxyethanol, DMDM Hydantoin; base qs. Dermatologist recommended. Ayurvedic Medicine. FOR EXTERNAL USE ONLY. A preventive, curative & healing Ayurvedic Lotion for dry skin diseases, minor cuts, wounds, chapped skin & cold sores.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901248126373",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

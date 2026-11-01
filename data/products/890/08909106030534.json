@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08909106030534",
+  "barcode_printed": "8909106030534",
+  "barcode_format": "EAN-13",
+  "name": "Glow & Lovely Re-New Bright Advanced Multi Vitamin Serum in Cream",
+  "brand": "glow-lovely",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 80,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "WATER, PALMITIC ACID & STEARIC ACID, NIACINAMIDE, GLYCERIN, DIMETHICONE, ETHYLHEXYL METHOXYCINNAMATE, BUTYL METHOXYDIBENZOYLMETHANE, TITANIUM DIOXIDE, SODIUM ASCORBYL PHOSPHATE, ISOPROPYL MYRISTATE, TOCOPHERYL ACETATE, ALLANTOIN, PYRIDOXINE HYDROCHLORIDE, CETYL ALCOHOL, TITANIUM DIOXIDE & ALUMINUM HYDROXIDE & STEARIC ACID, PHENOXYETHANOL, METHYLPARABEN, PROPYLPARABEN, POTASSIUM HYDROXIDE, DISODIUM EDTA, PERFUME, ALPHA-ISOMETHYL IONONE, BENZYL SALICYLATE, BUTYLPHENYL METHYLPROPIONAL, CITRONELLOL, GERNANIOL, HEXYL CINNAMAL, COUMARIN, CINNAMYL ALCOHOL, LIMONENE, LINALOOL.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8909106030534",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

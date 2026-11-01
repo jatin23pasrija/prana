@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901148007017",
+  "barcode_printed": "8901148007017",
+  "barcode_format": "EAN-13",
+  "name": "Цетрин",
+  "brand": "dr-reddy-s",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 0.01,
+      "unit": "g"
+    }
+  },
+  "ingredients_raw": "Каждая таблетка содержит 10 мг цетиризина дигидрохлорида. Прочими ингредиентами являются: лактоза, крахмал кукурузный, повидон (К-30), магния стеарат, пленочная оболочка (гипромеллоза (6 cps), макрогол 6000, титана диоксид, тальк, полисорбат 80, диметикон).",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901148007017",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

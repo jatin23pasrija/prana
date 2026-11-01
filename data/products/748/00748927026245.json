@@ -15,12 +15,13 @@
       "unit": "g"
     }
   },
+  "ingredients_raw": "Protein Blend (Whey Protein Isolates, Whey Protein Concentrate, Whey Peptides), Cocoa (Processed with Alkali), Coffee, Natural and Artificial Flavors, Lecithin, Acesulfame Potassium, Aminogen, Sucralose, Lactase. ALLERGEN INFORMATION: CONTAINS MILK AND SOY (LECITHIN) INGREDIENTS.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/0748927026245",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -40,10 +41,14 @@
     "package": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

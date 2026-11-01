@@ -8,12 +8,13 @@
   "countries": [
     "IN"
   ],
+  "ingredients_raw": "Refined Soyabean Oil, Water, Synthetic Vinegar [Water, Acetic Acid (INS260)], Sugar, Emulsifiers and Stabilizers (INS1442, INS1450, INS415), Milk Solids, Iodised Salt, Spices and Condiments, Preservatives (INS211, INS202), Acidity Regulator (INS330), Nature-Identical Flavouring Substances, Antioxidant (INS319) and Sequestrant (INS385). Contains Milk.",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8906069404419",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -25,10 +26,14 @@
     "brand": {
       "source": "s1",
       "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
     }
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

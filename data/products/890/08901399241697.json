@@ -1,0 +1,49 @@
+{
+  "schema_version": 1,
+  "gtin": "08901399241697",
+  "barcode_printed": "8901399241697",
+  "barcode_format": "EAN-13",
+  "name": "Handwash Classic Sandalwood & Tulsi",
+  "brand": "santoor",
+  "countries": [
+    "IN"
+  ],
+  "package": {
+    "quantity": {
+      "value": 215,
+      "unit": "ml"
+    }
+  },
+  "ingredients_raw": "Vater, Sodium Laureth ulfate, Sodium Lauryl 'ulfate, Cocamidopropyl Betaine, Glycerin, Ammonium Lauryl Sulfate, Sodium Chloride, Laura.hide DEA, Perfume, DMDM Hydantoin, Disodium EDTA, PEG 40 Hydrogenated Castor oil, BHT, Triclosan, Citric Acid, Ocimum Sanctum (Tulsi) Extract, Santalum Album (Sandalwood) Extract, CI 19140, CI 16255 Dermatologically tested for safe use on skin.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901399241697",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "package": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

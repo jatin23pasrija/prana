@@ -8,35 +8,13 @@
   "countries": [
     "IN"
   ],
-  "nutrition": [
-    {
-      "basis": "per_serving",
-      "serving": {
-        "description": "50g",
-        "quantity": {
-          "value": 50,
-          "unit": "g"
-        }
-      },
-      "values": {
-        "energy_kcal": 307,
-        "protein_g": 4,
-        "carbohydrate_g": 18,
-        "sugars_g": 0,
-        "fat_g": 24,
-        "saturated_fat_g": 10,
-        "fibre_g": 1,
-        "sodium_mg": 266
-      }
-    }
-  ],
   "ingredients_raw": "Edible Starch, Palm Oil, Potato, Gram Flour, Salt, Dry Mango Powder, Ground Spices, Mint Leaves",
   "sources": [
     {
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8904071703216",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -49,10 +27,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -60,6 +34,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }

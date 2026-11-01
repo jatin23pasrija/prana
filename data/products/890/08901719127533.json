@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "gtin": "08901719127533",
+  "barcode_printed": "8901719127533",
+  "barcode_format": "EAN-13",
+  "name": "Parle Chatkeens Hot n' Spicy Mix",
+  "brand": "parle",
+  "countries": [
+    "IN"
+  ],
+  "ingredients_raw": "CHANA DAL [GRAM PULSE (30%) ], REFINED OIL (S)*, BESAN (GRAM FLOUR), MASUR [ LENTIL (13.%)], PEANUTS (8%), RICE FLOUR, CORN FLOUR, STARCH, SPICES & CONDIMENTS, IODISED SALT, DEHYDRATED PEAS (3.6%), CITRIC ACID.",
+  "sources": [
+    {
+      "id": "s1",
+      "type": "open_database",
+      "url": "https://world.openfoodfacts.org/product/8901719127533",
+      "retrieved_at": "2026-11-01",
+      "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
+    }
+  ],
+  "provenance": {
+    "name": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "brand": {
+      "source": "s1",
+      "confidence": "medium"
+    },
+    "ingredients_raw": {
+      "source": "s1",
+      "confidence": "medium"
+    }
+  },
+  "verification": {
+    "status": "unverified",
+    "last_verified": "2026-11-01"
+  }
+}

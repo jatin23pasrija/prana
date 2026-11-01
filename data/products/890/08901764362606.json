@@ -4,25 +4,10 @@
   "barcode_printed": "8901764362606",
   "barcode_format": "EAN-13",
   "name": "Minute maid",
-  "brand": "coca-cola-company",
+  "brand": "coca-cola",
   "category": "fruit-drink",
   "countries": [
     "IN"
-  ],
-  "nutrition": [
-    {
-      "basis": "per_100g",
-      "values": {
-        "energy_kcal": 52,
-        "protein_g": 0,
-        "carbohydrate_g": 13.1,
-        "sugars_g": 11.5,
-        "fat_g": 0,
-        "saturated_fat_g": 0,
-        "fibre_g": 0,
-        "sodium_mg": 9.6
-      }
-    }
   ],
   "ingredients_raw": "WATER, SUGAR, ORANGE JUICE (10.5%) (RECONSTITUTED FROM ORANGE JUICE CONCENTRATE & ORANGE PULP CELLS), ACIDITY REGULATORS (330, 331(iii)), ANTIOXIDANT (300), COLOURS (110, 102), ORANGE FLAVOURS (NATURAL, NATURE-IDENTICAL AND ARTIFICIAL FLAVOURING SUBSTANCES).",
   "sources": [
@@ -30,7 +15,7 @@
       "id": "s1",
       "type": "open_database",
       "url": "https://world.openfoodfacts.org/product/8901764362606",
-      "retrieved_at": "2026-09-01",
+      "retrieved_at": "2026-11-01",
       "licence": "ODbL-1.0 (database), DbCL-1.0 (contents)"
     }
   ],
@@ -47,10 +32,6 @@
       "source": "s1",
       "confidence": "medium"
     },
-    "nutrition": {
-      "source": "s1",
-      "confidence": "medium"
-    },
     "ingredients_raw": {
       "source": "s1",
       "confidence": "medium"
@@ -58,6 +39,6 @@
   },
   "verification": {
     "status": "unverified",
-    "last_verified": "2026-09-01"
+    "last_verified": "2026-11-01"
   }
 }
